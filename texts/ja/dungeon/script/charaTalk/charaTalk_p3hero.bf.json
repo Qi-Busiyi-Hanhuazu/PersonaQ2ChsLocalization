@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "ここ、何かありそうだね。\n採取してみる？",
+    "translation": "ここ、何かありそうだね。\n採取してみる？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そうだね。\n気を抜かずに探そう。",
+    "translation": "そうだね。\n気を抜かずに探そう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うん。\nしっかり探してみよう。",
+    "translation": "うん。\nしっかり探してみよう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "気が向いたらまた調べよう。",
+    "translation": "気が向いたらまた調べよう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで終わりみたいだ。",
+    "translation": "これで終わりみたいだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ふう～…",
+    "translation": "ふう～…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いいね。",
+    "translation": "いいね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん！",
+    "translation": "うん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ふぅ…\nここでの採取はもう終わりかな。",
+    "translation": "ふぅ…\nここでの採取はもう終わりかな。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "凄いね！",
+    "translation": "凄いね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "珍しいな。",
+    "translation": "珍しいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "おめでとう！",
+    "translation": "おめでとう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "近道になりそうだね。\n通ってみる？",
+    "translation": "近道になりそうだね。\n通ってみる？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないみたいだね…",
+    "translation": "こっちは通れないみたいだね…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "すごく危険な気配がするね…\nどうする？",
+    "translation": "すごく危険な気配がするね…\nどうする？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かった。\n気をつけて調べよう。",
+    "translation": "分かった。\n気をつけて調べよう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだね。\n止めておこうか。",
+    "translation": "そうだね。\n止めておこうか。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "かなりの強敵だったね…",
+    "translation": "かなりの強敵だったね…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "この辺、なんだか\nシャドウの気配が多いような…？",
+    "translation": "この辺、なんだか\nシャドウの気配が多いような…？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "分かった。\n気をつけて調べよう。",
+    "translation": "分かった。\n気をつけて調べよう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだね。\n止めておこう。",
+    "translation": "そうだね。\n止めておこう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "これで終わりかな？",
+    "translation": "これで終わりかな？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから戻れるみたいだね。\nどうする？",
+    "translation": "ここから戻れるみたいだね。\nどうする？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

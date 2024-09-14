@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "待った、反応そっちじゃない。\n反対方向だ。",
+    "translation": "待った、反応そっちじゃない。\n反対方向だ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん、先にケガした子を見つけないと。\nここからだと…東かな。",
+    "translation": "うん、先にケガした子を見つけないと。\nここからだと…東かな。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "こっちの方角だね。\n心配だし、急いで行きましょう。",
+    "translation": "こっちの方角だね。\n心配だし、急いで行きましょう。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

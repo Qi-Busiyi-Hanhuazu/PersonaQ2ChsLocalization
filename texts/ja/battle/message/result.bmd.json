@@ -1,0 +1,128 @@
+[
+  {
+    "key": "BTLMSGID_RESULT00_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT00_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT01_0",
+    "original": "＞[占位A 01]のレベルが上がった！",
+    "translation": "＞[占位A 01]のレベルが上がった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT02_0",
+    "original": "＞[占位A 01]が[占位A 02]上がった！",
+    "translation": "＞[占位A 01]が[占位A 02]上がった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT03_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を覚えた！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を覚えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT04_0",
+    "original": "＞スキルが一杯です。\n　消すスキルを選んでください。",
+    "translation": "＞スキルが一杯です。\n　消すスキルを選んでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT05_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』を消しますか？",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』を消しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT06_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を忘れた。",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を忘れた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT07_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』を\n　『[颜色 02][占位A 02][颜色 01]』に入れ替えた。",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』を\n　『[颜色 02][占位A 02][颜色 01]』に入れ替えた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT08_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』が\n　『[颜色 02][占位A 02][颜色 01]』に\n　グレードアップした！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』が\n　『[颜色 02][占位A 02][颜色 01]』に\n　グレードアップした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT09_0",
+    "original": "＞[占位A 02]に何かが起こりそうだ……",
+    "translation": "＞[占位A 02]に何かが起こりそうだ……",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT10_0",
+    "original": "＞[占位A 01]の泣き声を聞いた…",
+    "translation": "＞[占位A 01]の泣き声を聞いた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT21_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』の\n　スキル枠が増加した！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』の\n　スキル枠が増加した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT22_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』に転生した！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』に転生した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT23_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』に秘められた\n　可能性が芽生えたようだ…！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』に秘められた\n　可能性が芽生えたようだ…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT25_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』はその姿のまま、\n　より強い力を身に付けた！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』はその姿のまま、\n　より強い力を身に付けた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT26_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』に\n　転生したことで新たな力が目覚める！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』に\n　転生したことで新たな力が目覚める！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RESULT27_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』は\n　グレードアップした！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』は\n　グレードアップした！",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "text_000_0",
+    "original": "パーティを編成します",
+    "translation": "编辑队伍。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n组织队伍\n\n组织一个队伍。"
+  },
+  {
+    "key": "text_001_0",
+    "original": "編成したパーティを登録します",
+    "translation": "登录已编辑的队伍。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n注册已组织的交易方\n\n注册组织的队伍。"
+  },
+  {
+    "key": "text_002_0",
+    "original": "登録したパーティ呼び出します",
+    "translation": "调用已登录的队伍。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n调用已注册的交易方\n\n注册的队伍呼叫。"
+  },
+  {
+    "key": "text_003_0",
+    "original": "ナビの設定をします",
+    "translation": "设置导航。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n设置导航\n\n设置导航系统。"
+  }
+]

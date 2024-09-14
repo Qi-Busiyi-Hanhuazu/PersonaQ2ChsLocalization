@@ -1,0 +1,37 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "楽勝！",
+    "translation": "楽勝！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "まあ、腕試しにはちょうどよかった。\n戻ったらフィードバックを頼む、クイーン！",
+    "translation": "まあ、腕試しにはちょうどよかった。\n戻ったらフィードバックを頼む、クイーン！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "よーし、帰るぞー！",
+    "translation": "よーし、帰るぞー！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,772 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "[P3全]。\nよろしくね。",
+    "translation": "[P3全]。\nよろしくね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "それで、君がここにいるみんなを\n引っ張っているんだよね？",
+    "translation": "それで、君がここにいるみんなを\n引っ張っているんだよね？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "このまま引き続き、リーダーとして\n僕への指示も頼めるかな？",
+    "translation": "このまま引き続き、リーダーとして\n僕への指示も頼めるかな？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "任せてくれ",
+    "translation": "任せてくれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "どうでもいい",
+    "translation": "どうでもいい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ありがとう、君に任せるよ。",
+    "translation": "ありがとう、君に任せるよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "みんなも、それで問題はないよね？",
+    "translation": "みんなも、それで問題はないよね？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ああ、此処ではこちらが新参者だ。\n彼らのやり方に倣わせてもらおう。",
+    "translation": "ああ、此処ではこちらが新参者だ。\n彼らのやり方に倣わせてもらおう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "コロマルも賛成って言ってますよ。\n僕も異議はありません。",
+    "translation": "コロマルも賛成って言ってますよ。\n僕も異議はありません。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うわ。その言い方、\nなんかうちのリーダーっぽい！",
+    "translation": "うわ。その言い方、\nなんかうちのリーダーっぽい！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そう？\n僕、そんなこと言ってた？",
+    "translation": "そう？\n僕、そんなこと言ってた？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "無自覚かよ！",
+    "translation": "無自覚かよ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "まあ、とにかく。\n指示は君に任せるよ。",
+    "translation": "まあ、とにかく。\n指示は君に任せるよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "さて…少し話を整理しないとね。\n僕と、彼女について。",
+    "translation": "さて…少し話を整理しないとね。\n僕と、彼女について。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "[P3P名]ちゃんは皆を知ってるけど、\nゆかりちゃん達は知らない…だっけ？",
+    "translation": "[P3P名]ちゃんは皆を知ってるけど、\nゆかりちゃん達は知らない…だっけ？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "うん。私が知らないのは\n[P3名]くんだけ…のはずなんだけど…",
+    "translation": "うん。私が知らないのは\n[P3名]くんだけ…のはずなんだけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "でも、初めて見た時…[P3名]くんが\n他人じゃない気がしたっていうか。",
+    "translation": "でも、初めて見た時…[P3名]くんが\n他人じゃない気がしたっていうか。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_2",
+    "original": "うまく説明できないんだけど、すごく\n懐かしいような、そんな気持ちだったの。",
+    "translation": "うまく説明できないんだけど、すごく\n懐かしいような、そんな気持ちだったの。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "おおっ～と！\nもしやこれは、愛の告白！？",
+    "translation": "おおっ～と！\nもしやこれは、愛の告白！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ハァ…男って、すーぐそういう考えに\nなるよね。単純すぎ。",
+    "translation": "ハァ…男って、すーぐそういう考えに\nなるよね。単純すぎ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "しっかし、[P3名]も\n[P3P名]のこと分からないんでしょ？",
+    "translation": "しっかし、[P3名]も\n[P3P名]のこと分からないんでしょ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "もう手がかりゼロじゃん？\nお手上げ侍だわ。",
+    "translation": "もう手がかりゼロじゃん？\nお手上げ侍だわ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "よく分からんが…青い服の人たちは、\n本来会うはずがなかった…と言っていたな。",
+    "translation": "よく分からんが…青い服の人たちは、\n本来会うはずがなかった…と言っていたな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "でも、僕も[P3P名]と\n同じなんだ。",
+    "translation": "でも、僕も[P3P名]と\n同じなんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "会ったことも話したこともないのに…\nどうしてかな、知ってるような気がして。",
+    "translation": "会ったことも話したこともないのに…\nどうしてかな、知ってるような気がして。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "それ、私たちも同じなんだよね。\nみんな、初めて会った気がしなくて…",
+    "translation": "それ、私たちも同じなんだよね。\nみんな、初めて会った気がしなくて…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "彼女の世界では、特別課外活動部に\n僕だけいなかった…ということは。",
+    "translation": "彼女の世界では、特別課外活動部に\n僕だけいなかった…ということは。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "僕は彼女で、彼女は僕…とか？",
+    "translation": "僕は彼女で、彼女は僕…とか？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ちょっ？\nいきなりなに言ってんの！？",
+    "translation": "ちょっ？\nいきなりなに言ってんの！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "フムフム…つまり、クマは美少年で、\n美少年はクマっていうのと同じクマ？",
+    "translation": "フムフム…つまり、クマは美少年で、\n美少年はクマっていうのと同じクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "だーっ！　話ややこしくすんな！",
+    "translation": "だーっ！　話ややこしくすんな！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "私は彼で、彼は私…？",
+    "translation": "私は彼で、彼は私…？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_026_0",
+    "original": "きっとそうだ",
+    "translation": "きっとそうだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_026_1",
+    "original": "ワケがわからない",
+    "translation": "ワケがわからない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_026_2",
+    "original": "両想いだな",
+    "translation": "両想いだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "おおお！\n一心同体っちゅーことクマ？",
+    "translation": "おおお！\n一心同体っちゅーことクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "もう、うぶクマね…\nこれぞ、まさに一心同体宣言！",
+    "translation": "もう、うぶクマね…\nこれぞ、まさに一心同体宣言！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "キャー！\n電撃の、一心同体宣言クマ！",
+    "translation": "キャー！\n電撃の、一心同体宣言クマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ヒュ～ヒュ～！\nお二人さん、お熱いですぞ～！",
+    "translation": "ヒュ～ヒュ～！\nお二人さん、お熱いですぞ～！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "違う世界に生きる、思春期の男と女。\n二人は、決して巡り合うはずなどなかった。",
+    "translation": "違う世界に生きる、思春期の男と女。\n二人は、決して巡り合うはずなどなかった。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_031_1",
+    "original": "しかし、運命のいたずらにより\n彼らは出会ってしまったのだった…！",
+    "translation": "しかし、運命のいたずらにより\n彼らは出会ってしまったのだった…！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "オイ、茶化してる場合か。",
+    "translation": "オイ、茶化してる場合か。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_032_1",
+    "original": "それにこれは[P3姓]らだけの\n問題じゃないんだぞ。真面目に考えろ。",
+    "translation": "それにこれは[P3姓]らだけの\n問題じゃないんだぞ。真面目に考えろ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "うーん…あの青い服の人たちなら、\n何か知ってそうだけど…",
+    "translation": "うーん…あの青い服の人たちなら、\n何か知ってそうだけど…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ベルベットルームの方々ですね。",
+    "translation": "ベルベットルームの方々ですね。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "アイギスさん！？",
+    "translation": "アイギスさん！？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "おい、身体はもう平気なのか？",
+    "translation": "おい、身体はもう平気なのか？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "はい、すっかり回復しました。\nご心配をおかけしたであります。",
+    "translation": "はい、すっかり回復しました。\nご心配をおかけしたであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "よかった。これで、こちらのメンバーも\n全員無事ですね。",
+    "translation": "よかった。これで、こちらのメンバーも\n全員無事ですね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "失礼いたします。ご友人の快癒に\n歓喜しているところ、申し訳ございません。",
+    "translation": "失礼いたします。ご友人の快癒に\n歓喜しているところ、申し訳ございません。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "なにやら呼ばれたような気配を察知し、\n我々、馳せ参じました。",
+    "translation": "なにやら呼ばれたような気配を察知し、\n我々、馳せ参じました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "エリザベス…何か知ってるの？\n僕たちのこと。",
+    "translation": "エリザベス…何か知ってるの？\n僕たちのこと。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "いいえ。残念ながら、\n詳しいことは存じ上げませんが…",
+    "translation": "いいえ。残念ながら、\n詳しいことは存じ上げませんが…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_042_1",
+    "original": "[P3P姓]様が、ベルベットルームを\n通じてやってこられた…ということは。",
+    "translation": "[P3P姓]様が、ベルベットルームを\n通じてやってこられた…ということは。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "この事象には意味がある。\n意味のないことなど起きない…ですか？",
+    "translation": "この事象には意味がある。\n意味のないことなど起きない…ですか？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "その通りよ。",
+    "translation": "その通りよ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_044_1",
+    "original": "この出会いが『必然』なら、\n自ずとその理由も姿を現すでしょう。",
+    "translation": "この出会いが『必然』なら、\n自ずとその理由も姿を現すでしょう。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "この出会いが、必然…",
+    "translation": "この出会いが、必然…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "異なる次元から来た者たちが、\nひとつの場所に集った意味…か。",
+    "translation": "異なる次元から来た者たちが、\nひとつの場所に集った意味…か。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_046_1",
+    "original": "正直、私にはまだ理解できんが…\nこれだけは分かる。",
+    "translation": "正直、私にはまだ理解できんが…\nこれだけは分かる。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_046_2",
+    "original": "この映画館から出るためには、\nここにいる全員の力が必要だ。",
+    "translation": "この映画館から出るためには、\nここにいる全員の力が必要だ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_046_3",
+    "original": "…[P3P姓]、もちろん君の力も。\n共に闘ってくれるか？",
+    "translation": "…[P3P姓]、もちろん君の力も。\n共に闘ってくれるか？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "美鶴先輩…！",
+    "translation": "美鶴先輩…！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "へへっ、いいカンジにまとまったな。",
+    "translation": "へへっ、いいカンジにまとまったな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "これだけワイルドの素養を持った者が\n集まるとは…これもまた壮観ですね。",
+    "translation": "これだけワイルドの素養を持った者が\n集まるとは…これもまた壮観ですね。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "うおっ、お前らいたのかよ！？\nちっこくて見えなかったぜ…",
+    "translation": "うおっ、お前らいたのかよ！？\nちっこくて見えなかったぜ…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "誰がチビだ！\n口を慎め、この金髪ゴリラ！！",
+    "translation": "誰がチビだ！\n口を慎め、この金髪ゴリラ！！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "ああっ！？",
+    "translation": "ああっ！？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "ぷっ…くく…完二くん、ゴリラって…\nくっ…あは、あはははは！",
+    "translation": "ぷっ…くく…完二くん、ゴリラって…\nくっ…あは、あはははは！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "ふふっ。わ、笑ったらダメだよ、\n雪子ちゃん…ふふふ。",
+    "translation": "ふふっ。わ、笑ったらダメだよ、\n雪子ちゃん…ふふふ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "…ふふっ。",
+    "translation": "…ふふっ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "みんなひでーっス…",
+    "translation": "みんなひでーっス…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "静かすぎる程の映画館でしたのに…\n皆さんがいらして、賑やかになりましたね。",
+    "translation": "静かすぎる程の映画館でしたのに…\n皆さんがいらして、賑やかになりましたね。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "これはリーダーの統率力が試されるな。\n囚人、仲間たちをしっかり束ねろよ！",
+    "translation": "これはリーダーの統率力が試されるな。\n囚人、仲間たちをしっかり束ねろよ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "SEL_059_0",
+    "original": "わかってる",
+    "translation": "わかってる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_059_1",
+    "original": "荷が重い",
+    "translation": "荷が重い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "口ではなんとでも言えるもの。\n態度で示しなさい。",
+    "translation": "口ではなんとでも言えるもの。\n態度で示しなさい。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "怠慢は許しませんよ。",
+    "translation": "怠慢は許しませんよ。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_062_0",
+    "original": "新しく仲間も加わったんだ。",
+    "translation": "新しく仲間も加わったんだ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_062_1",
+    "original": "映画の中に行く前に、\nしっかり準備しとこうぜ。",
+    "translation": "映画の中に行く前に、\nしっかり準備しとこうぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

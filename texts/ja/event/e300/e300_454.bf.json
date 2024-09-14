@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ううん…",
+    "translation": "ううん…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "この扉、ロックされているみたいです。\n通れそうにないですね…",
+    "translation": "この扉、ロックされているみたいです。\n通れそうにないですね…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "でも、他に道なんて…",
+    "translation": "でも、他に道なんて…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "コロマルさんは\nダクトがある、と言っています。",
+    "translation": "コロマルさんは\nダクトがある、と言っています。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "う…やっぱりダクト通るの？",
+    "translation": "う…やっぱりダクト通るの？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "慣れちゃえば、意外と平気よ？",
+    "translation": "慣れちゃえば、意外と平気よ？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あはは…\n慣れるのもどうかと思うけどね。",
+    "translation": "あはは…\n慣れるのもどうかと思うけどね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "行くと決まれば、すぐ実行だ。\nダクトに戻るぞ！",
+    "translation": "行くと決まれば、すぐ実行だ。\nダクトに戻るぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

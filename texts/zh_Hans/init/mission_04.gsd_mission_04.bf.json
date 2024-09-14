@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_MATHURI_B5_BOSS_DOOR_0",
+    "original": "＞この先に張り詰めた空気を感じる…",
+    "translation": "＞前方的气氛很紧张……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞前方的气氛很紧张……\n\n＞感觉到前方紧张的空气……\n\n＞感觉到前面紧张的空气……"
+  },
+  {
+    "key": "MSG_MATHURI_B5_BOSS_DOOR_1",
+    "original": "＞どうしようか…",
+    "translation": "＞该怎么办呢……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞该怎么办呢……\n\n＞怎么办呢……"
+  },
+  {
+    "key": "SEL_MATHURI_B5_BOSS_DOOR_0",
+    "original": "先に進む",
+    "translation": "继续前进",
+    "stage": 0,
+    "context": "机翻辅助：\n\n继续前进\n\n前进\n\n往前走"
+  },
+  {
+    "key": "SEL_MATHURI_B5_BOSS_DOOR_1",
+    "original": "今はやめておく",
+    "translation": "现在先不前进",
+    "stage": 0,
+    "context": "机翻辅助：\n\n现在先不前进\n\n现在不干了\n\n现在不做"
+  },
+  {
+    "key": "MSG_MATSURI_TOWNIN_VARIA_0",
+    "original": "＞校内の様子が変わっている…",
+    "translation": "＞校内的样子改变了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞校内的样子改变了……\n\n＞校内的情况发生了变化……\n\n＞校内的情形正在改变……"
+  },
+  {
+    "key": "MSG_MATSURI_TOWNIN_VARIA_1",
+    "original": "＞時計塔のせいだろうか…",
+    "translation": "＞是时钟塔的关系吗……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞是时钟塔的关系吗……\n\n＞是钟塔的原因吗……\n\n＞是钟塔的缘故吧……"
+  }
+]

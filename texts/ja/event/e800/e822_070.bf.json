@@ -1,0 +1,604 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お疲れさまでございました。",
+    "translation": "お疲れさまでございました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "敵を千切っては投げ、千切っては投げ…\n皆さまの活躍に私も興奮冷めやりません。",
+    "translation": "敵を千切っては投げ、千切っては投げ…\n皆さまの活躍に私も興奮冷めやりません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "ではこちら、今回の報酬でございます。",
+    "translation": "ではこちら、今回の報酬でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やりましたね！",
+    "translation": "やりましたね！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おう、こんだけやれりゃ、\n怪盗見習いとしては十分だな！",
+    "translation": "おう、こんだけやれりゃ、\n怪盗見習いとしては十分だな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "見習い…",
+    "translation": "見習い…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ネコの見習いじゃ盛り上がんねえだろ？\nっつーわけで、天田は俺の弟子な。",
+    "translation": "ネコの見習いじゃ盛り上がんねえだろ？\nっつーわけで、天田は俺の弟子な。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "オマエが師匠ヅラすんじゃねえ！\n脳みそスカルのクセに！",
+    "translation": "オマエが師匠ヅラすんじゃねえ！\n脳みそスカルのクセに！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "言ったな、テメ！\nつか、脳みそスカルってなんだよ！？",
+    "translation": "言ったな、テメ！\nつか、脳みそスカルってなんだよ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "まーた始まった…乾くんの前だし、\n[P5名]も何か言ってよ。",
+    "translation": "まーた始まった…乾くんの前だし、\n[P5名]も何か言ってよ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "見苦しい",
+    "translation": "見苦しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "仲がいいな",
+    "translation": "仲がいいな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_2",
+    "original": "自分の弟子だ",
+    "translation": "自分の弟子だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ホント、それ。",
+    "translation": "ホント、それ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "もうちょい年長者としての\n自覚も持ってほしいんだけど。",
+    "translation": "もうちょい年長者としての\n自覚も持ってほしいんだけど。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "うっ…すまねえ…\nワガハイとしたことがつい…",
+    "translation": "うっ…すまねえ…\nワガハイとしたことがつい…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "誰が！",
+    "translation": "誰が！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "どこが！？",
+    "translation": "どこが！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "息ピッタシ…",
+    "translation": "息ピッタシ…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "オマエまで！？",
+    "translation": "オマエまで！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "なあ、もうこれ怪盗団の弟子ってことで\n良くね？",
+    "translation": "なあ、もうこれ怪盗団の弟子ってことで\n良くね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ぷっ、くく…",
+    "translation": "ぷっ、くく…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "乾くん？",
+    "translation": "乾くん？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "あ、ごめんなさい…\nその、皆さん本当に仲がいいなと思って。",
+    "translation": "あ、ごめんなさい…\nその、皆さん本当に仲がいいなと思って。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "仲いいっつーか、こんなやつでも\n一応、信頼はしてるし…",
+    "translation": "仲いいっつーか、こんなやつでも\n一応、信頼はしてるし…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "結局、怪盗団ってチームなんだよ。",
+    "translation": "結局、怪盗団ってチームなんだよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_019_2",
+    "original": "一人で突っ走っても\n出来ねえ事ばっかだからな。",
+    "translation": "一人で突っ走っても\n出来ねえ事ばっかだからな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ほう、リュージもたまには良いコト言う。",
+    "translation": "ほう、リュージもたまには良いコト言う。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "『たまに』は余計だ。",
+    "translation": "『たまに』は余計だ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "…皆さんのお話で、怪盗団のこと、\nちょっとわかった気がします。",
+    "translation": "…皆さんのお話で、怪盗団のこと、\nちょっとわかった気がします。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "漫画やアニメで想像してたのとは違う。\nもっと信念を持った人たちなんだなって。",
+    "translation": "漫画やアニメで想像してたのとは違う。\nもっと信念を持った人たちなんだなって。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "なあ、天田…",
+    "translation": "なあ、天田…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "お前が怪盗団に興味持ってたのって、\nひょっとして…",
+    "translation": "お前が怪盗団に興味持ってたのって、\nひょっとして…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_024_0",
+    "original": "改心させたい人がいる？",
+    "translation": "改心させたい人がいる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_1",
+    "original": "怪盗団に依頼か？",
+    "translation": "怪盗団に依頼か？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_2",
+    "original": "コスチューム狙い？",
+    "translation": "コスチューム狙い？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "えっ！？",
+    "translation": "えっ！？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "そうじゃねえって。",
+    "translation": "そうじゃねえって。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "天田、お前、ホントは改心させたい\nヤツがいんじゃねえの？",
+    "translation": "天田、お前、ホントは改心させたい\nヤツがいんじゃねえの？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "それは…",
+    "translation": "それは…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "…許せねえヤツなのか？",
+    "translation": "…許せねえヤツなのか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "言ったよな。\n俺たちが怪盗になった切っ掛け。",
+    "translation": "言ったよな。\n俺たちが怪盗になった切っ掛け。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "許せない大人がいたからって。\n要は復讐なんだよ。",
+    "translation": "許せない大人がいたからって。\n要は復讐なんだよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "復讐…",
+    "translation": "復讐…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "褒められたことじゃないとは思う。",
+    "translation": "褒められたことじゃないとは思う。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_032_1",
+    "original": "けど、あの選択が間違ってたなんて\n私は思わない。",
+    "translation": "けど、あの選択が間違ってたなんて\n私は思わない。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_032_2",
+    "original": "それで救われた人たちがいるって\n信じてるから。",
+    "translation": "それで救われた人たちがいるって\n信じてるから。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "自分じゃなく、誰かのために力を使う…",
+    "translation": "自分じゃなく、誰かのために力を使う…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "それがワガハイたちが信じる、\n怪盗団の正義ってヤツだ。",
+    "translation": "それがワガハイたちが信じる、\n怪盗団の正義ってヤツだ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "自分じゃない誰かのための正義…\nやっぱり怪盗団は凄いですね。",
+    "translation": "自分じゃない誰かのための正義…\nやっぱり怪盗団は凄いですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_035_0",
+    "original": "天田にも出来る",
+    "translation": "天田にも出来る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_035_1",
+    "original": "そのうちわかる",
+    "translation": "そのうちわかる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_035_2",
+    "original": "怪盗の心得だ",
+    "translation": "怪盗の心得だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "そうだよ。乾くんの力だって、\nきっと誰かを救えるはず。",
+    "translation": "そうだよ。乾くんの力だって、\nきっと誰かを救えるはず。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "ああ。\n今すぐは難しくても、きっとな。",
+    "translation": "ああ。\n今すぐは難しくても、きっとな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_037_1",
+    "original": "なんせオマエは怪盗の素質がある。\nワガハイが保証してやるぜ。",
+    "translation": "なんせオマエは怪盗の素質がある。\nワガハイが保証してやるぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "オマエが怪盗に憧れてるってんなら、\nちゃーんと学んでおけよ？",
+    "translation": "オマエが怪盗に憧れてるってんなら、\nちゃーんと学んでおけよ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "お前の事情は分かんねえけどさ…\n急ぐことないんじゃねえか？",
+    "translation": "お前の事情は分かんねえけどさ…\n急ぐことないんじゃねえか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_039_1",
+    "original": "どうするかはお前の正義が\n見えてからでもよ。",
+    "translation": "どうするかはお前の正義が\n見えてからでもよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "僕の正義…",
+    "translation": "僕の正義…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_040_1",
+    "original": "…そう、ですね。僕も、考えたい。\nもっと考えて、どうするか決めたいです。",
+    "translation": "…そう、ですね。僕も、考えたい。\nもっと考えて、どうするか決めたいです。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "へっ、すっかりいい顔じゃねえか。",
+    "translation": "へっ、すっかりいい顔じゃねえか。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "あ、あの、皆さん、\nありがとうございました！",
+    "translation": "あ、あの、皆さん、\nありがとうございました！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_042_1",
+    "original": "こういう話、あんまり聞いてもらうこと\nなかったから…",
+    "translation": "こういう話、あんまり聞いてもらうこと\nなかったから…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "言ったろ？　一人で突っ走ったって\n出来ねえことだらけだって。",
+    "translation": "言ったろ？　一人で突っ走ったって\n出来ねえことだらけだって。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_043_1",
+    "original": "お前は、その…昔の俺にちょっと\n似てる所あるから危なっかしくてよ…",
+    "translation": "お前は、その…昔の俺にちょっと\n似てる所あるから危なっかしくてよ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_044_0",
+    "original": "どこが？",
+    "translation": "どこが？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_044_1",
+    "original": "似てない",
+    "translation": "似てない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_044_2",
+    "original": "鏡を見ろ",
+    "translation": "鏡を見ろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "見た目じゃねえ！\nなんつーか…雰囲気だよ。",
+    "translation": "見た目じゃねえ！\nなんつーか…雰囲気だよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_045_1",
+    "original": "誰も頼れねえ、みてーな。\n世間テキに回してる感じっつーか…",
+    "translation": "誰も頼れねえ、みてーな。\n世間テキに回してる感じっつーか…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "意外…",
+    "translation": "意外…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "竜司が鋭いだと…？\nこりゃ、明日は雪でも降るんじゃないか？",
+    "translation": "竜司が鋭いだと…？\nこりゃ、明日は雪でも降るんじゃないか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "だぁあ！\nなんでそうなるんだよ！？",
+    "translation": "だぁあ！\nなんでそうなるんだよ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "フフッ…\nほんと僕はまだまだ見習いレベルですね。",
+    "translation": "フフッ…\nほんと僕はまだまだ見習いレベルですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_049_1",
+    "original": "でも、僕もいつか皆さんみたいに\n自分の信じる正義のために力を使えたらな…",
+    "translation": "でも、僕もいつか皆さんみたいに\n自分の信じる正義のために力を使えたらな…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "ケン…",
+    "translation": "ケン…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "きっと、乾くんならできるよ。",
+    "translation": "きっと、乾くんならできるよ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "ああ、期待してるぜ！",
+    "translation": "ああ、期待してるぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "はい！",
+    "translation": "はい！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

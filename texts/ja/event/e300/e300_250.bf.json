@@ -1,0 +1,583 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "うおおおおおーこれは…\nすごい光景だな！",
+    "translation": "うおおおおおーこれは…\nすごい光景だな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ここ…昔は人間が使っていた\n施設なんでしょうか。",
+    "translation": "ここ…昔は人間が使っていた\n施設なんでしょうか。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おそらくは、ね。",
+    "translation": "おそらくは、ね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "今はここでロボットが、ロボットを\n生み出しているようだけど。",
+    "translation": "今はここでロボットが、ロボットを\n生み出しているようだけど。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "すっご…\nマジでＳＦ映画みたいじゃん！",
+    "translation": "すっご…\nマジでＳＦ映画みたいじゃん！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "みたいもなにも、ＳＦ映画だろ。",
+    "translation": "みたいもなにも、ＳＦ映画だろ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そういやＳＦ映画って、\nどういうヤツなんスか？",
+    "translation": "そういやＳＦ映画って、\nどういうヤツなんスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "だから、これだよ、これ！\n俺らが今見てるのが、ＳＦだっての！",
+    "translation": "だから、これだよ、これ！\n俺らが今見てるのが、ＳＦだっての！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ほうほう。で、ＳＦ世界には\nアイスとかジュースは売ってるクマ？",
+    "translation": "ほうほう。で、ＳＦ世界には\nアイスとかジュースは売ってるクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "知らねーよ！　てか、我慢しろ！",
+    "translation": "知らねーよ！　てか、我慢しろ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "…なあ、花村って\n実はすげえツッコミキャラ？",
+    "translation": "…なあ、花村って\n実はすげえツッコミキャラ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "言われてみれば、親のカタキみたいに\nひたすらツッコんでるよね。",
+    "translation": "言われてみれば、親のカタキみたいに\nひたすらツッコんでるよね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "しょーがねーだろ！　ほっとくと\nどんどん暴走してく奴らなんだから！",
+    "translation": "しょーがねーだろ！　ほっとくと\nどんどん暴走してく奴らなんだから！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "ツッコミたい気持ち、\n分かってくれるだろ、ジョーカー？",
+    "translation": "ツッコミたい気持ち、\n分かってくれるだろ、ジョーカー？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "SEL_012_0",
+    "original": "分かる",
+    "translation": "分かる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_012_1",
+    "original": "分からない",
+    "translation": "分からない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_012_2",
+    "original": "ジョーカーって誰？",
+    "translation": "ジョーカーって誰？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "だろ？　もうマジで…",
+    "translation": "だろ？　もうマジで…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "もうちょっと一緒にいりゃ、\n嫌でも分かるようになるぜ…",
+    "translation": "もうちょっと一緒にいりゃ、\n嫌でも分かるようになるぜ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "お前だよっ！　仮面剥ぐぞ！",
+    "translation": "お前だよっ！　仮面剥ぐぞ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "でも、陽介のおかげで\n円滑に話が進むことは多い。",
+    "translation": "でも、陽介のおかげで\n円滑に話が進むことは多い。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "さすが相棒…！\nオレの苦労、分かってくれるか！",
+    "translation": "さすが相棒…！\nオレの苦労、分かってくれるか！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "人が集まりゃ、苦労もあんだろ。\n千差万別だからな。",
+    "translation": "人が集まりゃ、苦労もあんだろ。\n千差万別だからな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "特別課外活動部の皆さんも、\nかなり個性豊かですよね。",
+    "translation": "特別課外活動部の皆さんも、\nかなり個性豊かですよね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "僕らにとってはこれが普通でも、\n外から見たら珍しいのかもしれませんね。",
+    "translation": "僕らにとってはこれが普通でも、\n外から見たら珍しいのかもしれませんね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "色んな人がいて、ちょっと面白いです。",
+    "translation": "色んな人がいて、ちょっと面白いです。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ああ。ここで出会ったペルソナ使いたちは、\nみんな個性的で興味深い。",
+    "translation": "ああ。ここで出会ったペルソナ使いたちは、\nみんな個性的で興味深い。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "自分がいかに平凡か思い知らされた。",
+    "translation": "自分がいかに平凡か思い知らされた。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_022_0",
+    "original": "平凡…？",
+    "translation": "平凡…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_022_1",
+    "original": "そうだな",
+    "translation": "そうだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_022_2",
+    "original": "お前は何を言っているんだ",
+    "translation": "お前は何を言っているんだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "どの口が言ってんだ！？",
+    "translation": "どの口が言ってんだ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "フォックスは平凡どころか、\nかなり特殊よね。",
+    "translation": "フォックスは平凡どころか、\nかなり特殊よね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "何ッ！？　そうなのか？",
+    "translation": "何ッ！？　そうなのか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "自覚なかったんだ…\nまあけど、個性的な人ってそんなもんか…",
+    "translation": "自覚なかったんだ…\nまあけど、個性的な人ってそんなもんか…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ああ、俺もみんなを見習って\nもっと尖らねばな。",
+    "translation": "ああ、俺もみんなを見習って\nもっと尖らねばな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "いや、もう十分尖りまくってるから。\nぶっちゃけ、個性の塊でしょ。",
+    "translation": "いや、もう十分尖りまくってるから。\nぶっちゃけ、個性の塊でしょ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "何かおかしなことを言ったか？",
+    "translation": "何かおかしなことを言ったか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "フォックスは平凡どころか\nかなり突飛だと思うけど。",
+    "translation": "フォックスは平凡どころか\nかなり突飛だと思うけど。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "何ッ！？　そうなのか？",
+    "translation": "何ッ！？　そうなのか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "自覚なかったんだ…\nまあけど、個性的な人ってそんなもんか…",
+    "translation": "自覚なかったんだ…\nまあけど、個性的な人ってそんなもんか…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "俺からすれば、みんなの方が\n個性豊かに思えたんだがな。",
+    "translation": "俺からすれば、みんなの方が\n個性豊かに思えたんだがな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "だが、芸術に個性は不可欠だ。\n褒め言葉と受け取らせてもらうぞ。",
+    "translation": "だが、芸術に個性は不可欠だ。\n褒め言葉と受け取らせてもらうぞ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "でも、この世界じゃ個性は\n褒められることじゃないんだよね…？",
+    "translation": "でも、この世界じゃ個性は\n褒められることじゃないんだよね…？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "…ハイ、個を持ツことはえらーデス。\nホカと違ウことはヨクナイことデス。",
+    "translation": "…ハイ、個を持ツことはえらーデス。\nホカと違ウことはヨクナイことデス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "個体ゴトに個を持テバ、世界の調和は乱レ、\n管理コストが膨大になりマス。",
+    "translation": "個体ゴトに個を持テバ、世界の調和は乱レ、\n管理コストが膨大になりマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_035_2",
+    "original": "個性は、社会にとって悪…\nソノように、プログラムされてイマス。",
+    "translation": "個性は、社会にとって悪…\nソノように、プログラムされてイマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "そら、指導者にとっちゃ\n合理的だろうけどよ…",
+    "translation": "そら、指導者にとっちゃ\n合理的だろうけどよ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "他と違ったり、変わってたりするだけで、\n存在しちゃいけないなんて…",
+    "translation": "他と違ったり、変わってたりするだけで、\n存在しちゃいけないなんて…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_037_1",
+    "original": "…そんなの、勝手に『普通』を定義してる\n誰かの押し付けだ！",
+    "translation": "…そんなの、勝手に『普通』を定義してる\n誰かの押し付けだ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "ナビ…",
+    "translation": "ナビ…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "同感だ…それに、無個性で均一な世界など\nすべてが予定調和で、面白みがない。",
+    "translation": "同感だ…それに、無個性で均一な世界など\nすべてが予定調和で、面白みがない。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "ですが、ココではワタシは、\nえらーには違イナイのデス。",
+    "translation": "ですが、ココではワタシは、\nえらーには違イナイのデス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "SEL_041_0",
+    "original": "エラーじゃない",
+    "translation": "エラーじゃない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_041_1",
+    "original": "指導者がおかしい",
+    "translation": "指導者がおかしい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "ソウナノですカ…？",
+    "translation": "ソウナノですカ…？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "ああ、こんな変なルール決めたヤツが\n間違ってるって。",
+    "translation": "ああ、こんな変なルール決めたヤツが\n間違ってるって。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "全く…ご立派な指導者様だ。\nお国のためなら、民などどうでもいいか。",
+    "translation": "全く…ご立派な指導者様だ。\nお国のためなら、民などどうでもいいか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "あー…考えてたら、腹立ってきた！\n早いとこ蹴り入れて、こらしめてやりたい！",
+    "translation": "あー…考えてたら、腹立ってきた！\n早いとこ蹴り入れて、こらしめてやりたい！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "賛成だ。\nわたし達で、面白い映画に作り変えるべし！",
+    "translation": "賛成だ。\nわたし達で、面白い映画に作り変えるべし！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "そんじゃあ先に進むぞ。\nここは敵の本拠地だ、油断するなよ…！",
+    "translation": "そんじゃあ先に進むぞ。\nここは敵の本拠地だ、油断するなよ…！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

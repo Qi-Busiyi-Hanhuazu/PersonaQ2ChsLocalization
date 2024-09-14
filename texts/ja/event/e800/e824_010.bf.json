@@ -1,0 +1,226 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "今回の特別上映は『新たなセキュリティを\n解いて脱出しろ』…というものです。",
+    "translation": "今回の特別上映は『新たなセキュリティを\n解いて脱出しろ』…というものです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』はテクノロジーが\n駆使された、驚き桃の木おったまげな世界…",
+    "translation": "『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』はテクノロジーが\n駆使された、驚き桃の木おったまげな世界…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "このたび、セキュリティに変化が起こった\nようですので、調査をお願いします。",
+    "translation": "このたび、セキュリティに変化が起こった\nようですので、調査をお願いします。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おおっ、きた！　伊織順平アワーを\nお披露目する時だな！",
+    "translation": "おおっ、きた！　伊織順平アワーを\nお披露目する時だな！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "はぁ？　やめてよ？",
+    "translation": "はぁ？　やめてよ？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "ていうか、絶対にやめてよ！？",
+    "translation": "ていうか、絶対にやめてよ！？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "はいはい、分かってますって！\nちゃーんと場の空気は盛り上げるから！",
+    "translation": "はいはい、分かってますって！\nちゃーんと場の空気は盛り上げるから！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "フリじゃないっつの！",
+    "translation": "フリじゃないっつの！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "だ、大丈夫よ。不気味って言ったって、\nそんなに暗い場所じゃないし…ね？",
+    "translation": "だ、大丈夫よ。不気味って言ったって、\nそんなに暗い場所じゃないし…ね？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "自分がついてる",
+    "translation": "自分がついてる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "何か起きるかも…",
+    "translation": "何か起きるかも…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_2",
+    "original": "いざという時は殴り飛ばせ",
+    "translation": "いざという時は殴り飛ばせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ありがとう。貴方にそう言って\nもらえると、なんだか安心できるわ。",
+    "translation": "ありがとう。貴方にそう言って\nもらえると、なんだか安心できるわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "や、やめてよ。\n何も起きるわけないでしょ！",
+    "translation": "や、やめてよ。\n何も起きるわけないでしょ！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "殴り飛ばせるならいいんだけど…",
+    "translation": "殴り飛ばせるならいいんだけど…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "その、実体がないっていうのだけは\nカンベンして欲しいわね…",
+    "translation": "その、実体がないっていうのだけは\nカンベンして欲しいわね…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ふふっ、何があるか楽しみだね。\n早く行こうよ。",
+    "translation": "ふふっ、何があるか楽しみだね。\n早く行こうよ。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "うっわ…雪子、楽しんでるし。",
+    "translation": "うっわ…雪子、楽しんでるし。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "てか、『お』のつくアレとか、\nあたしも絶対にムリだからね！？",
+    "translation": "てか、『お』のつくアレとか、\nあたしも絶対にムリだからね！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "さっきから何を怖がっているんだ？",
+    "translation": "さっきから何を怖がっているんだ？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "セキュリティだろうが何だろうが、シャドウ\nが出たら倒すまで。それだけの話だろう？",
+    "translation": "セキュリティだろうが何だろうが、シャドウ\nが出たら倒すまで。それだけの話だろう？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "シャドウの話じゃないんスけどね…\nま、似たようなモンか？",
+    "translation": "シャドウの話じゃないんスけどね…\nま、似たようなモンか？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "全っ然、違うから！\nもういいから、さっさと終わらせよ？",
+    "translation": "全っ然、違うから！\nもういいから、さっさと終わらせよ？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "でも、セキュリティが変わってるなら、\n慎重に進まないと危険だわ。",
+    "translation": "でも、セキュリティが変わってるなら、\n慎重に進まないと危険だわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "[P5姓]君、行く時は\nくれぐれも気をつけてね？",
+    "translation": "[P5姓]君、行く時は\nくれぐれも気をつけてね？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  }
+]

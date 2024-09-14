@@ -1,0 +1,492 @@
+[
+  {
+    "key": "D01_OBJECTIVE_MSG_LARGE__0",
+    "original": "警察官から逃げろ",
+    "translation": "快从警察身边逃走",
+    "stage": 0,
+    "context": "机翻辅助：\n\n快从警察身边逃走\n\n快逃警察\n\n逃离警察"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_LARGE__2_0",
+    "original": "真と春を助けろ",
+    "translation": "救出真和春",
+    "stage": 1,
+    "context": "机翻辅助：\n\n救出真和小春。\n\n帮助真正的春天\n\n拯救真和春"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__0",
+    "original": "奥へ進む道を探せ",
+    "translation": "寻找通往深处的路",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找通往深处的路。\n\n寻找往里走的路\n\n寻找通往深处的道路"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__2_0",
+    "original": "階段を目指せ",
+    "translation": "前往楼梯",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往楼梯。\n\n以楼梯为目标"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__3_0",
+    "original": "Ｆ．Ｏ．Ｅをかわして先へ進め",
+    "translation": "避开F.O.E前进",
+    "stage": 1,
+    "context": "机翻辅助：\n\n避开F.O.E前进。\n\n绕过F.O.E，继续前进\n\n避开F.O.E前进"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__4_0",
+    "original": "階段を目指せ",
+    "translation": "前往楼梯",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往楼梯。\n\n以楼梯为目标"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__5_0",
+    "original": "階段の先へ進め",
+    "translation": "上楼梯",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往楼梯前方。\n\n向楼梯的前方前进\n\n走到楼梯的尽头"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__6_0",
+    "original": "奥へ進む道を探せ",
+    "translation": "寻找通往深处的路",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找通往深处的路。\n\n寻找往里走的路\n\n寻找通往深处的道路"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__7_0",
+    "original": "光る地面を調べろ",
+    "translation": "调查发光的地面",
+    "stage": 1,
+    "context": "机翻辅助：\n\n调查发光的地面。\n\n调查发光的地面\n\n查看发光的地面"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__8_0",
+    "original": "奥へ進む道を探せ",
+    "translation": "寻找通往深处的路",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找通往深处的路。\n\n寻找往里走的路\n\n寻找通往深处的道路"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__9_0",
+    "original": "ライトに注意して先へ進め",
+    "translation": "注意灯光，继续前进",
+    "stage": 1,
+    "context": "机翻辅助：\n\n注意灯光，继续前进。\n\n注意灯光，继续前进\n\n注意灯光前进"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__10_0",
+    "original": "奥へ進む道を探せ",
+    "translation": "寻找通往深处的路",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找通往深处的路。\n\n寻找往里走的路\n\n寻找通往深处的道路"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__11_0",
+    "original": "階段の先へ進め",
+    "translation": "上楼梯",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往楼梯前方。\n\n向楼梯的前方前进\n\n走到楼梯的尽头"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__12_0",
+    "original": "さらに奥へ進む道を探せ",
+    "translation": "寻找通往更深处的路",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找通往更深处的路。\n\n再往里走的路\n\n寻找更深处的路"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__13_0",
+    "original": "ライトのスイッチを探せ",
+    "translation": "寻找灯光的开关",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找灯光的开关。\n\n寻找灯的开关\n\n找到灯的开关"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__14_0",
+    "original": "先へ進む道を探せ",
+    "translation": "寻找通往前方的路",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找通往前方的路。\n\n寻找前进的道路"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__15_0",
+    "original": "階段の先へ進め",
+    "translation": "上楼梯",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往楼梯前方。\n\n向楼梯的前方前进\n\n走到楼梯的尽头"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_LARGE__3_0",
+    "original": "ライトを消す手段を探せ",
+    "translation": "寻找关灯的方法",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找关掉灯光的方法。\n\n找个方法关掉灯\n\n寻找关闭灯光的方法"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__16_0",
+    "original": "警備の厳重なエリアを進め",
+    "translation": "向警备森严的区域前进",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在警备森严的区域前进。\n\n我们要进入一个戒备森严的区域\n\n进入戒备森严的区域"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_LARGE__4_0",
+    "original": "カモシダーマンを倒せ",
+    "translation": "打倒鸭志田超人",
+    "stage": 1,
+    "context": "机翻辅助：\n\n打倒鸭志田超人。\n\n打倒鸭志田超人"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_LARGE__0",
+    "original": "恐竜達を探せ",
+    "translation": "寻找恐龙",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找恐龙们。\n\n寻找恐龙们"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__0",
+    "original": "奥へ進め",
+    "translation": "前往深处",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往深处。\n\n往里走"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_LARGE__2_0",
+    "original": "謎の反応の正体を探れ",
+    "translation": "查明神秘反应的真相",
+    "stage": 1,
+    "context": "机翻辅助：\n\n查明神秘反应的真面目。\n\n寻找神秘反应的真面目"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__2_0",
+    "original": "Ｆ．Ｏ．Ｅに気をつけて進め",
+    "translation": "小心F.O.E前进",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小心F.O.E前进。\n\n小心F.O.E前进"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_LARGE__3_0",
+    "original": "陽介を捜せ",
+    "translation": "寻找阳介",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找阳介。\n\n找阳介\n\n找到阳介"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__3_0",
+    "original": "スイッチを探して電気柵を抜けろ",
+    "translation": "寻找开关，跨越电栅栏",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找开关，穿越电栅栏。\n\n寻找开关，穿过电栅\n\n找到开关，穿过电栅栏"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__4_0",
+    "original": "ヨウスケサウルスを追いかけろ",
+    "translation": "追赶阳介龙",
+    "stage": 1,
+    "context": "机翻辅助：\n\n去追阳介龙\n\n追赶阳介龙"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__5_0",
+    "original": "肉食恐竜に気をつけて進め",
+    "translation": "小心肉食恐龙前进",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小心肉食恐龙前进。\n\n小心肉食恐龙前进\n\n小心食肉恐龙前进"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__6_0",
+    "original": "連れ去られた草食竜を追え",
+    "translation": "追赶被带走的草食龙",
+    "stage": 1,
+    "context": "机翻辅助：\n\n追赶被带走的草食龙。\n\n追赶被带走的草食龙\n\n寻找被带走的食草龙"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_LARGE__4_0",
+    "original": "陽介を助けろ",
+    "translation": "救出阳介",
+    "stage": 1,
+    "context": "机翻辅助：\n\n救出阳介。\n\n救救阳介"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__7_0",
+    "original": "肉食恐竜を電気柵に閉じ込めろ",
+    "translation": "将肉食恐龙关进电栅栏里",
+    "stage": 1,
+    "context": "机翻辅助：\n\n将肉食恐龙关进电栅栏。\n\n把肉食恐龙关在电栅栏里\n\n把食肉恐龙关在电栅栏里"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__8_0",
+    "original": "陽介の元に向かえ",
+    "translation": "去找阳介",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往阳介身边。\n\n向着阳介的身边\n\n去找阳介"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_LARGE__5_0",
+    "original": "ヨウスケサウルス達を追え",
+    "translation": "追赶阳介龙",
+    "stage": 1,
+    "context": "机翻辅助：\n\n去追阳介龙们\n\n追赶阳介龙他们\n\n追捕阳介龙他们"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__9_0",
+    "original": "奥へ進め",
+    "translation": "前往深处",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往深处。\n\n往里走"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__10_0",
+    "original": "謎の音の正体を探れ",
+    "translation": "查明神秘声音的真面目",
+    "stage": 1,
+    "context": "机翻辅助：\n\n查明神秘声音的真面目。\n\n寻找神秘声音的真面目"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__11_0",
+    "original": "倒された木を迂回する道を探せ",
+    "translation": "寻找绕开倒下的树木的路",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找绕过倒下的树木的路。\n\n寻找绕过倒下的树的路\n\n寻找一条路绕过被推倒的树"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__12_0",
+    "original": "奥へ進め",
+    "translation": "前往深处",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往深处。\n\n往里走"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__13_0",
+    "original": "肉食恐竜の気を引く餌を作れ",
+    "translation": "制作吸引肉食恐龙的诱饵",
+    "stage": 1,
+    "context": "机翻辅助：\n\n制作吸引肉食恐龙的诱饵。\n\n制造食物吸引食肉恐龙的注意\n\n你可以做一些吸引食肉恐龙注意力的食物"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__14_0",
+    "original": "肉食恐竜の気を引け",
+    "translation": "吸引肉食恐龙的注意力",
+    "stage": 1,
+    "context": "机翻辅助：\n\n吸引肉食恐龙的注意。\n\n吸引肉食恐龙的注意\n\n吸引肉食恐龙的气息"
+  },
+  {
+    "key": "D02_OBJECTIVE_MSG_SMALL__15_0",
+    "original": "さらに奥へ進め",
+    "translation": "前往深处",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往深处。\n\n再往里走\n\n继续往里走"
+  },
+  {
+    "key": "D03_OBJECTIVE_MSG_LARGE__0",
+    "original": "リボンのついたロボットを探せ",
+    "translation": "寻找戴有蝴蝶结的机器人",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找绑着蝴蝶结的机器人。\n\n寻找带蝴蝶结的机器人\n\n寻找带有蝴蝶结的机器人"
+  },
+  {
+    "key": "D03_OBJECTIVE_MSG_SMALL__0",
+    "original": "奥へ進め",
+    "translation": "前往深处",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往深处。\n\n往里走"
+  },
+  {
+    "key": "D03_OBJECTIVE_MSG_LARGE__2_0",
+    "original": "召喚器の持ち主を探せ",
+    "translation": "寻找召唤器的持有者",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找召唤器的持有者。\n\n寻找召唤器的主人"
+  },
+  {
+    "key": "D03_OBJECTIVE_MSG_LARGE__3_0",
+    "original": "アイギスとリーダーを捜せ",
+    "translation": "寻找埃癸斯和队长",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找埃癸斯和队长。\n\n埃癸斯和寻找领袖\n\n找到埃癸斯和队长"
+  },
+  {
+    "key": "D03_OBJECTIVE_MSG_SMALL__2_0",
+    "original": "監視するＦ．Ｏ．Ｅに気をつけて進め",
+    "translation": "小心F.O.E的监视并前进",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小心监视的F.O.E前进。\n\n小心监视F.O.E\n\n注意监视的F.O.E前进"
+  },
+  {
+    "key": "D03_OBJECTIVE_MSG_SMALL__3_0",
+    "original": "扉を開けろ",
+    "translation": "打开门",
+    "stage": 1,
+    "context": "机翻辅助：\n\n打开门。\n\n打开门\n\n把门打开"
+  },
+  {
+    "key": "D03_OBJECTIVE_MSG_SMALL__4_0",
+    "original": "奥へ進め",
+    "translation": "前往深处",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往深处。\n\n往里走"
+  },
+  {
+    "key": "D03_OBJECTIVE_MSG_SMALL__5_0",
+    "original": "扉の先へ向かえ",
+    "translation": "前往门的另一侧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往门的另一侧。\n\n向着门的前方\n\n向门的尽头走去"
+  },
+  {
+    "key": "D03_OBJECTIVE_MSG_LARGE__4_0",
+    "original": "リボンを守り、映画の結末を変えろ",
+    "translation": "保护蝴蝶结，改变电影结局",
+    "stage": 1,
+    "context": "机翻辅助：\n\n保护蝴蝶结，改变电影结局。\n\n保护蝴蝶结，改变电影的结局"
+  },
+  {
+    "key": "D03_OBJECTIVE_MSG_SMALL__6_0",
+    "original": "奥へ進め",
+    "translation": "前往深处",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往深处。\n\n往里走"
+  },
+  {
+    "key": "D03_OBJECTIVE_MSG_SMALL__7_0",
+    "original": "ワープを利用して奥へ進め",
+    "translation": "使用传送前往深处",
+    "stage": 1,
+    "context": "机翻辅助：\n\n利用传送前往深处。\n\n利用弯道往里走\n\n我们可以利用转弯处往里走"
+  },
+  {
+    "key": "D03_OBJECTIVE_MSG_LARGE__5_0",
+    "original": "マザーコンピュータを倒せ",
+    "translation": "打倒主计算机",
+    "stage": 1,
+    "context": "机翻辅助：\n\n打倒主电脑。\n\n打倒主计算机\n\n推倒你的主机"
+  },
+  {
+    "key": "D03_OBJECTIVE_MSG_SMALL__8_0",
+    "original": "奥へ進め",
+    "translation": "前往深处",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往深处。\n\n往里走"
+  },
+  {
+    "key": "D04_OBJECTIVE_MSG_LARGE__0",
+    "original": "ひかりを捜せ",
+    "translation": "寻找光",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找光。\n\n寻找光明"
+  },
+  {
+    "key": "D04_OBJECTIVE_MSG_SMALL__0",
+    "original": "奥へ進め",
+    "translation": "前往深处",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往深处。\n\n往里走"
+  },
+  {
+    "key": "D04_OBJECTIVE_MSG_SMALL__2_0",
+    "original": "『せり』を操作し、先へ進め",
+    "translation": "操作“升降台”前进",
+    "stage": 1,
+    "context": "机翻辅助：\n\n操作“芹”，前往前方。\n\n操作“拍卖”，前进\n\n我操作“塞利”，继续前进。"
+  },
+  {
+    "key": "D05_OBJECTIVE_MSG_LARGE__0",
+    "original": "エンリルの元へ向かえ",
+    "translation": "前往恩利尔身边",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往恩利尔身边。\n\n向着恩里尔的身边\n\n去找恩利尔"
+  },
+  {
+    "key": "D05_OBJECTIVE_MSG_SMALL__0",
+    "original": "奥へ進め",
+    "translation": "前往深处",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往深处。\n\n往里走"
+  },
+  {
+    "key": "D05_OBJECTIVE_MSG_SMALL__2_0",
+    "original": "道を塞ぐ瓦礫をどかす術を探せ",
+    "translation": "寻找挪开堵住道路的瓦砾的方法",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找移开堵住道路的瓦砾的方法。\n\n寻找方法来移开那些堵塞道路的瓦砾\n\n找个办法把挡在路上的瓦砾挪开"
+  },
+  {
+    "key": "D05_OBJECTIVE_MSG_SMALL__3_0",
+    "original": "瓦礫の場所にＦ．Ｏ．Ｅを誘導しろ",
+    "translation": "将F.O.E引诱到瓦砾堆",
+    "stage": 1,
+    "context": "机翻辅助：\n\n将F.O.E引诱到瓦砾堆。\n\n把F.O.E引导到瓦砾的地方\n\n把F.O.E带到瓦砾堆里"
+  },
+  {
+    "key": "D05_OBJECTIVE_MSG_SMALL__4_0",
+    "original": "奥へ進め",
+    "translation": "前往深处",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往深处。\n\n往里走"
+  },
+  {
+    "key": "D05_OBJECTIVE_MSG_SMALL__5_0",
+    "original": "風に注意して奥へ進め",
+    "translation": "小心风，前往深处",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小心风，前往深处。\n\n小心风，往里走\n\n小心风往里走"
+  },
+  {
+    "key": "D05_OBJECTIVE_MSG_SMALL__6_0",
+    "original": "Ｆ．Ｏ．Ｅに気をつけて先に進め",
+    "translation": "小心F.O.E并前进",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小心F.O.E前进。\n\n小心F.O.E前进\n\n注意F.O.E，继续前进"
+  },
+  {
+    "key": "D01_00_OBJECTIVE_MSG_SMA_0",
+    "original": "ナビの指示に従え",
+    "translation": "遵从NAVI的指示",
+    "stage": 1,
+    "context": "机翻辅助：\n\n遵从导航的指示。\n\n听从导航系统的指示\n\n按照导航的指示"
+  },
+  {
+    "key": "D01_OBJECTIVE_MSG_SMALL__18_0",
+    "original": "『記念広場』へ行け",
+    "translation": "去“纪念广场”",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去“纪念广场”"
+  },
+  {
+    "key": "D05_OBJECTIVE_MSG_LARGE__2_0",
+    "original": "作戦を実行しろ",
+    "translation": "执行作战计划",
+    "stage": 0,
+    "context": "机翻辅助：\n\n执行作战计划"
+  },
+  {
+    "key": "D05_OBJECTIVE_MSG_SMALL__7_0",
+    "original": "全てのフィルムを入れ替えろ",
+    "translation": "把所有胶片都换掉",
+    "stage": 0,
+    "context": "机翻辅助：\n\n把所有胶片都换掉\n\n把所有的胶片都换掉\n\n更换所有胶片"
+  },
+  {
+    "key": "D05_OBJECTIVE_MSG_LARGE__3_0",
+    "original": "決着をつけろ",
+    "translation": "做个了断吧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n做个了断吧\n\n做个了断\n\n做个了结"
+  },
+  {
+    "key": "D05_OBJECTIVE_MSG_SMALL__8_0",
+    "original": "エンリルの元へ向かえ",
+    "translation": "前往恩利尔身边",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往恩利尔身边。\n\n向着恩里尔的身边\n\n去找恩利尔"
+  },
+  {
+    "key": "D04_OBJECTIVE_MSG_LARGE__2_0",
+    "original": "最深部へ向かえ",
+    "translation": "前往最深处",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前往最深处\n\n向着最深处\n\n向最深处前进"
+  }
+]

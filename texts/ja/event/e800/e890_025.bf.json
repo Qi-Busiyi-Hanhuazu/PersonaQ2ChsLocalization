@@ -1,0 +1,464 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "くっ…不覚を取ったか。\nやるな、囚人。",
+    "translation": "くっ…不覚を取ったか。\nやるな、囚人。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "驚きました。\n想像以上の実力です。",
+    "translation": "驚きました。\n想像以上の実力です。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "そっちもな",
+    "translation": "そっちもな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "みんなの力だ",
+    "translation": "みんなの力だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ククク、言うようになったな。\n見直したぞ。",
+    "translation": "ククク、言うようになったな。\n見直したぞ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "素直に相手を認める器…\n更生は順調なようですね。",
+    "translation": "素直に相手を認める器…\n更生は順調なようですね。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "なるほど、良き協力者に恵まれたと\n証明したわけですね。",
+    "translation": "なるほど、良き協力者に恵まれたと\n証明したわけですね。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "フン、我らの助言を守った結果か。\nただ遊んでいたわけではないようだな。",
+    "translation": "フン、我らの助言を守った結果か。\nただ遊んでいたわけではないようだな。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "どちらも素晴らしい『力』を発揮する\n見事な一戦でございました。",
+    "translation": "どちらも素晴らしい『力』を発揮する\n見事な一戦でございました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_007_1_0",
+    "original": "さて、肝心要のフィルムの方は…",
+    "translation": "さて、肝心要のフィルムの方は…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "煤けたフィルムが、\nぼんやりと光を放っている…",
+    "translation": "煤けたフィルムが、\nぼんやりと光を放っている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "いよっしゃ、バッチリじゃん！",
+    "translation": "いよっしゃ、バッチリじゃん！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "……！",
+    "translation": "……！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "３つのフィルムが同時に\nさらに強く輝き出した…！",
+    "translation": "３つのフィルムが同時に\nさらに強く輝き出した…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "すごい、３つが反応し合ってる？\nなんだか不思議な感じ…",
+    "translation": "すごい、３つが反応し合ってる？\nなんだか不思議な感じ…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "光は静かに収まった…",
+    "translation": "光は静かに収まった…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "およ～？　戻っちゃったクマ。\nまだ足りないクマか？",
+    "translation": "およ～？　戻っちゃったクマ。\nまだ足りないクマか？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "あの様子からすると、\nあと一歩といったところでしょうか。",
+    "translation": "あの様子からすると、\nあと一歩といったところでしょうか。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "はい、次のキャストが指定された\nチケットに乞うご期待でございます。",
+    "translation": "はい、次のキャストが指定された\nチケットに乞うご期待でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "それでは、報酬をお納めくださいませ。\n今回ご用意致しましたのは…",
+    "translation": "それでは、報酬をお納めくださいませ。\n今回ご用意致しましたのは…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_015_2",
+    "original": "そこの洒落くさげな二人組からお贈りする\n荒事に役立つゴキゲンな逸品。",
+    "translation": "そこの洒落くさげな二人組からお贈りする\n荒事に役立つゴキゲンな逸品。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_016_0",
+    "original": "ありがとう",
+    "translation": "ありがとう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_016_1",
+    "original": "大切にする",
+    "translation": "大切にする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "か、勘違いするなよ、囚人！",
+    "translation": "か、勘違いするなよ、囚人！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "ひ弱な貴様らに、のたれ死にされたら\n退屈だからな！",
+    "translation": "ひ弱な貴様らに、のたれ死にされたら\n退屈だからな！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "そもそも、余り物を放出したに過ぎません。\n煮るなり焼くなり好きになさい。",
+    "translation": "そもそも、余り物を放出したに過ぎません。\n煮るなり焼くなり好きになさい。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ふひひ、まだまだ頑張るみたいだな。\nデレる日を楽しみにしとくぞ。",
+    "translation": "ふひひ、まだまだ頑張るみたいだな。\nデレる日を楽しみにしとくぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "おっと、忘れておりました。",
+    "translation": "おっと、忘れておりました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "こちらに用意しましたホットドッグは、\n勝者である[P5姓]様へ贈呈いたします。",
+    "translation": "こちらに用意しましたホットドッグは、\n勝者である[P5姓]様へ贈呈いたします。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ぐぬぬぬ…屈辱だッ！",
+    "translation": "ぐぬぬぬ…屈辱だッ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "よりによって囚人に渡るとは！\n我らものになるはずだったのにッ！",
+    "translation": "よりによって囚人に渡るとは！\n我らものになるはずだったのにッ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "あらあら、すごい入れ込みよう。\nだいぶお気に入りみたいね。",
+    "translation": "あらあら、すごい入れ込みよう。\nだいぶお気に入りみたいね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "なんだか、もらっちゃうのが\n申し訳ないね。",
+    "translation": "なんだか、もらっちゃうのが\n申し訳ないね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "SEL_024_0",
+    "original": "取っておけ",
+    "translation": "取っておけ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_1",
+    "original": "きっちり頂いていく",
+    "translation": "きっちり頂いていく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "なに！？　本当か？",
+    "translation": "なに！？　本当か？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "…コホン。",
+    "translation": "…コホン。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "あ、えーと…",
+    "translation": "あ、えーと…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "き、貴様の当然の権利だ！\n欲しくなんか、欲しくなんか…",
+    "translation": "き、貴様の当然の権利だ！\n欲しくなんか、欲しくなんか…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ジョーカー、子供相手に\nなかなか鬼っスね…",
+    "translation": "ジョーカー、子供相手に\nなかなか鬼っスね…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "見苦しいですよ、カロリーヌ。",
+    "translation": "見苦しいですよ、カロリーヌ。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "そもそも、私たちの分は\nすでに確保しているでしょう。",
+    "translation": "そもそも、私たちの分は\nすでに確保しているでしょう。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_030_2",
+    "original": "ちゃんと互いの取り決めた場所に、\n隠してあるではないですか。",
+    "translation": "ちゃんと互いの取り決めた場所に、\n隠してあるではないですか。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "いや、その…あれは…",
+    "translation": "いや、その…あれは…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "……？",
+    "translation": "……？",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "そ、そそそ、そうだった！\nまだ山ほど残っていたな、ははは！",
+    "translation": "そ、そそそ、そうだった！\nまだ山ほど残っていたな、ははは！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "なんだアレ。",
+    "translation": "なんだアレ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "さあ…？",
+    "translation": "さあ…？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "さて皆様、たいへんお疲れ様でした。",
+    "translation": "さて皆様、たいへんお疲れ様でした。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_036_1",
+    "original": "フィルムの謎については、\nいま一歩のところへ辿りついた様子。",
+    "translation": "フィルムの謎については、\nいま一歩のところへ辿りついた様子。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_036_2",
+    "original": "次の『キャストの指定ある特別上映』こそ、\nクライマーックスではないかと。",
+    "translation": "次の『キャストの指定ある特別上映』こそ、\nクライマーックスではないかと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_036_3",
+    "original": "私、胸をときめかせ、お待ちしております。\nそれでは、また。",
+    "translation": "私、胸をときめかせ、お待ちしております。\nそれでは、また。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "PERSONA_STOCK_UP_MSG_0",
+    "original": "試練を乗り越えた事で、ワイルドの力が高まり\nペルソナストック数が[颜色 03][占位A 01]体[颜色 01]に増加しました。",
+    "translation": "試練を乗り越えた事で、ワイルドの力が高まり\nペルソナストック数が[颜色 03][占位A 01]体[颜色 01]に増加しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SYS_MES_000_0",
+    "original": "[道具 073C]の効果で、\n『フィニッシュボーナス』で次のバトルに\nブーストが引き継がれるようになりました。",
+    "translation": "[道具 073C]の効果で、\n『フィニッシュボーナス』で次のバトルに\nブーストが引き継がれるようになりました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

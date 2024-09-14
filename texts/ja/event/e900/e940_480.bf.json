@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "はー…\nなんとかここまでたどり着いたな。",
+    "translation": "はー…\nなんとかここまでたどり着いたな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "カモシダーマンのヤツ、\nファッションチェックなんて\nふざけたことしやがって…",
+    "translation": "カモシダーマンのヤツ、\nファッションチェックなんて\nふざけたことしやがって…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ホント、大変だったよね…\nでもこの先に捕まってる皆がいるんだし\n弱音なんて吐いてらんないよ！",
+    "translation": "ホント、大変だったよね…\nでもこの先に捕まってる皆がいるんだし\n弱音なんて吐いてらんないよ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おう！\n早く真と春を助けてやんねーとな！",
+    "translation": "おう！\n早く真と春を助けてやんねーとな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "そんで、\nカモシダーマンをぶっ飛ばす！",
+    "translation": "そんで、\nカモシダーマンをぶっ飛ばす！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "ああ、やるぞ！",
+    "translation": "ああ、やるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "もう少しだ！",
+    "translation": "もう少しだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_2",
+    "original": "行くぞ、みんな！",
+    "translation": "行くぞ、みんな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おー！",
+    "translation": "おー！",
+    "stage": 1,
+    "context": "怪盗団"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_怪盗団",
+    "original": "怪盗団",
+    "translation": "怪盗団",
+    "stage": 1,
+    "context": ""
+  }
+]

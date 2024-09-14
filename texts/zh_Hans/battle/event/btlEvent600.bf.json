@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_BTL_600_000_0",
+    "original": "クッ…強すぎる…！\nこのままじゃ…！",
+    "translation": "呃……这也太强了吧……！\n就这样继续下去的话……！",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n咕……太强了……！\n这样下去……！\n\n太强了……！\n这样下去的话……！\n\n呜……太强了……！\n再这样下去……！"
+  },
+  {
+    "key": "MSG_BTL_600_001_0",
+    "original": "そいつ、普通じゃない！\nみんな逃げて！！",
+    "translation": "这家伙，并不是一般的杂兵！\n大家快跑！！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n那家伙不寻常！\n大家快逃！\n\n那家伙，不普通！\n大家快逃！！\n\n那家伙不普通！大家快逃！！"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

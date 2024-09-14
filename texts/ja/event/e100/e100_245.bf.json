@@ -1,0 +1,429 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よろしくね、みんな。",
+    "translation": "よろしくね、みんな。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、ここで会ったのも何かの縁だ。\nよろしく頼む。",
+    "translation": "ああ、ここで会ったのも何かの縁だ。\nよろしく頼む。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "それでね、えっと…\nさっきから気になってたんだけど。",
+    "translation": "それでね、えっと…\nさっきから気になってたんだけど。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "お面だけじゃなくて、みんなの格好って\nなんていうか…怪盗みたいだね？",
+    "translation": "お面だけじゃなくて、みんなの格好って\nなんていうか…怪盗みたいだね？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "お、おい、ヤバくね！？\n正体バレたんじゃ…！",
+    "translation": "お、おい、ヤバくね！？\n正体バレたんじゃ…！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "正体？",
+    "translation": "正体？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "バカ、スカル！\n墓穴ほってんじゃねーよ！",
+    "translation": "バカ、スカル！\n墓穴ほってんじゃねーよ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "まずいな…\n格好のこと、どう説明する？",
+    "translation": "まずいな…\n格好のこと、どう説明する？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "コスプレだ",
+    "translation": "コスプレだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "仕事着だ",
+    "translation": "仕事着だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_2",
+    "original": "怪盗団だ",
+    "translation": "怪盗団だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "そういうの流行ってるの？\nハロウィンイベント？",
+    "translation": "そういうの流行ってるの？\nハロウィンイベント？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ま、まあ…そんなとこ！？\nウェイウェ～イって感じの！！",
+    "translation": "ま、まあ…そんなとこ！？\nウェイウェ～イって感じの！！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ウェ～…？\nよく分からないけど、なんか面白いね！",
+    "translation": "ウェ～…？\nよく分からないけど、なんか面白いね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "コスプレ怪盗のプロ？\nそれともコスプレしたプロ怪盗…あれ！？",
+    "translation": "コスプレ怪盗のプロ？\nそれともコスプレしたプロ怪盗…あれ！？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "えっと、それは～…\n深く考えたら負けっていうか…",
+    "translation": "えっと、それは～…\n深く考えたら負けっていうか…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_5_0",
+    "original": "たまたま怪盗団が話題だったから、\n流行に便乗したっていう…設定？",
+    "translation": "たまたま怪盗団が話題だったから、\n流行に便乗したっていう…設定？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "設定って言うな！",
+    "translation": "設定って言うな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "へー、そうなんだ？\nよく分からないけど、楽しそうだね！",
+    "translation": "へー、そうなんだ？\nよく分からないけど、楽しそうだね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "怪盗団？",
+    "translation": "怪盗団？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "マジレスかよっ！",
+    "translation": "マジレスかよっ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "しかし、彼女…\n全然ピンと来てないみたいだな。",
+    "translation": "しかし、彼女…\n全然ピンと来てないみたいだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ひょっとして、『怪盗団』を知らない？",
+    "translation": "ひょっとして、『怪盗団』を知らない？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "え…？",
+    "translation": "え…？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ウソ！？　ここ最近は、毎日ニュースとか\nネットで騒がれてるはずだよ？",
+    "translation": "ウソ！？　ここ最近は、毎日ニュースとか\nネットで騒がれてるはずだよ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "ホントに聞いたことない？\n『心の怪盗団』って。",
+    "translation": "ホントに聞いたことない？\n『心の怪盗団』って。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ごめん、何のことだか…\nニュースはよく見るんだけど。",
+    "translation": "ごめん、何のことだか…\nニュースはよく見るんだけど。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "おいおい、マジで知らねえみたいだな。\n怪盗団って、実は全国区じゃねえのか？",
+    "translation": "おいおい、マジで知らねえみたいだな。\n怪盗団って、実は全国区じゃねえのか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "たしかに、地域が違えばニュースも変わる。\nしかし…それにしても…",
+    "translation": "たしかに、地域が違えばニュースも変わる。\nしかし…それにしても…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "なんにせよ、好都合じゃないか？",
+    "translation": "なんにせよ、好都合じゃないか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "それに、とりあえずはここを\n脱出するのが最優先だと思うが。",
+    "translation": "それに、とりあえずはここを\n脱出するのが最優先だと思うが。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ああ…街の人が話していた、僕たち以外の\n賊って彼女のことじゃないかな？",
+    "translation": "ああ…街の人が話していた、僕たち以外の\n賊って彼女のことじゃないかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "だとすると、あまりここで長話もできない。\n映画館に戻った方がいいと思う。",
+    "translation": "だとすると、あまりここで長話もできない。\n映画館に戻った方がいいと思う。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "映画館…？\n私、ここもどこだかよく分からなくて。",
+    "translation": "映画館…？\n私、ここもどこだかよく分からなくて。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "どうやら、ワガハイたちのほうが\n色々と知ってるみたいだな。",
+    "translation": "どうやら、ワガハイたちのほうが\n色々と知ってるみたいだな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "わっ！？　猫が喋った！？",
+    "translation": "わっ！？　猫が喋った！？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "猫じゃねーし！",
+    "translation": "猫じゃねーし！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "って、今さらその反応かよ！？\nさっき一緒に戦っただろ！",
+    "translation": "って、今さらその反応かよ！？\nさっき一緒に戦っただろ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "あ、そう言えばそうだったね！\nこの子もペルソナ使い…なんだよね？",
+    "translation": "あ、そう言えばそうだったね！\nこの子もペルソナ使い…なんだよね？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_031_0",
+    "original": "そうだ",
+    "translation": "そうだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_031_1",
+    "original": "ニャンニャンだ",
+    "translation": "ニャンニャンだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_031_2",
+    "original": "話せば長くなる",
+    "translation": "話せば長くなる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ちげーし！\n可愛く言っても、ちげーしっっ！",
+    "translation": "ちげーし！\n可愛く言っても、ちげーしっっ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_032_1",
+    "original": "…ワガハイ、なんかもう疲れた。",
+    "translation": "…ワガハイ、なんかもう疲れた。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "そうだ、ワガハイがこうなったのは\nメメントスの歪みを受け…",
+    "translation": "そうだ、ワガハイがこうなったのは\nメメントスの歪みを受け…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "メメントス？",
+    "translation": "メメントス？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "はいはい、その話はまた今度な。",
+    "translation": "はいはい、その話はまた今度な。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "モナの事もそうだが、俺たちの事も\n説明はしておいた方がよくないか？",
+    "translation": "モナの事もそうだが、俺たちの事も\n説明はしておいた方がよくないか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_036_1",
+    "original": "同じペルソナ使いだ。\n事情は分かってくれると思う。",
+    "translation": "同じペルソナ使いだ。\n事情は分かってくれると思う。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_037_0",
+    "original": "そうだな",
+    "translation": "そうだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_037_1",
+    "original": "まず映画館に戻ろう",
+    "translation": "まず映画館に戻ろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "話ならば、映画館へ向かうがてらに\n歩きながらでもできる。",
+    "translation": "話ならば、映画館へ向かうがてらに\n歩きながらでもできる。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "そうだね。テオドアさんにも\n早く会わせてあげたいし。",
+    "translation": "そうだね。テオドアさんにも\n早く会わせてあげたいし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "テオの所まで案内してくれるなら…\n私も一緒に行かせて。",
+    "translation": "テオの所まで案内してくれるなら…\n私も一緒に行かせて。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "じゃ、決まりだな。\nいったん戻ろうぜ。",
+    "translation": "じゃ、決まりだな。\nいったん戻ろうぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

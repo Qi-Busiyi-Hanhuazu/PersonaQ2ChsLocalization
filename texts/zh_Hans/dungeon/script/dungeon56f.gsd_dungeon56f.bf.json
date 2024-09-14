@@ -1,0 +1,16 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ここはデバッグルーム",
+    "translation": "这里是调试室。",
+    "stage": 0,
+    "context": "说话人：Ｐ５主人公\n\n机翻辅助：\n\n这里是调试室。\n\n这里是调试室"
+  },
+  {
+    "key": "speaker_Ｐ５主人公",
+    "original": "Ｐ５主人公",
+    "translation": "Ｐ５主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

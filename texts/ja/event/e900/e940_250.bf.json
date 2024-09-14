@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "次はここだな。\n手早く片付けよう。",
+    "translation": "次はここだな。\n手早く片付けよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "…こんなところだろう。\nこれで、近道は二つとも開通できたな。",
+    "translation": "…こんなところだろう。\nこれで、近道は二つとも開通できたな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "この近道を覚えておけば、\nこれからの探索も楽になるね。",
+    "translation": "この近道を覚えておけば、\nこれからの探索も楽になるね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "忘れないよう、\n地図に書き込んでおくのが\nいいかもしれないよ。",
+    "translation": "忘れないよう、\n地図に書き込んでおくのが\nいいかもしれないよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

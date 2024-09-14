@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おお、サーチライトの操作端末か。",
+    "translation": "おお、サーチライトの操作端末か。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "一瞬だけ待ってくれ。\n必要な情報を抜き取ってやる。",
+    "translation": "一瞬だけ待ってくれ。\n必要な情報を抜き取ってやる。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "わかりました、お願いします。\n僕らは少し休憩しましょうか。",
+    "translation": "わかりました、お願いします。\n僕らは少し休憩しましょうか。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "オワタ。",
+    "translation": "オワタ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "えっ！？　もう？",
+    "translation": "えっ！？　もう？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ふっふーん、ラクショーだ。\nただ覗いただけだからな。",
+    "translation": "ふっふーん、ラクショーだ。\nただ覗いただけだからな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ジョーカー、残りのパトカーの位置教える。\n地図に印つけといてくれ。",
+    "translation": "ジョーカー、残りのパトカーの位置教える。\n地図に印つけといてくれ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "パトカーのある場所を\n地図に描き込んだ…",
+    "translation": "パトカーのある場所を\n地図に描き込んだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "これで探しやすくなりましたね。",
+    "translation": "これで探しやすくなりましたね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "パトカーの近くには警官がいるはずです。\n印の場所へ急ぎましょう。",
+    "translation": "パトカーの近くには警官がいるはずです。\n印の場所へ急ぎましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "もうこいつに用はなさそうだな。\nパトカーの位置は全てわかってる。",
+    "translation": "もうこいつに用はなさそうだな。\nパトカーの位置は全てわかってる。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

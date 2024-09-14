@@ -1,0 +1,527 @@
+[
+  {
+    "key": "YUKARI_FOE_FOLLOW_START__0",
+    "original": "ちょっ、Ｆ．Ｏ．Ｅに \n見つかったっぽい！ ",
+    "translation": "哎呀，好像被F.O.E发现了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n糟糕，我们好像被F.O.E\n发现了！ \n\n等等，好像被F.O.E发现了！\n \n\n喂，好像被F.O.E发现了！"
+  },
+  {
+    "key": "YUKARI_FOE_FOLLOW_START__2_0",
+    "original": "どーしよ、Ｆ．Ｏ．Ｅ追ってくるよ！？ ",
+    "translation": "怎么办，F.O.E在追过来！？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n怎么办，F.O.E追上来了耶！ \n\n怎么办，F.O.E会追来的！？ \n\n怎么办，F.O.E我去追你！？"
+  },
+  {
+    "key": "YUKARI_FOE_FOLLOW_START__3_0",
+    "original": "やばっ、Ｆ．Ｏ．Ｅが追ってきてる！ ",
+    "translation": "糟糕，F.O.E正在追来！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不妙，F.O.E追上来了！ \n\n哎呀，F.O.E追上来了！"
+  },
+  {
+    "key": "YUKARI_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅがいる…気をつけて進も？ ",
+    "translation": "F.O.E在那里……小心点前进？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有F.O.E……前进的时候也要小心？ \n\n有F.O.E在……小心前进？ \n\n有F.O.E……小心前进吗？"
+  },
+  {
+    "key": "YUKARI_FOE_NEAR_2_0",
+    "original": "あれってＦ．Ｏ．Ｅだよね？ ",
+    "translation": "那个是F.O.E吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那应该是F.O.E吧？ \n\n那是F.O.E吧？"
+  },
+  {
+    "key": "YUKARI_FOE_NEAR_3_0",
+    "original": "やば… \nＦ．Ｏ．Ｅけっこー近くにいるよ。 ",
+    "translation": "糟糕……F.O.E已经离得很近了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n糟糕……\nF.O.E离我好近！ \n\n呀……\nF.O.E在keco附近哦。 \n\n我就在附近。"
+  },
+  {
+    "key": "YUKARI_FOE_FOLLOW_END_1_0",
+    "original": "Ｆ．Ｏ．Ｅ、 \nもう追ってきてないみたい！ ",
+    "translation": "F.O.E看起来已经不再追着我们了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n\nF.O.E好像已经不追我了！ \n\nF.O.E，\n好像已经没人追了！ \n\n好像已经追不上了！"
+  },
+  {
+    "key": "YUKARI_FOE_FOLLOW_END_2_0",
+    "original": "Ｆ．Ｏ．Ｅから逃げ切れたっぽい…？ ",
+    "translation": "似乎成功逃脱了F.O.E……？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我好像甩掉F.O.E了……？ \n\n好像从F.O.E逃完了……？ \n\n好像从F.O.E逃出来了……？"
+  },
+  {
+    "key": "YUKARI_FOE_FOLLOW_END_3_0",
+    "original": "あ、さっきのＦ．Ｏ．Ｅ諦めたみたい。 ",
+    "translation": "哦，好像刚才的F.O.E放弃追过来了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊，刚才的F.O.E好像放弃了。"
+  },
+  {
+    "key": "YUKARI_KANSI_REACTION_1_0",
+    "original": "見つかったらやばいよ！ ",
+    "translation": "被找到了就糟糕了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要是被发现就糟了！ \n\n被发现的话就糟了！ \n\n要是找到了就糟了！"
+  },
+  {
+    "key": "YUKARI_KANSI_REACTION_2_0",
+    "original": "注意して進も！ ",
+    "translation": "小心点前进吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前进的时候也要小心！ \n\n小心前进！"
+  },
+  {
+    "key": "YUKARI_KANSI_REACTION_3_0",
+    "original": "見つからないようにね！ ",
+    "translation": "不要被发现哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不要被发现了！ \n\n不要找到哦！ \n\n不要被发现哦！"
+  },
+  {
+    "key": "YUKARI_DENKISAKU_REACTIO_0",
+    "original": "先に電気止めないとね。 ",
+    "translation": "先把电灯关掉吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要先关掉电源才行。 \n\n你得先关灯啊。 \n\n必须先把电关掉。"
+  },
+  {
+    "key": "YUKARI_DENKISAKU_REACTIO_2_0",
+    "original": "これは触ったらヤバイよね、うん。",
+    "translation": "这个一碰就不好了，嗯。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这个要是碰到就糟了，嗯。\n\n这个碰了可不妙，嗯。\n\n这个摸起来很糟糕吧，嗯。"
+  },
+  {
+    "key": "YUKARI_DENKISAKU_REACTIO_3_0",
+    "original": "ひえー…ビリビリしてるー… ",
+    "translation": "哎呀……好刺痛……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呜哇……好刺人…… \n\n嗯……我很紧张…… \n\n天啊……胆战心惊的……"
+  },
+  {
+    "key": "YUKARI_KYOUHU_REACTION_1_0",
+    "original": "ええっ！？ ",
+    "translation": "哎呀！？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哎哎！？ \n\n诶！？"
+  },
+  {
+    "key": "YUKARI_KYOUHU_REACTION_2_0",
+    "original": "きゃああーっ！ ",
+    "translation": "啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呀啊啊！ \n\n啊啊啊！"
+  },
+  {
+    "key": "YUKARI_KYOUHU_REACTION_3_0",
+    "original": "やっ、まじ！？ ",
+    "translation": "哇，真的吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哎，真的假的！？ \n\n哎呀，真的！？ \n\n呃，真的！？"
+  },
+  {
+    "key": "YUKARI_STAIR_FIND_1_0",
+    "original": "あっ、階段発見！　進んじゃう？ ",
+    "translation": "啊，发现楼梯了！要走下去看看吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊，发现楼梯！要前进吗？ \n\n啊，发现楼梯！前进吧？ \n\n啊，发现楼梯了！前进吧？"
+  },
+  {
+    "key": "YUKARI_STAIR_FIND_2_0",
+    "original": "あそこ！　階段あるよ？ ",
+    "translation": "那边！好像有楼梯的样子？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那边！有楼梯哦。 \n\n那里！有楼梯吗？"
+  },
+  {
+    "key": "YUKARI_STAIR_FIND_3_0",
+    "original": "次のエリアに進めそうだねー。",
+    "translation": "看起来可以前往下一个区域呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像可以前进到下一个区域。\n\n好像可以进入下一个区域了呢。\n\n好像要进入下一个区域了呢。"
+  },
+  {
+    "key": "YUKARI_TREASURE_FIND_1_0",
+    "original": "宝箱があるけど…罠とかじゃないよね？ ",
+    "translation": "虽然有宝箱，但不会是陷阱吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有宝箱……应该不是陷阱吧？ \n\n虽然有宝箱……但不是陷阱吧？ \n\n有宝箱……不会是陷阱吧？"
+  },
+  {
+    "key": "YUKARI_TREASURE_FIND_2_0",
+    "original": "ラッキー！　宝箱みっけ！ ",
+    "translation": "太走运了！发现宝箱！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太幸运了！发现宝箱！ \n\n幸运！宝箱！ \n\n幸运！宝箱来了！"
+  },
+  {
+    "key": "YUKARI_TREASURE_FIND_3_0",
+    "original": "宝箱があるね。開けてみる？ ",
+    "translation": "宝箱在那里。要打开看看吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有宝箱呢。要打开看看吗？ \n\n有宝箱啊。打开看看？ \n\n有个宝箱呢。打开看看？"
+  },
+  {
+    "key": "YUKARI_CHECK_WALL_1_0",
+    "original": "何かあるような…調べてみない？ ",
+    "translation": "有什么事吗？要不要调查一下？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像有什么东西……要不要调查一下？ \n\n好像有什么事……不调查一下吗？ \n\n好像有什么……要不要调查一下？"
+  },
+  {
+    "key": "YUKARI_CHECK_WALL_2_0",
+    "original": "なーんかこの辺、怪しいんだよなぁ。",
+    "translation": "这附近感觉有点可疑呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n总觉得这附近很可疑啊。\n\n不知道为什么，这一带很可疑。\n\n这附近好奇怪啊。"
+  },
+  {
+    "key": "YUKARI_CHECK_WALL_3_0",
+    "original": "あれ？　なんかあるよ？ ",
+    "translation": "嗯？这里好像有什么东西？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n咦？好像有什么东西？ \n\n咦？有什么事吗？"
+  },
+  {
+    "key": "YUKARI_SWITCH_FIND_1_0",
+    "original": "スイッチ、押してみる？ ",
+    "translation": "要按一下开关吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要按一下开关吗？ \n\n试着按下开关？ \n\n要不要按一下开关？"
+  },
+  {
+    "key": "YUKARI_SWITCH_FIND_2_0",
+    "original": "あっ、これスイッチ…？　どうする？ ",
+    "translation": "啊，这个开关？要怎么处理？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊，这是开关……？怎么办？ \n\n啊，这个开关……？怎么办？"
+  },
+  {
+    "key": "YUKARI_SWITCH_FIND_3_0",
+    "original": "スイッチがあるよ！ ",
+    "translation": "有开关哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有开关呢！ \n\n有开关哦！"
+  },
+  {
+    "key": "YUKARI_SHORTCUT_FIND_1_0",
+    "original": "そこ、通れそうじゃない？ ",
+    "translation": "那里，看起来能通过吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那边好像可以过去？ \n\n那里应该可以通过吧？ \n\n那里不是可以通过吗？"
+  },
+  {
+    "key": "YUKARI_SHORTCUT_FIND_2_0",
+    "original": "近道できそうな場所、発見！ ",
+    "translation": "发现了看起来好像是捷径的地方！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现可以抄近路的地方！ \n\n发现可以抄近道的地方！ \n\n发现能抄近路的地方！"
+  },
+  {
+    "key": "YUKARI_SHORTCUT_FIND_3_0",
+    "original": "見て、近道できそうな場所がある。",
+    "translation": "看，好像有条捷径可以走。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你看，可以抄近路的地方。\n\n看，有可以抄近路的地方。\n\n有个可以抄近道的地方。"
+  },
+  {
+    "key": "YUKARI_FOE_WARNING_NEAR__0",
+    "original": "げ、まだ来てる…しつこすぎ！ ",
+    "translation": "哎呀，还在追过来呢……太烦人了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呃，又来了……太缠人了吧！ \n\n啊，还来着……太烦人了！ \n\n啊，还来了……太执着了！"
+  },
+  {
+    "key": "YUKARI_FOE_WARNING_NEAR__2_0",
+    "original": "さっきの、まだ追ってきてない！？ ",
+    "translation": "刚才的，还没有追上来吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n刚才的F.O.E还没追过来！？ \n\n刚才的，还没追上来！？ \n\n刚才那个，还没追上来！？"
+  },
+  {
+    "key": "YUKARI_FOE_WARNING_NEAR__3_0",
+    "original": "Ｆ．Ｏ．Ｅがまだ近くにいるよ！ ",
+    "translation": "F.O.E还在附近呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E还在附近！ \n\nF.O.E还在附近呢！ \n\nF.O.E还在附近哟！"
+  },
+  {
+    "key": "YUKARI_1PERSON_HPTP10_1_0",
+    "original": "ごめん、ちょっときつい… ",
+    "translation": "对不起，有点困难……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n抱歉，有点撑不住了…… \n\n对不起，有点紧…… \n\n对不起，有点累……"
+  },
+  {
+    "key": "YUKARI_1PERSON_HPTP10_2_0",
+    "original": "ハァ、ハァ…もー限界… ",
+    "translation": "哈啊，哈啊……已经到极限了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呼、呼……到极限了…… \n\n啊、啊……也是极限…… \n\n哈、哈……极限……"
+  },
+  {
+    "key": "YUKARI_1PERSON_HPTP10_3_0",
+    "original": "もう無理…一度戻ろ？ ",
+    "translation": "再也不行了……要不要回去一次？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n已经不行了……先回去吧？ \n\n已经不行了……回去一次吧？ \n\n已经不行了……回去一次？"
+  },
+  {
+    "key": "YUKARI_1PERSON_HP10_1_0",
+    "original": "体力が…なくなりそう… ",
+    "translation": "体力快要耗尽了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n体力……快没了…… \n\n体力好像没有了…… \n\n体力……快要消失了……"
+  },
+  {
+    "key": "YUKARI_1PERSON_HP10_2_0",
+    "original": "うぅ、ちょっと体力厳しー… ",
+    "translation": "唉，有点体力不够啊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呜呜，体力有点不够…… \n\n嗯，体力有点吃不消…… \n\n嗯，体力有点紧张……"
+  },
+  {
+    "key": "YUKARI_1PERSON_HP10_3_0",
+    "original": "やば、倒れそう…回復お願い… ",
+    "translation": "糟糕，快要倒下了……求恢复……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n糟糕，快倒下了……麻烦帮我补血…… \n\n啊，快要倒下了……请恢复…… \n\n哎呀，快倒下了……请回复……"
+  },
+  {
+    "key": "YUKARI_1PERSON_TP10_1_0",
+    "original": "ごめん、スタミナ切れそう… ",
+    "translation": "对不起，我好像快没体力了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n抱歉，我快没体力了…… \n\n对不起，体力快用完了…… \n\n对不起，我好像没力气了……"
+  },
+  {
+    "key": "YUKARI_1PERSON_TP10_2_0",
+    "original": "うう、疲れた…ちょっと休憩しない？ ",
+    "translation": "唉，累了……要不要稍微休息一下？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呜呜，好累……要不要休息一下？ \n\n嗯，累了……要不要休息一下？ \n\n呜呜，累了……要不要休息一下？"
+  },
+  {
+    "key": "YUKARI_1PERSON_TP10_3_0",
+    "original": "もう気力無いよー… ",
+    "translation": "已经没有精力了呀……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我已经没力气了啦…… \n\n已经没有力气了……"
+  },
+  {
+    "key": "YUKARI_1PERSON_HP80_1_0",
+    "original": "今の戦闘、いい感じだったねー。",
+    "translation": "现在的战斗感觉不错呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n刚才的战斗感觉不错呢。\n\n现在的战斗，感觉很好呢。\n\n现在的战斗感觉真好啊。"
+  },
+  {
+    "key": "YUKARI_1PERSON_HP80_2_0",
+    "original": "この調子でいけるといいな！ ",
+    "translation": "希望能够保持这种状态！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n如果能继续这样下去就好了！ \n\n照这样下去就好了！ \n\n这样下去就好了！"
+  },
+  {
+    "key": "YUKARI_1PERSON_HP80_3_0",
+    "original": "采配の勝利って感じ？　ありがとね。",
+    "translation": "感觉就像是制订了胜利计划一样？谢谢咯。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n感觉像是指挥的胜利？谢谢你喽。\n\n感觉指挥的胜利？谢谢你。\n\n是指挥棒的胜利吗？谢谢你。"
+  },
+  {
+    "key": "YUKARI_DUNGEON_START_1_0",
+    "original": "何があるかわからないし、慎重にね。",
+    "translation": "不知道会发生什么，所以要小心。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n因为不知道会遇到什么，所以要慎重行事。\n\n不知道有什么，要慎重。\n\n不知道会发生什么，要慎重哦。"
+  },
+  {
+    "key": "YUKARI_DUNGEON_START_2_0",
+    "original": "忘れ物とかないよね？　よし、行こ！ ",
+    "translation": "没有忘带东西吧？好，我们走吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n应该没有忘记什么东西吧？好，走吧！ \n\n没有遗忘的东西吧？好，走！ \n\n没忘东西吧？好，走吧！"
+  },
+  {
+    "key": "YUKARI_DUNGEON_START_3_0",
+    "original": "よーし、いっちょやりますか！ ",
+    "translation": "好的，我们来试试看吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好～～来大干一场吧！ \n\n好了，要做一次吗！ \n\n好了，要做吗？"
+  },
+  {
+    "key": "YUKARI_QUEST_START_1_0",
+    "original": "さーて、頑張るとするか。",
+    "translation": "那么，就继续努力吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好啦，加油吧。\n\n那么，要努力吗。\n\n那么，要努力吗？"
+  },
+  {
+    "key": "YUKARI_QUEST_START_2_0",
+    "original": "準備は万端だよ！ ",
+    "translation": "准备万无一失！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n准备万全了！ \n\n一切都准备好了！ \n\n一切准备就绪！"
+  },
+  {
+    "key": "YUKARI_QUEST_START_3_0",
+    "original": "特別上映、いっくよー！ ",
+    "translation": "特别上映，出发吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n特别上映，开始喽～～！ \n\n特别上映！ \n\n特别上映，去吧～！"
+  },
+  {
+    "key": "YUKARI_TOUHA_25_1_0",
+    "original": "まだまだ先は長いね。 \n気をつけて進も。 ",
+    "translation": "还有很长的路要走呢。\n小心前进。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前面的路还很长呢。\n前进时要小心。 \n\n还有很长的路要走呢。\n小心前进。 \n\n路还很长呢。小心前进。"
+  },
+  {
+    "key": "YUKARI_TOUHA_25_2_0",
+    "original": "ひえー…このフロアも広そうだねー… ",
+    "translation": "哇哦……这个楼层看起来也很宽敞呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呜哇～～……这一层楼好像也很宽广…… \n\n天啊……这个楼层看起来也很宽敞呢…… \n\n嗯……这个楼层看起来也很大啊……"
+  },
+  {
+    "key": "YUKARI_TOUHA_50_1_0",
+    "original": "地図、いい感じに埋まってきたね！ ",
+    "translation": "地图，填得很不错嘛！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n地图填得差不多了呢！ \n\n地图，被很好的感觉填满了呢！ \n\n地图，填得真好啊！"
+  },
+  {
+    "key": "YUKARI_TOUHA_50_2_0",
+    "original": "ちょうど半分、って感じかな？ ",
+    "translation": "差不多就是一半的感觉吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n差不多填到一半了吧？ \n\n正好是一半的感觉吧？"
+  },
+  {
+    "key": "YUKARI_TOUHA_75_1_0",
+    "original": "あとちょっとだね！ ",
+    "translation": "再坚持一会儿吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n还差一点点！ \n\n还有一点呢！ \n\n就差一点点了！"
+  },
+  {
+    "key": "YUKARI_TOUHA_75_2_0",
+    "original": "残りの空白が気になるねー。 ",
+    "translation": "剩下的空白让人在意呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n剩下的空白让人很在意呢。 \n\n我很在意剩下的空白。"
+  },
+  {
+    "key": "YUKARI_TOUHA_100_1_0",
+    "original": "んー、達成感！ \nマッピング、お疲れ様！ ",
+    "translation": "嗯，成就感！\n地图制作辛苦了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯～～成就感！\n画地图辛苦了！ \n\n嗯，成就感！\n映射，辛苦了！ \n\n嗯，成就感！\n绘图，辛苦了！"
+  },
+  {
+    "key": "YUKARI_TOUHA_100_2_0",
+    "original": "このエリアのことは任せて？ \nって感じ？ ",
+    "translation": "这个区域的事情就交给我了？\n这种感觉？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这个区域就交给我吧？\n大概是这种感觉？ \n\n这个区域的事就交给我吧？\n这样的感觉？ \n\n这个区域的事情就交给我吧？\n的感觉？"
+  },
+  {
+    "key": "YUKARI_MAPPING_ICON_ALL__0",
+    "original": "合ってる合ってる！ ",
+    "translation": "对得上对得上！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n没错没错！ \n\n对、对！ \n\n很对很对！"
+  },
+  {
+    "key": "YUKARI_MAPPING_ICON_ALL__2_0",
+    "original": "へえ、正確な地図だね！ ",
+    "translation": "哇，这是一张准确的地图呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦，好精确的地图！ \n\n啊，这地图真准确啊！ \n\n啊，是正确的地图啊！"
+  },
+  {
+    "key": "YUKARI_MAPPING_ICON_KAID_0",
+    "original": "そうそう！　階段、そこにあったよね。",
+    "translation": "对了对了！那边是有一个楼梯呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n对对对！楼梯就在那里。\n\n对了对了！楼梯在那里吧。"
+  },
+  {
+    "key": "YUKARI_MAPPING_ICON_KAID_2_0",
+    "original": "これで迷わず階段まで行けるね。 ",
+    "translation": "这样就能毫不迷茫地走到楼梯口了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这样就能毫不迷惘地走到楼梯了。 \n\n这样就可以毫不犹豫地走到楼梯了。"
+  },
+  {
+    "key": "YUKARI_MAPPING_CHANGE_CO_0",
+    "original": "あっ、その色かわいー！ \nいい感じ。 ",
+    "translation": "哇，那个颜色好可爱！\n感觉很不错。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊，那个颜色好可爱！\n感觉不错。 \n\n啊，那个颜色好可爱！\n感觉很好。"
+  },
+  {
+    "key": "YUKARI_MAPPING_CHANGE_CO_2_0",
+    "original": "色変えると、わかりやすいね！ ",
+    "translation": "换个颜色，就容易看懂了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n改变颜色后，就很好辨认了呢！ \n\n改变颜色的话，很容易理解呢！ \n\n换个颜色，就容易理解了！"
+  },
+  {
+    "key": "YUKARI_MAPPING_ICON_DEL__0",
+    "original": "整理整頓って結構苦手なんだよなー… ",
+    "translation": "整理整顿对我来说挺不擅长的呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我其实满不擅长整理的…… \n\n整理整顿真的很不擅长啊…… \n\n我很不擅长整理整顿……"
+  },
+  {
+    "key": "YUKARI_MAPPING_ICON_DEL__2_0",
+    "original": "迷いなく捨てるって大事だよね～。",
+    "translation": "毫无犹豫地放下是很重要的呢～",
+    "stage": 1,
+    "context": "机翻辅助：\n\n毫不迷惘地丢掉是很重要的呢～～\n\n毫不犹豫地扔掉是很重要的呢～\n\n毫不犹豫地扔掉很重要哦～"
+  },
+  {
+    "key": "YUKARI_MAPPING_MEMO_1_0",
+    "original": "メモは大事だよね、うん。",
+    "translation": "备忘录很重要呢，嗯。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n笔记很重要呢，嗯。\n\n笔记很重要吧，嗯。"
+  },
+  {
+    "key": "YUKARI_MAPPING_MEMO_2_0",
+    "original": "メモを取っておくと、後で安心だよね。",
+    "translation": "记下备忘录，之后就能放心了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n做好笔记的话，之后就能放心了。\n\n记笔记的话，以后就放心了。\n\n做好笔记的话，之后就放心了吧。"
+  },
+  {
+    "key": "YUKARI_DOOR_OPEN_1_0",
+    "original": "こっちこっち！ ",
+    "translation": "过来过来！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这边这边！ \n\n这边这边这边！"
+  },
+  {
+    "key": "YUKARI_DOOR_OPEN_2_0",
+    "original": "ほら、行くよ！ ",
+    "translation": "快，走吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好啦，走喽！ \n\n看，我走了！ \n\n好了，走吧！"
+  },
+  {
+    "key": "YUKARI_DOOR_OPEN_3_0",
+    "original": "おっさきー！ ",
+    "translation": "先走一步！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n冲啊～～！ \n\n哎呀！ \n\n喂！"
+  }
+]

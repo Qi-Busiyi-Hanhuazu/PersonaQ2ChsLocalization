@@ -1,0 +1,387 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "くっそ…\nいくらやっても、キリがねえ…！",
+    "translation": "くっそ…\nいくらやっても、キリがねえ…！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ハァ、ハァ…\nこのままじゃまずいね…",
+    "translation": "ハァ、ハァ…\nこのままじゃまずいね…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ここまで往生際が悪いとは…\nこれ以上は、身の破滅を招くだけ。",
+    "translation": "ここまで往生際が悪いとは…\nこれ以上は、身の破滅を招くだけ。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "くっ…まだ終わってない！",
+    "translation": "くっ…まだ終わってない！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なぜ、ご理解頂けないのかしら？\n誰も貴方たちを必要としていない、と…",
+    "translation": "なぜ、ご理解頂けないのかしら？\n誰も貴方たちを必要としていない、と…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "貴方たちがしていることは、\nただの一方的な、感情の押し付け…",
+    "translation": "貴方たちがしていることは、\nただの一方的な、感情の押し付け…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そ、そんなことない！",
+    "translation": "そ、そんなことない！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ひかりさん…？",
+    "translation": "ひかりさん…？",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "みんな！　聞いて！",
+    "translation": "みんな！　聞いて！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "私はずっと、自分の本当の気持ちを、\n否定し続けてきた…",
+    "translation": "私はずっと、自分の本当の気持ちを、\n否定し続けてきた…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "他人からどう思われてるか、いつも怖くて…\n傷つかないために、周りに必死で合わせた。",
+    "translation": "他人からどう思われてるか、いつも怖くて…\n傷つかないために、周りに必死で合わせた。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "本当は、こんな自分が大嫌いだった…\nいつもみじめだった。",
+    "translation": "本当は、こんな自分が大嫌いだった…\nいつもみじめだった。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_008_3",
+    "original": "だけど、私は弱いから、仕方がない。\nそう自分に言い訳しながら、流されてた。",
+    "translation": "だけど、私は弱いから、仕方がない。\nそう自分に言い訳しながら、流されてた。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_008_4",
+    "original": "ここにいるみんなも、私と同じでしょう？",
+    "translation": "ここにいるみんなも、私と同じでしょう？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "オレも…同じだ…",
+    "translation": "オレも…同じだ…",
+    "stage": 1,
+    "context": "ダルそうな青年男性"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ああ、逃げるしかなかったんだ…",
+    "translation": "ああ、逃げるしかなかったんだ…",
+    "stage": 1,
+    "context": "けだるげな中年男性"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "でも…だから何だって言うの…",
+    "translation": "でも…だから何だって言うの…",
+    "stage": 1,
+    "context": "もの憂げな若い女性"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "仕方ないじゃない…",
+    "translation": "仕方ないじゃない…",
+    "stage": 1,
+    "context": "面倒そうな中年女性"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "主人公が弱いままの映画でいいの？\n逃げ続けるだけの話でいいの？",
+    "translation": "主人公が弱いままの映画でいいの？\n逃げ続けるだけの話でいいの？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "そんな映画をずっと見続けて、\n面白い、幸せだって、心から思える！？",
+    "translation": "そんな映画をずっと見続けて、\n面白い、幸せだって、心から思える！？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_014_2",
+    "original": "お願い。\nこの映画を見て、思い出して！",
+    "translation": "お願い。\nこの映画を見て、思い出して！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "自分は、どんな映画のどんな主人公で\nいたかったのか！",
+    "translation": "自分は、どんな映画のどんな主人公で\nいたかったのか！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "みんなは、自分の人生の主役なんだよ！！",
+    "translation": "みんなは、自分の人生の主役なんだよ！！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "自分の…人生…",
+    "translation": "自分の…人生…",
+    "stage": 1,
+    "context": "ダルそうな青年男性"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "けど、どうせ…",
+    "translation": "けど、どうせ…",
+    "stage": 1,
+    "context": "けだるげな中年男性"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "私…どうしたら…",
+    "translation": "私…どうしたら…",
+    "stage": 1,
+    "context": "面倒そうな中年女性"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "お止めなさい。",
+    "translation": "お止めなさい。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "……っ。",
+    "translation": "……っ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "此処にいる人々は、脆く儚い…\n悪戯に惑わせてはなりません。",
+    "translation": "此処にいる人々は、脆く儚い…\n悪戯に惑わせてはなりません。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "これ以上は、いくら無力な貴方でも\n容赦いたしませんよ。",
+    "translation": "これ以上は、いくら無力な貴方でも\n容赦いたしませんよ。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "私は、無力なんかじゃない。",
+    "translation": "私は、無力なんかじゃない。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "あら…どうして？",
+    "translation": "あら…どうして？",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "みんなに会って、自分を曲げない姿を見て、\n私は勇気を貰った。",
+    "translation": "みんなに会って、自分を曲げない姿を見て、\n私は勇気を貰った。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_024_5_0",
+    "original": "それで、思い出したの。\n私が映画を好きな、本当の理由。",
+    "translation": "それで、思い出したの。\n私が映画を好きな、本当の理由。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_024_5_1",
+    "original": "映画はいつだって、私に教えてくれてた。",
+    "translation": "映画はいつだって、私に教えてくれてた。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_024_5_2",
+    "original": "誰かの頑張りは、誰かの勇気になる。\nその勇気が、みんなを動かしていく。",
+    "translation": "誰かの頑張りは、誰かの勇気になる。\nその勇気が、みんなを動かしていく。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "だから、なんだというの？",
+    "translation": "だから、なんだというの？",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "たとえ小さくても、私の一歩だって、\n誰かの勇気になれるはず。",
+    "translation": "たとえ小さくても、私の一歩だって、\n誰かの勇気になれるはず。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "…ううん、私だけじゃない。\nみんなの勇気が、誰かの力に変わっていく。",
+    "translation": "…ううん、私だけじゃない。\nみんなの勇気が、誰かの力に変わっていく。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_026_5_0",
+    "original": "だから、誰しもが無力じゃない。\n何かを変えられる力を持ってるんだから！",
+    "translation": "だから、誰しもが無力じゃない。\n何かを変えられる力を持ってるんだから！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "へへっ、よく言ったじゃねーか！",
+    "translation": "へへっ、よく言ったじゃねーか！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ひかりちゃんは、強くなった。\nここにいる人たちだって、変われるんだよ！",
+    "translation": "ひかりちゃんは、強くなった。\nここにいる人たちだって、変われるんだよ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "…っ！？",
+    "translation": "…っ！？",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エンリル",
+    "original": "エンリル",
+    "translation": "エンリル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ダルそうな青年男性",
+    "original": "ダルそうな青年男性",
+    "translation": "ダルそうな青年男性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_けだるげな中年男性",
+    "original": "けだるげな中年男性",
+    "translation": "けだるげな中年男性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_もの憂げな若い女性",
+    "original": "もの憂げな若い女性",
+    "translation": "もの憂げな若い女性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_面倒そうな中年女性",
+    "original": "面倒そうな中年女性",
+    "translation": "面倒そうな中年女性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "みんな、もう安心だよー！\nＦ．Ｏ．Ｅの追尾反応も消えたし。",
+    "translation": "みんな、もう安心だよー！\nＦ．Ｏ．Ｅの追尾反応も消えたし。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ハァハァ…なんだよ、アレ！？\nめちゃくっちゃ焦ったわ！",
+    "translation": "ハァハァ…なんだよ、アレ！？\nめちゃくっちゃ焦ったわ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "でも、おかしいですね。",
+    "translation": "でも、おかしいですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "[颜色 03]大きいロボットが僕たちを追跡した[颜色 01]のに\n対して、[颜色 03]小さい方は微動だにしなかった…[颜色 01]",
+    "translation": "[颜色 03]大きいロボットが僕たちを追跡した[颜色 01]のに\n対して、[颜色 03]小さい方は微動だにしなかった…[颜色 01]",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "…もしかして、[颜色 03]小さい方は監視役[颜色 01]かもね。\n敵を発見すると追跡命令を出すんじゃない？",
+    "translation": "…もしかして、[颜色 03]小さい方は監視役[颜色 01]かもね。\n敵を発見すると追跡命令を出すんじゃない？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ちょっと待って…ってことはだよ。\nＦ．Ｏ．Ｅも対になってるってこと！？",
+    "translation": "ちょっと待って…ってことはだよ。\nＦ．Ｏ．Ｅも対になってるってこと！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "それなら、確かに筋は通るな。",
+    "translation": "それなら、確かに筋は通るな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "[颜色 03]小さいＦ．Ｏ．Ｅに見つかると、\n大きいＦ．Ｏ．Ｅが追跡してくる…[颜色 01]か。",
+    "translation": "[颜色 03]小さいＦ．Ｏ．Ｅに見つかると、\n大きいＦ．Ｏ．Ｅが追跡してくる…[颜色 01]か。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "これは厄介だな…",
+    "translation": "これは厄介だな…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "でも逆に考えると、見つかりさえしなければ\n大丈夫なんじゃないかな。",
+    "translation": "でも逆に考えると、見つかりさえしなければ\n大丈夫なんじゃないかな。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "っスね！　つか、むしろ\n[颜色 03]ぶっとばせば[颜色 01]いいんじゃねーか？",
+    "translation": "っスね！　つか、むしろ\n[颜色 03]ぶっとばせば[颜色 01]いいんじゃねーか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "確かに、小さい方の反応は\nそんなに強くなさそうだけど…",
+    "translation": "確かに、小さい方の反応は\nそんなに強くなさそうだけど…",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "その辺りの対処はジョーカーに一任しよう。",
+    "translation": "その辺りの対処はジョーカーに一任しよう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "だが、無用な戦いは避ける方が賢明だ。\n相手がＦ．Ｏ．Ｅなら尚更な。",
+    "translation": "だが、無用な戦いは避ける方が賢明だ。\n相手がＦ．Ｏ．Ｅなら尚更な。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  }
+]

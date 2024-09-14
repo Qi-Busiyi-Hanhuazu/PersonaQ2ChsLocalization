@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ああ…思い出したわ…\n自分が、本当にしたかったこと…",
+    "translation": "ああ…思い出したわ…\n自分が、本当にしたかったこと…",
+    "stage": 1,
+    "context": "面倒そうな中年女性"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そうだよ…\n本当は、諦めたくなんてなかった…！",
+    "translation": "そうだよ…\n本当は、諦めたくなんてなかった…！",
+    "stage": 1,
+    "context": "けだるげな中年男性"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "私も、まだ諦めない。\nもう少し頑張ってみたい…！",
+    "translation": "私も、まだ諦めない。\nもう少し頑張ってみたい…！",
+    "stage": 1,
+    "context": "もの憂げな若い女性"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "はは…ちょっとの勇気でいいんだよな…",
+    "translation": "はは…ちょっとの勇気でいいんだよな…",
+    "stage": 1,
+    "context": "ダルそうな青年男性"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "ありがとう…",
+    "translation": "ありがとう…",
+    "stage": 1,
+    "context": "ダルそうな青年男性"
+  },
+  {
+    "key": "speaker_面倒そうな中年女性",
+    "original": "面倒そうな中年女性",
+    "translation": "面倒そうな中年女性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_けだるげな中年男性",
+    "original": "けだるげな中年男性",
+    "translation": "けだるげな中年男性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_もの憂げな若い女性",
+    "original": "もの憂げな若い女性",
+    "translation": "もの憂げな若い女性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ダルそうな青年男性",
+    "original": "ダルそうな青年男性",
+    "translation": "ダルそうな青年男性",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "アイツら、\nそう遠くへは行っていないはずだぞ！",
+    "translation": "它们应该还没走远！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n那些家伙\n应该没有走远！\n\n那帮家伙，应该没去那么远的地方！\n\n\n那些家伙们，应该没有走那么远吧！\n\n评论：\n\n它们指恐龙（来自剧情党的肯定）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "みんな、注意して追いかけて！",
+    "translation": "大家，一边注意情况一边追赶吧！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n大家小心地追上去！\n\n大家，注意追赶！\n\n大家注意追赶！"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

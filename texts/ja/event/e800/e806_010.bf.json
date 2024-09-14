@@ -1,0 +1,247 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "この依頼は『アンモナイトが見たい！』\n…というものです。",
+    "translation": "この依頼は『アンモナイトが見たい！』\n…というものです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "絶滅したといわれる『アンモナイト』\nがジュネシック・ランドにいるという噂。",
+    "translation": "絶滅したといわれる『アンモナイト』\nがジュネシック・ランドにいるという噂。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "私もぜひ、その『アンモナイト』とやらと\nくんずほぐれつで戯れたいものです。",
+    "translation": "私もぜひ、その『アンモナイト』とやらと\nくんずほぐれつで戯れたいものです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "エリザベスさんって、どこから\nそういう情報、手に入れてくるのかな…",
+    "translation": "エリザベスさんって、どこから\nそういう情報、手に入れてくるのかな…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ふふん。己の欲望を満たすために\nアンテナを張り巡らせる！",
+    "translation": "ふふん。己の欲望を満たすために\nアンテナを張り巡らせる！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "それが暇な…失礼。\n淑女のたしなみです。",
+    "translation": "それが暇な…失礼。\n淑女のたしなみです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "…全部聞こえてんだけど。",
+    "translation": "…全部聞こえてんだけど。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "まあ、依頼を達成すれば、\n僕たちにもメリットはあるということで。",
+    "translation": "まあ、依頼を達成すれば、\n僕たちにもメリットはあるということで。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "アンモナイト…",
+    "translation": "アンモナイト…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ん？　おイナリ、どした？",
+    "translation": "ん？　おイナリ、どした？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "[P5名]、是非ともこの依頼、\n引き受けたい！　ダメか？",
+    "translation": "[P5名]、是非ともこの依頼、\n引き受けたい！　ダメか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "構わない",
+    "translation": "構わない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "祐介に任せる",
+    "translation": "祐介に任せる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_2",
+    "original": "なにか理由が？",
+    "translation": "なにか理由が？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "…助かる。",
+    "translation": "…助かる。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "てか、すげー乗り気だけど、何で？",
+    "translation": "てか、すげー乗り気だけど、何で？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "天城さんの心を動かすためだ。",
+    "translation": "天城さんの心を動かすためだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "女の子にアンモナイトなんて、\nナンセンスクマよー！",
+    "translation": "女の子にアンモナイトなんて、\nナンセンスクマよー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "もっとギンギラギンにさりげなく\n高価なものがいいクマ！",
+    "translation": "もっとギンギラギンにさりげなく\n高価なものがいいクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "そういう問題じゃなくて…\nえっと…いつの間に、そういう関係？",
+    "translation": "そういう問題じゃなくて…\nえっと…いつの間に、そういう関係？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "違う違う。\n実は今、祐介君に絵を教わろうとしてて…",
+    "translation": "違う違う。\n実は今、祐介君に絵を教わろうとしてて…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "私のパッションを解放するとかで、\n好きそうな題材を探してくれてたの。",
+    "translation": "私のパッションを解放するとかで、\n好きそうな題材を探してくれてたの。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "天城さんの絵には彼女自身気付かない\n秘められた爆発力がある。",
+    "translation": "天城さんの絵には彼女自身気付かない\n秘められた爆発力がある。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "俺はそれを見たい。そのためにも、\n何としてもアンモナイトを手に入れねば！",
+    "translation": "俺はそれを見たい。そのためにも、\n何としてもアンモナイトを手に入れねば！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ま、ユースケもこんな感じだし、\n早いうちに依頼、達成しようぜ。",
+    "translation": "ま、ユースケもこんな感じだし、\n早いうちに依頼、達成しようぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "…雪子の絵って、そんな特徴的だっけ？\n図工で見たときは普通だったけど…",
+    "translation": "…雪子の絵って、そんな特徴的だっけ？\n図工で見たときは普通だったけど…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

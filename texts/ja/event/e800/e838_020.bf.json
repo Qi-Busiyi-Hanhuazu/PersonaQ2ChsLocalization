@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "聞いたぞ、巽。\nお前も鍛えて高みへ行きたいそうだな？",
+    "translation": "聞いたぞ、巽。\nお前も鍛えて高みへ行きたいそうだな？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "まあ…そういうことらしいっス。",
+    "translation": "まあ…そういうことらしいっス。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "よし、さっそくＦ．Ｏ．Ｅのところへ\n向かうとしよう。",
+    "translation": "よし、さっそくＦ．Ｏ．Ｅのところへ\n向かうとしよう。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "まずは、うさぎ跳びで移動だ！",
+    "translation": "まずは、うさぎ跳びで移動だ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "フツーに移動させて！？\nてか、『まずは』ってナニ！？",
+    "translation": "フツーに移動させて！？\nてか、『まずは』ってナニ！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "トレーニングに決まってるだろう。\n移動だって無駄にはできん。",
+    "translation": "トレーニングに決まってるだろう。\n移動だって無駄にはできん。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "ほふく前進、全力ダッシュ、逆立ち歩き…\nメニューはたっぷり控えているぞ。",
+    "translation": "ほふく前進、全力ダッシュ、逆立ち歩き…\nメニューはたっぷり控えているぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "Ｆ．Ｏ．Ｅと戦う前に\n死ななきゃいいスけどね…",
+    "translation": "Ｆ．Ｏ．Ｅと戦う前に\n死ななきゃいいスけどね…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "それでは行くぞ、ジョーカー！",
+    "translation": "それでは行くぞ、ジョーカー！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "ゴングはすでに鳴っている！\n順平、巽、遅れるなよ！",
+    "translation": "ゴングはすでに鳴っている！\n順平、巽、遅れるなよ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  }
+]

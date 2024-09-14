@@ -1,0 +1,128 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "い、いよいよですな～。\n皆さん、か、覚悟はヨロシかったですか？",
+    "translation": "终、终于要开始了呢～\n各位，都、都做好觉悟了吗？",
+    "stage": 0,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n终、终于要开始了呢～\n各位，都、都做好觉悟了吗？\n\n啊，终于到了。\n大家有觉悟吗？\n\n好，终于到了～诸位，做好心理准备了吗？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "声、すごい裏返ってるけど。",
+    "translation": "声音都破音了耶。",
+    "stage": 0,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n声音都破音了耶。\n\n声音，虽然很厉害。\n\n声音听起来很不协调。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "つか、改めて見ると…\nやっぱデケえ…",
+    "translation": "话说，再这样重新审视一遍……\n果然好大啊……",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n话说，这样重新一看……\n果然很大……\n\n话说回来，重新看的话……\n果然很帅……\n\n啊，重新看的话……\n还是去吧……"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あの牙でガブっとやられたら、\nクマ、お嫁に行けないカラダに…",
+    "translation": "要是被那对尖牙咬到\n小熊，就要嫁不出去了……",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n要是被那对尖牙咬到\n小熊，就嫁不出去了……\n\n如果被那颗牙齿咬了一口，\n小熊就变成了嫁不出去的身体……\n\n如果被那颗牙扑通一声击中的话，小熊，嫁不出去的身体……"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "きっと勝てる",
+    "translation": "一定会赢的",
+    "stage": 1,
+    "context": "机翻辅助：\n\n一定会赢\n\n一定能赢"
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "恐れるな",
+    "translation": "别害怕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n别害怕\n\n不要怕\n\n不要害怕"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "はい、戦うことを諦めてしまったら\nそこで負けですから。",
+    "translation": "是啊，一旦放弃战斗\n我们就输了。",
+    "stage": 1,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n是啊，一旦放弃战斗\n就输了。\n\n是的，如果放弃战斗的话\n那就输了。\n\n是的，如果放弃战斗\n那就输了。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いいこと言うじゃねーか、ケン。\nその通りだぜ。",
+    "translation": "说得好啊，乾。\n正是如此。",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n说得好啊，乾。\n说得没错。\n\n说得真好啊，乾。\n就是这样。\n\n乾，你说得太好了。你说得没错。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "へへ、ただの受け売りなんですけど。",
+    "translation": "嘿嘿，我只是现学现卖而已。",
+    "stage": 0,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n嘿嘿，我只是现学现卖而已。\n\n嘿嘿，只是现卖的。\n\n嘿嘿，我不过是随口说说而已。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "フェザーマン語録キター！\nヒーローは退かぬ、媚びぬ、諦めぬ！",
+    "translation": "翔羽侠语录来啦！\n英雄不退缩、不献媚、不放弃！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n费瑟曼语录来啦！\n英雄不退缩、不献媚、不放弃！\n\n费瑟曼语录！\n英雄不退，不谄媚，不放弃！\n\n飞毛腿语录来了！英雄不退缩、不谄媚、不放弃！"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "ジョーカー、準備ができたら突っ込め！\nＶＳクイーン・ジョー・第一幕だ！",
+    "translation": "JOKER，准备好了就冲吧！\nVS女王乔·第一幕开始！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\nJOKER，准备好了就冲吧！\nVS女王乔·第一幕！\n\nJOKER、准备好了就冲！\nVSQUEEN·乔·第一幕！\n\nJOKER，准备好了就去吐槽吧！\nVSQUEEN·乔·第一幕！"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊织 顺平",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "小熊",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

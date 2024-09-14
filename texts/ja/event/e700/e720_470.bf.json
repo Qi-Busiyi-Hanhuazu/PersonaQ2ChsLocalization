@@ -1,0 +1,128 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ちょっと、どこに行くの？\nコンテナまで肉を取りに行かないと。",
+    "translation": "ちょっと、どこに行くの？\nコンテナまで肉を取りに行かないと。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そーそー、早く行かなきゃ！\nもし肉を他の誰かに取られたら大変だし！",
+    "translation": "そーそー、早く行かなきゃ！\nもし肉を他の誰かに取られたら大変だし！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "こういうのは早い者勝ちだからね。\n一瞬のスキが、肉を逃すのだ！",
+    "translation": "こういうのは早い者勝ちだからね。\n一瞬のスキが、肉を逃すのだ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "いや、そこまで肉に執着するの\nこの世界じゃ里中くらい…",
+    "translation": "いや、そこまで肉に執着するの\nこの世界じゃ里中くらい…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "肉の試食はまだか？\nさっきから腹が鳴って敵わん。",
+    "translation": "肉の試食はまだか？\nさっきから腹が鳴って敵わん。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ここにもいたか…",
+    "translation": "ここにもいたか…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ここは寄り道せずに、早くコンテナに\n向かったほうが良さそうだね。",
+    "translation": "ここは寄り道せずに、早くコンテナに\n向かったほうが良さそうだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "今は寄り道せず、肉を取りに\nコンテナに向かわないかい？",
+    "translation": "今は寄り道せず、肉を取りに\nコンテナに向かわないかい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "待ってくれ。\n今は、肉を調理する場所を探そう。",
+    "translation": "待ってくれ。\n今は、肉を調理する場所を探そう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ああ、向かうは『調理が出来る水辺』だ。\n頼んだぜ、ジョーカー。",
+    "translation": "ああ、向かうは『調理が出来る水辺』だ。\n頼んだぜ、ジョーカー。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "おい、そっちじゃない。\n探すのは『調理が出来る水辺』だ。",
+    "translation": "おい、そっちじゃない。\n探すのは『調理が出来る水辺』だ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

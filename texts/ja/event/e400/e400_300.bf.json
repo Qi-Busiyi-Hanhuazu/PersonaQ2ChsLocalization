@@ -1,0 +1,576 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…ねえ、ひかりちゃんって\n映画が好きなんだよね？",
+    "translation": "…ねえ、ひかりちゃんって\n映画が好きなんだよね？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん、すごく好きだよ。\nそれがどうかしたの？",
+    "translation": "うん、すごく好きだよ。\nそれがどうかしたの？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "いや、何で閉じ込められたのが\n映画館だったのかなーって。",
+    "translation": "いや、何で閉じ込められたのが\n映画館だったのかなーって。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "んーむむ…ドーが閉じ込めた犯人なら、\nヒカリンの好みに合わせたってことクマ？",
+    "translation": "んーむむ…ドーが閉じ込めた犯人なら、\nヒカリンの好みに合わせたってことクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "優しさだ",
+    "translation": "優しさだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "ドーの趣味だ",
+    "translation": "ドーの趣味だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_2",
+    "original": "おもてなしだ",
+    "translation": "おもてなしだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いやいや、そんな優しさ発揮するなら\nそもそも閉じ込めんなって話だろ！",
+    "translation": "いやいや、そんな優しさ発揮するなら\nそもそも閉じ込めんなって話だろ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "だな。いくら映画好きでも\n出れない上に、内容も意味不明じゃあな。",
+    "translation": "だな。いくら映画好きでも\n出れない上に、内容も意味不明じゃあな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そっか。ドーが映写技師なら、\nその趣味に合わせてもヘンじゃないよね。",
+    "translation": "そっか。ドーが映写技師なら、\nその趣味に合わせてもヘンじゃないよね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "なるほど。長く居てもらいたいなら、\n居心地が良いに越したことはないだろう。",
+    "translation": "なるほど。長く居てもらいたいなら、\n居心地が良いに越したことはないだろう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "いやいや、一方的に閉じ込めといて\nおもてなしも何もなくね！？",
+    "translation": "いやいや、一方的に閉じ込めといて\nおもてなしも何もなくね！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "俺は、ジョーカーの家には\n好んで閉じこもっているが？",
+    "translation": "俺は、ジョーカーの家には\n好んで閉じこもっているが？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "居心地が良い上に、カレーもある。あとは\n画材があれば、何時まででも入り浸れるぞ。",
+    "translation": "居心地が良い上に、カレーもある。あとは\n画材があれば、何時まででも入り浸れるぞ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "なんか、すげーデジャブ…\n俺の部屋にも似たようなの居ついてんぞ。",
+    "translation": "なんか、すげーデジャブ…\n俺の部屋にも似たようなの居ついてんぞ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あのね…正直に言うと、あの映画館、\n最初は居心地が良いって思ってた。",
+    "translation": "あのね…正直に言うと、あの映画館、\n最初は居心地が良いって思ってた。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "好きな映画を、ずっと見ていられたから。",
+    "translation": "好きな映画を、ずっと見ていられたから。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ホントに？　だって私たちが来るまで、\n同じ映画をループして見続けてたんでしょ？",
+    "translation": "ホントに？　だって私たちが来るまで、\n同じ映画をループして見続けてたんでしょ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "しかも、あのカモシダーマンの。\nいくら映画好きでも、飽きない？",
+    "translation": "しかも、あのカモシダーマンの。\nいくら映画好きでも、飽きない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "同じでも、何も感じなかった。\n見てる間はあれこれ考えずに済んだから…",
+    "translation": "同じでも、何も感じなかった。\n見てる間はあれこれ考えずに済んだから…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "その気持ち、分かるな。",
+    "translation": "その気持ち、分かるな。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "何も考えたくない、逃げ出したいって\n思う時はあるよね。",
+    "translation": "何も考えたくない、逃げ出したいって\n思う時はあるよね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "うん…現実逃避だったと思う。",
+    "translation": "うん…現実逃避だったと思う。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "でも、今は違うって言い切れる。\n私が見たかった映画は、あんなのじゃない。",
+    "translation": "でも、今は違うって言い切れる。\n私が見たかった映画は、あんなのじゃない。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "映画を見ている間は、何も考えずに済む…\nまるで『鍵』のようですね。",
+    "translation": "映画を見ている間は、何も考えずに済む…\nまるで『鍵』のようですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "え？　どういうことですか？",
+    "translation": "え？　どういうことですか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ひかりさんは最初、少なからず\nこの映画館から出たくないと考えていた。",
+    "translation": "ひかりさんは最初、少なからず\nこの映画館から出たくないと考えていた。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "それが映画を見るうちに、少しずつ\n変わっていき…ドーは鍵を出した。",
+    "translation": "それが映画を見るうちに、少しずつ\n変わっていき…ドーは鍵を出した。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "外に出たい、と気持ちが変わっていった\nひかりさんの心にリンクしたようにね。",
+    "translation": "外に出たい、と気持ちが変わっていった\nひかりさんの心にリンクしたようにね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "私の心が、関係していた…？",
+    "translation": "私の心が、関係していた…？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ひかりさんは最初、少なからず\nこの映画館から出たくないと考えていた。",
+    "translation": "ひかりさんは最初、少なからず\nこの映画館から出たくないと考えていた。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "それが映画を見るうちに、\n少しずつ変わっていった…か。",
+    "translation": "それが映画を見るうちに、\n少しずつ変わっていった…か。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_022_2",
+    "original": "まだハッキリ分かりませんが…映画館自体、\nひかりさんと深い関係があるのでしょう。",
+    "translation": "まだハッキリ分かりませんが…映画館自体、\nひかりさんと深い関係があるのでしょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_022_3",
+    "original": "ひかりさんの心を反映した、映画館と映画。\nそんなもの用意出来る存在がいるとすれば…",
+    "translation": "ひかりさんの心を反映した、映画館と映画。\nそんなもの用意出来る存在がいるとすれば…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_023_0",
+    "original": "ドーだ",
+    "translation": "ドーだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_023_1",
+    "original": "ナギさんだ",
+    "translation": "ナギさんだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_023_2",
+    "original": "青服の人たちだ",
+    "translation": "青服の人たちだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "やっぱそうなるよな。",
+    "translation": "やっぱそうなるよな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "事実、映写技師として映画を\n流し続けていたのはドーだからな。",
+    "translation": "事実、映写技師として映画を\n流し続けていたのはドーだからな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "それにしても…\nどうもしっくりしないな。",
+    "translation": "それにしても…\nどうもしっくりしないな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "えええっ？　マジで！？",
+    "translation": "えええっ？　マジで！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "んあ？　でもナギさんって、気づいたら\nひかりと一緒に映画館にいたんスよね？",
+    "translation": "んあ？　でもナギさんって、気づいたら\nひかりと一緒に映画館にいたんスよね？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "巻き込まれたんじゃないんスか？",
+    "translation": "巻き込まれたんじゃないんスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "やっぱ、そんなブッ飛んだこと\n出来そうなヤツはドーぐらいじゃね？",
+    "translation": "やっぱ、そんなブッ飛んだこと\n出来そうなヤツはドーぐらいじゃね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "事実、映写技師として映画を\n流し続けていたのはドーだからな。",
+    "translation": "事実、映写技師として映画を\n流し続けていたのはドーだからな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "それにしても…\nどうもしっくりしないな。",
+    "translation": "それにしても…\nどうもしっくりしないな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "確かに、あの人たちなら\nそれくらい出来そうだけど…",
+    "translation": "確かに、あの人たちなら\nそれくらい出来そうだけど…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "でもよ、青服たちより\nもっと怪しいヤツがいるだろ。",
+    "translation": "でもよ、青服たちより\nもっと怪しいヤツがいるだろ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ドーか…事実、映写技師として映画を\n流し続けていたのはヤツだからな。",
+    "translation": "ドーか…事実、映写技師として映画を\n流し続けていたのはヤツだからな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_032_1",
+    "original": "それにしても…\nどうもしっくりしないな。",
+    "translation": "それにしても…\nどうもしっくりしないな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "その違和感、僕も同じです。",
+    "translation": "その違和感、僕も同じです。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "結局は、ドーの目的が分からない以上は\n何も明らかになりませんからね。",
+    "translation": "結局は、ドーの目的が分からない以上は\n何も明らかになりませんからね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "答えるかどうかは別として、\n本人に問い詰めるしかなさそうだな。",
+    "translation": "答えるかどうかは別として、\n本人に問い詰めるしかなさそうだな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_034_1",
+    "original": "ドーは、自らこの映画に入ったんだろ？\n行動を起こした以上、きっと意味はある。",
+    "translation": "ドーは、自らこの映画に入ったんだろ？\n行動を起こした以上、きっと意味はある。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "アキの言う通りだな。\nんで、肝心のドーはどこにいるんだ？",
+    "translation": "アキの言う通りだな。\nんで、肝心のドーはどこにいるんだ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "たぶん、この映画の終わり…\n最奥にいる。",
+    "translation": "たぶん、この映画の終わり…\n最奥にいる。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "分かるのか？",
+    "translation": "分かるのか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "何となくなんだけど…\nアテにならなくて、ごめんなさい。",
+    "translation": "何となくなんだけど…\nアテにならなくて、ごめんなさい。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "いえ、ここはきっと\nひかりさんの心に関係する空間…",
+    "translation": "いえ、ここはきっと\nひかりさんの心に関係する空間…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_039_1",
+    "original": "とすれば、あなたの心に\n従うのが一番の近道のはずです。",
+    "translation": "とすれば、あなたの心に\n従うのが一番の近道のはずです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "そうだね。\n僕たちは、君の信じる道を一緒に行く。",
+    "translation": "そうだね。\n僕たちは、君の信じる道を一緒に行く。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_040_1",
+    "original": "さあ、先に進もうか。",
+    "translation": "さあ、先に進もうか。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "待って！　花村先輩の反応、\nそっちじゃないよ！",
+    "translation": "等一下！\n花村学长的反应不在那个方向！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n等等！花村学长的反应\n不是那边！\n\n等一下！花村学长的反应，\n不是那边哦！\n\n等等！花村学长的反应，\n不是你！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "こっちの方向だな。了解した！",
+    "translation": "是这边吧。明白了！",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n是这个方向啊。了解！\n\n是这边的方向啊。明白了！\n\n这个方向吧。明白了！"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

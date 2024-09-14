@@ -1,0 +1,177 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "皆様、お疲れ様でございました。\nこれにて『監視カメラのその先へ』は\n無事完了でございます。",
+    "translation": "皆様、お疲れ様でございました。\nこれにて『監視カメラのその先へ』は\n無事完了でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やったー！\n新しいフロアにもいけたし、\n順調だね！",
+    "translation": "やったー！\n新しいフロアにもいけたし、\n順調だね！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああ。\nかなり奥の方まで\n進んできてるんじゃないか？",
+    "translation": "ああ。\nかなり奥の方まで\n進んできてるんじゃないか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うんうん！\nきっと、もう少しで\nみんなを助けられるよね！",
+    "translation": "うんうん！\nきっと、もう少しで\nみんなを助けられるよね！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "あ、でも…",
+    "translation": "あ、でも…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ん？\nどうしたんだ、急に黙りこんで…",
+    "translation": "ん？\nどうしたんだ、急に黙りこんで…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うん、また監視カメラがあったら\nできるだけ避けて行きたいと思って…",
+    "translation": "うん、また監視カメラがあったら\nできるだけ避けて行きたいと思って…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ああ、あれか…\n僕もその意見に賛成だな。",
+    "translation": "ああ、あれか…\n僕もその意見に賛成だな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "すごい数のシャドウだったからね…\nあれだけの数を相手にするのは、\nさすがに骨が折れたよ。",
+    "translation": "すごい数のシャドウだったからね…\nあれだけの数を相手にするのは、\nさすがに骨が折れたよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "…無理に進もうとするから\n襲われたんじゃん。",
+    "translation": "…無理に進もうとするから\n襲われたんじゃん。",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "おとなしく言うこと聞いてれば、\nあんな目にあわなかったのに。",
+    "translation": "おとなしく言うこと聞いてれば、\nあんな目にあわなかったのに。",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "そりゃそうかもしんねーけど、\nあそこ通らなきゃ\n真たちを助けらんねーし…",
+    "translation": "そりゃそうかもしんねーけど、\nあそこ通らなきゃ\n真たちを助けらんねーし…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "それを、ファッションチェックなんて\nくだらねえ理由で\n足止め食らってたまるかってんだよ。",
+    "translation": "それを、ファッションチェックなんて\nくだらねえ理由で\n足止め食らってたまるかってんだよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "その通りだ。\nあんなもの、通行止めにできるだけの\n正当性はないだろう。",
+    "translation": "その通りだ。\nあんなもの、通行止めにできるだけの\n正当性はないだろう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "あれに従っていたら、\n街の男は一生部屋の先に行けないぞ。",
+    "translation": "あれに従っていたら、\n街の男は一生部屋の先に行けないぞ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "…………。",
+    "translation": "…………。",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "あの厳重な警備を潜り抜けた方は、\n最先端のファッションセンスを\nお持ちに違いありません。",
+    "translation": "あの厳重な警備を潜り抜けた方は、\n最先端のファッションセンスを\nお持ちに違いありません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "そんなファッションリーダーの皆様へ\n今回の報酬をお渡しいたしましょう。\nお疲れ様でございました。",
+    "translation": "そんなファッションリーダーの皆様へ\n今回の報酬をお渡しいたしましょう。\nお疲れ様でございました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マヨイ",
+    "original": "マヨイ",
+    "translation": "マヨイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

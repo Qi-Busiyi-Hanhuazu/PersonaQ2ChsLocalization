@@ -1,0 +1,534 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "指定された所に行って来ただけだけれど\n本当にこれでよかったのかしら？",
+    "translation": "指定された所に行って来ただけだけれど\n本当にこれでよかったのかしら？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "はい、問題ございません。",
+    "translation": "はい、問題ございません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "これでこちらの意図は伝わったはず。\nしばらくは組織も動かないでしょう…",
+    "translation": "これでこちらの意図は伝わったはず。\nしばらくは組織も動かないでしょう…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "…組織？",
+    "translation": "…組織？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "いえいえ、こちらのお話です。\nそれよりも皆さま…",
+    "translation": "いえいえ、こちらのお話です。\nそれよりも皆さま…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "数々の困難を乗り越え、ミッションを\n達成するとは流石でございます。",
+    "translation": "数々の困難を乗り越え、ミッションを\n達成するとは流石でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "特に本日のＭＶＰもとい主演女優賞は\n里中様でしょうか。",
+    "translation": "特に本日のＭＶＰもとい主演女優賞は\n里中様でしょうか。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あ、あたし！？",
+    "translation": "あ、あたし！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "最後の活躍すごかったじゃん！",
+    "translation": "最後の活躍すごかったじゃん！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "なんかもうアクションスターみたいで、\n痺れちゃった。",
+    "translation": "なんかもうアクションスターみたいで、\n痺れちゃった。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "アハハ…杏ちゃんからベタ褒めだと\nやっぱ照れるな～。",
+    "translation": "アハハ…杏ちゃんからベタ褒めだと\nやっぱ照れるな～。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "あたしからしたら、\n杏ちゃんの方がずっとカッコいいし。",
+    "translation": "あたしからしたら、\n杏ちゃんの方がずっとカッコいいし。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_006_2",
+    "original": "美人で英語も出来て、夜は怪盗とか\n住む世界が違うっていうの？",
+    "translation": "美人で英語も出来て、夜は怪盗とか\n住む世界が違うっていうの？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "そんなことない",
+    "translation": "そんなことない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "千枝もすごい",
+    "translation": "千枝もすごい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_2",
+    "original": "りせちーの方がすごい",
+    "translation": "りせちーの方がすごい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "そうそう、成績なんて\n英語以外は俺とどっこいだぜ？",
+    "translation": "そうそう、成績なんて\n英語以外は俺とどっこいだぜ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "そこまでヒドくないし！",
+    "translation": "そこまでヒドくないし！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "…私にしてみれば、千枝ちゃんのほうが\nよっぽどすごいよ。",
+    "translation": "…私にしてみれば、千枝ちゃんのほうが\nよっぽどすごいよ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "え？",
+    "translation": "え？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "うん、私にしてみれば\n千枝ちゃんのほうがすごいと思うよ。",
+    "translation": "うん、私にしてみれば\n千枝ちゃんのほうがすごいと思うよ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "え？",
+    "translation": "え？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "私！？",
+    "translation": "私！？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "まあ、国民的アイドルだしな。",
+    "translation": "まあ、国民的アイドルだしな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "りせちゃんも凄いけど、\nそれはもう慣れたっていうか…",
+    "translation": "りせちゃんも凄いけど、\nそれはもう慣れたっていうか…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "それに年下だし。\n比べる土俵が違うっていうのかな。",
+    "translation": "それに年下だし。\n比べる土俵が違うっていうのかな。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "…私はたしかに\n色々と恵まれてるかもしれないけど…",
+    "translation": "…私はたしかに\n色々と恵まれてるかもしれないけど…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "でも、そのくせ自分で何がやりたい、\nこうなりたいってのが明確になくてさ。",
+    "translation": "でも、そのくせ自分で何がやりたい、\nこうなりたいってのが明確になくてさ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_016_2",
+    "original": "だから好きなことに一途だったり、\n極めようとする子がキラキラして見えるの。",
+    "translation": "だから好きなことに一途だったり、\n極めようとする子がキラキラして見えるの。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "キラキラ？",
+    "translation": "キラキラ？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "うん、カンフーとか肉の話してる\n千枝ちゃんメッチャ、キラキラしてるし。",
+    "translation": "うん、カンフーとか肉の話してる\n千枝ちゃんメッチャ、キラキラしてるし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "それは違いねえな。",
+    "translation": "それは違いねえな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "でもそれだけじゃなくてね、\n千枝ちゃんは普段からキラキラしてる。",
+    "translation": "でもそれだけじゃなくてね、\n千枝ちゃんは普段からキラキラしてる。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "きっとやりたいことや、なりたい自分が\n見えてるんじゃないかな？",
+    "translation": "きっとやりたいことや、なりたい自分が\n見えてるんじゃないかな？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "なりたい自分か…",
+    "translation": "なりたい自分か…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "あたしも、別に将来の事とかちゃんと\n考えてるわけじゃないんだけど…",
+    "translation": "あたしも、別に将来の事とかちゃんと\n考えてるわけじゃないんだけど…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_021_2",
+    "original": "でも、友達を守るためにもっと\n強くなりたいってのは確かかな。",
+    "translation": "でも、友達を守るためにもっと\n強くなりたいってのは確かかな。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "SEL_022_0",
+    "original": "杏も同じだろ？",
+    "translation": "杏も同じだろ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_022_1",
+    "original": "似たもの同士だな",
+    "translation": "似たもの同士だな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "…うん。\n私は守れなかったから。",
+    "translation": "…うん。\n私は守れなかったから。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "今度こそ誰もあんな目に遭わせないって、\n強くなるって決めたの。",
+    "translation": "今度こそ誰もあんな目に遭わせないって、\n強くなるって決めたの。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "それでカンフーを？",
+    "translation": "それでカンフーを？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "カンフーをマスターしたいっていうより、\n千枝ちゃんの心の強さを学びたくてさ。",
+    "translation": "カンフーをマスターしたいっていうより、\n千枝ちゃんの心の強さを学びたくてさ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "なんか騙してたみたいでごめんね。",
+    "translation": "なんか騙してたみたいでごめんね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ううん！　あたしも同じ気持ちで\n戦ってる子がいるって分かって嬉しい！",
+    "translation": "ううん！　あたしも同じ気持ちで\n戦ってる子がいるって分かって嬉しい！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "それに、今回の教え合いも\nすごいためになったし。",
+    "translation": "それに、今回の教え合いも\nすごいためになったし。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_026_2",
+    "original": "あたしたちなら、もっと上にいけんじゃん？\nほら、こういうの漢字四文字でえーっと…",
+    "translation": "あたしたちなら、もっと上にいけんじゃん？\nほら、こういうの漢字四文字でえーっと…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "SEL_027_0",
+    "original": "四字熟語？",
+    "translation": "四字熟語？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_027_1",
+    "original": "焼肉定食",
+    "translation": "焼肉定食",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_027_2",
+    "original": "切磋琢磨",
+    "translation": "切磋琢磨",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "いや、そうなんだけど、\nそうじゃなくて…",
+    "translation": "いや、そうなんだけど、\nそうじゃなくて…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "お互いを磨き合う…\n切磋琢磨でしょうか？",
+    "translation": "お互いを磨き合う…\n切磋琢磨でしょうか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "そーそー、それそれ！",
+    "translation": "そーそー、それそれ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "あ、それあたしが一番好きな響き…\nって、そうじゃなくて！",
+    "translation": "あ、それあたしが一番好きな響き…\nって、そうじゃなくて！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "お互いを磨き合う…\n切磋琢磨でしょうか？",
+    "translation": "お互いを磨き合う…\n切磋琢磨でしょうか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "そーそー、それそれ！",
+    "translation": "そーそー、それそれ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "た、たぶん、それ…",
+    "translation": "た、たぶん、それ…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "お互いを磨き合うということですね。",
+    "translation": "お互いを磨き合うということですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "お互いを磨き合うか…\nうん、私たちなら絶対出来るよ！",
+    "translation": "お互いを磨き合うか…\nうん、私たちなら絶対出来るよ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_036_1",
+    "original": "さっきの『どーん』みたいに！",
+    "translation": "さっきの『どーん』みたいに！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "どんな敵が来ても、\nダブルで『ドーン』だね！",
+    "translation": "どんな敵が来ても、\nダブルで『ドーン』だね！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "SEL_038_0",
+    "original": "頼もしい",
+    "translation": "頼もしい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_038_1",
+    "original": "恐ろしい",
+    "translation": "恐ろしい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "…ああ。",
+    "translation": "…ああ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "華麗なる女怪盗と勇敢なカンフーマスター…",
+    "translation": "華麗なる女怪盗と勇敢なカンフーマスター…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_040_1",
+    "original": "一つの任務を通し、\nまた新たな絆が芽生えたようですね。",
+    "translation": "一つの任務を通し、\nまた新たな絆が芽生えたようですね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_040_2",
+    "original": "遅くなりましたが、\nこちらが今回の報酬でございます。",
+    "translation": "遅くなりましたが、\nこちらが今回の報酬でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

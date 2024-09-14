@@ -1,0 +1,30 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "ヒーローベルトを届けよう",
+    "translation": "将英雄腰带送达",
+    "stage": 1,
+    "context": "机翻辅助：\n\n将腰带送达\n\n给你英雄腰带\n\n送去英雄腰带吧"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "目的地にベルトを届けよう",
+    "translation": "将腰带送到目的地",
+    "stage": 1,
+    "context": "机翻辅助：\n\n将腰带送达目的地\n\n把腰带送到目的地"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "クエストクリア報告に向かおう",
+    "translation": "去完成任务报告",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去完成任务报告\n\n向着任务完成报告前进吧\n\n前往任务通关报告"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "クエスト３小目標０３",
+    "translation": "任务3小目标03",
+    "stage": 1,
+    "context": "机翻辅助：\n\n任务3 小目标03\n\n任务3小目标03"
+  }
+]

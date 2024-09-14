@@ -1,0 +1,79 @@
+[
+  {
+    "key": "msg_ps_skill_sel_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_ps_skill_sel_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_ps_skill_get_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を覚えた！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を覚えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_ps_skill_rmskill_0",
+    "original": "＞スキルが一杯です。\n　消すスキルを選んでください。",
+    "translation": "＞スキルが一杯です。\n　消すスキルを選んでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_ps_skill_rmskill_q_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』を消しますか？",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』を消しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_ps_skill_rmskill0_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を忘れた。",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を忘れた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_ps_skill_rmskill1_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』を\n　『[颜色 02][占位A 02][颜色 01]』に入れ替えた。",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』を\n　『[颜色 02][占位A 02][颜色 01]』に入れ替えた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_ps_skill_rmskill2_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』が\n　『[颜色 02][占位A 02][颜色 01]』にグレードアップした！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』が\n　『[颜色 02][占位A 02][颜色 01]』にグレードアップした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_ps_skill_chgend_0",
+    "original": "＞スキルの入れ替えを終了します。\n　宜しいですか？",
+    "translation": "＞スキルの入れ替えを終了します。\n　宜しいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_ps_skill_check_money_0",
+    "original": "＞[占位A 01]円かかります。\n　宜しいですか？",
+    "translation": "＞[占位A 01]円かかります。\n　宜しいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_ps_skill_check_money_2_0",
+    "original": "＞お金が足りません。",
+    "translation": "＞お金が足りません。",
+    "stage": 1,
+    "context": ""
+  }
+]

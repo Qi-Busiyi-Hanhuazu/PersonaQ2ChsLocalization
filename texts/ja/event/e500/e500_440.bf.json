@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "これは…映画館街が、\n端から消えていっている…？",
+    "translation": "これは…映画館街が、\n端から消えていっている…？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "もしかして、みんな現実に\n戻っていってるのかも…",
+    "translation": "もしかして、みんな現実に\n戻っていってるのかも…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ねえ、このままいったら、ひかりちゃんの\n映画館も消えちゃうんじゃない！？",
+    "translation": "ねえ、このままいったら、ひかりちゃんの\n映画館も消えちゃうんじゃない！？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "とりあえず、映画館に戻りましょう！",
+    "translation": "とりあえず、映画館に戻りましょう！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  }
+]

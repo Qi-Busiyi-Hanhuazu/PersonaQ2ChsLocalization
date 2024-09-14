@@ -1,0 +1,7758 @@
+[
+  {
+    "key": "text_002_0",
+    "original": "アタック",
+    "translation": "アタック",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_003_0",
+    "original": "アギ",
+    "translation": "アギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_004_0",
+    "original": "アギラオ",
+    "translation": "アギラオ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_005_0",
+    "original": "アギダイン",
+    "translation": "アギダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_006_0",
+    "original": "マハラギ",
+    "translation": "マハラギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_007_0",
+    "original": "マハラギオン",
+    "translation": "マハラギオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_008_0",
+    "original": "マハラギダイン",
+    "translation": "マハラギダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_009_0",
+    "original": "焔弾",
+    "translation": "焔弾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_010_0",
+    "original": "ラグナロク",
+    "translation": "ラグナロク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_015_0",
+    "original": "ガル",
+    "translation": "ガル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_016_0",
+    "original": "ガルーラ",
+    "translation": "ガルーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_017_0",
+    "original": "ガルダイン",
+    "translation": "ガルダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_018_0",
+    "original": "マハガル",
+    "translation": "マハガル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_019_0",
+    "original": "マハガルーラ",
+    "translation": "マハガルーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_020_0",
+    "original": "マハガルダイン",
+    "translation": "マハガルダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_021_0",
+    "original": "旋風",
+    "translation": "旋風",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_022_0",
+    "original": "万物流転",
+    "translation": "万物流転",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_027_0",
+    "original": "ブフ",
+    "translation": "ブフ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_028_0",
+    "original": "ブフーラ",
+    "translation": "ブフーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_029_0",
+    "original": "ブフダイン",
+    "translation": "ブフダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_030_0",
+    "original": "マハブフ",
+    "translation": "マハブフ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_031_0",
+    "original": "マハブフーラ",
+    "translation": "マハブフーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_032_0",
+    "original": "マハブフダイン",
+    "translation": "マハブフダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_033_0",
+    "original": "極寒パラダイス",
+    "translation": "極寒パラダイス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_034_0",
+    "original": "ニブルヘイム",
+    "translation": "ニブルヘイム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_035_0",
+    "original": "氷槍",
+    "translation": "氷槍",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_040_0",
+    "original": "ジオ",
+    "translation": "ジオ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_041_0",
+    "original": "ジオンガ",
+    "translation": "ジオンガ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_042_0",
+    "original": "ジオダイン",
+    "translation": "ジオダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_043_0",
+    "original": "マハジオ",
+    "translation": "マハジオ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_044_0",
+    "original": "マハジオンガ",
+    "translation": "マハジオンガ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_045_0",
+    "original": "マハジオダイン",
+    "translation": "マハジオダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_047_0",
+    "original": "真理の雷",
+    "translation": "真理の雷",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_048_0",
+    "original": "ケラウノス",
+    "translation": "ケラウノス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_049_0",
+    "original": "閃雷",
+    "translation": "閃雷",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_050_0",
+    "original": "天帝の雷光",
+    "translation": "天帝の雷光",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_052_0",
+    "original": "メギド",
+    "translation": "メギド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_053_0",
+    "original": "メギドラ",
+    "translation": "メギドラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_054_0",
+    "original": "メギドラオン",
+    "translation": "メギドラオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_056_0",
+    "original": "漆黒の蛇",
+    "translation": "漆黒の蛇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_057_0",
+    "original": "明けの明星",
+    "translation": "明けの明星",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_062_0",
+    "original": "ハマ",
+    "translation": "ハマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_063_0",
+    "original": "ハマオン",
+    "translation": "ハマオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_064_0",
+    "original": "マハンマ",
+    "translation": "マハンマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_065_0",
+    "original": "マハンマオン",
+    "translation": "マハンマオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_068_0",
+    "original": "回転説法",
+    "translation": "回転説法",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_073_0",
+    "original": "ムド",
+    "translation": "ムド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_074_0",
+    "original": "ムドオン",
+    "translation": "ムドオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_075_0",
+    "original": "マハムド",
+    "translation": "マハムド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_076_0",
+    "original": "マハムドオン",
+    "translation": "マハムドオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_079_0",
+    "original": "死んでくれる？",
+    "translation": "死んでくれる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_084_0",
+    "original": "プリンパ",
+    "translation": "プリンパ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_085_0",
+    "original": "テンタラフー",
+    "translation": "テンタラフー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_086_0",
+    "original": "ポイズマ",
+    "translation": "ポイズマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_087_0",
+    "original": "ポイズンブレス",
+    "translation": "ポイズンブレス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_090_0",
+    "original": "ドルミナー",
+    "translation": "ドルミナー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_091_0",
+    "original": "スリープソング",
+    "translation": "スリープソング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_092_0",
+    "original": "デビルタッチ",
+    "translation": "デビルタッチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_093_0",
+    "original": "デビルスマイル",
+    "translation": "デビルスマイル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_096_0",
+    "original": "重い道着系",
+    "translation": "重い道着系",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_097_0",
+    "original": "ド根性の腕輪",
+    "translation": "ド根性の腕輪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_098_0",
+    "original": "神の贄",
+    "translation": "神の贄",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_099_0",
+    "original": "ルドラリング",
+    "translation": "ルドラリング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_100_0",
+    "original": "チャクラリング",
+    "translation": "チャクラリング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_101_0",
+    "original": "風柳の翼",
+    "translation": "風柳の翼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_102_0",
+    "original": "雪折不の翼",
+    "translation": "雪折不の翼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_103_0",
+    "original": "歯亡舌存の翼",
+    "translation": "歯亡舌存の翼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_104_0",
+    "original": "極炎塊",
+    "translation": "極炎塊",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_105_0",
+    "original": "絶冷石",
+    "translation": "絶冷石",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_106_0",
+    "original": "暴嵐の指輪",
+    "translation": "暴嵐の指輪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_107_0",
+    "original": "雷神の腕輪",
+    "translation": "雷神の腕輪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_108_0",
+    "original": "白き光輪",
+    "translation": "白き光輪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_109_0",
+    "original": "黒き闇輪",
+    "translation": "黒き闇輪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_110_0",
+    "original": "白刃鳥の羽根",
+    "translation": "白刃鳥の羽根",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_111_0",
+    "original": "鉄製のペンダント",
+    "translation": "鉄製のペンダント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_112_0",
+    "original": "ヘルメット",
+    "translation": "ヘルメット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_113_0",
+    "original": "全能の真球",
+    "translation": "全能の真球",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_115_0",
+    "original": "ゲルマニウムの輪",
+    "translation": "ゲルマニウムの輪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_116_0",
+    "original": "贖罪の羊",
+    "translation": "贖罪の羊",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_117_0",
+    "original": "体魂反転リング",
+    "translation": "体魂反転リング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_118_0",
+    "original": "力魔反転リング",
+    "translation": "力魔反転リング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_119_0",
+    "original": "力耐反転リング",
+    "translation": "力耐反転リング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_120_0",
+    "original": "力速反転リング",
+    "translation": "力速反転リング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_121_0",
+    "original": "力運反転リング",
+    "translation": "力運反転リング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_122_0",
+    "original": "魔耐反転リング",
+    "translation": "魔耐反転リング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_123_0",
+    "original": "魔速反転リング",
+    "translation": "魔速反転リング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_124_0",
+    "original": "魔運反転リング",
+    "translation": "魔運反転リング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_125_0",
+    "original": "耐速反転リング",
+    "translation": "耐速反転リング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_126_0",
+    "original": "耐運反転リング",
+    "translation": "耐運反転リング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_127_0",
+    "original": "速運反転リング",
+    "translation": "速運反転リング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_130_0",
+    "original": "牙砕き",
+    "translation": "牙砕き",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_131_0",
+    "original": "胆砕き",
+    "translation": "胆砕き",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_132_0",
+    "original": "大切断",
+    "translation": "大切断",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_133_0",
+    "original": "ツインスラッシュ",
+    "translation": "ツインスラッシュ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_134_0",
+    "original": "レッグリーパー",
+    "translation": "レッグリーパー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_135_0",
+    "original": "トリプルダウン",
+    "translation": "トリプルダウン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_136_0",
+    "original": "剛殺斬",
+    "translation": "剛殺斬",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_137_0",
+    "original": "アキレスリーパー",
+    "translation": "アキレスリーパー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_138_0",
+    "original": "カームバスター",
+    "translation": "カームバスター",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_139_0",
+    "original": "暴れまくり",
+    "translation": "暴れまくり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_140_0",
+    "original": "霧氷刃",
+    "translation": "霧氷刃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_141_0",
+    "original": "残心剣",
+    "translation": "残心剣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_142_0",
+    "original": "残心の一撃",
+    "translation": "残心の一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_143_0",
+    "original": "デスニードル",
+    "translation": "デスニードル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_144_0",
+    "original": "ギロチンカット",
+    "translation": "ギロチンカット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_145_0",
+    "original": "五月雨斬り",
+    "translation": "五月雨斬り",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_146_0",
+    "original": "閃電砕",
+    "translation": "閃電砕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_147_0",
+    "original": "ホーリータッチ",
+    "translation": "ホーリータッチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_148_0",
+    "original": "我慢の鉄槌",
+    "translation": "我慢の鉄槌",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_149_0",
+    "original": "鉄槌の一撃",
+    "translation": "鉄槌の一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_150_0",
+    "original": "両腕落とし",
+    "translation": "両腕落とし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_151_0",
+    "original": "シングルショット",
+    "translation": "シングルショット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_152_0",
+    "original": "スケアスロウ",
+    "translation": "スケアスロウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_153_0",
+    "original": "ナイアーム",
+    "translation": "ナイアーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_154_0",
+    "original": "マカジャマ",
+    "translation": "マカジャマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_155_0",
+    "original": "アサルトショット",
+    "translation": "アサルトショット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_156_0",
+    "original": "イノセントタック",
+    "translation": "イノセントタック",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_157_0",
+    "original": "武器砕き",
+    "translation": "武器砕き",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_158_0",
+    "original": "ホライズショット",
+    "translation": "ホライズショット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_159_0",
+    "original": "刹那五月雨撃",
+    "translation": "刹那五月雨撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_160_0",
+    "original": "パニッシュメント",
+    "translation": "パニッシュメント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_161_0",
+    "original": "アサルトダイブ",
+    "translation": "アサルトダイブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_162_0",
+    "original": "まどろみパンチ",
+    "translation": "まどろみパンチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_163_0",
+    "original": "アーマークラック",
+    "translation": "アーマークラック",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_164_0",
+    "original": "突撃",
+    "translation": "突撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_165_0",
+    "original": "デスバウンド",
+    "translation": "デスバウンド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_166_0",
+    "original": "利剣乱舞",
+    "translation": "利剣乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_167_0",
+    "original": "氷殺刃",
+    "translation": "氷殺刃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_168_0",
+    "original": "空間殺法",
+    "translation": "空間殺法",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_169_0",
+    "original": "黒の舞踏",
+    "translation": "黒の舞踏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_170_0",
+    "original": "ヘッドバット",
+    "translation": "ヘッドバット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_171_0",
+    "original": "熔熱発破",
+    "translation": "熔熱発破",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_172_0",
+    "original": "ヒートウェイブ",
+    "translation": "ヒートウェイブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_173_0",
+    "original": "光明波",
+    "translation": "光明波",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_175_0",
+    "original": "絶妙剣",
+    "translation": "絶妙剣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_176_0",
+    "original": "フォトンエッジ",
+    "translation": "フォトンエッジ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_177_0",
+    "original": "プラーナ",
+    "translation": "プラーナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_178_0",
+    "original": "天軍の剣",
+    "translation": "天軍の剣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_179_0",
+    "original": "ゴッドハンド",
+    "translation": "ゴッドハンド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_180_0",
+    "original": "天使のラッパ",
+    "translation": "天使のラッパ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_181_0",
+    "original": "八艘跳び",
+    "translation": "八艘跳び",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_182_0",
+    "original": "ヘビーレイン",
+    "translation": "ヘビーレイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_183_0",
+    "original": "アローシャワー",
+    "translation": "アローシャワー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_184_0",
+    "original": "アイオンの雨",
+    "translation": "アイオンの雨",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_185_0",
+    "original": "首討ち",
+    "translation": "首討ち",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_189_0",
+    "original": "毒串刺し",
+    "translation": "毒串刺し",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_190_0",
+    "original": "紅蓮刀",
+    "translation": "紅蓮刀",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_191_0",
+    "original": "凍殺刃",
+    "translation": "凍殺刃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_192_0",
+    "original": "雷光斬",
+    "translation": "雷光斬",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_193_0",
+    "original": "陣風撃",
+    "translation": "陣風撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_194_0",
+    "original": "真空波",
+    "translation": "真空波",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_195_0",
+    "original": "烈星波",
+    "translation": "烈星波",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_196_0",
+    "original": "プララヤ",
+    "translation": "プララヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_197_0",
+    "original": "シャドウラン",
+    "translation": "シャドウラン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_198_0",
+    "original": "終わる世界",
+    "translation": "終わる世界",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_199_0",
+    "original": "雷鳴斬",
+    "translation": "雷鳴斬",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_200_0",
+    "original": "雷神斬",
+    "translation": "雷神斬",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_201_0",
+    "original": "獄炎刀",
+    "translation": "獄炎刀",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_202_0",
+    "original": "緋炎刀",
+    "translation": "緋炎刀",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_203_0",
+    "original": "烈風撃",
+    "translation": "烈風撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_204_0",
+    "original": "神風撃",
+    "translation": "神風撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_210_0",
+    "original": "ディア",
+    "translation": "ディア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_211_0",
+    "original": "ディアラマ",
+    "translation": "ディアラマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_212_0",
+    "original": "ディアラハン",
+    "translation": "ディアラハン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_213_0",
+    "original": "ラインヒール",
+    "translation": "ラインヒール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_214_0",
+    "original": "生命の杯",
+    "translation": "生命の杯",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_215_0",
+    "original": "メディア",
+    "translation": "メディア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_216_0",
+    "original": "メディラマ",
+    "translation": "メディラマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_217_0",
+    "original": "メディアラハン",
+    "translation": "メディアラハン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_218_0",
+    "original": "リカーム",
+    "translation": "リカーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_219_0",
+    "original": "サマリカーム",
+    "translation": "サマリカーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_220_0",
+    "original": "トリート",
+    "translation": "トリート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_221_0",
+    "original": "リニューアル",
+    "translation": "リニューアル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_222_0",
+    "original": "パトラ",
+    "translation": "パトラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_223_0",
+    "original": "リフレッシュ",
+    "translation": "リフレッシュ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_224_0",
+    "original": "メパトラ",
+    "translation": "メパトラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_225_0",
+    "original": "クロズディ",
+    "translation": "クロズディ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_226_0",
+    "original": "リラックス",
+    "translation": "リラックス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_227_0",
+    "original": "マハクロズディ",
+    "translation": "マハクロズディ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_228_0",
+    "original": "アムリタ",
+    "translation": "アムリタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_231_0",
+    "original": "獣の咆哮",
+    "translation": "獣の咆哮",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_232_0",
+    "original": "龍の咆哮",
+    "translation": "龍の咆哮",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_233_0",
+    "original": "リンクプラス",
+    "translation": "リンクプラス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_234_0",
+    "original": "真・リンクプラス",
+    "translation": "真・リンクプラス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_237_0",
+    "original": "ヘイトイーター",
+    "translation": "ヘイトイーター",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_238_0",
+    "original": "ボディーガード",
+    "translation": "ボディーガード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_239_0",
+    "original": "ラインガード",
+    "translation": "ラインガード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_240_0",
+    "original": "オールガード",
+    "translation": "オールガード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_242_0",
+    "original": "聖なる加護",
+    "translation": "聖なる加護",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_243_0",
+    "original": "猛き戦いの舞曲",
+    "translation": "猛き戦いの舞曲",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_244_0",
+    "original": "防御陣形",
+    "translation": "防御陣形",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_245_0",
+    "original": "反逆の先導者",
+    "translation": "反逆の先導者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_246_0",
+    "original": "会心眼",
+    "translation": "会心眼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_247_0",
+    "original": "大変革の先導者",
+    "translation": "大変革の先導者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_248_0",
+    "original": "マハタルカジャ",
+    "translation": "マハタルカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_249_0",
+    "original": "マハラクカジャ",
+    "translation": "マハラクカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_250_0",
+    "original": "マハスクカジャ",
+    "translation": "マハスクカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_251_0",
+    "original": "チャージ",
+    "translation": "チャージ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_252_0",
+    "original": "コンセントレイト",
+    "translation": "コンセントレイト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_253_0",
+    "original": "炎の加護",
+    "translation": "炎の加護",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_254_0",
+    "original": "氷の加護",
+    "translation": "氷の加護",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_255_0",
+    "original": "雷の加護",
+    "translation": "雷の加護",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_256_0",
+    "original": "風の加護",
+    "translation": "風の加護",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_262_0",
+    "original": "マハタルンダ",
+    "translation": "マハタルンダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_263_0",
+    "original": "マハラクンダ",
+    "translation": "マハラクンダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_264_0",
+    "original": "マハスクンダ",
+    "translation": "マハスクンダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_266_0",
+    "original": "獅子奮迅の大号令",
+    "translation": "獅子奮迅の大号令",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_267_0",
+    "original": "精神一到の大号令",
+    "translation": "精神一到の大号令",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_269_0",
+    "original": "呪縛の妖気",
+    "translation": "呪縛の妖気",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_270_0",
+    "original": "サロメの口づけ",
+    "translation": "サロメの口づけ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_274_0",
+    "original": "デカジャ",
+    "translation": "デカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_275_0",
+    "original": "デクンダ",
+    "translation": "デクンダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_277_0",
+    "original": "念動の壁",
+    "translation": "念動の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_278_0",
+    "original": "核熱の壁",
+    "translation": "核熱の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_279_0",
+    "original": "火炎の壁",
+    "translation": "火炎の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_280_0",
+    "original": "疾風の壁",
+    "translation": "疾風の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_281_0",
+    "original": "氷結の壁",
+    "translation": "氷結の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_282_0",
+    "original": "電撃の壁",
+    "translation": "電撃の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_283_0",
+    "original": "祝福の壁",
+    "translation": "祝福の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_284_0",
+    "original": "呪怨の壁",
+    "translation": "呪怨の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_285_0",
+    "original": "タルカジャ",
+    "translation": "タルカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_286_0",
+    "original": "ラクカジャ",
+    "translation": "ラクカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_287_0",
+    "original": "スクカジャ",
+    "translation": "スクカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_288_0",
+    "original": "タルンダ",
+    "translation": "タルンダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_289_0",
+    "original": "ラクンダ",
+    "translation": "ラクンダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_290_0",
+    "original": "スクンダ",
+    "translation": "スクンダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_291_0",
+    "original": "ランダマイザ",
+    "translation": "ランダマイザ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_292_0",
+    "original": "ヒートライザ",
+    "translation": "ヒートライザ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_293_0",
+    "original": "真・会心眼",
+    "translation": "真・会心眼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_294_0",
+    "original": "冥府の扉",
+    "translation": "冥府の扉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_295_0",
+    "original": "冥府への誘い",
+    "translation": "冥府への誘い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_296_0",
+    "original": "災厄の種",
+    "translation": "災厄の種",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_297_0",
+    "original": "災厄の到来",
+    "translation": "災厄の到来",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_298_0",
+    "original": "月の加護",
+    "translation": "月の加護",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_300_0",
+    "original": "再生の竪琴",
+    "translation": "再生の竪琴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_302_0",
+    "original": "紫電砕",
+    "translation": "紫電砕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_303_0",
+    "original": "震電砕",
+    "translation": "震電砕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_304_0",
+    "original": "灼熱発破",
+    "translation": "灼熱発破",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_305_0",
+    "original": "核熱発破",
+    "translation": "核熱発破",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_306_0",
+    "original": "睡眠拳",
+    "translation": "睡眠拳",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_307_0",
+    "original": "ブレインシェイク",
+    "translation": "ブレインシェイク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_308_0",
+    "original": "アーマーブレイク",
+    "translation": "アーマーブレイク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_309_0",
+    "original": "アーマーキラー",
+    "translation": "アーマーキラー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_314_0",
+    "original": "フル・アナライズ",
+    "translation": "フル・アナライズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_315_0",
+    "original": "フル・アナライズ",
+    "translation": "フル・アナライズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_316_0",
+    "original": "ゼロシフト",
+    "translation": "ゼロシフト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_317_0",
+    "original": "ゼロシフト",
+    "translation": "ゼロシフト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_318_0",
+    "original": "アンコール",
+    "translation": "アンコール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_319_0",
+    "original": "アンコール",
+    "translation": "アンコール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_321_0",
+    "original": "オラクル",
+    "translation": "オラクル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_322_0",
+    "original": "総攻撃",
+    "translation": "総攻撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_323_0",
+    "original": "スタコラフット",
+    "translation": "スタコラフット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_324_0",
+    "original": "アナライズ",
+    "translation": "アナライズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_325_0",
+    "original": "ハイ・アナライズ",
+    "translation": "ハイ・アナライズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_326_0",
+    "original": "蛇ニラミ",
+    "translation": "蛇ニラミ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_327_0",
+    "original": "英気の泉",
+    "translation": "英気の泉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_328_0",
+    "original": "諦めない心",
+    "translation": "諦めない心",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_329_0",
+    "original": "想いよ届け",
+    "translation": "想いよ届け",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_330_0",
+    "original": "ひかりの想い",
+    "translation": "ひかりの想い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_331_0",
+    "original": "癒しの神風",
+    "translation": "癒しの神風",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_332_0",
+    "original": "豊穣祈願",
+    "translation": "豊穣祈願",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_333_0",
+    "original": "大豊作",
+    "translation": "大豊作",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_334_0",
+    "original": "癒しの神風",
+    "translation": "癒しの神風",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_336_0",
+    "original": "治癒の法力",
+    "translation": "治癒の法力",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_337_0",
+    "original": "治癒の神通力",
+    "translation": "治癒の神通力",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_338_0",
+    "original": "ミニリカバリー",
+    "translation": "ミニリカバリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_339_0",
+    "original": "スポットライト",
+    "translation": "スポットライト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_340_0",
+    "original": "黄泉返し",
+    "translation": "黄泉返し",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_341_0",
+    "original": "サードアイ",
+    "translation": "サードアイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_342_0",
+    "original": "強硬の法力",
+    "translation": "強硬の法力",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_343_0",
+    "original": "剛力の法力",
+    "translation": "剛力の法力",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_344_0",
+    "original": "敏速の法力",
+    "translation": "敏速の法力",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_345_0",
+    "original": "勝利の息吹",
+    "translation": "勝利の息吹",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_346_0",
+    "original": "勝利の雄叫び",
+    "translation": "勝利の雄叫び",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_347_0",
+    "original": "安全祈願",
+    "translation": "安全祈願",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_348_0",
+    "original": "大安心",
+    "translation": "大安心",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_349_0",
+    "original": "おまじない",
+    "translation": "おまじない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_350_0",
+    "original": "打ち出の小槌",
+    "translation": "打ち出の小槌",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_351_0",
+    "original": "ファイナルガード",
+    "translation": "ファイナルガード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_352_0",
+    "original": "ファイナルガード",
+    "translation": "ファイナルガード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_353_0",
+    "original": "ビッグウェイブ",
+    "translation": "ビッグウェイブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_354_0",
+    "original": "オラクル",
+    "translation": "オラクル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_355_0",
+    "original": "オラクル",
+    "translation": "オラクル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_356_0",
+    "original": "オラクル",
+    "translation": "オラクル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_357_0",
+    "original": "オラクル",
+    "translation": "オラクル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_358_0",
+    "original": "オラクル",
+    "translation": "オラクル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_359_0",
+    "original": "オラクル",
+    "translation": "オラクル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_360_0",
+    "original": "ミニリカバリー",
+    "translation": "ミニリカバリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_361_0",
+    "original": "総攻撃カメラ用",
+    "translation": "総攻撃カメラ用",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_362_0",
+    "original": "常世の祈り",
+    "translation": "常世の祈り",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_363_0",
+    "original": "スニークガイド",
+    "translation": "スニークガイド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_364_0",
+    "original": "財宝ハンター",
+    "translation": "財宝ハンター",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_365_0",
+    "original": "秘宝ハンター",
+    "translation": "秘宝ハンター",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_366_0",
+    "original": "妖精の抜け穴",
+    "translation": "妖精の抜け穴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_367_0",
+    "original": "天狗の抜け穴",
+    "translation": "天狗の抜け穴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_368_0",
+    "original": "千里眼",
+    "translation": "千里眼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_369_0",
+    "original": "万里眼",
+    "translation": "万里眼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_370_0",
+    "original": "浄化の雨",
+    "translation": "浄化の雨",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_371_0",
+    "original": "お宝スキミング",
+    "translation": "お宝スキミング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_372_0",
+    "original": "ゼロセット",
+    "translation": "ゼロセット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_373_0",
+    "original": "久遠の調べ",
+    "translation": "久遠の調べ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_374_0",
+    "original": "オンステージ",
+    "translation": "オンステージ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_375_0",
+    "original": "エスケープロード",
+    "translation": "エスケープロード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_376_0",
+    "original": "ひかりの応援",
+    "translation": "ひかりの応援",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_377_0",
+    "original": "リスクヘッジ",
+    "translation": "リスクヘッジ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_378_0",
+    "original": "豊漁祈願",
+    "translation": "豊漁祈願",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_379_0",
+    "original": "大豊漁",
+    "translation": "大豊漁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_380_0",
+    "original": "サードアイ",
+    "translation": "サードアイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_381_0",
+    "original": "チアーマーチ",
+    "translation": "チアーマーチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_382_0",
+    "original": "光の路",
+    "translation": "光の路",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_383_0",
+    "original": "光の天路",
+    "translation": "光の天路",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_386_0",
+    "original": "摩耗の魔法陣",
+    "translation": "摩耗の魔法陣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_387_0",
+    "original": "魔法陣　起動",
+    "translation": "魔法陣　起動",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_388_0",
+    "original": "催眠の魔法陣",
+    "translation": "催眠の魔法陣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_389_0",
+    "original": "魔法陣　起動",
+    "translation": "魔法陣　起動",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_390_0",
+    "original": "有毒の魔法陣",
+    "translation": "有毒の魔法陣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_391_0",
+    "original": "魔法陣　起動",
+    "translation": "魔法陣　起動",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_392_0",
+    "original": "混迷の魔法陣",
+    "translation": "混迷の魔法陣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_393_0",
+    "original": "魔法陣　起動",
+    "translation": "魔法陣　起動",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_394_0",
+    "original": "沈黙の魔法陣",
+    "translation": "沈黙の魔法陣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_395_0",
+    "original": "魔法陣　起動",
+    "translation": "魔法陣　起動",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_396_0",
+    "original": "無力の魔法陣",
+    "translation": "無力の魔法陣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_397_0",
+    "original": "魔法陣　起動",
+    "translation": "魔法陣　起動",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_398_0",
+    "original": "鈍重の魔法陣",
+    "translation": "鈍重の魔法陣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_399_0",
+    "original": "魔法陣　起動",
+    "translation": "魔法陣　起動",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_400_0",
+    "original": "守護獣召喚",
+    "translation": "守護獣召喚",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_401_0",
+    "original": "守護神召喚",
+    "translation": "守護神召喚",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_402_0",
+    "original": "修羅転生",
+    "translation": "修羅転生",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_403_0",
+    "original": "修羅場からの帰還",
+    "translation": "修羅場からの帰還",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_404_0",
+    "original": "修羅の本能",
+    "translation": "修羅の本能",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_405_0",
+    "original": "オルギアモード",
+    "translation": "オルギアモード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_406_0",
+    "original": "モード解除",
+    "translation": "モード解除",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_407_0",
+    "original": "回復メメント",
+    "translation": "回復メメント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_408_0",
+    "original": "回復メメント",
+    "translation": "回復メメント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_409_0",
+    "original": "解放メメント",
+    "translation": "解放メメント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_410_0",
+    "original": "解放メメント",
+    "translation": "解放メメント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_411_0",
+    "original": "自浄メメント",
+    "translation": "自浄メメント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_412_0",
+    "original": "自浄メメント",
+    "translation": "自浄メメント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_413_0",
+    "original": "軽減の加護",
+    "translation": "軽減の加護",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_414_0",
+    "original": "デスカウンター",
+    "translation": "デスカウンター",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_415_0",
+    "original": "デスカウンター",
+    "translation": "デスカウンター",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_416_0",
+    "original": "デスチェイサー",
+    "translation": "デスチェイサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_417_0",
+    "original": "デスチェイサー",
+    "translation": "デスチェイサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_418_0",
+    "original": "猛撃スタンス",
+    "translation": "猛撃スタンス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_419_0",
+    "original": "猛撃スタンス",
+    "translation": "猛撃スタンス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_420_0",
+    "original": "猛攻の構え",
+    "translation": "猛攻の構え",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_421_0",
+    "original": "ガード体勢",
+    "translation": "ガード体勢",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_426_0",
+    "original": "連鎖の炎撃",
+    "translation": "連鎖の炎撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_427_0",
+    "original": "連鎖の炎",
+    "translation": "連鎖の炎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_428_0",
+    "original": "連鎖の氷撃",
+    "translation": "連鎖の氷撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_429_0",
+    "original": "連鎖の氷",
+    "translation": "連鎖の氷",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_430_0",
+    "original": "連鎖の雷撃",
+    "translation": "連鎖の雷撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_431_0",
+    "original": "連鎖の雷",
+    "translation": "連鎖の雷",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_432_0",
+    "original": "連鎖の風撃",
+    "translation": "連鎖の風撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_433_0",
+    "original": "連鎖の風",
+    "translation": "連鎖の風",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_434_0",
+    "original": "ヘイトサーチャー",
+    "translation": "ヘイトサーチャー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_435_0",
+    "original": "連鎖の打撃",
+    "translation": "連鎖の打撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_436_0",
+    "original": "連鎖の一撃",
+    "translation": "連鎖の一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_437_0",
+    "original": "連鎖の念撃",
+    "translation": "連鎖の念撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_438_0",
+    "original": "連鎖の念動",
+    "translation": "連鎖の念動",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_439_0",
+    "original": "連鎖の核撃",
+    "translation": "連鎖の核撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_440_0",
+    "original": "連鎖の核熱",
+    "translation": "連鎖の核熱",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_466_0",
+    "original": "オルギアマスタリ",
+    "translation": "オルギアマスタリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_467_0",
+    "original": "探偵の心得",
+    "translation": "探偵の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_468_0",
+    "original": "探偵の極意",
+    "translation": "探偵の極意",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_469_0",
+    "original": "決めポーズ",
+    "translation": "決めポーズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_470_0",
+    "original": "必殺決めポーズ",
+    "translation": "必殺決めポーズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_471_0",
+    "original": "無頼の心得",
+    "translation": "無頼の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_472_0",
+    "original": "無頼の悟り",
+    "translation": "無頼の悟り",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_473_0",
+    "original": "ダブルアタック",
+    "translation": "ダブルアタック",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_474_0",
+    "original": "地獄の先導者",
+    "translation": "地獄の先導者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_475_0",
+    "original": "女帝の心得",
+    "translation": "女帝の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_476_0",
+    "original": "女帝の悟り",
+    "translation": "女帝の悟り",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_477_0",
+    "original": "従者のカード",
+    "translation": "従者のカード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_478_0",
+    "original": "愚者のカード",
+    "translation": "愚者のカード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_479_0",
+    "original": "拳闘士の心得",
+    "translation": "拳闘士の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_480_0",
+    "original": "拳闘士の悟り",
+    "translation": "拳闘士の悟り",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_481_0",
+    "original": "功夫の心得",
+    "translation": "功夫の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_482_0",
+    "original": "功夫の悟り",
+    "translation": "功夫の悟り",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_483_0",
+    "original": "野生の心得",
+    "translation": "野生の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_484_0",
+    "original": "野生の心得２",
+    "translation": "野生の心得２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_485_0",
+    "original": "ブレイブハート",
+    "translation": "ブレイブハート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_486_0",
+    "original": "ブレイブハート２",
+    "translation": "ブレイブハート２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_487_0",
+    "original": "王者の凱歌",
+    "translation": "王者の凱歌",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_488_0",
+    "original": "方陣マスタリ",
+    "translation": "方陣マスタリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_489_0",
+    "original": "真・方陣マスタリ",
+    "translation": "真・方陣マスタリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_490_0",
+    "original": "ケンカの心得",
+    "translation": "ケンカの心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_491_0",
+    "original": "ケンカの心得２",
+    "translation": "ケンカの心得２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_492_0",
+    "original": "勝利の息吹",
+    "translation": "勝利の息吹",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_493_0",
+    "original": "勝利の息吹２",
+    "translation": "勝利の息吹２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_494_0",
+    "original": "体勢マスタリ",
+    "translation": "体勢マスタリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_495_0",
+    "original": "体勢マスタリ２",
+    "translation": "体勢マスタリ２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_496_0",
+    "original": "獅子奮迅",
+    "translation": "獅子奮迅",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_497_0",
+    "original": "獅子奮迅２",
+    "translation": "獅子奮迅２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_498_0",
+    "original": "豪傑の双腕",
+    "translation": "豪傑の双腕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_499_0",
+    "original": "黄金の双翼",
+    "translation": "黄金の双翼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_500_0",
+    "original": "ルーンの盾",
+    "translation": "ルーンの盾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_501_0",
+    "original": "イージスの盾",
+    "translation": "イージスの盾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_502_0",
+    "original": "ソードブレイカー",
+    "translation": "ソードブレイカー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_503_0",
+    "original": "束縛の心得",
+    "translation": "束縛の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_504_0",
+    "original": "真・束縛の心得",
+    "translation": "真・束縛の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_505_0",
+    "original": "一番星",
+    "translation": "一番星",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_506_0",
+    "original": "挑戦者の心得",
+    "translation": "挑戦者の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_507_0",
+    "original": "真・挑戦者の心得",
+    "translation": "真・挑戦者の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_508_0",
+    "original": "下剋上",
+    "translation": "下剋上",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_509_0",
+    "original": "再生能力",
+    "translation": "再生能力",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_510_0",
+    "original": "ラッキースター",
+    "translation": "ラッキースター",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_511_0",
+    "original": "覇者の称号",
+    "translation": "覇者の称号",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_512_0",
+    "original": "癒しの指",
+    "translation": "癒しの指",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_513_0",
+    "original": "ディアガード",
+    "translation": "ディアガード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_514_0",
+    "original": "ディアラマガード",
+    "translation": "ディアラマガード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_515_0",
+    "original": "巨腕スイング",
+    "translation": "巨腕スイング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_516_0",
+    "original": "巨腕トルネード",
+    "translation": "巨腕トルネード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_517_0",
+    "original": "黄金連鎖",
+    "translation": "黄金連鎖",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_518_0",
+    "original": "連撃の心得",
+    "translation": "連撃の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_519_0",
+    "original": "真・連撃の心得",
+    "translation": "真・連撃の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_520_0",
+    "original": "回避の心得",
+    "translation": "回避の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_521_0",
+    "original": "真・回避の心得",
+    "translation": "真・回避の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_522_0",
+    "original": "トリックステップ",
+    "translation": "トリックステップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_523_0",
+    "original": "相殺ボディ",
+    "translation": "相殺ボディ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_524_0",
+    "original": "レメゲトン",
+    "translation": "レメゲトン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_525_0",
+    "original": "退魔の霧",
+    "translation": "退魔の霧",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_526_0",
+    "original": "火炎吸収",
+    "translation": "火炎吸収",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_527_0",
+    "original": "疾風吸収",
+    "translation": "疾風吸収",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_528_0",
+    "original": "氷結吸収",
+    "translation": "氷結吸収",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_529_0",
+    "original": "電撃吸収",
+    "translation": "電撃吸収",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_530_0",
+    "original": "救いの手",
+    "translation": "救いの手",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_531_0",
+    "original": "火炎ブースタ",
+    "translation": "火炎ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_532_0",
+    "original": "氷結ブースタ",
+    "translation": "氷結ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_533_0",
+    "original": "電撃ブースタ",
+    "translation": "電撃ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_534_0",
+    "original": "疾風ブースタ",
+    "translation": "疾風ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_535_0",
+    "original": "火炎ハイブースタ",
+    "translation": "火炎ハイブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_536_0",
+    "original": "氷結ハイブースタ",
+    "translation": "氷結ハイブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_537_0",
+    "original": "電撃ハイブースタ",
+    "translation": "電撃ハイブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_538_0",
+    "original": "疾風ハイブースタ",
+    "translation": "疾風ハイブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_539_0",
+    "original": "慈愛の心得",
+    "translation": "慈愛の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_540_0",
+    "original": "慈愛の悟り",
+    "translation": "慈愛の悟り",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_541_0",
+    "original": "聖母の両手",
+    "translation": "聖母の両手",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_542_0",
+    "original": "奇襲の心得",
+    "translation": "奇襲の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_543_0",
+    "original": "真・奇襲の心得",
+    "translation": "真・奇襲の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_544_0",
+    "original": "付着の心得",
+    "translation": "付着の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_545_0",
+    "original": "真・付着の心得",
+    "translation": "真・付着の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_546_0",
+    "original": "魔法円",
+    "translation": "魔法円",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_547_0",
+    "original": "審判のカード",
+    "translation": "審判のカード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_548_0",
+    "original": "火炎ヘルブースタ",
+    "translation": "火炎ヘルブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_549_0",
+    "original": "疾風ヘルブースタ",
+    "translation": "疾風ヘルブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_550_0",
+    "original": "ＳＰカット",
+    "translation": "ＳＰカット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_551_0",
+    "original": "急所の心得",
+    "translation": "急所の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_552_0",
+    "original": "真・急所の心得",
+    "translation": "真・急所の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_553_0",
+    "original": "女王の一刺し",
+    "translation": "女王の一刺し",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_554_0",
+    "original": "物理攻撃力ＵＰ",
+    "translation": "物理攻撃力ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_555_0",
+    "original": "物理攻撃・中",
+    "translation": "物理攻撃・中",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_556_0",
+    "original": "物理攻撃・大",
+    "translation": "物理攻撃・大",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_557_0",
+    "original": "物理防御力ＵＰ",
+    "translation": "物理防御力ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_558_0",
+    "original": "物理防御・中",
+    "translation": "物理防御・中",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_559_0",
+    "original": "物理防御・大",
+    "translation": "物理防御・大",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_560_0",
+    "original": "属性防御力ＵＰ",
+    "translation": "属性防御力ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_561_0",
+    "original": "属性防御・中",
+    "translation": "属性防御・中",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_562_0",
+    "original": "属性防御・大",
+    "translation": "属性防御・大",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_563_0",
+    "original": "安息の遊歩",
+    "translation": "安息の遊歩",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_564_0",
+    "original": "回復歩行２",
+    "translation": "回復歩行２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_565_0",
+    "original": "回復歩行３",
+    "translation": "回復歩行３",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_566_0",
+    "original": "二連の鎖",
+    "translation": "二連の鎖",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_567_0",
+    "original": "ダウンメイカー",
+    "translation": "ダウンメイカー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_568_0",
+    "original": "ダウンマイスター",
+    "translation": "ダウンマイスター",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_569_0",
+    "original": "孤高の威圧",
+    "translation": "孤高の威圧",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_570_0",
+    "original": "属性攻撃・小",
+    "translation": "属性攻撃・小",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_571_0",
+    "original": "属性攻撃・中",
+    "translation": "属性攻撃・中",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_572_0",
+    "original": "属性攻撃・大",
+    "translation": "属性攻撃・大",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_573_0",
+    "original": "ＨＰブースタ",
+    "translation": "ＨＰブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_574_0",
+    "original": "ＨＰハイブースタ",
+    "translation": "ＨＰハイブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_575_0",
+    "original": "ＳＰブースタ",
+    "translation": "ＳＰブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_576_0",
+    "original": "ＳＰハイブースタ",
+    "translation": "ＳＰハイブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_577_0",
+    "original": "速度ブースタ",
+    "translation": "速度ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_578_0",
+    "original": "速度ハイブースタ",
+    "translation": "速度ハイブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_579_0",
+    "original": "火炎耐性",
+    "translation": "火炎耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_580_0",
+    "original": "氷結耐性",
+    "translation": "氷結耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_581_0",
+    "original": "電撃耐性",
+    "translation": "電撃耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_582_0",
+    "original": "疾風耐性",
+    "translation": "疾風耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_583_0",
+    "original": "祝福耐性",
+    "translation": "祝福耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_584_0",
+    "original": "呪怨耐性",
+    "translation": "呪怨耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_585_0",
+    "original": "物理耐性",
+    "translation": "物理耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_586_0",
+    "original": "念動耐性",
+    "translation": "念動耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_587_0",
+    "original": "核熱耐性",
+    "translation": "核熱耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_588_0",
+    "original": "石化無効",
+    "translation": "石化無効",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_589_0",
+    "original": "睡眠無効",
+    "translation": "睡眠無効",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_590_0",
+    "original": "混乱無効",
+    "translation": "混乱無効",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_591_0",
+    "original": "毒無効",
+    "translation": "毒無効",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_592_0",
+    "original": "食いしばり",
+    "translation": "食いしばり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_593_0",
+    "original": "呪い無効",
+    "translation": "呪い無効",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_594_0",
+    "original": "麻痺無効",
+    "translation": "麻痺無効",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_595_0",
+    "original": "煙りの末",
+    "translation": "煙りの末",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_596_0",
+    "original": "褒賞のムチ",
+    "translation": "褒賞のムチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_597_0",
+    "original": "褒賞のムチ",
+    "translation": "褒賞のムチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_598_0",
+    "original": "魔封じ無効",
+    "translation": "魔封じ無効",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_599_0",
+    "original": "力封じ無効",
+    "translation": "力封じ無効",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_600_0",
+    "original": "速封じ無効",
+    "translation": "速封じ無効",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_601_0",
+    "original": "斬撃の鬼",
+    "translation": "斬撃の鬼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_602_0",
+    "original": "壊撃の鬼",
+    "translation": "壊撃の鬼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_603_0",
+    "original": "突撃の鬼",
+    "translation": "突撃の鬼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_604_0",
+    "original": "斬撃の神",
+    "translation": "斬撃の神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_605_0",
+    "original": "壊撃の神",
+    "translation": "壊撃の神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_606_0",
+    "original": "突撃の神",
+    "translation": "突撃の神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_607_0",
+    "original": "ＳＰリターン",
+    "translation": "ＳＰリターン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_608_0",
+    "original": "ＳＰリターン２",
+    "translation": "ＳＰリターン２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_610_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_611_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_612_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_613_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_614_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_615_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_616_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_617_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_618_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_619_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_620_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_621_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_622_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_623_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_624_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_625_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_626_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_627_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_628_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_629_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_630_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_631_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_632_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_633_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_634_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_635_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_636_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_637_0",
+    "original": "トドメの一撃",
+    "translation": "トドメの一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_639_0",
+    "original": "スキルテスト",
+    "translation": "スキルテスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_642_0",
+    "original": "バインドキュア",
+    "translation": "バインドキュア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_643_0",
+    "original": "バインドフリー",
+    "translation": "バインドフリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_644_0",
+    "original": "イモータルチキン",
+    "translation": "イモータルチキン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_645_0",
+    "original": "宝玉",
+    "translation": "宝玉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_646_0",
+    "original": "ソウルドロップ",
+    "translation": "ソウルドロップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_647_0",
+    "original": "スナフソウル",
+    "translation": "スナフソウル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_648_0",
+    "original": "チューインソウル",
+    "translation": "チューインソウル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_649_0",
+    "original": "アムリタソーダ",
+    "translation": "アムリタソーダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_650_0",
+    "original": "ソーマの雫",
+    "translation": "ソーマの雫",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_651_0",
+    "original": "ソーマドロップ",
+    "translation": "ソーマドロップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_652_0",
+    "original": "地返しの玉",
+    "translation": "地返しの玉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_653_0",
+    "original": "反魂香",
+    "translation": "反魂香",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_654_0",
+    "original": "Ｌ・ダブルドッグ",
+    "translation": "Ｌ・ダブルドッグ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_655_0",
+    "original": "Ｌ・ビッグドッグ",
+    "translation": "Ｌ・ビッグドッグ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_656_0",
+    "original": "バインドエイド",
+    "translation": "バインドエイド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_657_0",
+    "original": "韋駄天の札",
+    "translation": "韋駄天の札",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_658_0",
+    "original": "お清めの水",
+    "translation": "お清めの水",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_659_0",
+    "original": "お清めの塩",
+    "translation": "お清めの塩",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_660_0",
+    "original": "羅刹の札",
+    "translation": "羅刹の札",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_661_0",
+    "original": "金剛の札",
+    "translation": "金剛の札",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_662_0",
+    "original": "耐物ミスト",
+    "translation": "耐物ミスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_663_0",
+    "original": "耐物ミスト",
+    "translation": "耐物ミスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_664_0",
+    "original": "耐物ミスト",
+    "translation": "耐物ミスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_665_0",
+    "original": "耐熱ミスト",
+    "translation": "耐熱ミスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_666_0",
+    "original": "耐氷ミスト",
+    "translation": "耐氷ミスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_667_0",
+    "original": "耐雷ミスト",
+    "translation": "耐雷ミスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_668_0",
+    "original": "耐風ミスト",
+    "translation": "耐風ミスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_669_0",
+    "original": "耐核ミスト",
+    "translation": "耐核ミスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_670_0",
+    "original": "耐念ミスト",
+    "translation": "耐念ミスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_671_0",
+    "original": "サイコボム",
+    "translation": "サイコボム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_672_0",
+    "original": "核熱の魔弾",
+    "translation": "核熱の魔弾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_673_0",
+    "original": "三寸玉",
+    "translation": "三寸玉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_674_0",
+    "original": "灼熱の魔弾",
+    "translation": "灼熱の魔弾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_675_0",
+    "original": "ドライアイス",
+    "translation": "ドライアイス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_676_0",
+    "original": "零度の魔弾",
+    "translation": "零度の魔弾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_677_0",
+    "original": "テスラコイル",
+    "translation": "テスラコイル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_678_0",
+    "original": "天雷の魔弾",
+    "translation": "天雷の魔弾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_679_0",
+    "original": "弥七",
+    "translation": "弥七",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_680_0",
+    "original": "暴風の魔弾",
+    "translation": "暴風の魔弾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_681_0",
+    "original": "せがき米",
+    "translation": "せがき米",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_682_0",
+    "original": "呪殺ペーパー",
+    "translation": "呪殺ペーパー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_683_0",
+    "original": "アトムマッチ",
+    "translation": "アトムマッチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_684_0",
+    "original": "念動の魔弾",
+    "translation": "念動の魔弾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_685_0",
+    "original": "ドロン玉",
+    "translation": "ドロン玉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_686_0",
+    "original": "はがくれ丼",
+    "translation": "はがくれ丼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_687_0",
+    "original": "スペシャル肉丼",
+    "translation": "スペシャル肉丼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_688_0",
+    "original": "ルブランカレー",
+    "translation": "ルブランカレー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_689_0",
+    "original": "解析用スコープ",
+    "translation": "解析用スコープ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_690_0",
+    "original": "ホムンクルス",
+    "translation": "ホムンクルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_691_0",
+    "original": "退魔の笛",
+    "translation": "退魔の笛",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_692_0",
+    "original": "集魔の笛",
+    "translation": "集魔の笛",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_693_0",
+    "original": "カエレール",
+    "translation": "カエレール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_694_0",
+    "original": "モドレール",
+    "translation": "モドレール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_695_0",
+    "original": "クリーンボトル",
+    "translation": "クリーンボトル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_696_0",
+    "original": "簡易レーダー",
+    "translation": "簡易レーダー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_697_0",
+    "original": "ソーマ",
+    "translation": "ソーマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_698_0",
+    "original": "クリーンシャワー",
+    "translation": "クリーンシャワー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_699_0",
+    "original": "宝玉輪",
+    "translation": "宝玉輪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_700_0",
+    "original": "オタカラリカバリ",
+    "translation": "オタカラリカバリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_701_0",
+    "original": "退魔の角笛",
+    "translation": "退魔の角笛",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_702_0",
+    "original": "集魔の角笛",
+    "translation": "集魔の角笛",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_703_0",
+    "original": "ヒールストーン",
+    "translation": "ヒールストーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_704_0",
+    "original": "ポップコーン",
+    "translation": "ポップコーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_705_0",
+    "original": "ガッツポテト",
+    "translation": "ガッツポテト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_706_0",
+    "original": "リバイブストーン",
+    "translation": "リバイブストーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_707_0",
+    "original": "Ｌヒールストーン",
+    "translation": "Ｌヒールストーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_708_0",
+    "original": "蜂蜜ポップコーン",
+    "translation": "蜂蜜ポップコーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_709_0",
+    "original": "Ｌ・ホットドッグ",
+    "translation": "Ｌ・ホットドッグ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_710_0",
+    "original": "クリーンソーダ",
+    "translation": "クリーンソーダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_711_0",
+    "original": "南国ポップコーン",
+    "translation": "南国ポップコーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_712_0",
+    "original": "肉汁ポップコーン",
+    "translation": "肉汁ポップコーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_713_0",
+    "original": "七色ポップコーン",
+    "translation": "七色ポップコーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_714_0",
+    "original": "Ｌ・チュロス",
+    "translation": "Ｌ・チュロス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_722_0",
+    "original": "即死無効",
+    "translation": "即死無効",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_723_0",
+    "original": "状態異常無効",
+    "translation": "状態異常無効",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_724_0",
+    "original": "封じ無効",
+    "translation": "封じ無効",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_726_0",
+    "original": "黄泉路からの生還",
+    "translation": "黄泉路からの生還",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_727_0",
+    "original": "三連の鎖",
+    "translation": "三連の鎖",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_728_0",
+    "original": "四連の鎖",
+    "translation": "四連の鎖",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_729_0",
+    "original": "無限の鎖",
+    "translation": "無限の鎖",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_730_0",
+    "original": "魔力の循環",
+    "translation": "魔力の循環",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_731_0",
+    "original": "物理スキル強化",
+    "translation": "物理スキル強化",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_732_0",
+    "original": "全体治癒促進",
+    "translation": "全体治癒促進",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_733_0",
+    "original": "方陣の循環",
+    "translation": "方陣の循環",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_734_0",
+    "original": "回復量増加",
+    "translation": "回復量増加",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_735_0",
+    "original": "スタン回復制御用",
+    "translation": "スタン回復制御用",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_736_0",
+    "original": "オーバーヒート",
+    "translation": "オーバーヒート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_737_0",
+    "original": "オーバーヒート終了",
+    "translation": "オーバーヒート終了",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_738_0",
+    "original": "牧師：誓いの言葉終了",
+    "translation": "牧師：誓いの言葉終了",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_740_0",
+    "original": "核熱ブースタ",
+    "translation": "核熱ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_741_0",
+    "original": "念動ブースタ",
+    "translation": "念動ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_742_0",
+    "original": "祝福ブースタ",
+    "translation": "祝福ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_743_0",
+    "original": "呪怨ブースタ",
+    "translation": "呪怨ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_744_0",
+    "original": "核熱ハイブースタ",
+    "translation": "核熱ハイブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_745_0",
+    "original": "念動ハイブースタ",
+    "translation": "念動ハイブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_746_0",
+    "original": "祝福ハイブースタ",
+    "translation": "祝福ハイブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_747_0",
+    "original": "呪怨ハイブースタ",
+    "translation": "呪怨ハイブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_748_0",
+    "original": "苦無乱舞",
+    "translation": "苦無乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_749_0",
+    "original": "苦無乱舞",
+    "translation": "苦無乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_750_0",
+    "original": "迎撃の一射",
+    "translation": "迎撃の一射",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_751_0",
+    "original": "迎撃の一射",
+    "translation": "迎撃の一射",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_752_0",
+    "original": "予告ホームラン",
+    "translation": "予告ホームラン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_753_0",
+    "original": "予告ホームラン",
+    "translation": "予告ホームラン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_754_0",
+    "original": "ソニックラッシュ",
+    "translation": "ソニックラッシュ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_755_0",
+    "original": "ソニックラッシュ",
+    "translation": "ソニックラッシュ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_757_0",
+    "original": "抑制ブースタ",
+    "translation": "抑制ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_758_0",
+    "original": "抑制ハイブースタ",
+    "translation": "抑制ハイブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_759_0",
+    "original": "憤怒の拳",
+    "translation": "憤怒の拳",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_760_0",
+    "original": "怒りの鉄拳",
+    "translation": "怒りの鉄拳",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_761_0",
+    "original": "封殺の心得",
+    "translation": "封殺の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_762_0",
+    "original": "真・封殺の心得",
+    "translation": "真・封殺の心得",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_763_0",
+    "original": "大褒賞のムチ",
+    "translation": "大褒賞のムチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_764_0",
+    "original": "大褒賞のムチ",
+    "translation": "大褒賞のムチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_765_0",
+    "original": "護国の宝剣",
+    "translation": "護国の宝剣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_766_0",
+    "original": "氷炎の護符",
+    "translation": "氷炎の護符",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_767_0",
+    "original": "風雷の護符",
+    "translation": "風雷の護符",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_768_0",
+    "original": "超科学バリア装置",
+    "translation": "超科学バリア装置",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_770_0",
+    "original": "アギ",
+    "translation": "アギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_771_0",
+    "original": "アギラオ",
+    "translation": "アギラオ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_772_0",
+    "original": "アギダイン",
+    "translation": "アギダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_773_0",
+    "original": "マハラギ",
+    "translation": "マハラギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_774_0",
+    "original": "マハラギオン",
+    "translation": "マハラギオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_775_0",
+    "original": "マハラギダイン",
+    "translation": "マハラギダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_776_0",
+    "original": "炎の乱舞",
+    "translation": "炎の乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_777_0",
+    "original": "火炎の乱舞",
+    "translation": "火炎の乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_778_0",
+    "original": "豪炎の乱舞",
+    "translation": "豪炎の乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_780_0",
+    "original": "ガル",
+    "translation": "ガル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_781_0",
+    "original": "ガルーラ",
+    "translation": "ガルーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_782_0",
+    "original": "ガルダイン",
+    "translation": "ガルダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_783_0",
+    "original": "マハガル",
+    "translation": "マハガル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_784_0",
+    "original": "マハガルーラ",
+    "translation": "マハガルーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_785_0",
+    "original": "マハガルダイン",
+    "translation": "マハガルダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_786_0",
+    "original": "風の乱舞",
+    "translation": "風の乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_787_0",
+    "original": "疾風の乱舞",
+    "translation": "疾風の乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_788_0",
+    "original": "烈風の乱舞",
+    "translation": "烈風の乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_790_0",
+    "original": "ブフ",
+    "translation": "ブフ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_791_0",
+    "original": "ブフーラ",
+    "translation": "ブフーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_792_0",
+    "original": "ブフダイン",
+    "translation": "ブフダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_793_0",
+    "original": "マハブフ",
+    "translation": "マハブフ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_794_0",
+    "original": "マハブフーラ",
+    "translation": "マハブフーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_795_0",
+    "original": "マハブフダイン",
+    "translation": "マハブフダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_796_0",
+    "original": "絶対零度",
+    "translation": "絶対零度",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_797_0",
+    "original": "氷の乱舞",
+    "translation": "氷の乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_798_0",
+    "original": "氷結の乱舞",
+    "translation": "氷結の乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_799_0",
+    "original": "氷河の乱舞",
+    "translation": "氷河の乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_801_0",
+    "original": "ジオ",
+    "translation": "ジオ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_802_0",
+    "original": "ジオンガ",
+    "translation": "ジオンガ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_803_0",
+    "original": "ジオダイン",
+    "translation": "ジオダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_804_0",
+    "original": "マハジオ",
+    "translation": "マハジオ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_805_0",
+    "original": "マハジオンガ",
+    "translation": "マハジオンガ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_806_0",
+    "original": "マハジオダイン",
+    "translation": "マハジオダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_807_0",
+    "original": "ケラウノス",
+    "translation": "ケラウノス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_808_0",
+    "original": "雷の乱舞",
+    "translation": "雷の乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_809_0",
+    "original": "雷撃の乱舞",
+    "translation": "雷撃の乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_810_0",
+    "original": "爆雷の乱舞",
+    "translation": "爆雷の乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_812_0",
+    "original": "メギド",
+    "translation": "メギド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_813_0",
+    "original": "メギドラ",
+    "translation": "メギドラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_814_0",
+    "original": "メギドラオン",
+    "translation": "メギドラオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_818_0",
+    "original": "ハマ",
+    "translation": "ハマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_819_0",
+    "original": "ハマオン",
+    "translation": "ハマオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_820_0",
+    "original": "マハンマ",
+    "translation": "マハンマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_821_0",
+    "original": "マハンマオン",
+    "translation": "マハンマオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_825_0",
+    "original": "ムド",
+    "translation": "ムド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_826_0",
+    "original": "ムドオン",
+    "translation": "ムドオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_827_0",
+    "original": "マハムド",
+    "translation": "マハムド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_828_0",
+    "original": "マハムドオン",
+    "translation": "マハムドオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_832_0",
+    "original": "ポイズマ",
+    "translation": "ポイズマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_833_0",
+    "original": "ポイズンブレス",
+    "translation": "ポイズンブレス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_834_0",
+    "original": "ペトラアイ",
+    "translation": "ペトラアイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_835_0",
+    "original": "ストーンミスト",
+    "translation": "ストーンミスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_836_0",
+    "original": "ドルミナー",
+    "translation": "ドルミナー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_837_0",
+    "original": "スリープソング",
+    "translation": "スリープソング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_838_0",
+    "original": "プリンパ",
+    "translation": "プリンパ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_839_0",
+    "original": "テンタラフー",
+    "translation": "テンタラフー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_840_0",
+    "original": "惑乱の光",
+    "translation": "惑乱の光",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_842_0",
+    "original": "デビルタッチ",
+    "translation": "デビルタッチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_843_0",
+    "original": "デビルスマイル",
+    "translation": "デビルスマイル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_844_0",
+    "original": "シバブー",
+    "translation": "シバブー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_845_0",
+    "original": "バインドボイス",
+    "translation": "バインドボイス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_846_0",
+    "original": "マカジャマ",
+    "translation": "マカジャマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_847_0",
+    "original": "サイレントノイズ",
+    "translation": "サイレントノイズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_848_0",
+    "original": "ナイアーム",
+    "translation": "ナイアーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_849_0",
+    "original": "マッスルダウン",
+    "translation": "マッスルダウン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_850_0",
+    "original": "スケアスロウ",
+    "translation": "スケアスロウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_851_0",
+    "original": "スパイダーネット",
+    "translation": "スパイダーネット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_852_0",
+    "original": "自爆",
+    "translation": "自爆",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_853_0",
+    "original": "ウサギのまどろみ",
+    "translation": "ウサギのまどろみ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_854_0",
+    "original": "コウハ",
+    "translation": "コウハ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_855_0",
+    "original": "コウガ",
+    "translation": "コウガ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_856_0",
+    "original": "コウガオン",
+    "translation": "コウガオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_860_0",
+    "original": "エイハ",
+    "translation": "エイハ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_861_0",
+    "original": "エイガ",
+    "translation": "エイガ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_862_0",
+    "original": "エイガオン",
+    "translation": "エイガオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_866_0",
+    "original": "フレイ",
+    "translation": "フレイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_867_0",
+    "original": "フレイラ",
+    "translation": "フレイラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_868_0",
+    "original": "フレイダイン",
+    "translation": "フレイダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_869_0",
+    "original": "アトミックフレア",
+    "translation": "アトミックフレア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_870_0",
+    "original": "マハフレイ",
+    "translation": "マハフレイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_872_0",
+    "original": "サイ",
+    "translation": "サイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_873_0",
+    "original": "サイオ",
+    "translation": "サイオ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_874_0",
+    "original": "サイダイン",
+    "translation": "サイダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_875_0",
+    "original": "サイコキネシス",
+    "translation": "サイコキネシス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_876_0",
+    "original": "マハサイ",
+    "translation": "マハサイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_880_0",
+    "original": "神の審判",
+    "translation": "神の審判",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_881_0",
+    "original": "悪魔の審判",
+    "translation": "悪魔の審判",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_883_0",
+    "original": "万物流転",
+    "translation": "万物流転",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_884_0",
+    "original": "神空波",
+    "translation": "神空波",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_898_0",
+    "original": "牙砕き",
+    "translation": "牙砕き",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_899_0",
+    "original": "胆砕き",
+    "translation": "胆砕き",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_900_0",
+    "original": "大切断",
+    "translation": "大切断",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_901_0",
+    "original": "ツインスラッシュ",
+    "translation": "ツインスラッシュ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_902_0",
+    "original": "突撃",
+    "translation": "突撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_903_0",
+    "original": "トリプルダウン",
+    "translation": "トリプルダウン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_904_0",
+    "original": "剛殺斬",
+    "translation": "剛殺斬",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_905_0",
+    "original": "ハイスラッシュ",
+    "translation": "ハイスラッシュ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_906_0",
+    "original": "チャージショット",
+    "translation": "チャージショット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_907_0",
+    "original": "メッタ突き",
+    "translation": "メッタ突き",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_908_0",
+    "original": "霧氷刃",
+    "translation": "霧氷刃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_909_0",
+    "original": "ギロチンカット",
+    "translation": "ギロチンカット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_910_0",
+    "original": "五月雨斬り",
+    "translation": "五月雨斬り",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_911_0",
+    "original": "紫電砕",
+    "translation": "紫電砕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_912_0",
+    "original": "ドレインタッチ",
+    "translation": "ドレインタッチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_913_0",
+    "original": "両腕落とし",
+    "translation": "両腕落とし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_914_0",
+    "original": "シングルショット",
+    "translation": "シングルショット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_915_0",
+    "original": "茨の足枷",
+    "translation": "茨の足枷",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_916_0",
+    "original": "茨の手錠",
+    "translation": "茨の手錠",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_917_0",
+    "original": "茨の口輪",
+    "translation": "茨の口輪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_918_0",
+    "original": "アサルトショット",
+    "translation": "アサルトショット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_919_0",
+    "original": "イノセントタック",
+    "translation": "イノセントタック",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_920_0",
+    "original": "武器砕き",
+    "translation": "武器砕き",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_921_0",
+    "original": "ホライズショット",
+    "translation": "ホライズショット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_922_0",
+    "original": "刹那五月雨撃",
+    "translation": "刹那五月雨撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_923_0",
+    "original": "メガトンプレス",
+    "translation": "メガトンプレス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_924_0",
+    "original": "ブレインシェイク",
+    "translation": "ブレインシェイク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_925_0",
+    "original": "スタードロップ",
+    "translation": "スタードロップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_926_0",
+    "original": "ぶちかまし",
+    "translation": "ぶちかまし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_927_0",
+    "original": "回転斬り",
+    "translation": "回転斬り",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_928_0",
+    "original": "利剣乱舞",
+    "translation": "利剣乱舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_929_0",
+    "original": "凍殺刃",
+    "translation": "凍殺刃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_930_0",
+    "original": "空間殺法",
+    "translation": "空間殺法",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_931_0",
+    "original": "メッタ斬り",
+    "translation": "メッタ斬り",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_932_0",
+    "original": "ヘッドバット",
+    "translation": "ヘッドバット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_933_0",
+    "original": "灼熱発破",
+    "translation": "灼熱発破",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_934_0",
+    "original": "ヒートウェイブ",
+    "translation": "ヒートウェイブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_935_0",
+    "original": "メガトンハンマー",
+    "translation": "メガトンハンマー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_936_0",
+    "original": "メガトンハンマー",
+    "translation": "メガトンハンマー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_937_0",
+    "original": "ブラインドカット",
+    "translation": "ブラインドカット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_938_0",
+    "original": "ポイズンカット",
+    "translation": "ポイズンカット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_939_0",
+    "original": "スリープカット",
+    "translation": "スリープカット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_940_0",
+    "original": "バインドカット",
+    "translation": "バインドカット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_941_0",
+    "original": "カースカット",
+    "translation": "カースカット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_942_0",
+    "original": "なぎ払い",
+    "translation": "なぎ払い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_943_0",
+    "original": "デスバウンド",
+    "translation": "デスバウンド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_944_0",
+    "original": "ミリオンシュート",
+    "translation": "ミリオンシュート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_945_0",
+    "original": "暴れまくり",
+    "translation": "暴れまくり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_946_0",
+    "original": "ぶちかまし",
+    "translation": "ぶちかまし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_947_0",
+    "original": "卵爆弾",
+    "translation": "卵爆弾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_948_0",
+    "original": "バーストアーム",
+    "translation": "バーストアーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_949_0",
+    "original": "ヒーローソニック",
+    "translation": "ヒーローソニック",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_950_0",
+    "original": "カモシダキック",
+    "translation": "カモシダキック",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_951_0",
+    "original": "ガンズキャロット",
+    "translation": "ガンズキャロット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_952_0",
+    "original": "キャロットボム",
+    "translation": "キャロットボム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_953_0",
+    "original": "なぎ払い",
+    "translation": "なぎ払い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_954_0",
+    "original": "ヒーローソニック",
+    "translation": "ヒーローソニック",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_955_0",
+    "original": "王笏の一撃",
+    "translation": "王笏の一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_956_0",
+    "original": "エンドショット",
+    "translation": "エンドショット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_957_0",
+    "original": "紅蓮の破壊光線",
+    "translation": "紅蓮の破壊光線",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_958_0",
+    "original": "乱射",
+    "translation": "乱射",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_959_0",
+    "original": "暴走突撃",
+    "translation": "暴走突撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_960_0",
+    "original": "具足斬り",
+    "translation": "具足斬り",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_961_0",
+    "original": "打ち砕く",
+    "translation": "打ち砕く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_962_0",
+    "original": "八艘跳び",
+    "translation": "八艘跳び",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_963_0",
+    "original": "ゴッドハンド",
+    "translation": "ゴッドハンド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_964_0",
+    "original": "排除",
+    "translation": "排除",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_965_0",
+    "original": "レッグイレーサー",
+    "translation": "レッグイレーサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_966_0",
+    "original": "パワーイレーサー",
+    "translation": "パワーイレーサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_967_0",
+    "original": "ヘッドイレーサー",
+    "translation": "ヘッドイレーサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_968_0",
+    "original": "ウェポンブレイク",
+    "translation": "ウェポンブレイク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_969_0",
+    "original": "尻尾ぶん回し",
+    "translation": "尻尾ぶん回し",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_978_0",
+    "original": "ディア",
+    "translation": "ディア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_979_0",
+    "original": "ディアラマ",
+    "translation": "ディアラマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_980_0",
+    "original": "ディアラハン",
+    "translation": "ディアラハン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_981_0",
+    "original": "医療キット",
+    "translation": "医療キット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_982_0",
+    "original": "自動修復",
+    "translation": "自動修復",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_983_0",
+    "original": "メディア",
+    "translation": "メディア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_984_0",
+    "original": "メディラマ",
+    "translation": "メディラマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_985_0",
+    "original": "メディアラハン",
+    "translation": "メディアラハン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_987_0",
+    "original": "サマリカーム",
+    "translation": "サマリカーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_988_0",
+    "original": "リカーム",
+    "translation": "リカーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_990_0",
+    "original": "パトラ",
+    "translation": "パトラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_993_0",
+    "original": "クロズディ",
+    "translation": "クロズディ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_998_0",
+    "original": "獣の咆哮",
+    "translation": "獣の咆哮",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_999_0",
+    "original": "口汚い野次",
+    "translation": "口汚い野次",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1001_0",
+    "original": "ランパート",
+    "translation": "ランパート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1002_0",
+    "original": "ボディーガード",
+    "translation": "ボディーガード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1004_0",
+    "original": "オールガード",
+    "translation": "オールガード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1011_0",
+    "original": "マハタルカジャ",
+    "translation": "マハタルカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1012_0",
+    "original": "マハラクカジャ",
+    "translation": "マハラクカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1013_0",
+    "original": "マハスクカジャ",
+    "translation": "マハスクカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1014_0",
+    "original": "チャージ",
+    "translation": "チャージ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1015_0",
+    "original": "コンセントレイト",
+    "translation": "コンセントレイト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1016_0",
+    "original": "炎の腐蝕",
+    "translation": "炎の腐蝕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1017_0",
+    "original": "氷の腐蝕",
+    "translation": "氷の腐蝕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1018_0",
+    "original": "雷の腐蝕",
+    "translation": "雷の腐蝕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1019_0",
+    "original": "風の腐蝕",
+    "translation": "風の腐蝕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1022_0",
+    "original": "マハタルンダ",
+    "translation": "マハタルンダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1023_0",
+    "original": "マハラクンダ",
+    "translation": "マハラクンダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1024_0",
+    "original": "マハスクンダ",
+    "translation": "マハスクンダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1026_0",
+    "original": "デカジャ",
+    "translation": "デカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1027_0",
+    "original": "デクンダ",
+    "translation": "デクンダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1029_0",
+    "original": "逃走",
+    "translation": "逃走",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1032_0",
+    "original": "タルカジャ",
+    "translation": "タルカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1033_0",
+    "original": "ラクカジャ",
+    "translation": "ラクカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1034_0",
+    "original": "スクカジャ",
+    "translation": "スクカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1035_0",
+    "original": "タルンダ",
+    "translation": "タルンダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1036_0",
+    "original": "ラクンダ",
+    "translation": "ラクンダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1037_0",
+    "original": "スクンダ",
+    "translation": "スクンダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1039_0",
+    "original": "チャージワン",
+    "translation": "チャージワン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1040_0",
+    "original": "絶対権力",
+    "translation": "絶対権力",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1041_0",
+    "original": "雄叫び",
+    "translation": "雄叫び",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1042_0",
+    "original": "テンション上げ",
+    "translation": "テンション上げ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1043_0",
+    "original": "なぎ倒す",
+    "translation": "なぎ倒す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1044_0",
+    "original": "暴れる",
+    "translation": "暴れる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1045_0",
+    "original": "暴れまわる",
+    "translation": "暴れまわる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1046_0",
+    "original": "スクカジャ",
+    "translation": "スクカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1047_0",
+    "original": "二重のスクカジャ",
+    "translation": "二重のスクカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1048_0",
+    "original": "三重のスクカジャ",
+    "translation": "三重のスクカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1049_0",
+    "original": "ランダマイザ",
+    "translation": "ランダマイザ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1061_0",
+    "original": "火炎の壁",
+    "translation": "火炎の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1062_0",
+    "original": "疾風の壁",
+    "translation": "疾風の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1063_0",
+    "original": "氷結の壁",
+    "translation": "氷結の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1064_0",
+    "original": "電撃の壁",
+    "translation": "電撃の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1065_0",
+    "original": "祝福の壁",
+    "translation": "祝福の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1066_0",
+    "original": "呪怨の壁",
+    "translation": "呪怨の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1067_0",
+    "original": "念動の壁",
+    "translation": "念動の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1068_0",
+    "original": "核熱の壁",
+    "translation": "核熱の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1074_0",
+    "original": "火炎ブースタ",
+    "translation": "火炎ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1075_0",
+    "original": "氷結ブースタ",
+    "translation": "氷結ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1076_0",
+    "original": "電撃ブースタ",
+    "translation": "電撃ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1077_0",
+    "original": "疾風ブースタ",
+    "translation": "疾風ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1078_0",
+    "original": "トリックステップ",
+    "translation": "トリックステップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1079_0",
+    "original": "回復量上昇",
+    "translation": "回復量上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1080_0",
+    "original": "物理ブースタ",
+    "translation": "物理ブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1081_0",
+    "original": "物理ブースタ２",
+    "translation": "物理ブースタ２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1082_0",
+    "original": "魔法ブースター",
+    "translation": "魔法ブースター",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1083_0",
+    "original": "魔法ブースター２",
+    "translation": "魔法ブースター２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1084_0",
+    "original": "ワイドアタック１",
+    "translation": "ワイドアタック１",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1085_0",
+    "original": "ワイドアタック２",
+    "translation": "ワイドアタック２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1086_0",
+    "original": "ワイドアタック３",
+    "translation": "ワイドアタック３",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1087_0",
+    "original": "ダブルブレイク１",
+    "translation": "ダブルブレイク１",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1088_0",
+    "original": "ダブルブレイク２",
+    "translation": "ダブルブレイク２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1089_0",
+    "original": "ダブルブレイク３",
+    "translation": "ダブルブレイク３",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1092_0",
+    "original": "オラトリオ",
+    "translation": "オラトリオ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1093_0",
+    "original": "ブルータルの剛腕",
+    "translation": "ブルータルの剛腕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1094_0",
+    "original": "アリアドネの鎖",
+    "translation": "アリアドネの鎖",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1095_0",
+    "original": "煉獄の双翼",
+    "translation": "煉獄の双翼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1096_0",
+    "original": "十文字斬り",
+    "translation": "十文字斬り",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1098_0",
+    "original": "電撃ヘルブースタ",
+    "translation": "電撃ヘルブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1099_0",
+    "original": "氷結ヘルブースタ",
+    "translation": "氷結ヘルブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1100_0",
+    "original": "念動ヘルブースタ",
+    "translation": "念動ヘルブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1101_0",
+    "original": "核熱ヘルブースタ",
+    "translation": "核熱ヘルブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1102_0",
+    "original": "祝福ヘルブースタ",
+    "translation": "祝福ヘルブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1103_0",
+    "original": "呪怨ヘルブースタ",
+    "translation": "呪怨ヘルブースタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1105_0",
+    "original": "共感の呼応",
+    "translation": "共感の呼応",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1106_0",
+    "original": "以心伝心の絆",
+    "translation": "以心伝心の絆",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1107_0",
+    "original": "憧憬の心",
+    "translation": "憧憬の心",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1108_0",
+    "original": "団結の大連鎖",
+    "translation": "団結の大連鎖",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1109_0",
+    "original": "剛腕スタイル",
+    "translation": "剛腕スタイル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1110_0",
+    "original": "剛腕スタイル",
+    "translation": "剛腕スタイル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1111_0",
+    "original": "鎧袖一触スタイル",
+    "translation": "鎧袖一触スタイル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1112_0",
+    "original": "鎧袖一触スタイル",
+    "translation": "鎧袖一触スタイル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1113_0",
+    "original": "ウォークライ",
+    "translation": "ウォークライ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1114_0",
+    "original": "念動吸収",
+    "translation": "念動吸収",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1115_0",
+    "original": "核熱吸収",
+    "translation": "核熱吸収",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1170_0",
+    "original": "火炎回避の効果",
+    "translation": "火炎回避の効果",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1171_0",
+    "original": "氷結回避の効果",
+    "translation": "氷結回避の効果",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1172_0",
+    "original": "疾風回避の効果",
+    "translation": "疾風回避の効果",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1173_0",
+    "original": "電撃回避の効果",
+    "translation": "電撃回避の効果",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1174_0",
+    "original": "核熱回避の効果",
+    "translation": "核熱回避の効果",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1175_0",
+    "original": "念動回避の効果",
+    "translation": "念動回避の効果",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1176_0",
+    "original": "火炎回避の効果",
+    "translation": "火炎回避の効果",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1177_0",
+    "original": "氷結回避の効果",
+    "translation": "氷結回避の効果",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1178_0",
+    "original": "疾風回避の効果",
+    "translation": "疾風回避の効果",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1179_0",
+    "original": "電撃回避の効果",
+    "translation": "電撃回避の効果",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1180_0",
+    "original": "核熱回避の効果",
+    "translation": "核熱回避の効果",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1181_0",
+    "original": "念動回避の効果",
+    "translation": "念動回避の効果",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1182_0",
+    "original": "バトンタッチ",
+    "translation": "バトンタッチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1183_0",
+    "original": "アタック２",
+    "translation": "アタック２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1184_0",
+    "original": "防御",
+    "translation": "防御",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1186_0",
+    "original": "トランプ兵の召喚",
+    "translation": "トランプ兵の召喚",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1187_0",
+    "original": "トランプ兵の増援",
+    "translation": "トランプ兵の増援",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1189_0",
+    "original": "天罰",
+    "translation": "天罰",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1190_0",
+    "original": "誓いの言葉",
+    "translation": "誓いの言葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1191_0",
+    "original": "ピアスレイピア",
+    "translation": "ピアスレイピア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1192_0",
+    "original": "暴風の舞い",
+    "translation": "暴風の舞い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1193_0",
+    "original": "暴風の舞い",
+    "translation": "暴風の舞い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1194_0",
+    "original": "風牙",
+    "translation": "風牙",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1195_0",
+    "original": "疾風牙",
+    "translation": "疾風牙",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1196_0",
+    "original": "烈風牙",
+    "translation": "烈風牙",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1197_0",
+    "original": "暴風牙",
+    "translation": "暴風牙",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1200_0",
+    "original": "荒療治",
+    "translation": "荒療治",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1201_0",
+    "original": "食いしばり",
+    "translation": "食いしばり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1202_0",
+    "original": "ラビットフット",
+    "translation": "ラビットフット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1203_0",
+    "original": "大声",
+    "translation": "大声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1205_0",
+    "original": "刻命の歯車",
+    "translation": "刻命の歯車",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1206_0",
+    "original": "時の跳躍",
+    "translation": "時の跳躍",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1207_0",
+    "original": "時の予告",
+    "translation": "時の予告",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1208_0",
+    "original": "時の逆流",
+    "translation": "時の逆流",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1209_0",
+    "original": "時の停留",
+    "translation": "時の停留",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1215_0",
+    "original": "絶対権力",
+    "translation": "絶対権力",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1216_0",
+    "original": "否定",
+    "translation": "否定",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1217_0",
+    "original": "同調",
+    "translation": "同調",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1218_0",
+    "original": "自動回復25％",
+    "translation": "自動回復25％",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1219_0",
+    "original": "自動回復40％",
+    "translation": "自動回復40％",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1220_0",
+    "original": "自動回復70％",
+    "translation": "自動回復70％",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1221_0",
+    "original": "殴りかかる",
+    "translation": "殴りかかる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1222_0",
+    "original": "絶望の衣",
+    "translation": "絶望の衣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1223_0",
+    "original": "幾万の絶望",
+    "translation": "幾万の絶望",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1224_0",
+    "original": "自動修復",
+    "translation": "自動修復",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1225_0",
+    "original": "緊急修復",
+    "translation": "緊急修復",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1227_0",
+    "original": "総攻撃",
+    "translation": "総攻撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1228_0",
+    "original": "メギドラオン",
+    "translation": "メギドラオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1232_0",
+    "original": "火炎の暴嵐",
+    "translation": "火炎の暴嵐",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1233_0",
+    "original": "氷結の暴嵐",
+    "translation": "氷結の暴嵐",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1234_0",
+    "original": "閃光の暴嵐",
+    "translation": "閃光の暴嵐",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1235_0",
+    "original": "暗闇の暴嵐",
+    "translation": "暗闇の暴嵐",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1237_0",
+    "original": "セイントスピア",
+    "translation": "セイントスピア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1238_0",
+    "original": "真空裂断",
+    "translation": "真空裂断",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1240_0",
+    "original": "フレイムオーラ",
+    "translation": "フレイムオーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1241_0",
+    "original": "アイスオーラ",
+    "translation": "アイスオーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1242_0",
+    "original": "セイントオーラ",
+    "translation": "セイントオーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1243_0",
+    "original": "ダークネスオーラ",
+    "translation": "ダークネスオーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1244_0",
+    "original": "フレイムオーラ",
+    "translation": "フレイムオーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1245_0",
+    "original": "アイスオーラ",
+    "translation": "アイスオーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1246_0",
+    "original": "セイントオーラ",
+    "translation": "セイントオーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1247_0",
+    "original": "ダークネスオーラ",
+    "translation": "ダークネスオーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1249_0",
+    "original": "怒気",
+    "translation": "怒気",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1250_0",
+    "original": "開闢の一撃",
+    "translation": "開闢の一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1252_0",
+    "original": "リテイク",
+    "translation": "リテイク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1253_0",
+    "original": "タイムアクセル",
+    "translation": "タイムアクセル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1255_0",
+    "original": "カモシダーマン！",
+    "translation": "カモシダーマン！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1267_0",
+    "original": "連鎖の風撃",
+    "translation": "連鎖の風撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1268_0",
+    "original": "連鎖の風",
+    "translation": "連鎖の風",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1282_0",
+    "original": "漢式・髑髏特攻撃",
+    "translation": "漢式・髑髏特攻撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1283_0",
+    "original": "新・どーん☆",
+    "translation": "新・どーん☆",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1284_0",
+    "original": "花鳥風月",
+    "translation": "花鳥風月",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1285_0",
+    "original": "２つの雷光",
+    "translation": "２つの雷光",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1286_0",
+    "original": "探偵王子アタック",
+    "translation": "探偵王子アタック",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1287_0",
+    "original": "運命との決別",
+    "translation": "運命との決別",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1288_0",
+    "original": "会長連撃剣",
+    "translation": "会長連撃剣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1289_0",
+    "original": "絆の一撃",
+    "translation": "絆の一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1290_0",
+    "original": "ハングリーシャウト",
+    "translation": "ハングリーシャウト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1291_0",
+    "original": "正義の鉄槌",
+    "translation": "正義の鉄槌",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1292_0",
+    "original": "信頼の連撃",
+    "translation": "信頼の連撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1293_0",
+    "original": "アニマル狂想曲",
+    "translation": "アニマル狂想曲",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1294_0",
+    "original": "二枚の切り札",
+    "translation": "二枚の切り札",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1295_0",
+    "original": "運命の進撃",
+    "translation": "運命の進撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1296_0",
+    "original": "快刀乱麻",
+    "translation": "快刀乱麻",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1297_0",
+    "original": "美少女カルテット",
+    "translation": "美少女カルテット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1298_0",
+    "original": "トリプルサポート",
+    "translation": "トリプルサポート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1299_0",
+    "original": "異種格闘拳脚",
+    "translation": "異種格闘拳脚",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1300_0",
+    "original": "相棒たちの底力",
+    "translation": "相棒たちの底力",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1301_0",
+    "original": "ワイルド・オーダー",
+    "translation": "ワイルド・オーダー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1377_0",
+    "original": "コウハ",
+    "translation": "コウハ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1378_0",
+    "original": "コウガ",
+    "translation": "コウガ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1379_0",
+    "original": "コウガオン",
+    "translation": "コウガオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1380_0",
+    "original": "マハコウハ",
+    "translation": "マハコウハ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1381_0",
+    "original": "マハコウガ",
+    "translation": "マハコウガ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1382_0",
+    "original": "マハコウガオン",
+    "translation": "マハコウガオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1387_0",
+    "original": "エイハ",
+    "translation": "エイハ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1388_0",
+    "original": "エイガ",
+    "translation": "エイガ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1389_0",
+    "original": "エイガオン",
+    "translation": "エイガオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1390_0",
+    "original": "マハエイハ",
+    "translation": "マハエイハ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1391_0",
+    "original": "マハエイガ",
+    "translation": "マハエイガ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1392_0",
+    "original": "マハエイガオン",
+    "translation": "マハエイガオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1397_0",
+    "original": "フレイ",
+    "translation": "フレイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1398_0",
+    "original": "フレイラ",
+    "translation": "フレイラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1399_0",
+    "original": "フレイダイン",
+    "translation": "フレイダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1400_0",
+    "original": "マハフレイ",
+    "translation": "マハフレイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1401_0",
+    "original": "マハフレイラ",
+    "translation": "マハフレイラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1402_0",
+    "original": "マハフレイダイン",
+    "translation": "マハフレイダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1404_0",
+    "original": "アトミックフレア",
+    "translation": "アトミックフレア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1405_0",
+    "original": "コズミックフレア",
+    "translation": "コズミックフレア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1407_0",
+    "original": "サイ",
+    "translation": "サイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1408_0",
+    "original": "サイオ",
+    "translation": "サイオ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1409_0",
+    "original": "サイダイン",
+    "translation": "サイダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1410_0",
+    "original": "マハサイ",
+    "translation": "マハサイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1411_0",
+    "original": "マハサイオ",
+    "translation": "マハサイオ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1412_0",
+    "original": "マハサイダイン",
+    "translation": "マハサイダイン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1414_0",
+    "original": "サイコキネシス",
+    "translation": "サイコキネシス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1415_0",
+    "original": "サイコフォース",
+    "translation": "サイコフォース",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1416_0",
+    "original": "黒点撃",
+    "translation": "黒点撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1417_0",
+    "original": "金剛発破",
+    "translation": "金剛発破",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1418_0",
+    "original": "アグネヤストラ",
+    "translation": "アグネヤストラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1420_0",
+    "original": "ブレイブザッパー",
+    "translation": "ブレイブザッパー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1421_0",
+    "original": "ワンショットキル",
+    "translation": "ワンショットキル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1422_0",
+    "original": "カームブレイバー",
+    "translation": "カームブレイバー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1423_0",
+    "original": "物理・速封",
+    "translation": "物理・速封",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1424_0",
+    "original": "我慢の制裁",
+    "translation": "我慢の制裁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1425_0",
+    "original": "制裁の一撃",
+    "translation": "制裁の一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1426_0",
+    "original": "我慢の神罰",
+    "translation": "我慢の神罰",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1427_0",
+    "original": "神罰の一撃",
+    "translation": "神罰の一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1428_0",
+    "original": "絶妙の一撃",
+    "translation": "絶妙の一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1429_0",
+    "original": "天軍の一撃",
+    "translation": "天軍の一撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1430_0",
+    "original": "夢見針",
+    "translation": "夢見針",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1431_0",
+    "original": "男気の壁",
+    "translation": "男気の壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1432_0",
+    "original": "コストカット",
+    "translation": "コストカット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1433_0",
+    "original": "コストカット",
+    "translation": "コストカット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1434_0",
+    "original": "予告打ち返し",
+    "translation": "予告打ち返し",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1435_0",
+    "original": "予告打ち返し",
+    "translation": "予告打ち返し",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1436_0",
+    "original": "苦無援護",
+    "translation": "苦無援護",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1437_0",
+    "original": "苦無援護",
+    "translation": "苦無援護",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1438_0",
+    "original": "ボルテージ",
+    "translation": "ボルテージ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1439_0",
+    "original": "撃ち落とし",
+    "translation": "撃ち落とし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1440_0",
+    "original": "撃ち落とし",
+    "translation": "撃ち落とし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1441_0",
+    "original": "探偵の戒め",
+    "translation": "探偵の戒め",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1442_0",
+    "original": "カウンタステップ",
+    "translation": "カウンタステップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1443_0",
+    "original": "カウンタステップ",
+    "translation": "カウンタステップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1444_0",
+    "original": "鉄壁の漢気",
+    "translation": "鉄壁の漢気",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1445_0",
+    "original": "ラッシュステップ",
+    "translation": "ラッシュステップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1446_0",
+    "original": "ラッシュステップ",
+    "translation": "ラッシュステップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1447_0",
+    "original": "カウンタバッシュ",
+    "translation": "カウンタバッシュ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1448_0",
+    "original": "カウンタバッシュ",
+    "translation": "カウンタバッシュ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1449_0",
+    "original": "挑発カウンター",
+    "translation": "挑発カウンター",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1450_0",
+    "original": "女帝の一刺し",
+    "translation": "女帝の一刺し",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1451_0",
+    "original": "オーバーリミット",
+    "translation": "オーバーリミット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1452_0",
+    "original": "フルスロットル",
+    "translation": "フルスロットル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1453_0",
+    "original": "ラッキーパンチ",
+    "translation": "ラッキーパンチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1454_0",
+    "original": "ミラクルパンチ",
+    "translation": "ミラクルパンチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1455_0",
+    "original": "挑発カウンター",
+    "translation": "挑発カウンター",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1457_0",
+    "original": "反撃スタイル",
+    "translation": "反撃スタイル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1458_0",
+    "original": "逆襲スタイル",
+    "translation": "逆襲スタイル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1459_0",
+    "original": "間食の技術",
+    "translation": "間食の技術",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1460_0",
+    "original": "間食の極意",
+    "translation": "間食の極意",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1461_0",
+    "original": "探偵の禁戒",
+    "translation": "探偵の禁戒",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1462_0",
+    "original": "猫足ステップ",
+    "translation": "猫足ステップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1463_0",
+    "original": "アックスガード",
+    "translation": "アックスガード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1464_0",
+    "original": "貝櫓の舞",
+    "translation": "貝櫓の舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1465_0",
+    "original": "蜃気楼の舞",
+    "translation": "蜃気楼の舞",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1466_0",
+    "original": "相殺クマボディ",
+    "translation": "相殺クマボディ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1467_0",
+    "original": "女王の一刺し",
+    "translation": "女王の一刺し",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1468_0",
+    "original": "極楽の遊歩",
+    "translation": "極楽の遊歩",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1469_0",
+    "original": "百戦錬磨の威圧",
+    "translation": "百戦錬磨の威圧",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1470_0",
+    "original": "イージスの神盾",
+    "translation": "イージスの神盾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1471_0",
+    "original": "小治癒促進",
+    "translation": "小治癒促進",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1472_0",
+    "original": "中治癒促進",
+    "translation": "中治癒促進",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1473_0",
+    "original": "大治癒促進",
+    "translation": "大治癒促進",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1474_0",
+    "original": "小気功",
+    "translation": "小気功",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1475_0",
+    "original": "中気功",
+    "translation": "中気功",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1476_0",
+    "original": "大気功",
+    "translation": "大気功",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1477_0",
+    "original": "ギロチンスライス",
+    "translation": "ギロチンスライス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1478_0",
+    "original": "ギロチンザッパー",
+    "translation": "ギロチンザッパー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1479_0",
+    "original": "パニッシュバイト",
+    "translation": "パニッシュバイト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1480_0",
+    "original": "パニッシュエンド",
+    "translation": "パニッシュエンド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1481_0",
+    "original": "セイントタッチ",
+    "translation": "セイントタッチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1482_0",
+    "original": "双腕潰し",
+    "translation": "双腕潰し",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1483_0",
+    "original": "アックスシールド",
+    "translation": "アックスシールド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1484_0",
+    "original": "コストリダクト",
+    "translation": "コストリダクト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1485_0",
+    "original": "コストリダクト",
+    "translation": "コストリダクト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1486_0",
+    "original": "無敵クマボディ",
+    "translation": "無敵クマボディ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1487_0",
+    "original": "筋力の才",
+    "translation": "筋力の才",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1488_0",
+    "original": "筋力の鬼才",
+    "translation": "筋力の鬼才",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1489_0",
+    "original": "筋力の天才",
+    "translation": "筋力の天才",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1490_0",
+    "original": "魔力の才",
+    "translation": "魔力の才",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1491_0",
+    "original": "魔力の鬼才",
+    "translation": "魔力の鬼才",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1492_0",
+    "original": "魔力の天才",
+    "translation": "魔力の天才",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1493_0",
+    "original": "忍耐の才",
+    "translation": "忍耐の才",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1494_0",
+    "original": "忍耐の鬼才",
+    "translation": "忍耐の鬼才",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1495_0",
+    "original": "忍耐の天才",
+    "translation": "忍耐の天才",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1496_0",
+    "original": "敏捷の才",
+    "translation": "敏捷の才",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1497_0",
+    "original": "敏捷の鬼才",
+    "translation": "敏捷の鬼才",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1498_0",
+    "original": "敏捷の天才",
+    "translation": "敏捷の天才",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1499_0",
+    "original": "運気の才",
+    "translation": "運気の才",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_1500_0",
+    "original": "運気の鬼才",
+    "translation": "運気の鬼才",
+    "stage": 1,
+    "context": ""
+  }
+]

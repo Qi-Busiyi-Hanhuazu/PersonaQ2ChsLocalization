@@ -1,0 +1,408 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おお、あそこ看板出てねえ？\nワラワラ人いるし。",
+    "translation": "おお、あそこ看板出てねえ？\nワラワラ人いるし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "なかなか盛況のようだな。\nどうやら、ここで間違いなさそうだ。",
+    "translation": "なかなか盛況のようだな。\nどうやら、ここで間違いなさそうだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "エリザベスは場所を見つけてって\n言ってたから、目的は達成したね。",
+    "translation": "エリザベスは場所を見つけてって\n言ってたから、目的は達成したね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "それじゃあ…",
+    "translation": "それじゃあ…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ちょっと！　何帰ろうとしてんの！",
+    "translation": "ちょっと！　何帰ろうとしてんの！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "ここまで来て、\nオトナの階段のぼんない気！？",
+    "translation": "ここまで来て、\nオトナの階段のぼんない気！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "そうクマ！\n男には戦わなきゃいけない時があるクマ！",
+    "translation": "そうクマ！\n男には戦わなきゃいけない時があるクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "ってなワケで突撃クマ！",
+    "translation": "ってなワケで突撃クマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あ、ズリ！　抜け駆けすんなよ！",
+    "translation": "あ、ズリ！　抜け駆けすんなよ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "お、オイ、お前ら！",
+    "translation": "お、オイ、お前ら！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ダメだったクマ…\nイカついガードマンが通してくれんクマ…",
+    "translation": "ダメだったクマ…\nイカついガードマンが通してくれんクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ＶＩＰ専用っつってたろ。\n会員証とかねえとダメなんじゃねえの？",
+    "translation": "ＶＩＰ専用っつってたろ。\n会員証とかねえとダメなんじゃねえの？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "うんにゃ。そもそもＶＩＰ専用\nなんてのはなかったクマ。",
+    "translation": "うんにゃ。そもそもＶＩＰ専用\nなんてのはなかったクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "え？　じゃあ、何でダメだったんだ？",
+    "translation": "え？　じゃあ、何でダメだったんだ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "男一人はお断りだとよ。",
+    "translation": "男一人はお断りだとよ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "セキュリティの関係で\n男は女友達の紹介がないと入れねえって…",
+    "translation": "セキュリティの関係で\n男は女友達の紹介がないと入れねえって…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ロンリーボーイに世間は厳しすぎクマ…",
+    "translation": "ロンリーボーイに世間は厳しすぎクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "オレはロンリーじゃねえ！\nこの場にチドリンさえいれば…クソ…",
+    "translation": "オレはロンリーじゃねえ！\nこの場にチドリンさえいれば…クソ…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "こうなったら、我らが美しき女性陣に\nご協力を賜わっちゃえば…",
+    "translation": "こうなったら、我らが美しき女性陣に\nご協力を賜わっちゃえば…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ムリ。",
+    "translation": "ムリ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ハァ…我々をダシにするつもりか？\n紳士の心遣いが聞いて呆れるな。",
+    "translation": "ハァ…我々をダシにするつもりか？\n紳士の心遣いが聞いて呆れるな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ううう、のぼりたいよ～…\n大人へのステップ駆け上がらせてよ…",
+    "translation": "ううう、のぼりたいよ～…\n大人へのステップ駆け上がらせてよ…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_016_1_0",
+    "original": "大のオトナが泣くほどのことっスか…\nほら、戻りますよ。",
+    "translation": "大のオトナが泣くほどのことっスか…\nほら、戻りますよ。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_016_2_0",
+    "original": "むむむ…ここは夜の師匠ズ！\n二人の行動力なら何か出来るはず！",
+    "translation": "むむむ…ここは夜の師匠ズ！\n二人の行動力なら何か出来るはず！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_016_2_1",
+    "original": "何かグッドアイデア、ぷりーず！",
+    "translation": "何かグッドアイデア、ぷりーず！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "グッドアイデアって言われても…",
+    "translation": "グッドアイデアって言われても…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "どう、ガードマンをごまかす方法、\n何か思いつく？",
+    "translation": "どう、ガードマンをごまかす方法、\n何か思いつく？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "SEL_018_0",
+    "original": "女装は？",
+    "translation": "女装は？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_1",
+    "original": "ナンパは？",
+    "translation": "ナンパは？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_2",
+    "original": "ワイロは？",
+    "translation": "ワイロは？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ムホ、その手があったクマ！\n女子がいないならクマが女子になればいい！",
+    "translation": "ムホ、その手があったクマ！\n女子がいないならクマが女子になればいい！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "クマのぷりちーフェイスなら\nどんな強面もイチコロクマ！",
+    "translation": "クマのぷりちーフェイスなら\nどんな強面もイチコロクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "いや、そんな上手く行くわけ…",
+    "translation": "いや、そんな上手く行くわけ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あのー、クマのヤツ\nもう走り出しちまいましたけど…",
+    "translation": "あのー、クマのヤツ\nもう走り出しちまいましたけど…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ムホ、その手があったクマ！\n素敵な女子に声をかけて、一緒に入るクマ！",
+    "translation": "ムホ、その手があったクマ！\n素敵な女子に声をかけて、一緒に入るクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "いや、お前それ失敗するパターンだろ。\n考え直した方が…",
+    "translation": "いや、お前それ失敗するパターンだろ。\n考え直した方が…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "あのー、クマのヤツ\nもう走り出しちまいましたけど…",
+    "translation": "あのー、クマのヤツ\nもう走り出しちまいましたけど…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ほほう…袖の下ってヤツクマね？\nお主もワルよのう…",
+    "translation": "ほほう…袖の下ってヤツクマね？\nお主もワルよのう…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "っつっても、\n渡せるようなモン持ってたか？",
+    "translation": "っつっても、\n渡せるようなモン持ってたか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "クマの中にはコガネじゃないけど\nお菓子がいっぱいクマ。",
+    "translation": "クマの中にはコガネじゃないけど\nお菓子がいっぱいクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "とっておきの食べかけで、見事\n釣ってみせるクマ！",
+    "translation": "とっておきの食べかけで、見事\n釣ってみせるクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ダメだったクマーー！",
+    "translation": "ダメだったクマーー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "完全に変質者扱いじゃねえか！",
+    "translation": "完全に変質者扱いじゃねえか！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ちょ、アイツら\nなんか連れて来てるぞ！",
+    "translation": "ちょ、アイツら\nなんか連れて来てるぞ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "あれは…シャドウ！？\nここはやるしかなさそうだね。",
+    "translation": "あれは…シャドウ！？\nここはやるしかなさそうだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "SEL_032_0",
+    "original": "戦うぞ",
+    "translation": "戦うぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_032_1",
+    "original": "力を合わせよう",
+    "translation": "力を合わせよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "ああ、僕たちなら出来る！\n行くよ！",
+    "translation": "ああ、僕たちなら出来る！\n行くよ！",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  }
+]

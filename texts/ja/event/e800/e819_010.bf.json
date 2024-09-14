@@ -1,0 +1,345 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おや、皆様。\nちょうど良いところへ。",
+    "translation": "おや、皆様。\nちょうど良いところへ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "実は、とある『特別上映』が観たいとの\nリクエストがございました。",
+    "translation": "実は、とある『特別上映』が観たいとの\nリクエストがございました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "すでにチケットが発券されておりますので\nぜひご確認ください。",
+    "translation": "すでにチケットが発券されておりますので\nぜひご確認ください。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "リクエスト？",
+    "translation": "リクエスト？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "誰から？",
+    "translation": "誰から？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "はい、それはそれは\nやかましくご要望され…",
+    "translation": "はい、それはそれは\nやかましくご要望され…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ククク…迷惑だったか？",
+    "translation": "ククク…迷惑だったか？",
+    "stage": 1,
+    "context": "居丈高な声"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ですが、我らにもそれくらいの\n権利はあるはずです。",
+    "translation": "ですが、我らにもそれくらいの\n権利はあるはずです。",
+    "stage": 1,
+    "context": "冷徹な声"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "はい、それは…",
+    "translation": "はい、それは…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "クク…我らからの贈り物だ。",
+    "translation": "クク…我らからの贈り物だ。",
+    "stage": 1,
+    "context": "居丈高な声"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "貴方はただこなせば良いのです。\n我らが望むとおりに。",
+    "translation": "貴方はただこなせば良いのです。\n我らが望むとおりに。",
+    "stage": 1,
+    "context": "冷徹な声"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "おお、ひょっこりそっくり\n双子キター！",
+    "translation": "おお、ひょっこりそっくり\n双子キター！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "どした？\n二人ぼっちで寂しくなったのか？",
+    "translation": "どした？\n二人ぼっちで寂しくなったのか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "戯言を…我らは貴方がたに\n注文をつけに来ただけです。",
+    "translation": "戯言を…我らは貴方がたに\n注文をつけに来ただけです。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "そうだ、貴様に任せておくと\n生温い映画ばかりになる。",
+    "translation": "そうだ、貴様に任せておくと\n生温い映画ばかりになる。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "更生のためにも、このあたりで\n『試練』を与えてやろうと思ってな。",
+    "translation": "更生のためにも、このあたりで\n『試練』を与えてやろうと思ってな。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "今回、二人より承った『特別上映』は…",
+    "translation": "今回、二人より承った『特別上映』は…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "『ジュネシック・ランド』に生息する\n『サイドプテラ』を撃破せよ、というもの。",
+    "translation": "『ジュネシック・ランド』に生息する\n『サイドプテラ』を撃破せよ、というもの。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あのＦ．Ｏ．Ｅか、強敵だな。",
+    "translation": "あのＦ．Ｏ．Ｅか、強敵だな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "でも、今のあたしたちなら、\nいい勝負できそう！",
+    "translation": "でも、今のあたしたちなら、\nいい勝負できそう！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "こっちにももう慣れたしな。\n仲間も増えたし、やれんじゃね？",
+    "translation": "こっちにももう慣れたしな。\n仲間も増えたし、やれんじゃね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "…ただし、Ｆ．Ｏ．Ｅは２体。\nどちらも倒してくるのです。",
+    "translation": "…ただし、Ｆ．Ｏ．Ｅは２体。\nどちらも倒してくるのです。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "２体だって？",
+    "translation": "２体だって？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "クク、怖気づいたか？",
+    "translation": "クク、怖気づいたか？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "だが、それくらいやってもらわねば\n観ているこちらも面白くない。",
+    "translation": "だが、それくらいやってもらわねば\n観ているこちらも面白くない。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "さあ、上映を始めてもらいましょう。\n早く我らを愉しませなさい。",
+    "translation": "さあ、上映を始めてもらいましょう。\n早く我らを愉しませなさい。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "SEL_019_0",
+    "original": "やってみよう",
+    "translation": "やってみよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_019_1",
+    "original": "勝手に決めるな",
+    "translation": "勝手に決めるな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "よく言った！\nでは、さっさと行って倒してこい！",
+    "translation": "よく言った！\nでは、さっさと行って倒してこい！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "よい心がけですね。\n少しは期待できるでしょうか。",
+    "translation": "よい心がけですね。\n少しは期待できるでしょうか。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "逃げるのですか、囚人。\nこの試練は、貴方のためでもあるのです。",
+    "translation": "逃げるのですか、囚人。\nこの試練は、貴方のためでもあるのです。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "そうだ、この程度で躓いては、\n更生など叶うはずも無いからな。",
+    "translation": "そうだ、この程度で躓いては、\n更生など叶うはずも無いからな。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "確かに、強敵と連戦なんて\nいい経験になるかも知れないわね。",
+    "translation": "確かに、強敵と連戦なんて\nいい経験になるかも知れないわね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "うーん…協力してもらってるし、\n聞いてあげてもいいんじゃない？",
+    "translation": "うーん…協力してもらってるし、\n聞いてあげてもいいんじゃない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "それでは決まりましたようですね。",
+    "translation": "それでは決まりましたようですね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "２体のＦ．Ｏ．Ｅとの大乱闘。\nサイドプテラを倒せ、開幕でございます！",
+    "translation": "２体のＦ．Ｏ．Ｅとの大乱闘。\nサイドプテラを倒せ、開幕でございます！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "演者として、全力で勤めを果たしなさい。",
+    "translation": "演者として、全力で勤めを果たしなさい。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ここでしっかり観ているからな。\n無様は許さんぞ、囚人！",
+    "translation": "ここでしっかり観ているからな。\n無様は許さんぞ、囚人！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_居丈高な声",
+    "original": "居丈高な声",
+    "translation": "居丈高な声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_冷徹な声",
+    "original": "冷徹な声",
+    "translation": "冷徹な声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

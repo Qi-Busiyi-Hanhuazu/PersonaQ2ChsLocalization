@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "この辺り、オタカラスポットか…\nどうする？",
+    "translation": "この辺り、オタカラスポットか…\nどうする？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "分かった。\n気を抜かずにやるとしよう。",
+    "translation": "分かった。\n気を抜かずにやるとしよう。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "敵が来た時は、任せておけ！",
+    "translation": "敵が来た時は、任せておけ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "止めておくんだな、分かった。",
+    "translation": "止めておくんだな、分かった。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで終わりみたいだぞ。",
+    "translation": "これで終わりみたいだぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "悪くない。",
+    "translation": "悪くない。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うむ。",
+    "translation": "うむ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "なるほどな。",
+    "translation": "なるほどな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "フッ…こんなものか。\n俺はまだまだイケるぞ。",
+    "translation": "フッ…こんなものか。\n俺はまだまだイケるぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "珍しいな。",
+    "translation": "珍しいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "貴重らしいぞ。",
+    "translation": "貴重らしいぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "やったな。",
+    "translation": "やったな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットか。\n通ってみるか？",
+    "translation": "ショートカットか。\n通ってみるか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないんだな。",
+    "translation": "こっちは通れないんだな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ほう、強敵の気配がするな…\nいくか？",
+    "translation": "ほう、強敵の気配がするな…\nいくか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "よし！　俺に任せておけ！",
+    "translation": "よし！　俺に任せておけ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうか。\n準備は大切だからな。",
+    "translation": "そうか。\n準備は大切だからな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "フッ、手応えのある戦いだったな。\n採取も出来たし、一石二鳥だ。",
+    "translation": "フッ、手応えのある戦いだったな。\n採取も出来たし、一石二鳥だ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "シャドウの気配がするな…\nやるか！",
+    "translation": "シャドウの気配がするな…\nやるか！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ああ、任せろ！",
+    "translation": "ああ、任せろ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうか。",
+    "translation": "そうか。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ん？　これで終わりか？",
+    "translation": "ん？　これで終わりか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから戻れるな。\n映画館へ行くか？",
+    "translation": "ここから戻れるな。\n映画館へ行くか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  }
+]

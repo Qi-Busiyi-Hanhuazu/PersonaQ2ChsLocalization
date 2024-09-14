@@ -1,0 +1,527 @@
+[
+  {
+    "key": "P4_HERO_FOE_FOLLOW_START_0",
+    "original": "Ｆ．Ｏ．Ｅに気づかれたぞ。",
+    "translation": "Ｆ．Ｏ．Ｅに気づかれたぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅが来たな。",
+    "translation": "Ｆ．Ｏ．Ｅが来たな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_FOE_FOLLOW_START_3_0",
+    "original": "気をつけろ、Ｆ．Ｏ．Ｅだ。",
+    "translation": "気をつけろ、Ｆ．Ｏ．Ｅだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_FOE_NEAR_1_0",
+    "original": "近くにＦ．Ｏ．Ｅがいる。",
+    "translation": "近くにＦ．Ｏ．Ｅがいる。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅがそこにいるぞ。",
+    "translation": "Ｆ．Ｏ．Ｅがそこにいるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅだ、注意しよう。",
+    "translation": "Ｆ．Ｏ．Ｅだ、注意しよう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_FOE_FOLLOW_END_1_0",
+    "original": "追尾から逃れたか…。",
+    "translation": "追尾から逃れたか…。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_FOE_FOLLOW_END_2_0",
+    "original": "諦めたみたいだな。",
+    "translation": "諦めたみたいだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_FOE_FOLLOW_END_3_0",
+    "original": "撒いたみたいだな。",
+    "translation": "撒いたみたいだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_KANSI_REACTION_1_0",
+    "original": "見つからないよう、注意しよう。",
+    "translation": "見つからないよう、注意しよう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_KANSI_REACTION_2_0",
+    "original": "慎重に進もう。",
+    "translation": "慎重に進もう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_KANSI_REACTION_3_0",
+    "original": "上手くすり抜けよう。",
+    "translation": "上手くすり抜けよう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_DENKISAKU_REACTI_0",
+    "original": "これは…厄介だな。",
+    "translation": "これは…厄介だな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_DENKISAKU_REACTI_2_0",
+    "original": "電気柵か…危険だな。",
+    "translation": "電気柵か…危険だな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_DENKISAKU_REACTI_3_0",
+    "original": "この電気柵、止めたいな。",
+    "translation": "この電気柵、止めたいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_KYOUHU_REACTION__0",
+    "original": "わっ！？",
+    "translation": "わっ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_KYOUHU_REACTION__2_0",
+    "original": "うわっ！？",
+    "translation": "うわっ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_KYOUHU_REACTION__3_0",
+    "original": "なっ！？",
+    "translation": "なっ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_STAIR_FIND_1_0",
+    "original": "先に進めそうだ。",
+    "translation": "先に進めそうだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_STAIR_FIND_2_0",
+    "original": "次のエリアへ向かうか？",
+    "translation": "次のエリアへ向かうか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_STAIR_FIND_3_0",
+    "original": "先に行けそうだな。どうする？",
+    "translation": "先に行けそうだな。どうする？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_TREASURE_FIND_1_0",
+    "original": "宝箱か…開けるか？",
+    "translation": "宝箱か…開けるか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_TREASURE_FIND_2_0",
+    "original": "宝箱を発見した。",
+    "translation": "宝箱を発見した。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_TREASURE_FIND_3_0",
+    "original": "宝箱か…気になるな。",
+    "translation": "宝箱か…気になるな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_CHECK_WALL_1_0",
+    "original": "あれは…？",
+    "translation": "あれは…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_CHECK_WALL_2_0",
+    "original": "何かありそうだぞ。",
+    "translation": "何かありそうだぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_CHECK_WALL_3_0",
+    "original": "何かあるな…調べないか？",
+    "translation": "何かあるな…調べないか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_SWITCH_FIND_1_0",
+    "original": "スイッチを見つけたぞ。",
+    "translation": "スイッチを見つけたぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_SWITCH_FIND_2_0",
+    "original": "あそこ、スイッチだ。",
+    "translation": "あそこ、スイッチだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_SWITCH_FIND_3_0",
+    "original": "スイッチがあるぞ。",
+    "translation": "スイッチがあるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_SHORTCUT_FIND_1_0",
+    "original": "そこ、通れそうだな。",
+    "translation": "そこ、通れそうだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_SHORTCUT_FIND_2_0",
+    "original": "ん？　近道になりそうじゃないか？",
+    "translation": "ん？　近道になりそうじゃないか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_SHORTCUT_FIND_3_0",
+    "original": "見ろ、ショートカットできそうだ。",
+    "translation": "見ろ、ショートカットできそうだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_FOE_WARNING_NEAR_0",
+    "original": "Ｆ．Ｏ．Ｅが来てるな。",
+    "translation": "Ｆ．Ｏ．Ｅが来てるな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_FOE_WARNING_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅだ、油断するな。",
+    "translation": "Ｆ．Ｏ．Ｅだ、油断するな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_FOE_WARNING_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅに追われてるぞ。",
+    "translation": "Ｆ．Ｏ．Ｅに追われてるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_1PERSON_HPTP10_1_0",
+    "original": "くっ…休憩しないか？",
+    "translation": "くっ…休憩しないか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_1PERSON_HPTP10_2_0",
+    "original": "ふぅ…少し休みたいな…",
+    "translation": "ふぅ…少し休みたいな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_1PERSON_HPTP10_3_0",
+    "original": "かなり…キツいな…",
+    "translation": "かなり…キツいな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_1PERSON_HP10_1_0",
+    "original": "はぁっ…体力が…",
+    "translation": "はぁっ…体力が…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_1PERSON_HP10_2_0",
+    "original": "体力が…尽きそうだ…",
+    "translation": "体力が…尽きそうだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_1PERSON_HP10_3_0",
+    "original": "はぁっ…倒れそうだ…",
+    "translation": "はぁっ…倒れそうだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_1PERSON_TP10_1_0",
+    "original": "すまない、気力切れだ…",
+    "translation": "すまない、気力切れだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_1PERSON_TP10_2_0",
+    "original": "くっ…だいぶキツいな…",
+    "translation": "くっ…だいぶキツいな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_1PERSON_TP10_3_0",
+    "original": "ダメだ、気力が…",
+    "translation": "ダメだ、気力が…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_1PERSON_HP80_1_0",
+    "original": "まだまだいけそうだ。",
+    "translation": "まだまだいけそうだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_1PERSON_HP80_2_0",
+    "original": "余裕だったな。",
+    "translation": "余裕だったな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_1PERSON_HP80_3_0",
+    "original": "この調子で進もう。",
+    "translation": "この調子で進もう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_DUNGEON_START_1_0",
+    "original": "気を引き締めていこう。",
+    "translation": "気を引き締めていこう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_DUNGEON_START_2_0",
+    "original": "忘れ物はないな。",
+    "translation": "忘れ物はないな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_DUNGEON_START_3_0",
+    "original": "危なくなったら、すぐに引き返そう。",
+    "translation": "危なくなったら、すぐに引き返そう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_QUEST_START_1_0",
+    "original": "始めよう。",
+    "translation": "始めよう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_QUEST_START_2_0",
+    "original": "達成できるように頑張ろう。",
+    "translation": "達成できるように頑張ろう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_QUEST_START_3_0",
+    "original": "行こう、みんな。",
+    "translation": "行こう、みんな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_TOUHA_25_1_0",
+    "original": "どんなフロアか、少し分かってきたな。",
+    "translation": "どんなフロアか、少し分かってきたな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_TOUHA_25_2_0",
+    "original": "まだ先は長そうだな。",
+    "translation": "まだ先は長そうだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_TOUHA_50_1_0",
+    "original": "このフロア、半分くらいは進んだな。",
+    "translation": "このフロア、半分くらいは進んだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_TOUHA_50_2_0",
+    "original": "少しずつ地図が埋まってきたな。",
+    "translation": "少しずつ地図が埋まってきたな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_TOUHA_75_1_0",
+    "original": "ふう…だいぶ進んだな。",
+    "translation": "ふう…だいぶ進んだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_TOUHA_75_2_0",
+    "original": "このフロアも、もう少しで制覇だ。",
+    "translation": "このフロアも、もう少しで制覇だ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_TOUHA_100_1_0",
+    "original": "行けるところは全て回ったな。",
+    "translation": "行けるところは全て回ったな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_TOUHA_100_2_0",
+    "original": "よし、このフロアは踏破したぞ。",
+    "translation": "よし、このフロアは踏破したぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_MAPPING_ICON_ALL_0",
+    "original": "正確に描けてるな。",
+    "translation": "正確に描けてるな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_MAPPING_ICON_ALL_2_0",
+    "original": "うん、いい地図だ。",
+    "translation": "うん、いい地図だ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_MAPPING_ICON_KAI_0",
+    "original": "よし、いい感じだな。",
+    "translation": "よし、いい感じだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_MAPPING_ICON_KAI_2_0",
+    "original": "これで探索がしやすくなる。",
+    "translation": "これで探索がしやすくなる。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_MAPPING_CHANGE_C_0",
+    "original": "その色が好きなのか？",
+    "translation": "その色が好きなのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_MAPPING_CHANGE_C_2_0",
+    "original": "ハイカラだな。",
+    "translation": "ハイカラだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_MAPPING_ICON_DEL_0",
+    "original": "うん、いい判断だ。",
+    "translation": "うん、いい判断だ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_MAPPING_ICON_DEL_2_0",
+    "original": "時には捨てることも大切だな。",
+    "translation": "時には捨てることも大切だな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_MAPPING_MEMO_1_0",
+    "original": "メモ書きは大切だな。",
+    "translation": "メモ書きは大切だな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_MAPPING_MEMO_2_0",
+    "original": "なるほど、これなら忘れない。",
+    "translation": "なるほど、これなら忘れない。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_DOOR_OPEN_1_0",
+    "original": "こっちだ！",
+    "translation": "こっちだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_DOOR_OPEN_2_0",
+    "original": "よし、行こう。",
+    "translation": "よし、行こう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P4_HERO_DOOR_OPEN_3_0",
+    "original": "進もう。",
+    "translation": "進もう。",
+    "stage": 1,
+    "context": ""
+  }
+]

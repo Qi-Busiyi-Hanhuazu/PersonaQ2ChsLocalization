@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よし、ツタの垂れてる扉だな。\nノワール、よろしく頼む。",
+    "translation": "是垂着常春藤的门。\nNOIR，拜托你了。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n很好，是长有垂蔓的门。\nNOIR，拜托你了。\n\n好吧，这是垂着爬山虎的门啊。\nNOIR，请多关照。\n\n好，是垂着爬山虎的门。NOIR，拜托了。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん、待ってて。",
+    "translation": "嗯，等一下。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n嗯，你等着吧。\n\n嗯，等一下。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あ！　あったよ、薬草！",
+    "translation": "啊！有了，草药！",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n啊！有了，药草！\n\n啊！有了，草药！\n\n啊！有啊，草药！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "やったっスね！\nで、これで足りるんスか？",
+    "translation": "太好了！\n这些就足够了吗？",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n太好了！\n那这样够吗？\n\n太好了！\n那么，这样就足够了吗？\n\n太棒了！\n那么，这样就足够了吗？"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うーん…\nもう少し必要そうかな。",
+    "translation": "嗯……\n看来还需要一些。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n嗯……\n看来还需要再一点。\n\n嗯……好像还需要一点吧。\n\n\n嗯……还需要一点吗？"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そっか、分かった。\nじゃあ他の場所も探しに行こう。",
+    "translation": "这样啊，我知道了。\n那就去其他地方找找吧。",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n这样啊，我知道了。\n那我们去其他地方找吧。\n\n这样啊，明白了。\n那就去找别的地方吧。\n\n这样啊，我知道了。那我们也去找别的地方吧。"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "オタカラスポットだぜ！\nどうするよ？",
+    "translation": "オタカラスポットだぜ！\nどうするよ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おう！\n周りの警戒もバッチリとな！",
+    "translation": "おう！\n周りの警戒もバッチリとな！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ガッツリ採るんだな？\nよっしゃ、任せとけって！",
+    "translation": "ガッツリ採るんだな？\nよっしゃ、任せとけって！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あ、止めとくか？",
+    "translation": "あ、止めとくか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うっし。\nこれで全部みたいだぜ？",
+    "translation": "うっし。\nこれで全部みたいだぜ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いただき！",
+    "translation": "いただき！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "よっしゃ！",
+    "translation": "よっしゃ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ゲット！",
+    "translation": "ゲット！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あっぶねー！\nそろそろ終わりにしとくか？",
+    "translation": "あっぶねー！\nそろそろ終わりにしとくか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "おっしゃー！",
+    "translation": "おっしゃー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "レアじゃん！",
+    "translation": "レアじゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "すげー！",
+    "translation": "すげー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "おっと！　ショートカットじゃん！\n通るか？",
+    "translation": "おっと！　ショートカットじゃん！\n通るか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっち通れねぇかー…",
+    "translation": "こっち通れねぇかー…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "なんかここ、ヤバい気配しねぇ？\nどうするよ？",
+    "translation": "なんかここ、ヤバい気配しねぇ？\nどうするよ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "お、おう…\n慎重に採取しようぜ。",
+    "translation": "お、おう…\n慎重に採取しようぜ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "だな。\n何が出るか分かんねーしな。",
+    "translation": "だな。\n何が出るか分かんねーしな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "スッゴイの出ちゃいましたけど！？\nとにかく無事で良かったわー…",
+    "translation": "スッゴイの出ちゃいましたけど！？\nとにかく無事で良かったわー…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ん？　シャドウの気配する？\nどうするよ？",
+    "translation": "ん？　シャドウの気配する？\nどうするよ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "おっしゃ！\n気合入れるぜ！",
+    "translation": "おっしゃ！\n気合入れるぜ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "オッケー、分かった。",
+    "translation": "オッケー、分かった。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ふいー…\nこれで終わりか？",
+    "translation": "ふいー…\nこれで終わりか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "こっから映画館に戻れそうだな。\nどうすんだ？",
+    "translation": "こっから映画館に戻れそうだな。\nどうすんだ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  }
+]

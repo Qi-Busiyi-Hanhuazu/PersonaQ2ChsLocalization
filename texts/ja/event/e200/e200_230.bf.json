@@ -1,0 +1,156 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "肉食恐竜、か…\nたしかに、いつ遭遇するかと思うと怖いね。",
+    "translation": "肉食恐竜、か…\nたしかに、いつ遭遇するかと思うと怖いね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そりゃそうだろ！？\nアイツらに目をつけられたら最後だし…",
+    "translation": "そりゃそうだろ！？\nアイツらに目をつけられたら最後だし…",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "追いつめられて、何も出来ないうちに\n食われるとか…超こえぇよ…",
+    "translation": "追いつめられて、何も出来ないうちに\n食われるとか…超こえぇよ…",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "でも、お前だって恐竜だろ？\nちょっとくらい抵抗とか…",
+    "translation": "でも、お前だって恐竜だろ？\nちょっとくらい抵抗とか…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ＧＹＡＡＡＡＡＡＡＡＡ！",
+    "translation": "ＧＹＡＡＡＡＡＡＡＡＡ！",
+    "stage": 1,
+    "context": "獰猛な鳴き声"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "い、今の鳴き声は…！？",
+    "translation": "い、今の鳴き声は…！？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あ、ああ、あ…ああ…",
+    "translation": "あ、ああ、あ…ああ…",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "おい、どうしたんだよ？\n足が震えてんぞ。",
+    "translation": "おい、どうしたんだよ？\n足が震えてんぞ。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "に、肉食恐竜…！",
+    "translation": "に、肉食恐竜…！",
+    "stage": 1,
+    "context": "口を尖らせた草食恐竜"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ひっ…この近くにいる…！",
+    "translation": "ひっ…この近くにいる…！",
+    "stage": 1,
+    "context": "おどおどした草食恐竜"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "は、早く逃げねぇと見つかる！\n逃げろぉ～！！",
+    "translation": "は、早く逃げねぇと見つかる！\n逃げろぉ～！！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "うおっ！？\nあいつら、走ってっちまった！",
+    "translation": "うおっ！？\nあいつら、走ってっちまった！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "やばっ。早く追いかけないと！",
+    "translation": "やばっ。早く追いかけないと！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ヨウスケサウルス",
+    "original": "ヨウスケサウルス",
+    "translation": "ヨウスケサウルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_獰猛な鳴き声",
+    "original": "獰猛な鳴き声",
+    "translation": "獰猛な鳴き声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_口を尖らせた草食恐竜",
+    "original": "口を尖らせた草食恐竜",
+    "translation": "口を尖らせた草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_おどおどした草食恐竜",
+    "original": "おどおどした草食恐竜",
+    "translation": "おどおどした草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  }
+]

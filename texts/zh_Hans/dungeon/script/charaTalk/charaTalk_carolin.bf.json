@@ -1,0 +1,170 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "CARO_MSG_005_0",
+    "original": "悪くない。",
+    "translation": "还不错。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不错呢。\n\n还不错。\n\n不坏。"
+  },
+  {
+    "key": "JUS_MSG_005_0",
+    "original": "良いですね。",
+    "translation": "很好。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n很好呢。\n\n好啊。"
+  },
+  {
+    "key": "CARO_MSG_006_0",
+    "original": "いいだろう。",
+    "translation": "好吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好吧。"
+  },
+  {
+    "key": "JUS_MSG_006_0",
+    "original": "良い働きです。",
+    "translation": "工作做得很好。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n干得不错。\n\n很好的作用。\n\n是很好的工作。"
+  },
+  {
+    "key": "CARO_MSG_007_0",
+    "original": "まずまずだ。",
+    "translation": "还可以。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n还可以。\n\n还过得去。"
+  },
+  {
+    "key": "JUS_MSG_007_0",
+    "original": "悪くない結果です。",
+    "translation": "还不错的结果。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n结果不错呢。\n\n结果还不错。"
+  },
+  {
+    "key": "CARO_MSG_009_0",
+    "original": "良い結果だな！",
+    "translation": "相当好的结果啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n结果很好啊！\n\n好结果啊！\n\n结果不错啊！"
+  },
+  {
+    "key": "JUS_MSG_009_0",
+    "original": "それは…！？",
+    "translation": "那是……！？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那个是……！？\n\n那是……！？"
+  },
+  {
+    "key": "CARO_MSG_010_0",
+    "original": "なかなかやるな！",
+    "translation": "做得不错！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n挺能干的嘛！\n\n别干了！\n\n真够干的！"
+  },
+  {
+    "key": "JUS_MSG_010_0",
+    "original": "素晴らしいです。",
+    "translation": "很好。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太棒了。\n\n很棒。"
+  },
+  {
+    "key": "CARO_MSG_011_0",
+    "original": "褒めてやる！",
+    "translation": "我就表扬表扬你吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我要夸夸你！\n\n我要表扬你！"
+  },
+  {
+    "key": "JUS_MSG_011_0",
+    "original": "賞賛に値します。",
+    "translation": "值得赞赏。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n值得赞赏。\n\n值得称赞。"
+  },
+  {
+    "key": "CARO_MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "JUS_MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "卡萝莉娜",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "えらーを排除スル。えらーを排除スル。",
+    "translation": "えらーを排除スル。えらーを排除スル。",
+    "stage": 1,
+    "context": "量産型ロボット"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おっと、残念。オレらの仲間には\n一歩も近寄らせねぇよ！",
+    "translation": "おっと、残念。オレらの仲間には\n一歩も近寄らせねぇよ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "speaker_量産型ロボット",
+    "original": "量産型ロボット",
+    "translation": "量産型ロボット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  }
+]

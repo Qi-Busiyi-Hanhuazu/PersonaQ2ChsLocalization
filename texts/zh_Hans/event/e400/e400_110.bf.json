@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "んん！？　おい！\nちょい待ち、ストーップ！！！！",
+    "translation": "嗯！？喂！\n等一下，停！！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n嗯嗯！？喂！\n给我等一下，停——！！！！\n\n嗯！？喂！\n等一下，跟踪！！！！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "な、なに！？　いきなり大声出されると\nビックリするんだけど！",
+    "translation": "啊、怎么了！？\n突然大喊一声，吓我一跳！",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n什、什么！？突然大叫\n会吓到人啦！\n\n什么，什么！？突然被大声喊出来的话\n会吓一跳的！\n\n什、什么！？突然被大声叫出来会吓一跳的！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ご、ごめんね。\nひかりちゃんの反応を近くに感じたの！",
+    "translation": "对不起，\n我感觉到小光的反应就在附近！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n对、对不起。\n我感觉到小光的反应很近！\n\n五、对不起。\n近距离感受到了光的反应！\n\n对不起。\n感觉小光的反应很接近！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ホント！？",
+    "translation": "真的吗！？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n真的吗？！\n\n真的！？\n\n真的吗！？"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うん。絶対、その辺りにいるはずだよ！\n捜してみて！",
+    "translation": "嗯。肯定在这附近没错！\n快去找找看！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n嗯，绝对就在那附近！\n找找看！\n\n嗯。绝对会在那附近的！\n找找看！\n\n嗯。你一定在那附近！\n找找看！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "えと…そう言われても、\n近くには誰もいないようですが…？",
+    "translation": "呃……就算你们这么说，\n这附近似乎也没有人在啊？",
+    "stage": 1,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n呃……就算你这么说，\n附近好像没有其他人啊……？\n\n呃……虽然这么说，但是附近好像没有人……？\n\n\n虽然这么说，附近好像没有人……？"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 由加莉",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

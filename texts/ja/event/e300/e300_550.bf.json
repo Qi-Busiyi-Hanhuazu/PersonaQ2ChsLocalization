@@ -1,0 +1,744 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "セキュリティチェックを行います。",
+    "translation": "セキュリティチェックを行います。",
+    "stage": 1,
+    "context": "セキュリティメッセージ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おわっ、なんだ！？",
+    "translation": "おわっ、なんだ！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "型番照合…ＩＷ、管理番号照合…０２、\n管理者権限を確認中…",
+    "translation": "型番照合…ＩＷ、管理番号照合…０２、\n管理者権限を確認中…",
+    "stage": 1,
+    "context": "セキュリティメッセージ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "エラー。ここから先は、管理者権限を持つ\n個体のみアクセスが可能です。",
+    "translation": "エラー。ここから先は、管理者権限を持つ\n個体のみアクセスが可能です。",
+    "stage": 1,
+    "context": "セキュリティメッセージ"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "エラー。管理者権限がありません。\n警戒レベル上昇、迎撃スタンバイへ移行。",
+    "translation": "エラー。管理者権限がありません。\n警戒レベル上昇、迎撃スタンバイへ移行。",
+    "stage": 1,
+    "context": "セキュリティメッセージ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "はいい？　管理者権限！？",
+    "translation": "はいい？　管理者権限！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "どうすりゃいいのよ、これ？\n別のヤツなら行けんのか？",
+    "translation": "どうすりゃいいのよ、これ？\n別のヤツなら行けんのか？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いえ…おそらく誰でも同じことが\n起きるでしょう。",
+    "translation": "いえ…おそらく誰でも同じことが\n起きるでしょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "まずいですね、無理に進めば\n警備ロボが大量に駆けつけそうです。",
+    "translation": "まずいですね、無理に進めば\n警備ロボが大量に駆けつけそうです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "管理者権限がないと、この先に\n行けないってことだよね？",
+    "translation": "管理者権限がないと、この先に\n行けないってことだよね？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "型番と管理番号って言ってたけど…",
+    "translation": "型番と管理番号って言ってたけど…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "型番ハ、頭のアルファベットです。",
+    "translation": "型番ハ、頭のアルファベットです。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "製造サレタ工場とタイプにヨリ、\n型番ガ定められマス。",
+    "translation": "製造サレタ工場とタイプにヨリ、\n型番ガ定められマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_007_2",
+    "original": "ソコから更に、管理番号が\n振り分けられルノデス。",
+    "translation": "ソコから更に、管理番号が\n振り分けられルノデス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "俺は『ＴＫ－０４』と呼ばれていたな。",
+    "translation": "俺は『ＴＫ－０４』と呼ばれていたな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "俺の場合は型番が『ＴＫ』、\n管理番号が『０４』ということか。",
+    "translation": "俺の場合は型番が『ＴＫ』、\n管理番号が『０４』ということか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "私は『ＹＳ－０３』だったよ。",
+    "translation": "私は『ＹＳ－０３』だったよ。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ソウイエバ…\n皆さん、型番が異ナッテいまスネ。",
+    "translation": "ソウイエバ…\n皆さん、型番が異ナッテいまスネ。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "ワタシのような汎用量産型ハ、\n同じコトが多いのデスガ…",
+    "translation": "ワタシのような汎用量産型ハ、\n同じコトが多いのデスガ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_010_2",
+    "original": "皆さんハ、等しく人間デス。\nオカシイでアリマス。",
+    "translation": "皆さんハ、等しく人間デス。\nオカシイでアリマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "等しく人間って…そうだけど、\nでも全く同じ人じゃないだろ？",
+    "translation": "等しく人間って…そうだけど、\nでも全く同じ人じゃないだろ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "生まれも、育ちも、名前も、性格も\nそれぞれ違うもんだからさ。",
+    "translation": "生まれも、育ちも、名前も、性格も\nそれぞれ違うもんだからさ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "フッフ～ン。\nクマにも、ちゃんとバンゴーあるクマよ。",
+    "translation": "フッフ～ン。\nクマにも、ちゃんとバンゴーあるクマよ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "クマのバンゴーはねー、\n『ＹＳ－０７』クマ！",
+    "translation": "クマのバンゴーはねー、\n『ＹＳ－０７』クマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "どうやら、型番がそれぞれのグループを\n分けているようだね。",
+    "translation": "どうやら、型番がそれぞれのグループを\n分けているようだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "僕たちは『ＴＫ』、特別捜査隊が『ＹＳ』。\n特別課外活動部が、ええと…",
+    "translation": "僕たちは『ＴＫ』、特別捜査隊が『ＹＳ』。\n特別課外活動部が、ええと…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "わたしは『ＩＷ－０６』であります。\n型番は『ＩＷ』ということになりますね。",
+    "translation": "わたしは『ＩＷ－０６』であります。\n型番は『ＩＷ』ということになりますね。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "僕は『ＩＷ－００』だったかな。",
+    "translation": "僕は『ＩＷ－００』だったかな。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "およ？　『ＩＷ－００』って、\nオジョーサンじゃなかったクマ？",
+    "translation": "およ？　『ＩＷ－００』って、\nオジョーサンじゃなかったクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "う、うん。\n私も『ＩＷ－００』だったような…？",
+    "translation": "う、うん。\n私も『ＩＷ－００』だったような…？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "えっ、おかしくない？\n全く同じことってありえるの？",
+    "translation": "えっ、おかしくない？\n全く同じことってありえるの？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "イイエ、それはアリエマセン。\n初めてのケースでス。",
+    "translation": "イイエ、それはアリエマセン。\n初めてのケースでス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "もしかして、例のパラレル存在って\nいうのが原因…とか？",
+    "translation": "もしかして、例のパラレル存在って\nいうのが原因…とか？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "同じ個体識別番号…\n普通ならバ、エラー処理されるハズデス。",
+    "translation": "同じ個体識別番号…\n普通ならバ、エラー処理されるハズデス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "エラー処理…か。\nエラー…エラー…？",
+    "translation": "エラー処理…か。\nエラー…エラー…？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "うおっ、ひらめいたぞ！\nきた！　それ使えるかも！！",
+    "translation": "うおっ、ひらめいたぞ！\nきた！　それ使えるかも！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "お、なになに？\nなに思いついたの？",
+    "translation": "お、なになに？\nなに思いついたの？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "型番も管理番号も同じ二人が、一緒に\nセキュリティを通ったらどうなる？",
+    "translation": "型番も管理番号も同じ二人が、一緒に\nセキュリティを通ったらどうなる？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ありえないんだろ？\nだったら…ブッ壊れるんじゃねーのか？",
+    "translation": "ありえないんだろ？\nだったら…ブッ壊れるんじゃねーのか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "そうだ！　完全に破壊はできなくても、\n少なくともバグるはずだ。",
+    "translation": "そうだ！　完全に破壊はできなくても、\n少なくともバグるはずだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "初めてのケースってリボンが言ってただろ？\nそれを逆手にとってやればいい。",
+    "translation": "初めてのケースってリボンが言ってただろ？\nそれを逆手にとってやればいい。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "そっか！　バグが出てる間なら、\n一人くらいなら通れるかもしれませんね。",
+    "translation": "そっか！　バグが出てる間なら、\n一人くらいなら通れるかもしれませんね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "くふふ…風花も気づいたか？\nあそこにある端末。",
+    "translation": "くふふ…風花も気づいたか？\nあそこにある端末。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "はい。突破した誰かが、あの端末を操作\nできれば、セキュリティは解除可能かと。",
+    "translation": "はい。突破した誰かが、あの端末を操作\nできれば、セキュリティは解除可能かと。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "ただ…問題は、誰が行くかですよね。\n機械に詳しい人じゃないと難しいかも…",
+    "translation": "ただ…問題は、誰が行くかですよね。\n機械に詳しい人じゃないと難しいかも…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "SEL_030_0",
+    "original": "スカルに頼む",
+    "translation": "スカルに頼む",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_030_1",
+    "original": "ナビに頼む",
+    "translation": "ナビに頼む",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_030_2",
+    "original": "アイギスに頼む",
+    "translation": "アイギスに頼む",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_030_3",
+    "original": "自分に任せろ",
+    "translation": "自分に任せろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "あー、走るだけだったら\n俺が行ってもいいんだけどよ…",
+    "translation": "あー、走るだけだったら\n俺が行ってもいいんだけどよ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "走るだけじゃなくて、セキュリティを\n破るなら専門知識も必要ね。",
+    "translation": "走るだけじゃなくて、セキュリティを\n破るなら専門知識も必要ね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "わたしがやるであります。",
+    "translation": "わたしがやるであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "む、無理！\nわたしに運動能力を期待するな！",
+    "translation": "む、無理！\nわたしに運動能力を期待するな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "うーん…走れて、セキュリティのことも\n分かる人となると…",
+    "translation": "うーん…走れて、セキュリティのことも\n分かる人となると…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "わたしがやるであります。",
+    "translation": "わたしがやるであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "分かりました。\nわたしがやるであります。",
+    "translation": "分かりました。\nわたしがやるであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "おっ、ジョーカーなら心強いな！\n頼めるか？",
+    "translation": "おっ、ジョーカーなら心強いな！\n頼めるか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "ちょっと待って。",
+    "translation": "ちょっと待って。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_041_1",
+    "original": "万が一の場合を考えて、リーダーは\nここに残った方が良くないかしら？",
+    "translation": "万が一の場合を考えて、リーダーは\nここに残った方が良くないかしら？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "それでしたら、わたしがやるであります。",
+    "translation": "それでしたら、わたしがやるであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "…アイギス？",
+    "translation": "…アイギス？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "わたしが直に端末にアクセスすれば、\nその程度のことは楽勝であります。",
+    "translation": "わたしが直に端末にアクセスすれば、\nその程度のことは楽勝であります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_044_1",
+    "original": "仮に不可だったとしても、端末を撃てば\nセキュリティは解除されるかと。",
+    "translation": "仮に不可だったとしても、端末を撃てば\nセキュリティは解除されるかと。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "おお。\n確かにアイギスが適任だな！",
+    "translation": "おお。\n確かにアイギスが適任だな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_045_1",
+    "original": "ジョーカー！\nここはアイギスに任せないか？",
+    "translation": "ジョーカー！\nここはアイギスに任せないか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_046_0",
+    "original": "そうだな",
+    "translation": "そうだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_046_1",
+    "original": "慎重にな",
+    "translation": "慎重にな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "承知しました。それでは、\nお二人にお願いするであります。",
+    "translation": "承知しました。それでは、\nお二人にお願いするであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "分かった。\n同時にくぐればいいんだね？",
+    "translation": "分かった。\n同時にくぐればいいんだね？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "みんな、少しでもヤバかったら\nすぐ逃げろよ？　攻撃は最終手段だ！",
+    "translation": "みんな、少しでもヤバかったら\nすぐ逃げろよ？　攻撃は最終手段だ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "じゃあ、行くね。\n成功しますように…",
+    "translation": "じゃあ、行くね。\n成功しますように…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "型番照合…管理番号照合…",
+    "translation": "型番照合…管理番号照合…",
+    "stage": 1,
+    "context": "セキュリティメッセージ"
+  },
+  {
+    "key": "MSG_051_1",
+    "original": "…エラー。\n同一個体、複数検知…",
+    "translation": "…エラー。\n同一個体、複数検知…",
+    "stage": 1,
+    "context": "セキュリティメッセージ"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "致命的なエラーを確認。\nエラー。エラー。エラー。",
+    "translation": "致命的なエラーを確認。\nエラー。エラー。エラー。",
+    "stage": 1,
+    "context": "セキュリティメッセージ"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "きた！　今だ！！",
+    "translation": "きた！　今だ！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "行きます！",
+    "translation": "行きます！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "到着しました。\n今からセキュリティ解除に移ります。",
+    "translation": "到着しました。\n今からセキュリティ解除に移ります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "やった、上手くいったぞ！！",
+    "translation": "やった、上手くいったぞ！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "ふう…成功したみたいだね。\nちょっとだけヒヤヒヤしたよ。",
+    "translation": "ふう…成功したみたいだね。\nちょっとだけヒヤヒヤしたよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "ま、結果オーライだろ。\nとにかくこれで先に進めるぜ！",
+    "translation": "ま、結果オーライだろ。\nとにかくこれで先に進めるぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "私と彼が、エラー…か。",
+    "translation": "私と彼が、エラー…か。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "[P3P名]さん。\nどうかされましたか？",
+    "translation": "[P3P名]さん。\nどうかされましたか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "えっ？\nあ、ううん。なんでもない！",
+    "translation": "えっ？\nあ、ううん。なんでもない！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_061_1",
+    "original": "それより、すっごく早かったね！\nさすがアイギス！",
+    "translation": "それより、すっごく早かったね！\nさすがアイギス！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_062_0",
+    "original": "はい、作戦は無事に完了しました。\n問題はありません。",
+    "translation": "はい、作戦は無事に完了しました。\n問題はありません。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_063_0",
+    "original": "みなさん、引き続き\n気をつけて進んでください！",
+    "translation": "みなさん、引き続き\n気をつけて進んでください！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "speaker_セキュリティメッセージ",
+    "original": "セキュリティメッセージ",
+    "translation": "セキュリティメッセージ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  }
+]

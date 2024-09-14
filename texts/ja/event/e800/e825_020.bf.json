@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "それでは、Ｆ．Ｏ．Ｅ『ＫＮＳ－１０００』\nの討伐に向かってください。",
+    "translation": "それでは、Ｆ．Ｏ．Ｅ『ＫＮＳ－１０００』\nの討伐に向かってください。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "了解であります。\n対象の殲滅に全力を尽くします！",
+    "translation": "了解であります。\n対象の殲滅に全力を尽くします！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "『ＫＮＳ－１０００』は何体かいるけど、\nどれを倒してもいいみたい。",
+    "translation": "『ＫＮＳ－１０００』は何体かいるけど、\nどれを倒してもいいみたい。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "ルートはジョーカーに任せるよ。\nいつも通りお願いね。",
+    "translation": "ルートはジョーカーに任せるよ。\nいつも通りお願いね。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "マップはおなじみ特別上映仕様だ。\n余裕があれば、寄り道もアリかもな。",
+    "translation": "マップはおなじみ特別上映仕様だ。\n余裕があれば、寄り道もアリかもな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "とにかく、地図を確認しながら、\n気をつけて進んでくれ！",
+    "translation": "とにかく、地図を確認しながら、\n気をつけて進んでくれ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

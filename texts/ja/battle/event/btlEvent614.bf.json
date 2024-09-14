@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ＧＹＡＡＡＡＡＡ…！",
+    "translation": "ＧＹＡＡＡＡＡＡ…！",
+    "stage": 1,
+    "context": "派手な肉食恐竜"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ＧＬＩＩＩＩＹＣＨ…！",
+    "translation": "ＧＬＩＩＩＩＹＣＨ…！",
+    "stage": 1,
+    "context": "派手な肉食恐竜"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おおっ、草食恐竜たちの攻撃が効いてるぞ！\n今なら倒すチャンスだ！",
+    "translation": "おおっ、草食恐竜たちの攻撃が効いてるぞ！\n今なら倒すチャンスだ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あいつら、スゲーじゃん！",
+    "translation": "あいつら、スゲーじゃん！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "その思いに報いるためにも…\nこりゃ、ぜってー負けらんねーな！",
+    "translation": "その思いに報いるためにも…\nこりゃ、ぜってー負けらんねーな！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "草食恐竜たちの戦う姿が、\n皆に力を与える…！",
+    "translation": "草食恐竜たちの戦う姿が、\n皆に力を与える…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_2_0",
+    "original": "草食恐竜たちの戦う姿が、\n皆に力を与える…！",
+    "translation": "草食恐竜たちの戦う姿が、\n皆に力を与える…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ＧＲＵＵＵＤＧＥＥＥＥＥ…！",
+    "translation": "ＧＲＵＵＵＤＧＥＥＥＥＥ…！",
+    "stage": 1,
+    "context": "派手な肉食恐竜"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "かなり弱ってきてるよ！\nみんな、この調子で頑張って！",
+    "translation": "かなり弱ってきてるよ！\nみんな、この調子で頑張って！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ＧＹＡＡＡＡＡＡＡＡＡ！！",
+    "translation": "ＧＹＡＡＡＡＡＡＡＡＡ！！",
+    "stage": 1,
+    "context": "派手な肉食恐竜"
+  },
+  {
+    "key": "speaker_派手な肉食恐竜",
+    "original": "派手な肉食恐竜",
+    "translation": "派手な肉食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  }
+]

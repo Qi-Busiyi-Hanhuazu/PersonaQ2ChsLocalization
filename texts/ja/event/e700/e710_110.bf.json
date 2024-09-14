@@ -1,0 +1,177 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "む。あれは…？",
+    "translation": "む。あれは…？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "階段だな。",
+    "translation": "階段だな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "次のフロアに続いてるみたいだぞ。",
+    "translation": "次のフロアに続いてるみたいだぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "ここにはクイーンたちも見当たらんし、\n進んだ方が良さそうだ。",
+    "translation": "ここにはクイーンたちも見当たらんし、\n進んだ方が良さそうだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "じゃあ、あそこを目指せばいいってこと？\n…み、見失いそうなんだけど。",
+    "translation": "じゃあ、あそこを目指せばいいってこと？\n…み、見失いそうなんだけど。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なら、こうして…\n地図に目印をつけるのはどうかな？",
+    "translation": "なら、こうして…\n地図に目印をつけるのはどうかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "ありがとう",
+    "translation": "ありがとう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "やめろ",
+    "translation": "やめろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_2",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "どういたしまして。\nお役に立てたようなら、何よりだよ。",
+    "translation": "どういたしまして。\nお役に立てたようなら、何よりだよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うむ。\nこうしておけば、分かりやすいな。",
+    "translation": "うむ。\nこうしておけば、分かりやすいな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "さ、これで目指す場所は決まったね。\nまずは、階段に続く道を探そうか。",
+    "translation": "さ、これで目指す場所は決まったね。\nまずは、階段に続く道を探そうか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "…余計なお世話だったかな。\nごめんね。",
+    "translation": "…余計なお世話だったかな。\nごめんね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "もう勝手に描いたりしないから\n許してくれるかい？",
+    "translation": "もう勝手に描いたりしないから\n許してくれるかい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_2",
+    "original": "目的地に着いたら消すからさ。",
+    "translation": "目的地に着いたら消すからさ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ったく…\nさっさと階段見つけて、次行こうぜ！",
+    "translation": "ったく…\nさっさと階段見つけて、次行こうぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "どうしたの？",
+    "translation": "どうしたの？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "…あ、もしかして\n余計なことしちゃったかな？",
+    "translation": "…あ、もしかして\n余計なことしちゃったかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_2",
+    "original": "ごめんね。\n目的地に着いたら消すからさ。",
+    "translation": "ごめんね。\n目的地に着いたら消すからさ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "…まあ、なんにせよ目指す場所は決まった。\nまずは、階段に続く道を探そう。",
+    "translation": "…まあ、なんにせよ目指す場所は決まった。\nまずは、階段に続く道を探そう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

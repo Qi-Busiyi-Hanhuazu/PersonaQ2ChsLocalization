@@ -1,0 +1,583 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふう…無事に片付いたね。",
+    "translation": "ふう…無事に片付いたね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "助けるのに必死になって、いつもより\nシャドウをボッコボコにしちゃった。",
+    "translation": "助けるのに必死になって、いつもより\nシャドウをボッコボコにしちゃった。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ふふっ…私も。\nつい、力が入りすぎちゃったかも。",
+    "translation": "ふふっ…私も。\nつい、力が入りすぎちゃったかも。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そ、それより良かったな！\n思ったより早く、仲間と合流できてさ！",
+    "translation": "そ、それより良かったな！\n思ったより早く、仲間と合流できてさ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うんっ！　みんなのおかげだよ。",
+    "translation": "うんっ！　みんなのおかげだよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "…助かった、礼を言う。\n勝手が分からない世界で、急に襲われてな…",
+    "translation": "…助かった、礼を言う。\n勝手が分からない世界で、急に襲われてな…",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "みんな、無事で安心しました。\nどうしてるか心配だったから…",
+    "translation": "みんな、無事で安心しました。\nどうしてるか心配だったから…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "えーと…あの、さ…\nキミ、月光館の生徒？",
+    "translation": "えーと…あの、さ…\nキミ、月光館の生徒？",
+    "stage": 1,
+    "context": "キャップの少年"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "は？　なに言ってるの、順平？",
+    "translation": "は？　なに言ってるの、順平？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "うおおっ？\nオレっちの名前を知ってるとな！？",
+    "translation": "うおおっ？\nオレっちの名前を知ってるとな！？",
+    "stage": 1,
+    "context": "キャップの少年"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "まー、校内に隠れファンが多い気は\nしてたけど、まさかこんなトコで会うとは…",
+    "translation": "まー、校内に隠れファンが多い気は\nしてたけど、まさかこんなトコで会うとは…",
+    "stage": 1,
+    "context": "キャップの少年"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "え…？",
+    "translation": "え…？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "…いや、これどう見ても\nファンとかそういう空気じゃないでしょ。",
+    "translation": "…いや、これどう見ても\nファンとかそういう空気じゃないでしょ。",
+    "stage": 1,
+    "context": "勝ち気そうな少女"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ペルソナが使えるってことは、理事長が\n手配した新人とかじゃねぇのか？",
+    "translation": "ペルソナが使えるってことは、理事長が\n手配した新人とかじゃねぇのか？",
+    "stage": 1,
+    "context": "ニット帽の少年"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "いや、私は何も聞いていないが…",
+    "translation": "いや、私は何も聞いていないが…",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "え…ええと…？",
+    "translation": "え…ええと…？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "なんだか空気がおかしいね。\nお互いの認識に齟齬があるような…",
+    "translation": "なんだか空気がおかしいね。\nお互いの認識に齟齬があるような…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "あの…彼女、『Ｓ．Ｅ．Ｅ．Ｓ．』の腕章を\nつけてますよ。召喚器も本物みたいですし…",
+    "translation": "あの…彼女、『Ｓ．Ｅ．Ｅ．Ｓ．』の腕章を\nつけてますよ。召喚器も本物みたいですし…",
+    "stage": 1,
+    "context": "大人しそうな少女"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "一体、どういうことだ？\n俺たちの敵ではなさそうだが…",
+    "translation": "一体、どういうことだ？\n俺たちの敵ではなさそうだが…",
+    "stage": 1,
+    "context": "好戦的な少年"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "みんな、なに言ってるの？",
+    "translation": "みんな、なに言ってるの？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "っていうか、アイギスは？\n一緒じゃないの！？",
+    "translation": "っていうか、アイギスは？\n一緒じゃないの！？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "アイギスのこと、知ってるの！？",
+    "translation": "アイギスのこと、知ってるの！？",
+    "stage": 1,
+    "context": "勝ち気そうな少女"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "知ってるも何も、\nアイギスは、私たちの仲間だから…",
+    "translation": "知ってるも何も、\nアイギスは、私たちの仲間だから…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "助けてもらっておいて悪いが、君は…\n君たちは、いったい誰なんだ？",
+    "translation": "助けてもらっておいて悪いが、君は…\n君たちは、いったい誰なんだ？",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "おいおい、何がどうなってんだよ？",
+    "translation": "おいおい、何がどうなってんだよ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_023_0",
+    "original": "誰も彼女を知らない…？",
+    "translation": "誰も彼女を知らない…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_023_1",
+    "original": "映画の影響かも…",
+    "translation": "映画の影響かも…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "うそ…でも、私はみんなのこと\nちゃんと分かるよ！？",
+    "translation": "うそ…でも、私はみんなのこと\nちゃんと分かるよ！？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "あの、すみません…",
+    "translation": "あの、すみません…",
+    "stage": 1,
+    "context": "大人びた小学生"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "クゥーン…",
+    "translation": "クゥーン…",
+    "stage": 1,
+    "context": "白い犬"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "映画…？\nすみません、それもよく分かりません…",
+    "translation": "映画…？\nすみません、それもよく分かりません…",
+    "stage": 1,
+    "context": "大人びた小学生"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "クゥーン…",
+    "translation": "クゥーン…",
+    "stage": 1,
+    "context": "白い犬"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "せっかく再会できたと思ったのに、\n一難去って、また一難か？",
+    "translation": "せっかく再会できたと思ったのに、\n一難去って、また一難か？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ここで話していても、\n埒が明かなそうですね。",
+    "translation": "ここで話していても、\n埒が明かなそうですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "いったん、僕たちが身を寄せている\n映画館で話し合いませんか？",
+    "translation": "いったん、僕たちが身を寄せている\n映画館で話し合いませんか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ああ、賛成だ。",
+    "translation": "ああ、賛成だ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_031_1",
+    "original": "随分と体力を消耗しているようだし、\n俺も腹が減ってきたところだ。",
+    "translation": "随分と体力を消耗しているようだし、\n俺も腹が減ってきたところだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ちょ、ちょっと待って。\nまだ一緒に行くなんて言ってないから。",
+    "translation": "ちょ、ちょっと待って。\nまだ一緒に行くなんて言ってないから。",
+    "stage": 1,
+    "context": "勝ち気そうな少女"
+  },
+  {
+    "key": "SEL_033_0",
+    "original": "疑ってるのか？",
+    "translation": "疑ってるのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_033_1",
+    "original": "怪しい者じゃない",
+    "translation": "怪しい者じゃない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_033_2",
+    "original": "いいから来い",
+    "translation": "いいから来い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "知らない場所に、知らない人々…\n無理もないことですが…",
+    "translation": "知らない場所に、知らない人々…\n無理もないことですが…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "あー、その格好で言っちゃう？",
+    "translation": "あー、その格好で言っちゃう？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "バカ、余計に怪しまれる言い方すんな！\nジェントルに振る舞え！",
+    "translation": "バカ、余計に怪しまれる言い方すんな！\nジェントルに振る舞え！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "…分かった、行こう。",
+    "translation": "…分かった、行こう。",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "先輩！？",
+    "translation": "先輩！？",
+    "stage": 1,
+    "context": "勝ち気そうな少女"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "彼らはペルソナ使いの上、\n身を挺して、我々を助けてくれた。",
+    "translation": "彼らはペルソナ使いの上、\n身を挺して、我々を助けてくれた。",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_039_1",
+    "original": "それだけである程度、信じるに足る。\n何より、他に頼るものもいない。",
+    "translation": "それだけである程度、信じるに足る。\n何より、他に頼るものもいない。",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "そうだな…\n謎は残るが、俺たちも今は情報が欲しい。",
+    "translation": "そうだな…\n謎は残るが、俺たちも今は情報が欲しい。",
+    "stage": 1,
+    "context": "好戦的な少年"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "あの…それで、アイギスは？",
+    "translation": "あの…それで、アイギスは？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "アイギスとは、リーダーと一緒に\n途中ではぐれてしまって…",
+    "translation": "アイギスとは、リーダーと一緒に\n途中ではぐれてしまって…",
+    "stage": 1,
+    "context": "大人しそうな少女"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "え、リーダーがいるの？",
+    "translation": "え、リーダーがいるの？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "そりゃいるけど。\nいや、ココにはいないけど…ってそういう？",
+    "translation": "そりゃいるけど。\nいや、ココにはいないけど…ってそういう？",
+    "stage": 1,
+    "context": "勝ち気そうな少女"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "えと、そうじゃなくて…\nなんて言ったらいいのかな…",
+    "translation": "えと、そうじゃなくて…\nなんて言ったらいいのかな…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "かなり、込み入ってそうだな。",
+    "translation": "かなり、込み入ってそうだな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "尚のこと、映画館に戻って\n落ち着いて話したほうがいいね。",
+    "translation": "尚のこと、映画館に戻って\n落ち着いて話したほうがいいね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_047_1",
+    "original": "この世界についてのことは、\n道すがら説明するよ。",
+    "translation": "この世界についてのことは、\n道すがら説明するよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "すまないが、頼む。\n我々も混乱しているんだ。",
+    "translation": "すまないが、頼む。\n我々も混乱しているんだ。",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_048_1",
+    "original": "それにしても参ったな…\n我々には、やるべき事があるというのに。",
+    "translation": "それにしても参ったな…\n我々には、やるべき事があるというのに。",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_048_2",
+    "original": "一秒も無駄に出来ないんだ。\n悪いが、話は簡潔に頼みたい。",
+    "translation": "一秒も無駄に出来ないんだ。\n悪いが、話は簡潔に頼みたい。",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "まずは戻って、話を聞こ？\n何か事情があるのかもしれないし…",
+    "translation": "まずは戻って、話を聞こ？\n何か事情があるのかもしれないし…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "そうだよね…ごめん。\n映画館に戻って、ゆっくり話そ。",
+    "translation": "そうだよね…ごめん。\n映画館に戻って、ゆっくり話そ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_聡明そうな少女",
+    "original": "聡明そうな少女",
+    "translation": "聡明そうな少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_キャップの少年",
+    "original": "キャップの少年",
+    "translation": "キャップの少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_勝ち気そうな少女",
+    "original": "勝ち気そうな少女",
+    "translation": "勝ち気そうな少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ニット帽の少年",
+    "original": "ニット帽の少年",
+    "translation": "ニット帽の少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_大人しそうな少女",
+    "original": "大人しそうな少女",
+    "translation": "大人しそうな少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_好戦的な少年",
+    "original": "好戦的な少年",
+    "translation": "好戦的な少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_大人びた小学生",
+    "original": "大人びた小学生",
+    "translation": "大人びた小学生",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白い犬",
+    "original": "白い犬",
+    "translation": "白い犬",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

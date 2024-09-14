@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_STAFFROLL_0",
+    "original": "ここでスタッフロールが入ります。",
+    "translation": "在此进入制作人员名单。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n在此进入制作人员名单。\n\n这里有工作人员角色。\n\n在这里加入员工卷。"
+  },
+  {
+    "key": "MSG_CLEAR_DATA_SAVE_0",
+    "original": "ここでクリアーデータセーブが入ります。",
+    "translation": "在此进入存档画面。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n在此进入存档画面。\n\n这里进入透明数据保存。\n\n这里有清晰的数据保存。"
+  },
+  {
+    "key": "MSG_BACK_TO_TITLE_0",
+    "original": "ここでタイトルに戻ります。",
+    "translation": "在此回到标题画面。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n在此回到标题画面。\n\n在这里返回标题。\n\n回到标题。"
+  },
+  {
+    "key": "MSG_DEBUG_SKIP_0",
+    "original": "ボス戦をスキップしますか？",
+    "translation": "要跳过头目战吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要跳过头目战吗？\n\n跳过BOSS战吗？"
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_0",
+    "original": "する",
+    "translation": "要",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要\n\n将\n\n开伙"
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_1",
+    "original": "しない",
+    "translation": "不要",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不要\n\n不做"
+  },
+  {
+    "key": "MSG_DEBUG_SKIP_ON_0",
+    "original": "ボス戦をスキップし、タウンに戻ります。",
+    "translation": "跳过头目战，回到城镇。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n跳过头目战，回到城镇。\n\n跳过老板战，回到城里。\n\n跳过BOSS战，返回城镇。"
+  },
+  {
+    "key": "MSG_DEBUG_SKIP_ENDING_0",
+    "original": "エンディングをスキップしますか？",
+    "translation": "要跳过结局吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要跳过结局吗？\n\n跳过结尾吗？"
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_ENDING_0",
+    "original": "しない",
+    "translation": "不要",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不要\n\n不做"
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_ENDING_1",
+    "original": "ひかりが扉に消えるまで進める",
+    "translation": "进行到光消失在门内为止",
+    "stage": 0,
+    "context": "机翻辅助：\n\n进行到光消失在门内为止\n\n直到光明消失在门前\n\n直到光消失在门上"
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_ENDING_2",
+    "original": "Ｐ５主人公のデモまで進める",
+    "translation": "进行到P5主角的展示画面为止",
+    "stage": 0,
+    "context": "机翻辅助：\n\n进行到P5主角的展示画面为止\n\nP5进行到主人公的示威\n\n进行到主人公的示威游行"
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_ENDING_3",
+    "original": "各主人公のその後まで進める",
+    "translation": "进行到各主角的后续为止",
+    "stage": 0,
+    "context": "机翻辅助：\n\n进行到各主角的后续为止\n\n推进到各主人公之后"
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_ENDING_4",
+    "original": "スタッフロールまで進める",
+    "translation": "进行到制作人员名单为止",
+    "stage": 0,
+    "context": "机翻辅助：\n\n进行到制作人员名单为止\n\n推进到工作人员角色\n\n推进到工作人员层"
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_ENDING_5",
+    "original": "Ｐ５主人公のその後まで進める",
+    "translation": "进行到P5主角的后续为止",
+    "stage": 0,
+    "context": "机翻辅助：\n\n进行到P5主角的后续为止\n\n在主人公之后继续前进\n\nP5推进到主人公之后"
+  }
+]

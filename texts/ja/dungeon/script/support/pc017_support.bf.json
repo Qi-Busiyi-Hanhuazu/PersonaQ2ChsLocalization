@@ -1,0 +1,527 @@
+[
+  {
+    "key": "MONA_FOE_FOLLOW_START_1_0",
+    "original": "Ｆ．Ｏ．Ｅに気づかれたぞ！ ",
+    "translation": "Ｆ．Ｏ．Ｅに気づかれたぞ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_FOE_FOLLOW_START_2_0",
+    "original": "やべえのに見つかったな。",
+    "translation": "やべえのに見つかったな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_FOE_FOLLOW_START_3_0",
+    "original": "おい、Ｆ．Ｏ．Ｅに尾けられてるぞ？ ",
+    "translation": "おい、Ｆ．Ｏ．Ｅに尾けられてるぞ？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅが間近にいるぞ！ ",
+    "translation": "Ｆ．Ｏ．Ｅが間近にいるぞ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_FOE_NEAR_2_0",
+    "original": "おい、Ｆ．Ｏ．Ｅがいる！ ",
+    "translation": "おい、Ｆ．Ｏ．Ｅがいる！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_FOE_NEAR_3_0",
+    "original": "あぶねえ、Ｆ．Ｏ．Ｅだ！　下がれ！",
+    "translation": "あぶねえ、Ｆ．Ｏ．Ｅだ！　下がれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_FOE_FOLLOW_END_1_0",
+    "original": "よーし、撒いたな。",
+    "translation": "よーし、撒いたな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_FOE_FOLLOW_END_2_0",
+    "original": "やれやれ、逃げ切れたみたいだな。",
+    "translation": "やれやれ、逃げ切れたみたいだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_FOE_FOLLOW_END_3_0",
+    "original": "ふう、焦らせやがって… ",
+    "translation": "ふう、焦らせやがって… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_KANSI_REACTION_1_0",
+    "original": "動きをよく見ろよ…？ ",
+    "translation": "動きをよく見ろよ…？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_KANSI_REACTION_2_0",
+    "original": "落ち着いて動けよ。",
+    "translation": "落ち着いて動けよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_KANSI_REACTION_3_0",
+    "original": "いいか、焦らずにいけよ。",
+    "translation": "いいか、焦らずにいけよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_DENKISAKU_REACTION__0",
+    "original": "にゃ…毛がチリチリする… ",
+    "translation": "にゃ…毛がチリチリする… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_DENKISAKU_REACTION__2_0",
+    "original": "こいつをどうするか…",
+    "translation": "こいつをどうするか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_DENKISAKU_REACTION__3_0",
+    "original": "触るなよ、こいつはやべえぞ。",
+    "translation": "触るなよ、こいつはやべえぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_KYOUHU_REACTION_1_0",
+    "original": "にゃふ！？ ",
+    "translation": "にゃふ！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_KYOUHU_REACTION_2_0",
+    "original": "風が…！？ ",
+    "translation": "風が…！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_KYOUHU_REACTION_3_0",
+    "original": "おわっ！？ ",
+    "translation": "おわっ！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_STAIR_FIND_1_0",
+    "original": "道が拓けたな！ ",
+    "translation": "道が拓けたな！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_STAIR_FIND_2_0",
+    "original": "よし、新しい道だ！ ",
+    "translation": "よし、新しい道だ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_STAIR_FIND_3_0",
+    "original": "行くんだろ、ジョーカー。",
+    "translation": "行くんだろ、ジョーカー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_TREASURE_FIND_1_0",
+    "original": "オタカラじゃねーか！ ",
+    "translation": "オタカラじゃねーか！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_TREASURE_FIND_2_0",
+    "original": "おい、オタカラだぞ！ ",
+    "translation": "おい、オタカラだぞ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_TREASURE_FIND_3_0",
+    "original": "にゃにゃ―！　オタカラ！ ",
+    "translation": "にゃにゃ―！　オタカラ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_CHECK_WALL_1_0",
+    "original": "コイツはアヤシイな。",
+    "translation": "コイツはアヤシイな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_CHECK_WALL_2_0",
+    "original": "なにかあるぞ、ここ。",
+    "translation": "なにかあるぞ、ここ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_CHECK_WALL_3_0",
+    "original": "なーんかニオうな… ",
+    "translation": "なーんかニオうな… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_SWITCH_FIND_1_0",
+    "original": "スイッチって、押したくなるよな。",
+    "translation": "スイッチって、押したくなるよな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_SWITCH_FIND_2_0",
+    "original": "お、スイッチがあるぞ。",
+    "translation": "お、スイッチがあるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_SWITCH_FIND_3_0",
+    "original": "スイッチか、慎重にな！ ",
+    "translation": "スイッチか、慎重にな！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_SHORTCUT_FIND_1_0",
+    "original": "そこ、近道出来そうだな。",
+    "translation": "そこ、近道出来そうだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_SHORTCUT_FIND_2_0",
+    "original": "おっ、ショートカットできそうだぞ！ ",
+    "translation": "おっ、ショートカットできそうだぞ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_SHORTCUT_FIND_3_0",
+    "original": "そこ、通れそうじゃないか？ ",
+    "translation": "そこ、通れそうじゃないか？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_FOE_WARNING_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅ、まだ来てるぞ！ ",
+    "translation": "Ｆ．Ｏ．Ｅ、まだ来てるぞ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_FOE_WARNING_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅだ、来るぞ！ ",
+    "translation": "Ｆ．Ｏ．Ｅだ、来るぞ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_FOE_WARNING_NEAR_3_0",
+    "original": "油断するな、まだ来てるぞ！ ",
+    "translation": "油断するな、まだ来てるぞ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_1PERSON_HPTP10_1_0",
+    "original": "この程度で…うう… ",
+    "translation": "この程度で…うう… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_1PERSON_HPTP10_2_0",
+    "original": "なあ、休まないか…？ ",
+    "translation": "なあ、休まないか…？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_1PERSON_HPTP10_3_0",
+    "original": "こいつはピンチだ… ",
+    "translation": "こいつはピンチだ… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_1PERSON_HP10_1_0",
+    "original": "体力がもたないかもな… ",
+    "translation": "体力がもたないかもな… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_1PERSON_HP10_2_0",
+    "original": "さすがに疲れてきたか… ",
+    "translation": "さすがに疲れてきたか… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_1PERSON_HP10_3_0",
+    "original": "回復、できるか…？ ",
+    "translation": "回復、できるか…？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_1PERSON_TP10_1_0",
+    "original": "気力が限界だな… ",
+    "translation": "気力が限界だな… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_1PERSON_TP10_2_0",
+    "original": "無理は禁物だぞ…？ ",
+    "translation": "無理は禁物だぞ…？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_1PERSON_TP10_3_0",
+    "original": "ちょっと、キツいかもな… ",
+    "translation": "ちょっと、キツいかもな… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_1PERSON_HP80_1_0",
+    "original": "回復は怠るなよ？ ",
+    "translation": "回復は怠るなよ？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_1PERSON_HP80_2_0",
+    "original": "よし、探索再開だ。 ",
+    "translation": "よし、探索再開だ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_1PERSON_HP80_3_0",
+    "original": "行こうぜ、みんな。",
+    "translation": "行こうぜ、みんな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_DUNGEON_START_1_0",
+    "original": "ワガハイに任せとけ！ ",
+    "translation": "ワガハイに任せとけ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_DUNGEON_START_2_0",
+    "original": "さあ、潜入開始だ。",
+    "translation": "さあ、潜入開始だ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_DUNGEON_START_3_0",
+    "original": "やってやろうぜ！ ",
+    "translation": "やってやろうぜ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_QUEST_START_1_0",
+    "original": "腕が鳴るぜ！ ",
+    "translation": "腕が鳴るぜ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_QUEST_START_2_0",
+    "original": "始めるとしようぜ。",
+    "translation": "始めるとしようぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_QUEST_START_3_0",
+    "original": "シゴトの時間だな。",
+    "translation": "シゴトの時間だな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_TOUHA_25_1_0",
+    "original": "まあまあ出来てきたな。",
+    "translation": "まあまあ出来てきたな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_TOUHA_25_2_0",
+    "original": "お、ちょっと見えてきたな。",
+    "translation": "お、ちょっと見えてきたな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_TOUHA_50_1_0",
+    "original": "半分はきたぜ。 ",
+    "translation": "半分はきたぜ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_TOUHA_50_2_0",
+    "original": "もう半分、行こうぜ。",
+    "translation": "もう半分、行こうぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_TOUHA_75_1_0",
+    "original": "ここからが正念場だ。",
+    "translation": "ここからが正念場だ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_TOUHA_75_2_0",
+    "original": "あともう少しだな。",
+    "translation": "あともう少しだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_TOUHA_100_1_0",
+    "original": "ルートは完璧だ！ ",
+    "translation": "ルートは完璧だ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_TOUHA_100_2_0",
+    "original": "もう調べるところはないな。",
+    "translation": "もう調べるところはないな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_MAPPING_ICON_ALL_1_0",
+    "original": "やるじゃねぇか。",
+    "translation": "やるじゃねぇか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_MAPPING_ICON_ALL_2_0",
+    "original": "ふむふむ、いいぞ。",
+    "translation": "ふむふむ、いいぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_MAPPING_ICON_KAIDAN_0",
+    "original": "道が出来たな。",
+    "translation": "道が出来たな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_MAPPING_ICON_KAIDAN_2_0",
+    "original": "ルート完成だ！ ",
+    "translation": "ルート完成だ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_MAPPING_CHANGE_COLO_0",
+    "original": "色を変えるのか？",
+    "translation": "色を変えるのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_MAPPING_CHANGE_COLO_2_0",
+    "original": "おっ、やるじゃねーか。",
+    "translation": "おっ、やるじゃねーか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_MAPPING_ICON_DEL_1_0",
+    "original": "整理も大切だな。",
+    "translation": "整理も大切だな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_MAPPING_ICON_DEL_2_0",
+    "original": "いらないのか？ ",
+    "translation": "いらないのか？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_MAPPING_MEMO_1_0",
+    "original": "おお、偉いぞ。",
+    "translation": "おお、偉いぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_MAPPING_MEMO_2_0",
+    "original": "忘れないようにな！ ",
+    "translation": "忘れないようにな！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_DOOR_OPEN_1_0",
+    "original": "こっちだ。",
+    "translation": "こっちだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_DOOR_OPEN_2_0",
+    "original": "ついてこい。",
+    "translation": "ついてこい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MONA_DOOR_OPEN_3_0",
+    "original": "行こうぜ。",
+    "translation": "行こうぜ。",
+    "stage": 1,
+    "context": ""
+  }
+]

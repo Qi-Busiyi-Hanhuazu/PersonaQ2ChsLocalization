@@ -1,0 +1,142 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "倒すのは、バザルト８体だったわね。",
+    "translation": "倒すのは、バザルト８体だったわね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "特に他には言われなかったけど、\nいつも通りにいけば大丈夫かしら？",
+    "translation": "特に他には言われなかったけど、\nいつも通りにいけば大丈夫かしら？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "早く倒そう",
+    "translation": "早く倒そう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "着実に行こう",
+    "translation": "着実に行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ん？　ジョーカー、ちょっと待て！",
+    "translation": "ん？　ジョーカー、ちょっと待て！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "なんだかＦ．Ｏ．Ｅの反応が\nいつもより多い気がする。",
+    "translation": "なんだかＦ．Ｏ．Ｅの反応が\nいつもより多い気がする。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "しかも、バザルトの反応も\nＦ．Ｏ．Ｅの近くに感じるぞ。",
+    "translation": "しかも、バザルトの反応も\nＦ．Ｏ．Ｅの近くに感じるぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "もしかして、『特別上映』中だから\n変化が起きているのか…？",
+    "translation": "もしかして、『特別上映』中だから\n変化が起きているのか…？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "そう考えてよさそうだ。もしかしたら、\n普段は通れてた道も塞がれてるかも。",
+    "translation": "そう考えてよさそうだ。もしかしたら、\n普段は通れてた道も塞がれてるかも。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "目的だけをサクッとやる『短編映画』か…\nなるほどね、こういうことか。",
+    "translation": "目的だけをサクッとやる『短編映画』か…\nなるほどね、こういうことか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "とにかく、バザルトは今、\nＦ．Ｏ．Ｅの近くに沢山いるんだよね？",
+    "translation": "とにかく、バザルトは今、\nＦ．Ｏ．Ｅの近くに沢山いるんだよね？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "つまり、Ｆ．Ｏ．Ｅの近くに行けば\nターゲットを一網打尽にできそうね。",
+    "translation": "つまり、Ｆ．Ｏ．Ｅの近くに行けば\nターゲットを一網打尽にできそうね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "リスキーだけど効率的そうだわ。",
+    "translation": "リスキーだけど効率的そうだわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "だけど、Ｆ．Ｏ．Ｅは強敵だ。",
+    "translation": "だけど、Ｆ．Ｏ．Ｅは強敵だ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "どっちに向かうかは、いつも通り\nジョーカーに任せる！　頼んだぞ！",
+    "translation": "どっちに向かうかは、いつも通り\nジョーカーに任せる！　頼んだぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

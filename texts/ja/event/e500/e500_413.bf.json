@@ -1,0 +1,226 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…何故、お前たちは\n私が与える安寧に身を委ねない？",
+    "translation": "…何故、お前たちは\n私が与える安寧に身を委ねない？",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "幸せは、他人の手に委ねるものじゃない。\n自分で見つけ、自分の手で得る。",
+    "translation": "幸せは、他人の手に委ねるものじゃない。\n自分で見つけ、自分の手で得る。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "そうしていく中で、他の人たちと支え合い、\n新しい幸せを一緒に見つけるんだ。",
+    "translation": "そうしていく中で、他の人たちと支え合い、\n新しい幸せを一緒に見つけるんだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "人と人が交わる度に、\n互いを傷つけ合い、心を磨り減らす。",
+    "translation": "人と人が交わる度に、\n互いを傷つけ合い、心を磨り減らす。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "私を退けたとて、\nその歪みに終わりなど無い。",
+    "translation": "私を退けたとて、\nその歪みに終わりなど無い。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "確かに、僕たちが出した答えが\n常に正解とは限らない。",
+    "translation": "確かに、僕たちが出した答えが\n常に正解とは限らない。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "不本意に人を傷つけてしまったり、\n自分が傷つく時だってあると思う。",
+    "translation": "不本意に人を傷つけてしまったり、\n自分が傷つく時だってあると思う。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "それでも僕は、自分が導いた答えに\n納得できるような人生でありたいと思う。",
+    "translation": "それでも僕は、自分が導いた答えに\n納得できるような人生でありたいと思う。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "何時、如何なる時も、惨たんたる嵐は\n人間の心に吹き荒れる。",
+    "translation": "何時、如何なる時も、惨たんたる嵐は\n人間の心に吹き荒れる。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "それでもお前たちは、己の足で\n地を踏みしめる覚悟があると言うか。",
+    "translation": "それでもお前たちは、己の足で\n地を踏みしめる覚悟があると言うか。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "覚悟はある",
+    "translation": "覚悟はある",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "人間を甘く見るな",
+    "translation": "人間を甘く見るな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そう、それが私たちの答え。\n…そうだよね、ひかりちゃん！",
+    "translation": "そう、それが私たちの答え。\n…そうだよね、ひかりちゃん！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "私は、あなたには頼らない。\n自分の幸せは、自分でつかむ！",
+    "translation": "私は、あなたには頼らない。\n自分の幸せは、自分でつかむ！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "自分の幸せは、自分で…\nそうよね…そうだよね。",
+    "translation": "自分の幸せは、自分で…\nそうよね…そうだよね。",
+    "stage": 1,
+    "context": "もの憂げな若い女性の声"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "俺にも…できるかな…？",
+    "translation": "俺にも…できるかな…？",
+    "stage": 1,
+    "context": "ダルそうな青年男性の声"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "この声は…",
+    "translation": "この声は…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "やり直せるなら、私も…\n今度はもう、諦めないでやってみたい。",
+    "translation": "やり直せるなら、私も…\n今度はもう、諦めないでやってみたい。",
+    "stage": 1,
+    "context": "面倒そうな中年女性の声"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "そうだ…\n簡単に諦めるには、まだ早い。",
+    "translation": "そうだ…\n簡単に諦めるには、まだ早い。",
+    "stage": 1,
+    "context": "けだるげな中年男性の声"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "俺も、ここから出る。\n人の目なんて、もう気にしない！",
+    "translation": "俺も、ここから出る。\n人の目なんて、もう気にしない！",
+    "stage": 1,
+    "context": "ダルそうな青年男性の声"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "…みんなにも、届いたみたいだな。",
+    "translation": "…みんなにも、届いたみたいだな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "辛くとも、選ぶか…愚かな。",
+    "translation": "辛くとも、選ぶか…愚かな。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "speaker_エンリル",
+    "original": "エンリル",
+    "translation": "エンリル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_もの憂げな若い女性の声",
+    "original": "もの憂げな若い女性の声",
+    "translation": "もの憂げな若い女性の声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ダルそうな青年男性の声",
+    "original": "ダルそうな青年男性の声",
+    "translation": "ダルそうな青年男性の声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_面倒そうな中年女性の声",
+    "original": "面倒そうな中年女性の声",
+    "translation": "面倒そうな中年女性の声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_けだるげな中年男性の声",
+    "original": "けだるげな中年男性の声",
+    "translation": "けだるげな中年男性の声",
+    "stage": 1,
+    "context": ""
+  }
+]

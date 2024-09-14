@@ -1,0 +1,527 @@
+[
+  {
+    "key": "RYUJI_FOE_FOLLOW_START_1_0",
+    "original": "うおっ、Ｆ．Ｏ．Ｅ！",
+    "translation": "うおっ、Ｆ．Ｏ．Ｅ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅ来んぞ！",
+    "translation": "Ｆ．Ｏ．Ｅ来んぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_FOE_FOLLOW_START_3_0",
+    "original": "見つかっちまった！",
+    "translation": "見つかっちまった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_FOE_NEAR_1_0",
+    "original": "やべえ、Ｆ．Ｏ．Ｅちけえ！",
+    "translation": "やべえ、Ｆ．Ｏ．Ｅちけえ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_FOE_NEAR_2_0",
+    "original": "おい、Ｆ．Ｏ．Ｅがいんぞ！",
+    "translation": "おい、Ｆ．Ｏ．Ｅがいんぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅ近すぎだぞ、おい！",
+    "translation": "Ｆ．Ｏ．Ｅ近すぎだぞ、おい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_FOE_FOLLOW_END_1_0",
+    "original": "あっぶねー…逃げ切ったか。",
+    "translation": "あっぶねー…逃げ切ったか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_FOE_FOLLOW_END_2_0",
+    "original": "よっしゃ、まいたな！",
+    "translation": "よっしゃ、まいたな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_FOE_FOLLOW_END_3_0",
+    "original": "へへっ、諦めたみたいだな。",
+    "translation": "へへっ、諦めたみたいだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_KANSI_REACTION_1_0",
+    "original": "見つかんね―ようにな。",
+    "translation": "見つかんね―ようにな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_KANSI_REACTION_2_0",
+    "original": "ゲッ、面倒クセーのがあるぞ。",
+    "translation": "ゲッ、面倒クセーのがあるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_KANSI_REACTION_3_0",
+    "original": "ふいー、緊張するー…",
+    "translation": "ふいー、緊張するー…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_DENKISAKU_REACTION_0",
+    "original": "このままじゃ通れねえな…",
+    "translation": "このままじゃ通れねえな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_DENKISAKU_REACTION_2_0",
+    "original": "電気止めるスイッチ探そうぜ！",
+    "translation": "電気止めるスイッチ探そうぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_DENKISAKU_REACTION_3_0",
+    "original": "あっぶね、電気柵だぞ！",
+    "translation": "あっぶね、電気柵だぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_KYOUHU_REACTION_1_0",
+    "original": "どわぁーっ！",
+    "translation": "どわぁーっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_KYOUHU_REACTION_2_0",
+    "original": "風強え！？",
+    "translation": "風強え！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_KYOUHU_REACTION_3_0",
+    "original": "マジかよ！？",
+    "translation": "マジかよ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_STAIR_FIND_1_0",
+    "original": "先進めそうなトコ、発見！",
+    "translation": "先進めそうなトコ、発見！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_STAIR_FIND_2_0",
+    "original": "先進もうぜ！",
+    "translation": "先進もうぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_STAIR_FIND_3_0",
+    "original": "なあ、こっから進めそうだぜ！",
+    "translation": "なあ、こっから進めそうだぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_TREASURE_FIND_1_0",
+    "original": "オタカラ、発見！",
+    "translation": "オタカラ、発見！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_TREASURE_FIND_2_0",
+    "original": "よっしゃ、オタカラいただきぃ！",
+    "translation": "よっしゃ、オタカラいただきぃ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_TREASURE_FIND_3_0",
+    "original": "宝箱見っけ！",
+    "translation": "宝箱見っけ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_CHECK_WALL_1_0",
+    "original": "このへん怪しくねーか？",
+    "translation": "このへん怪しくねーか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_CHECK_WALL_2_0",
+    "original": "おい、調べてみねえか？",
+    "translation": "おい、調べてみねえか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_CHECK_WALL_3_0",
+    "original": "なーんか引っかかんだよなぁ…",
+    "translation": "なーんか引っかかんだよなぁ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_SWITCH_FIND_1_0",
+    "original": "あれスイッチじゃね？",
+    "translation": "あれスイッチじゃね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_SWITCH_FIND_2_0",
+    "original": "ボタンみてえのあるな。",
+    "translation": "ボタンみてえのあるな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_SWITCH_FIND_3_0",
+    "original": "押す？　押しちゃう？",
+    "translation": "押す？　押しちゃう？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_SHORTCUT_FIND_1_0",
+    "original": "なあ、そこ通れんじゃね？",
+    "translation": "なあ、そこ通れんじゃね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_SHORTCUT_FIND_2_0",
+    "original": "あそこ、近道にできそうじゃねえか？",
+    "translation": "あそこ、近道にできそうじゃねえか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_SHORTCUT_FIND_3_0",
+    "original": "見ろよ、近道になりそうじゃね？",
+    "translation": "見ろよ、近道になりそうじゃね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_FOE_WARNING_NEAR_1_0",
+    "original": "おいおい、まだＦ．Ｏ．Ｅ来てんぞ！",
+    "translation": "おいおい、まだＦ．Ｏ．Ｅ来てんぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_FOE_WARNING_NEAR_2_0",
+    "original": "しつけーな、あのＦ．Ｏ．Ｅ！",
+    "translation": "しつけーな、あのＦ．Ｏ．Ｅ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_FOE_WARNING_NEAR_3_0",
+    "original": "まだＦ．Ｏ．Ｅいんぞ、油断すんなよ！",
+    "translation": "まだＦ．Ｏ．Ｅいんぞ、油断すんなよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_1PERSON_HPTP10_1_0",
+    "original": "限界ちけえ…",
+    "translation": "限界ちけえ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_1PERSON_HPTP10_2_0",
+    "original": "わりぃ、しんどいわ…",
+    "translation": "わりぃ、しんどいわ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_1PERSON_HPTP10_3_0",
+    "original": "おぇ…しんど…",
+    "translation": "おぇ…しんど…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_1PERSON_HP10_1_0",
+    "original": "あー…きちいな…",
+    "translation": "あー…きちいな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_1PERSON_HP10_2_0",
+    "original": "回復頼むわぁ…",
+    "translation": "回復頼むわぁ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_1PERSON_HP10_3_0",
+    "original": "やべ、ぶっ倒れそう…",
+    "translation": "やべ、ぶっ倒れそう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_1PERSON_TP10_1_0",
+    "original": "マジ心折れそ…",
+    "translation": "マジ心折れそ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_1PERSON_TP10_2_0",
+    "original": "腹減った…もムリ…",
+    "translation": "腹減った…もムリ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_1PERSON_TP10_3_0",
+    "original": "疲れがピークだわ…",
+    "translation": "疲れがピークだわ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_1PERSON_HP80_1_0",
+    "original": "余裕の勝利だったな！",
+    "translation": "余裕の勝利だったな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_1PERSON_HP80_2_0",
+    "original": "ガンガン行こうぜ！",
+    "translation": "ガンガン行こうぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_1PERSON_HP80_3_0",
+    "original": "さあ、次行くぜ！",
+    "translation": "さあ、次行くぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_DUNGEON_START_1_0",
+    "original": "さぁて、やりますか。",
+    "translation": "さぁて、やりますか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_DUNGEON_START_2_0",
+    "original": "準備バッチシ！　いつでも行けるぜ！",
+    "translation": "準備バッチシ！　いつでも行けるぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_DUNGEON_START_3_0",
+    "original": "んじゃ、行くとすっか！",
+    "translation": "んじゃ、行くとすっか！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_QUEST_START_1_0",
+    "original": "うし、作戦開始だ！",
+    "translation": "うし、作戦開始だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_QUEST_START_2_0",
+    "original": "さっさと解決しようぜ！",
+    "translation": "さっさと解決しようぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_QUEST_START_3_0",
+    "original": "いつも通りいけば余裕だろ！",
+    "translation": "いつも通りいけば余裕だろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_TOUHA_25_1_0",
+    "original": "まだ先は長そうだな～。",
+    "translation": "まだ先は長そうだな～。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_TOUHA_25_2_0",
+    "original": "ま、ぼちぼち頑張ろうぜ！",
+    "translation": "ま、ぼちぼち頑張ろうぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_TOUHA_50_1_0",
+    "original": "お、半分ってとこか。",
+    "translation": "お、半分ってとこか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_TOUHA_50_2_0",
+    "original": "こっからが勝負だな！",
+    "translation": "こっからが勝負だな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_TOUHA_75_1_0",
+    "original": "結構、行ったろ！",
+    "translation": "結構、行ったろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_TOUHA_75_2_0",
+    "original": "おう、イイ感じだな！",
+    "translation": "おう、イイ感じだな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_TOUHA_100_1_0",
+    "original": "おっしゃ、完璧っしょ！",
+    "translation": "おっしゃ、完璧っしょ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_TOUHA_100_2_0",
+    "original": "このフロアは制覇だな！",
+    "translation": "このフロアは制覇だな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_MAPPING_ICON_ALL_1_0",
+    "original": "いいじゃん！",
+    "translation": "いいじゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_MAPPING_ICON_ALL_2_0",
+    "original": "お、ナイス！",
+    "translation": "お、ナイス！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_MAPPING_ICON_KAIDA_0",
+    "original": "そうそう、そこ！",
+    "translation": "そうそう、そこ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_MAPPING_ICON_KAIDA_2_0",
+    "original": "バッチリだぜ。",
+    "translation": "バッチリだぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_MAPPING_CHANGE_COL_0",
+    "original": "お、イイかんじ！",
+    "translation": "お、イイかんじ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_MAPPING_CHANGE_COL_2_0",
+    "original": "イケてんな！",
+    "translation": "イケてんな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_MAPPING_ICON_DEL_1_0",
+    "original": "だよなー。",
+    "translation": "だよなー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_MAPPING_ICON_DEL_2_0",
+    "original": "はい、ポイっと。",
+    "translation": "はい、ポイっと。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_MAPPING_MEMO_1_0",
+    "original": "おー、マメだな。",
+    "translation": "おー、マメだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_MAPPING_MEMO_2_0",
+    "original": "おー、さっすが。",
+    "translation": "おー、さっすが。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_DOOR_OPEN_1_0",
+    "original": "よっしゃ、行こうぜ！",
+    "translation": "よっしゃ、行こうぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_DOOR_OPEN_2_0",
+    "original": "へへっ、進もうぜ。",
+    "translation": "へへっ、進もうぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RYUJI_DOOR_OPEN_3_0",
+    "original": "おっさきー！",
+    "translation": "おっさきー！",
+    "stage": 1,
+    "context": ""
+  }
+]

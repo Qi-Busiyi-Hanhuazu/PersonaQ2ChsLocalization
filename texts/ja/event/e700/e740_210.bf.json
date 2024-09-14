@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ん？　クマだな。",
+    "translation": "ん？　クマだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ほいほい！　呼んだクマー？",
+    "translation": "ほいほい！　呼んだクマー？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "すごい速さで来たな…",
+    "translation": "すごい速さで来たな…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "えっへん！　クマはえらいから食い気味に\n返事が出来ちゃうくらい素早いっクマね。",
+    "translation": "えっへん！　クマはえらいから食い気味に\n返事が出来ちゃうくらい素早いっクマね。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "もしもーし、クマさん？\nあれを見てごらんなさいって？",
+    "translation": "もしもーし、クマさん？\nあれを見てごらんなさいって？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "およよ？　なにをー…",
+    "translation": "およよ？　なにをー…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "って、なんですとー！？\nクククク、クマがいるクマよ…！？",
+    "translation": "って、なんですとー！？\nクククク、クマがいるクマよ…！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "速っクマ！？",
+    "translation": "速っクマ！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "身体は重量級なくせに軽量級ボクサー並みの\n素早い身のこなし…見事な逸材だ！",
+    "translation": "身体は重量級なくせに軽量級ボクサー並みの\n素早い身のこなし…見事な逸材だ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "どんなに速い奴だって、これまでの\n[颜色 03]Ｆ．Ｏ．Ｅのように規則性があるに違いない[颜色 01]。",
+    "translation": "どんなに速い奴だって、これまでの\n[颜色 03]Ｆ．Ｏ．Ｅのように規則性があるに違いない[颜色 01]。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "上手く見極めれば、進行に支障はないはず…\n頼むぞ、ジョーカー。",
+    "translation": "上手く見極めれば、進行に支障はないはず…\n頼むぞ、ジョーカー。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

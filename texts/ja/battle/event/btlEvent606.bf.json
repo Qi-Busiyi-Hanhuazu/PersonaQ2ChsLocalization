@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "弱点を突いて、チャンスを得る…\n戦いを有利に進める妙手だね。",
+    "translation": "弱点を突いて、チャンスを得る…\n戦いを有利に進める妙手だね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ヘッ！　俺たち怪盗団の力、\nそんなもんじゃねーぜ？",
+    "translation": "ヘッ！　俺たち怪盗団の力、\nそんなもんじゃねーぜ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "スカルの言うとおり！",
+    "translation": "スカルの言うとおり！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "ジョーカー、チャンスがあれば\n『総攻撃』も狙っていけー！",
+    "translation": "ジョーカー、チャンスがあれば\n『総攻撃』も狙っていけー！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "皆様のおかげで、街のディープな一面を\n垣間見ることが出来ました。",
+    "translation": "皆様のおかげで、街のディープな一面を\n垣間見ることが出来ました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "お疲れ様でございます。\nこちらが報酬となっております。",
+    "translation": "お疲れ様でございます。\nこちらが報酬となっております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "上映は無事達成したけど、\nなーんか不完全燃焼だよな…",
+    "translation": "上映は無事達成したけど、\nなーんか不完全燃焼だよな…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "クマは一足先に、天国への階段のぼって\nお星様になりかけたクマ…",
+    "translation": "クマは一足先に、天国への階段のぼって\nお星様になりかけたクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "でもクマだっていつか、二人を見習って\nオトナの階段のぼってみせるクマ！",
+    "translation": "でもクマだっていつか、二人を見習って\nオトナの階段のぼってみせるクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "お前の師匠は[P4姓]だろ。\nなに浮気してんだよ。",
+    "translation": "お前の師匠は[P4姓]だろ。\nなに浮気してんだよ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "モチロン、センセイは唯一無二！\nアツくてマブいお日サマみたいな存在クマ！",
+    "translation": "モチロン、センセイは唯一無二！\nアツくてマブいお日サマみたいな存在クマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "センセイに比べると、二人は月とか星とか、\nちょっとミステリアスな部分があって…",
+    "translation": "センセイに比べると、二人は月とか星とか、\nちょっとミステリアスな部分があって…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_2",
+    "original": "それはそれで憧れちゃうクマ！",
+    "translation": "それはそれで憧れちゃうクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ったく、調子の良いヤツ…",
+    "translation": "ったく、調子の良いヤツ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "でも二人にうちの相棒と違う\n魅力があるっていうのはわかるかもな。",
+    "translation": "でも二人にうちの相棒と違う\n魅力があるっていうのはわかるかもな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "[P3姓]さんも大人っぽいですが、\n[P5姓]さんもそうですよね。",
+    "translation": "[P3姓]さんも大人っぽいですが、\n[P5姓]さんもそうですよね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "お二人とも、僕たちの知らない人や場所を\nいっぱい知っています。",
+    "translation": "お二人とも、僕たちの知らない人や場所を\nいっぱい知っています。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "そうでもない",
+    "translation": "そうでもない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "案内しようか？",
+    "translation": "案内しようか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "いや、上京して半年とは思えない\n見識の広さだ。",
+    "translation": "いや、上京して半年とは思えない\n見識の広さだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "俺も[P5姓]を見ていると、\nもっと外に目を向けねばと思う。",
+    "translation": "俺も[P5姓]を見ていると、\nもっと外に目を向けねばと思う。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "え？　いいんですか？",
+    "translation": "え？　いいんですか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "おいおい、あんま遅い時間につれ出すと\n場所によっちゃケーサツ沙汰だぞ。",
+    "translation": "おいおい、あんま遅い時間につれ出すと\n場所によっちゃケーサツ沙汰だぞ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "フフ、やっぱり[P5名]はすごいね。",
+    "translation": "フフ、やっぱり[P5名]はすごいね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "いやいや、クラブで僧侶と友達に\nなってる時点で、お前も大概よ。",
+    "translation": "いやいや、クラブで僧侶と友達に\nなってる時点で、お前も大概よ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "悔しいけど、お前らの行動力と\nコミュ力にはオレっちもお手上げ侍。",
+    "translation": "悔しいけど、お前らの行動力と\nコミュ力にはオレっちもお手上げ侍。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "そっか…",
+    "translation": "そっか…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "君とは通じる部分があるような気が\nしてたけど、こういうところだったのかもね。",
+    "translation": "君とは通じる部分があるような気が\nしてたけど、こういうところだったのかもね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_013_2",
+    "original": "君と一緒なら、この先も心強い気がするよ。",
+    "translation": "君と一緒なら、この先も心強い気がするよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "SEL_014_0",
+    "original": "同じ気持ちだ",
+    "translation": "同じ気持ちだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_1",
+    "original": "よろしく",
+    "translation": "よろしく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ああ、改めてよろしく。",
+    "translation": "ああ、改めてよろしく。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "おお、行動力とコミュ力の化身、\n夜遊び名人たちの間にアツい友情が…！",
+    "translation": "おお、行動力とコミュ力の化身、\n夜遊び名人たちの間にアツい友情が…！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "こりゃ外に出たアカツキには\n夜の街でレッツパーリィクマ！",
+    "translation": "こりゃ外に出たアカツキには\n夜の街でレッツパーリィクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "そんじゃそん時こそ、\n大人の階段リベンジってことで…",
+    "translation": "そんじゃそん時こそ、\n大人の階段リベンジってことで…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ほう、何にリベンジだ？",
+    "translation": "ほう、何にリベンジだ？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "上映中、だいぶ好き勝手やってたけど、\nまだ懲りてないのかしら？",
+    "translation": "上映中、だいぶ好き勝手やってたけど、\nまだ懲りてないのかしら？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "い、いえ、そのー…",
+    "translation": "い、いえ、そのー…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "助けて、お二人さーん！",
+    "translation": "助けて、お二人さーん！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "SEL_022_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_022_1",
+    "original": "どうでもいい",
+    "translation": "どうでもいい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "うん、どうでもいい。",
+    "translation": "うん、どうでもいい。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "都会っ子は薄情クマー！！",
+    "translation": "都会っ子は薄情クマー！！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  }
+]

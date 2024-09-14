@@ -1,0 +1,471 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "皆様、たいへんお待たせいたしました。",
+    "translation": "皆様、たいへんお待たせいたしました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "お見せ頂いた、かのフィルムについて\n考察を進めて参りました。",
+    "translation": "お見せ頂いた、かのフィルムについて\n考察を進めて参りました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "聞かせてくれ",
+    "translation": "聞かせてくれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "何がわかったんだ？",
+    "translation": "何がわかったんだ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "はい、推察の域を出ませんが…",
+    "translation": "はい、推察の域を出ませんが…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "こちらを入手された『特別上映』では\n記載通り[P5姓]様が戦いに臨んだ。",
+    "translation": "こちらを入手された『特別上映』では\n記載通り[P5姓]様が戦いに臨んだ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "[P5姓]様の『力』をもって倒された\nシャドウが残したもの、つまり…",
+    "translation": "[P5姓]様の『力』をもって倒された\nシャドウが残したもの、つまり…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_3",
+    "original": "こちら、[P5姓]様の『力』が作用し\n手に入った物ではないか、と。",
+    "translation": "こちら、[P5姓]様の『力』が作用し\n手に入った物ではないか、と。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "『力』って？",
+    "translation": "『力』って？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "よくわからない",
+    "translation": "よくわからない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "それは、無限の可能性。\n『ワイルド』と呼ばれる力でございます。",
+    "translation": "それは、無限の可能性。\n『ワイルド』と呼ばれる力でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おや、お気づきではありませんか？",
+    "translation": "おや、お気づきではありませんか？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "あなたの中に眠る無限の可能性、\n『ワイルド』の力に。",
+    "translation": "あなたの中に眠る無限の可能性、\n『ワイルド』の力に。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そして、『ワイルド』の力を持つ者が\nそれを手にしたことには必ず意味があるはず。",
+    "translation": "そして、『ワイルド』の力を持つ者が\nそれを手にしたことには必ず意味があるはず。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "つまり、そのフィルムは『ワイルド』の力、\nさらなる可能性を引き出す『鍵』…",
+    "translation": "つまり、そのフィルムは『ワイルド』の力、\nさらなる可能性を引き出す『鍵』…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うーん…話が飛躍してる気がするけど、\n仮にこのフィルムがその『鍵』だとしよう。",
+    "translation": "うーん…話が飛躍してる気がするけど、\n仮にこのフィルムがその『鍵』だとしよう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_1_0",
+    "original": "でも、[P5名]に変わった様子は無いよね。\nその点はどう説明する？",
+    "translation": "でも、[P5名]に変わった様子は無いよね。\nその点はどう説明する？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_1_0",
+    "original": "僭越ながら、その答えを得るため、\n私にひとつの考えがございます。",
+    "translation": "僭越ながら、その答えを得るため、\n私にひとつの考えがございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "テオ、テオ！\nいますぐここへ参上せよ！",
+    "translation": "テオ、テオ！\nいますぐここへ参上せよ！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "テオ、テーオー！\nさもなくば、きな粉を…",
+    "translation": "テオ、テーオー！\nさもなくば、きな粉を…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "お、お止めください姉上。",
+    "translation": "お、お止めください姉上。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_010_1_0",
+    "original": "あの粉の名を聞くだけで、口の中が\n灼熱の砂漠のようになるのですから。",
+    "translation": "あの粉の名を聞くだけで、口の中が\n灼熱の砂漠のようになるのですから。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "なんだそのトラウマ…\nいったい何されたんだよ…",
+    "translation": "なんだそのトラウマ…\nいったい何されたんだよ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "おや、これは皆様お揃いで。",
+    "translation": "おや、これは皆様お揃いで。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "それで姉上、私に何か御用でしょうか。",
+    "translation": "それで姉上、私に何か御用でしょうか。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "テオ、あなたも『力を司る者』の\n一人であることを忘れてはいませんね。",
+    "translation": "テオ、あなたも『力を司る者』の\n一人であることを忘れてはいませんね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "はい、それはもちろん。",
+    "translation": "はい、それはもちろん。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "今はこのような格好をしておりますが、\n誇りを持って、職務を果たしております。",
+    "translation": "今はこのような格好をしておりますが、\n誇りを持って、職務を果たしております。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "では、今から皆様と『手合わせ』なさい。",
+    "translation": "では、今から皆様と『手合わせ』なさい。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "…は？",
+    "translation": "…は？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_016_1_0",
+    "original": "手合わせ…[P5姓]様たちと\n戦えということですか！？",
+    "translation": "手合わせ…[P5姓]様たちと\n戦えということですか！？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "いかにも。\nむろん、手加減は無用です。",
+    "translation": "いかにも。\nむろん、手加減は無用です。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "もちろん、皆様もご遠慮なさらず。\n殺すつもりでやっちまって下さいませ。",
+    "translation": "もちろん、皆様もご遠慮なさらず。\n殺すつもりでやっちまって下さいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_018_0",
+    "original": "意味がわからない",
+    "translation": "意味がわからない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_1",
+    "original": "話が見えない",
+    "translation": "話が見えない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "そうです、ムチャクチャです。\n皆様、困っているではありませんか。",
+    "translation": "そうです、ムチャクチャです。\n皆様、困っているではありませんか。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ほう…？",
+    "translation": "ほう…？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "私に意見するとは、\nずいぶん偉くなりましたね、テオ。",
+    "translation": "私に意見するとは、\nずいぶん偉くなりましたね、テオ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "い、いえ…\n決してそういうつもりでは…",
+    "translation": "い、いえ…\n決してそういうつもりでは…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "[P5姓]様、突然の不躾な提案、\n誠に申し訳ございません。",
+    "translation": "[P5姓]様、突然の不躾な提案、\n誠に申し訳ございません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_022_1_0",
+    "original": "ですが、私の予測によれば、\nこの戦い、決して無駄にはなりません。",
+    "translation": "ですが、私の予測によれば、\nこの戦い、決して無駄にはなりません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_022_1_1",
+    "original": "全てはあのフィルムの謎を解き、\n『ワイルド』の可能性を探るため。",
+    "translation": "全てはあのフィルムの謎を解き、\n『ワイルド』の可能性を探るため。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ワイルドの可能性…？",
+    "translation": "ワイルドの可能性…？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "テオドアさんと戦うことと、\nどう関係するのかしら…？",
+    "translation": "テオドアさんと戦うことと、\nどう関係するのかしら…？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "詳しい説明はテオがボッコボコに\nされた後に致しましょう。",
+    "translation": "詳しい説明はテオがボッコボコに\nされた後に致しましょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_025_1_0",
+    "original": "さあさあ、私が見届けさせて頂きます♪\nテオＶＳ皆様、ファイッ！",
+    "translation": "さあさあ、私が見届けさせて頂きます♪\nテオＶＳ皆様、ファイッ！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ザベっさん、ノリノリである。",
+    "translation": "ザベっさん、ノリノリである。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "…皆様、ご存知かとは思いますが、\n姉上は言い出したら聞き訳がありません。",
+    "translation": "…皆様、ご存知かとは思いますが、\n姉上は言い出したら聞き訳がありません。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "ここは、姉上の言う通り、\n『お手合わせ』を願えますか？",
+    "translation": "ここは、姉上の言う通り、\n『お手合わせ』を願えますか？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "SEL_028_0",
+    "original": "望むところだ",
+    "translation": "望むところだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_028_1",
+    "original": "ちょっと待って",
+    "translation": "ちょっと待って",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "かしこまりました。",
+    "translation": "かしこまりました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "私も準備をして参ります。\nでは、ベルベットルームにて。",
+    "translation": "私も準備をして参ります。\nでは、ベルベットルームにて。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "それでは、準備が出来ましたら\n再度お声かけ下さい。",
+    "translation": "それでは、準備が出来ましたら\n再度お声かけ下さい。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "これは皆様。\n『手合わせ』の準備はできましたか？",
+    "translation": "これは皆様。\n『手合わせ』の準備はできましたか？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "SEL_032_0",
+    "original": "出来た",
+    "translation": "出来た",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_032_1",
+    "original": "まだだ",
+    "translation": "まだだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "かしこまりました。",
+    "translation": "かしこまりました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "私も準備をして参ります。\nでは、ベルベットルームにて。",
+    "translation": "私も準備をして参ります。\nでは、ベルベットルームにて。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "それでは、準備が出来たら\nまたお声かけ下さい。",
+    "translation": "それでは、準備が出来たら\nまたお声かけ下さい。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

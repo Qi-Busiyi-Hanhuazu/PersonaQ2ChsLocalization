@@ -1,0 +1,1381 @@
+[
+  {
+    "key": "addeffect_000_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_001_0",
+    "original": "力１ＵＰ",
+    "translation": "力１ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_002_0",
+    "original": "力２ＵＰ",
+    "translation": "力２ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_003_0",
+    "original": "力３ＵＰ",
+    "translation": "力３ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_004_0",
+    "original": "力４ＵＰ",
+    "translation": "力４ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_005_0",
+    "original": "力５ＵＰ",
+    "translation": "力５ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_006_0",
+    "original": "耐１ＵＰ",
+    "translation": "耐１ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_007_0",
+    "original": "耐２ＵＰ",
+    "translation": "耐２ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_008_0",
+    "original": "耐３ＵＰ",
+    "translation": "耐３ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_009_0",
+    "original": "耐４ＵＰ",
+    "translation": "耐４ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_010_0",
+    "original": "耐５ＵＰ",
+    "translation": "耐５ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_011_0",
+    "original": "魔１ＵＰ",
+    "translation": "魔１ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_012_0",
+    "original": "魔２ＵＰ",
+    "translation": "魔２ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_013_0",
+    "original": "魔３ＵＰ",
+    "translation": "魔３ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_014_0",
+    "original": "魔４ＵＰ",
+    "translation": "魔４ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_015_0",
+    "original": "魔５ＵＰ",
+    "translation": "魔５ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_016_0",
+    "original": "速１ＵＰ",
+    "translation": "速１ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_017_0",
+    "original": "速２ＵＰ",
+    "translation": "速２ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_018_0",
+    "original": "速３ＵＰ",
+    "translation": "速３ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_019_0",
+    "original": "速４ＵＰ",
+    "translation": "速４ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_020_0",
+    "original": "速５ＵＰ",
+    "translation": "速５ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_021_0",
+    "original": "運１ＵＰ",
+    "translation": "運１ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_022_0",
+    "original": "運２ＵＰ",
+    "translation": "運２ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_023_0",
+    "original": "運３ＵＰ",
+    "translation": "運３ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_024_0",
+    "original": "運４ＵＰ",
+    "translation": "運４ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_025_0",
+    "original": "運５ＵＰ",
+    "translation": "運５ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_026_0",
+    "original": "ＨＰ１０ＵＰ",
+    "translation": "ＨＰ１０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_027_0",
+    "original": "ＨＰ２０ＵＰ",
+    "translation": "ＨＰ２０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_028_0",
+    "original": "ＨＰ３０ＵＰ",
+    "translation": "ＨＰ３０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_029_0",
+    "original": "ＨＰ４０ＵＰ",
+    "translation": "ＨＰ４０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_030_0",
+    "original": "ＨＰ５０ＵＰ",
+    "translation": "ＨＰ５０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_031_0",
+    "original": "ＳＰ１０ＵＰ",
+    "translation": "ＳＰ１０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_032_0",
+    "original": "ＳＰ２０ＵＰ",
+    "translation": "ＳＰ２０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_033_0",
+    "original": "ＳＰ３０ＵＰ",
+    "translation": "ＳＰ３０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_034_0",
+    "original": "ＳＰ４０ＵＰ",
+    "translation": "ＳＰ４０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_035_0",
+    "original": "ＳＰ５０ＵＰ",
+    "translation": "ＳＰ５０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_036_0",
+    "original": "まれに混乱付着",
+    "translation": "まれに混乱付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_037_0",
+    "original": "ときどき混乱付着",
+    "translation": "ときどき混乱付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_038_0",
+    "original": "頻繁に混乱付着",
+    "translation": "頻繁に混乱付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_039_0",
+    "original": "まれに毒付着",
+    "translation": "まれに毒付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_040_0",
+    "original": "ときどき毒付着",
+    "translation": "ときどき毒付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_041_0",
+    "original": "頻繁に毒付着",
+    "translation": "頻繁に毒付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_042_0",
+    "original": "まれに恐怖付着",
+    "translation": "まれに恐怖付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_043_0",
+    "original": "ときどき恐怖付着",
+    "translation": "ときどき恐怖付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_044_0",
+    "original": "頻繁に恐怖付着",
+    "translation": "頻繁に恐怖付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_045_0",
+    "original": "まれに激昂付着",
+    "translation": "まれに激昂付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_046_0",
+    "original": "ときどき激昂付着",
+    "translation": "ときどき激昂付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_047_0",
+    "original": "頻繁に激昂付着",
+    "translation": "頻繁に激昂付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_048_0",
+    "original": "まれに気絶付着",
+    "translation": "まれに気絶付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_049_0",
+    "original": "ときどき気絶付着",
+    "translation": "ときどき気絶付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_050_0",
+    "original": "頻繁に気絶付着",
+    "translation": "頻繁に気絶付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_051_0",
+    "original": "まれに衰弱付着",
+    "translation": "まれに衰弱付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_052_0",
+    "original": "ときどき衰弱付着",
+    "translation": "ときどき衰弱付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_053_0",
+    "original": "頻繁に衰弱付着",
+    "translation": "頻繁に衰弱付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_054_0",
+    "original": "まれに老化付着",
+    "translation": "まれに老化付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_055_0",
+    "original": "ときどき老化付着",
+    "translation": "ときどき老化付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_056_0",
+    "original": "頻繁に老化付着",
+    "translation": "頻繁に老化付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_057_0",
+    "original": "まれに魔封付着",
+    "translation": "まれに魔封付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_058_0",
+    "original": "ときどき魔封付着",
+    "translation": "ときどき魔封付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_059_0",
+    "original": "頻繁に魔封付着",
+    "translation": "頻繁に魔封付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_060_0",
+    "original": "クリティカル率小ＵＰ",
+    "translation": "クリティカル率小ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_061_0",
+    "original": "クリティカル率中ＵＰ",
+    "translation": "クリティカル率中ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_062_0",
+    "original": "クリティカル率大ＵＰ",
+    "translation": "クリティカル率大ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_063_0",
+    "original": "全パラメータ１ＵＰ",
+    "translation": "全パラメータ１ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_064_0",
+    "original": "全パラメータ２ＵＰ",
+    "translation": "全パラメータ２ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_065_0",
+    "original": "全パラメータ３ＵＰ",
+    "translation": "全パラメータ３ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_066_0",
+    "original": "全パラメータ４ＵＰ",
+    "translation": "全パラメータ４ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_067_0",
+    "original": "全パラメータ５ＵＰ",
+    "translation": "全パラメータ５ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_068_0",
+    "original": "火炎属性の攻撃力が２５％上昇",
+    "translation": "火炎属性の攻撃力が２５％上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_069_0",
+    "original": "氷結属性の攻撃力が２５％上昇",
+    "translation": "氷結属性の攻撃力が２５％上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_070_0",
+    "original": "電撃属性の攻撃力が２５％上昇",
+    "translation": "電撃属性の攻撃力が２５％上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_071_0",
+    "original": "疾風属性の攻撃力が２５％上昇",
+    "translation": "疾風属性の攻撃力が２５％上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_072_0",
+    "original": "物理攻撃をまれに反射",
+    "translation": "物理攻撃をまれに反射",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_073_0",
+    "original": "物理攻撃をときどき反射",
+    "translation": "物理攻撃をときどき反射",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_074_0",
+    "original": "物理攻撃を頻繁に反射",
+    "translation": "物理攻撃を頻繁に反射",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_075_0",
+    "original": "状態異常・混乱に耐性",
+    "translation": "状態異常・混乱に耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_076_0",
+    "original": "状態異常・毒に耐性",
+    "translation": "状態異常・毒に耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_077_0",
+    "original": "状態異常・恐怖に耐性",
+    "translation": "状態異常・恐怖に耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_078_0",
+    "original": "状態異常・激昂に耐性",
+    "translation": "状態異常・激昂に耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_079_0",
+    "original": "状態異常・気絶に耐性",
+    "translation": "状態異常・気絶に耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_080_0",
+    "original": "状態異常・衰弱に耐性",
+    "translation": "状態異常・衰弱に耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_081_0",
+    "original": "状態異常・老化に耐性",
+    "translation": "状態異常・老化に耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_082_0",
+    "original": "状態異常・魔封に耐性",
+    "translation": "状態異常・魔封に耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_083_0",
+    "original": "戦闘開始時にタルカジャ",
+    "translation": "戦闘開始時にタルカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_084_0",
+    "original": "戦闘開始時にラクカジャ",
+    "translation": "戦闘開始時にラクカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_085_0",
+    "original": "戦闘開始時にスクカジャ",
+    "translation": "戦闘開始時にスクカジャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_086_0",
+    "original": "力１０ＵＰ",
+    "translation": "力１０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_087_0",
+    "original": "耐１０ＵＰ",
+    "translation": "耐１０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_088_0",
+    "original": "魔１０ＵＰ",
+    "translation": "魔１０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_089_0",
+    "original": "速１０ＵＰ",
+    "translation": "速１０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_090_0",
+    "original": "運１０ＵＰ",
+    "translation": "運１０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_091_0",
+    "original": "ＨＰ１００ＵＰ",
+    "translation": "ＨＰ１００ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_092_0",
+    "original": "まれに全バステ効果付着",
+    "translation": "まれに全バステ効果付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_093_0",
+    "original": "時々全バステ効果付着",
+    "translation": "時々全バステ効果付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_094_0",
+    "original": "頻繁に全バステ効果付着",
+    "translation": "頻繁に全バステ効果付着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_095_0",
+    "original": "物理ダメージを１０％減少",
+    "translation": "物理ダメージを１０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_096_0",
+    "original": "物理ダメージを２０％減少",
+    "translation": "物理ダメージを２０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_097_0",
+    "original": "物理ダメージを３０％減少",
+    "translation": "物理ダメージを３０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_098_0",
+    "original": "火炎ダメージを１０％減少",
+    "translation": "火炎ダメージを１０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_099_0",
+    "original": "火炎ダメージを２０％減少",
+    "translation": "火炎ダメージを２０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_100_0",
+    "original": "火炎ダメージを３０％減少",
+    "translation": "火炎ダメージを３０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_101_0",
+    "original": "氷結ダメージを１０％減少",
+    "translation": "氷結ダメージを１０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_102_0",
+    "original": "氷結ダメージを２０％減少",
+    "translation": "氷結ダメージを２０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_103_0",
+    "original": "氷結ダメージを３０％減少",
+    "translation": "氷結ダメージを３０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_104_0",
+    "original": "疾風ダメージを１０％減少",
+    "translation": "疾風ダメージを１０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_105_0",
+    "original": "疾風ダメージを２０％減少",
+    "translation": "疾風ダメージを２０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_106_0",
+    "original": "疾風ダメージを３０％減少",
+    "translation": "疾風ダメージを３０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_107_0",
+    "original": "電撃ダメージを１０％減少",
+    "translation": "電撃ダメージを１０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_108_0",
+    "original": "電撃ダメージを２０％減少",
+    "translation": "電撃ダメージを２０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_109_0",
+    "original": "電撃ダメージを３０％減少",
+    "translation": "電撃ダメージを３０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_110_0",
+    "original": "魔法ダメージを１０％減少",
+    "translation": "魔法ダメージを１０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_111_0",
+    "original": "魔法ダメージを２０％減少",
+    "translation": "魔法ダメージを２０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_112_0",
+    "original": "魔法ダメージを３０％減少",
+    "translation": "魔法ダメージを３０％減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_113_0",
+    "original": "スリップ率が低下",
+    "translation": "スリップ率が低下",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_114_0",
+    "original": "スリップ率がやや低下",
+    "translation": "スリップ率がやや低下",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_115_0",
+    "original": "スリップ率がかなり低下",
+    "translation": "スリップ率がかなり低下",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_116_0",
+    "original": "物理回避が上昇",
+    "translation": "物理回避が上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_117_0",
+    "original": "物理回避がやや上昇",
+    "translation": "物理回避がやや上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_118_0",
+    "original": "物理回避がかなり上昇",
+    "translation": "物理回避がかなり上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_119_0",
+    "original": "火炎回避が上昇",
+    "translation": "火炎回避が上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_120_0",
+    "original": "火炎回避がやや上昇",
+    "translation": "火炎回避がやや上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_121_0",
+    "original": "火炎回避がかなり上昇",
+    "translation": "火炎回避がかなり上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_122_0",
+    "original": "氷結回避が上昇",
+    "translation": "氷結回避が上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_123_0",
+    "original": "氷結回避がやや上昇",
+    "translation": "氷結回避がやや上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_124_0",
+    "original": "氷結回避がかなり上昇",
+    "translation": "氷結回避がかなり上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_125_0",
+    "original": "疾風回避が上昇",
+    "translation": "疾風回避が上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_126_0",
+    "original": "疾風回避がやや上昇",
+    "translation": "疾風回避がやや上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_127_0",
+    "original": "疾風回避がかなり上昇",
+    "translation": "疾風回避がかなり上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_128_0",
+    "original": "電撃回避が上昇",
+    "translation": "電撃回避が上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_129_0",
+    "original": "電撃回避がやや上昇",
+    "translation": "電撃回避がやや上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_130_0",
+    "original": "電撃回避がかなり上昇",
+    "translation": "電撃回避がかなり上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_131_0",
+    "original": "魔法回避が上昇",
+    "translation": "魔法回避が上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_132_0",
+    "original": "魔法回避がやや上昇",
+    "translation": "魔法回避がやや上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_133_0",
+    "original": "魔法回避がかなり上昇",
+    "translation": "魔法回避がかなり上昇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_134_0",
+    "original": "経験値１．５倍",
+    "translation": "経験値１．５倍",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_135_0",
+    "original": "戦闘終了時にＳＰが半減",
+    "translation": "戦闘終了時にＳＰが半減",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_136_0",
+    "original": "カリスマ",
+    "translation": "カリスマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_137_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_138_0",
+    "original": "ＳＰ１００ＵＰ",
+    "translation": "ＳＰ１００ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_139_0",
+    "original": "全パラメータ１０ＵＰ",
+    "translation": "全パラメータ１０ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_140_0",
+    "original": "ＳＰ消費量が３倍",
+    "translation": "ＳＰ消費量が３倍",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_141_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_142_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_143_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_144_0",
+    "original": "火炎耐性",
+    "translation": "火炎耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_145_0",
+    "original": "氷結耐性",
+    "translation": "氷結耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_146_0",
+    "original": "疾風耐性",
+    "translation": "疾風耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_147_0",
+    "original": "電撃耐性",
+    "translation": "電撃耐性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_148_0",
+    "original": "火炎反射",
+    "translation": "火炎反射",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_149_0",
+    "original": "氷結反射",
+    "translation": "氷結反射",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_150_0",
+    "original": "疾風反射",
+    "translation": "疾風反射",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_151_0",
+    "original": "電撃反射",
+    "translation": "電撃反射",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_152_0",
+    "original": "火炎吸収",
+    "translation": "火炎吸収",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_153_0",
+    "original": "氷結吸収",
+    "translation": "氷結吸収",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_154_0",
+    "original": "疾風吸収",
+    "translation": "疾風吸収",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_155_0",
+    "original": "電撃吸収",
+    "translation": "電撃吸収",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_156_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_157_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_158_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_159_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_160_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_161_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_162_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_163_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_164_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_165_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_166_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_167_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_168_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_169_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_170_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_171_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_172_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_173_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_174_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_175_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_176_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_177_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_178_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_179_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_180_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_181_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_182_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_183_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_184_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_185_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_186_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_187_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_188_0",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_189_0",
+    "original": "火炎属性の攻撃力ＵＰ",
+    "translation": "火炎属性の攻撃力ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_190_0",
+    "original": "氷結属性の攻撃力ＵＰ",
+    "translation": "氷結属性の攻撃力ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_191_0",
+    "original": "疾風属性の攻撃力ＵＰ",
+    "translation": "疾風属性の攻撃力ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_192_0",
+    "original": "電撃属性の攻撃力ＵＰ",
+    "translation": "電撃属性の攻撃力ＵＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_193_0",
+    "original": "火炎属性のダメージ減少",
+    "translation": "火炎属性のダメージ減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_194_0",
+    "original": "氷結属性のダメージ減少",
+    "translation": "氷結属性のダメージ減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_195_0",
+    "original": "疾風属性のダメージ減少",
+    "translation": "疾風属性のダメージ減少",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "addeffect_196_0",
+    "original": "電撃属性のダメージ減少",
+    "translation": "電撃属性のダメージ減少",
+    "stage": 1,
+    "context": ""
+  }
+]

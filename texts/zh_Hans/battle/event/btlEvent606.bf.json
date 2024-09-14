@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "弱点を突いて、チャンスを得る…\n戦いを有利に進める妙手だね。",
+    "translation": "攻击对方弱点，\n获得优势……这是让战斗朝着有利方向前进的妙招。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n瞄准弱点，制造机会……\n是让战斗变得有利的妙招呢。\n\n抓住弱点，获得机会……\n这是将战斗推进到有利位置的妙招。\n\n突破弱点，获得机会……\n这是一个有利地推进战斗的妙招。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ヘッ！　俺たち怪盗団の力、\nそんなもんじゃねーぜ？",
+    "translation": "嘿！\n我们怪盗团的力量可不只有这个程度吧？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n嘿！我们怪盗团的力量\n可不只那样哦？\n\n嘿！我们怪盗团的力量，难道不是这样的吗？\n\n\n嘿！我们怪盗团的力量，不是这样的啊～～"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "スカルの言うとおり！",
+    "translation": "就像SKULL说的那样！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n正如SKULL所说！\n\nSKULL说得对！"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "ジョーカー、チャンスがあれば\n『総攻撃』も狙っていけー！",
+    "translation": "JOKER，如果有机会，也尽可能的利用“总攻击”！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\nJOKER，有机会的话\n也可以试着发动“总攻击”！\n\nJOKER、如果有机会\n“总攻击”也瞄准——！\n\nJOKER，如果有机会\n也瞄准“总攻击”吧！"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

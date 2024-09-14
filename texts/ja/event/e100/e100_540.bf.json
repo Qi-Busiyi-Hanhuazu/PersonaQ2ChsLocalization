@@ -1,0 +1,527 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "グッ…ヴゥゥゥゥゥゥ！",
+    "translation": "グッ…ヴゥゥゥゥゥゥ！",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おい、急になんなんだよ！？",
+    "translation": "おい、急になんなんだよ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "みんな気をつけろ！",
+    "translation": "みんな気をつけろ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ひぃっ…！",
+    "translation": "ひぃっ…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ひかりさん…！",
+    "translation": "ひかりさん…！",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ヴヴ…ヴヴヴ…！",
+    "translation": "ヴヴ…ヴヴヴ…！",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "え、苦しんでる…？",
+    "translation": "え、苦しんでる…？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "まさか、攻撃してくる気か？\nだとしたら、ここではマトモに戦えない！",
+    "translation": "まさか、攻撃してくる気か？\nだとしたら、ここではマトモに戦えない！",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ヴヴヴゥゥゥ…！",
+    "translation": "ヴヴヴゥゥゥ…！",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "どうするの、[P5名]！？",
+    "translation": "どうするの、[P5名]！？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "SEL_010_0",
+    "original": "様子を見ろ",
+    "translation": "様子を見ろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_010_1",
+    "original": "身構えろ",
+    "translation": "身構えろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_010_2",
+    "original": "逃げる準備だ",
+    "translation": "逃げる準備だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ヴヴッゥヴヴヴ…！",
+    "translation": "ヴヴッゥヴヴヴ…！",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ヤバイヤバイ！",
+    "translation": "ヤバイヤバイ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ヴヴッゥヴヴヴ…！",
+    "translation": "ヴヴッゥヴヴヴ…！",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "なんとかできるか！？",
+    "translation": "なんとかできるか！？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ヴヴッゥヴヴヴ…！",
+    "translation": "ヴヴッゥヴヴヴ…！",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "に、逃げるって、どこにだ！？",
+    "translation": "に、逃げるって、どこにだ！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "あ…うぅ…",
+    "translation": "あ…うぅ…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ひかりちゃん？　大丈夫！？",
+    "translation": "ひかりちゃん？　大丈夫！？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "お、落ち着け…\n私たちもついてるぞ…！",
+    "translation": "お、落ち着け…\n私たちもついてるぞ…！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ヴヴヴヴヴヴヴヴヴヴ！\nヴヴヴヴヴヴヴヴヴヴ！",
+    "translation": "ヴヴヴヴヴヴヴヴヴヴ！\nヴヴヴヴヴヴヴヴヴヴ！",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ちょ、ちょっと！\n爆発するんじゃないの！？",
+    "translation": "ちょ、ちょっと！\n爆発するんじゃないの！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ヴヴヴヴヴ…ヴヴヴ…ヴッ！！",
+    "translation": "ヴヴヴヴヴ…ヴヴヴ…ヴッ！！",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "おさまった…の？",
+    "translation": "おさまった…の？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "おい、見てみろ。\nドーが何か落としたぞ。",
+    "translation": "おい、見てみろ。\nドーが何か落としたぞ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ぬぬっ？　アレは…！",
+    "translation": "ぬぬっ？　アレは…！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "これ…鍵？",
+    "translation": "これ…鍵？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "鍵だな。\nアイツが所持していたのか？",
+    "translation": "鍵だな。\nアイツが所持していたのか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ドー…何の鍵だ？",
+    "translation": "ドー…何の鍵だ？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ちょ、ドー！　テメェ！\nなんか言えよ！",
+    "translation": "ちょ、ドー！　テメェ！\nなんか言えよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "行っちゃったな…ま、もともと\nなに訊いても答えなかったけど。",
+    "translation": "行っちゃったな…ま、もともと\nなに訊いても答えなかったけど。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ええ…ドーとは、まともに\nコンタクトはとれませんから…",
+    "translation": "ええ…ドーとは、まともに\nコンタクトはとれませんから…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_034_1",
+    "original": "ひかりさん、もう大丈夫ですよ。",
+    "translation": "ひかりさん、もう大丈夫ですよ。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "なあ。もしかしてあの鍵って、\n出口にかかってた鎖のじゃないか？",
+    "translation": "なあ。もしかしてあの鍵って、\n出口にかかってた鎖のじゃないか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "言われてみれば、出口の鍵と\nツガイになってそうな感じがするな。",
+    "translation": "言われてみれば、出口の鍵と\nツガイになってそうな感じがするな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "でも平気かしら？\n触ったとたん、爆発したりとか…",
+    "translation": "でも平気かしら？\n触ったとたん、爆発したりとか…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "では、試してみては\nいかがでございますか？",
+    "translation": "では、試してみては\nいかがでございますか？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "わっ！？　今度は誰！？",
+    "translation": "わっ！？　今度は誰！？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "一言で言うと『青の一族』だ。\n以下略。",
+    "translation": "一言で言うと『青の一族』だ。\n以下略。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "あ、本当ね。確かに青い…",
+    "translation": "あ、本当ね。確かに青い…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_042_1",
+    "original": "ていうか、えっ？\nどうしてポップコーン！？",
+    "translation": "ていうか、えっ？\nどうしてポップコーン！？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "ああ、気になられますか？\nこれは『開店』の儀式のために誂えら…",
+    "translation": "ああ、気になられますか？\nこれは『開店』の儀式のために誂えら…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "で、如何なさいますか？",
+    "translation": "で、如何なさいますか？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_044_1",
+    "original": "こちらの鍵、試されますか？\n試されませんか？　さぁ、どっち！？",
+    "translation": "こちらの鍵、試されますか？\n試されませんか？　さぁ、どっち！？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_045_0",
+    "original": "試してみよう",
+    "translation": "試してみよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_045_1",
+    "original": "怪しい鍵だ",
+    "translation": "怪しい鍵だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_045_2",
+    "original": "罠かもしれない",
+    "translation": "罠かもしれない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "ああ、俺も賛成だ。\nやってみなければ進まない。",
+    "translation": "ああ、俺も賛成だ。\nやってみなければ進まない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "身体の中から出てきたもんね…\nちょっと怖い。",
+    "translation": "身体の中から出てきたもんね…\nちょっと怖い。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "だが他に手もない。\n試す価値はありそうだ。",
+    "translation": "だが他に手もない。\n試す価値はありそうだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "でも、ほかに手はねぇだろ。\n閉じ込められてるんだし。",
+    "translation": "でも、ほかに手はねぇだろ。\n閉じ込められてるんだし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "では早速、試してみよう。",
+    "translation": "では早速、試してみよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "そうと決まれば、\nレッツらゴーでございます。",
+    "translation": "そうと決まれば、\nレッツらゴーでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "ねえ、あの青い服の人たち…\n結局誰なの？",
+    "translation": "ねえ、あの青い服の人たち…\n結局誰なの？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "俺らもあんま分かってねえけど…\nま、歩きながら話すわ。",
+    "translation": "俺らもあんま分かってねえけど…\nま、歩きながら話すわ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_ドー",
+    "original": "ドー",
+    "translation": "ドー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  }
+]

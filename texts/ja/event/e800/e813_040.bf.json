@@ -1,0 +1,289 @@
+[
+  {
+    "key": "MSG_000_0_0",
+    "original": "テオドアのショップにやってきた…",
+    "translation": "テオドアのショップにやってきた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_3_0",
+    "original": "おや、これは皆様…\nお揃いでどうされました？",
+    "translation": "おや、これは皆様…\nお揃いでどうされました？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_000_5_0",
+    "original": "突然、申し訳ありません。\n少しお伺いしたいことがありまして。",
+    "translation": "突然、申し訳ありません。\n少しお伺いしたいことがありまして。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "なんか、いっぱい来たし…何なの？",
+    "translation": "なんか、いっぱい来たし…何なの？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "…タイミング悪かったかな？",
+    "translation": "…タイミング悪かったかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_2_0",
+    "original": "…タイミング悪かったかな？",
+    "translation": "…タイミング悪かったかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "テオドアさんの新作ポップコーンのことで\n質問があります。",
+    "translation": "テオドアさんの新作ポップコーンのことで\n質問があります。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "前に僕らが頂いてから、あのポップコーンを\n作る機会はありましたか？",
+    "translation": "前に僕らが頂いてから、あのポップコーンを\n作る機会はありましたか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "いえ、あの時に材料を切らしてしまい\nそのままですので、作っておりませんが…？",
+    "translation": "いえ、あの時に材料を切らしてしまい\nそのままですので、作っておりませんが…？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そうですか、分かりました。",
+    "translation": "そうですか、分かりました。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "では、ついでにもう一つ。\nマリーさんは何故、不機嫌なんですか？",
+    "translation": "では、ついでにもう一つ。\nマリーさんは何故、不機嫌なんですか？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_2_0",
+    "original": "ああ、それは…その…",
+    "translation": "ああ、それは…その…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "クマのせい。",
+    "translation": "クマのせい。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "えっ！？",
+    "translation": "えっ！？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "実は先ほどクマ様が\nここにいらっしゃったのですが…",
+    "translation": "実は先ほどクマ様が\nここにいらっしゃったのですが…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "新作ポップコーンを食べていた\nマリーさん目がけて突進してしまいまして。",
+    "translation": "新作ポップコーンを食べていた\nマリーさん目がけて突進してしまいまして。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "さっきと同じだ",
+    "translation": "さっきと同じだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "狙いはポップコーン？",
+    "translation": "狙いはポップコーン？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ああ、さっきの状況とよく似てるね。",
+    "translation": "ああ、さっきの状況とよく似てるね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "さっきの状況とも似てるし、\nその可能性は高いね。",
+    "translation": "さっきの状況とも似てるし、\nその可能性は高いね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "せっかく、とっておいたのに…！",
+    "translation": "せっかく、とっておいたのに…！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "里中先輩たちだけではなく、\nまさかマリーさんにまで突撃するなんて…",
+    "translation": "里中先輩たちだけではなく、\nまさかマリーさんにまで突撃するなんて…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "それで、クマくんがここへ現れたのは\nいつ頃の話なんでしょう？",
+    "translation": "それで、クマくんがここへ現れたのは\nいつ頃の話なんでしょう？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "少し前…叫び声が聞こえてくるより\nもう少し前のことだったかと。",
+    "translation": "少し前…叫び声が聞こえてくるより\nもう少し前のことだったかと。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "そういえば、その時、\n少し気になったことがありまして。",
+    "translation": "そういえば、その時、\n少し気になったことがありまして。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "気になったこと…？",
+    "translation": "気になったこと…？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "はい。クマ様はやけに\nふらふらと歩かれていました。",
+    "translation": "はい。クマ様はやけに\nふらふらと歩かれていました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "しかも、こちらが話しかけても\n終始沈黙されていたのです。",
+    "translation": "しかも、こちらが話しかけても\n終始沈黙されていたのです。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "SEL_017_0",
+    "original": "確かにヘンだ",
+    "translation": "確かにヘンだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_017_1",
+    "original": "クマが静か…？",
+    "translation": "クマが静か…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ええ、クマくんが話しかけられて\n返事すらしないというのは不自然ですね…",
+    "translation": "ええ、クマくんが話しかけられて\n返事すらしないというのは不自然ですね…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "確かに奇妙だね。\nもしかすると、クマ君は…",
+    "translation": "確かに奇妙だね。\nもしかすると、クマ君は…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "…どうやら、あなたの考えも\n僕と同じのようですね。",
+    "translation": "…どうやら、あなたの考えも\n僕と同じのようですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "その可能性を確かめるためにも、\nこれは、本人に訊いた方が早いでしょう。",
+    "translation": "その可能性を確かめるためにも、\nこれは、本人に訊いた方が早いでしょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "なら一度、着ぐるみのあった所に戻らない？\nひょっとしたら、本人も戻ってるかもよ。",
+    "translation": "なら一度、着ぐるみのあった所に戻らない？\nひょっとしたら、本人も戻ってるかもよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "賛成です。行きましょう。",
+    "translation": "賛成です。行きましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

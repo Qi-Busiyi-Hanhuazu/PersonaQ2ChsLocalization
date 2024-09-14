@@ -1,0 +1,86 @@
+[
+  {
+    "key": "OK_SEL_0",
+    "original": "ＯＫ",
+    "translation": "OK",
+    "stage": 0,
+    "context": "机翻辅助：\n\nOK\n\n确定"
+  },
+  {
+    "key": "YESNO_SEL_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_TEAM_EDIT_CANC_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_TEAM_EDIT_CANC_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_NAVI_EDIT_CANC_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_NAVI_EDIT_CANC_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_REGISTRATION_C_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_REGISTRATION_C_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "EDIT_CANCEL_0",
+    "original": "＞パーティ編成を変更しないで戻ります。\n　よろしいですか？",
+    "translation": "＞不更改队伍编辑就返回。\n　可以吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞不变更队伍编组直接返回。\n　可以吗？\n\n＞不变更队伍的编制返回。\n　可以吗？\n\n＞在不更改交易方组织的情况下返回。\n　可以吗？"
+  },
+  {
+    "key": "NAVI_EDIT_CANCEL_0",
+    "original": "＞ナビ設定を変更しないで戻ります。\n　よろしいですか？",
+    "translation": "＞不更改向导设定就返回。\n　可以吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞不变更导航设定，返回上一层。\n　可以吗？\n\n＞不变更导航设定返回。\n　可以吗？\n\n＞不更改导航设置返回。\n　可以吗？"
+  },
+  {
+    "key": "REGISTRATION_CANCEL_0",
+    "original": "＞このパーティを登録せずに\n　終了してよろしいですか？",
+    "translation": "＞不登录这个队伍\n　就这样结束，可以吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞不登录这支队伍\n　结束吗？\n\n＞不注册此队伍\n　是否确实要退出？\n\n＞不登记这个队伍\n　可以结束吗？"
+  }
+]

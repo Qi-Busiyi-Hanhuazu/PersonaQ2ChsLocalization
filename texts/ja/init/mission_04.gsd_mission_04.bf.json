@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_MATHURI_B5_BOSS_DOOR_0",
+    "original": "＞この先に張り詰めた空気を感じる…",
+    "translation": "＞この先に張り詰めた空気を感じる…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_MATHURI_B5_BOSS_DOOR_1",
+    "original": "＞どうしようか…",
+    "translation": "＞どうしようか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_MATHURI_B5_BOSS_DOOR_0",
+    "original": "先に進む",
+    "translation": "先に進む",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_MATHURI_B5_BOSS_DOOR_1",
+    "original": "今はやめておく",
+    "translation": "今はやめておく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_MATSURI_TOWNIN_VARIA_0",
+    "original": "＞校内の様子が変わっている…",
+    "translation": "＞校内の様子が変わっている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_MATSURI_TOWNIN_VARIA_1",
+    "original": "＞時計塔のせいだろうか…",
+    "translation": "＞時計塔のせいだろうか…",
+    "stage": 1,
+    "context": ""
+  }
+]

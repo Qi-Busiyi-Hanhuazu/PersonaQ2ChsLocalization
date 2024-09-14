@@ -1,0 +1,226 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ちょ、なんか\n変なロボットがいるんだけど…",
+    "translation": "ちょ、なんか\n変なロボットがいるんだけど…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そのロボットから、Ｆ．Ｏ．Ｅ反応！\nみんな、気を付けて…！",
+    "translation": "そのロボットから、Ｆ．Ｏ．Ｅ反応！\nみんな、気を付けて…！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "なるほど、あれが…",
+    "translation": "なるほど、あれが…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "なんか、聞いてたほど、\n[颜色 03]あんまり強そうじゃない[颜色 01]っスけどね？",
+    "translation": "なんか、聞いてたほど、\n[颜色 03]あんまり強そうじゃない[颜色 01]っスけどね？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "こっち見るだけで動かねーし。",
+    "translation": "こっち見るだけで動かねーし。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "見た目で判断するな、伊織。\n何があるかわからないからな。",
+    "translation": "見た目で判断するな、伊織。\n何があるかわからないからな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "へいへい、気をつけまーす。\nとりあえず、こいつは避けてっと…",
+    "translation": "へいへい、気をつけまーす。\nとりあえず、こいつは避けてっと…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あ！　み、みなさん、もう１体\n強いＦ．Ｏ．Ｅの反応があります！",
+    "translation": "あ！　み、みなさん、もう１体\n強いＦ．Ｏ．Ｅの反応があります！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "あいよー。\nで、それどこにいんの、風花？",
+    "translation": "あいよー。\nで、それどこにいんの、風花？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "これは移動してる？\n[颜色 03]段々、こっちに近づいて…[颜色 03]",
+    "translation": "これは移動してる？\n[颜色 03]段々、こっちに近づいて…[颜色 03]",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "まずいです！\n左側、すぐそば！　警戒してください！",
+    "translation": "まずいです！\n左側、すぐそば！　警戒してください！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "へー、左側ね…って…",
+    "translation": "へー、左側ね…って…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ちょわっ！？\nなんかイカツイのいるんスけど！",
+    "translation": "ちょわっ！？\nなんかイカツイのいるんスけど！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "つーかあの手、鉄拳制裁マシーンか？\nクイーンと同じ世紀末感ヤベェよ！",
+    "translation": "つーかあの手、鉄拳制裁マシーンか？\nクイーンと同じ世紀末感ヤベェよ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ちょっと、世紀末感ってどういう意味！？",
+    "translation": "ちょっと、世紀末感ってどういう意味！？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "私、あそこまでゴツくない…わよね？",
+    "translation": "私、あそこまでゴツくない…わよね？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "おい！　漫才やってる場合じゃねぇ！\n逃げねぇとヤバイぞ！？",
+    "translation": "おい！　漫才やってる場合じゃねぇ！\n逃げねぇとヤバイぞ！？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "SEL_014_0",
+    "original": "戦闘を避けて進もう",
+    "translation": "戦闘を避けて進もう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_1",
+    "original": "引き返そう",
+    "translation": "引き返そう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "了解した。\n後ろにある道へ行くとしよう…！",
+    "translation": "了解した。\n後ろにある道へ行くとしよう…！",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "待って、ジョーカー！\n引き返しても意味がないよ。",
+    "translation": "待って、ジョーカー！\n引き返しても意味がないよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "ここは、後ろの道へ進んだ方が賢明だね。",
+    "translation": "ここは、後ろの道へ進んだ方が賢明だね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "よっし、そうと決まれば…",
+    "translation": "よっし、そうと決まれば…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "逃っげろー！！",
+    "translation": "逃っげろー！！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

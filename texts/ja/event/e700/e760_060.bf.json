@@ -1,0 +1,331 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "赤い果実が実っているのが見える…",
+    "translation": "赤い果実が実っているのが見える…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ほう、ジョーカーもアレに気がついたか。\n見た目は食べられそうだが…どう思う？",
+    "translation": "ほう、ジョーカーもアレに気がついたか。\n見た目は食べられそうだが…どう思う？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "俺はいけそうだと思うんだが…\n試してみるか。",
+    "translation": "俺はいけそうだと思うんだが…\n試してみるか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ちょっと、フォックス？\n止めときなって、お腹壊すよ！？",
+    "translation": "ちょっと、フォックス？\n止めときなって、お腹壊すよ！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ダイジョーブ、安心しんしゃい！\nクマがとっくのとうに毒見済みクマ。",
+    "translation": "ダイジョーブ、安心しんしゃい！\nクマがとっくのとうに毒見済みクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "シャリシャリしてて、果汁がじゅわわ～…\nグルメなクマも納得のお味！",
+    "translation": "シャリシャリしてて、果汁がじゅわわ～…\nグルメなクマも納得のお味！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_003_1_0",
+    "original": "ちゅーことで、おかわりしちゃいまクマ。",
+    "translation": "ちゅーことで、おかわりしちゃいまクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ぬっ！？\n待て、俺の分も残しておけ！",
+    "translation": "ぬっ！？\n待て、俺の分も残しておけ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "って、ああもう！\nジョーカーからも言ってやってよ！",
+    "translation": "って、ああもう！\nジョーカーからも言ってやってよ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "食べていいぞ",
+    "translation": "食べていいぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "おいやめろ",
+    "translation": "おいやめろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_2",
+    "original": "いただきます",
+    "translation": "いただきます",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "オッケーしちゃうの！？",
+    "translation": "オッケーしちゃうの！？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_007_1_0",
+    "original": "遅効性の毒だってあるんだから、いくら\nクマくんが毒見済みだからって安心は…",
+    "translation": "遅効性の毒だってあるんだから、いくら\nクマくんが毒見済みだからって安心は…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "そうよ。君子危うきに近寄らず、って言うし\n手を出さないほうが…",
+    "translation": "そうよ。君子危うきに近寄らず、って言うし\n手を出さないほうが…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ハァ…\nジョーカーまでなに言ってるの。",
+    "translation": "ハァ…\nジョーカーまでなに言ってるの。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_009_1_0",
+    "original": "得体の知れないものを、安易に\n口にしようとするのは危険だわ。",
+    "translation": "得体の知れないものを、安易に\n口にしようとするのは危険だわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_009_1_1",
+    "original": "遅効性の毒っていう可能性もあるんだし、\nリーダーとしてもう少し危機感を…",
+    "translation": "遅効性の毒っていう可能性もあるんだし、\nリーダーとしてもう少し危機感を…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "うむ…なかなかの味だった。",
+    "translation": "うむ…なかなかの味だった。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "って、ウソ！？\nもう食べちゃったの？",
+    "translation": "って、ウソ！？\nもう食べちゃったの？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "さっぱりとした酸味の中に、蜜のような\n濃厚な甘さが広がる…星３つだ！",
+    "translation": "さっぱりとした酸味の中に、蜜のような\n濃厚な甘さが広がる…星３つだ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "だから言ったでしょー？\nほらほら、みんなも食べんしゃい！",
+    "translation": "だから言ったでしょー？\nほらほら、みんなも食べんしゃい！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_013_1_0",
+    "original": "…って、ンゴォッ！？",
+    "translation": "…って、ンゴォッ！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_013_2_0",
+    "original": "アタタ、アターッ！\nぽんぽんが、あたたたたクマー！",
+    "translation": "アタタ、アターッ！\nぽんぽんが、あたたたたクマー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ぐ…こ、これは…腹が…！",
+    "translation": "ぐ…こ、これは…腹が…！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ちょっと、だから言ったじゃん！\nすぐに吐き出さないと…",
+    "translation": "ちょっと、だから言ったじゃん！\nすぐに吐き出さないと…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "んぐおおお…\nだんだん…お花畑が見えてきたクマ…",
+    "translation": "んぐおおお…\nだんだん…お花畑が見えてきたクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "俺も…高級寿司の山が見えてきたぞ…\nここが天国か…",
+    "translation": "俺も…高級寿司の山が見えてきたぞ…\nここが天国か…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "二人ともしっかりしろ！\nすぐに戻って、マーガレットに解毒を…！",
+    "translation": "二人ともしっかりしろ！\nすぐに戻って、マーガレットに解毒を…！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "…およ？\nだんだん眼がサエてきたクマ…？",
+    "translation": "…およ？\nだんだん眼がサエてきたクマ…？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "…ん？\n俺も頭が妙にスッキリしてきたぞ。",
+    "translation": "…ん？\n俺も頭が妙にスッキリしてきたぞ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "まるで、体の内側から生まれ変わるような…\nこれは一体、なんだ？",
+    "translation": "まるで、体の内側から生まれ変わるような…\nこれは一体、なんだ？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_DAMAGE_KUMA_0",
+    "original": "クマのＨＰが少し減少した！",
+    "translation": "クマのＨＰが少し減少した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_DAMAGE_YUSUKE_0",
+    "original": "祐介のＨＰが少し減少した！",
+    "translation": "祐介のＨＰが少し減少した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_CURE_SP_0",
+    "original": "祐介とクマのＳＰが\n少し回復した！",
+    "translation": "祐介とクマのＳＰが\n少し回復した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "なるほど。\n覚醒効果のある実だったようだね。",
+    "translation": "なるほど。\n覚醒効果のある実だったようだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "けれど、口にするのは危険みたいだ。\n副作用もあるようだし。",
+    "translation": "けれど、口にするのは危険みたいだ。\n副作用もあるようだし。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "うむ。空腹よりマシとはいえ、\nこの腹の痛みは辛いものがある…",
+    "translation": "うむ。空腹よりマシとはいえ、\nこの腹の痛みは辛いものがある…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_022_1_0",
+    "original": "しかし、あのスッキリ感はクセになる。\nどれ、もうひとつ…",
+    "translation": "しかし、あのスッキリ感はクセになる。\nどれ、もうひとつ…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "止めなさい！",
+    "translation": "止めなさい！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "ハァ…これ以上ここにいたら危険だわ。\n行きましょう、ジョーカー。",
+    "translation": "ハァ…これ以上ここにいたら危険だわ。\n行きましょう、ジョーカー。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

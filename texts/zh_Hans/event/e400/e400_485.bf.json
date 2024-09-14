@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ひかり、出ておいで。",
+    "translation": "光，出来吧。",
+    "stage": 0,
+    "context": "说话人：落ち着いた男性の声\n\n机翻辅助：\n\n光，出来吧。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "…………。",
+    "translation": "……",
+    "stage": 1,
+    "context": "说话人：うつろな目の少女"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ひかりが欲しいと言ってたノート、\n買ってきたよ。",
+    "translation": "光想要的笔记本，\n我买回来了。",
+    "stage": 1,
+    "context": "说话人：落ち着いた男性の声\n\n机翻辅助：\n\n光说想要的笔记本，\n我买来了。\n\n说想要光的笔记本，我买来了。\n\n\n你说想要光的笔记本，我买回来了。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "…………。",
+    "translation": "……",
+    "stage": 1,
+    "context": "说话人：うつろな目の少女"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ひかり、どうして出てこないんだい？",
+    "translation": "光，你为什么不出来？",
+    "stage": 1,
+    "context": "说话人：落ち着いた男性の声\n\n机翻辅助：\n\n光，你怎么不出来？\n\n光，为什么不出来呢？\n\n光，为什么不出来？"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ふぅ……",
+    "translation": "唔……",
+    "stage": 1,
+    "context": "说话人：落ち着いた男性の声\n\n机翻辅助：\n\n呼……\n\n嗯……"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "どうしてお前はそうなんだ？",
+    "translation": "为什么你非要这样呢？",
+    "stage": 1,
+    "context": "说话人：落ち着いた男性の声\n\n机翻辅助：\n\n为什么你要这样？\n\n为什么你会这样？"
+  },
+  {
+    "key": "speaker_落ち着いた男性の声",
+    "original": "落ち着いた男性の声",
+    "translation": "沉稳的男性声音",
+    "stage": 0,
+    "context": "机翻辅助：\n\n沉稳的男性声音\n\n沉着的男性的声音\n\n男人沉稳的声音"
+  },
+  {
+    "key": "speaker_うつろな目の少女",
+    "original": "うつろな目の少女",
+    "translation": "眼神空洞的少女",
+    "stage": 0,
+    "context": "机翻辅助：\n\n眼神空洞的少女\n\n眼神呆滞的少女"
+  }
+]

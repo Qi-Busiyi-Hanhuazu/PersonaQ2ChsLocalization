@@ -1,0 +1,513 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "グゥ…な、なぜ…",
+    "translation": "グゥ…な、なぜ…",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "絶対正義、カモシダーマン様が…",
+    "translation": "絶対正義、カモシダーマン様が…",
+    "stage": 1,
+    "context": "動揺する男性市民"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "もしかして、正義じゃなかった…？",
+    "translation": "もしかして、正義じゃなかった…？",
+    "stage": 1,
+    "context": "動揺する女性市民"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "でも、なんか…心がスカッとした。",
+    "translation": "でも、なんか…心がスカッとした。",
+    "stage": 1,
+    "context": "目の覚めた男性市民"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "もう、自分の思うことを言っても\n罰せられないの…？",
+    "translation": "もう、自分の思うことを言っても\n罰せられないの…？",
+    "stage": 1,
+    "context": "目の覚めた女性市民"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "カモシダーマンのこと、\n誰も心配してないな。",
+    "translation": "カモシダーマンのこと、\n誰も心配してないな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "哀れだ…",
+    "translation": "哀れだ…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ウゥ…私の正義は…ウゥ…",
+    "translation": "ウゥ…私の正義は…ウゥ…",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "もう…この街には不要、なのか…",
+    "translation": "もう…この街には不要、なのか…",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "アイツ、最後まで自分のこと\n正義だと言ってたな。",
+    "translation": "アイツ、最後まで自分のこと\n正義だと言ってたな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ひょっとして…悪意なんてなくて、\n本当にあれが良いことだと思ってたのかな？",
+    "translation": "ひょっとして…悪意なんてなくて、\n本当にあれが良いことだと思ってたのかな？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "大勢の人を導くために、統率者は必要だが…\nあんなやり方は、ただの独裁だ。",
+    "translation": "大勢の人を導くために、統率者は必要だが…\nあんなやり方は、ただの独裁だ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ああ、権力で無理やり従わせたって、\n誰のためにもなんねーよ。",
+    "translation": "ああ、権力で無理やり従わせたって、\n誰のためにもなんねーよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "無実の人間を見せしめで処刑なんて、\nもってのほかだろ。",
+    "translation": "無実の人間を見せしめで処刑なんて、\nもってのほかだろ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ともかく、これでひとまず解決だな。\nこの世界でもいい感じだぜ、ジョーカー。",
+    "translation": "ともかく、これでひとまず解決だな。\nこの世界でもいい感じだぜ、ジョーカー。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_013_0",
+    "original": "余裕だ",
+    "translation": "余裕だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_013_1",
+    "original": "苦しい戦いだった",
+    "translation": "苦しい戦いだった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_013_2",
+    "original": "腹が減った",
+    "translation": "腹が減った",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "さっすが、怪盗団のリーダーだね！",
+    "translation": "さっすが、怪盗団のリーダーだね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "頼もしいな。\nその調子で脱出を目指そうぜ！",
+    "translation": "頼もしいな。\nその調子で脱出を目指そうぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "でも、バッチリだったね！",
+    "translation": "でも、バッチリだったね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "それでも正義は勝つってとこだな！",
+    "translation": "それでも正義は勝つってとこだな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "はいはい、私も！　腹減ったー！",
+    "translation": "はいはい、私も！　腹減ったー！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "オマエら、食い気かよ…\nしかしその余裕、さすがだな！",
+    "translation": "オマエら、食い気かよ…\nしかしその余裕、さすがだな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "それにしても、すごかったね、\nカモシダーマンの像を盗んだ作戦。",
+    "translation": "それにしても、すごかったね、\nカモシダーマンの像を盗んだ作戦。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "どうやったの？",
+    "translation": "どうやったの？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ああ…あれね。",
+    "translation": "ああ…あれね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "まずは、本物そっくりの書き割りを、\nフォックスに用意してもらった。",
+    "translation": "まずは、本物そっくりの書き割りを、\nフォックスに用意してもらった。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "いわば贋作だ。",
+    "translation": "いわば贋作だ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "その後ろで、こっそり本物の像に\n風船をつけて飛ばしたのさ。",
+    "translation": "その後ろで、こっそり本物の像に\n風船をつけて飛ばしたのさ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "バレねぇように、真っ暗にしたり、\n工作してな。",
+    "translation": "バレねぇように、真っ暗にしたり、\n工作してな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "でも、飛ぶほど軽いなんて…\nあれで大丈夫だったの？",
+    "translation": "でも、飛ぶほど軽いなんて…\nあれで大丈夫だったの？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "最初に戦った時、\n像がハリボテだって分かったからね。",
+    "translation": "最初に戦った時、\n像がハリボテだって分かったからね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "だからヤツは疑いもせず、\n焦ってビビったってわけ。",
+    "translation": "だからヤツは疑いもせず、\n焦ってビビったってわけ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "なるほど…\nまたずいぶんと大胆な案ね。",
+    "translation": "なるほど…\nまたずいぶんと大胆な案ね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "みんなスゲエ乗り気でさ。\n[P3P姓]とか、な？",
+    "translation": "みんなスゲエ乗り気でさ。\n[P3P姓]とか、な？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "えっと…",
+    "translation": "えっと…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "紹介がまだだったな。\nこの世界で出会ったペルソナ使いだ。",
+    "translation": "紹介がまだだったな。\nこの世界で出会ったペルソナ使いだ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "[P3P全]です。よろしくね！",
+    "translation": "[P3P全]です。よろしくね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "ペルソナ使い…なの？",
+    "translation": "ペルソナ使い…なの？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "うん、みんなもそうなんだよね？\n聞いてビックリした。",
+    "translation": "うん、みんなもそうなんだよね？\n聞いてビックリした。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_036_1",
+    "original": "みんなとは違うところから\n来たみたいだけど…",
+    "translation": "みんなとは違うところから\n来たみたいだけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "…この世界のことも含めて、\n理解が追いつかない…",
+    "translation": "…この世界のことも含めて、\n理解が追いつかない…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_037_1",
+    "original": "少し整理したいわ…",
+    "translation": "少し整理したいわ…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "そーだな。\n映画館から出る方法も調べねぇと。",
+    "translation": "そーだな。\n映画館から出る方法も調べねぇと。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "映画館？？",
+    "translation": "映画館？？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "百聞は一見にしかずだ。\n見せたほうが早い。",
+    "translation": "百聞は一見にしかずだ。\n見せたほうが早い。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "パンサー、どうした？",
+    "translation": "パンサー、どうした？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "いや…カモシダーマンの正体、\nどうしてウサギだったのかなって思って。",
+    "translation": "いや…カモシダーマンの正体、\nどうしてウサギだったのかなって思って。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_044_0",
+    "original": "ウサギが好きだから",
+    "translation": "ウサギが好きだから",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_044_1",
+    "original": "寂しがりやだから",
+    "translation": "寂しがりやだから",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_044_2",
+    "original": "変態だから",
+    "translation": "変態だから",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "そんな理由？",
+    "translation": "そんな理由？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "えっ、そうは見えなかったけど…",
+    "translation": "えっ、そうは見えなかったけど…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "なるほど…\nウサギは性欲が強いというな。",
+    "translation": "なるほど…\nウサギは性欲が強いというな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "うわ…ちょっと、やめてよ。",
+    "translation": "うわ…ちょっと、やめてよ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "今、ここで推理しても結論は出なそうだ。\n映画館に戻るとしよう。",
+    "translation": "今、ここで推理しても結論は出なそうだ。\n映画館に戻るとしよう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "とりあえずお前ら、\nいったんこっち帰って来い！",
+    "translation": "とりあえずお前ら、\nいったんこっち帰って来い！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_カモシダーマン",
+    "original": "カモシダーマン",
+    "translation": "カモシダーマン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_動揺する男性市民",
+    "original": "動揺する男性市民",
+    "translation": "動揺する男性市民",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_動揺する女性市民",
+    "original": "動揺する女性市民",
+    "translation": "動揺する女性市民",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_目の覚めた男性市民",
+    "original": "目の覚めた男性市民",
+    "translation": "目の覚めた男性市民",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_目の覚めた女性市民",
+    "original": "目の覚めた女性市民",
+    "translation": "目の覚めた女性市民",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

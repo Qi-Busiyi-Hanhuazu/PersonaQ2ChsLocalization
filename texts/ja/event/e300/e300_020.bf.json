@@ -1,0 +1,576 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "……！",
+    "translation": "……！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おお…\nまた、ガラッと雰囲気が変わったな。",
+    "translation": "おお…\nまた、ガラッと雰囲気が変わったな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "次はＳＦ映画のようですね。\n予告は、かなり後味が悪いですが…",
+    "translation": "次はＳＦ映画のようですね。\n予告は、かなり後味が悪いですが…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "人と違うのは悪、ってか？\nんなの、クソくらえだろ。",
+    "translation": "人と違うのは悪、ってか？\nんなの、クソくらえだろ。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "個性が、許されざる罪、か…",
+    "translation": "個性が、許されざる罪、か…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "どうした？",
+    "translation": "どうした？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "双葉…？",
+    "translation": "双葉…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "う、ううん…なんでもない。",
+    "translation": "う、ううん…なんでもない。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ねぇ、ひかりさん。\n今回の映画、どう思ったかしら？",
+    "translation": "ねぇ、ひかりさん。\n今回の映画、どう思ったかしら？",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あのロボットは…\nみんなと違うから、迫害されてる…",
+    "translation": "あのロボットは…\nみんなと違うから、迫害されてる…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "みんなと同じになれば…辛い思いは、\nしなくて済むんじゃないかな…",
+    "translation": "みんなと同じになれば…辛い思いは、\nしなくて済むんじゃないかな…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "えっ…\nほんとに、そう思うのか！？",
+    "translation": "えっ…\nほんとに、そう思うのか！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "オヨヨ…\nみんな、同じじゃなきゃいけないクマ？",
+    "translation": "オヨヨ…\nみんな、同じじゃなきゃいけないクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "じゃあクマは、どうしてクマとして\n存在してるクマ…？",
+    "translation": "じゃあクマは、どうしてクマとして\n存在してるクマ…？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "クマ…",
+    "translation": "クマ…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "センセイやヨースケたちはみんな違うけど、\nクマ、みんなのこと、それぞれ好きだから…",
+    "translation": "センセイやヨースケたちはみんな違うけど、\nクマ、みんなのこと、それぞれ好きだから…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "だから、せっかくみんなが好きなのに、\n同じでもいいなんて…悲しいクマ…",
+    "translation": "だから、せっかくみんなが好きなのに、\n同じでもいいなんて…悲しいクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "そうだな。\nクマはクマ、俺は俺だ。",
+    "translation": "そうだな。\nクマはクマ、俺は俺だ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "わ、私は…",
+    "translation": "わ、私は…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "他人と違う個性なんて、無い方がいい…\nはみ出さずに…普通でいなきゃ、ダメ…",
+    "translation": "他人と違う個性なんて、無い方がいい…\nはみ出さずに…普通でいなきゃ、ダメ…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_015_2",
+    "original": "ずっと、そう思ってた…今まで。",
+    "translation": "ずっと、そう思ってた…今まで。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "…今まで？",
+    "translation": "…今まで？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "みんなのこと、見てたら…\nそうじゃないのかもしれないって…",
+    "translation": "みんなのこと、見てたら…\nそうじゃないのかもしれないって…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "でも、よく分からない…\nよく分からなくなってるの、私…",
+    "translation": "でも、よく分からない…\nよく分からなくなってるの、私…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "そっか…",
+    "translation": "そっか…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "…よーし！　映画の中に行こ！",
+    "translation": "…よーし！　映画の中に行こ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "映画を変えれば脱出も近づくんだし！\nこんなヤな話、さっさと変えちゃおう！",
+    "translation": "映画を変えれば脱出も近づくんだし！\nこんなヤな話、さっさと変えちゃおう！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "だな！　違う結末になったら、ひかりの\nモヤモヤも晴れるかもしんねーし。",
+    "translation": "だな！　違う結末になったら、ひかりの\nモヤモヤも晴れるかもしんねーし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "待って！\nその前に、聞いてほしいことがあるの。",
+    "translation": "待って！\nその前に、聞いてほしいことがあるの。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "映画に出てきたロボット、見覚えがある。\nそれに映画のタイトルも…",
+    "translation": "映画に出てきたロボット、見覚えがある。\nそれに映画のタイトルも…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "どういうことだ？",
+    "translation": "どういうことだ？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "リボンが付いたロボット、\n『アイギス』っていう私の仲間に似てるの。",
+    "translation": "リボンが付いたロボット、\n『アイギス』っていう私の仲間に似てるの。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_024_0",
+    "original": "映画のタイトルと似てる",
+    "translation": "映画のタイトルと似てる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_1",
+    "original": "ロボットが仲間？",
+    "translation": "ロボットが仲間？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "映画は『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』と書いて、\n『エーアイギス』だったよね？",
+    "translation": "映画は『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』と書いて、\n『エーアイギス』だったよね？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "『ＡＩ』は人工知能っていう意味だけど、\n『ＧＩＳ』ってついてたのは…",
+    "translation": "『ＡＩ』は人工知能っていう意味だけど、\n『ＧＩＳ』ってついてたのは…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "うん、アイギスのつづりは『Ａｅｇｉｓ』。\n無関係とは思えない。",
+    "translation": "うん、アイギスのつづりは『Ａｅｇｉｓ』。\n無関係とは思えない。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "それより、仲間にロボットがいるクマ！？\nオドロキクマ…",
+    "translation": "それより、仲間にロボットがいるクマ！？\nオドロキクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ああ、不思議なこともあるもんだぜ。",
+    "translation": "ああ、不思議なこともあるもんだぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "お前ら、ツッコミ待ちか？",
+    "translation": "お前ら、ツッコミ待ちか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "仲間にロボットがいるなんて、\nオドロキクマ…",
+    "translation": "仲間にロボットがいるなんて、\nオドロキクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ああ、不思議なこともあるもんだぜ。",
+    "translation": "ああ、不思議なこともあるもんだぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "お前ら、ツッコミ待ちか？",
+    "translation": "お前ら、ツッコミ待ちか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "映画は『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』と書いて、\n『エーアイギス』だったよね？",
+    "translation": "映画は『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』と書いて、\n『エーアイギス』だったよね？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "『ＡＩ』は人工知能っていう意味だけど、\n『ＧＩＳ』ってついてたのは…",
+    "translation": "『ＡＩ』は人工知能っていう意味だけど、\n『ＧＩＳ』ってついてたのは…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "うん、アイギスのつづりは『Ａｅｇｉｓ』。\n無関係とは思えない。",
+    "translation": "うん、アイギスのつづりは『Ａｅｇｉｓ』。\n無関係とは思えない。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "アイギスはロボットだけど、\n私たちは特別に考えたりはしてないんだ。",
+    "translation": "アイギスはロボットだけど、\n私たちは特別に考えたりはしてないんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "アイギスは『個』を持ってるし、\n自分の考えもある。大切な仲間なの。",
+    "translation": "アイギスは『個』を持ってるし、\n自分の考えもある。大切な仲間なの。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "個…仲間…",
+    "translation": "個…仲間…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "つまり、今回の映画…また知っている者が\nキャスティングされたわけだね。",
+    "translation": "つまり、今回の映画…また知っている者が\nキャスティングされたわけだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "ですね。カモシダーマンの世界に…\nヨウスケサウルスの世界。",
+    "translation": "ですね。カモシダーマンの世界に…\nヨウスケサウルスの世界。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_038_1",
+    "original": "予告で流れたＳＦ世界も、\nまた同じということでしょう。",
+    "translation": "予告で流れたＳＦ世界も、\nまた同じということでしょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "てことは、今度こそ[P3P名]ちゃんの\n仲間がいるんじゃない？",
+    "translation": "てことは、今度こそ[P3P名]ちゃんの\n仲間がいるんじゃない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "やっぱり、そうだよね！？\n早くみんなを迎えに行かなきゃ！",
+    "translation": "やっぱり、そうだよね！？\n早くみんなを迎えに行かなきゃ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "また、映画の中へ行かれるのね…",
+    "translation": "また、映画の中へ行かれるのね…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_041_1",
+    "original": "危険を感じた時は、\nすぐにここへ戻ってきてくださいね。",
+    "translation": "危険を感じた時は、\nすぐにここへ戻ってきてくださいね。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "はい、いってきます！",
+    "translation": "はい、いってきます！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "…テオ。あなたのお客人は、\n仲間に会うことを切望しています。",
+    "translation": "…テオ。あなたのお客人は、\n仲間に会うことを切望しています。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_043_1",
+    "original": "こういう時は…もぐもぐ。\nどうするのが良いと思われますか？",
+    "translation": "こういう時は…もぐもぐ。\nどうするのが良いと思われますか？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "見守るしかないでしょう。\n我々にはそれしか…",
+    "translation": "見守るしかないでしょう。\n我々にはそれしか…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "では…もぐもぐ。ポップコーンを片手に\n鑑賞しましょう…もぐもぐ。",
+    "translation": "では…もぐもぐ。ポップコーンを片手に\n鑑賞しましょう…もぐもぐ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "姉上…食べるか、喋るか。\nどちらかになさってください。",
+    "translation": "姉上…食べるか、喋るか。\nどちらかになさってください。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "みんな…無事に帰ってきてね…",
+    "translation": "みんな…無事に帰ってきてね…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  }
+]

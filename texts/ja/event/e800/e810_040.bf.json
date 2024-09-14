@@ -1,0 +1,464 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "採れたな、これでバッチリじゃね？",
+    "translation": "採れたな、これでバッチリじゃね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "さっきのに負けず劣らず\nまるまる太ったエサだぜ…",
+    "translation": "さっきのに負けず劣らず\nまるまる太ったエサだぜ…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "……！",
+    "translation": "……！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "足元に大きなミミズがいる…\nこれも捕まえておこうか…",
+    "translation": "足元に大きなミミズがいる…\nこれも捕まえておこうか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あ…",
+    "translation": "あ…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "すまない、君の方が先に見つけたようだ。",
+    "translation": "すまない、君の方が先に見つけたようだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "いただこう",
+    "translation": "いただこう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "どうぞ",
+    "translation": "どうぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ハハ、ここで譲り合っても仕方ないな。",
+    "translation": "ハハ、ここで譲り合っても仕方ないな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "そう言えば、君とこうして二人で話すのは\nはじめてか…ちょっと不思議な感じだ。",
+    "translation": "そう言えば、君とこうして二人で話すのは\nはじめてか…ちょっと不思議な感じだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "そうだな",
+    "translation": "そうだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "はじめての気がしない",
+    "translation": "はじめての気がしない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "何故だろう？\n同じペルソナ使いのリーダーだからか…",
+    "translation": "何故だろう？\n同じペルソナ使いのリーダーだからか…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "大漁っスね。\nあとは古代魚を釣りまくるだけって…",
+    "translation": "大漁っスね。\nあとは古代魚を釣りまくるだけって…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "先輩たち、何ガンつけあってんスか！？",
+    "translation": "先輩たち、何ガンつけあってんスか！？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "熱く見つめ合う二人…\n世に言うこれは…",
+    "translation": "熱く見つめ合う二人…\n世に言うこれは…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "SEL_010_0",
+    "original": "サードアイか",
+    "translation": "サードアイか",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_010_1",
+    "original": "タイマンだ",
+    "translation": "タイマンだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_010_2",
+    "original": "恋かも",
+    "translation": "恋かも",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "それ出来んのお前だけだろ。",
+    "translation": "それ出来んのお前だけだろ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "にらみ合って、なんだ？\nまさか、初対面の時の決着とか？",
+    "translation": "にらみ合って、なんだ？\nまさか、初対面の時の決着とか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "マジか！？\n初対面の時の決着でもつけんのか？",
+    "translation": "マジか！？\n初対面の時の決着でもつけんのか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "この胸の高鳴り…\nまさか、そうだったのか？",
+    "translation": "この胸の高鳴り…\nまさか、そうだったのか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "いや、お前も乗るなよ。",
+    "translation": "いや、お前も乗るなよ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "リーダー同士、何か話そうと思ったんだが、\nいざとなると言葉が出てこなくてな。",
+    "translation": "リーダー同士、何か話そうと思ったんだが、\nいざとなると言葉が出てこなくてな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "へえ、先輩にしちゃ珍しいっスね。",
+    "translation": "へえ、先輩にしちゃ珍しいっスね。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ひょっとしたら、通じ合う部分が多い\nからこそ、言葉が要らないのかもしれません。",
+    "translation": "ひょっとしたら、通じ合う部分が多い\nからこそ、言葉が要らないのかもしれません。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "たしかに、二人ってなんか似てるかも。",
+    "translation": "たしかに、二人ってなんか似てるかも。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "似てる？\nジョーカー、君はどう思う？",
+    "translation": "似てる？\nジョーカー、君はどう思う？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_020_0",
+    "original": "似てるかも",
+    "translation": "似てるかも",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_020_1",
+    "original": "似てない",
+    "translation": "似てない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_020_2",
+    "original": "兄さん…",
+    "translation": "兄さん…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ほう…",
+    "translation": "ほう…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "だな。",
+    "translation": "だな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "いや、だからそういうトコだって。",
+    "translation": "いや、だからそういうトコだって。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "お、弟よ…！",
+    "translation": "お、弟よ…！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ストーップ！　センセイにはすでに\n唯一無二のぷりちーな妹がいるクマ！",
+    "translation": "ストーップ！　センセイにはすでに\n唯一無二のぷりちーな妹がいるクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ま、このマイペースさは確かに\n似てるかもな。",
+    "translation": "ま、このマイペースさは確かに\n似てるかもな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "あと、二人ともメガネが似合うし！",
+    "translation": "あと、二人ともメガネが似合うし！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "釣り好きなのも一緒クマ！",
+    "translation": "釣り好きなのも一緒クマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "釣り…",
+    "translation": "釣り…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "ああ、そうだった。\n俺たちも、特大のミミズを見つけたんだ。",
+    "translation": "ああ、そうだった。\n俺たちも、特大のミミズを見つけたんだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ギョエエエ！",
+    "translation": "ギョエエエ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "わあ、すごい。\nこれなら大物間違いなしだよ！",
+    "translation": "わあ、すごい。\nこれなら大物間違いなしだよ！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "餌も揃ったことだし、\nさあ、古代魚を釣りに行こう。",
+    "translation": "餌も揃ったことだし、\nさあ、古代魚を釣りに行こう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_033_0",
+    "original": "行くぞ",
+    "translation": "行くぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_033_1",
+    "original": "絶対に釣ろう",
+    "translation": "絶対に釣ろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "へっ、大物は俺たちでイタダキだな、\nジョーカー！",
+    "translation": "へっ、大物は俺たちでイタダキだな、\nジョーカー！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "古代魚だろうがなんだろうが、\n先輩から逃げられると思うなよ！",
+    "translation": "古代魚だろうがなんだろうが、\n先輩から逃げられると思うなよ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "…こういう所なんじゃないかな？",
+    "translation": "…こういう所なんじゃないかな？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "天城さん、どうかしたか？",
+    "translation": "天城さん、どうかしたか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "ううん。古代魚楽しみだね。\n折角だし、活け造りとかにしたいかも。",
+    "translation": "ううん。古代魚楽しみだね。\n折角だし、活け造りとかにしたいかも。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "活け造り…美的にも食欲的にも\nそそられる甘美な響きだ。",
+    "translation": "活け造り…美的にも食欲的にも\nそそられる甘美な響きだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_039_1",
+    "original": "こうしてはいられん。\nさあ、水場へ急ぐぞ！",
+    "translation": "こうしてはいられん。\nさあ、水場へ急ぐぞ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

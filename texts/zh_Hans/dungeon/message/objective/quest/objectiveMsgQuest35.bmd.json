@@ -1,0 +1,16 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "迷宮に隠された謎を探せ！",
+    "translation": "寻找隐藏在迷宫中的谜题！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n寻找隐藏在迷宫中的谜题！\n\n寻找迷宫中隐藏的谜团！\n\n寻找隐藏在迷宫中的谜团！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "変化した場所を探し回ろう",
+    "translation": "在变化的地点四处探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在变化的地点四处走动\n\n寻找变化的地方"
+  }
+]

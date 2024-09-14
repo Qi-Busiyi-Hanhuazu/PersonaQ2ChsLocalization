@@ -1,0 +1,107 @@
+[
+  {
+    "key": "text_000_0",
+    "original": "決定",
+    "translation": "确定",
+    "stage": 0,
+    "context": "机翻辅助：\n\n确定"
+  },
+  {
+    "key": "text_001_0",
+    "original": "ＢＧＭ音量",
+    "translation": "BGM音量",
+    "stage": 0,
+    "context": "机翻辅助：\n\nBGM音量"
+  },
+  {
+    "key": "text_002_0",
+    "original": "ＳＥ音量",
+    "translation": "SE音量",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSE音量"
+  },
+  {
+    "key": "text_003_0",
+    "original": "セリフ音声音量",
+    "translation": "语音音量",
+    "stage": 0,
+    "context": "机翻辅助：\n\n语音音量\n\n台词声音音量\n\n台词音量"
+  },
+  {
+    "key": "text_004_0",
+    "original": "自動ページ送り",
+    "translation": "自动翻页",
+    "stage": 0,
+    "context": "机翻辅助：\n\n自动翻页\n\n自动进页\n\n自动页面发送"
+  },
+  {
+    "key": "text_005_0",
+    "original": "カーソル位置記憶",
+    "translation": "记忆光标位置",
+    "stage": 0,
+    "context": "机翻辅助：\n\n记忆光标位置\n\n光标位置存储"
+  },
+  {
+    "key": "text_006_0",
+    "original": "カメラ上下反転",
+    "translation": "镜头上下反转",
+    "stage": 1,
+    "context": "机翻辅助：\n\n镜头上下颠倒\n\n相机上下翻转"
+  },
+  {
+    "key": "text_007_0",
+    "original": "カメラ左右反転",
+    "translation": "镜头左右反转",
+    "stage": 1,
+    "context": "机翻辅助：\n\n镜头左右颠倒\n\n相机左右翻转\n\n相机左右反转"
+  },
+  {
+    "key": "text_008_0",
+    "original": "オートマップ",
+    "translation": "自动地图",
+    "stage": 0,
+    "context": "机翻辅助：\n\n自动地图"
+  },
+  {
+    "key": "text_009_0",
+    "original": "ＧＵＩＤＥ表示",
+    "translation": "显示GUIDE",
+    "stage": 0,
+    "context": "机翻辅助：\n\n显示GUIDE\n\nGUIDE显示"
+  },
+  {
+    "key": "text_010_0",
+    "original": "隊列固定",
+    "translation": "队列固定",
+    "stage": 0,
+    "context": "机翻辅助：\n\n队列固定\n\n队伍固定"
+  },
+  {
+    "key": "text_011_0",
+    "original": "デフォルト移動",
+    "translation": "默认移动",
+    "stage": 0,
+    "context": "机翻辅助：\n\n默认移动"
+  },
+  {
+    "key": "text_012_0",
+    "original": "戦闘速度",
+    "translation": "战斗速度",
+    "stage": 0,
+    "context": "机翻辅助：\n\n战斗速度"
+  },
+  {
+    "key": "text_013_0",
+    "original": "難易度",
+    "translation": "难易度",
+    "stage": 0,
+    "context": "机翻辅助：\n\n难易度"
+  },
+  {
+    "key": "text_014_0",
+    "original": "データ削除",
+    "translation": "删除档案",
+    "stage": 0,
+    "context": "机翻辅助：\n\n删除档案\n\n删除数据"
+  }
+]

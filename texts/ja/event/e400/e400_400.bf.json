@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ひかり、ダメじゃないか…\nみんなに心配かけちゃ。",
+    "translation": "ひかり、ダメじゃないか…\nみんなに心配かけちゃ。",
+    "stage": 1,
+    "context": "黒縁メガネの男性"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "うつろな目の少女"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "みんな、ひかりに厳しく言ってるように\n聞こえるかもしれないけどね。",
+    "translation": "みんな、ひかりに厳しく言ってるように\n聞こえるかもしれないけどね。",
+    "stage": 1,
+    "context": "黒縁メガネの男性"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "それは、ひかりのためを\n思ってのことなんだよ？",
+    "translation": "それは、ひかりのためを\n思ってのことなんだよ？",
+    "stage": 1,
+    "context": "黒縁メガネの男性"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "うつろな目の少女"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なんとか言いなさい。",
+    "translation": "なんとか言いなさい。",
+    "stage": 1,
+    "context": "黒縁メガネの男性"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "うつろな目の少女"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ハァ…\n言ってくれないと、分からないだろ。",
+    "translation": "ハァ…\n言ってくれないと、分からないだろ。",
+    "stage": 1,
+    "context": "黒縁メガネの男性"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "うつろな目の少女"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ひかり…",
+    "translation": "ひかり…",
+    "stage": 1,
+    "context": "黒縁メガネの男性"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "どうしてお前はそうなんだ？",
+    "translation": "どうしてお前はそうなんだ？",
+    "stage": 1,
+    "context": "黒縁メガネの男性"
+  },
+  {
+    "key": "speaker_黒縁メガネの男性",
+    "original": "黒縁メガネの男性",
+    "translation": "黒縁メガネの男性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_うつろな目の少女",
+    "original": "うつろな目の少女",
+    "translation": "うつろな目の少女",
+    "stage": 1,
+    "context": ""
+  }
+]

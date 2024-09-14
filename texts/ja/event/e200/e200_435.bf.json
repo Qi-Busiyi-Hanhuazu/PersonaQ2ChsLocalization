@@ -1,0 +1,485 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よっしゃ、これで\n上手くいったんじゃねえか！？",
+    "translation": "よっしゃ、これで\n上手くいったんじゃねえか！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "バッチリでしょ！\nみんな、最後はいい笑顔だったもん！",
+    "translation": "バッチリでしょ！\nみんな、最後はいい笑顔だったもん！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "みんな、おかえりなさい。",
+    "translation": "みんな、おかえりなさい。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "たっだいまー！\n映画、ちゃんと見ててくれた？",
+    "translation": "たっだいまー！\n映画、ちゃんと見ててくれた？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うん…見てたよ。",
+    "translation": "うん…見てたよ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "な、なあ、ひかり…\nいまの映画、どう思った？",
+    "translation": "な、なあ、ひかり…\nいまの映画、どう思った？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あ、の…",
+    "translation": "あ、の…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "心のままに…\n自分の言葉で伝えていいんですよ。",
+    "translation": "心のままに…\n自分の言葉で伝えていいんですよ。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "うん…あのね…",
+    "translation": "うん…あのね…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "映画、すごく素敵だった…よ。",
+    "translation": "映画、すごく素敵だった…よ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ほ、ほんとか！？",
+    "translation": "ほ、ほんとか！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "うん…ほんとだよ。",
+    "translation": "うん…ほんとだよ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "そっか、よかった…",
+    "translation": "そっか、よかった…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ねえねえ、ひかりちゃん。\nどこが素敵だった？",
+    "translation": "ねえねえ、ひかりちゃん。\nどこが素敵だった？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "自分ひとりだけでも…\n肉食恐竜に立ち向かったでしょ…？",
+    "translation": "自分ひとりだけでも…\n肉食恐竜に立ち向かったでしょ…？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "他の誰もが、反対してたのに…\n勇気を出して…",
+    "translation": "他の誰もが、反対してたのに…\n勇気を出して…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ヨウスケサウルスのことだな？\nそれでそれで？",
+    "translation": "ヨウスケサウルスのことだな？\nそれでそれで？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "そうしたら、他の草食恐竜たちも…\n恐いはずなのに、勇気を出した。",
+    "translation": "そうしたら、他の草食恐竜たちも…\n恐いはずなのに、勇気を出した。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "自分の本心に従っても…\nひとりぼっちじゃなかった…",
+    "translation": "自分の本心に従っても…\nひとりぼっちじゃなかった…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "本音で話せんのが、仲間だからな。\n…だろ、相棒？",
+    "translation": "本音で話せんのが、仲間だからな。\n…だろ、相棒？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ああ。",
+    "translation": "ああ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "私…今まで、友達に合わせなきゃ\nダメだと思ってた。",
+    "translation": "私…今まで、友達に合わせなきゃ\nダメだと思ってた。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "そうじゃないと、一緒にいられないって…\n合わせるのは当然だって…",
+    "translation": "そうじゃないと、一緒にいられないって…\n合わせるのは当然だって…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_018_2",
+    "original": "でも、違った…\n双葉ちゃんの言う通り…",
+    "translation": "でも、違った…\n双葉ちゃんの言う通り…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ひかり、いま…わたしの名前…",
+    "translation": "ひかり、いま…わたしの名前…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "皆さまが導いた、映画の結末…\n今回もとても素敵でしたよ。",
+    "translation": "皆さまが導いた、映画の結末…\n今回もとても素敵でしたよ。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ナギさんも、そう思った…？",
+    "translation": "ナギさんも、そう思った…？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ええ。集団生活の中で\n必ず生まれてしまう、数の暴力…",
+    "translation": "ええ。集団生活の中で\n必ず生まれてしまう、数の暴力…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "あの映画では、きっとこれまでも\nたくさんの個が無下にされたのでしょう。",
+    "translation": "あの映画では、きっとこれまでも\nたくさんの個が無下にされたのでしょう。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_022_2",
+    "original": "それも、世界の側面の\nひとつなのかもしれません。",
+    "translation": "それも、世界の側面の\nひとつなのかもしれません。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ですが、皆さまのおかげで\n新しい結末を見届けることが出来ました。",
+    "translation": "ですが、皆さまのおかげで\n新しい結末を見届けることが出来ました。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "ひかりさんや、映画に登場した恐竜たちと\n同じように…私も喜ばしい気持ちですよ。",
+    "translation": "ひかりさんや、映画に登場した恐竜たちと\n同じように…私も喜ばしい気持ちですよ。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_024_2",
+    "original": "私からも、お礼を言わせてくださいね。",
+    "translation": "私からも、お礼を言わせてくださいね。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_024_3",
+    "original": "素敵な映画を、\nどうも有難うございました。",
+    "translation": "素敵な映画を、\nどうも有難うございました。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "SEL_025_0",
+    "original": "当然のことだ",
+    "translation": "当然のことだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_025_1",
+    "original": "礼には及ばない",
+    "translation": "礼には及ばない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_025_2",
+    "original": "それほどのこともある",
+    "translation": "それほどのこともある",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "おおっ、さらっと言い切った！",
+    "translation": "おおっ、さらっと言い切った！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ひゅーひゅー！\nカッコいークマ～！",
+    "translation": "ひゅーひゅー！\nカッコいークマ～！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ったく、さらっと調子にのりやがって。",
+    "translation": "ったく、さらっと調子にのりやがって。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "ま、確かにワガハイたちの活躍、\nそれほどのことでもあったけどな！",
+    "translation": "ま、確かにワガハイたちの活躍、\nそれほどのことでもあったけどな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "うわあぁぁっ！？\nび、びっくりしたぁぁぁ！",
+    "translation": "うわあぁぁっ！？\nび、びっくりしたぁぁぁ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ドー…",
+    "translation": "ドー…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "あれが、ドーか…",
+    "translation": "あれが、ドーか…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "ヴヴ…ヴヴヴ…",
+    "translation": "ヴヴ…ヴヴヴ…",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "この感じ…！\nまた鍵を出すんじゃない！？",
+    "translation": "この感じ…！\nまた鍵を出すんじゃない！？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "あ…あぁ…",
+    "translation": "あ…あぁ…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "ひかりちゃん、こっちに！",
+    "translation": "ひかりちゃん、こっちに！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "グッ…ヴゥゥゥ！",
+    "translation": "グッ…ヴゥゥゥ！",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "ちょっ、聞いてはいたけど、\nマジで鍵が出てきた！？",
+    "translation": "ちょっ、聞いてはいたけど、\nマジで鍵が出てきた！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "これが、出口の鍵…？",
+    "translation": "これが、出口の鍵…？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "ええ、２番目の鍵と思われます。\n試してみましょう。",
+    "translation": "ええ、２番目の鍵と思われます。\n試してみましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ドー",
+    "original": "ドー",
+    "translation": "ドー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "＞壁に落書きをしている若者がいる。",
+    "translation": "＞壁に落書きをしている若者がいる。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "＞カモシダーマンの人物画のようだが\n　実物より美形に描かれており、\n　誇張されている様だ…",
+    "translation": "＞カモシダーマンの人物画のようだが\n　実物より美形に描かれており、\n　誇張されている様だ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うーん、どこに手を入れればいいんだ…",
+    "translation": "うーん、どこに手を入れればいいんだ…",
+    "stage": 1,
+    "context": "落書きしている若者"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おい、どうしたんだ？",
+    "translation": "おい、どうしたんだ？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "カモシダーマンの言う芸術が\nなかなかイメージできなくて…",
+    "translation": "カモシダーマンの言う芸術が\nなかなかイメージできなくて…",
+    "stage": 1,
+    "context": "落書きしている若者"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あ、鴨志田？\nアイツに芸術なんてわかんねーだろ。",
+    "translation": "あ、鴨志田？\nアイツに芸術なんてわかんねーだろ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "確かに、あいつセンス無いし。",
+    "translation": "確かに、あいつセンス無いし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ねぇ、君達…\nこの絵には何が足りないと思う？",
+    "translation": "ねぇ、君達…\nこの絵には何が足りないと思う？",
+    "stage": 1,
+    "context": "落書きしている若者"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "このままで良い",
+    "translation": "このままで良い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "モチーフが悪い",
+    "translation": "モチーフが悪い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_2",
+    "original": "祐介はどう思う？",
+    "translation": "祐介はどう思う？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ああ、このままで十分だ。\nデッサンはしっかりしていて、\n色使いも良い。",
+    "translation": "ああ、このままで十分だ。\nデッサンはしっかりしていて、\n色使いも良い。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "それに、すごいインパクトだ。\n俺は良い絵だと思うが。",
+    "translation": "それに、すごいインパクトだ。\n俺は良い絵だと思うが。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ちょ、何言ってんの、\nカモシダーマンだぞ。\nこれ以上のモチーフはありえないよ！",
+    "translation": "ちょ、何言ってんの、\nカモシダーマンだぞ。\nこれ以上のモチーフはありえないよ！",
+    "stage": 1,
+    "context": "落書きしている若者"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "はぁ…\n君達みたいな芸術の分からない人に\n聞いた僕が悪かったかな。",
+    "translation": "はぁ…\n君達みたいな芸術の分からない人に\n聞いた僕が悪かったかな。",
+    "stage": 1,
+    "context": "落書きしている若者"
+  },
+  {
+    "key": "MSG_009_2",
+    "original": "一息入れながら、\n自分だけで考えることにするよ。\nさよなら。",
+    "translation": "一息入れながら、\n自分だけで考えることにするよ。\nさよなら。",
+    "stage": 1,
+    "context": "落書きしている若者"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "このままで十分、いい絵だと思うぞ。",
+    "translation": "このままで十分、いい絵だと思うぞ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "デッサンはしっかりしていて、\n色使いも良い。\nそれに、すごいインパクトだ。",
+    "translation": "デッサンはしっかりしていて、\n色使いも良い。\nそれに、すごいインパクトだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "本当に？\nでもカモシダーマンは\nこれじゃダメだって。",
+    "translation": "本当に？\nでもカモシダーマンは\nこれじゃダメだって。",
+    "stage": 1,
+    "context": "落書きしている若者"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "絵の良し悪しは、\n人の評価で決めるものではない。",
+    "translation": "絵の良し悪しは、\n人の評価で決めるものではない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "自分が良いと思う絵を\n描き続ければいいじゃないか。",
+    "translation": "自分が良いと思う絵を\n描き続ければいいじゃないか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "自分が良いと思う絵…",
+    "translation": "自分が良いと思う絵…",
+    "stage": 1,
+    "context": "落書きしている若者"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "僕が好きだった絵…\n本当に描きたかった絵…か。",
+    "translation": "僕が好きだった絵…\n本当に描きたかった絵…か。",
+    "stage": 1,
+    "context": "落書きしている若者"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "そうだ。\nお前にはお前の絵があるだろう？",
+    "translation": "そうだ。\nお前にはお前の絵があるだろう？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ああ、そうだよね…\n思い出したよ、僕の絵を。\n本当に描きたかったものを！",
+    "translation": "ああ、そうだよね…\n思い出したよ、僕の絵を。\n本当に描きたかったものを！",
+    "stage": 1,
+    "context": "落書きしている若者"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "君たちのおかげだ、ありがとう！",
+    "translation": "君たちのおかげだ、ありがとう！",
+    "stage": 1,
+    "context": "落書きしている若者"
+  },
+  {
+    "key": "MSG_015_2",
+    "original": "今度は、僕が本当に描きたい\nカモシダーマンを描いてみるよ。",
+    "translation": "今度は、僕が本当に描きたい\nカモシダーマンを描いてみるよ。",
+    "stage": 1,
+    "context": "落書きしている若者"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ああ、それがいい。",
+    "translation": "ああ、それがいい。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ま、まぁ、\n鴨志田じゃなくてもいいと思うけど…\n頑張ってね！",
+    "translation": "ま、まぁ、\n鴨志田じゃなくてもいいと思うけど…\n頑張ってね！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "＞ＢＰ５Ｐゲット！",
+    "translation": "＞ＢＰ５Ｐゲット！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_落書きしている若者",
+    "original": "落書きしている若者",
+    "translation": "落書きしている若者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

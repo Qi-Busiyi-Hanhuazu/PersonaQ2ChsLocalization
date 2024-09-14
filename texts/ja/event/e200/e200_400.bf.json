@@ -1,0 +1,758 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ぐっ…うぅ…",
+    "translation": "ぐっ…うぅ…",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そんな、まさか…\nニンゲンに負けた…？",
+    "translation": "そんな、まさか…\nニンゲンに負けた…？",
+    "stage": 1,
+    "context": "おどおどした草食恐竜"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あんなに体格が違うのに…\n信じられない…",
+    "translation": "あんなに体格が違うのに…\n信じられない…",
+    "stage": 1,
+    "context": "声が大きい草食恐竜"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "見た目や常識では\n推し量れないこともある、ということだ。",
+    "translation": "見た目や常識では\n推し量れないこともある、ということだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "それより、どこか痛まない？\n大丈夫？",
+    "translation": "それより、どこか痛まない？\n大丈夫？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あ、ああ…いや、大丈夫だ。",
+    "translation": "あ、ああ…いや、大丈夫だ。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "…お前ら、手加減してくれたんだろ？",
+    "translation": "…お前ら、手加減してくれたんだろ？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "『ミネウチ』ってやつだ。\nお前らを倒す意味なんてねーからな。",
+    "translation": "『ミネウチ』ってやつだ。\nお前らを倒す意味なんてねーからな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "…はは、かなわねーや。",
+    "translation": "…はは、かなわねーや。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "俺、お前らにひどいことしたのに…\nどうしてそんな助けたりしてくれるんだ？",
+    "translation": "俺、お前らにひどいことしたのに…\nどうしてそんな助けたりしてくれるんだ？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "理由なんてない",
+    "translation": "理由なんてない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "辛そうに見えたから",
+    "translation": "辛そうに見えたから",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_2",
+    "original": "さあな…",
+    "translation": "さあな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "…はは、理由もなしに助けたのかよ。\nそれに比べて、俺たちは…",
+    "translation": "…はは、理由もなしに助けたのかよ。\nそれに比べて、俺たちは…",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "俺、そんな顔してた？\n…はは、自分じゃ気づかなかった。",
+    "translation": "俺、そんな顔してた？\n…はは、自分じゃ気づかなかった。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "シ、シビれクマ～！\n大人の男の魅力に、ビリビリ来たクマ！",
+    "translation": "シ、シビれクマ～！\n大人の男の魅力に、ビリビリ来たクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "お前たち、無理してたんだろう？\n辛そうに見えた。だから…",
+    "translation": "お前たち、無理してたんだろう？\n辛そうに見えた。だから…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "辛そうに…？",
+    "translation": "辛そうに…？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "やれやれ。気づいていないのは、\n自分たちだけみたいだな。",
+    "translation": "やれやれ。気づいていないのは、\n自分たちだけみたいだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "お前ら、同じとこに向かって、\nずっと協力しあってきたんだろ？",
+    "translation": "お前ら、同じとこに向かって、\nずっと協力しあってきたんだろ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "そりゃ、ぶつかる時もある。",
+    "translation": "そりゃ、ぶつかる時もある。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_015_2",
+    "original": "だからって、少数派って理由だけで、\n簡単に切り捨てるってさ…悲しくねぇか？",
+    "translation": "だからって、少数派って理由だけで、\n簡単に切り捨てるってさ…悲しくねぇか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "難しいことはよく分かんねぇけどよ…",
+    "translation": "難しいことはよく分かんねぇけどよ…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "いちいち同じとか、同じじゃないとか、\nんなこと考えて何になんだ？",
+    "translation": "いちいち同じとか、同じじゃないとか、\nんなこと考えて何になんだ？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_017_2",
+    "original": "人なんて、みんな違って\n当たり前だろうがよ。",
+    "translation": "人なんて、みんな違って\n当たり前だろうがよ。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "そうそう。ダチや仲間ってのは、\n遠慮せずに肩貸し合ってりゃいいんだよ。",
+    "translation": "そうそう。ダチや仲間ってのは、\n遠慮せずに肩貸し合ってりゃいいんだよ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "なっ、相棒？",
+    "translation": "なっ、相棒？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "そうだな、相棒。",
+    "translation": "そうだな、相棒。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "俺、ひとりぼっちになるのが嫌だったんだ。\nだから、みんなに意見を合わせてきた。",
+    "translation": "俺、ひとりぼっちになるのが嫌だったんだ。\nだから、みんなに意見を合わせてきた。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "…でも、やっと目覚ましたよ。",
+    "translation": "…でも、やっと目覚ましたよ。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_020_2",
+    "original": "自分に嘘をついて作った居場所なんて、\n俺は欲しくない！",
+    "translation": "自分に嘘をついて作った居場所なんて、\n俺は欲しくない！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "おう、もっかい考えてみろよ。",
+    "translation": "おう、もっかい考えてみろよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "お前が必要として、お前だから必要と\nされるって思えるダチと一緒によ。",
+    "translation": "お前が必要として、お前だから必要と\nされるって思えるダチと一緒によ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "俺だって、一人じゃ弱い。",
+    "translation": "俺だって、一人じゃ弱い。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "でも、仲間が自分を強くしてくれる。\n俺も仲間にとって、そうでありたいと思う。",
+    "translation": "でも、仲間が自分を強くしてくれる。\n俺も仲間にとって、そうでありたいと思う。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "おどおどした草食恐竜"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "お前ら…",
+    "translation": "お前ら…",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "あの…私たち…",
+    "translation": "あの…私たち…",
+    "stage": 1,
+    "context": "口を尖らせた草食恐竜"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "なあ、提案！",
+    "translation": "なあ、提案！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "多数決はもうやめて、腹割って話そうぜ！\n人の顔色なんて見ねぇでさ。",
+    "translation": "多数決はもうやめて、腹割って話そうぜ！\n人の顔色なんて見ねぇでさ。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_026_2",
+    "original": "俺は、みんなとこれからもやっていきたい。\n話し合って、解決策を探していかねーか？",
+    "translation": "俺は、みんなとこれからもやっていきたい。\n話し合って、解決策を探していかねーか？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "私も、一人になるのが恐くて…\n自分のことばかり、考えてたと思う…",
+    "translation": "私も、一人になるのが恐くて…\n自分のことばかり、考えてたと思う…",
+    "stage": 1,
+    "context": "気弱そうな草食恐竜"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "でも、言えなくて…\nこんな弱い自分が、ずっと嫌いだった。",
+    "translation": "でも、言えなくて…\nこんな弱い自分が、ずっと嫌いだった。",
+    "stage": 1,
+    "context": "気弱そうな草食恐竜"
+  },
+  {
+    "key": "MSG_027_2",
+    "original": "私のこと、助けてくれたのに…\n見捨ててごめんなさい…",
+    "translation": "私のこと、助けてくれたのに…\n見捨ててごめんなさい…",
+    "stage": 1,
+    "context": "気弱そうな草食恐竜"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "私も…",
+    "translation": "私も…",
+    "stage": 1,
+    "context": "口を尖らせた草食恐竜"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "みんなに、見捨てられるのが嫌だから、\nいつも多数派になろうって考えてた。",
+    "translation": "みんなに、見捨てられるのが嫌だから、\nいつも多数派になろうって考えてた。",
+    "stage": 1,
+    "context": "口を尖らせた草食恐竜"
+  },
+  {
+    "key": "MSG_028_2",
+    "original": "アナタたちのことも、やりすぎたって\n思ってる…ごめんなさい。",
+    "translation": "アナタたちのことも、やりすぎたって\n思ってる…ごめんなさい。",
+    "stage": 1,
+    "context": "口を尖らせた草食恐竜"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "そっか…\nみんな、同じ気持ちだったんだ…",
+    "translation": "そっか…\nみんな、同じ気持ちだったんだ…",
+    "stage": 1,
+    "context": "声が大きい草食恐竜"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "話し合おうとしもないで、勝手に怯えて…\nバカだったね、私たち。",
+    "translation": "話し合おうとしもないで、勝手に怯えて…\nバカだったね、私たち。",
+    "stage": 1,
+    "context": "おどおどした草食恐竜"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "やっと、数字に隠されていた、\nそれぞれの本音が聞けたな。",
+    "translation": "やっと、数字に隠されていた、\nそれぞれの本音が聞けたな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "多数決だってさ、ひとつの意見だと思う。",
+    "translation": "多数決だってさ、ひとつの意見だと思う。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_032_1",
+    "original": "でも、それだけに縛られるんじゃなくて、\nこれからは色んな可能性を探ってこうぜ？",
+    "translation": "でも、それだけに縛られるんじゃなくて、\nこれからは色んな可能性を探ってこうぜ？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "…うん！",
+    "translation": "…うん！",
+    "stage": 1,
+    "context": "気弱そうな草食恐竜"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "へへっ、まとまったじゃん！",
+    "translation": "へへっ、まとまったじゃん！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "これにて一件落着…かな？",
+    "translation": "これにて一件落着…かな？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "…ん？\nなあ、何か聞こえねーか？",
+    "translation": "…ん？\nなあ、何か聞こえねーか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "ええ…遠くから、\n何か近づいてきてるような…",
+    "translation": "ええ…遠くから、\n何か近づいてきてるような…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "みんな、大変！\n強い気配が猛スピードで接近中！",
+    "translation": "みんな、大変！\n強い気配が猛スピードで接近中！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_038_1",
+    "original": "たぶん肉食恐竜だよ。\n気をつけて！！",
+    "translation": "たぶん肉食恐竜だよ。\n気をつけて！！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "嗅ぎつけられたようですね…\n迎撃しますか？",
+    "translation": "嗅ぎつけられたようですね…\n迎撃しますか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "問題は草食恐竜たちだ！",
+    "translation": "問題は草食恐竜たちだ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_040_1",
+    "original": "そいつらを避難させるにしても、\nそこだと袋小路だぞ！",
+    "translation": "そいつらを避難させるにしても、\nそこだと袋小路だぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "か、隠れる…！？",
+    "translation": "か、隠れる…！？",
+    "stage": 1,
+    "context": "気弱そうな草食恐竜"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "に、逃げないと！",
+    "translation": "に、逃げないと！",
+    "stage": 1,
+    "context": "おどおどした草食恐竜"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "どこに逃げるつもり！？\nここ、行き止まりなんだよ！？",
+    "translation": "どこに逃げるつもり！？\nここ、行き止まりなんだよ！？",
+    "stage": 1,
+    "context": "声が大きい草食恐竜"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "お、おい！　落ち着けって！",
+    "translation": "お、おい！　落ち着けって！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "ダメだ、来る！",
+    "translation": "ダメだ、来る！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "ＧＲＥＥＥＥＥＥＥＥＤ！",
+    "translation": "ＧＲＥＥＥＥＥＥＥＥＤ！",
+    "stage": 1,
+    "context": "派手な肉食恐竜"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "チッ、来たな。\nジョーカー！　どうする！？",
+    "translation": "チッ、来たな。\nジョーカー！　どうする！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_048_0",
+    "original": "俺たちで何とかしよう",
+    "translation": "俺たちで何とかしよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_048_1",
+    "original": "様子を見よう",
+    "translation": "様子を見よう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "分かった。\n俺たちが前線に出よう。",
+    "translation": "分かった。\n俺たちが前線に出よう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "だがしかし…\nそんな余裕はなさそうだぞ。",
+    "translation": "だがしかし…\nそんな余裕はなさそうだぞ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "ＧＹＡＡＡＡＡ！",
+    "translation": "ＧＹＡＡＡＡＡ！",
+    "stage": 1,
+    "context": "派手な肉食恐竜"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "ちょっと待ってくれ！\n俺に行かせてくれないか？",
+    "translation": "ちょっと待ってくれ！\n俺に行かせてくれないか？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "はぁ！？\nなに無謀なこと言ってんだって！",
+    "translation": "はぁ！？\nなに無謀なこと言ってんだって！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "へへ…散々、かっこ悪ぃとこばっか\n見せちゃったからさ。",
+    "translation": "へへ…散々、かっこ悪ぃとこばっか\n見せちゃったからさ。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_054_1",
+    "original": "俺にも出来ることがあるってとこ、\n証明させてくれよ！",
+    "translation": "俺にも出来ることがあるってとこ、\n証明させてくれよ！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "お、おい！\nなにするつもりだ！？",
+    "translation": "お、おい！\nなにするつもりだ！？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "お、俺は…！",
+    "translation": "お、俺は…！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_056_1",
+    "original": "俺は、自分の心に正直になるって\n決めたんだ…！",
+    "translation": "俺は、自分の心に正直になるって\n決めたんだ…！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "な、なにする気？\n早く逃げないと、殺される！",
+    "translation": "な、なにする気？\n早く逃げないと、殺される！",
+    "stage": 1,
+    "context": "口を尖らせた草食恐竜"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "俺だって、恐竜だっ！",
+    "translation": "俺だって、恐竜だっ！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_058_1",
+    "original": "本気になれば、肉食恐竜一匹くらい、\n追っ払えるはずだ！",
+    "translation": "本気になれば、肉食恐竜一匹くらい、\n追っ払えるはずだ！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "そんな…\nむ、無理だよ…！",
+    "translation": "そんな…\nむ、無理だよ…！",
+    "stage": 1,
+    "context": "気弱そうな草食恐竜"
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "やっと…みんなと本音で\n話し合えるようになれたんだ！",
+    "translation": "やっと…みんなと本音で\n話し合えるようになれたんだ！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_060_1",
+    "original": "俺はもう、ピンチになった時に\n仲間を見捨てるなんてしたくない！",
+    "translation": "俺はもう、ピンチになった時に\n仲間を見捨てるなんてしたくない！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "ちょっと、ウソでしょ！？",
+    "translation": "ちょっと、ウソでしょ！？",
+    "stage": 1,
+    "context": "声が大きい草食恐竜"
+  },
+  {
+    "key": "speaker_ヨウスケサウルス",
+    "original": "ヨウスケサウルス",
+    "translation": "ヨウスケサウルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_おどおどした草食恐竜",
+    "original": "おどおどした草食恐竜",
+    "translation": "おどおどした草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_声が大きい草食恐竜",
+    "original": "声が大きい草食恐竜",
+    "translation": "声が大きい草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_口を尖らせた草食恐竜",
+    "original": "口を尖らせた草食恐竜",
+    "translation": "口を尖らせた草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_気弱そうな草食恐竜",
+    "original": "気弱そうな草食恐竜",
+    "translation": "気弱そうな草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_派手な肉食恐竜",
+    "original": "派手な肉食恐竜",
+    "translation": "派手な肉食恐竜",
+    "stage": 1,
+    "context": ""
+  }
+]

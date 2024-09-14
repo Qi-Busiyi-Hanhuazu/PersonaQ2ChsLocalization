@@ -1,0 +1,660 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "とりあえず…これで、一安心かな。",
+    "translation": "とりあえず…これで、一安心かな。",
+    "stage": 1,
+    "context": "控えめな少女"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "それにしても、センセイにあんな\n美人の知り合いがいたなんて～。",
+    "translation": "それにしても、センセイにあんな\n美人の知り合いがいたなんて～。",
+    "stage": 1,
+    "context": "着ぐるみ"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "全然知らなかったクマ！\nどうして紹介してくれなかったクマ？",
+    "translation": "全然知らなかったクマ！\nどうして紹介してくれなかったクマ？",
+    "stage": 1,
+    "context": "着ぐるみ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あーはいはい。\nそういう話は後でいーから。",
+    "translation": "あーはいはい。\nそういう話は後でいーから。",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうですね。久慈川さんが回復したら、\nすぐ花村先輩も捜さないとですし。",
+    "translation": "そうですね。久慈川さんが回復したら、\nすぐ花村先輩も捜さないとですし。",
+    "stage": 1,
+    "context": "知的な少年"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "久慈川？　久慈川…りせ…？",
+    "translation": "久慈川？　久慈川…りせ…？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_5_0",
+    "original": "あああああーっ！",
+    "translation": "あああああーっ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ちょ、いきなり大声出さないでよ！",
+    "translation": "ちょ、いきなり大声出さないでよ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "思い出した！\nあの子、アイドルのりせちーだろ！？",
+    "translation": "思い出した！\nあの子、アイドルのりせちーだろ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "いやー、どっかで見たような気すんなって\n思ってたんだけどよ。",
+    "translation": "いやー、どっかで見たような気すんなって\n思ってたんだけどよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ああ…わたしもずっと気になってたが、\nやっぱソックリってレベルじゃない。",
+    "translation": "ああ…わたしもずっと気になってたが、\nやっぱソックリってレベルじゃない。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "でも、そんなことって…\nりせちーはもう高校生じゃないし。",
+    "translation": "でも、そんなことって…\nりせちーはもう高校生じゃないし。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "…え？\nりせちゃん、私たちの高校だよ。",
+    "translation": "…え？\nりせちゃん、私たちの高校だよ。",
+    "stage": 1,
+    "context": "控えめな少女"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "今はアイドル休業中だけど。",
+    "translation": "今はアイドル休業中だけど。",
+    "stage": 1,
+    "context": "控えめな少女"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "い、いや…ちょっと待ってくれ。",
+    "translation": "い、いや…ちょっと待ってくれ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "わたしの知るりせちーは\n現役バリバリだぞ！？",
+    "translation": "わたしの知るりせちーは\n現役バリバリだぞ！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "…は？？",
+    "translation": "…は？？",
+    "stage": 1,
+    "context": "目つきの悪い少年"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "…へ？？",
+    "translation": "…へ？？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "…あの、すみません。\n確認したいことがあるのですが。",
+    "translation": "…あの、すみません。\n確認したいことがあるのですが。",
+    "stage": 1,
+    "context": "知的な少年"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "今年は２０１１年ですよね？",
+    "translation": "今年は２０１１年ですよね？",
+    "stage": 1,
+    "context": "知的な少年"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "…え？　今ってこと？\n今年はええと…何年だっけ？",
+    "translation": "…え？　今ってこと？\n今年はええと…何年だっけ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "２０１１年じゃないことだけは\n確かだな。",
+    "translation": "２０１１年じゃないことだけは\n確かだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "うんうん、そうだよ。\n今は２００９年でしょ？",
+    "translation": "うんうん、そうだよ。\n今は２００９年でしょ？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ええと…つまり今は、２０１１年じゃなくて\n２００９年だけど、やっぱり２０１１年！？",
+    "translation": "ええと…つまり今は、２０１１年じゃなくて\n２００９年だけど、やっぱり２０１１年！？",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "頭がこんがらがってきた…",
+    "translation": "頭がこんがらがってきた…",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "いや、今年は２０１１年のはずだ。\n一体どういうことだ…？",
+    "translation": "いや、今年は２０１１年のはずだ。\n一体どういうことだ…？",
+    "stage": 1,
+    "context": "落ち着いた少年"
+  },
+  {
+    "key": "SEL_018_0",
+    "original": "違う時代から来た",
+    "translation": "違う時代から来た",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_1",
+    "original": "記憶喪失",
+    "translation": "記憶喪失",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_2",
+    "original": "ドッキリ",
+    "translation": "ドッキリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ああ…そうなるな。",
+    "translation": "ああ…そうなるな。",
+    "stage": 1,
+    "context": "落ち着いた少年"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうではないと思います。\nちゃんと今までの記憶はありますし…",
+    "translation": "そうではないと思います。\nちゃんと今までの記憶はありますし…",
+    "stage": 1,
+    "context": "知的な少年"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "もしかしたら私たち、\n違う時代から来たんじゃないかな？",
+    "translation": "もしかしたら私たち、\n違う時代から来たんじゃないかな？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "なんとなく、そんな気はしてたけど…",
+    "translation": "なんとなく、そんな気はしてたけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "な～んだ、ドッキリっスか！\nカメラどこっスかね…",
+    "translation": "な～んだ、ドッキリっスか！\nカメラどこっスかね…",
+    "stage": 1,
+    "context": "目つきの悪い少年"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "って、んなワケないっしょ！",
+    "translation": "って、んなワケないっしょ！",
+    "stage": 1,
+    "context": "目つきの悪い少年"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "おっ、ノリツッコミうまくなったじゃん。",
+    "translation": "おっ、ノリツッコミうまくなったじゃん。",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ドッキリならよかったんだが…\n今はそんな状況じゃなさそうだ。",
+    "translation": "ドッキリならよかったんだが…\n今はそんな状況じゃなさそうだ。",
+    "stage": 1,
+    "context": "落ち着いた少年"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "皆の言ってることが正しいなら、\n俺たちは…違う時間から来たんじゃないか？",
+    "translation": "皆の言ってることが正しいなら、\n俺たちは…違う時間から来たんじゃないか？",
+    "stage": 1,
+    "context": "落ち着いた少年"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "まあ、これはこれは。\n新たなる導かれし者たちが。",
+    "translation": "まあ、これはこれは。\n新たなる導かれし者たちが。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "おおっ！\nまた新たな美人サンが登場クマ！？",
+    "translation": "おおっ！\nまた新たな美人サンが登場クマ！？",
+    "stage": 1,
+    "context": "着ぐるみ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "エリザベスと申します。\n少し前からこちらにお邪魔しております。",
+    "translation": "エリザベスと申します。\n少し前からこちらにお邪魔しております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "私の隣にいる者については、\nもう説明が面倒ですので以下省略。",
+    "translation": "私の隣にいる者については、\nもう説明が面倒ですので以下省略。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "姉上、それはさすがに\n雑に扱いすぎでしょう！？",
+    "translation": "姉上、それはさすがに\n雑に扱いすぎでしょう！？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "コホン…失礼いたしました。\n私、テオドアと申します。",
+    "translation": "コホン…失礼いたしました。\n私、テオドアと申します。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_028_2",
+    "original": "マーガレット姉上、エリザベス姉上と同じ\nベルベットルームの住人でございます。",
+    "translation": "マーガレット姉上、エリザベス姉上と同じ\nベルベットルームの住人でございます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "本当に、ポップコーンなんだ…",
+    "translation": "本当に、ポップコーンなんだ…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "うーむ。ポップコーン…",
+    "translation": "うーむ。ポップコーン…",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "そっとしておこう…",
+    "translation": "そっとしておこう…",
+    "stage": 1,
+    "context": "落ち着いた少年"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "どうやら私たちは、別々の時間から\nここに呼ばれたようでございますね。",
+    "translation": "どうやら私たちは、別々の時間から\nここに呼ばれたようでございますね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "時間跳躍、か…\nにわかには信じられないな。",
+    "translation": "時間跳躍、か…\nにわかには信じられないな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "ちゅーことは、仮面軍団は\nクマたちの未来からやってきたクマ？",
+    "translation": "ちゅーことは、仮面軍団は\nクマたちの未来からやってきたクマ？",
+    "stage": 1,
+    "context": "着ぐるみ"
+  },
+  {
+    "key": "MSG_036_1",
+    "original": "はいはーい、質問クマ！\n未来で、クマはモテモテになったクマ！？",
+    "translation": "はいはーい、質問クマ！\n未来で、クマはモテモテになったクマ！？",
+    "stage": 1,
+    "context": "着ぐるみ"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "知らんわ！\nこっちはネコの世話でいっぱいなんだよ！",
+    "translation": "知らんわ！\nこっちはネコの世話でいっぱいなんだよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "誰が猫だ！\nつーか、世話になってぬぇぇわ！",
+    "translation": "誰が猫だ！\nつーか、世話になってぬぇぇわ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "ねぇ、こういう話ってあんまり\nしない方がいいんじゃなかったっけ？",
+    "translation": "ねぇ、こういう話ってあんまり\nしない方がいいんじゃなかったっけ？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "ええ、タイムパラドックスですね。\n何か問題が起きるかもしれません。",
+    "translation": "ええ、タイムパラドックスですね。\n何か問題が起きるかもしれません。",
+    "stage": 1,
+    "context": "知的な少年"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "タ…タイキックドッグ？",
+    "translation": "タ…タイキックドッグ？",
+    "stage": 1,
+    "context": "目つきの悪い少年"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "タイムパラドックス。\nＳＦの有名な命題だね。",
+    "translation": "タイムパラドックス。\nＳＦの有名な命題だね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_042_1",
+    "original": "過去や未来を改変したら、現在に\nどんな影響が出るかわからないって話だよ。",
+    "translation": "過去や未来を改変したら、現在に\nどんな影響が出るかわからないって話だよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "…どうなるかわからない？",
+    "translation": "…どうなるかわからない？",
+    "stage": 1,
+    "context": "控えめな少女"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "まだ、誰もタイムトラベルを\nしたことがないからね。諸説はあるよ。",
+    "translation": "まだ、誰もタイムトラベルを\nしたことがないからね。諸説はあるよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_044_1",
+    "original": "元の世界に戻れなくなるとか、\n存在自体が消滅するとかね。",
+    "translation": "元の世界に戻れなくなるとか、\n存在自体が消滅するとかね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "こわっ！\nわけがわからなすぎて怖い！",
+    "translation": "こわっ！\nわけがわからなすぎて怖い！",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "だから、あまり話しすぎるのは\nよくないということです。",
+    "translation": "だから、あまり話しすぎるのは\nよくないということです。",
+    "stage": 1,
+    "context": "知的な少年"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "実に賢明なご判断です。",
+    "translation": "実に賢明なご判断です。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_047_1",
+    "original": "未来を知りすぎてしまえば、\n新たな災いを招きかねませんから。",
+    "translation": "未来を知りすぎてしまえば、\n新たな災いを招きかねませんから。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "そっか、それもそうだね。",
+    "translation": "そっか、それもそうだね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_048_1",
+    "original": "それにさ、未来は自分で\n確かめたほうが嬉しくない？",
+    "translation": "それにさ、未来は自分で\n確かめたほうが嬉しくない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_048_2",
+    "original": "私も未来を想像したりするけど、\n楽しみはとっておきたいじゃん。",
+    "translation": "私も未来を想像したりするけど、\n楽しみはとっておきたいじゃん。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "そうだね！　高級フィレ肉が、\n１グラム１円の明るい時代がくる可能性も！",
+    "translation": "そうだね！　高級フィレ肉が、\n１グラム１円の明るい時代がくる可能性も！",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "それは逆に世紀末っスね…",
+    "translation": "それは逆に世紀末っスね…",
+    "stage": 1,
+    "context": "目つきの悪い少年"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "じゃあ、ここで君たちのことを\n話してもらおうかな？",
+    "translation": "じゃあ、ここで君たちのことを\n話してもらおうかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_051_1",
+    "original": "何か手がかりになるかもしれないし。",
+    "translation": "何か手がかりになるかもしれないし。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "え、大丈夫？\n私たち消えたりしない？",
+    "translation": "え、大丈夫？\n私たち消えたりしない？",
+    "stage": 1,
+    "context": "控えめな少女"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "大丈夫だと思うよ。\nもう起こったことだし、それに…",
+    "translation": "大丈夫だと思うよ。\nもう起こったことだし、それに…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_053_1",
+    "original": "この空間自体が普通じゃないからね。\nちょっとやそっとじゃ変わらない気がする。",
+    "translation": "この空間自体が普通じゃないからね。\nちょっとやそっとじゃ変わらない気がする。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "と言ってもなあ…\nあたしたち、どうやって来たんだっけ？",
+    "translation": "と言ってもなあ…\nあたしたち、どうやって来たんだっけ？",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "確か、あの時も\nいつものように集まっていた…",
+    "translation": "確か、あの時も\nいつものように集まっていた…",
+    "stage": 1,
+    "context": "落ち着いた少年"
+  },
+  {
+    "key": "speaker_控えめな少女",
+    "original": "控えめな少女",
+    "translation": "控えめな少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_着ぐるみ",
+    "original": "着ぐるみ",
+    "translation": "着ぐるみ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_活発そうな少女",
+    "original": "活発そうな少女",
+    "translation": "活発そうな少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_知的な少年",
+    "original": "知的な少年",
+    "translation": "知的な少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_目つきの悪い少年",
+    "original": "目つきの悪い少年",
+    "translation": "目つきの悪い少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_落ち着いた少年",
+    "original": "落ち着いた少年",
+    "translation": "落ち着いた少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

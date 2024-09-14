@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_0000_0",
+    "original": "みんな…またね！",
+    "translation": "大家……再见！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大家……再见！"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "行っちゃった…",
+    "translation": "走掉了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n走掉了……\n\n走了……"
+  },
+  {
+    "key": "MSG_000_1_0",
+    "original": "やっぱり、ちょっと寂しいね。",
+    "translation": "果然还是有点寂寞呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n果然还是有点寂寞呢。\n\n果然，有点寂寞啊。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "大丈夫だ。",
+    "translation": "没事的。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没事的。\n\n没关系。"
+  },
+  {
+    "key": "MSG_001_1_0",
+    "original": "だって、約束したんだから。",
+    "translation": "因为我们都约好了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n因为我们约好了。\n\n因为我们已经约好了。"
+  },
+  {
+    "key": "MSG_001_2_0",
+    "original": "それに、ひかりも…またねって言った。",
+    "translation": "而且……光也说了“再见”。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n而且，光也……对我说了再见。\n\n而且，光也……又说了。\n\n而且，光也……我说再见。"
+  },
+  {
+    "key": "MSG_001_3_0",
+    "original": "だから絶対に、また会える。",
+    "translation": "所以，绝对还能再见面的。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n所以，我们绝对会再见面。\n\n所以一定会再见面的。\n\n所以，一定还能再见。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああ、そうだな。",
+    "translation": "是啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊啊，是啊。\n\n啊，是啊。"
+  },
+  {
+    "key": "MSG_002_1_0",
+    "original": "きっと、また…",
+    "translation": "一定，还会再见……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n一定，还会再……\n\n一定，又……\n\n一定，还会……"
+  }
+]

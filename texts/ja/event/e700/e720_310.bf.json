@@ -1,0 +1,205 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お、これだよ、これ！\nな？　棒が付いてるだろ？",
+    "translation": "お、これだよ、これ！\nな？　棒が付いてるだろ？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "これをぐいっと、押して…",
+    "translation": "これをぐいっと、押して…",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "オッケー！\nじゃあ早速、試してみよっか？",
+    "translation": "オッケー！\nじゃあ早速、試してみよっか？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "このレバーを押せばいいんだよね。\nどうする？　やってみる？",
+    "translation": "このレバーを押せばいいんだよね。\nどうする？　やってみる？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "押してみよう",
+    "translation": "押してみよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "止めておこう",
+    "translation": "止めておこう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あ？　何も起こらねーっスよ？",
+    "translation": "あ？　何も起こらねーっスよ？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そりゃそーだろ。\nさっきの柵を見に行かねーと…",
+    "translation": "そりゃそーだろ。\nさっきの柵を見に行かねーと…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "ん？　この数字はなんだ…？",
+    "translation": "ん？　この数字はなんだ…？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "って、なんか\nカウントダウンしてんじゃねーか！？",
+    "translation": "って、なんか\nカウントダウンしてんじゃねーか！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "げっ！？\nば、ばばば爆発すんスか！？",
+    "translation": "げっ！？\nば、ばばば爆発すんスか！？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "えええ！？\nちょ、聞いてないんだけどそんなこと！",
+    "translation": "えええ！？\nちょ、聞いてないんだけどそんなこと！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "落ち着いて。\n表示をよく見てください。",
+    "translation": "落ち着いて。\n表示をよく見てください。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "これは、おそらく電気が解除されている\nリミット時間が表示されているのかと…",
+    "translation": "これは、おそらく電気が解除されている\nリミット時間が表示されているのかと…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "つまり、このカウントダウンが０になる前に\n柵を通り抜けろってことだね。",
+    "translation": "つまり、このカウントダウンが０になる前に\n柵を通り抜けろってことだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "…ん、んだよ！　ビビらせんなよ！",
+    "translation": "…ん、んだよ！　ビビらせんなよ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ここから、肉食恐竜を\n誘導してたのでしょうね。",
+    "translation": "ここから、肉食恐竜を\n誘導してたのでしょうね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "だとすると、何度も使うことを\n想定した装置なはず。",
+    "translation": "だとすると、何度も使うことを\n想定した装置なはず。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そうだね、時間切れになっても\nもう一度操作してやり直せばいい。",
+    "translation": "そうだね、時間切れになっても\nもう一度操作してやり直せばいい。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "大丈夫。\n落ち着いて対処すれば問題ないよ。",
+    "translation": "大丈夫。\n落ち着いて対処すれば問題ないよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "んじゃ、もう少し周り見てみっか？",
+    "translation": "んじゃ、もう少し周り見てみっか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_ヨウスケサウルス",
+    "original": "ヨウスケサウルス",
+    "translation": "ヨウスケサウルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

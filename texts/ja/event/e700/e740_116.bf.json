@@ -1,0 +1,128 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "はわわわわ…！\nこ、こりは、天変地異クマ！？",
+    "translation": "はわわわわ…！\nこ、こりは、天変地異クマ！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "いや、明らかにちげーだろ！",
+    "translation": "いや、明らかにちげーだろ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "…ん？　止まったみてーだな。",
+    "translation": "…ん？　止まったみてーだな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "クマ、この世界は何が起こるかわからない。\nむやみにスイッチとか触らないようにな？",
+    "translation": "クマ、この世界は何が起こるかわからない。\nむやみにスイッチとか触らないようにな？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "センセイ、りょーかいしたクマ…\nクマ反省…",
+    "translation": "センセイ、りょーかいしたクマ…\nクマ反省…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あ、それよりも\nみなさん見てください！",
+    "translation": "あ、それよりも\nみなさん見てください！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "…[颜色 03]穴が塞がっている[颜色 01]ね。\nさっきの地震はこれが原因か。",
+    "translation": "…[颜色 03]穴が塞がっている[颜色 01]ね。\nさっきの地震はこれが原因か。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "まるで、演劇の舞台装置みてぇだな。\n[颜色 03]『せり』[颜色 01]とか言ったか？",
+    "translation": "まるで、演劇の舞台装置みてぇだな。\n[颜色 03]『せり』[颜色 01]とか言ったか？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "なぬ！？　こ、これはクマのおかげで\n謎が解けたといっても過言ではない…？",
+    "translation": "なぬ！？　こ、これはクマのおかげで\n謎が解けたといっても過言ではない…？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "おい、さっそく\n反省してねーじゃねぇか…",
+    "translation": "おい、さっそく\n反省してねーじゃねぇか…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "…って、この音は！？",
+    "translation": "…って、この音は！？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

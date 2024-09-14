@@ -1,0 +1,121 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…あれ？　行き止まりか？",
+    "translation": "……奇怪？是死路吗？",
+    "stage": 0,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n……奇怪？是死路吗？\n\n……咦？死胡同？\n\n……咦？走不通了吗？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ワンッ！　ワンワンッ！",
+    "translation": "汪！汪汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！汪汪！\n\n哇！汪汪！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "どうした、コロマル？",
+    "translation": "怎么了，虎狼丸？",
+    "stage": 0,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n怎么了，虎狼丸？"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ほう、ダクトか…",
+    "translation": "噢，通风管吗……",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n哦，通风管吗……\n\n哦，通风管啊……\n\n哦，是管道吗……"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "確かに、これなら反対側に繋がってる。\nよく気づいたな。",
+    "translation": "的确，这样就能通往另一侧了。\n真亏你注意到了呢。",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n的确，这样就能通往另一侧了。\n亏你发现得出来呢。\n\n确实，这样的话会连接到另一侧。\n你注意到了。\n\n确实，这样的话是连接在另一边的。你还真注意到了。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あそこが通れる、と\nコロマルさんは言ってます。",
+    "translation": "那里可以过去，\n虎狼丸先生是这么说的。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n\n虎狼丸先生说，那里可以过去。\n\n虎狼丸先生说那里可以通过。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "えっ！？　通れるって、まさか…",
+    "translation": "咦！？能通过，难道是指……",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n咦！？能通过？难道说……\n\n啊！？能通过，难道……\n\n诶！？能通过，难道……"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "でも、来る途中に扉もあったし、\nまずはそっちを調べてみない？",
+    "translation": "不过，刚才来的路上还有扇门。\n要不要先调查一下那边看看？",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n不过，刚才过来的时候，的确有扇门。\n要不要先调查那扇门？\n\n但是，来的路上也有门，\n要不要先调查一下那边？\n\n但是，来的途中也有门，不先调查一下那边吗？"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ま、それもそうだな。\nんじゃ、扉のほう行ってみようぜ。",
+    "translation": "嘛，说得也是。\n那我们先去那扇门那里看看吧。",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n说得也是。\n那我们去那扇门看看吧。\n\n啊，那也是啊。那么，我们去门那边看看吧。\n\n\n嗯，这倒也是。那我们往门那边走吧。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "とりあえず、扉を調べてみようぜ。",
+    "translation": "总之，先调查一下门吧。",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n总之，先调查那扇门吧。\n\n总之先检查一下门吧。\n\n先查一下门吧。"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "虎狼丸",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "埃癸斯",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 由加莉",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

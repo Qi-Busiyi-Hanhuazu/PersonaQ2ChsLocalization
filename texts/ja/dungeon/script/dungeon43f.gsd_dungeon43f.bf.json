@@ -1,0 +1,37 @@
+[
+  {
+    "key": "MSG_NAMTAR_TUTORIAL_0",
+    "original": "＞あのＦ.Ｏ.Ｅ.はこっちの進んだ座標とは\n　反対に進んでくるみたいだ…",
+    "translation": "＞あのＦ.Ｏ.Ｅ.はこっちの進んだ座標とは\n　反対に進んでくるみたいだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NAMTAR_TUTORIAL_1",
+    "original": "＞この法則に気をつけて\n　奥の扉を目指そう！ と話すイベント",
+    "translation": "＞この法則に気をつけて\n　奥の扉を目指そう！ と話すイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "何かが埋まっているようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理してからまた来よう…",
+    "stage": 1,
+    "context": ""
+  }
+]

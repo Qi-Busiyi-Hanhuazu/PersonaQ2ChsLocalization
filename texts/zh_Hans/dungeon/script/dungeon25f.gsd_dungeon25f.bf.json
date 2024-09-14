@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_D03_05_WARNING_01_0",
+    "original": "扉の先に妙な気配がする。",
+    "translation": "门的前方有股奇妙的气息。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n门的前方有股奇妙的气息。\n\n门的尽头有一种奇怪的气息。\n\n门前有一种奇怪的气息。"
+  },
+  {
+    "key": "MSG_D03_05_WARNING_01_1",
+    "original": "このまま進むと戦闘になるが\n準備は大丈夫か？",
+    "translation": "继续前进的话会进入战斗\n准备好了吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n就这样前进的话会进入战斗\n准备好了吗？\n\n就这样前进的话会变成战斗\n准备好了吗？\n\n这样下去会发生战斗\n准备好了吗？"
+  },
+  {
+    "key": "SEL_WARNING_02_0",
+    "original": "大丈夫",
+    "translation": "没问题",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没问题\n\n没关系的\n\n不要紧"
+  },
+  {
+    "key": "SEL_WARNING_02_1",
+    "original": "ちょっと待って",
+    "translation": "等一下",
+    "stage": 1,
+    "context": "机翻辅助：\n\n等我一下\n\n稍等一下\n\n等一下"
+  },
+  {
+    "key": "MSG_D03_05_WARNING_SEL01_0",
+    "original": "よし！\n先に進もう！",
+    "translation": "好！\n前进吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好！\n前进吧！\n\n好！\n先走吧！\n\n好！\n继续前进！"
+  },
+  {
+    "key": "MSG_D03_05_WARNING_SEL02_0",
+    "original": "準備を整えたら、また戻ってこよう",
+    "translation": "等准备好了就再回来吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n等准备好了，我会再回来的。\n\n准备好了再回来吧"
+  }
+]

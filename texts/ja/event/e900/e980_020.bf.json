@@ -1,0 +1,310 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "＞一心不乱にカップケーキを\n　食べ続けている女性がいる…",
+    "translation": "＞一心不乱にカップケーキを\n　食べ続けている女性がいる…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "＞周りには、食べ終えたカップが\n　散乱している…",
+    "translation": "＞周りには、食べ終えたカップが\n　散乱している…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ちょっと、それ貴方が全部食べたの！？",
+    "translation": "ちょっと、それ貴方が全部食べたの！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "さすがに食べすぎじゃない？\nそんなに食べたら太っちゃうよ。",
+    "translation": "さすがに食べすぎじゃない？\nそんなに食べたら太っちゃうよ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "だって、カモシダーマンに食べ物を\n粗末にするなって言われたのよ。",
+    "translation": "だって、カモシダーマンに食べ物を\n粗末にするなって言われたのよ。",
+    "stage": 1,
+    "context": "食べ続ける女性"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "だから、\n売れ残ったカップケーキは\n全部私が食べないと。",
+    "translation": "だから、\n売れ残ったカップケーキは\n全部私が食べないと。",
+    "stage": 1,
+    "context": "食べ続ける女性"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "身体を壊すぞ",
+    "translation": "身体を壊すぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "残すのは良くない",
+    "translation": "残すのは良くない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_2",
+    "original": "俺たちも手伝おう",
+    "translation": "俺たちも手伝おう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "そうだよ。\n確かに甘いものっていくらでも\nお腹に入るけどさ。",
+    "translation": "そうだよ。\n確かに甘いものっていくらでも\nお腹に入るけどさ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "でも、そんなに甘いものばかり食べたら\n病気になっちゃうよ。",
+    "translation": "でも、そんなに甘いものばかり食べたら\n病気になっちゃうよ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "だから何？",
+    "translation": "だから何？",
+    "stage": 1,
+    "context": "食べ続ける女性"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "カモシダーマンだって\nみんなだって食べろって言うのよ？",
+    "translation": "カモシダーマンだって\nみんなだって食べろって言うのよ？",
+    "stage": 1,
+    "context": "食べ続ける女性"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "だったら、病気になったって\n食べるのが当たり前じゃない。",
+    "translation": "だったら、病気になったって\n食べるのが当たり前じゃない。",
+    "stage": 1,
+    "context": "食べ続ける女性"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そ、そんなのって…",
+    "translation": "そ、そんなのって…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "わかったら放っておいて。\n私は早くこれを食べきらなきゃ\nいけないんだから。",
+    "translation": "わかったら放っておいて。\n私は早くこれを食べきらなきゃ\nいけないんだから。",
+    "stage": 1,
+    "context": "食べ続ける女性"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "んもう…\nそんなに言うなら好きにすれば？\nみんな、行こ。",
+    "translation": "んもう…\nそんなに言うなら好きにすれば？\nみんな、行こ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ちょ、ちょっとリーダ！",
+    "translation": "ちょ、ちょっとリーダ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ほら、あなたもそう思うでしょ？",
+    "translation": "ほら、あなたもそう思うでしょ？",
+    "stage": 1,
+    "context": "食べ続ける女性"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "じゃあいいじゃない。\nいま忙しいから邪魔しないで。",
+    "translation": "じゃあいいじゃない。\nいま忙しいから邪魔しないで。",
+    "stage": 1,
+    "context": "食べ続ける女性"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "んもう、聞く耳ゼロって感じ。\n仕方ないね…\nみんな、行こ。",
+    "translation": "んもう、聞く耳ゼロって感じ。\n仕方ないね…\nみんな、行こ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "うん、そっか。\nみんなで食べればなんとかなるよね。",
+    "translation": "うん、そっか。\nみんなで食べればなんとかなるよね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "このカップケーキ美味しそうだし…\nとりあえず\n一人最低５個はいけるでしょ！",
+    "translation": "このカップケーキ美味しそうだし…\nとりあえず\n一人最低５個はいけるでしょ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ご、５個！？\nちょっと多くねーか！？",
+    "translation": "ご、５個！？\nちょっと多くねーか！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "えー、全然いけるって！\nあ、これ美味しい！",
+    "translation": "えー、全然いけるって！\nあ、これ美味しい！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "パンサーだけでもよかったような…",
+    "translation": "パンサーだけでもよかったような…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "まぁ、仕方ないか。\n乗りかかった船だ、僕らも手伝おう。",
+    "translation": "まぁ、仕方ないか。\n乗りかかった船だ、僕らも手伝おう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "俺、もう限界…",
+    "translation": "俺、もう限界…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "僕も…今動いたらマズいかも…\nウッ…！",
+    "translation": "僕も…今動いたらマズいかも…\nウッ…！",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "もう、みんな情けないなー。\nカップケーキなんて、\n１０個くらいなら余裕でしょ？",
+    "translation": "もう、みんな情けないなー。\nカップケーキなんて、\n１０個くらいなら余裕でしょ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "オメーと一緒にすんじゃ…",
+    "translation": "オメーと一緒にすんじゃ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "ウッ！",
+    "translation": "ウッ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "やっと全部、食べきれた…",
+    "translation": "やっと全部、食べきれた…",
+    "stage": 1,
+    "context": "食べ続ける女性"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "…って、もうこんな時間！\n今日バーゲンだったのに！",
+    "translation": "…って、もうこんな時間！\n今日バーゲンだったのに！",
+    "stage": 1,
+    "context": "食べ続ける女性"
+  },
+  {
+    "key": "MSG_020_2",
+    "original": "急がなきゃ、\n狙っていた洋服がなくなっちゃう！",
+    "translation": "急がなきゃ、\n狙っていた洋服がなくなっちゃう！",
+    "stage": 1,
+    "context": "食べ続ける女性"
+  },
+  {
+    "key": "MSG_020_3",
+    "original": "それじゃ、あなたたち、\nどうもありがとう！\n助かったわ！",
+    "translation": "それじゃ、あなたたち、\nどうもありがとう！\n助かったわ！",
+    "stage": 1,
+    "context": "食べ続ける女性"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あっ、いえ、あの…\nって、行っちゃった。",
+    "translation": "あっ、いえ、あの…\nって、行っちゃった。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "あれだけ食べたのに元気だね。\n狙ってた洋服が買えるといいけど…",
+    "translation": "あれだけ食べたのに元気だね。\n狙ってた洋服が買えるといいけど…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_021_2",
+    "original": "サイズ大丈夫かな…",
+    "translation": "サイズ大丈夫かな…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "＞ＢＰ５Ｐゲット！",
+    "translation": "＞ＢＰ５Ｐゲット！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_食べ続ける女性",
+    "original": "食べ続ける女性",
+    "translation": "食べ続ける女性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

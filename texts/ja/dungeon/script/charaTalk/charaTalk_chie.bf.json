@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "おぉ！　オタカラスポット発見！\nどうする？　調べる？",
+    "translation": "おぉ！　オタカラスポット発見！\nどうする？　調べる？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん！\n敵にスキは見せないよ！",
+    "translation": "うん！\n敵にスキは見せないよ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "了解！\nなりふり構わず探すぞよ！",
+    "translation": "了解！\nなりふり構わず探すぞよ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "危険もあるもんね。\nラジャー！",
+    "translation": "危険もあるもんね。\nラジャー！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "えーっと…\nこれで終わり？",
+    "translation": "えーっと…\nこれで終わり？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いただくぞよ！",
+    "translation": "いただくぞよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ゲットゲット。",
+    "translation": "ゲットゲット。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いい感じ！",
+    "translation": "いい感じ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あっぶなかったー！\nもう終わりにしよ？",
+    "translation": "あっぶなかったー！\nもう終わりにしよ？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "すごいじゃん！",
+    "translation": "すごいじゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "レアじゃん！",
+    "translation": "レアじゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "スゴっ…",
+    "translation": "スゴっ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "おっ、近道はっけーん！\n通ってみる？",
+    "translation": "おっ、近道はっけーん！\n通ってみる？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないかぁ…\n残念だけど、諦めよ。",
+    "translation": "こっちは通れないかぁ…\n残念だけど、諦めよ。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "な、なんかここヤバくない？\nヤバい気配しない？",
+    "translation": "な、なんかここヤバくない？\nヤバい気配しない？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ほ、ほんとに？\n分かった…調べてみよ。",
+    "translation": "ほ、ほんとに？\n分かった…調べてみよ。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "うんうん、そうしよう！",
+    "translation": "うんうん、そうしよう！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "つ、強かった～。\nあんな敵がいるなんて、ヤバ…",
+    "translation": "つ、強かった～。\nあんな敵がいるなんて、ヤバ…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ムム？\nなんかシャドウの気配が強い気が…",
+    "translation": "ムム？\nなんかシャドウの気配が強い気が…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "よし！　気をつけて調べよう！",
+    "translation": "よし！　気をつけて調べよう！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ありゃ、止めておく？",
+    "translation": "ありゃ、止めておく？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "びっくりしたー…\n急に出てくるんだもん。",
+    "translation": "びっくりしたー…\n急に出てくるんだもん。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "お？　映画館に戻る？",
+    "translation": "お？　映画館に戻る？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  }
+]

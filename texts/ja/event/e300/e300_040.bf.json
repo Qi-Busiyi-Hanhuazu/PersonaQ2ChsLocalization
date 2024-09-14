@@ -1,0 +1,233 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ん？　何か落ちてんぞ。",
+    "translation": "ん？　何か落ちてんぞ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "これは…拳銃？",
+    "translation": "これは…拳銃？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "本物？",
+    "translation": "本物？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "似た物を見たことがある",
+    "translation": "似た物を見たことがある",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "モデルガンにしても、\nなんでこんな所に…",
+    "translation": "モデルガンにしても、\nなんでこんな所に…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ああ、俺もつい最近、\nこれとほぼ同型を見た気がする…",
+    "translation": "ああ、俺もつい最近、\nこれとほぼ同型を見た気がする…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "待って！　それ、召喚器じゃない！？",
+    "translation": "待って！　それ、召喚器じゃない！？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "召喚器って、[P3P姓]が\nペルソナを呼ぶときに使ってるヤツか？",
+    "translation": "召喚器って、[P3P姓]が\nペルソナを呼ぶときに使ってるヤツか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そう。ほら、『Ｓ．Ｅ．Ｅ．Ｓ．』って\n書いてあるでしょ？",
+    "translation": "そう。ほら、『Ｓ．Ｅ．Ｅ．Ｓ．』って\n書いてあるでしょ？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "私の召喚器はちゃんとあるから、\nこれは仲間のだと思う！",
+    "translation": "私の召喚器はちゃんとあるから、\nこれは仲間のだと思う！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "じゃあ、この映画に[P3P名]ちゃんの\n仲間がいるのは確定！？",
+    "translation": "じゃあ、この映画に[P3P名]ちゃんの\n仲間がいるのは確定！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "たぶん。\n誰の召喚器までかは分からないけど…",
+    "translation": "たぶん。\n誰の召喚器までかは分からないけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "コレ使ってペルソナよぶんだろ？\nねぇとヤバいんじゃねーの？",
+    "translation": "コレ使ってペルソナよぶんだろ？\nねぇとヤバいんじゃねーの？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "敵に襲われて落としちゃったのかな。\nみんな、無事だといいんだけど…",
+    "translation": "敵に襲われて落としちゃったのかな。\nみんな、無事だといいんだけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そんな暗い顔しない！\n花村だって、ヘーキだったっしょ？",
+    "translation": "そんな暗い顔しない！\n花村だって、ヘーキだったっしょ？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "[P3P名]ちゃんの仲間も、\n絶対に見つけるからさ！　ね！？",
+    "translation": "[P3P名]ちゃんの仲間も、\n絶対に見つけるからさ！　ね！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "SEL_013_0",
+    "original": "もちろんだ",
+    "translation": "もちろんだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_013_1",
+    "original": "心配はいらない",
+    "translation": "心配はいらない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ワガハイたちがついてんだ。\n安心して頼ってくれ。",
+    "translation": "ワガハイたちがついてんだ。\n安心して頼ってくれ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "怪盗団だけじゃねーぜ？\n俺たち、特別捜査隊もついてっからな。",
+    "translation": "怪盗団だけじゃねーぜ？\n俺たち、特別捜査隊もついてっからな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "みんな…",
+    "translation": "みんな…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "ありがとう、元気でた！\nそうだね、とにかく先に行かなくちゃ！",
+    "translation": "ありがとう、元気でた！\nそうだね、とにかく先に行かなくちゃ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "きっと、仲間も君を探している。\n早く合流できるように進もう。",
+    "translation": "きっと、仲間も君を探している。\n早く合流できるように進もう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

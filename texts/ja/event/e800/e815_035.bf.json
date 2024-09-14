@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ムムッ！　ホネを発見したクマ！",
+    "translation": "ムムッ！　ホネを発見したクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "まったくお行儀悪いクマね。\nあっちこっちつまみ食いしてからに。",
+    "translation": "まったくお行儀悪いクマね。\nあっちこっちつまみ食いしてからに。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "どんなケダモノも、お前に行儀のことは\n言われたくねえだろうな…",
+    "translation": "どんなケダモノも、お前に行儀のことは\n言われたくねえだろうな…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "クロウ、骨を調べてもらえる？",
+    "translation": "クロウ、骨を調べてもらえる？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ああ、いま見ている。",
+    "translation": "ああ、いま見ている。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "風化が始まっているね。\nこれはかなり古いものだ。",
+    "translation": "風化が始まっているね。\nこれはかなり古いものだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "ハズレか",
+    "translation": "ハズレか",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "別の場所へ行こう",
+    "translation": "別の場所へ行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "はは、コロマル君も\n同じ意見みたいだね。",
+    "translation": "はは、コロマル君も\n同じ意見みたいだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "手掛かりになるのは、もっと新しい骨だ。\n注意して探してみよう。",
+    "translation": "手掛かりになるのは、もっと新しい骨だ。\n注意して探してみよう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  }
+]

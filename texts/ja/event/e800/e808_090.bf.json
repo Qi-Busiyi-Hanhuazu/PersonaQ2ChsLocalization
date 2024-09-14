@@ -1,0 +1,205 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あの警官がニセモノ？\nでも、素直に認めるかな？",
+    "translation": "あの警官がニセモノ？\nでも、素直に認めるかな？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "戦いを挑もう",
+    "translation": "戦いを挑もう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "話を聞こう",
+    "translation": "話を聞こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "いや、万が一ということもあります。",
+    "translation": "いや、万が一ということもあります。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "探りを入れてみましょう。\n僕に任せて下さい。",
+    "translation": "探りを入れてみましょう。\n僕に任せて下さい。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "はい、まずは探りを入れてみます。",
+    "translation": "はい、まずは探りを入れてみます。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "僕に考えがあります。\nここは任せて下さい。",
+    "translation": "僕に考えがあります。\nここは任せて下さい。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なんだ、また君か。\n我々は職務中でね、邪魔をしないでくれ。",
+    "translation": "なんだ、また君か。\n我々は職務中でね、邪魔をしないでくれ。",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ニセモノは…お前だ！",
+    "translation": "ニセモノは…お前だ！",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "さあ、観念して正体を現せ！\n僕らが成敗する！",
+    "translation": "さあ、観念して正体を現せ！\n僕らが成敗する！",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "おお！？　まさかの急展開！？",
+    "translation": "おお！？　まさかの急展開！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "な、何をわけのわからないことを…\n君はいったい何なんだ！？",
+    "translation": "な、何をわけのわからないことを…\n君はいったい何なんだ！？",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あなたは先ほど、こう言いました。",
+    "translation": "あなたは先ほど、こう言いました。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "『ナンバー「１１－１０」のパトカーに\n　乗っている警官が怪しい』",
+    "translation": "『ナンバー「１１－１０」のパトカーに\n　乗っている警官が怪しい』",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "あなたの言葉が正しいと仮定すると、\n『１１－１０』の警官の話はウソになる。",
+    "translation": "あなたの言葉が正しいと仮定すると、\n『１１－１０』の警官の話はウソになる。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_3",
+    "original": "しかし『１１－１０』の警官の証言は、\n『「７７－５５」の警官は本物』だった。",
+    "translation": "しかし『１１－１０』の警官の証言は、\n『「７７－５５」の警官は本物』だった。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_4",
+    "original": "『７７－５５』の警官がニセモノなら、\n『ウソは一人だけ』という条件に矛盾する。",
+    "translation": "『７７－５５』の警官がニセモノなら、\n『ウソは一人だけ』という条件に矛盾する。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_5",
+    "original": "つまり、ウソを言っているのはあなただ！",
+    "translation": "つまり、ウソを言っているのはあなただ！",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "くそ、クレイジーな奴だ！\nいま応援を…",
+    "translation": "くそ、クレイジーな奴だ！\nいま応援を…",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "……！？",
+    "translation": "……！？",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_009_2",
+    "original": "…………。",
+    "translation": "…………。",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_009_3",
+    "original": "…ＯＯＯＯＯＯＯＯＯＨＮ！",
+    "translation": "…ＯＯＯＯＯＯＯＯＯＨＮ！",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ええ！？\nいきなり正体あらわしたぁ！？",
+    "translation": "ええ！？\nいきなり正体あらわしたぁ！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "推理はお見事、大正解ってことだ！\nみんな、来るぞ！",
+    "translation": "推理はお見事、大正解ってことだ！\nみんな、来るぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真面目そうな警官",
+    "original": "真面目そうな警官",
+    "translation": "真面目そうな警官",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  }
+]

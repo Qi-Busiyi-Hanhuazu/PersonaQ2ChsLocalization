@@ -1,0 +1,121 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふむ…",
+    "translation": "ふむ…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "どうしたの？　フォックス。",
+    "translation": "どうしたの？　フォックス。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "いや、この柵に専用のしるしを\n考えてはどうかと思ったのだが…",
+    "translation": "いや、この柵に専用のしるしを\n考えてはどうかと思ったのだが…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うん。　悪くないんじゃないかな？",
+    "translation": "うん。　悪くないんじゃないかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "僕もあった方が\n地図をつけるときに便利だと思うよ。",
+    "translation": "僕もあった方が\n地図をつけるときに便利だと思うよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "欲しい",
+    "translation": "欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "要るか？",
+    "translation": "要るか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そうか。\nなら、こんな感じの物はどうだろうか？",
+    "translation": "そうか。\nなら、こんな感じの物はどうだろうか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ふむ…\n一応、案だけは出させてもらおう。",
+    "translation": "ふむ…\n一応、案だけは出させてもらおう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "こんな感じでどうだろうか？",
+    "translation": "こんな感じでどうだろうか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "分かり易いに越したことはないしね。\nせっかくだし、使ってみない？",
+    "translation": "分かり易いに越したことはないしね。\nせっかくだし、使ってみない？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_ICON_KAITEN_KABE_OPE_0",
+    "original": "下画面の地図に[颜色 03]『回転柵』[颜色 01]の\nアイコンが追加されました。",
+    "translation": "下画面の地図に[颜色 03]『回転柵』[颜色 01]の\nアイコンが追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ICON_KAITEN_KABE_OPE_1",
+    "original": "アイコンの使用用途をもう一度\n確認したい場合は",
+    "translation": "アイコンの使用用途をもう一度\n確認したい場合は",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ICON_KAITEN_KABE_OPE_2",
+    "original": "地図の右下にある[颜色 03]ＨＥＬＰ[颜色 01]の[颜色 03]アイコンの種類[颜色 01]\nから、確認する事が出来ます。",
+    "translation": "地図の右下にある[颜色 03]ＨＥＬＰ[颜色 01]の[颜色 03]アイコンの種類[颜色 01]\nから、確認する事が出来ます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

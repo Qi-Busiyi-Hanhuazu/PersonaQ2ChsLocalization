@@ -1,0 +1,247 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "オタカラスポットだよ！\n採っていく？",
+    "translation": "オタカラスポットだよ！\n採っていく？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん！\n気をつけて探そっか！",
+    "translation": "うん！\n気をつけて探そっか！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そうと決まったら、\nいっぱい採っちゃお！",
+    "translation": "そうと決まったら、\nいっぱい採っちゃお！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "止めとくんだね、了解！",
+    "translation": "止めとくんだね、了解！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あるものは全部、採れたみたい！",
+    "translation": "あるものは全部、採れたみたい！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "アイテムゲット！",
+    "translation": "アイテムゲット！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いい感じだね。",
+    "translation": "いい感じだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "イエイ！",
+    "translation": "イエイ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "戦闘終了！\nこれで終わりかな？",
+    "translation": "戦闘終了！\nこれで終わりかな？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "レアだよ！",
+    "translation": "レアだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "すごーい！",
+    "translation": "すごーい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "やった！",
+    "translation": "やった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカット発見！\n通っておく？",
+    "translation": "ショートカット発見！\n通っておく？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ショートカット発見！\n通っておく？",
+    "translation": "ショートカット発見！\n通っておく？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないんだね。\n反対側を調べてみよ！",
+    "translation": "こっちは通れないんだね。\n反対側を調べてみよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ちょ、ちょっと！\nヤバい気配がするよ、気をつけて！",
+    "translation": "ちょ、ちょっと！\nヤバい気配がするよ、気をつけて！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かった。\n精一杯、サポートするね！",
+    "translation": "分かった。\n精一杯、サポートするね！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだね。\n止めておいたほうが良いかも…",
+    "translation": "そうだね。\n止めておいたほうが良いかも…",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "だ、大丈夫だった！？\nかなり強かったね…お疲れさま！",
+    "translation": "だ、大丈夫だった！？\nかなり強かったね…お疲れさま！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "シャドウの気配、多数アリだよ！\n調べるなら気をつけてね！",
+    "translation": "シャドウの気配、多数アリだよ！\n調べるなら気をつけてね！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "分かった、気をつけてね！",
+    "translation": "分かった、気をつけてね！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "了解！",
+    "translation": "了解！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "みんな、お疲れ様！",
+    "translation": "みんな、お疲れ様！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "そこから映画館に戻れるよ！\n戻ってくる？",
+    "translation": "そこから映画館に戻れるよ！\n戻ってくる？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  }
+]

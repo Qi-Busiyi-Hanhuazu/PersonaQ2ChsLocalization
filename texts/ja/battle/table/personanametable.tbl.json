@@ -1,0 +1,2438 @@
+[
+  {
+    "key": "text_002_0",
+    "original": "スライム",
+    "translation": "スライム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_003_0",
+    "original": "アメノウズメ",
+    "translation": "アメノウズメ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_004_0",
+    "original": "レギオン",
+    "translation": "レギオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_005_0",
+    "original": "オセ",
+    "translation": "オセ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_006_0",
+    "original": "ジャアクフロスト",
+    "translation": "ジャアクフロスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_007_0",
+    "original": "デカラビア",
+    "translation": "デカラビア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_008_0",
+    "original": "シキオウジ",
+    "translation": "シキオウジ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_010_0",
+    "original": "アガシオン",
+    "translation": "アガシオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_011_0",
+    "original": "オロバス",
+    "translation": "オロバス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_012_0",
+    "original": "ジャックフロスト",
+    "translation": "ジャックフロスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_013_0",
+    "original": "カハク",
+    "translation": "カハク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_014_0",
+    "original": "ジャックランタン",
+    "translation": "ジャックランタン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_015_0",
+    "original": "ディース",
+    "translation": "ディース",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_016_0",
+    "original": "ランダ",
+    "translation": "ランダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_017_0",
+    "original": "ジン",
+    "translation": "ジン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_018_0",
+    "original": "スルト",
+    "translation": "スルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_019_0",
+    "original": "マダ",
+    "translation": "マダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_020_0",
+    "original": "コロポックル",
+    "translation": "コロポックル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_021_0",
+    "original": "サラスヴァティ",
+    "translation": "サラスヴァティ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_022_0",
+    "original": "ハイピクシー",
+    "translation": "ハイピクシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_023_0",
+    "original": "ガンガー",
+    "translation": "ガンガー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_024_0",
+    "original": "パールヴァティ",
+    "translation": "パールヴァティ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_025_0",
+    "original": "キクリヒメ",
+    "translation": "キクリヒメ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_026_0",
+    "original": "ハリティー",
+    "translation": "ハリティー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_027_0",
+    "original": "ツィツィミトル",
+    "translation": "ツィツィミトル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_028_0",
+    "original": "スカアハ",
+    "translation": "スカアハ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_029_0",
+    "original": "ヤクシニー",
+    "translation": "ヤクシニー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_030_0",
+    "original": "ティターニア",
+    "translation": "ティターニア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_031_0",
+    "original": "ゴルゴン",
+    "translation": "ゴルゴン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_032_0",
+    "original": "ガブリエル",
+    "translation": "ガブリエル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_033_0",
+    "original": "スカディ",
+    "translation": "スカディ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_034_0",
+    "original": "マザーハーロット",
+    "translation": "マザーハーロット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_035_0",
+    "original": "ラクシュミ",
+    "translation": "ラクシュミ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_036_0",
+    "original": "オベロン",
+    "translation": "オベロン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_037_0",
+    "original": "キングフロスト",
+    "translation": "キングフロスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_038_0",
+    "original": "セタンタ",
+    "translation": "セタンタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_039_0",
+    "original": "メズキ",
+    "translation": "メズキ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_040_0",
+    "original": "オオクニヌシ",
+    "translation": "オオクニヌシ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_041_0",
+    "original": "トート",
+    "translation": "トート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_042_0",
+    "original": "オオヤマツミ",
+    "translation": "オオヤマツミ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_043_0",
+    "original": "パピルサグ",
+    "translation": "パピルサグ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_044_0",
+    "original": "キングー",
+    "translation": "キングー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_045_0",
+    "original": "バロン",
+    "translation": "バロン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_046_0",
+    "original": "オーディン",
+    "translation": "オーディン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_047_0",
+    "original": "アンズー",
+    "translation": "アンズー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_048_0",
+    "original": "シーサー",
+    "translation": "シーサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_049_0",
+    "original": "ユニコーン",
+    "translation": "ユニコーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_050_0",
+    "original": "ゴズキ",
+    "translation": "ゴズキ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_051_0",
+    "original": "フラロウス",
+    "translation": "フラロウス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_052_0",
+    "original": "だいそうじょう",
+    "translation": "だいそうじょう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_053_0",
+    "original": "ハチマン",
+    "translation": "ハチマン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_054_0",
+    "original": "コウリュウ",
+    "translation": "コウリュウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_055_0",
+    "original": "ピクシー",
+    "translation": "ピクシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_056_0",
+    "original": "アルプ",
+    "translation": "アルプ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_057_0",
+    "original": "モー・ショボー",
+    "translation": "モー・ショボー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_058_0",
+    "original": "クイーンメイブ",
+    "translation": "クイーンメイブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_059_0",
+    "original": "リャナンシー",
+    "translation": "リャナンシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_060_0",
+    "original": "ラファエル",
+    "translation": "ラファエル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_061_0",
+    "original": "キュベレ",
+    "translation": "キュベレ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_062_0",
+    "original": "イシュタル",
+    "translation": "イシュタル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_063_0",
+    "original": "ナタタイシ",
+    "translation": "ナタタイシ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_064_0",
+    "original": "キマイラ",
+    "translation": "キマイラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_065_0",
+    "original": "エリゴール",
+    "translation": "エリゴール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_067_0",
+    "original": "アレス",
+    "translation": "アレス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_068_0",
+    "original": "オオミツヌ",
+    "translation": "オオミツヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_069_0",
+    "original": "トリグラフ",
+    "translation": "トリグラフ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_070_0",
+    "original": "トール",
+    "translation": "トール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_071_0",
+    "original": "オファニム",
+    "translation": "オファニム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_072_0",
+    "original": "アタバク",
+    "translation": "アタバク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_073_0",
+    "original": "フツヌシ",
+    "translation": "フツヌシ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_074_0",
+    "original": "エンジェル",
+    "translation": "エンジェル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_075_0",
+    "original": "パワー",
+    "translation": "パワー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_076_0",
+    "original": "ヴァーチャー",
+    "translation": "ヴァーチャー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_077_0",
+    "original": "ソロネ",
+    "translation": "ソロネ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_078_0",
+    "original": "ウリエル",
+    "translation": "ウリエル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_079_0",
+    "original": "メルキセデク",
+    "translation": "メルキセデク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_080_0",
+    "original": "スラオシャ",
+    "translation": "スラオシャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_081_0",
+    "original": "アズミ",
+    "translation": "アズミ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_082_0",
+    "original": "イッポンダタラ",
+    "translation": "イッポンダタラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_083_0",
+    "original": "モスマン",
+    "translation": "モスマン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_084_0",
+    "original": "ヒトコトヌシ",
+    "translation": "ヒトコトヌシ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_085_0",
+    "original": "クラマテング",
+    "translation": "クラマテング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_086_0",
+    "original": "ニーズホッグ",
+    "translation": "ニーズホッグ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_087_0",
+    "original": "ネビロス",
+    "translation": "ネビロス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_088_0",
+    "original": "アラハバキ",
+    "translation": "アラハバキ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_089_0",
+    "original": "オンギョウキ",
+    "translation": "オンギョウキ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_090_0",
+    "original": "エンプーサ",
+    "translation": "エンプーサ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_091_0",
+    "original": "ライジュウ",
+    "translation": "ライジュウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_092_0",
+    "original": "フォルトゥナ",
+    "translation": "フォルトゥナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_093_0",
+    "original": "クロト",
+    "translation": "クロト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_094_0",
+    "original": "ラケシス",
+    "translation": "ラケシス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_095_0",
+    "original": "アナンタ",
+    "translation": "アナンタ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_096_0",
+    "original": "アトロポス",
+    "translation": "アトロポス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_097_0",
+    "original": "ノルン",
+    "translation": "ノルン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_098_0",
+    "original": "パズス",
+    "translation": "パズス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_099_0",
+    "original": "ザントマン",
+    "translation": "ザントマン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_100_0",
+    "original": "ヴァルキリー",
+    "translation": "ヴァルキリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_101_0",
+    "original": "ラクシャーサ",
+    "translation": "ラクシャーサ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_102_0",
+    "original": "ツチグモ",
+    "translation": "ツチグモ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_103_0",
+    "original": "オニ",
+    "translation": "オニ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_104_0",
+    "original": "ハヌマーン",
+    "translation": "ハヌマーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_105_0",
+    "original": "ジークフリード",
+    "translation": "ジークフリード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_106_0",
+    "original": "カーリー",
+    "translation": "カーリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_107_0",
+    "original": "ザオウゴンゲン",
+    "translation": "ザオウゴンゲン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_108_0",
+    "original": "オンモラキ",
+    "translation": "オンモラキ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_109_0",
+    "original": "ベリス",
+    "translation": "ベリス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_110_0",
+    "original": "ヨモツイクサ",
+    "translation": "ヨモツイクサ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_111_0",
+    "original": "オルトロス",
+    "translation": "オルトロス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_112_0",
+    "original": "ヤツフサ",
+    "translation": "ヤツフサ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_113_0",
+    "original": "バジリスク",
+    "translation": "バジリスク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_114_0",
+    "original": "ヘルズエンジェル",
+    "translation": "ヘルズエンジェル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_115_0",
+    "original": "ヴァスキ",
+    "translation": "ヴァスキ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_116_0",
+    "original": "アティス",
+    "translation": "アティス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_117_0",
+    "original": "モコイ",
+    "translation": "モコイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_118_0",
+    "original": "トゥルダク",
+    "translation": "トゥルダク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_119_0",
+    "original": "マタドール",
+    "translation": "マタドール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_120_0",
+    "original": "ホワイトライダー",
+    "translation": "ホワイトライダー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_121_0",
+    "original": "サマエル",
+    "translation": "サマエル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_122_0",
+    "original": "モト",
+    "translation": "モト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_123_0",
+    "original": "ペイルライダー",
+    "translation": "ペイルライダー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_124_0",
+    "original": "アリス",
+    "translation": "アリス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_125_0",
+    "original": "マハカーラ",
+    "translation": "マハカーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_126_0",
+    "original": "アプサラス",
+    "translation": "アプサラス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_127_0",
+    "original": "カイチ",
+    "translation": "カイチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_128_0",
+    "original": "ミトラ",
+    "translation": "ミトラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_129_0",
+    "original": "ゲンブ",
+    "translation": "ゲンブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_130_0",
+    "original": "セイリュウ",
+    "translation": "セイリュウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_131_0",
+    "original": "スザク",
+    "translation": "スザク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_132_0",
+    "original": "ビャッコ",
+    "translation": "ビャッコ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_133_0",
+    "original": "ヴィシュヌ",
+    "translation": "ヴィシュヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_134_0",
+    "original": "ウコバク",
+    "translation": "ウコバク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_135_0",
+    "original": "インキュバス",
+    "translation": "インキュバス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_136_0",
+    "original": "サキュバス",
+    "translation": "サキュバス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_137_0",
+    "original": "リリス",
+    "translation": "リリス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_138_0",
+    "original": "ベルフェゴール",
+    "translation": "ベルフェゴール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_139_0",
+    "original": "ベリアル",
+    "translation": "ベリアル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_140_0",
+    "original": "アスタロト",
+    "translation": "アスタロト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_141_0",
+    "original": "ベルゼブブ",
+    "translation": "ベルゼブブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_142_0",
+    "original": "クー・フーリン",
+    "translation": "クー・フーリン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_143_0",
+    "original": "アバドン",
+    "translation": "アバドン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_144_0",
+    "original": "マーラ",
+    "translation": "マーラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_145_0",
+    "original": "セイテンタイセイ",
+    "translation": "セイテンタイセイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_146_0",
+    "original": "ヨシツネ",
+    "translation": "ヨシツネ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_147_0",
+    "original": "マサカド",
+    "translation": "マサカド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_148_0",
+    "original": "シヴァ",
+    "translation": "シヴァ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_149_0",
+    "original": "シュウ",
+    "translation": "シュウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_150_0",
+    "original": "キウン",
+    "translation": "キウン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_151_0",
+    "original": "ヌエ",
+    "translation": "ヌエ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_152_0",
+    "original": "ネコショウグン",
+    "translation": "ネコショウグン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_153_0",
+    "original": "ガネーシャ",
+    "translation": "ガネーシャ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_154_0",
+    "original": "ガルーダ",
+    "translation": "ガルーダ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_155_0",
+    "original": "カルティケーヤ",
+    "translation": "カルティケーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_156_0",
+    "original": "サトゥルヌス",
+    "translation": "サトゥルヌス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_157_0",
+    "original": "ルシフェル",
+    "translation": "ルシフェル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_158_0",
+    "original": "アンドラス",
+    "translation": "アンドラス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_159_0",
+    "original": "ノズチ",
+    "translation": "ノズチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_160_0",
+    "original": "ヤマタノオロチ",
+    "translation": "ヤマタノオロチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_161_0",
+    "original": "アルラウネ",
+    "translation": "アルラウネ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_162_0",
+    "original": "ギリメカラ",
+    "translation": "ギリメカラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_163_0",
+    "original": "ミシャグジさま",
+    "translation": "ミシャグジさま",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_164_0",
+    "original": "チェルノボグ",
+    "translation": "チェルノボグ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_165_0",
+    "original": "セト",
+    "translation": "セト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_166_0",
+    "original": "バアル・ゼブル",
+    "translation": "バアル・ゼブル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_167_0",
+    "original": "サンダルフォン",
+    "translation": "サンダルフォン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_168_0",
+    "original": "カーシー",
+    "translation": "カーシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_169_0",
+    "original": "ホウオウ",
+    "translation": "ホウオウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_170_0",
+    "original": "ヤタガラス",
+    "translation": "ヤタガラス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_171_0",
+    "original": "ナラシンハ",
+    "translation": "ナラシンハ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_172_0",
+    "original": "タムリン",
+    "translation": "タムリン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_173_0",
+    "original": "ジャターユ",
+    "translation": "ジャターユ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_174_0",
+    "original": "スパルナ",
+    "translation": "スパルナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_175_0",
+    "original": "アスラおう",
+    "translation": "アスラおう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_176_0",
+    "original": "レッドライダー",
+    "translation": "レッドライダー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_177_0",
+    "original": "アヌビス",
+    "translation": "アヌビス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_178_0",
+    "original": "ブラックライダー",
+    "translation": "ブラックライダー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_179_0",
+    "original": "トランペッター",
+    "translation": "トランペッター",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_180_0",
+    "original": "ミカエル",
+    "translation": "ミカエル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_181_0",
+    "original": "サタン",
+    "translation": "サタン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_182_0",
+    "original": "メタトロン",
+    "translation": "メタトロン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_183_0",
+    "original": "アルダー",
+    "translation": "アルダー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_184_0",
+    "original": "ルシファー",
+    "translation": "ルシファー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_185_0",
+    "original": "重装ゼウス",
+    "translation": "重装ゼウス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_186_0",
+    "original": "ゼウス",
+    "translation": "ゼウス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_187_0",
+    "original": "アークエンジェル",
+    "translation": "アークエンジェル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_188_0",
+    "original": "アリラト",
+    "translation": "アリラト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_189_0",
+    "original": "ドミニオン",
+    "translation": "ドミニオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_190_0",
+    "original": "トゥルダク",
+    "translation": "トゥルダク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_191_0",
+    "original": "バジリスク",
+    "translation": "バジリスク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_192_0",
+    "original": "オオヤマツミ",
+    "translation": "オオヤマツミ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_193_0",
+    "original": "重装ゼウス",
+    "translation": "重装ゼウス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_194_0",
+    "original": "ゼウス",
+    "translation": "ゼウス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_195_0",
+    "original": "ジークフリード",
+    "translation": "ジークフリード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_196_0",
+    "original": "オベロン",
+    "translation": "オベロン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_197_0",
+    "original": "クー・フーリン",
+    "translation": "クー・フーリン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_198_0",
+    "original": "アスラおう",
+    "translation": "アスラおう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_199_0",
+    "original": "ロキ",
+    "translation": "ロキ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_200_0",
+    "original": "オオクニヌシ",
+    "translation": "オオクニヌシ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_201_0",
+    "original": "オーディン",
+    "translation": "オーディン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_202_0",
+    "original": "ヨシツネ",
+    "translation": "ヨシツネ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_203_0",
+    "original": "ルシフェル",
+    "translation": "ルシフェル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_204_0",
+    "original": "ジャアクフロスト",
+    "translation": "ジャアクフロスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_205_0",
+    "original": "スルト",
+    "translation": "スルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_206_0",
+    "original": "ジャックフロスト",
+    "translation": "ジャックフロスト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_207_0",
+    "original": "トール",
+    "translation": "トール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_208_0",
+    "original": "タナトス",
+    "translation": "タナトス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_209_0",
+    "original": "カグヤ",
+    "translation": "カグヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_210_0",
+    "original": "マガツイザナギ",
+    "translation": "マガツイザナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_211_0",
+    "original": "オルフェウス・改",
+    "translation": "オルフェウス・改",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_212_0",
+    "original": "カムイモシリ",
+    "translation": "カムイモシリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_213_0",
+    "original": "コウゼオン",
+    "translation": "コウゼオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_214_0",
+    "original": "スメオオミカミ",
+    "translation": "スメオオミカミ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_215_0",
+    "original": "タケジザイテン",
+    "translation": "タケジザイテン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_216_0",
+    "original": "タケハヤスサノオ",
+    "translation": "タケハヤスサノオ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_217_0",
+    "original": "ハラエドノオオカミ",
+    "translation": "ハラエドノオオカミ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_218_0",
+    "original": "ヤマトスメラミコト",
+    "translation": "ヤマトスメラミコト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_219_0",
+    "original": "シヴァ",
+    "translation": "シヴァ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_220_0",
+    "original": "ヴィシュヌ",
+    "translation": "ヴィシュヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_221_0",
+    "original": "レギオン",
+    "translation": "レギオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_222_0",
+    "original": "マサカド",
+    "translation": "マサカド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_223_0",
+    "original": "アリス",
+    "translation": "アリス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_224_0",
+    "original": "コウリュウ",
+    "translation": "コウリュウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_225_0",
+    "original": "サンダルフォン",
+    "translation": "サンダルフォン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_226_0",
+    "original": "ベルゼブブ",
+    "translation": "ベルゼブブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_227_0",
+    "original": "サタン",
+    "translation": "サタン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_228_0",
+    "original": "トランペッター",
+    "translation": "トランペッター",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_229_0",
+    "original": "リリス",
+    "translation": "リリス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_230_0",
+    "original": "ミカエル",
+    "translation": "ミカエル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_231_0",
+    "original": "ウリエル",
+    "translation": "ウリエル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_232_0",
+    "original": "ガブリエル",
+    "translation": "ガブリエル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_233_0",
+    "original": "ラファエル",
+    "translation": "ラファエル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_240_0",
+    "original": "イザナギ",
+    "translation": "イザナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_241_0",
+    "original": "イザナギノオオカミ",
+    "translation": "イザナギノオオカミ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_242_0",
+    "original": "オルフェウス",
+    "translation": "オルフェウス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_243_0",
+    "original": "オルフェウス・改",
+    "translation": "オルフェウス・改",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_244_0",
+    "original": "ジライヤ",
+    "translation": "ジライヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_245_0",
+    "original": "スサノオ",
+    "translation": "スサノオ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_246_0",
+    "original": "トモエ",
+    "translation": "トモエ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_247_0",
+    "original": "スズカゴンゲン",
+    "translation": "スズカゴンゲン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_248_0",
+    "original": "コノハナサクヤ",
+    "translation": "コノハナサクヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_249_0",
+    "original": "アマテラス",
+    "translation": "アマテラス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_250_0",
+    "original": "ヒミコ",
+    "translation": "ヒミコ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_251_0",
+    "original": "カンゼオン",
+    "translation": "カンゼオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_252_0",
+    "original": "タケミカヅチ",
+    "translation": "タケミカヅチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_253_0",
+    "original": "ロクテンマオウ",
+    "translation": "ロクテンマオウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_254_0",
+    "original": "スクナヒコナ",
+    "translation": "スクナヒコナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_255_0",
+    "original": "ヤマトタケル",
+    "translation": "ヤマトタケル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_256_0",
+    "original": "キントキドウジ",
+    "translation": "キントキドウジ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_257_0",
+    "original": "カムイ",
+    "translation": "カムイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_258_0",
+    "original": "イオ",
+    "translation": "イオ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_259_0",
+    "original": "イシス",
+    "translation": "イシス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_260_0",
+    "original": "ヘルメス",
+    "translation": "ヘルメス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_261_0",
+    "original": "トリスメギストス",
+    "translation": "トリスメギストス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_262_0",
+    "original": "ポリデュークス",
+    "translation": "ポリデュークス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_263_0",
+    "original": "カエサル",
+    "translation": "カエサル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_264_0",
+    "original": "ペンテシレア",
+    "translation": "ペンテシレア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_265_0",
+    "original": "アルテミシア",
+    "translation": "アルテミシア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_266_0",
+    "original": "ルキア",
+    "translation": "ルキア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_267_0",
+    "original": "ユノ",
+    "translation": "ユノ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_268_0",
+    "original": "パラディオン",
+    "translation": "パラディオン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_269_0",
+    "original": "アテナ",
+    "translation": "アテナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_270_0",
+    "original": "ネメシス",
+    "translation": "ネメシス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_271_0",
+    "original": "カーラ・ネミ",
+    "translation": "カーラ・ネミ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_272_0",
+    "original": "ケルベロス",
+    "translation": "ケルベロス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_273_0",
+    "original": "ケルベロス",
+    "translation": "ケルベロス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_274_0",
+    "original": "カストール",
+    "translation": "カストール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_275_0",
+    "original": "カストール",
+    "translation": "カストール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_276_0",
+    "original": "オルフェウス",
+    "translation": "オルフェウス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_277_0",
+    "original": "メサイア",
+    "translation": "メサイア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_278_0",
+    "original": "アルセーヌ",
+    "translation": "アルセーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_279_0",
+    "original": "サタナエル",
+    "translation": "サタナエル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_280_0",
+    "original": "キャプテン・キッド",
+    "translation": "キャプテン・キッド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_281_0",
+    "original": "セイテンタイセイ",
+    "translation": "セイテンタイセイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_282_0",
+    "original": "カルメン",
+    "translation": "カルメン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_283_0",
+    "original": "ヘカーテ",
+    "translation": "ヘカーテ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_284_0",
+    "original": "ゾロ",
+    "translation": "ゾロ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_285_0",
+    "original": "メルクリウス",
+    "translation": "メルクリウス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_286_0",
+    "original": "ゴエモン",
+    "translation": "ゴエモン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_287_0",
+    "original": "カムスサノヲ",
+    "translation": "カムスサノヲ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_288_0",
+    "original": "ヨハンナ",
+    "translation": "ヨハンナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_289_0",
+    "original": "アナト",
+    "translation": "アナト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_290_0",
+    "original": "ネクロノミコン",
+    "translation": "ネクロノミコン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_291_0",
+    "original": "プロメテウス",
+    "translation": "プロメテウス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_292_0",
+    "original": "ミラディ",
+    "translation": "ミラディ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_293_0",
+    "original": "アスタルテ",
+    "translation": "アスタルテ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_294_0",
+    "original": "ロビンフッド",
+    "translation": "ロビンフッド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_295_0",
+    "original": "ロビンフッド",
+    "translation": "ロビンフッド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_336_0",
+    "original": "サキミタマ",
+    "translation": "サキミタマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_337_0",
+    "original": "クシミタマ",
+    "translation": "クシミタマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_338_0",
+    "original": "ニギミタマ",
+    "translation": "ニギミタマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_339_0",
+    "original": "アラミタマ",
+    "translation": "アラミタマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_340_0",
+    "original": "マンドレイク",
+    "translation": "マンドレイク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_341_0",
+    "original": "ハルパス",
+    "translation": "ハルパス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_342_0",
+    "original": "ヘケト",
+    "translation": "ヘケト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_343_0",
+    "original": "ケルピー",
+    "translation": "ケルピー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_344_0",
+    "original": "シルキー",
+    "translation": "シルキー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_345_0",
+    "original": "スダマ",
+    "translation": "スダマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_346_0",
+    "original": "バイコーン",
+    "translation": "バイコーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_347_0",
+    "original": "ビフロンス",
+    "translation": "ビフロンス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_348_0",
+    "original": "ユキジョロウ",
+    "translation": "ユキジョロウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_349_0",
+    "original": "ゴモリー",
+    "translation": "ゴモリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_350_0",
+    "original": "アーマーン",
+    "translation": "アーマーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_351_0",
+    "original": "コッパテング",
+    "translation": "コッパテング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_352_0",
+    "original": "プリンシパリティ",
+    "translation": "プリンシパリティ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_353_0",
+    "original": "カラドリウス",
+    "translation": "カラドリウス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_354_0",
+    "original": "ペレ",
+    "translation": "ペレ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_355_0",
+    "original": "マヤウェル",
+    "translation": "マヤウェル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_356_0",
+    "original": "イナバシロウサギ",
+    "translation": "イナバシロウサギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_357_0",
+    "original": "ナルキッソス",
+    "translation": "ナルキッソス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_358_0",
+    "original": "スレイプニル",
+    "translation": "スレイプニル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_359_0",
+    "original": "ベルセルク",
+    "translation": "ベルセルク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_360_0",
+    "original": "ダンタリアン",
+    "translation": "ダンタリアン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_361_0",
+    "original": "ズェラロンズ",
+    "translation": "ズェラロンズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_362_0",
+    "original": "ヴィヴィアン",
+    "translation": "ヴィヴィアン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_363_0",
+    "original": "バフォメット",
+    "translation": "バフォメット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_364_0",
+    "original": "ルーグ",
+    "translation": "ルーグ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_365_0",
+    "original": "ケルプ",
+    "translation": "ケルプ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_366_0",
+    "original": "ハクジョウシ",
+    "translation": "ハクジョウシ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_367_0",
+    "original": "フェンリル",
+    "translation": "フェンリル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_368_0",
+    "original": "ハトホル",
+    "translation": "ハトホル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_369_0",
+    "original": "ミトラス",
+    "translation": "ミトラス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_370_0",
+    "original": "バグス",
+    "translation": "バグス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_371_0",
+    "original": "ロンギヌス",
+    "translation": "ロンギヌス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_372_0",
+    "original": "ローレライ",
+    "translation": "ローレライ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_373_0",
+    "original": "バロール",
+    "translation": "バロール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_374_0",
+    "original": "ヴィーヴル",
+    "translation": "ヴィーヴル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_375_0",
+    "original": "モロク",
+    "translation": "モロク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_376_0",
+    "original": "プロメテウス",
+    "translation": "プロメテウス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_377_0",
+    "original": "ウロボロス",
+    "translation": "ウロボロス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_378_0",
+    "original": "ジャンヌ・ダルク",
+    "translation": "ジャンヌ・ダルク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_379_0",
+    "original": "バアル",
+    "translation": "バアル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_380_0",
+    "original": "セイオウボ",
+    "translation": "セイオウボ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_381_0",
+    "original": "クドラク",
+    "translation": "クドラク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_382_0",
+    "original": "クルースニク",
+    "translation": "クルースニク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_383_0",
+    "original": "ブラックマリア",
+    "translation": "ブラックマリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_384_0",
+    "original": "セラフ",
+    "translation": "セラフ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_385_0",
+    "original": "コウテイ",
+    "translation": "コウテイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_386_0",
+    "original": "オルフェウス・賊神",
+    "translation": "オルフェウス・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_387_0",
+    "original": "メサイア・賊神",
+    "translation": "メサイア・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_388_0",
+    "original": "タナトス・賊神",
+    "translation": "タナトス・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_389_0",
+    "original": "イザナギ・賊神",
+    "translation": "イザナギ・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_390_0",
+    "original": "マガツイザナギ賊神",
+    "translation": "マガツイザナギ賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_391_0",
+    "original": "カグヤ・賊神",
+    "translation": "カグヤ・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_392_0",
+    "original": "アリアドネ",
+    "translation": "アリアドネ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_393_0",
+    "original": "アリアドネ・賊神",
+    "translation": "アリアドネ・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_394_0",
+    "original": "ツキヨミ",
+    "translation": "ツキヨミ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_395_0",
+    "original": "ツキヨミ・賊神",
+    "translation": "ツキヨミ・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_396_0",
+    "original": "アステリオス",
+    "translation": "アステリオス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_397_0",
+    "original": "アステリオス・賊神",
+    "translation": "アステリオス・賊神",
+    "stage": 1,
+    "context": ""
+  }
+]

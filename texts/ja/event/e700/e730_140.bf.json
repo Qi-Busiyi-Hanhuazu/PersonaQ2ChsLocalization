@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "えええ！？\n扉、閉まっちゃったよ！？",
+    "translation": "えええ！？\n扉、閉まっちゃったよ！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ふむ、どうやら\n[颜色 03]この扉は連動しているよう[颜色 01]だな。",
+    "translation": "ふむ、どうやら\n[颜色 03]この扉は連動しているよう[颜色 01]だな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "常に[颜色 03]どこかの扉と対[颜色 01]になっていて、\n簡単には進めない構造ということか。",
+    "translation": "常に[颜色 03]どこかの扉と対[颜色 01]になっていて、\n簡単には進めない構造ということか。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "よし、ジョーカー。\nこんな時こそ地図の出番だぞ！",
+    "translation": "よし、ジョーカー。\nこんな時こそ地図の出番だぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "どの扉が連動しているのか、\nキチンと書き込んでおけよ？",
+    "translation": "どの扉が連動しているのか、\nキチンと書き込んでおけよ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あ！\nなら、アレあった方がいいんじゃない？",
+    "translation": "あ！\nなら、アレあった方がいいんじゃない？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "地図用のしるし！",
+    "translation": "地図用のしるし！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "確かにそうね。フォックス？",
+    "translation": "確かにそうね。フォックス？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "任せろ。\n…こんな感じでどうだ？",
+    "translation": "任せろ。\n…こんな感じでどうだ？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "え！？　すご、うま…！\nこれなら、わかりやすいかも。",
+    "translation": "え！？　すご、うま…！\nこれなら、わかりやすいかも。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "現場の指揮はジョーカーに任せている。\n正確な地図と的確な判断を頼むぞ。",
+    "translation": "現場の指揮はジョーカーに任せている。\n正確な地図と的確な判断を頼むぞ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_ICON_AB_GATE_OPEN_0",
+    "original": "下画面の地図に[颜色 03]『セキュリティゲート』[颜色 01]の\nアイコンが追加されました。",
+    "translation": "下画面の地図に[颜色 03]『セキュリティゲート』[颜色 01]の\nアイコンが追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ICON_AB_GATE_OPEN_1",
+    "original": "アイコンの使用用途をもう一度\n確認したい場合は",
+    "translation": "アイコンの使用用途をもう一度\n確認したい場合は",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ICON_AB_GATE_OPEN_2",
+    "original": "地図の右下にある[颜色 03]ＨＥＬＰ[颜色 01]の[颜色 03]アイコンの種類[颜色 01]\nから、確認する事が出来ます。",
+    "translation": "地図の右下にある[颜色 03]ＨＥＬＰ[颜色 01]の[颜色 03]アイコンの種類[颜色 01]\nから、確認する事が出来ます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  }
+]

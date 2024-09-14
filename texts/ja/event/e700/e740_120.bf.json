@@ -1,0 +1,198 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あの…ちょっといいですか？",
+    "translation": "あの…ちょっといいですか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "む、どうした？",
+    "translation": "む、どうした？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あ…あの、この床なんですけど…",
+    "translation": "あ…あの、この床なんですけど…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "床に乗ったまま、スイッチを押したら…\n[颜色 03]下の階に行けるんじゃないでしょうか？[颜色 01]",
+    "translation": "床に乗ったまま、スイッチを押したら…\n[颜色 03]下の階に行けるんじゃないでしょうか？[颜色 01]",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "ナイスアイデア",
+    "translation": "ナイスアイデア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "本当に大丈夫か？",
+    "translation": "本当に大丈夫か？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "確かに、階段の代わりに使えそうだね。\n試してみる価値はあると思うよ。",
+    "translation": "確かに、階段の代わりに使えそうだね。\n試してみる価値はあると思うよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "…まあ、下の階に繋がっていれば…だけど。\nもしかしたら、どこまでも落ち続けたり…",
+    "translation": "…まあ、下の階に繋がっていれば…だけど。\nもしかしたら、どこまでも落ち続けたり…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "確かに、下の階に繋がっていればいいけど…\nもしかしたら、どこまでも落ち続けて…",
+    "translation": "確かに、下の階に繋がっていればいいけど…\nもしかしたら、どこまでも落ち続けて…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ええっ！？　そ、そんな…！",
+    "translation": "ええっ！？　そ、そんな…！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "…なんてね、冗談だよ。\n心配ならナビのみんなに聞けばいい。",
+    "translation": "…なんてね、冗談だよ。\n心配ならナビのみんなに聞けばいい。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "そう言うと思って、もう確認済み！\nちゃーんと下の階に繋がってるから大丈夫！",
+    "translation": "そう言うと思って、もう確認済み！\nちゃーんと下の階に繋がってるから大丈夫！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ホントですか、よかったです！",
+    "translation": "ホントですか、よかったです！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ってことで、さっそくポチッと…",
+    "translation": "ってことで、さっそくポチッと…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "おっと！　ちょいまち！\n押す前に地図にはしっかり描いておけよ？",
+    "translation": "おっと！　ちょいまち！\n押す前に地図にはしっかり描いておけよ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "上下移動できるとなると、\nかなり複雑になるだろうからな。",
+    "translation": "上下移動できるとなると、\nかなり複雑になるだろうからな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "となると、しるしがあった方がいいな。\n用意しておくとしよう。",
+    "translation": "となると、しるしがあった方がいいな。\n用意しておくとしよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "おう！　んじゃ、改めて…\nスイッチ押してみようぜ、ジョーカー！",
+    "translation": "おう！　んじゃ、改めて…\nスイッチ押してみようぜ、ジョーカー！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_ICON_SERI_OPEN_0",
+    "original": "下画面の地図に[颜色 03]『せり』[颜色 01]の\nアイコンが追加されました。",
+    "translation": "下画面の地図に[颜色 03]『せり』[颜色 01]の\nアイコンが追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ICON_SERI_OPEN_1",
+    "original": "アイコンの使用用途をもう一度\n確認したい場合は",
+    "translation": "アイコンの使用用途をもう一度\n確認したい場合は",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ICON_SERI_OPEN_2",
+    "original": "地図の右下にある[颜色 03]ＨＥＬＰ[颜色 01]の[颜色 03]アイコンの種類[颜色 01]\nから、確認する事が出来ます。",
+    "translation": "地図の右下にある[颜色 03]ＨＥＬＰ[颜色 01]の[颜色 03]アイコンの種類[颜色 01]\nから、確認する事が出来ます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

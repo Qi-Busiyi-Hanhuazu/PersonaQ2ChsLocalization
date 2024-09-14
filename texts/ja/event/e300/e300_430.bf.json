@@ -1,0 +1,380 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "皆さんに、質問がありマス。",
+    "translation": "皆さんに、質問がありマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "急にどうしたの？",
+    "translation": "急にどうしたの？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "皆さんの行動で、\n理解できないコトがありマス。",
+    "translation": "皆さんの行動で、\n理解できないコトがありマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "皆さんは、ナゼ、アイギスさんヲ\n『個』として認識してイルのデスカ？",
+    "translation": "皆さんは、ナゼ、アイギスさんヲ\n『個』として認識してイルのデスカ？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "なぜ、って…",
+    "translation": "なぜ、って…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "アイギスさんハ、命ヲ持たないロボット。\n貴方たちとは異ナル存在デス。",
+    "translation": "アイギスさんハ、命ヲ持たないロボット。\n貴方たちとは異ナル存在デス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "答えはシンプルだよ。",
+    "translation": "答えはシンプルだよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "アイギスは、僕たちの『仲間』だから。\nそれ以外の理由なんてない。",
+    "translation": "アイギスは、僕たちの『仲間』だから。\nそれ以外の理由なんてない。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "仲間…デスカ…？",
+    "translation": "仲間…デスカ…？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "我々が仲間と認識する理由に、\n有機体も、無機体も関係はない。",
+    "translation": "我々が仲間と認識する理由に、\n有機体も、無機体も関係はない。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "共に闘い、共に道を進む。\n理由はそれだけで充分だ。",
+    "translation": "共に闘い、共に道を進む。\n理由はそれだけで充分だ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "デスガ…私の『仲間』たちは、\n私をえらーと認識シ、助ケはシマセン。",
+    "translation": "デスガ…私の『仲間』たちは、\n私をえらーと認識シ、助ケはシマセン。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ねえ、リボンちゃんの言う『仲間』って\nどういう定義なのかな？",
+    "translation": "ねえ、リボンちゃんの言う『仲間』って\nどういう定義なのかな？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "皆と同ジ外見、性能ヲ持ち、えらーを\n出サナイ者タチ…と認識してイマス。",
+    "translation": "皆と同ジ外見、性能ヲ持ち、えらーを\n出サナイ者タチ…と認識してイマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "そのエラーっていうの…\nなんか、イヤだ。",
+    "translation": "そのエラーっていうの…\nなんか、イヤだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "デハ…\n不認定、または不良品…",
+    "translation": "デハ…\n不認定、または不良品…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "それもなし！",
+    "translation": "それもなし！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "なんにしても、偉そうな野郎どもが\n言いそうな言葉だぜ。",
+    "translation": "なんにしても、偉そうな野郎どもが\n言いそうな言葉だぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "自分らで勝手に決めたルールを\n無理やり押し付けやがって！",
+    "translation": "自分らで勝手に決めたルールを\n無理やり押し付けやがって！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "デスガ、ルールには従ウものダト…",
+    "translation": "デスガ、ルールには従ウものダト…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "SEL_016_0",
+    "original": "従わなくていい",
+    "translation": "従わなくていい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_016_1",
+    "original": "リボンはエラーじゃない",
+    "translation": "リボンはエラーじゃない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "えらーじゃナイ…でスカ？",
+    "translation": "えらーじゃナイ…でスカ？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ねえリボン、私たちといる間は\n私たちの基準に合わせてみない？",
+    "translation": "ねえリボン、私たちといる間は\n私たちの基準に合わせてみない？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "それがいいよ。",
+    "translation": "それがいいよ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "身勝手な指導者の言うことなんて、\nいちいち従う必要ないって！",
+    "translation": "身勝手な指導者の言うことなんて、\nいちいち従う必要ないって！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "うんうん。あいつらがまた何かしてきたら、\nあたしたちが全力で守ってあげる！",
+    "translation": "うんうん。あいつらがまた何かしてきたら、\nあたしたちが全力で守ってあげる！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "守ッテ…くれるのデスカ？\nなぜ、ワタシにソノようなコトを？",
+    "translation": "守ッテ…くれるのデスカ？\nなぜ、ワタシにソノようなコトを？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ふふ、さっき言ったでしょ？\n答えはシンプルだって。",
+    "translation": "ふふ、さっき言ったでしょ？\n答えはシンプルだって。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "リボンちゃんも、\n私たちの『仲間』だからだよ。",
+    "translation": "リボンちゃんも、\n私たちの『仲間』だからだよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ナカ…マ…？",
+    "translation": "ナカ…マ…？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_023_2",
+    "original": "これが、ナカマ…\nなるほどなー。",
+    "translation": "これが、ナカマ…\nなるほどなー。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "なるほどなー。",
+    "translation": "なるほどなー。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "二人とも、言葉がシンクロしてますね。",
+    "translation": "二人とも、言葉がシンクロしてますね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "すみません。\nつい、つられたであります。",
+    "translation": "すみません。\nつい、つられたであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ふふっ、アイギスったら。",
+    "translation": "ふふっ、アイギスったら。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "それじゃ、あらためて。\n準備はオッケー？　リボンちゃん？",
+    "translation": "それじゃ、あらためて。\n準備はオッケー？　リボンちゃん？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ハイ。リボンは皆さんの仲間デス。\nともに進みマス！",
+    "translation": "ハイ。リボンは皆さんの仲間デス。\nともに進みマス！",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "フッ、いいぞ。その調子だ。",
+    "translation": "フッ、いいぞ。その調子だ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "じゃあ、そろそろ出発しようか。\nこの先もよろしくね、リボン。",
+    "translation": "じゃあ、そろそろ出発しようか。\nこの先もよろしくね、リボン。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  }
+]

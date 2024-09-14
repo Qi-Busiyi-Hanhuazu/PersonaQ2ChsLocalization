@@ -1,0 +1,156 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おい、見ろよアイツ…\n随分と物騒なモン持ってんな。",
+    "translation": "おい、見ろよアイツ…\n随分と物騒なモン持ってんな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん、それに怖い顔…\nもしかして、怒ってるのかな？",
+    "translation": "うん、それに怖い顔…\nもしかして、怒ってるのかな？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "ひかりちゃんもいるし、出来るだけ\n苦戦しそうな敵は避けたほうがいいかも。",
+    "translation": "ひかりちゃんもいるし、出来るだけ\n苦戦しそうな敵は避けたほうがいいかも。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "つってもな、どうすりゃ…",
+    "translation": "つってもな、どうすりゃ…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "エサで釣る",
+    "translation": "エサで釣る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "ノワールに訊こう",
+    "translation": "ノワールに訊こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うん、前もうまくいったし自信あるよ。",
+    "translation": "うん、前もうまくいったし自信あるよ。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "い、いや…今回はもっと確実にいこう。",
+    "translation": "い、いや…今回はもっと確実にいこう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "ここは、実際に斧を使っているノワールに\nアドバイスを貰うのはどうだ？",
+    "translation": "ここは、実際に斧を使っているノワールに\nアドバイスを貰うのはどうだ？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ああ、実際に斧を使っているなら\n何か参考になるかもしれない。",
+    "translation": "ああ、実際に斧を使っているなら\n何か参考になるかもしれない。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "えっとね…斧は攻撃が届く距離が\n短いから、近づかないことが第一かな。",
+    "translation": "えっとね…斧は攻撃が届く距離が\n短いから、近づかないことが第一かな。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "それと、あんなに大きい斧だったら重いし\n連続で攻撃はできないと思う。",
+    "translation": "それと、あんなに大きい斧だったら重いし\n連続で攻撃はできないと思う。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "なるほどな。『基本は近づかない』\n『近づくときはタイミングを計る』…か。",
+    "translation": "なるほどな。『基本は近づかない』\n『近づくときはタイミングを計る』…か。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "[颜色 03]あの表情を見れば、\n攻撃のタイミングも計れる[颜色 01]かも。",
+    "translation": "[颜色 03]あの表情を見れば、\n攻撃のタイミングも計れる[颜色 01]かも。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "すっごく怒ってたら、危ないんじゃない？",
+    "translation": "すっごく怒ってたら、危ないんじゃない？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ということだ。避けるタイミングなどは\n任せたぞ、ジョーカー。",
+    "translation": "ということだ。避けるタイミングなどは\n任せたぞ、ジョーカー。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

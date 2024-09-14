@@ -1,0 +1,233 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さて、今回の特別上映は…",
+    "translation": "さて、今回の特別上映は…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』のとあるフロアを\n踏破せよというもの。",
+    "translation": "『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』のとあるフロアを\n踏破せよというもの。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そんだけでいいのか？\nさんざん歩いたし、楽勝じゃね？",
+    "translation": "そんだけでいいのか？\nさんざん歩いたし、楽勝じゃね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そうは問屋がおろしポン酢と申します通り、\n事はそう簡単に参りません。",
+    "translation": "そうは問屋がおろしポン酢と申します通り、\n事はそう簡単に参りません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "どういうわけか、内部の構造が\nたいへん複雑に変化しているとのこと。",
+    "translation": "どういうわけか、内部の構造が\nたいへん複雑に変化しているとのこと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "その難解なる道のりを往き、見事帰還せよ\nという内容となっております。",
+    "translation": "その難解なる道のりを往き、見事帰還せよ\nという内容となっております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "どうしてそうなった？",
+    "translation": "どうしてそうなった？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "誰かのしわざ？",
+    "translation": "誰かのしわざ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "はて…？　私はそのあたりの込み入った\n事情については存じておりません。",
+    "translation": "はて…？　私はそのあたりの込み入った\n事情については存じておりません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "複雑って…具体的にどんな風に\nなってるんでしょう？",
+    "translation": "複雑って…具体的にどんな風に\nなってるんでしょう？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "それは…皆様の身近に例えて申しますなら、\n伊織様のお部屋のような。",
+    "translation": "それは…皆様の身近に例えて申しますなら、\n伊織様のお部屋のような。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うわ、想像しただけで引く。",
+    "translation": "うわ、想像しただけで引く。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ウッ…\nあの惨状の中を行けということか？",
+    "translation": "ウッ…\nあの惨状の中を行けということか？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あのね君たち、\nオレっちだって傷つくのよ？",
+    "translation": "あのね君たち、\nオレっちだって傷つくのよ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "とにかく、ここで話していても仕方ないわ。\n行って確かめるのはどう？",
+    "translation": "とにかく、ここで話していても仕方ないわ。\n行って確かめるのはどう？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "賛成だ",
+    "translation": "賛成だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "迷子になりそう…",
+    "translation": "迷子になりそう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そうだね、地図もあるし、\nりせちゃんたちもいるもんね。",
+    "translation": "そうだね、地図もあるし、\nりせちゃんたちもいるもんね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "大丈夫、地図もあるし\nちゃんとナビもするからな。",
+    "translation": "大丈夫、地図もあるし\nちゃんとナビもするからな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "うん、しっかりサポートするね。\n危なそうなら、すぐ戻ってきて。",
+    "translation": "うん、しっかりサポートするね。\n危なそうなら、すぐ戻ってきて。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "よし、決まりだな。",
+    "translation": "よし、決まりだな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "道に迷って長丁場になるかも知れん、\n準備はしっかりしていこうぜ。",
+    "translation": "道に迷って長丁場になるかも知れん、\n準備はしっかりしていこうぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

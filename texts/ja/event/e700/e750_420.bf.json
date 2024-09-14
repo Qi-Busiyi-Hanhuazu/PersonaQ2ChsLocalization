@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あ、見て！　奥に、Ｆ．Ｏ．Ｅがいる！",
+    "translation": "あ、見て！　奥に、Ｆ．Ｏ．Ｅがいる！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_000_1_0",
+    "original": "…こっち来たらやだな。はやく行こ？",
+    "translation": "…こっち来たらやだな。はやく行こ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "大丈夫です、パンサーさん。",
+    "translation": "大丈夫です、パンサーさん。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "[颜色 03]あの大きさなら、この通路は通れない。\nだから安心だ…[颜色 01]とコロマルさんが。",
+    "translation": "[颜色 03]あの大きさなら、この通路は通れない。\nだから安心だ…[颜色 01]とコロマルさんが。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そっか、よかった～！\nすごく怖くて焦っちゃった…",
+    "translation": "そっか、よかった～！\nすごく怖くて焦っちゃった…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "安心しろ、パンサーに何かあった時は\nワガハイが守るからな…！",
+    "translation": "安心しろ、パンサーに何かあった時は\nワガハイが守るからな…！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あ、大丈夫。気持ちだけ貰っとくね。",
+    "translation": "あ、大丈夫。気持ちだけ貰っとくね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "おお、流れるようなスルー…\nある意味すごいわ。",
+    "translation": "おお、流れるようなスルー…\nある意味すごいわ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "あの、Ｆ．Ｏ．Ｅのことで思ったんですが…",
+    "translation": "あの、Ｆ．Ｏ．Ｅのことで思ったんですが…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "真っ直ぐ進む分には問題ないですけど\n避けなくてはいけないときも来るのでは？",
+    "translation": "真っ直ぐ進む分には問題ないですけど\n避けなくてはいけないときも来るのでは？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ワンワンッ！",
+    "translation": "ワンワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "[颜色 03]地形を上手く利用したらいい[颜色 01]、と\nコロマルさんが言っています。",
+    "translation": "[颜色 03]地形を上手く利用したらいい[颜色 01]、と\nコロマルさんが言っています。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "では、その辺りは地図をつけている\nジョーカーに判断を仰ぎましょう。",
+    "translation": "では、その辺りは地図をつけている\nジョーカーに判断を仰ぎましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_010_5_0",
+    "original": "よろしくお願いしますね？",
+    "translation": "よろしくお願いしますね？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

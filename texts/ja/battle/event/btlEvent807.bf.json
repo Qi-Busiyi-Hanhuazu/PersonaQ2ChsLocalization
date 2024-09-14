@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "私の存在は、浮世に生きる者たちの望み。\n抗うなど、愚かな行いなのですよ…",
+    "translation": "私の存在は、浮世に生きる者たちの望み。\n抗うなど、愚かな行いなのですよ…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "全てを諦め、投げ出しなさい。\n矮小で貧弱な、憐れな子たちよ。",
+    "translation": "全てを諦め、投げ出しなさい。\n矮小で貧弱な、憐れな子たちよ。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "みなさん、どうか負けないでください！\n少しでも長く映画を上映すれば…！",
+    "translation": "みなさん、どうか負けないでください！\n少しでも長く映画を上映すれば…！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "映画館の中にいる人たちの気持ちが、\n変わってくれたら…！　お願い…！",
+    "translation": "映画館の中にいる人たちの気持ちが、\n変わってくれたら…！　お願い…！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "頼む、頑張ってくれ！\nわたしたちも全力で…ナビするからーっ！",
+    "translation": "頼む、頑張ってくれ！\nわたしたちも全力で…ナビするからーっ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ここにいる無数の人間は、統率されることを\n望んでやってきたのです。",
+    "translation": "ここにいる無数の人間は、統率されることを\n望んでやってきたのです。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "貴方たちの抵抗は、\nただの思い上がりに過ぎないのですよ。",
+    "translation": "貴方たちの抵抗は、\nただの思い上がりに過ぎないのですよ。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "speaker_エンリル",
+    "original": "エンリル",
+    "translation": "エンリル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

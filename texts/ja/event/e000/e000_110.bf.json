@@ -1,0 +1,184 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "やっぱり、ペルソナは使える！",
+    "translation": "やっぱり、ペルソナは使える！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "怪盗服のままだし、\nここってメメントスの中？",
+    "translation": "怪盗服のままだし、\nここってメメントスの中？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "しかし、銃は使えなかった。",
+    "translation": "しかし、銃は使えなかった。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ああ、ただのモデルガンになっていた。",
+    "translation": "ああ、ただのモデルガンになっていた。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "マジかよ？\nお前らのだけなんじゃ…",
+    "translation": "マジかよ？\nお前らのだけなんじゃ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "…あれ！？　俺のも！？",
+    "translation": "…あれ！？　俺のも！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "ペルソナはよくて銃は駄目とか、\n何なんだよココ！？",
+    "translation": "ペルソナはよくて銃は駄目とか、\n何なんだよココ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "認知の影響がない場所",
+    "translation": "認知の影響がない場所",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "メメントスのはずだ",
+    "translation": "メメントスのはずだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_2",
+    "original": "よく分からない",
+    "translation": "よく分からない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そういうことになるわね。\nでも、一体ここはどこなの…？",
+    "translation": "そういうことになるわね。\nでも、一体ここはどこなの…？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "銃が使えないということは、\nメメントスではない…？",
+    "translation": "銃が使えないということは、\nメメントスではない…？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "もしかして、認知の影響を\n受けない世界なの？",
+    "translation": "もしかして、認知の影響を\n受けない世界なの？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "おい、またシャドウの気配だ！\nこっちに来てる。",
+    "translation": "おい、またシャドウの気配だ！\nこっちに来てる。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "まだ来んのかよ！",
+    "translation": "まだ来んのかよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "しかも、今のザコとは違う。\nもっとヤバそうなヤツだ。",
+    "translation": "しかも、今のザコとは違う。\nもっとヤバそうなヤツだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "今度はなに？　なんなの！？",
+    "translation": "今度はなに？　なんなの！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "わからんが、接触は回避すべきだ。",
+    "translation": "わからんが、接触は回避すべきだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "わたしがナビする！\nシャドウのいない方へ向かえ！",
+    "translation": "わたしがナビする！\nシャドウのいない方へ向かえ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

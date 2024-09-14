@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おい、目的の場所は３番街だぞ。",
+    "translation": "おい、目的の場所は３番街だぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "お、そうだった。Ｆ．Ｏ．Ｅと\nサーチライトだらけっつートコだったよな。",
+    "translation": "お、そうだった。Ｆ．Ｏ．Ｅと\nサーチライトだらけっつートコだったよな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああ、進むには細心の注意が必要だな。\nまずは３番街へ急ぐぞ！",
+    "translation": "ああ、進むには細心の注意が必要だな。\nまずは３番街へ急ぐぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "よし、ここが目的の３番街だ。",
+    "translation": "よし、ここが目的の３番街だ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "Ｆ．Ｏ．Ｅとサーチライトだらけっつートコに\n向かうんだったよな。",
+    "translation": "Ｆ．Ｏ．Ｅとサーチライトだらけっつートコに\n向かうんだったよな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ああ、進むには細心の注意が必要だな。\nそのエリアの扉へ急ぐぞ！",
+    "translation": "ああ、進むには細心の注意が必要だな。\nそのエリアの扉へ急ぐぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

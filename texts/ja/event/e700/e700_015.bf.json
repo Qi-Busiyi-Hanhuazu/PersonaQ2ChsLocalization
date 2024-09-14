@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ジョーカー！　そっちは危険だ。\n今は、逃げることだけを考えよう。",
+    "translation": "ジョーカー！　そっちは危険だ。\n今は、逃げることだけを考えよう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、ここは退いた方が得策だな。",
+    "translation": "ああ、ここは退いた方が得策だな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

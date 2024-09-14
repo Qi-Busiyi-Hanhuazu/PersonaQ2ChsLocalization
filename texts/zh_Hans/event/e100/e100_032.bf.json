@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "売店のようだ…",
+    "translation": "好像是小卖部……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像是小卖部……\n\n像小卖部一样……"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "店頭には、ポップコーンや\n映画グッズが置いてある…",
+    "translation": "店里放着爆米花\n和电影周边……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n店里放着爆米花\n和电影周边……\n\n店里放着爆米花和电影商品……\n\n\n店里有爆米花和电影周边……"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "旨そうだな…",
+    "translation": "看起来很好吃……",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n看上去很好吃啊……\n\n看起来很好吃啊……"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "勝手に食べちゃダメだからね！？",
+    "translation": "不可以随便吃哦！？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n不能随便吃啊！？\n\n不能随便吃哦！？"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ここに真と春がいる…わけねえか。\nほか行こうぜ。",
+    "translation": "真和春……应该不可能在这里吧。\n我们去别的地方吧。",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n真和小春在这里……不可能吧。\n去其他地方看看吧。\n\n这里有真和春……不可能吗。\n去别的地方吧。\n\n这里有真和春……怎么可能？去别的地方吧。"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

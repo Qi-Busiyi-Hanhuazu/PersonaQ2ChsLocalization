@@ -1,0 +1,177 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "それじゃ、改めて確認ね。",
+    "translation": "それじゃ、改めて確認ね。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "道に落ちている『骨』を手がかりに\n肉食獣を見つけて。",
+    "translation": "道に落ちている『骨』を手がかりに\n肉食獣を見つけて。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "『新しい骨』をたどっていけば、\nその先に肉食獣がいるはず！",
+    "translation": "『新しい骨』をたどっていけば、\nその先に肉食獣がいるはず！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "骨の状態は僕が確認するよ。\n任せてくれ。",
+    "translation": "骨の状態は僕が確認するよ。\n任せてくれ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ワフッ、ワフッ！",
+    "translation": "ワフッ、ワフッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "……？",
+    "translation": "……？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "どうしたんだい、コロマル君。",
+    "translation": "どうしたんだい、コロマル君。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "手伝いたいのかも",
+    "translation": "手伝いたいのかも",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "腹が減ったのかも",
+    "translation": "腹が減ったのかも",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "はい、そうみたいです。\n追跡なら得意だって。",
+    "translation": "はい、そうみたいです。\n追跡なら得意だって。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "違いますよ…\n手伝うって言ってるみたいです。",
+    "translation": "違いますよ…\n手伝うって言ってるみたいです。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "はは、そうなんだ。\nそれは心強いね。",
+    "translation": "はは、そうなんだ。\nそれは心強いね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "おー、警察犬と刑事みたい！\nなんか似合ってるかも。",
+    "translation": "おー、警察犬と刑事みたい！\nなんか似合ってるかも。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あはは、そうかい？\nじゃあコロマル君、よろしく頼む。",
+    "translation": "あはは、そうかい？\nじゃあコロマル君、よろしく頼む。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "さっそくだけど、骨がありそうな所を\n教えてくれるかな。",
+    "translation": "さっそくだけど、骨がありそうな所を\n教えてくれるかな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "フンフンフン…",
+    "translation": "フンフンフン…",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ワフッ！　ワフッ！",
+    "translation": "ワフッ！　ワフッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ええっと、これは…？",
+    "translation": "ええっと、これは…？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "東の方だ、って言ってるみたいですね。",
+    "translation": "東の方だ、って言ってるみたいですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "なるほど、さすがの嗅覚だね。\nさっそく行ってみようか。",
+    "translation": "なるほど、さすがの嗅覚だね。\nさっそく行ってみようか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  }
+]

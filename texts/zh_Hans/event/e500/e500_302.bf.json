@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "こいつか…",
+    "translation": "是这家伙吗……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这家伙吗……"
+  },
+  {
+    "key": "MSG_000_1_0",
+    "original": "さっさと終わらせるぞ。",
+    "translation": "赶紧结束吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n快点结束吧。\n\n赶紧结束吧。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うおっ！？　やっべ！",
+    "translation": "唔噢！？糟糕！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n唔噢！？糟糕！\n\n哇哦！？来吧！\n\n呜呜！？干吧！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああっ…！？",
+    "translation": "啊啊……！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啊啊……！？\n\n啊……！？"
+  }
+]

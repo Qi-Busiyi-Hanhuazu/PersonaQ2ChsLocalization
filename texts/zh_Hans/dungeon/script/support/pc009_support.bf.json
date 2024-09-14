@@ -1,0 +1,527 @@
+[
+  {
+    "key": "KUMA_FOE_FOLLOW_START_1_0",
+    "original": "Ｆ．Ｏ．Ｅが来てるクマ！",
+    "translation": "F.O.E来了熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E来了小熊！"
+  },
+  {
+    "key": "KUMA_FOE_FOLLOW_START_2_0",
+    "original": "ぎゃー！\nＦ．Ｏ．Ｅがこっち来てるクマー！",
+    "translation": "呀——！\nF.O.E往这边来了熊熊——！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呀～～！\nF.O.E往这边来了小熊～～！\n\n哎呀！\nF.O.E来到这里的小熊！\n\n哇！\nF.O.E来到这里的小熊！"
+  },
+  {
+    "key": "KUMA_FOE_FOLLOW_START_3_0",
+    "original": "Ｆ．Ｏ．Ｅがきーたー！",
+    "translation": "F.O.E来了——！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E来～～了～～！\n\nF.O.E来了！\n\nF.O.E是关键！"
+  },
+  {
+    "key": "KUMA_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅハッケーン！\n注意するクマ！",
+    "translation": "发现F.O.E！\n小心熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E飓风！\n小心小熊！\n\nF.O.E哈凯恩！\n要注意的小熊！\n\nF.O.E发现！注意的小熊！"
+  },
+  {
+    "key": "KUMA_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅに気をつけれ～！",
+    "translation": "小心F.O.E～！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小心F.O.E～～！\n\n小心F.O.E～！\n\n注意F.O.E～！"
+  },
+  {
+    "key": "KUMA_FOE_NEAR_3_0",
+    "original": "クンクン、このニオイ…\nＦ．Ｏ．Ｅクマ！",
+    "translation": "嗅嗅，这个味道……\n是F.O.E熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗅嗅，这个味道……\nF.O.E小熊！\n\n昆昆昆，这气味……\nF.O.E小熊！\n\n君君，这个味道……\nF.O.E小熊！"
+  },
+  {
+    "key": "KUMA_FOE_FOLLOW_END_1_0",
+    "original": "残念、Ｆ．Ｏ．Ｅには捕まらんクマ！",
+    "translation": "真遗憾，我们可不会被F.O.E抓到熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n可惜，不会被F.O.E抓到小熊！\n\n可惜，F.O.E抓不到小熊！"
+  },
+  {
+    "key": "KUMA_FOE_FOLLOW_END_2_0",
+    "original": "ふい～、Ｆ．Ｏ．Ｅから逃げ切ったクマ。",
+    "translation": "呼～终于摆脱F.O.E了熊熊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呼～小熊终于摆脱F.O.E了。\n\n突然，小熊从F.O.E逃了出来。\n\n从F.O.E逃出来的小熊。"
+  },
+  {
+    "key": "KUMA_FOE_FOLLOW_END_3_0",
+    "original": "およ？\nＦ．Ｏ．Ｅが、諦めたみたいクマ！",
+    "translation": "哎呀？\nF.O.E好像放弃了熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哎呀？\n小熊好像放弃F.O.E了！\n\n哦？\nF.O.E好像放弃了小熊！\n\n哟？F.O.E，像放弃了的小熊！"
+  },
+  {
+    "key": "KUMA_KANSI_REACTION_1_0",
+    "original": "抜き足、差し足、忍びクマ！",
+    "translation": "蹑手蹑脚，偷偷摸摸，忍者熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n蹑手蹑脚，偷偷摸摸，忍者小熊！\n\n蹑手蹑脚的小熊！\n\n蹑手蹑脚，蹑手蹑脚，小熊！"
+  },
+  {
+    "key": "KUMA_KANSI_REACTION_2_0",
+    "original": "かくれんぼみたいクマね～。",
+    "translation": "好像在玩捉迷藏一样啊熊熊～",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像在玩捉迷藏的小熊～\n\n像捉迷藏一样的小熊啊～"
+  },
+  {
+    "key": "KUMA_KANSI_REACTION_3_0",
+    "original": "ちょっぴり緊張するクマ…",
+    "translation": "有点紧张熊熊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有点紧张的小熊……\n\n小熊有点紧张……"
+  },
+  {
+    "key": "KUMA_DENKISAKU_REACTION__0",
+    "original": "触ったらビリビリするクマ！？",
+    "translation": "摸了会触电熊熊！？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n摸了会触电的小熊！？\n\n摸了一下就会吓一跳的小熊！？\n\n摸了就会哆嗦的小熊！？"
+  },
+  {
+    "key": "KUMA_DENKISAKU_REACTION__2_0",
+    "original": "こんな罠には引っかからないクマ！",
+    "translation": "我们不会中这种陷阱熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不会中这种陷阱的小熊！\n\n这样的陷阱里没有的小熊！\n\n小熊不会中这样的圈套！"
+  },
+  {
+    "key": "KUMA_DENKISAKU_REACTION__3_0",
+    "original": "丸焦げになる前に止めるクマ！",
+    "translation": "在全都烧焦之前停掉它熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在烧焦之前停住的小熊！\n\n在烧焦之前停止的小熊！"
+  },
+  {
+    "key": "KUMA_KYOUHU_REACTION_1_0",
+    "original": "ぴゅ～クマ～！",
+    "translation": "咻～熊熊～！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n咻～小熊～！\n\n哔～小熊～！\n\n小熊！"
+  },
+  {
+    "key": "KUMA_KYOUHU_REACTION_2_0",
+    "original": "クマァー！",
+    "translation": "熊熊啊——！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小熊啊——！\n\n小熊啊！\n\n小熊君！"
+  },
+  {
+    "key": "KUMA_KYOUHU_REACTION_3_0",
+    "original": "どっしぇー！",
+    "translation": "咚——！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n咚——！\n\n哎呀！\n\n喂！\n\n评论：\n\n不确定"
+  },
+  {
+    "key": "KUMA_STAIR_FIND_1_0",
+    "original": "進めそうな場所ハッケーン！",
+    "translation": "发现可以前进的地方了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有路可以走的地方！\n\n快要前进的地方哈凯恩！\n\n发现可以前进的地方！"
+  },
+  {
+    "key": "KUMA_STAIR_FIND_2_0",
+    "original": "ムムッ、次のエリアの気配クマ！",
+    "translation": "唔唔，有下一区域的气息熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔唔，有下一区的气息小熊！\n\n下一个区域的气息小熊！\n\n嗯，下一个区域的气息小熊！"
+  },
+  {
+    "key": "KUMA_STAIR_FIND_3_0",
+    "original": "そこから先に進めそうクマよ！",
+    "translation": "好像可以走从那里继续前进熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有路可以走的小熊！\n\n从那里开始前进的小熊啊！\n\n从那里开始前进吧小熊啊！"
+  },
+  {
+    "key": "KUMA_TREASURE_FIND_1_0",
+    "original": "宝箱の中身は、きっと…ムフフ…",
+    "translation": "宝箱里面一定……嗯哼哼……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n宝箱里面一定……嗯哼哼……\n\n宝箱里的东西一定是……\n\n宝箱的内容，一定是……呵呵……"
+  },
+  {
+    "key": "KUMA_TREASURE_FIND_2_0",
+    "original": "宝箱クマ！　とっとと取っとこ！\nなんちって…ウププ",
+    "translation": "是宝箱熊熊！快点拿走吧！\n开玩笑的……唔呵呵",
+    "stage": 1,
+    "context": "机翻辅助：\n\n宝箱小熊！快点拿走吧！\n开玩笑的……唔呵呵\n\n小熊宝箱！赶紧拿下！\n你说什么？乌普普\n\n宝箱小熊！快拿！\n什么"
+  },
+  {
+    "key": "KUMA_TREASURE_FIND_3_0",
+    "original": "宝箱の中はなんじゃらほい！？",
+    "translation": "宝箱里面有什么啊！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n宝箱里面有什么啊！？\n\n宝箱里是什么！？\n\n宝箱里是什么啊！？"
+  },
+  {
+    "key": "KUMA_CHECK_WALL_1_0",
+    "original": "クンクン…この辺がなんか臭うクマ。",
+    "translation": "嗅嗅……这边好像有味道熊熊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗅嗅……这边好像有味道小熊。\n\n这一带有点臭的小熊。\n\n君君……这附近是一只臭气熏天的小熊。"
+  },
+  {
+    "key": "KUMA_CHECK_WALL_2_0",
+    "original": "クンクン…何かありそうクマね…",
+    "translation": "嗅嗅……好像有东西熊熊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗅嗅……好像有东西小熊……\n\n昆昆……好像有什么事的小熊啊……\n\n君君……小熊好像有什么事呢……"
+  },
+  {
+    "key": "KUMA_CHECK_WALL_3_0",
+    "original": "この辺、怪しい気配を感じるクマ。",
+    "translation": "这边好像有可疑的气息熊熊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这边好像有可疑的气息小熊。\n\n小熊觉得这附近有可疑的迹象。\n\n这一带，感觉很奇怪的小熊。"
+  },
+  {
+    "key": "KUMA_SWITCH_FIND_1_0",
+    "original": "スイッチを見つけたクマ！",
+    "translation": "找到开关了熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n找到开关小熊！\n\n找到开关的小熊！"
+  },
+  {
+    "key": "KUMA_SWITCH_FIND_2_0",
+    "original": "スイッチ、押スイッチ？\nなんて…ウププ！",
+    "translation": "开关，打开关？\n开玩笑的……唔呵呵！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n开关，按下去开关？\n开玩笑的……唔呵呵！\n\n开关、按钮开关？\n什么的……好烦！\n\n开关，按开关？\n怎么会……呜呜呜！"
+  },
+  {
+    "key": "KUMA_SWITCH_FIND_3_0",
+    "original": "スイッチクマ！\nポチッとしていーい？",
+    "translation": "是开关熊熊！\n要按吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n开关小熊！\n可以按下去吗？\n\n开关小熊！\n扑通一声？\n\n开关小熊！\n微微一笑好吗？"
+  },
+  {
+    "key": "KUMA_SHORTCUT_FIND_1_0",
+    "original": "そこそこ！　通れるっぽいクマ！",
+    "translation": "那边那边！好像可以通过熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那边那边！好像可以走过去小熊！\n\n马马虎虎！好像能通过的小熊！\n\n马马虎虎！能通过的小熊！"
+  },
+  {
+    "key": "KUMA_SHORTCUT_FIND_2_0",
+    "original": "そこから近道していくクマ～！",
+    "translation": "从那边抄捷径熊熊～！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n从那边抄捷径小熊～！\n\n从那里抄近路的小熊～！"
+  },
+  {
+    "key": "KUMA_SHORTCUT_FIND_3_0",
+    "original": "近道発見！\nクマの鼻は誤魔化せんクマ！",
+    "translation": "发现捷径！\n别想骗过小熊的鼻子熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现捷径！\n别想骗过小熊的鼻子小熊！\n\n发现近道！\n小熊的鼻子是不会被欺骗的小熊！\n\n发现捷径！小熊的鼻子是不会蒙混过关的小熊！"
+  },
+  {
+    "key": "KUMA_FOE_WARNING_NEAR_1_0",
+    "original": "一難去って、またＦ．Ｏ．Ｅクマ！",
+    "translation": "一波又起，是F.O.E熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n一波未平，又来F.O.E小熊！\n\n一波未平，又是F.O.E小熊！\n\n一劫而去，又是F.O.E小熊！"
+  },
+  {
+    "key": "KUMA_FOE_WARNING_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅがまた来てるクマね！",
+    "translation": "F.O.E又来了熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E又来了小熊！\n\nF.O.E又来了小熊啊！\n\nF.O.E又来了小熊呢！"
+  },
+  {
+    "key": "KUMA_FOE_WARNING_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅ、しつこすぎるクマー…",
+    "translation": "F.O.E太烦人了熊熊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E，太烦人了小熊……\n\nF.O.E，太执着的小熊……\n\nF.O.E，太烦人的小熊……"
+  },
+  {
+    "key": "KUMA_1PERSON_HPTP10_1_0",
+    "original": "シンドすぎるクマ～…",
+    "translation": "太辛苦了熊熊～……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太辛苦了小熊～……\n\n太过辛德的小熊……\n\n太深沉的小熊～……"
+  },
+  {
+    "key": "KUMA_1PERSON_HPTP10_2_0",
+    "original": "およよ、お花畑が見えてきたクマァ…",
+    "translation": "哎呀呀，看到花田了熊熊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哎呀呀，看到花田了小熊……\n\n喂，看到花圃的小熊……\n\n哟哟，看到花圃的小熊……"
+  },
+  {
+    "key": "KUMA_1PERSON_HPTP10_3_0",
+    "original": "あかん…クマ、お星様になりそう…",
+    "translation": "不行……小熊，好像要变成星星了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不行……小熊，好像要变成星星了……\n\n啊……小熊，好像要变成星星了……\n\n不行……小熊，要变成星星了……"
+  },
+  {
+    "key": "KUMA_1PERSON_HP10_1_0",
+    "original": "体力ピンチ！　助けてチョーダイ！",
+    "translation": "体力危机！救救我！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n体力危机！救救我大队长！\n\n体力危机！救救我！"
+  },
+  {
+    "key": "KUMA_1PERSON_HP10_2_0",
+    "original": "クマ、干物になりそうクマ…",
+    "translation": "小熊，好像要变成鱼干了熊熊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小熊，好像要变成鱼干小熊……\n\n小熊，快要变成干货的小熊……"
+  },
+  {
+    "key": "KUMA_1PERSON_HP10_3_0",
+    "original": "しんどいクマァ…回復プリーズ！",
+    "translation": "小熊好累……回复PLEASE！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小熊好累……请回复！\n\n好累的小熊啊……回复普利兹！\n\n辛苦的小熊啊……恢复王子！"
+  },
+  {
+    "key": "KUMA_1PERSON_TP10_1_0",
+    "original": "クマの気力がピンチぜよ…",
+    "translation": "小熊的精力陷入危机……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小熊的气力陷入危机……\n\n小熊的力气危机了……\n\n小熊的气力很困难啊……"
+  },
+  {
+    "key": "KUMA_1PERSON_TP10_2_0",
+    "original": "もう、ダメ…動けない…\n美少年とは、かくも儚きクマ…",
+    "translation": "已经不行了……动不了了……\n美少年，是如此脆弱熊熊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n已经不行了……动不了了……\n美少年，是如此虚幻的小熊……\n\n已经，不行了……动不了……美少年就是这样虚幻的小熊……\n\n\n美少年就是如此虚幻的小熊……"
+  },
+  {
+    "key": "KUMA_1PERSON_TP10_3_0",
+    "original": "クマ、なんだかとても疲れたんだ…",
+    "translation": "小熊，总感觉好累……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小熊，总觉得好累……\n\n小熊，总觉得好累啊……\n\n小熊，总觉得很累……"
+  },
+  {
+    "key": "KUMA_1PERSON_HP80_1_0",
+    "original": "いえーい。絶好調クマー！",
+    "translation": "耶～状况绝佳熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n耶～状况绝佳的小熊！\n\n不是。小熊状态极佳！\n\n嗯。非常顺利的小熊！"
+  },
+  {
+    "key": "KUMA_1PERSON_HP80_2_0",
+    "original": "まだまだ頑張れるクマ！",
+    "translation": "还能继续努力熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小熊还能继续努力！\n\n还能继续努力的小熊！"
+  },
+  {
+    "key": "KUMA_1PERSON_HP80_3_0",
+    "original": "この調子でブイブイ言わせるクマよ！",
+    "translation": "就照这个样子，让敌人闻风丧胆熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n就照这个样子，让敌人闻风丧胆的小熊！\n\n用这个调子使之说布依的小熊哟！\n\n让你用这种语气说得轻飘飘的小熊啊！"
+  },
+  {
+    "key": "KUMA_DUNGEON_START_1_0",
+    "original": "出発するクマー！",
+    "translation": "出发熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n出发的小熊！"
+  },
+  {
+    "key": "KUMA_DUNGEON_START_2_0",
+    "original": "みんな、クマについてきんしゃーい！",
+    "translation": "大家，跟着小熊前进！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大家，跟着小熊前进！\n\n大家跟着小熊加油！\n\n大家，跟着小熊一起来！"
+  },
+  {
+    "key": "KUMA_DUNGEON_START_3_0",
+    "original": "全力で行くクマよー！",
+    "translation": "全力前进熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n全力前进的小熊！\n\n全力去的小熊哟！\n\n全力去的小熊哟～！"
+  },
+  {
+    "key": "KUMA_QUEST_START_1_0",
+    "original": "特別上映、やってやるクマ！",
+    "translation": "特别上映，开始了熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n特别上映，就看我的小熊！\n\n特别上映的小熊！\n\n特别上映，小熊来了！"
+  },
+  {
+    "key": "KUMA_QUEST_START_2_0",
+    "original": "だいじょーぶ、きっと成功するクマ！",
+    "translation": "没问题，一定会成功的熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n没问题，一定会成功的小熊！\n\n好吧，一定会成功的小熊！\n\n没关系，小熊一定会成功的！"
+  },
+  {
+    "key": "KUMA_QUEST_START_3_0",
+    "original": "みんなで頑張るクマ～！",
+    "translation": "大家一起加油熊熊～！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家一起加油的小熊～！\n\n大家一起努力的小熊～！"
+  },
+  {
+    "key": "KUMA_TOUHA_25_1_0",
+    "original": "ふぃー…まだ先は長そうクマね～。",
+    "translation": "呼……看来前面的路还很长熊熊～",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呼……看来前面还很长的小熊～\n\n呵呵……前面好像还很长的小熊啊～\n\n菲……小熊的路还很长呢。"
+  },
+  {
+    "key": "KUMA_TOUHA_25_2_0",
+    "original": "ちょっとだけ地図が埋まったクマ。",
+    "translation": "地图稍微填满了一点熊熊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n地图稍微填满了一点的小熊。\n\n稍微填满地图的小熊。\n\n稍微埋了一点地图的小熊。"
+  },
+  {
+    "key": "KUMA_TOUHA_50_1_0",
+    "original": "えーと、半分くらい歩いたクマ？",
+    "translation": "嗯……走了一半左右熊熊？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呃……走了一半左右的小熊？\n\n嗯，走了一半左右的小熊？\n\n嗯，走了一半的小熊？"
+  },
+  {
+    "key": "KUMA_TOUHA_50_2_0",
+    "original": "このフロアも大分わかってきたクマ！",
+    "translation": "这一层也大致探索完成了熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这个楼层也大致上了解了小熊！\n\n这层楼也明白了很多小熊！\n\n小熊对这个楼层也很了解了！"
+  },
+  {
+    "key": "KUMA_TOUHA_75_1_0",
+    "original": "かなり進んだ気がするクマ～！",
+    "translation": "感觉走了很远呢熊熊～！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n感觉前进了很多小熊～！\n\n感觉相当先进的小熊～！"
+  },
+  {
+    "key": "KUMA_TOUHA_75_2_0",
+    "original": "あと少しで、全部回れそうクマね。",
+    "translation": "再一下下就能全部走完了熊熊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n再一下下，就能全部逛完小熊。\n\n再过一会儿，全部都能转的小熊啊。\n\n差一点就能全部转完的小熊。"
+  },
+  {
+    "key": "KUMA_TOUHA_100_1_0",
+    "original": "やったー、コンプリートクマよ！",
+    "translation": "太好了，完成了熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太好了，完成小熊！\n\n太好了，压缩机小熊啊！\n\n太棒了，完美小熊！"
+  },
+  {
+    "key": "KUMA_TOUHA_100_2_0",
+    "original": "全部回れたクマね、やったクマ！",
+    "translation": "全部走完了熊熊，太棒了熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n全部逛完了小熊，太棒了小熊！\n\n全部转过来的小熊啊，太棒了小熊！\n\n全部都转了的小熊啊，做了的小熊！"
+  },
+  {
+    "key": "KUMA_MAPPING_ICON_ALL_1_0",
+    "original": "ほほー。いい地図が出来そうクマね。",
+    "translation": "哦哦～感觉会画出很棒的地图熊熊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦哦～感觉会画出很棒的地图小熊。\n\n呵呵。看起来能做出好地图的小熊啊。\n\n呵呵。小熊好像能画出很好的地图。"
+  },
+  {
+    "key": "KUMA_MAPPING_ICON_ALL_2_0",
+    "original": "おおー、見やすくなったクマ！",
+    "translation": "哦哦～变得好容易看懂熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦哦～变得好容易看小熊！\n\n喂，容易看的小熊！\n\n哦，小熊变得更好看了！"
+  },
+  {
+    "key": "KUMA_MAPPING_ICON_KAIDAN_0",
+    "original": "階段が分かれば、迷わないクマ！",
+    "translation": "只要知道楼梯在哪，就不会迷路熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n只要知道楼梯在哪，就不会迷路小熊！\n\n只要知道楼梯，就不会迷路的小熊！\n\n知道楼梯，就不会迷路的小熊！"
+  },
+  {
+    "key": "KUMA_MAPPING_ICON_KAIDAN_2_0",
+    "original": "ヒューウ、さっすがー！",
+    "translation": "咻～不愧是熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n咻～不愧是小熊！\n\n休，萨克斯！\n\n哇、哇！"
+  },
+  {
+    "key": "KUMA_MAPPING_CHANGE_COLO_0",
+    "original": "クマも！　クマも描きたいクマ～！",
+    "translation": "小熊也想！小熊也想画熊熊～！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小熊也想画！小熊也想画小熊～！\n\n小熊也！小熊也想画小熊～！\n\n小熊也是！小熊也想画的小熊～！"
+  },
+  {
+    "key": "KUMA_MAPPING_CHANGE_COLO_2_0",
+    "original": "ほほーう。センスが光ってるクマね。",
+    "translation": "哦哦～很有品味呢熊熊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦哦～感觉很有天分小熊。\n\n呵呵。这是一只很有品位的小熊。\n\n呵呵。你是个有品位的小熊啊。"
+  },
+  {
+    "key": "KUMA_MAPPING_ICON_DEL_1_0",
+    "original": "ポイっとする男気、シビレるクマ～。",
+    "translation": "不经意间露出的男人味，令人陶醉熊熊～",
+    "stage": 1,
+    "context": "机翻辅助：\n\n一派轻松的男人味，令人陶醉小熊～\n\n冒失的男子气概，麻木的小熊～\n\n胖乎乎的男子气概，发麻的小熊～"
+  },
+  {
+    "key": "KUMA_MAPPING_ICON_DEL_2_0",
+    "original": "片付けはマメに。\nってヨースケがいつも言ってるクマ。",
+    "translation": "要勤整理。\n阳介总是这么说熊熊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n收拾要确实。\n小熊平常都这么说。\n\n认真收拾。阳介经常说的小熊。\n\n\n收拾得很认真。阳介经常说的小熊。"
+  },
+  {
+    "key": "KUMA_MAPPING_MEMO_1_0",
+    "original": "ふんふん。これなら忘れないクマね～。",
+    "translation": "嗯嗯，这样就不会忘记了呢熊熊～",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯嗯，这样就不会忘记小熊～\n\n哼哼。这样的话就不会忘记的小熊啊～\n\n哼哼。这样的话就不会忘记小熊了～"
+  },
+  {
+    "key": "KUMA_MAPPING_MEMO_2_0",
+    "original": "とっても分かりやすい地図だクマ！",
+    "translation": "是很容易看懂的地图熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n非常容易看懂的地图小熊！\n\n非常易懂的地图小熊！\n\n非常容易理解的地图小熊！"
+  },
+  {
+    "key": "KUMA_DOOR_OPEN_1_0",
+    "original": "進むクマ～。",
+    "translation": "前进熊熊～",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前进小熊～\n\n前进的小熊～\n\n前进的小熊。"
+  },
+  {
+    "key": "KUMA_DOOR_OPEN_2_0",
+    "original": "こっちクマよ！",
+    "translation": "这边熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这边小熊！\n\n这是小熊！"
+  },
+  {
+    "key": "KUMA_DOOR_OPEN_3_0",
+    "original": "行くクマ～。",
+    "translation": "走吧熊熊～",
+    "stage": 1,
+    "context": "机翻辅助：\n\n走吧小熊～\n\n去的小熊～\n\n去小熊～"
+  }
+]

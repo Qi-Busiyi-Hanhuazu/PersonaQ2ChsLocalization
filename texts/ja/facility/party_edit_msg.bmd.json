@@ -1,0 +1,163 @@
+[
+  {
+    "key": "PARTY_EDIT_YESNO_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_YESNO_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_YESNO_CALL_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_YESNO_CALL_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_YESNO_CALL_DE_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_YESNO_CALL_DE_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_YESNO_REGIST__0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_YESNO_REGIST__1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ORGIA000_0",
+    "original": "オルギアモードの解説。\nなんたって、アートだからな。",
+    "translation": "オルギアモードの解説。\nなんたって、アートだからな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ORGIA000_1",
+    "original": "絶賛、期待してるからな！",
+    "translation": "絶賛、期待してるからな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_MSG_CALL_COMF_0",
+    "original": "＞この登録パーティを呼び出しますか？",
+    "translation": "＞この登録パーティを呼び出しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_MSG_SET_COMFI_0",
+    "original": "＞パーティ『[占位A 01]』を\n　登録してよろしいですか？",
+    "translation": "＞パーティ『[占位A 01]』を\n　登録してよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_MSG_DEL_COMFI_0",
+    "original": "＞パーティ『[占位A 01]』を\n　消去してよろしいですか？",
+    "translation": "＞パーティ『[占位A 01]』を\n　消去してよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_MSG_CANCEL_CR_0",
+    "original": "＞このパーティを登録せずに\n　終了してよろしいですか？",
+    "translation": "＞このパーティを登録せずに\n　終了してよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_MSG_NAME_ENTR_0",
+    "original": "このパーティの名前を入力してください。\nタッチで文字を選択できます。",
+    "translation": "このパーティの名前を入力してください。\nタッチで文字を選択できます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_MSG_CANCEL_ED_0",
+    "original": "＞パーティ編成を変更しないで戻ります。\n　よろしいですか？",
+    "translation": "＞パーティ編成を変更しないで戻ります。\n　よろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_MSG_PARTY_ALL_0",
+    "original": "＞パーティに戦える仲間がいません。",
+    "translation": "＞パーティに戦える仲間がいません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_MSG_LEADER_NO_0",
+    "original": "＞チームにリーダーが設定されていません\n　チームのリーダーは必ず設定してください",
+    "translation": "＞チームにリーダーが設定されていません\n　チームのリーダーは必ず設定してください",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_MSG_NO_MEMBER_0",
+    "original": "＞パーティに仲間を指定してください。",
+    "translation": "＞パーティに仲間を指定してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_MSG_LEADER_NO_2_0",
+    "original": "＞パーティのリーダーは\n　ワイルドの能力を持ったキャラクターを\n　選んでください。",
+    "translation": "＞パーティのリーダーは\n　ワイルドの能力を持ったキャラクターを\n　選んでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_MSG_FIRST_NAV_0",
+    "original": "＞ナビが設定されていません\n　ナビは必ず設定してください。",
+    "translation": "＞ナビが設定されていません\n　ナビは必ず設定してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_MSG_DUNGEON_N_0",
+    "original": "＞フィールドナビが設定されていません\n　フィールドナビは必ず設定してください。",
+    "translation": "＞フィールドナビが設定されていません\n　フィールドナビは必ず設定してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "PARTY_EDIT_RISKY_INVALID_0",
+    "original": "＞難易度ＲＩＳＫＹは\n　Ｐ５主人公を外したパーティは\n　編成できません",
+    "translation": "＞難易度ＲＩＳＫＹは\n　Ｐ５主人公を外したパーティは\n　編成できません",
+    "stage": 1,
+    "context": ""
+  }
+]

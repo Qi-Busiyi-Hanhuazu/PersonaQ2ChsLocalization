@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ストーップ！\n扉の先にまたシャドウの反応があるぞ！",
+    "translation": "ストーップ！\n扉の先にまたシャドウの反応があるぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "皆のもの！　戦闘の準備はいいか？",
+    "translation": "皆のもの！　戦闘の準備はいいか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "行こう",
+    "translation": "行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "待ってくれ",
+    "translation": "待ってくれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おう！\nワガハイ達の力、見せてやろうぜ！",
+    "translation": "おう！\nワガハイ達の力、見せてやろうぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うん、そうだね。\nちゃんと準備してからにしよ？",
+    "translation": "うん、そうだね。\nちゃんと準備してからにしよ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

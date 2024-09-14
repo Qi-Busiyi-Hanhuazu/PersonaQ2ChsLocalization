@@ -1,0 +1,37 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "んー…もう、朝…？",
+    "translation": "んー…もう、朝…？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "…あれ？\n私、なんで…泣いてるの…？",
+    "translation": "…あれ？\n私、なんで…泣いてるの…？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おとう…さん…",
+    "translation": "おとう…さん…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "お父さんに、会いたい…！",
+    "translation": "お父さんに、会いたい…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  }
+]

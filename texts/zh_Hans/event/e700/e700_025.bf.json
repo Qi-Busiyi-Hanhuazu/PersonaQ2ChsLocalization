@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "で、どっちに逃げればいいの！？",
+    "translation": "接下来，该往哪边逃跑呢！？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n那我们要往哪边逃才好！？\n\n那么，逃到哪边才好呢！？\n\n那么，该逃到哪里去呢？？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そのまま真っすぐ！\nとにかく進んでくれ！",
+    "translation": "就这样直走！\n总之就先前进吧！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n就这样直直往前！\n总之先前进再说！\n\n就这样笔直！\n总之请前进！\n\n就那样笔直！\n总之先前进吧！"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

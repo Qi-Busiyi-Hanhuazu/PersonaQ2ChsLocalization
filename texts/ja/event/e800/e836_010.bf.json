@@ -1,0 +1,205 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "今回の依頼内容は『通信機のパーツを\n集めて欲しい』というものでございます。",
+    "translation": "今回の依頼内容は『通信機のパーツを\n集めて欲しい』というものでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』の映画内にて、\n『爆轟の砲座』を討伐し…",
+    "translation": "『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』の映画内にて、\n『爆轟の砲座』を討伐し…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "ドロップする『未来の機構』を\n三つほどお持ちくださいませ。",
+    "translation": "ドロップする『未来の機構』を\n三つほどお持ちくださいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "通信機のパーツ？　なんだそりゃ？",
+    "translation": "通信機のパーツ？　なんだそりゃ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "こちらの上映は、ナビっ娘三人組からの\nお願いが元になっております。",
+    "translation": "こちらの上映は、ナビっ娘三人組からの\nお願いが元になっております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ナビっ娘…\nということは、りせたちが？",
+    "translation": "ナビっ娘…\nということは、りせたちが？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "そうなの！\n実はね…",
+    "translation": "そうなの！\n実はね…",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "なるほど、ナビの力を強めるための\n通信機か…",
+    "translation": "なるほど、ナビの力を強めるための\n通信機か…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "はい。難しそうでしたら、無理にとは\n言いませんが…どうでしょう？",
+    "translation": "はい。難しそうでしたら、無理にとは\n言いませんが…どうでしょう？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "って言ってるけど、どうするよ？\n[P5名]？",
+    "translation": "って言ってるけど、どうするよ？\n[P5名]？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "受けよう",
+    "translation": "受けよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "難しいな",
+    "translation": "難しいな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "だよな！\nやろうぜ、この依頼！",
+    "translation": "だよな！\nやろうぜ、この依頼！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "そっかー…\nでもよ、やれるだけやってみねえ？",
+    "translation": "そっかー…\nでもよ、やれるだけやってみねえ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "もし上手くいったら、俺たちも戦いが\n楽になるってことだろ？",
+    "translation": "もし上手くいったら、俺たちも戦いが\n楽になるってことだろ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ああ、より厳しくなるであろう戦いに\n向けて、戦力は強化しておくべきだ。",
+    "translation": "ああ、より厳しくなるであろう戦いに\n向けて、戦力は強化しておくべきだ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ホントに！？　受けてくれるのか？",
+    "translation": "ホントに！？　受けてくれるのか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "もっちろん！　ナビが強くなってくれれば\n万々歳だし、何より仲間からの頼みだしね！",
+    "translation": "もっちろん！　ナビが強くなってくれれば\n万々歳だし、何より仲間からの頼みだしね！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ああ、受けない理由が見つからん。\n協力させてもらおう。",
+    "translation": "ああ、受けない理由が見つからん。\n協力させてもらおう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "みんなありがとう！\nそれじゃあ、よろしくお願いします！！",
+    "translation": "みんなありがとう！\nそれじゃあ、よろしくお願いします！！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

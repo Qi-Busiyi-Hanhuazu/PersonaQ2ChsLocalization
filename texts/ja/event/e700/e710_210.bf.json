@@ -1,0 +1,107 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ん？　あれはなんだ？",
+    "translation": "ん？　あれはなんだ？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "何あれ？　なんか光ってる？",
+    "translation": "何あれ？　なんか光ってる？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "なかなかに美しい輝きだ。\nもっとよく観察したい。",
+    "translation": "なかなかに美しい輝きだ。\nもっとよく観察したい。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "えっ、大丈夫？\n罠とかじゃないよね？",
+    "translation": "えっ、大丈夫？\n罠とかじゃないよね？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ふむ、見れば見るほど不思議な輝きだ。\nこのオーラは絵の具で再現できるか…？",
+    "translation": "ふむ、見れば見るほど不思議な輝きだ。\nこのオーラは絵の具で再現できるか…？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "話、聞いてねーし！",
+    "translation": "話、聞いてねーし！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "こうなったおイナリは、もうダメだな。\nスルーだ、スルー。",
+    "translation": "こうなったおイナリは、もうダメだな。\nスルーだ、スルー。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "それより！　そこ、なんかあるっぽいぞ。\n調べてみてくれ、ジョーカー！",
+    "translation": "それより！　そこ、なんかあるっぽいぞ。\n調べてみてくれ、ジョーカー！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ああ…\n画材を持ってくれば良かった…",
+    "translation": "ああ…\n画材を持ってくれば良かった…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "くっ！　俺としたことが…！",
+    "translation": "くっ！　俺としたことが…！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "おい、もうそれはいいっての。\nさっさと行くぞ！",
+    "translation": "おい、もうそれはいいっての。\nさっさと行くぞ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

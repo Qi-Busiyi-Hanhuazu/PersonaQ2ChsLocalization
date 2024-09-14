@@ -1,0 +1,7758 @@
+[
+  {
+    "key": "text_002_0",
+    "original": "アタック",
+    "translation": "攻击",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_003_0",
+    "original": "アギ",
+    "translation": "亚基",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_004_0",
+    "original": "アギラオ",
+    "translation": "亚基拉欧",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_005_0",
+    "original": "アギダイン",
+    "translation": "亚基达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_006_0",
+    "original": "マハラギ",
+    "translation": "玛哈拉基",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_007_0",
+    "original": "マハラギオン",
+    "translation": "玛哈拉基翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_008_0",
+    "original": "マハラギダイン",
+    "translation": "玛哈拉基达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_009_0",
+    "original": "焔弾",
+    "translation": "焰弹",
+    "stage": 1,
+    "context": "机翻辅助：\n\n焰弹。\n\n火焰弹"
+  },
+  {
+    "key": "text_010_0",
+    "original": "ラグナロク",
+    "translation": "诸神黄昏",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_015_0",
+    "original": "ガル",
+    "translation": "加尔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_016_0",
+    "original": "ガルーラ",
+    "translation": "加尔拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_017_0",
+    "original": "ガルダイン",
+    "translation": "加尔达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_018_0",
+    "original": "マハガル",
+    "translation": "玛哈加尔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_019_0",
+    "original": "マハガルーラ",
+    "translation": "玛哈加尔拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_020_0",
+    "original": "マハガルダイン",
+    "translation": "玛哈加尔达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_021_0",
+    "original": "旋風",
+    "translation": "旋风",
+    "stage": 0,
+    "context": "机翻辅助：\n\n旋风"
+  },
+  {
+    "key": "text_022_0",
+    "original": "万物流転",
+    "translation": "万物流转",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_027_0",
+    "original": "ブフ",
+    "translation": "布芙",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_028_0",
+    "original": "ブフーラ",
+    "translation": "布芙拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_029_0",
+    "original": "ブフダイン",
+    "translation": "布芙达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_030_0",
+    "original": "マハブフ",
+    "translation": "玛哈布芙",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_031_0",
+    "original": "マハブフーラ",
+    "translation": "玛哈布芙拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_032_0",
+    "original": "マハブフダイン",
+    "translation": "玛哈布芙达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_033_0",
+    "original": "極寒パラダイス",
+    "translation": "极寒乐园",
+    "stage": 0,
+    "context": "机翻辅助：\n\n极寒乐园\n\n极寒天堂"
+  },
+  {
+    "key": "text_034_0",
+    "original": "ニブルヘイム",
+    "translation": "死者国度",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_035_0",
+    "original": "氷槍",
+    "translation": "冰枪",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰枪"
+  },
+  {
+    "key": "text_040_0",
+    "original": "ジオ",
+    "translation": "吉欧",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_041_0",
+    "original": "ジオンガ",
+    "translation": "吉欧加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_042_0",
+    "original": "ジオダイン",
+    "translation": "吉欧达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_043_0",
+    "original": "マハジオ",
+    "translation": "玛哈吉欧",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_044_0",
+    "original": "マハジオンガ",
+    "translation": "玛哈吉欧加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_045_0",
+    "original": "マハジオダイン",
+    "translation": "玛哈吉欧达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_047_0",
+    "original": "真理の雷",
+    "translation": "真理之雷",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_048_0",
+    "original": "ケラウノス",
+    "translation": "雷霆",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_049_0",
+    "original": "閃雷",
+    "translation": "闪雷",
+    "stage": 0,
+    "context": "机翻辅助：\n\n闪雷"
+  },
+  {
+    "key": "text_050_0",
+    "original": "天帝の雷光",
+    "translation": "天帝的雷光",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天帝的雷光\n\n天帝的光芒"
+  },
+  {
+    "key": "text_052_0",
+    "original": "メギド",
+    "translation": "米吉多",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_053_0",
+    "original": "メギドラ",
+    "translation": "米吉多拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_054_0",
+    "original": "メギドラオン",
+    "translation": "米吉多拉翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_056_0",
+    "original": "漆黒の蛇",
+    "translation": "漆黑之蛇",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_057_0",
+    "original": "明けの明星",
+    "translation": "拂晓明星",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_062_0",
+    "original": "ハマ",
+    "translation": "哈玛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_063_0",
+    "original": "ハマオン",
+    "translation": "哈玛翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_064_0",
+    "original": "マハンマ",
+    "translation": "玛翰玛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_065_0",
+    "original": "マハンマオン",
+    "translation": "玛翰玛翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_068_0",
+    "original": "回転説法",
+    "translation": "回转讲道",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_073_0",
+    "original": "ムド",
+    "translation": "姆多",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_074_0",
+    "original": "ムドオン",
+    "translation": "姆多翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_075_0",
+    "original": "マハムド",
+    "translation": "玛哈姆多",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_076_0",
+    "original": "マハムドオン",
+    "translation": "玛哈姆多翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_079_0",
+    "original": "死んでくれる？",
+    "translation": "可以为我而死吗？",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_084_0",
+    "original": "プリンパ",
+    "translation": "普林帕",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_085_0",
+    "original": "テンタラフー",
+    "translation": "颠塔拉弗",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_086_0",
+    "original": "ポイズマ",
+    "translation": "施毒术",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_087_0",
+    "original": "ポイズンブレス",
+    "translation": "剧毒之息",
+    "stage": 9,
+    "context": "翻译匹配：SH2"
+  },
+  {
+    "key": "text_090_0",
+    "original": "ドルミナー",
+    "translation": "永眠",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_091_0",
+    "original": "スリープソング",
+    "translation": "摇篮曲",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_092_0",
+    "original": "デビルタッチ",
+    "translation": "恶魔之触",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_093_0",
+    "original": "デビルスマイル",
+    "translation": "恶魔微笑",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_096_0",
+    "original": "重い道着系",
+    "translation": "沉重的道服系",
+    "stage": 0,
+    "context": "机翻辅助：\n\n沉重的道服系"
+  },
+  {
+    "key": "text_097_0",
+    "original": "ド根性の腕輪",
+    "translation": "毅力十足的手环",
+    "stage": 0,
+    "context": "机翻辅助：\n\n毅力十足的手环\n\n根性的手镯\n\n顽固的手镯"
+  },
+  {
+    "key": "text_098_0",
+    "original": "神の贄",
+    "translation": "神之祭品",
+    "stage": 1,
+    "context": "机翻辅助：\n\n神的祭品\n\n神的牺牲品"
+  },
+  {
+    "key": "text_099_0",
+    "original": "ルドラリング",
+    "translation": "楼陀罗戒指",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_100_0",
+    "original": "チャクラリング",
+    "translation": "脉轮戒指",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_101_0",
+    "original": "風柳の翼",
+    "translation": "风柳之翼",
+    "stage": 0,
+    "context": "机翻辅助：\n\n风柳之翼"
+  },
+  {
+    "key": "text_102_0",
+    "original": "雪折不の翼",
+    "translation": "耐雪之翼",
+    "stage": 1,
+    "context": "机翻辅助：\n\n雪折之翼\n\n雪折不折的翅膀\n\n评论：\n\n耐雪=奈雪"
+  },
+  {
+    "key": "text_103_0",
+    "original": "歯亡舌存の翼",
+    "translation": "齿亡舌存之翼",
+    "stage": 0,
+    "context": "机翻辅助：\n\n齿亡舌存之翼"
+  },
+  {
+    "key": "text_104_0",
+    "original": "極炎塊",
+    "translation": "极炎块",
+    "stage": 0,
+    "context": "机翻辅助：\n\n极炎块\n\n极焰块"
+  },
+  {
+    "key": "text_105_0",
+    "original": "絶冷石",
+    "translation": "绝冷石",
+    "stage": 0,
+    "context": "机翻辅助：\n\n绝冷石"
+  },
+  {
+    "key": "text_106_0",
+    "original": "暴嵐の指輪",
+    "translation": "暴风戒指",
+    "stage": 0,
+    "context": "机翻辅助：\n\n暴风戒指\n\n暴岚戒指"
+  },
+  {
+    "key": "text_107_0",
+    "original": "雷神の腕輪",
+    "translation": "雷神手镯",
+    "stage": 1,
+    "context": "机翻辅助：\n\n雷神的手环\n\n雷神手镯"
+  },
+  {
+    "key": "text_108_0",
+    "original": "白き光輪",
+    "translation": "白光之轮",
+    "stage": 1,
+    "context": "机翻辅助：\n\n白色光轮\n\n白色光环"
+  },
+  {
+    "key": "text_109_0",
+    "original": "黒き闇輪",
+    "translation": "黑暗之轮",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_110_0",
+    "original": "白刃鳥の羽根",
+    "translation": "白刃鸟的羽毛",
+    "stage": 0,
+    "context": "机翻辅助：\n\n白刃鸟的羽毛"
+  },
+  {
+    "key": "text_111_0",
+    "original": "鉄製のペンダント",
+    "translation": "铁制坠饰",
+    "stage": 1,
+    "context": "机翻辅助：\n\n铁制的项链\n\n铁制吊坠\n\n铁吊坠"
+  },
+  {
+    "key": "text_112_0",
+    "original": "ヘルメット",
+    "translation": "头盔",
+    "stage": 0,
+    "context": "机翻辅助：\n\n头盔\n\n头盔，头盔"
+  },
+  {
+    "key": "text_113_0",
+    "original": "全能の真球",
+    "translation": "全能真球",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_115_0",
+    "original": "ゲルマニウムの輪",
+    "translation": "锗之戒指",
+    "stage": 1,
+    "context": "机翻辅助：\n\n硅藻土戒指\n\n锗环\n\n锗圈"
+  },
+  {
+    "key": "text_116_0",
+    "original": "贖罪の羊",
+    "translation": "赎罪羔羊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n赎罪羔羊\n\n赎罪的羊"
+  },
+  {
+    "key": "text_117_0",
+    "original": "体魂反転リング",
+    "translation": "体魂反转戒指",
+    "stage": 1,
+    "context": "机翻辅助：\n\n体魂翻转戒指\n\n体魂反转环"
+  },
+  {
+    "key": "text_118_0",
+    "original": "力魔反転リング",
+    "translation": "力魔反转戒指",
+    "stage": 0,
+    "context": "机翻辅助：\n\n力魔反转戒指\n\n力魔反转环"
+  },
+  {
+    "key": "text_119_0",
+    "original": "力耐反転リング",
+    "translation": "力耐反转戒指",
+    "stage": 0,
+    "context": "机翻辅助：\n\n力耐反转戒指\n\n力耐反转环\n\n抗反转环"
+  },
+  {
+    "key": "text_120_0",
+    "original": "力速反転リング",
+    "translation": "力速反转戒指",
+    "stage": 0,
+    "context": "机翻辅助：\n\n力速反转戒指\n\n力速反转环"
+  },
+  {
+    "key": "text_121_0",
+    "original": "力運反転リング",
+    "translation": "力运翻转戒指",
+    "stage": 0,
+    "context": "机翻辅助：\n\n力运翻转戒指\n\n力运反转环"
+  },
+  {
+    "key": "text_122_0",
+    "original": "魔耐反転リング",
+    "translation": "魔耐反转戒指",
+    "stage": 0,
+    "context": "机翻辅助：\n\n魔耐反转戒指\n\n魔耐反转环\n\n抗魔反转环"
+  },
+  {
+    "key": "text_123_0",
+    "original": "魔速反転リング",
+    "translation": "魔速反转戒指",
+    "stage": 0,
+    "context": "机翻辅助：\n\n魔速反转戒指\n\n魔速反转环"
+  },
+  {
+    "key": "text_124_0",
+    "original": "魔運反転リング",
+    "translation": "魔运反转戒指",
+    "stage": 0,
+    "context": "机翻辅助：\n\n魔运反转戒指\n\n魔运反转环"
+  },
+  {
+    "key": "text_125_0",
+    "original": "耐速反転リング",
+    "translation": "耐速反转戒指",
+    "stage": 1,
+    "context": "机翻辅助：\n\n耐速反转环\n\n抗速反转环\n\n超速反转环"
+  },
+  {
+    "key": "text_126_0",
+    "original": "耐運反転リング",
+    "translation": "耐运反转戒指",
+    "stage": 1,
+    "context": "机翻辅助：\n\n耐运翻转戒指\n\n抗运反转环\n\n耐运反转环"
+  },
+  {
+    "key": "text_127_0",
+    "original": "速運反転リング",
+    "translation": "速运反转戒指",
+    "stage": 0,
+    "context": "机翻辅助：\n\n速运反转戒指\n\n速运反转环\n\n快运反转环"
+  },
+  {
+    "key": "text_130_0",
+    "original": "牙砕き",
+    "translation": "碎牙",
+    "stage": 0,
+    "context": "机翻辅助：\n\n碎牙\n\n牙碎\n\n磨牙"
+  },
+  {
+    "key": "text_131_0",
+    "original": "胆砕き",
+    "translation": "碎胆",
+    "stage": 1,
+    "context": "机翻辅助：\n\n胆碎\n\n心碎"
+  },
+  {
+    "key": "text_132_0",
+    "original": "大切断",
+    "translation": "大斩断",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_133_0",
+    "original": "ツインスラッシュ",
+    "translation": "双剑连斩",
+    "stage": 0,
+    "context": "机翻辅助：\n\n双剑连斩\n\n双斜线"
+  },
+  {
+    "key": "text_134_0",
+    "original": "レッグリーパー",
+    "translation": "腿铰刀",
+    "stage": 1,
+    "context": "机翻辅助：\n\n腿部追击。\n\n腿铰刀\n\n腿夹"
+  },
+  {
+    "key": "text_135_0",
+    "original": "トリプルダウン",
+    "translation": "三连倒",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_136_0",
+    "original": "剛殺斬",
+    "translation": "刚杀斩",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_137_0",
+    "original": "アキレスリーパー",
+    "translation": "阿基里斯铰刀",
+    "stage": 1,
+    "context": "机翻辅助：\n\n阿基里斯巨怪\n\n阿基里斯捕手\n\n阿基里斯漏斗"
+  },
+  {
+    "key": "text_138_0",
+    "original": "カームバスター",
+    "translation": "冷静克星",
+    "stage": 1,
+    "context": "机翻辅助：\n\n卡姆巴斯特\n\n评论：\n\n？"
+  },
+  {
+    "key": "text_139_0",
+    "original": "暴れまくり",
+    "translation": "横冲直撞",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_140_0",
+    "original": "霧氷刃",
+    "translation": "雾冰刃",
+    "stage": 1,
+    "context": "机翻辅助：\n\n雾冰刃。\n\n雾冰刃\n\n雾凇刀"
+  },
+  {
+    "key": "text_141_0",
+    "original": "残心剣",
+    "translation": "残心剑",
+    "stage": 0,
+    "context": "机翻辅助：\n\n残心剑"
+  },
+  {
+    "key": "text_142_0",
+    "original": "残心の一撃",
+    "translation": "残心的一击",
+    "stage": 1,
+    "context": "机翻辅助：\n\n收招的一击\n\n残心的一击"
+  },
+  {
+    "key": "text_143_0",
+    "original": "デスニードル",
+    "translation": "死亡刺针",
+    "stage": 0,
+    "context": "机翻辅助：\n\n死亡刺针\n\n帆布鞋\n\n去针"
+  },
+  {
+    "key": "text_144_0",
+    "original": "ギロチンカット",
+    "translation": "断头斩",
+    "stage": 9,
+    "context": "翻译匹配：SMT3HD"
+  },
+  {
+    "key": "text_145_0",
+    "original": "五月雨斬り",
+    "translation": "五月雨斩",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_146_0",
+    "original": "閃電砕",
+    "translation": "闪电击碎",
+    "stage": 1,
+    "context": "机翻辅助：\n\n闪电碎。\n\n闪电碎\n\n闪电击碎"
+  },
+  {
+    "key": "text_147_0",
+    "original": "ホーリータッチ",
+    "translation": "神圣之触",
+    "stage": 0,
+    "context": "机翻辅助：\n\n神圣之触\n\n霍利触感\n\n霍利接触"
+  },
+  {
+    "key": "text_148_0",
+    "original": "我慢の鉄槌",
+    "translation": "忍耐的铁锤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n忍耐的铁锤"
+  },
+  {
+    "key": "text_149_0",
+    "original": "鉄槌の一撃",
+    "translation": "铁锤的一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n铁锤的一击"
+  },
+  {
+    "key": "text_150_0",
+    "original": "両腕落とし",
+    "translation": "断臂击",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_151_0",
+    "original": "シングルショット",
+    "translation": "单次射击",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_152_0",
+    "original": "スケアスロウ",
+    "translation": "稻草人",
+    "stage": 1,
+    "context": "机翻辅助：\n\n斯凯斯洛。\n\n滑板\n\n介阿介"
+  },
+  {
+    "key": "text_153_0",
+    "original": "ナイアーム",
+    "translation": "解除武装",
+    "stage": 1,
+    "context": "机翻辅助：\n\n奈亚姆\n\n奈臂\n\n内臂"
+  },
+  {
+    "key": "text_154_0",
+    "original": "マカジャマ",
+    "translation": "玛卡加玛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_155_0",
+    "original": "アサルトショット",
+    "translation": "突击射击",
+    "stage": 1,
+    "context": "机翻辅助：\n\n突击散弹枪\n\n突击镜头\n\n冲击"
+  },
+  {
+    "key": "text_156_0",
+    "original": "イノセントタック",
+    "translation": "纯真突刺",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_157_0",
+    "original": "武器砕き",
+    "translation": "武器粉碎",
+    "stage": 1,
+    "context": "机翻辅助：\n\n破械\n\n打碎武器\n\n粉碎武器"
+  },
+  {
+    "key": "text_158_0",
+    "original": "ホライズショット",
+    "translation": "全景",
+    "stage": 0,
+    "context": "机翻辅助：\n\n全景\n\n地平线镜头\n\n匀拍"
+  },
+  {
+    "key": "text_159_0",
+    "original": "刹那五月雨撃",
+    "translation": "刹那五月雨击",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_160_0",
+    "original": "パニッシュメント",
+    "translation": "惩罚",
+    "stage": 1,
+    "context": "机翻辅助：\n\nPunishment\n\n装饰\n\n宣传画"
+  },
+  {
+    "key": "text_161_0",
+    "original": "アサルトダイブ",
+    "translation": "俯冲突击",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_162_0",
+    "original": "まどろみパンチ",
+    "translation": "瞌睡拳",
+    "stage": 0,
+    "context": "机翻辅助：\n\n瞌睡拳\n\n打孔机\n\n打孔"
+  },
+  {
+    "key": "text_163_0",
+    "original": "アーマークラック",
+    "translation": "铠甲崩裂",
+    "stage": 0,
+    "context": "机翻辅助：\n\n铠甲崩裂\n\n电枢裂纹\n\n阿马克克拉克"
+  },
+  {
+    "key": "text_164_0",
+    "original": "突撃",
+    "translation": "突击",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_165_0",
+    "original": "デスバウンド",
+    "translation": "死亡界限",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_166_0",
+    "original": "利剣乱舞",
+    "translation": "利剑乱舞",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_167_0",
+    "original": "氷殺刃",
+    "translation": "冰杀刃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰杀刃\n\n冰刀"
+  },
+  {
+    "key": "text_168_0",
+    "original": "空間殺法",
+    "translation": "空间杀法",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_169_0",
+    "original": "黒の舞踏",
+    "translation": "黑色舞蹈",
+    "stage": 0,
+    "context": "机翻辅助：\n\n黑色舞蹈\n\n黑色的舞蹈"
+  },
+  {
+    "key": "text_170_0",
+    "original": "ヘッドバット",
+    "translation": "头锤",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_171_0",
+    "original": "熔熱発破",
+    "translation": "熔热爆破",
+    "stage": 1,
+    "context": "机翻辅助：\n\n熔热爆破。\n\n焊接爆破\n\n熔断"
+  },
+  {
+    "key": "text_172_0",
+    "original": "ヒートウェイブ",
+    "translation": "灼热波浪",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_173_0",
+    "original": "光明波",
+    "translation": "光明波",
+    "stage": 0,
+    "context": "机翻辅助：\n\n光明波\n\n光波\n\n光波波"
+  },
+  {
+    "key": "text_175_0",
+    "original": "絶妙剣",
+    "translation": "绝妙剑",
+    "stage": 9,
+    "context": "翻译匹配：SMT3HD"
+  },
+  {
+    "key": "text_176_0",
+    "original": "フォトンエッジ",
+    "translation": "光刃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n光刃\n\n光子边\n\n光子边缘"
+  },
+  {
+    "key": "text_177_0",
+    "original": "プラーナ",
+    "translation": "普拉纳",
+    "stage": 0,
+    "context": "机翻辅助：\n\n普拉纳"
+  },
+  {
+    "key": "text_178_0",
+    "original": "天軍の剣",
+    "translation": "天军之剑",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_179_0",
+    "original": "ゴッドハンド",
+    "translation": "神之手",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_180_0",
+    "original": "天使のラッパ",
+    "translation": "天使的喇叭",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天使的喇叭\n\n天使的号角"
+  },
+  {
+    "key": "text_181_0",
+    "original": "八艘跳び",
+    "translation": "八艘跳跃",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_182_0",
+    "original": "ヘビーレイン",
+    "translation": "暴雨",
+    "stage": 0,
+    "context": "机翻辅助：\n\n暴雨\n\n重油\n\n重度雨"
+  },
+  {
+    "key": "text_183_0",
+    "original": "アローシャワー",
+    "translation": "箭浴",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_184_0",
+    "original": "アイオンの雨",
+    "translation": "永恒之雨",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_185_0",
+    "original": "首討ち",
+    "translation": "斩首",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_189_0",
+    "original": "毒串刺し",
+    "translation": "毒穿刺",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_190_0",
+    "original": "紅蓮刀",
+    "translation": "红莲刀",
+    "stage": 0,
+    "context": "机翻辅助：\n\n红莲刀"
+  },
+  {
+    "key": "text_191_0",
+    "original": "凍殺刃",
+    "translation": "冻杀刃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冻杀刃"
+  },
+  {
+    "key": "text_192_0",
+    "original": "雷光斬",
+    "translation": "雷光斩",
+    "stage": 0,
+    "context": "机翻辅助：\n\n雷光斩\n\n闪电斩"
+  },
+  {
+    "key": "text_193_0",
+    "original": "陣風撃",
+    "translation": "阵风击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n阵风击\n\n阵风攻击"
+  },
+  {
+    "key": "text_194_0",
+    "original": "真空波",
+    "translation": "真空波",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_195_0",
+    "original": "烈星波",
+    "translation": "烈星波",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "text_196_0",
+    "original": "プララヤ",
+    "translation": "大劫",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_197_0",
+    "original": "シャドウラン",
+    "translation": "暗影步",
+    "stage": 0,
+    "context": "机翻辅助：\n\n暗影步\n\n沙德仑\n\n沙德铀"
+  },
+  {
+    "key": "text_198_0",
+    "original": "終わる世界",
+    "translation": "末日世界",
+    "stage": 1,
+    "context": "机翻辅助：\n\n终结的世界\n\n末日世界"
+  },
+  {
+    "key": "text_199_0",
+    "original": "雷鳴斬",
+    "translation": "雷鸣斩",
+    "stage": 0,
+    "context": "机翻辅助：\n\n雷鸣斩\n\n雷霆斩"
+  },
+  {
+    "key": "text_200_0",
+    "original": "雷神斬",
+    "translation": "雷神斩",
+    "stage": 0,
+    "context": "机翻辅助：\n\n雷神斩\n\n雷神之斩"
+  },
+  {
+    "key": "text_201_0",
+    "original": "獄炎刀",
+    "translation": "狱炎刀",
+    "stage": 0,
+    "context": "机翻辅助：\n\n狱炎刀"
+  },
+  {
+    "key": "text_202_0",
+    "original": "緋炎刀",
+    "translation": "绯炎刀",
+    "stage": 0,
+    "context": "机翻辅助：\n\n绯炎刀"
+  },
+  {
+    "key": "text_203_0",
+    "original": "烈風撃",
+    "translation": "烈风击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n烈风击\n\n烈风冲击"
+  },
+  {
+    "key": "text_204_0",
+    "original": "神風撃",
+    "translation": "神风击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n神风击"
+  },
+  {
+    "key": "text_210_0",
+    "original": "ディア",
+    "translation": "迪亚",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_211_0",
+    "original": "ディアラマ",
+    "translation": "迪亚拉玛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_212_0",
+    "original": "ディアラハン",
+    "translation": "迪亚拉翰",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_213_0",
+    "original": "ラインヒール",
+    "translation": "队列治愈",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_214_0",
+    "original": "生命の杯",
+    "translation": "生命之杯",
+    "stage": 0,
+    "context": "机翻辅助：\n\n生命之杯"
+  },
+  {
+    "key": "text_215_0",
+    "original": "メディア",
+    "translation": "梅迪亚",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_216_0",
+    "original": "メディラマ",
+    "translation": "梅迪拉玛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_217_0",
+    "original": "メディアラハン",
+    "translation": "梅迪亚拉翰",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_218_0",
+    "original": "リカーム",
+    "translation": "利卡姆",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_219_0",
+    "original": "サマリカーム",
+    "translation": "萨玛利卡姆",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_220_0",
+    "original": "トリート",
+    "translation": "招待",
+    "stage": 1,
+    "context": "机翻辅助：\n\nTreat\n\n特里特\n\n微调\n\n评论：\n\n？"
+  },
+  {
+    "key": "text_221_0",
+    "original": "リニューアル",
+    "translation": "焕然一新",
+    "stage": 1,
+    "context": "机翻辅助：\n\n翻修\n\n更新\n\n评论：\n\n？"
+  },
+  {
+    "key": "text_222_0",
+    "original": "パトラ",
+    "translation": "帕特拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_223_0",
+    "original": "リフレッシュ",
+    "translation": "刷新",
+    "stage": 9,
+    "context": "翻译匹配：SH2"
+  },
+  {
+    "key": "text_224_0",
+    "original": "メパトラ",
+    "translation": "梅帕特拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_225_0",
+    "original": "クロズディ",
+    "translation": "克洛兹迪",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_226_0",
+    "original": "リラックス",
+    "translation": "放松",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放松"
+  },
+  {
+    "key": "text_227_0",
+    "original": "マハクロズディ",
+    "translation": "玛哈克洛兹迪",
+    "stage": 1,
+    "context": "机翻辅助：\n\n马哈克罗斯迪\n\n马哈克罗兹迪\n\n评论：\n\nP4G有克洛兹迪"
+  },
+  {
+    "key": "text_228_0",
+    "original": "アムリタ",
+    "translation": "不死甘露",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_231_0",
+    "original": "獣の咆哮",
+    "translation": "野兽咆哮",
+    "stage": 1,
+    "context": "机翻辅助：\n\n野兽的咆哮"
+  },
+  {
+    "key": "text_232_0",
+    "original": "龍の咆哮",
+    "translation": "龙之咆哮",
+    "stage": 0,
+    "context": "机翻辅助：\n\n龙之咆哮\n\n龙的咆哮"
+  },
+  {
+    "key": "text_233_0",
+    "original": "リンクプラス",
+    "translation": "连接增强",
+    "stage": 1,
+    "context": "机翻辅助：\n\nPlus\n\n链接加号\n\n林克加"
+  },
+  {
+    "key": "text_234_0",
+    "original": "真・リンクプラス",
+    "translation": "真·连接增强",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真·联合＋\n\n真·林克普拉斯\n\n正链接"
+  },
+  {
+    "key": "text_237_0",
+    "original": "ヘイトイーター",
+    "translation": "憎恨吞噬",
+    "stage": 1,
+    "context": "机翻辅助：\n\n憎恨吞噬者\n\n避雷器\n\n仇恨者"
+  },
+  {
+    "key": "text_238_0",
+    "original": "ボディーガード",
+    "translation": "保镖",
+    "stage": 0,
+    "context": "机翻辅助：\n\n保镖"
+  },
+  {
+    "key": "text_239_0",
+    "original": "ラインガード",
+    "translation": "同列守护",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_240_0",
+    "original": "オールガード",
+    "translation": "全体防御",
+    "stage": 0,
+    "context": "机翻辅助：\n\n全体防御\n\n后卫\n\n全保护"
+  },
+  {
+    "key": "text_242_0",
+    "original": "聖なる加護",
+    "translation": "神圣加护",
+    "stage": 0,
+    "context": "机翻辅助：\n\n神圣加护\n\n神圣的保佑"
+  },
+  {
+    "key": "text_243_0",
+    "original": "猛き戦いの舞曲",
+    "translation": "雄壮的战斗舞曲",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_244_0",
+    "original": "防御陣形",
+    "translation": "防御阵型",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_245_0",
+    "original": "反逆の先導者",
+    "translation": "反叛的先驱者",
+    "stage": 0,
+    "context": "机翻辅助：\n\n反叛的先驱者\n\n叛国的先导者\n\n叛逆的先锋"
+  },
+  {
+    "key": "text_246_0",
+    "original": "会心眼",
+    "translation": "会心眼",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "text_247_0",
+    "original": "大変革の先導者",
+    "translation": "大变革的先驱者",
+    "stage": 1,
+    "context": "机翻辅助：\n\n重大变革的先驱者\n\n大变革的先导者"
+  },
+  {
+    "key": "text_248_0",
+    "original": "マハタルカジャ",
+    "translation": "玛哈塔尔卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_249_0",
+    "original": "マハラクカジャ",
+    "translation": "玛哈拉库卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_250_0",
+    "original": "マハスクカジャ",
+    "translation": "玛哈斯库卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_251_0",
+    "original": "チャージ",
+    "translation": "蓄力",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_252_0",
+    "original": "コンセントレイト",
+    "translation": "专心致志",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_253_0",
+    "original": "炎の加護",
+    "translation": "火之加护",
+    "stage": 1,
+    "context": "机翻辅助：\n\n火焰加护\n\n火焰的保佑\n\n火的加护"
+  },
+  {
+    "key": "text_254_0",
+    "original": "氷の加護",
+    "translation": "冰之加护",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰之加护\n\n冰之保佑\n\n冰的加护"
+  },
+  {
+    "key": "text_255_0",
+    "original": "雷の加護",
+    "translation": "雷之加护",
+    "stage": 1,
+    "context": "机翻辅助：\n\n雷电加护\n\n雷电的保佑\n\n雷的保佑"
+  },
+  {
+    "key": "text_256_0",
+    "original": "風の加護",
+    "translation": "风之加护",
+    "stage": 1,
+    "context": "机翻辅助：\n\n风的加护\n\n风的保佑"
+  },
+  {
+    "key": "text_262_0",
+    "original": "マハタルンダ",
+    "translation": "玛哈塔伦达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_263_0",
+    "original": "マハラクンダ",
+    "translation": "玛哈拉坤达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_264_0",
+    "original": "マハスクンダ",
+    "translation": "玛哈斯坤达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_266_0",
+    "original": "獅子奮迅の大号令",
+    "translation": "狮子奋迅之大号令",
+    "stage": 1,
+    "context": "机翻辅助：\n\n狮子奋迅的大号令\n\n狮子发奋的号令"
+  },
+  {
+    "key": "text_267_0",
+    "original": "精神一到の大号令",
+    "translation": "精神集中之大号令",
+    "stage": 1,
+    "context": "机翻辅助：\n\n精神集中的大号令\n\n精神一到的大号令\n\n精神百倍的号令"
+  },
+  {
+    "key": "text_269_0",
+    "original": "呪縛の妖気",
+    "translation": "咒缚之妖气",
+    "stage": 1,
+    "context": "机翻辅助：\n\n咒缚妖气\n\n符咒的妖气\n\n咒缚的妖气"
+  },
+  {
+    "key": "text_270_0",
+    "original": "サロメの口づけ",
+    "translation": "莎乐美之吻",
+    "stage": 1,
+    "context": "机翻辅助：\n\n莎乐美的吻\n\n萨洛梅的吻\n\n莎乐美之吻"
+  },
+  {
+    "key": "text_274_0",
+    "original": "デカジャ",
+    "translation": "迪卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_275_0",
+    "original": "デクンダ",
+    "translation": "迪坤达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_277_0",
+    "original": "念動の壁",
+    "translation": "念动之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n念动之壁\n\n念动之墙\n\n心之墙"
+  },
+  {
+    "key": "text_278_0",
+    "original": "核熱の壁",
+    "translation": "核热之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n核热之壁\n\n核热之墙\n\n核热墙"
+  },
+  {
+    "key": "text_279_0",
+    "original": "火炎の壁",
+    "translation": "火焰之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰之壁\n\n火焰墙"
+  },
+  {
+    "key": "text_280_0",
+    "original": "疾風の壁",
+    "translation": "疾风之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疾风之壁\n\n疾风之墙"
+  },
+  {
+    "key": "text_281_0",
+    "original": "氷結の壁",
+    "translation": "冰冻之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰冻之壁\n\n结冰的墙壁\n\n结冰的墙"
+  },
+  {
+    "key": "text_282_0",
+    "original": "電撃の壁",
+    "translation": "电击之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电击之壁\n\n闪电墙\n\n电击墙"
+  },
+  {
+    "key": "text_283_0",
+    "original": "祝福の壁",
+    "translation": "祝福之壁",
+    "stage": 1,
+    "context": "机翻辅助：\n\n祝福之墙"
+  },
+  {
+    "key": "text_284_0",
+    "original": "呪怨の壁",
+    "translation": "咒怨之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n咒怨之壁\n\n咒怨之墙"
+  },
+  {
+    "key": "text_285_0",
+    "original": "タルカジャ",
+    "translation": "塔尔卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_286_0",
+    "original": "ラクカジャ",
+    "translation": "拉库卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_287_0",
+    "original": "スクカジャ",
+    "translation": "斯库卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_288_0",
+    "original": "タルンダ",
+    "translation": "塔伦达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_289_0",
+    "original": "ラクンダ",
+    "translation": "拉坤达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_290_0",
+    "original": "スクンダ",
+    "translation": "斯坤达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_291_0",
+    "original": "ランダマイザ",
+    "translation": "女巫诅咒",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_292_0",
+    "original": "ヒートライザ",
+    "translation": "灼热奋起",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_293_0",
+    "original": "真・会心眼",
+    "translation": "真·会心眼",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真·会心眼\n\n真心话"
+  },
+  {
+    "key": "text_294_0",
+    "original": "冥府の扉",
+    "translation": "冥府之门",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_295_0",
+    "original": "冥府への誘い",
+    "translation": "冥府的邀约",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冥府的邀约\n\n冥府之邀\n\n冥府的邀请"
+  },
+  {
+    "key": "text_296_0",
+    "original": "災厄の種",
+    "translation": "灾厄之种",
+    "stage": 1,
+    "context": "机翻辅助：\n\n灾厄的种子\n\n灾难的种子\n\n灾难的根源"
+  },
+  {
+    "key": "text_297_0",
+    "original": "災厄の到来",
+    "translation": "灾厄到来",
+    "stage": 0,
+    "context": "机翻辅助：\n\n灾厄到来\n\n灾难的到来"
+  },
+  {
+    "key": "text_298_0",
+    "original": "月の加護",
+    "translation": "月之加护",
+    "stage": 0,
+    "context": "机翻辅助：\n\n月之加护\n\n月亮的保佑"
+  },
+  {
+    "key": "text_300_0",
+    "original": "再生の竪琴",
+    "translation": "再生竖琴",
+    "stage": 0,
+    "context": "机翻辅助：\n\n再生竖琴\n\n再生的竖琴"
+  },
+  {
+    "key": "text_302_0",
+    "original": "紫電砕",
+    "translation": "紫电碎",
+    "stage": 0,
+    "context": "机翻辅助：\n\n紫电碎"
+  },
+  {
+    "key": "text_303_0",
+    "original": "震電砕",
+    "translation": "震电碎",
+    "stage": 0,
+    "context": "机翻辅助：\n\n震电碎\n\n电击碎"
+  },
+  {
+    "key": "text_304_0",
+    "original": "灼熱発破",
+    "translation": "灼热发破",
+    "stage": 1,
+    "context": "机翻辅助：\n\n灼热爆破"
+  },
+  {
+    "key": "text_305_0",
+    "original": "核熱発破",
+    "translation": "核热发破",
+    "stage": 1,
+    "context": "机翻辅助：\n\n核热爆破\n\n核热爆发"
+  },
+  {
+    "key": "text_306_0",
+    "original": "睡眠拳",
+    "translation": "睡眠拳",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "text_307_0",
+    "original": "ブレインシェイク",
+    "translation": "头脑震撼",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_308_0",
+    "original": "アーマーブレイク",
+    "translation": "装甲破坏",
+    "stage": 0,
+    "context": "机翻辅助：\n\n装甲破坏\n\n阿米布雷克\n\n阿默布莱克"
+  },
+  {
+    "key": "text_309_0",
+    "original": "アーマーキラー",
+    "translation": "破甲剑",
+    "stage": 0,
+    "context": "机翻辅助：\n\n破甲剑"
+  },
+  {
+    "key": "text_314_0",
+    "original": "フル・アナライズ",
+    "translation": "彻底分析",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_315_0",
+    "original": "フル・アナライズ",
+    "translation": "彻底分析",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_316_0",
+    "original": "ゼロシフト",
+    "translation": "零之移位",
+    "stage": 0,
+    "context": "机翻辅助：\n\n零之移位\n\n零位移"
+  },
+  {
+    "key": "text_317_0",
+    "original": "ゼロシフト",
+    "translation": "零之移位",
+    "stage": 0,
+    "context": "机翻辅助：\n\n零之移位\n\n零位移"
+  },
+  {
+    "key": "text_318_0",
+    "original": "アンコール",
+    "translation": "安可",
+    "stage": 0,
+    "context": "机翻辅助：\n\n安可"
+  },
+  {
+    "key": "text_319_0",
+    "original": "アンコール",
+    "translation": "安可",
+    "stage": 0,
+    "context": "机翻辅助：\n\n安可"
+  },
+  {
+    "key": "text_321_0",
+    "original": "オラクル",
+    "translation": "神谕",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_322_0",
+    "original": "総攻撃",
+    "translation": "总攻击",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_323_0",
+    "original": "スタコラフット",
+    "translation": "快跑吧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n快跑吧\n\n斯塔科拉胡特\n\n交错脚"
+  },
+  {
+    "key": "text_324_0",
+    "original": "アナライズ",
+    "translation": "分析",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_325_0",
+    "original": "ハイ・アナライズ",
+    "translation": "高阶分析",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_326_0",
+    "original": "蛇ニラミ",
+    "translation": "蛇盯",
+    "stage": 0,
+    "context": "机翻辅助：\n\n蛇盯\n\n蛇麻\n\n蛇形目"
+  },
+  {
+    "key": "text_327_0",
+    "original": "英気の泉",
+    "translation": "英气之泉",
+    "stage": 0,
+    "context": "机翻辅助：\n\n英气之泉"
+  },
+  {
+    "key": "text_328_0",
+    "original": "諦めない心",
+    "translation": "永不放弃的心",
+    "stage": 0,
+    "context": "机翻辅助：\n\n永不放弃的心\n\n不放弃的心"
+  },
+  {
+    "key": "text_329_0",
+    "original": "想いよ届け",
+    "translation": "思念吧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n思念吧\n\n传达思念"
+  },
+  {
+    "key": "text_330_0",
+    "original": "ひかりの想い",
+    "translation": "光之思念",
+    "stage": 0,
+    "context": "机翻辅助：\n\n光之思念\n\n光的思念"
+  },
+  {
+    "key": "text_331_0",
+    "original": "癒しの神風",
+    "translation": "治愈神风",
+    "stage": 0,
+    "context": "机翻辅助：\n\n治愈神风"
+  },
+  {
+    "key": "text_332_0",
+    "original": "豊穣祈願",
+    "translation": "祈求丰收",
+    "stage": 0,
+    "context": "机翻辅助：\n\n祈求丰收\n\n祈愿丰收"
+  },
+  {
+    "key": "text_333_0",
+    "original": "大豊作",
+    "translation": "大丰收",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大丰收"
+  },
+  {
+    "key": "text_334_0",
+    "original": "癒しの神風",
+    "translation": "治愈神风",
+    "stage": 0,
+    "context": "机翻辅助：\n\n治愈神风"
+  },
+  {
+    "key": "text_336_0",
+    "original": "治癒の法力",
+    "translation": "治愈法力",
+    "stage": 0,
+    "context": "机翻辅助：\n\n治愈法力\n\n治愈的法力"
+  },
+  {
+    "key": "text_337_0",
+    "original": "治癒の神通力",
+    "translation": "治愈神通力",
+    "stage": 0,
+    "context": "机翻辅助：\n\n治愈神通力\n\n治愈的神通力\n\n治愈的神力"
+  },
+  {
+    "key": "text_338_0",
+    "original": "ミニリカバリー",
+    "translation": "迷你自动回复",
+    "stage": 0,
+    "context": "机翻辅助：\n\n迷你自动回复\n\n小型恢复\n\n迷你恢复"
+  },
+  {
+    "key": "text_339_0",
+    "original": "スポットライト",
+    "translation": "聚光灯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_340_0",
+    "original": "黄泉返し",
+    "translation": "黄泉归来",
+    "stage": 0,
+    "context": "机翻辅助：\n\n黄泉归来\n\n黄泉返\n\n翻黄泉"
+  },
+  {
+    "key": "text_341_0",
+    "original": "サードアイ",
+    "translation": "第三只眼",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_342_0",
+    "original": "強硬の法力",
+    "translation": "强硬法力",
+    "stage": 0,
+    "context": "机翻辅助：\n\n强硬法力\n\n强硬的法力"
+  },
+  {
+    "key": "text_343_0",
+    "original": "剛力の法力",
+    "translation": "刚力法力",
+    "stage": 0,
+    "context": "机翻辅助：\n\n刚力法力\n\n刚力的法力\n\n法力之强"
+  },
+  {
+    "key": "text_344_0",
+    "original": "敏速の法力",
+    "translation": "敏速法力",
+    "stage": 0,
+    "context": "机翻辅助：\n\n敏速法力\n\n敏捷的法力\n\n敏捷法力"
+  },
+  {
+    "key": "text_345_0",
+    "original": "勝利の息吹",
+    "translation": "胜利气息",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_346_0",
+    "original": "勝利の雄叫び",
+    "translation": "胜利咆哮",
+    "stage": 9,
+    "context": "翻译匹配：SH2"
+  },
+  {
+    "key": "text_347_0",
+    "original": "安全祈願",
+    "translation": "祈求安全",
+    "stage": 0,
+    "context": "机翻辅助：\n\n祈求安全\n\n祈祷安全\n\n祈愿安全"
+  },
+  {
+    "key": "text_348_0",
+    "original": "大安心",
+    "translation": "大安心",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大安心\n\n大放心"
+  },
+  {
+    "key": "text_349_0",
+    "original": "おまじない",
+    "translation": "护身符",
+    "stage": 0,
+    "context": "机翻辅助：\n\n护身符\n\n咒语"
+  },
+  {
+    "key": "text_350_0",
+    "original": "打ち出の小槌",
+    "translation": "打水漂",
+    "stage": 0,
+    "context": "机翻辅助：\n\n打水漂\n\n敲出来的小锤子\n\n槌子"
+  },
+  {
+    "key": "text_351_0",
+    "original": "ファイナルガード",
+    "translation": "终极防御",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_352_0",
+    "original": "ファイナルガード",
+    "translation": "终极防御",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_353_0",
+    "original": "ビッグウェイブ",
+    "translation": "大波浪",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大波浪\n\n巨无霸\n\n大浪潮"
+  },
+  {
+    "key": "text_354_0",
+    "original": "オラクル",
+    "translation": "神谕",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_355_0",
+    "original": "オラクル",
+    "translation": "神谕",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_356_0",
+    "original": "オラクル",
+    "translation": "神谕",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_357_0",
+    "original": "オラクル",
+    "translation": "神谕",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_358_0",
+    "original": "オラクル",
+    "translation": "神谕",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_359_0",
+    "original": "オラクル",
+    "translation": "神谕",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_360_0",
+    "original": "ミニリカバリー",
+    "translation": "迷你自动回复",
+    "stage": 0,
+    "context": "机翻辅助：\n\n迷你自动回复\n\n小型恢复\n\n迷你恢复"
+  },
+  {
+    "key": "text_361_0",
+    "original": "総攻撃カメラ用",
+    "translation": "总攻击摄像头用",
+    "stage": 0,
+    "context": "机翻辅助：\n\n总攻击摄像头用\n\n总攻击相机用\n\n总攻相机用"
+  },
+  {
+    "key": "text_362_0",
+    "original": "常世の祈り",
+    "translation": "永世的祈祷",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_363_0",
+    "original": "スニークガイド",
+    "translation": "隐形领航",
+    "stage": 0,
+    "context": "机翻辅助：\n\n隐形领航\n\n斯尼克指南\n\n运动鞋指南"
+  },
+  {
+    "key": "text_364_0",
+    "original": "財宝ハンター",
+    "translation": "财宝猎人",
+    "stage": 0,
+    "context": "机翻辅助：\n\n财宝猎人"
+  },
+  {
+    "key": "text_365_0",
+    "original": "秘宝ハンター",
+    "translation": "秘宝猎人",
+    "stage": 0,
+    "context": "机翻辅助：\n\n秘宝猎人"
+  },
+  {
+    "key": "text_366_0",
+    "original": "妖精の抜け穴",
+    "translation": "妖精秘道",
+    "stage": 0,
+    "context": "机翻辅助：\n\n妖精秘道\n\n妖精的漏洞\n\n妖精的洞"
+  },
+  {
+    "key": "text_367_0",
+    "original": "天狗の抜け穴",
+    "translation": "天狗秘道",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天狗秘道\n\n天狗的漏洞"
+  },
+  {
+    "key": "text_368_0",
+    "original": "千里眼",
+    "translation": "千里眼",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "text_369_0",
+    "original": "万里眼",
+    "translation": "万里眼",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "text_370_0",
+    "original": "浄化の雨",
+    "translation": "净化之雨",
+    "stage": 0,
+    "context": "机翻辅助：\n\n净化之雨"
+  },
+  {
+    "key": "text_371_0",
+    "original": "お宝スキミング",
+    "translation": "宝物探知",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_372_0",
+    "original": "ゼロセット",
+    "translation": "零之集束",
+    "stage": 0,
+    "context": "机翻辅助：\n\n零之集束\n\n零集"
+  },
+  {
+    "key": "text_373_0",
+    "original": "久遠の調べ",
+    "translation": "久远的旋律",
+    "stage": 0,
+    "context": "机翻辅助：\n\n久远的旋律\n\n久远的调查"
+  },
+  {
+    "key": "text_374_0",
+    "original": "オンステージ",
+    "translation": "登上舞台",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前台\n\n音乐舞台\n\n现场"
+  },
+  {
+    "key": "text_375_0",
+    "original": "エスケープロード",
+    "translation": "逃离路线",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_376_0",
+    "original": "ひかりの応援",
+    "translation": "光之应援",
+    "stage": 0,
+    "context": "机翻辅助：\n\n光之应援\n\n光的应援\n\n光的助威"
+  },
+  {
+    "key": "text_377_0",
+    "original": "リスクヘッジ",
+    "translation": "避险",
+    "stage": 0,
+    "context": "机翻辅助：\n\n避险\n\n风险对冲"
+  },
+  {
+    "key": "text_378_0",
+    "original": "豊漁祈願",
+    "translation": "祈求丰收",
+    "stage": 0,
+    "context": "机翻辅助：\n\n祈求丰收\n\n祈愿丰收"
+  },
+  {
+    "key": "text_379_0",
+    "original": "大豊漁",
+    "translation": "大丰收",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大丰收"
+  },
+  {
+    "key": "text_380_0",
+    "original": "サードアイ",
+    "translation": "第三只眼",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_381_0",
+    "original": "チアーマーチ",
+    "translation": "喝采进行曲",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啦啦队进行曲\n\n拉玛奇\n\n齐亚玛奇"
+  },
+  {
+    "key": "text_382_0",
+    "original": "光の路",
+    "translation": "光之路",
+    "stage": 0,
+    "context": "机翻辅助：\n\n光之路\n\n光明之路"
+  },
+  {
+    "key": "text_383_0",
+    "original": "光の天路",
+    "translation": "光之天路",
+    "stage": 0,
+    "context": "机翻辅助：\n\n光之天路\n\n光明的天路"
+  },
+  {
+    "key": "text_386_0",
+    "original": "摩耗の魔法陣",
+    "translation": "磨损魔法阵",
+    "stage": 1,
+    "context": "机翻辅助：\n\n磨耗魔法阵\n\n磨损的魔法阵"
+  },
+  {
+    "key": "text_387_0",
+    "original": "魔法陣　起動",
+    "translation": "魔法阵　启动",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔法阵启动\n\n魔法阵起动"
+  },
+  {
+    "key": "text_388_0",
+    "original": "催眠の魔法陣",
+    "translation": "催眠魔法阵",
+    "stage": 0,
+    "context": "机翻辅助：\n\n催眠魔法阵\n\n催眠的魔法阵"
+  },
+  {
+    "key": "text_389_0",
+    "original": "魔法陣　起動",
+    "translation": "魔法阵　启动",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔法阵启动\n\n魔法阵起动"
+  },
+  {
+    "key": "text_390_0",
+    "original": "有毒の魔法陣",
+    "translation": "有毒魔法阵",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有毒魔法阵\n\n有毒的魔法阵"
+  },
+  {
+    "key": "text_391_0",
+    "original": "魔法陣　起動",
+    "translation": "魔法阵　启动",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔法阵启动\n\n魔法阵起动"
+  },
+  {
+    "key": "text_392_0",
+    "original": "混迷の魔法陣",
+    "translation": "混乱魔法阵",
+    "stage": 0,
+    "context": "机翻辅助：\n\n混乱魔法阵\n\n混乱的魔法阵"
+  },
+  {
+    "key": "text_393_0",
+    "original": "魔法陣　起動",
+    "translation": "魔法阵　启动",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔法阵启动\n\n魔法阵起动"
+  },
+  {
+    "key": "text_394_0",
+    "original": "沈黙の魔法陣",
+    "translation": "沉默魔法阵",
+    "stage": 0,
+    "context": "机翻辅助：\n\n沉默魔法阵\n\n沉默的魔法阵"
+  },
+  {
+    "key": "text_395_0",
+    "original": "魔法陣　起動",
+    "translation": "魔法阵　启动",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔法阵启动\n\n魔法阵起动"
+  },
+  {
+    "key": "text_396_0",
+    "original": "無力の魔法陣",
+    "translation": "无力魔法阵",
+    "stage": 0,
+    "context": "机翻辅助：\n\n无力魔法阵\n\n无力的魔法阵"
+  },
+  {
+    "key": "text_397_0",
+    "original": "魔法陣　起動",
+    "translation": "魔法阵　启动",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔法阵启动\n\n魔法阵起动"
+  },
+  {
+    "key": "text_398_0",
+    "original": "鈍重の魔法陣",
+    "translation": "钝重魔法阵",
+    "stage": 0,
+    "context": "机翻辅助：\n\n钝重魔法阵\n\n沉重的魔法阵\n\n笨重的魔法阵"
+  },
+  {
+    "key": "text_399_0",
+    "original": "魔法陣　起動",
+    "translation": "魔法阵　启动",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔法阵启动\n\n魔法阵起动"
+  },
+  {
+    "key": "text_400_0",
+    "original": "守護獣召喚",
+    "translation": "召唤守护兽",
+    "stage": 0,
+    "context": "机翻辅助：\n\n召唤守护兽\n\n守护兽召唤"
+  },
+  {
+    "key": "text_401_0",
+    "original": "守護神召喚",
+    "translation": "召唤守护神",
+    "stage": 0,
+    "context": "机翻辅助：\n\n召唤守护神\n\n守护神召唤"
+  },
+  {
+    "key": "text_402_0",
+    "original": "修羅転生",
+    "translation": "修罗转生",
+    "stage": 0,
+    "context": "机翻辅助：\n\n修罗转生"
+  },
+  {
+    "key": "text_403_0",
+    "original": "修羅場からの帰還",
+    "translation": "修罗场归来",
+    "stage": 1,
+    "context": "机翻辅助：\n\n从修罗场归来"
+  },
+  {
+    "key": "text_404_0",
+    "original": "修羅の本能",
+    "translation": "修罗本能",
+    "stage": 0,
+    "context": "机翻辅助：\n\n修罗本能\n\n修罗的本能\n\n阿修罗的本能"
+  },
+  {
+    "key": "text_405_0",
+    "original": "オルギアモード",
+    "translation": "狂宴模式",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_406_0",
+    "original": "モード解除",
+    "translation": "模式解除",
+    "stage": 0,
+    "context": "机翻辅助：\n\n模式解除\n\n解除模式"
+  },
+  {
+    "key": "text_407_0",
+    "original": "回復メメント",
+    "translation": "回复纪念品",
+    "stage": 1,
+    "context": "机翻辅助：\n\n回复魔法阵\n\n恢复步骤\n\n恢复度量"
+  },
+  {
+    "key": "text_408_0",
+    "original": "回復メメント",
+    "translation": "回复纪念品",
+    "stage": 1,
+    "context": "机翻辅助：\n\n回复魔法阵\n\n恢复步骤\n\n恢复度量"
+  },
+  {
+    "key": "text_409_0",
+    "original": "解放メメント",
+    "translation": "解放纪念品",
+    "stage": 1,
+    "context": "机翻辅助：\n\n解放魔法阵\n\n解放元素\n\n释放量"
+  },
+  {
+    "key": "text_410_0",
+    "original": "解放メメント",
+    "translation": "解放纪念品",
+    "stage": 1,
+    "context": "机翻辅助：\n\n解放魔法阵\n\n解放元素\n\n释放量"
+  },
+  {
+    "key": "text_411_0",
+    "original": "自浄メメント",
+    "translation": "自净纪念品",
+    "stage": 1,
+    "context": "机翻辅助：\n\n自净魔法阵\n\n自净度量\n\n自我净化"
+  },
+  {
+    "key": "text_412_0",
+    "original": "自浄メメント",
+    "translation": "自净纪念品",
+    "stage": 1,
+    "context": "机翻辅助：\n\n自净魔法阵\n\n自净度量\n\n自我净化"
+  },
+  {
+    "key": "text_413_0",
+    "original": "軽減の加護",
+    "translation": "减轻之护",
+    "stage": 0,
+    "context": "机翻辅助：\n\n减轻之护\n\n减轻的加护\n\n帮助减轻"
+  },
+  {
+    "key": "text_414_0",
+    "original": "デスカウンター",
+    "translation": "绝命反击",
+    "stage": 9,
+    "context": "翻译匹配：SH2"
+  },
+  {
+    "key": "text_415_0",
+    "original": "デスカウンター",
+    "translation": "绝命反击",
+    "stage": 9,
+    "context": "翻译匹配：SH2"
+  },
+  {
+    "key": "text_416_0",
+    "original": "デスチェイサー",
+    "translation": "死亡追逐者",
+    "stage": 0,
+    "context": "机翻辅助：\n\n死亡追逐者\n\n死亡切萨\n\n除法器"
+  },
+  {
+    "key": "text_417_0",
+    "original": "デスチェイサー",
+    "translation": "死亡追逐者",
+    "stage": 0,
+    "context": "机翻辅助：\n\n死亡追逐者\n\n死亡切萨\n\n除法器"
+  },
+  {
+    "key": "text_418_0",
+    "original": "猛撃スタンス",
+    "translation": "猛击态势",
+    "stage": 0,
+    "context": "机翻辅助：\n\n猛击态势\n\n猛击姿势"
+  },
+  {
+    "key": "text_419_0",
+    "original": "猛撃スタンス",
+    "translation": "猛击态势",
+    "stage": 0,
+    "context": "机翻辅助：\n\n猛击态势\n\n猛击姿势"
+  },
+  {
+    "key": "text_420_0",
+    "original": "猛攻の構え",
+    "translation": "猛攻架式",
+    "stage": 0,
+    "context": "机翻辅助：\n\n猛攻架式\n\n猛攻的架势"
+  },
+  {
+    "key": "text_421_0",
+    "original": "ガード体勢",
+    "translation": "防御态势",
+    "stage": 0,
+    "context": "机翻辅助：\n\n防御态势\n\n防御姿势\n\n保护姿势"
+  },
+  {
+    "key": "text_426_0",
+    "original": "連鎖の炎撃",
+    "translation": "连锁火焰击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连锁火焰击\n\n连锁的炎击"
+  },
+  {
+    "key": "text_427_0",
+    "original": "連鎖の炎",
+    "translation": "连锁火焰",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连锁火焰\n\n连锁之炎\n\n连锁的火焰"
+  },
+  {
+    "key": "text_428_0",
+    "original": "連鎖の氷撃",
+    "translation": "连锁冰冻击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连锁冰冻击\n\n连锁的冰击"
+  },
+  {
+    "key": "text_429_0",
+    "original": "連鎖の氷",
+    "translation": "连锁冰冻",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连锁冰冻\n\n连锁的冰"
+  },
+  {
+    "key": "text_430_0",
+    "original": "連鎖の雷撃",
+    "translation": "连锁雷电击",
+    "stage": 1,
+    "context": "机翻辅助：\n\n连锁雷击\n\n连锁的雷击"
+  },
+  {
+    "key": "text_431_0",
+    "original": "連鎖の雷",
+    "translation": "连锁雷电",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连锁雷电\n\n连锁之雷\n\n连锁的雷"
+  },
+  {
+    "key": "text_432_0",
+    "original": "連鎖の風撃",
+    "translation": "连锁疾风击",
+    "stage": 1,
+    "context": "机翻辅助：\n\n连锁风击\n\n连锁的风击"
+  },
+  {
+    "key": "text_433_0",
+    "original": "連鎖の風",
+    "translation": "连锁疾风",
+    "stage": 1,
+    "context": "机翻辅助：\n\n连锁风\n\n连锁之风\n\n连锁的风"
+  },
+  {
+    "key": "text_434_0",
+    "original": "ヘイトサーチャー",
+    "translation": "仇恨搜寻者",
+    "stage": 0,
+    "context": "机翻辅助：\n\n仇恨搜寻者\n\n海特撒切尔\n\n仇恨调查"
+  },
+  {
+    "key": "text_435_0",
+    "original": "連鎖の打撃",
+    "translation": "连锁打击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连锁打击\n\n连锁的打击"
+  },
+  {
+    "key": "text_436_0",
+    "original": "連鎖の一撃",
+    "translation": "连锁一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连锁一击\n\n连锁的一击\n\n连环的一击"
+  },
+  {
+    "key": "text_437_0",
+    "original": "連鎖の念撃",
+    "translation": "连锁念击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连锁念击\n\n连锁的念击\n\n连锁的念头"
+  },
+  {
+    "key": "text_438_0",
+    "original": "連鎖の念動",
+    "translation": "连锁念动",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连锁念动\n\n连锁的念动"
+  },
+  {
+    "key": "text_439_0",
+    "original": "連鎖の核撃",
+    "translation": "连锁核击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连锁核击\n\n连锁的核打击\n\n连环核击"
+  },
+  {
+    "key": "text_440_0",
+    "original": "連鎖の核熱",
+    "translation": "连锁核热",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连锁核热\n\n连锁的核热"
+  },
+  {
+    "key": "text_466_0",
+    "original": "オルギアマスタリ",
+    "translation": "大师级狂风",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大师级狂风\n\n奥尔吉阿玛斯塔里\n\n正齿轮万向架"
+  },
+  {
+    "key": "text_467_0",
+    "original": "探偵の心得",
+    "translation": "侦探心得",
+    "stage": 0,
+    "context": "机翻辅助：\n\n侦探心得\n\n侦探的心得"
+  },
+  {
+    "key": "text_468_0",
+    "original": "探偵の極意",
+    "translation": "侦探奥义",
+    "stage": 0,
+    "context": "机翻辅助：\n\n侦探奥义\n\n侦探的秘诀\n\n侦探的奥秘"
+  },
+  {
+    "key": "text_469_0",
+    "original": "決めポーズ",
+    "translation": "招牌姿势",
+    "stage": 0,
+    "context": "机翻辅助：\n\n招牌姿势\n\n决定姿势"
+  },
+  {
+    "key": "text_470_0",
+    "original": "必殺決めポーズ",
+    "translation": "必杀招牌姿势",
+    "stage": 0,
+    "context": "机翻辅助：\n\n必杀招牌姿势\n\n必杀姿势\n\n决定必杀的姿势"
+  },
+  {
+    "key": "text_471_0",
+    "original": "無頼の心得",
+    "translation": "无赖心得",
+    "stage": 0,
+    "context": "机翻辅助：\n\n无赖心得\n\n无赖的心得"
+  },
+  {
+    "key": "text_472_0",
+    "original": "無頼の悟り",
+    "translation": "无赖顿悟",
+    "stage": 0,
+    "context": "机翻辅助：\n\n无赖顿悟\n\n无赖的悟性\n\n无赖的觉悟"
+  },
+  {
+    "key": "text_473_0",
+    "original": "ダブルアタック",
+    "translation": "双重攻击",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_474_0",
+    "original": "地獄の先導者",
+    "translation": "地狱的向导",
+    "stage": 0,
+    "context": "机翻辅助：\n\n地狱的向导\n\n地狱的先导者\n\n地狱的先锋"
+  },
+  {
+    "key": "text_475_0",
+    "original": "女帝の心得",
+    "translation": "女帝的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n女帝的智慧\n\n女皇的心得"
+  },
+  {
+    "key": "text_476_0",
+    "original": "女帝の悟り",
+    "translation": "女帝的顿悟",
+    "stage": 0,
+    "context": "机翻辅助：\n\n女帝的顿悟\n\n女皇的悟性\n\n女皇的觉悟"
+  },
+  {
+    "key": "text_477_0",
+    "original": "従者のカード",
+    "translation": "侍从卡",
+    "stage": 0,
+    "context": "机翻辅助：\n\n侍从卡\n\n随从卡"
+  },
+  {
+    "key": "text_478_0",
+    "original": "愚者のカード",
+    "translation": "愚者卡",
+    "stage": 0,
+    "context": "机翻辅助：\n\n愚者卡\n\n愚者之卡"
+  },
+  {
+    "key": "text_479_0",
+    "original": "拳闘士の心得",
+    "translation": "拳斗士的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n拳斗士的智慧\n\n拳击手的心得"
+  },
+  {
+    "key": "text_480_0",
+    "original": "拳闘士の悟り",
+    "translation": "拳斗士的顿悟",
+    "stage": 0,
+    "context": "机翻辅助：\n\n拳斗士的顿悟\n\n拳击手的悟性\n\n拳击手的顿悟"
+  },
+  {
+    "key": "text_481_0",
+    "original": "功夫の心得",
+    "translation": "功夫的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n功夫的智慧\n\n功夫心得\n\n功夫的心得"
+  },
+  {
+    "key": "text_482_0",
+    "original": "功夫の悟り",
+    "translation": "功夫的顿悟",
+    "stage": 0,
+    "context": "机翻辅助：\n\n功夫的顿悟\n\n功勋的悟性\n\n功夫的领悟"
+  },
+  {
+    "key": "text_483_0",
+    "original": "野生の心得",
+    "translation": "野生的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n野生的智慧\n\n野生心得"
+  },
+  {
+    "key": "text_484_0",
+    "original": "野生の心得２",
+    "translation": "野生的智慧2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n野生的智慧2\n\n野生心得2"
+  },
+  {
+    "key": "text_485_0",
+    "original": "ブレイブハート",
+    "translation": "无畏之心",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_486_0",
+    "original": "ブレイブハート２",
+    "translation": "勇敢的心2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n勇敢的心2\n\n布雷布哈特2"
+  },
+  {
+    "key": "text_487_0",
+    "original": "王者の凱歌",
+    "translation": "王者凯歌",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_488_0",
+    "original": "方陣マスタリ",
+    "translation": "精通方阵",
+    "stage": 0,
+    "context": "机翻辅助：\n\n精通方阵\n\n方阵野马\n\n方阵一致"
+  },
+  {
+    "key": "text_489_0",
+    "original": "真・方陣マスタリ",
+    "translation": "真·精通方阵",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真·精通方阵\n\n真·方阵\n\n正方阵"
+  },
+  {
+    "key": "text_490_0",
+    "original": "ケンカの心得",
+    "translation": "打架的诀窍",
+    "stage": 0,
+    "context": "机翻辅助：\n\n打架的诀窍\n\n吵架的心得\n\n打架的心得"
+  },
+  {
+    "key": "text_491_0",
+    "original": "ケンカの心得２",
+    "translation": "打架的诀窍2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n打架的诀窍2\n\n打架心得2\n\n吵架心得2"
+  },
+  {
+    "key": "text_492_0",
+    "original": "勝利の息吹",
+    "translation": "胜利气息",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_493_0",
+    "original": "勝利の息吹２",
+    "translation": "胜利的气息2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n胜利的气息2"
+  },
+  {
+    "key": "text_494_0",
+    "original": "体勢マスタリ",
+    "translation": "精通态势",
+    "stage": 0,
+    "context": "机翻辅助：\n\n精通态势\n\n姿势很好\n\n姿势上的差异"
+  },
+  {
+    "key": "text_495_0",
+    "original": "体勢マスタリ２",
+    "translation": "精通态势2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n精通态势2\n\n姿势大爆炸2\n\n姿势，姿势"
+  },
+  {
+    "key": "text_496_0",
+    "original": "獅子奮迅",
+    "translation": "狮子奋迅",
+    "stage": 0,
+    "context": "机翻辅助：\n\n狮子奋迅"
+  },
+  {
+    "key": "text_497_0",
+    "original": "獅子奮迅２",
+    "translation": "狮子奋迅2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n狮子奋迅2"
+  },
+  {
+    "key": "text_498_0",
+    "original": "豪傑の双腕",
+    "translation": "豪杰双臂",
+    "stage": 0,
+    "context": "机翻辅助：\n\n豪杰双臂\n\n豪杰的双臂"
+  },
+  {
+    "key": "text_499_0",
+    "original": "黄金の双翼",
+    "translation": "黄金双翼",
+    "stage": 0,
+    "context": "机翻辅助：\n\n黄金双翼\n\n黄金的双翼"
+  },
+  {
+    "key": "text_500_0",
+    "original": "ルーンの盾",
+    "translation": "卢恩之盾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n卢恩之盾\n\n鲁恩之盾\n\n符文之盾"
+  },
+  {
+    "key": "text_501_0",
+    "original": "イージスの盾",
+    "translation": "神盾",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_502_0",
+    "original": "ソードブレイカー",
+    "translation": "剑技破坏",
+    "stage": 0,
+    "context": "机翻辅助：\n\n剑技破坏\n\n索德布雷克\n\n剑刃者"
+  },
+  {
+    "key": "text_503_0",
+    "original": "束縛の心得",
+    "translation": "束缚的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n束缚的智慧\n\n束缚的心得"
+  },
+  {
+    "key": "text_504_0",
+    "original": "真・束縛の心得",
+    "translation": "真·束缚的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真·束缚的智慧\n\n真正的束缚心得\n\n真知灼见"
+  },
+  {
+    "key": "text_505_0",
+    "original": "一番星",
+    "translation": "第一星",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第一星\n\n一号星\n\n第一颗星"
+  },
+  {
+    "key": "text_506_0",
+    "original": "挑戦者の心得",
+    "translation": "挑战者的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n挑战者的智慧\n\n挑战者的心得"
+  },
+  {
+    "key": "text_507_0",
+    "original": "真・挑戦者の心得",
+    "translation": "真·挑战者的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真·挑战者的智慧\n\n真·挑战者的心得\n\n真正的挑战者心得"
+  },
+  {
+    "key": "text_508_0",
+    "original": "下剋上",
+    "translation": "下克上",
+    "stage": 0,
+    "context": "机翻辅助：\n\n下克上"
+  },
+  {
+    "key": "text_509_0",
+    "original": "再生能力",
+    "translation": "再生能力",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "text_510_0",
+    "original": "ラッキースター",
+    "translation": "幸运星",
+    "stage": 0,
+    "context": "机翻辅助：\n\n幸运星"
+  },
+  {
+    "key": "text_511_0",
+    "original": "覇者の称号",
+    "translation": "霸者称号",
+    "stage": 0,
+    "context": "机翻辅助：\n\n霸者称号\n\n霸主称号\n\n霸者的称号"
+  },
+  {
+    "key": "text_512_0",
+    "original": "癒しの指",
+    "translation": "治愈之指",
+    "stage": 0,
+    "context": "机翻辅助：\n\n治愈之指\n\n治愈的手指"
+  },
+  {
+    "key": "text_513_0",
+    "original": "ディアガード",
+    "translation": "迪亚加德",
+    "stage": 0,
+    "context": "机翻辅助：\n\n迪亚加德\n\n守卫者\n\n保护装置"
+  },
+  {
+    "key": "text_514_0",
+    "original": "ディアラマガード",
+    "translation": "迪亚拉马加德",
+    "stage": 0,
+    "context": "机翻辅助：\n\n迪亚拉马加德\n\n迪亚拉玛保护"
+  },
+  {
+    "key": "text_515_0",
+    "original": "巨腕スイング",
+    "translation": "巨腕挥击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n巨腕挥击\n\n巨臂摆动"
+  },
+  {
+    "key": "text_516_0",
+    "original": "巨腕トルネード",
+    "translation": "巨腕龙卷风",
+    "stage": 0,
+    "context": "机翻辅助：\n\n巨腕龙卷风\n\n巨臂龙卷风"
+  },
+  {
+    "key": "text_517_0",
+    "original": "黄金連鎖",
+    "translation": "黄金连锁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n黄金连锁\n\n黄金链"
+  },
+  {
+    "key": "text_518_0",
+    "original": "連撃の心得",
+    "translation": "连击的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连击的智慧\n\n连击的心得\n\n连击心得"
+  },
+  {
+    "key": "text_519_0",
+    "original": "真・連撃の心得",
+    "translation": "真·连击的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真·连击的智慧\n\n真·连击的心得\n\n真·连击心得"
+  },
+  {
+    "key": "text_520_0",
+    "original": "回避の心得",
+    "translation": "回避的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n回避的智慧\n\n回避的心得"
+  },
+  {
+    "key": "text_521_0",
+    "original": "真・回避の心得",
+    "translation": "真·回避的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真·回避的智慧\n\n真·回避的心得\n\n“真·回避”的心得"
+  },
+  {
+    "key": "text_522_0",
+    "original": "トリックステップ",
+    "translation": "诡诈步法",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_523_0",
+    "original": "相殺ボディ",
+    "translation": "抵消身体",
+    "stage": 0,
+    "context": "机翻辅助：\n\n抵消身体\n\n抵消体\n\n抵消车身"
+  },
+  {
+    "key": "text_524_0",
+    "original": "レメゲトン",
+    "translation": "雷蒙盖顿",
+    "stage": 0,
+    "context": "机翻辅助：\n\n雷蒙盖顿\n\n列梅格顿\n\n雷米盖顿"
+  },
+  {
+    "key": "text_525_0",
+    "original": "退魔の霧",
+    "translation": "退魔之雾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n退魔之雾"
+  },
+  {
+    "key": "text_526_0",
+    "original": "火炎吸収",
+    "translation": "火焰吸收",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_527_0",
+    "original": "疾風吸収",
+    "translation": "疾风吸收",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_528_0",
+    "original": "氷結吸収",
+    "translation": "冰冻吸收",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_529_0",
+    "original": "電撃吸収",
+    "translation": "电击吸收",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_530_0",
+    "original": "救いの手",
+    "translation": "救赎之手",
+    "stage": 0,
+    "context": "机翻辅助：\n\n救赎之手\n\n拯救之手"
+  },
+  {
+    "key": "text_531_0",
+    "original": "火炎ブースタ",
+    "translation": "火焰强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_532_0",
+    "original": "氷結ブースタ",
+    "translation": "冰冻强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_533_0",
+    "original": "電撃ブースタ",
+    "translation": "电击强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_534_0",
+    "original": "疾風ブースタ",
+    "translation": "疾风强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_535_0",
+    "original": "火炎ハイブースタ",
+    "translation": "高级火焰强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_536_0",
+    "original": "氷結ハイブースタ",
+    "translation": "高级冰冻强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_537_0",
+    "original": "電撃ハイブースタ",
+    "translation": "高级电击强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_538_0",
+    "original": "疾風ハイブースタ",
+    "translation": "高级疾风强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_539_0",
+    "original": "慈愛の心得",
+    "translation": "慈爱的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n慈爱的智慧\n\n慈爱的心得"
+  },
+  {
+    "key": "text_540_0",
+    "original": "慈愛の悟り",
+    "translation": "慈爱的顿悟",
+    "stage": 0,
+    "context": "机翻辅助：\n\n慈爱的顿悟\n\n慈爱的悟性\n\n慈爱的觉悟"
+  },
+  {
+    "key": "text_541_0",
+    "original": "聖母の両手",
+    "translation": "圣母的双手",
+    "stage": 0,
+    "context": "机翻辅助：\n\n圣母的双手"
+  },
+  {
+    "key": "text_542_0",
+    "original": "奇襲の心得",
+    "translation": "奇袭的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n奇袭的智慧\n\n奇袭心得"
+  },
+  {
+    "key": "text_543_0",
+    "original": "真・奇襲の心得",
+    "translation": "真·奇袭的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真·奇袭的智慧\n\n真·奇袭心得\n\n真袭须知"
+  },
+  {
+    "key": "text_544_0",
+    "original": "付着の心得",
+    "translation": "附着的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n附着的智慧\n\n附着的心得"
+  },
+  {
+    "key": "text_545_0",
+    "original": "真・付着の心得",
+    "translation": "真·附着的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真·附着的智慧\n\n真正的附着心得\n\n真知灼见"
+  },
+  {
+    "key": "text_546_0",
+    "original": "魔法円",
+    "translation": "魔法阵",
+    "stage": 0,
+    "context": "机翻辅助：\n\n魔法阵\n\n魔法圆"
+  },
+  {
+    "key": "text_547_0",
+    "original": "審判のカード",
+    "translation": "审判卡",
+    "stage": 0,
+    "context": "机翻辅助：\n\n审判卡\n\n裁判的卡片\n\n裁判牌"
+  },
+  {
+    "key": "text_548_0",
+    "original": "火炎ヘルブースタ",
+    "translation": "火焰助力",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰助力\n\n火焰地狱火神\n\n火焰辅助装置"
+  },
+  {
+    "key": "text_549_0",
+    "original": "疾風ヘルブースタ",
+    "translation": "疾风助力",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疾风助力\n\n疾风赫布斯塔\n\n疾风辅助装置"
+  },
+  {
+    "key": "text_550_0",
+    "original": "ＳＰカット",
+    "translation": "SP减少",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSP减少\n\nSP剪辑\n\n存储处理器切割"
+  },
+  {
+    "key": "text_551_0",
+    "original": "急所の心得",
+    "translation": "要害的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要害的智慧\n\n关键点的心得\n\n紧要关头的心得"
+  },
+  {
+    "key": "text_552_0",
+    "original": "真・急所の心得",
+    "translation": "真·要害的智慧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真·要害的智慧\n\n真正、要害的心得\n\n真知灼见"
+  },
+  {
+    "key": "text_553_0",
+    "original": "女王の一刺し",
+    "translation": "女王的一刺",
+    "stage": 0,
+    "context": "机翻辅助：\n\n女王的一刺\n\n女王的刺"
+  },
+  {
+    "key": "text_554_0",
+    "original": "物理攻撃力ＵＰ",
+    "translation": "物理攻击力UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n物理攻击力UP\n\n物理攻击力上升"
+  },
+  {
+    "key": "text_555_0",
+    "original": "物理攻撃・中",
+    "translation": "物理攻击·中",
+    "stage": 0,
+    "context": "机翻辅助：\n\n物理攻击·中"
+  },
+  {
+    "key": "text_556_0",
+    "original": "物理攻撃・大",
+    "translation": "物理攻击·大",
+    "stage": 0,
+    "context": "机翻辅助：\n\n物理攻击·大"
+  },
+  {
+    "key": "text_557_0",
+    "original": "物理防御力ＵＰ",
+    "translation": "物理防御力UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n物理防御力UP\n\n物理防御力上升"
+  },
+  {
+    "key": "text_558_0",
+    "original": "物理防御・中",
+    "translation": "物理防御·中",
+    "stage": 0,
+    "context": "机翻辅助：\n\n物理防御·中"
+  },
+  {
+    "key": "text_559_0",
+    "original": "物理防御・大",
+    "translation": "物理防御·大",
+    "stage": 0,
+    "context": "机翻辅助：\n\n物理防御·大"
+  },
+  {
+    "key": "text_560_0",
+    "original": "属性防御力ＵＰ",
+    "translation": "属性防御力UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n属性防御力UP\n\n属性防御力上升"
+  },
+  {
+    "key": "text_561_0",
+    "original": "属性防御・中",
+    "translation": "属性防御·中",
+    "stage": 0,
+    "context": "机翻辅助：\n\n属性防御·中"
+  },
+  {
+    "key": "text_562_0",
+    "original": "属性防御・大",
+    "translation": "属性防御·大",
+    "stage": 0,
+    "context": "机翻辅助：\n\n属性防御·大"
+  },
+  {
+    "key": "text_563_0",
+    "original": "安息の遊歩",
+    "translation": "安息的漫步",
+    "stage": 0,
+    "context": "机翻辅助：\n\n安息的漫步\n\n安息的散步"
+  },
+  {
+    "key": "text_564_0",
+    "original": "回復歩行２",
+    "translation": "恢复步行2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n恢复步行2"
+  },
+  {
+    "key": "text_565_0",
+    "original": "回復歩行３",
+    "translation": "恢复步行3",
+    "stage": 0,
+    "context": "机翻辅助：\n\n恢复步行3"
+  },
+  {
+    "key": "text_566_0",
+    "original": "二連の鎖",
+    "translation": "二连锁链",
+    "stage": 0,
+    "context": "机翻辅助：\n\n二连锁链\n\n两条锁链\n\n两串锁链"
+  },
+  {
+    "key": "text_567_0",
+    "original": "ダウンメイカー",
+    "translation": "击倒制造者",
+    "stage": 0,
+    "context": "机翻辅助：\n\n击倒制造者\n\n羽绒机\n\ndownmaker"
+  },
+  {
+    "key": "text_568_0",
+    "original": "ダウンマイスター",
+    "translation": "精通击倒",
+    "stage": 0,
+    "context": "机翻辅助：\n\n精通击倒\n\n唐氏综合症\n\n下斜线铣刀"
+  },
+  {
+    "key": "text_569_0",
+    "original": "孤高の威圧",
+    "translation": "孤高的威吓",
+    "stage": 0,
+    "context": "机翻辅助：\n\n孤高的威吓\n\n孤高的威压"
+  },
+  {
+    "key": "text_570_0",
+    "original": "属性攻撃・小",
+    "translation": "属性攻击·小",
+    "stage": 0,
+    "context": "机翻辅助：\n\n属性攻击·小"
+  },
+  {
+    "key": "text_571_0",
+    "original": "属性攻撃・中",
+    "translation": "属性攻击·中",
+    "stage": 0,
+    "context": "机翻辅助：\n\n属性攻击·中"
+  },
+  {
+    "key": "text_572_0",
+    "original": "属性攻撃・大",
+    "translation": "属性攻击·大",
+    "stage": 0,
+    "context": "机翻辅助：\n\n属性攻击·大"
+  },
+  {
+    "key": "text_573_0",
+    "original": "ＨＰブースタ",
+    "translation": "HP增益",
+    "stage": 0,
+    "context": "机翻辅助：\n\nHP增益\n\nHP增压器\n\nHP booster"
+  },
+  {
+    "key": "text_574_0",
+    "original": "ＨＰハイブースタ",
+    "translation": "HP极增益",
+    "stage": 0,
+    "context": "机翻辅助：\n\nHP极增益\n\n惠普高速增压器\n\nHP hybooster"
+  },
+  {
+    "key": "text_575_0",
+    "original": "ＳＰブースタ",
+    "translation": "SP增益",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSP增益\n\nSP增压器\n\nSP导航仪"
+  },
+  {
+    "key": "text_576_0",
+    "original": "ＳＰハイブースタ",
+    "translation": "SP极增益",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSP极增益\n\nSP高推进器\n\nSP高增压器"
+  },
+  {
+    "key": "text_577_0",
+    "original": "速度ブースタ",
+    "translation": "速度增益",
+    "stage": 0,
+    "context": "机翻辅助：\n\n速度增益\n\n速度增压器\n\n速度推进器"
+  },
+  {
+    "key": "text_578_0",
+    "original": "速度ハイブースタ",
+    "translation": "速度极增益",
+    "stage": 0,
+    "context": "机翻辅助：\n\n速度极增益\n\n高速增压器\n\n速度加速器"
+  },
+  {
+    "key": "text_579_0",
+    "original": "火炎耐性",
+    "translation": "火焰耐性",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_580_0",
+    "original": "氷結耐性",
+    "translation": "冰冻耐性",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_581_0",
+    "original": "電撃耐性",
+    "translation": "电击耐性",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_582_0",
+    "original": "疾風耐性",
+    "translation": "疾风耐性",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_583_0",
+    "original": "祝福耐性",
+    "translation": "祝福耐性",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_584_0",
+    "original": "呪怨耐性",
+    "translation": "咒怨耐性",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_585_0",
+    "original": "物理耐性",
+    "translation": "物理耐性",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_586_0",
+    "original": "念動耐性",
+    "translation": "念动耐性",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_587_0",
+    "original": "核熱耐性",
+    "translation": "核热耐性",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_588_0",
+    "original": "石化無効",
+    "translation": "石化无效",
+    "stage": 0,
+    "context": "机翻辅助：\n\n石化无效"
+  },
+  {
+    "key": "text_589_0",
+    "original": "睡眠無効",
+    "translation": "睡眠无效",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_590_0",
+    "original": "混乱無効",
+    "translation": "混乱无效",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_591_0",
+    "original": "毒無効",
+    "translation": "中毒无效",
+    "stage": 9,
+    "context": "翻译匹配：SH2"
+  },
+  {
+    "key": "text_592_0",
+    "original": "食いしばり",
+    "translation": "强忍",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_593_0",
+    "original": "呪い無効",
+    "translation": "诅咒无效",
+    "stage": 0,
+    "context": "机翻辅助：\n\n诅咒无效"
+  },
+  {
+    "key": "text_594_0",
+    "original": "麻痺無効",
+    "translation": "麻痹无效",
+    "stage": 9,
+    "context": "翻译匹配：SH2"
+  },
+  {
+    "key": "text_595_0",
+    "original": "煙りの末",
+    "translation": "烟雾之后",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_596_0",
+    "original": "褒賞のムチ",
+    "translation": "奖励之鞭",
+    "stage": 0,
+    "context": "机翻辅助：\n\n奖励之鞭\n\n褒奖的鞭子\n\n奖赏的鞭子"
+  },
+  {
+    "key": "text_597_0",
+    "original": "褒賞のムチ",
+    "translation": "奖励之鞭",
+    "stage": 0,
+    "context": "机翻辅助：\n\n奖励之鞭\n\n褒奖的鞭子\n\n奖赏的鞭子"
+  },
+  {
+    "key": "text_598_0",
+    "original": "魔封じ無効",
+    "translation": "封魔无效",
+    "stage": 0,
+    "context": "机翻辅助：\n\n封魔无效\n\n魔封无效"
+  },
+  {
+    "key": "text_599_0",
+    "original": "力封じ無効",
+    "translation": "封力无效",
+    "stage": 0,
+    "context": "机翻辅助：\n\n封力无效\n\n力封无效"
+  },
+  {
+    "key": "text_600_0",
+    "original": "速封じ無効",
+    "translation": "封速无效",
+    "stage": 0,
+    "context": "机翻辅助：\n\n封速无效\n\n速封无效"
+  },
+  {
+    "key": "text_601_0",
+    "original": "斬撃の鬼",
+    "translation": "斩击之鬼",
+    "stage": 0,
+    "context": "机翻辅助：\n\n斩击之鬼"
+  },
+  {
+    "key": "text_602_0",
+    "original": "壊撃の鬼",
+    "translation": "破坏之鬼",
+    "stage": 0,
+    "context": "机翻辅助：\n\n破坏之鬼\n\n坏击之鬼"
+  },
+  {
+    "key": "text_603_0",
+    "original": "突撃の鬼",
+    "translation": "突击之鬼",
+    "stage": 0,
+    "context": "机翻辅助：\n\n突击之鬼\n\n冲锋鬼"
+  },
+  {
+    "key": "text_604_0",
+    "original": "斬撃の神",
+    "translation": "斩击之神",
+    "stage": 0,
+    "context": "机翻辅助：\n\n斩击之神"
+  },
+  {
+    "key": "text_605_0",
+    "original": "壊撃の神",
+    "translation": "破坏之神",
+    "stage": 0,
+    "context": "机翻辅助：\n\n破坏之神\n\n毁击之神"
+  },
+  {
+    "key": "text_606_0",
+    "original": "突撃の神",
+    "translation": "突击之神",
+    "stage": 0,
+    "context": "机翻辅助：\n\n突击之神\n\n冲锋之神"
+  },
+  {
+    "key": "text_607_0",
+    "original": "ＳＰリターン",
+    "translation": "SP回复",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSP回复\n\nSP回报\n\n存储处理器返回"
+  },
+  {
+    "key": "text_608_0",
+    "original": "ＳＰリターン２",
+    "translation": "SP回复2",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSP回复2\n\nSP返回2\n\nSP回归2"
+  },
+  {
+    "key": "text_610_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_611_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_612_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_613_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_614_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_615_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_616_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_617_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_618_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_619_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_620_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_621_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_622_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_623_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_624_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_625_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_626_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_627_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_628_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_629_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_630_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_631_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_632_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_633_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_634_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_635_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_636_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_637_0",
+    "original": "トドメの一撃",
+    "translation": "致命一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n致命一击\n\n托德梅的一击"
+  },
+  {
+    "key": "text_639_0",
+    "original": "スキルテスト",
+    "translation": "技能测试",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能测试"
+  },
+  {
+    "key": "text_642_0",
+    "original": "バインドキュア",
+    "translation": "束缚治愈",
+    "stage": 0,
+    "context": "机翻辅助：\n\n束缚治愈\n\n绑定固化\n\n指甲油"
+  },
+  {
+    "key": "text_643_0",
+    "original": "バインドフリー",
+    "translation": "束缚解放",
+    "stage": 0,
+    "context": "机翻辅助：\n\n束缚解放\n\n无绑定"
+  },
+  {
+    "key": "text_644_0",
+    "original": "イモータルチキン",
+    "translation": "不死鸡",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不死鸡\n\n伊莫塔尔鸡\n\n异型鸡"
+  },
+  {
+    "key": "text_645_0",
+    "original": "宝玉",
+    "translation": "宝玉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_646_0",
+    "original": "ソウルドロップ",
+    "translation": "灵魂糖果",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_647_0",
+    "original": "スナフソウル",
+    "translation": "灵魂鼻烟壶",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_648_0",
+    "original": "チューインソウル",
+    "translation": "灵魂口香糖",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_649_0",
+    "original": "アムリタソーダ",
+    "translation": "甘露汽水",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_650_0",
+    "original": "ソーマの雫",
+    "translation": "苏摩滴露",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_651_0",
+    "original": "ソーマドロップ",
+    "translation": "苏摩之泪",
+    "stage": 0,
+    "context": "机翻辅助：\n\n苏摩之泪\n\n索玛drop\n\n索马滴"
+  },
+  {
+    "key": "text_652_0",
+    "original": "地返しの玉",
+    "translation": "返地玉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_653_0",
+    "original": "反魂香",
+    "translation": "返魂香",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_654_0",
+    "original": "Ｌ・ダブルドッグ",
+    "translation": "L·双重狗",
+    "stage": 0,
+    "context": "机翻辅助：\n\nL·双重狗\n\nL·双狗\n\nL·双头狗"
+  },
+  {
+    "key": "text_655_0",
+    "original": "Ｌ・ビッグドッグ",
+    "translation": "L·巨犬",
+    "stage": 0,
+    "context": "机翻辅助：\n\nL·巨犬\n\n大狗\n\nL·大狗"
+  },
+  {
+    "key": "text_656_0",
+    "original": "バインドエイド",
+    "translation": "束缚之刃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n束缚之刃\n\n绑定\n\n百视通"
+  },
+  {
+    "key": "text_657_0",
+    "original": "韋駄天の札",
+    "translation": "韦驮天符咒",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_658_0",
+    "original": "お清めの水",
+    "translation": "清净之水",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_659_0",
+    "original": "お清めの塩",
+    "translation": "清净之盐",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_660_0",
+    "original": "羅刹の札",
+    "translation": "罗刹符咒",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_661_0",
+    "original": "金剛の札",
+    "translation": "金刚符咒",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_662_0",
+    "original": "耐物ミスト",
+    "translation": "抗物喷雾",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_663_0",
+    "original": "耐物ミスト",
+    "translation": "抗物喷雾",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_664_0",
+    "original": "耐物ミスト",
+    "translation": "抗物喷雾",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_665_0",
+    "original": "耐熱ミスト",
+    "translation": "抗热喷雾",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_666_0",
+    "original": "耐氷ミスト",
+    "translation": "抗冰喷雾",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_667_0",
+    "original": "耐雷ミスト",
+    "translation": "抗雷喷雾",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_668_0",
+    "original": "耐風ミスト",
+    "translation": "耐风迷雾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n耐风迷雾\n\n抗风喷雾\n\n抗风雾"
+  },
+  {
+    "key": "text_669_0",
+    "original": "耐核ミスト",
+    "translation": "耐核迷雾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n耐核迷雾\n\n耐核雾"
+  },
+  {
+    "key": "text_670_0",
+    "original": "耐念ミスト",
+    "translation": "耐念迷雾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n耐念迷雾\n\n耐念喷雾\n\n耐念雾"
+  },
+  {
+    "key": "text_671_0",
+    "original": "サイコボム",
+    "translation": "精神炸弹",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_672_0",
+    "original": "核熱の魔弾",
+    "translation": "核热魔弹",
+    "stage": 0,
+    "context": "机翻辅助：\n\n核热魔弹\n\n核热的魔弹"
+  },
+  {
+    "key": "text_673_0",
+    "original": "三寸玉",
+    "translation": "三寸玉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_674_0",
+    "original": "灼熱の魔弾",
+    "translation": "灼热魔弹",
+    "stage": 0,
+    "context": "机翻辅助：\n\n灼热魔弹\n\n灼热的魔弹"
+  },
+  {
+    "key": "text_675_0",
+    "original": "ドライアイス",
+    "translation": "干冰",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_676_0",
+    "original": "零度の魔弾",
+    "translation": "零度魔弹",
+    "stage": 0,
+    "context": "机翻辅助：\n\n零度魔弹\n\n零度的魔弹"
+  },
+  {
+    "key": "text_677_0",
+    "original": "テスラコイル",
+    "translation": "特斯拉线圈",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_678_0",
+    "original": "天雷の魔弾",
+    "translation": "天雷魔弹",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天雷魔弹\n\n天雷的魔弹\n\n天雷之魔弹"
+  },
+  {
+    "key": "text_679_0",
+    "original": "弥七",
+    "translation": "弥七",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_680_0",
+    "original": "暴風の魔弾",
+    "translation": "暴风魔弹",
+    "stage": 0,
+    "context": "机翻辅助：\n\n暴风魔弹\n\n暴风的魔弹"
+  },
+  {
+    "key": "text_681_0",
+    "original": "せがき米",
+    "translation": "施饿鬼米",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_682_0",
+    "original": "呪殺ペーパー",
+    "translation": "咒杀纸",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_683_0",
+    "original": "アトムマッチ",
+    "translation": "原子火柴",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_684_0",
+    "original": "念動の魔弾",
+    "translation": "念动魔弹",
+    "stage": 0,
+    "context": "机翻辅助：\n\n念动魔弹\n\n念动的魔弹"
+  },
+  {
+    "key": "text_685_0",
+    "original": "ドロン玉",
+    "translation": "遁逃弹",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_686_0",
+    "original": "はがくれ丼",
+    "translation": "屑屑丼",
+    "stage": 0,
+    "context": "机翻辅助：\n\n屑屑丼\n\n炸猪排盖饭\n\n牛肉盖饭"
+  },
+  {
+    "key": "text_687_0",
+    "original": "スペシャル肉丼",
+    "translation": "特制肉丼",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特制肉丼\n\n特别肉盖饭"
+  },
+  {
+    "key": "text_688_0",
+    "original": "ルブランカレー",
+    "translation": "卢布朗咖喱",
+    "stage": 0,
+    "context": "机翻辅助：\n\n卢布朗咖喱"
+  },
+  {
+    "key": "text_689_0",
+    "original": "解析用スコープ",
+    "translation": "解析用瞄准镜",
+    "stage": 0,
+    "context": "机翻辅助：\n\n解析用瞄准镜\n\n分析作用域\n\n分析用瞄准镜"
+  },
+  {
+    "key": "text_690_0",
+    "original": "ホムンクルス",
+    "translation": "人造人",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_691_0",
+    "original": "退魔の笛",
+    "translation": "退魔之笛",
+    "stage": 0,
+    "context": "机翻辅助：\n\n退魔之笛"
+  },
+  {
+    "key": "text_692_0",
+    "original": "集魔の笛",
+    "translation": "聚魔之笛",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_693_0",
+    "original": "カエレール",
+    "translation": "回家轨道",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_694_0",
+    "original": "モドレール",
+    "translation": "莫德雷尔",
+    "stage": 0,
+    "context": "机翻辅助：\n\n莫德雷尔\n\n滑轨\n\n返回式"
+  },
+  {
+    "key": "text_695_0",
+    "original": "クリーンボトル",
+    "translation": "清洁喷雾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n清洁喷雾\n\n净瓶\n\n清洁瓶"
+  },
+  {
+    "key": "text_696_0",
+    "original": "簡易レーダー",
+    "translation": "简易雷达",
+    "stage": 0,
+    "context": "机翻辅助：\n\n简易雷达"
+  },
+  {
+    "key": "text_697_0",
+    "original": "ソーマ",
+    "translation": "苏摩",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_698_0",
+    "original": "クリーンシャワー",
+    "translation": "清洁淋浴",
+    "stage": 0,
+    "context": "机翻辅助：\n\n清洁淋浴\n\n净淋浴"
+  },
+  {
+    "key": "text_699_0",
+    "original": "宝玉輪",
+    "translation": "宝玉环",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_700_0",
+    "original": "オタカラリカバリ",
+    "translation": "宝物复原",
+    "stage": 0,
+    "context": "机翻辅助：\n\n宝物复原\n\n宝贝恢复"
+  },
+  {
+    "key": "text_701_0",
+    "original": "退魔の角笛",
+    "translation": "退魔角笛",
+    "stage": 0,
+    "context": "机翻辅助：\n\n退魔角笛\n\n退魔的角笛\n\n退魔的号角"
+  },
+  {
+    "key": "text_702_0",
+    "original": "集魔の角笛",
+    "translation": "集魔角笛",
+    "stage": 0,
+    "context": "机翻辅助：\n\n集魔角笛\n\n集魔之角笛\n\n集魔号角"
+  },
+  {
+    "key": "text_703_0",
+    "original": "ヒールストーン",
+    "translation": "疗愈石",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疗愈石\n\n高跟鞋\n\n尾石"
+  },
+  {
+    "key": "text_704_0",
+    "original": "ポップコーン",
+    "translation": "爆米花",
+    "stage": 0,
+    "context": "机翻辅助：\n\n爆米花"
+  },
+  {
+    "key": "text_705_0",
+    "original": "ガッツポテト",
+    "translation": "热狗",
+    "stage": 0,
+    "context": "机翻辅助：\n\n热狗\n\n炸薯条\n\n薯泥"
+  },
+  {
+    "key": "text_706_0",
+    "original": "リバイブストーン",
+    "translation": "复活石",
+    "stage": 0,
+    "context": "机翻辅助：\n\n复活石\n\n复兴石\n\n重晶石"
+  },
+  {
+    "key": "text_707_0",
+    "original": "Ｌヒールストーン",
+    "translation": "L疗愈石",
+    "stage": 0,
+    "context": "机翻辅助：\n\nL疗愈石\n\n高跟鞋\n\n后跟石"
+  },
+  {
+    "key": "text_708_0",
+    "original": "蜂蜜ポップコーン",
+    "translation": "蜂蜜爆米花",
+    "stage": 0,
+    "context": "机翻辅助：\n\n蜂蜜爆米花"
+  },
+  {
+    "key": "text_709_0",
+    "original": "Ｌ・ホットドッグ",
+    "translation": "L·热狗",
+    "stage": 0,
+    "context": "机翻辅助：\n\nL·热狗\n\n热狗"
+  },
+  {
+    "key": "text_710_0",
+    "original": "クリーンソーダ",
+    "translation": "清洁苏打",
+    "stage": 0,
+    "context": "机翻辅助：\n\n清洁苏打\n\n无水苏打\n\n净钠"
+  },
+  {
+    "key": "text_711_0",
+    "original": "南国ポップコーン",
+    "translation": "南国爆米花",
+    "stage": 0,
+    "context": "机翻辅助：\n\n南国爆米花"
+  },
+  {
+    "key": "text_712_0",
+    "original": "肉汁ポップコーン",
+    "translation": "肉汁爆米花",
+    "stage": 0,
+    "context": "机翻辅助：\n\n肉汁爆米花"
+  },
+  {
+    "key": "text_713_0",
+    "original": "七色ポップコーン",
+    "translation": "七彩爆米花",
+    "stage": 0,
+    "context": "机翻辅助：\n\n七彩爆米花\n\n七色爆米花"
+  },
+  {
+    "key": "text_714_0",
+    "original": "Ｌ・チュロス",
+    "translation": "L·吉事果",
+    "stage": 0,
+    "context": "机翻辅助：\n\nL·吉事果"
+  },
+  {
+    "key": "text_722_0",
+    "original": "即死無効",
+    "translation": "即死无效",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_723_0",
+    "original": "状態異常無効",
+    "translation": "异常状态无效",
+    "stage": 0,
+    "context": "机翻辅助：\n\n异常状态无效\n\n状态异常无效"
+  },
+  {
+    "key": "text_724_0",
+    "original": "封じ無効",
+    "translation": "封印无效",
+    "stage": 0,
+    "context": "机翻辅助：\n\n封印无效\n\n封无效\n\n封存无效"
+  },
+  {
+    "key": "text_726_0",
+    "original": "黄泉路からの生還",
+    "translation": "黄泉路生还",
+    "stage": 0,
+    "context": "机翻辅助：\n\n黄泉路生还\n\n从黄泉路生还"
+  },
+  {
+    "key": "text_727_0",
+    "original": "三連の鎖",
+    "translation": "三连锁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n三连锁\n\n三连链\n\n三连锁链"
+  },
+  {
+    "key": "text_728_0",
+    "original": "四連の鎖",
+    "translation": "四连锁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n四连锁\n\n四连链\n\n四联的锁链"
+  },
+  {
+    "key": "text_729_0",
+    "original": "無限の鎖",
+    "translation": "无限锁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n无限锁\n\n无限的锁链"
+  },
+  {
+    "key": "text_730_0",
+    "original": "魔力の循環",
+    "translation": "魔力循环",
+    "stage": 0,
+    "context": "机翻辅助：\n\n魔力循环\n\n魔力的循环"
+  },
+  {
+    "key": "text_731_0",
+    "original": "物理スキル強化",
+    "translation": "物理技能强化",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_732_0",
+    "original": "全体治癒促進",
+    "translation": "全体治愈促进",
+    "stage": 0,
+    "context": "机翻辅助：\n\n全体治愈促进\n\n促进整体治愈"
+  },
+  {
+    "key": "text_733_0",
+    "original": "方陣の循環",
+    "translation": "方阵循环",
+    "stage": 0,
+    "context": "机翻辅助：\n\n方阵循环\n\n方阵的循环"
+  },
+  {
+    "key": "text_734_0",
+    "original": "回復量増加",
+    "translation": "恢复量增加",
+    "stage": 0,
+    "context": "机翻辅助：\n\n恢复量增加\n\n回复量增加"
+  },
+  {
+    "key": "text_735_0",
+    "original": "スタン回復制御用",
+    "translation": "晕眩恢复控制用",
+    "stage": 0,
+    "context": "机翻辅助：\n\n晕眩恢复控制用\n\n斯坦恢复控制用"
+  },
+  {
+    "key": "text_736_0",
+    "original": "オーバーヒート",
+    "translation": "过热",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_737_0",
+    "original": "オーバーヒート終了",
+    "translation": "过热结束",
+    "stage": 0,
+    "context": "机翻辅助：\n\n过热结束"
+  },
+  {
+    "key": "text_738_0",
+    "original": "牧師：誓いの言葉終了",
+    "translation": "牧师：誓约话语结束",
+    "stage": 0,
+    "context": "机翻辅助：\n\n牧师：誓约话语结束\n\n牧师：誓言结束"
+  },
+  {
+    "key": "text_740_0",
+    "original": "核熱ブースタ",
+    "translation": "核热强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_741_0",
+    "original": "念動ブースタ",
+    "translation": "念动强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_742_0",
+    "original": "祝福ブースタ",
+    "translation": "祝福强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_743_0",
+    "original": "呪怨ブースタ",
+    "translation": "咒怨强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_744_0",
+    "original": "核熱ハイブースタ",
+    "translation": "高级核热强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_745_0",
+    "original": "念動ハイブースタ",
+    "translation": "高级念动强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_746_0",
+    "original": "祝福ハイブースタ",
+    "translation": "高级祝福强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_747_0",
+    "original": "呪怨ハイブースタ",
+    "translation": "高级咒怨强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_748_0",
+    "original": "苦無乱舞",
+    "translation": "苦无乱舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n苦无乱舞"
+  },
+  {
+    "key": "text_749_0",
+    "original": "苦無乱舞",
+    "translation": "苦无乱舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n苦无乱舞"
+  },
+  {
+    "key": "text_750_0",
+    "original": "迎撃の一射",
+    "translation": "迎击的一射",
+    "stage": 0,
+    "context": "机翻辅助：\n\n迎击的一射\n\n迎击的一击"
+  },
+  {
+    "key": "text_751_0",
+    "original": "迎撃の一射",
+    "translation": "迎击的一射",
+    "stage": 0,
+    "context": "机翻辅助：\n\n迎击的一射\n\n迎击的一击"
+  },
+  {
+    "key": "text_752_0",
+    "original": "予告ホームラン",
+    "translation": "预告全垒打",
+    "stage": 0,
+    "context": "机翻辅助：\n\n预告全垒打\n\n预告本垒打"
+  },
+  {
+    "key": "text_753_0",
+    "original": "予告ホームラン",
+    "translation": "预告全垒打",
+    "stage": 0,
+    "context": "机翻辅助：\n\n预告全垒打\n\n预告本垒打"
+  },
+  {
+    "key": "text_754_0",
+    "original": "ソニックラッシュ",
+    "translation": "音速强袭",
+    "stage": 0,
+    "context": "机翻辅助：\n\n音速强袭\n\n音速冲击\n\n声波干扰"
+  },
+  {
+    "key": "text_755_0",
+    "original": "ソニックラッシュ",
+    "translation": "音速强袭",
+    "stage": 0,
+    "context": "机翻辅助：\n\n音速强袭\n\n声波干扰\n\n音速冲击"
+  },
+  {
+    "key": "text_757_0",
+    "original": "抑制ブースタ",
+    "translation": "抑制增压器",
+    "stage": 0,
+    "context": "机翻辅助：\n\n抑制增压器\n\n抑制推进器\n\n抑制升压"
+  },
+  {
+    "key": "text_758_0",
+    "original": "抑制ハイブースタ",
+    "translation": "抑制高周波增幅",
+    "stage": 0,
+    "context": "机翻辅助：\n\n抑制高周波增幅\n\n抑制驱动器\n\n抑制高增压器"
+  },
+  {
+    "key": "text_759_0",
+    "original": "憤怒の拳",
+    "translation": "愤怒之拳",
+    "stage": 0,
+    "context": "机翻辅助：\n\n愤怒之拳\n\n愤怒的拳头"
+  },
+  {
+    "key": "text_760_0",
+    "original": "怒りの鉄拳",
+    "translation": "愤怒的铁拳",
+    "stage": 0,
+    "context": "机翻辅助：\n\n愤怒的铁拳"
+  },
+  {
+    "key": "text_761_0",
+    "original": "封殺の心得",
+    "translation": "封杀的心得",
+    "stage": 0,
+    "context": "机翻辅助：\n\n封杀的心得\n\n封杀须知"
+  },
+  {
+    "key": "text_762_0",
+    "original": "真・封殺の心得",
+    "translation": "真·封杀的心得",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真·封杀的心得\n\n真正·封杀的心得\n\n封杀须知"
+  },
+  {
+    "key": "text_763_0",
+    "original": "大褒賞のムチ",
+    "translation": "大奖励之鞭",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大奖励之鞭\n\n大褒奖的鞭子\n\n大奖赏的鞭子"
+  },
+  {
+    "key": "text_764_0",
+    "original": "大褒賞のムチ",
+    "translation": "大奖励之鞭",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大奖励之鞭\n\n大褒奖的鞭子\n\n大奖赏的鞭子"
+  },
+  {
+    "key": "text_765_0",
+    "original": "護国の宝剣",
+    "translation": "护国宝剑",
+    "stage": 0,
+    "context": "机翻辅助：\n\n护国宝剑"
+  },
+  {
+    "key": "text_766_0",
+    "original": "氷炎の護符",
+    "translation": "冰炎护符",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰炎护符\n\n冰炎的护符"
+  },
+  {
+    "key": "text_767_0",
+    "original": "風雷の護符",
+    "translation": "风雷的护符",
+    "stage": 0,
+    "context": "机翻辅助：\n\n风雷的护符\n\n风雷护符"
+  },
+  {
+    "key": "text_768_0",
+    "original": "超科学バリア装置",
+    "translation": "超科学防护罩装置",
+    "stage": 0,
+    "context": "机翻辅助：\n\n超科学防护罩装置\n\n超科学屏障\n\n超科学屏障装置"
+  },
+  {
+    "key": "text_770_0",
+    "original": "アギ",
+    "translation": "亚基",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_771_0",
+    "original": "アギラオ",
+    "translation": "亚基拉欧",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_772_0",
+    "original": "アギダイン",
+    "translation": "亚基达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_773_0",
+    "original": "マハラギ",
+    "translation": "玛哈拉基",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_774_0",
+    "original": "マハラギオン",
+    "translation": "玛哈拉基翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_775_0",
+    "original": "マハラギダイン",
+    "translation": "玛哈拉基达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_776_0",
+    "original": "炎の乱舞",
+    "translation": "火焰乱舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰乱舞\n\n火焰的乱舞"
+  },
+  {
+    "key": "text_777_0",
+    "original": "火炎の乱舞",
+    "translation": "火焰乱舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰乱舞\n\n火焰的乱舞"
+  },
+  {
+    "key": "text_778_0",
+    "original": "豪炎の乱舞",
+    "translation": "豪炎乱舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n豪炎乱舞\n\n豪炎的乱舞\n\n烈焰狂舞"
+  },
+  {
+    "key": "text_780_0",
+    "original": "ガル",
+    "translation": "加尔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_781_0",
+    "original": "ガルーラ",
+    "translation": "加尔拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_782_0",
+    "original": "ガルダイン",
+    "translation": "加尔达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_783_0",
+    "original": "マハガル",
+    "translation": "玛哈加尔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_784_0",
+    "original": "マハガルーラ",
+    "translation": "玛哈加尔拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_785_0",
+    "original": "マハガルダイン",
+    "translation": "玛哈加尔达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_786_0",
+    "original": "風の乱舞",
+    "translation": "风之乱舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n风之乱舞\n\n风的乱舞"
+  },
+  {
+    "key": "text_787_0",
+    "original": "疾風の乱舞",
+    "translation": "疾风乱舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疾风乱舞\n\n疾风的乱舞"
+  },
+  {
+    "key": "text_788_0",
+    "original": "烈風の乱舞",
+    "translation": "烈风乱舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n烈风乱舞\n\n烈风狂舞\n\n狂风乱舞"
+  },
+  {
+    "key": "text_790_0",
+    "original": "ブフ",
+    "translation": "布芙",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_791_0",
+    "original": "ブフーラ",
+    "translation": "布芙拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_792_0",
+    "original": "ブフダイン",
+    "translation": "布芙达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_793_0",
+    "original": "マハブフ",
+    "translation": "玛哈布芙",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_794_0",
+    "original": "マハブフーラ",
+    "translation": "玛哈布芙拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_795_0",
+    "original": "マハブフダイン",
+    "translation": "玛哈布芙达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_796_0",
+    "original": "絶対零度",
+    "translation": "绝对零度",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_797_0",
+    "original": "氷の乱舞",
+    "translation": "冰之乱舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰之乱舞\n\n冰的乱舞"
+  },
+  {
+    "key": "text_798_0",
+    "original": "氷結の乱舞",
+    "translation": "冰冻乱舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰冻乱舞\n\n冰封的乱舞"
+  },
+  {
+    "key": "text_799_0",
+    "original": "氷河の乱舞",
+    "translation": "冰河乱舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰河乱舞\n\n冰河的乱舞"
+  },
+  {
+    "key": "text_801_0",
+    "original": "ジオ",
+    "translation": "吉欧",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_802_0",
+    "original": "ジオンガ",
+    "translation": "吉欧加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_803_0",
+    "original": "ジオダイン",
+    "translation": "吉欧达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_804_0",
+    "original": "マハジオ",
+    "translation": "玛哈吉欧",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_805_0",
+    "original": "マハジオンガ",
+    "translation": "玛哈吉欧加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_806_0",
+    "original": "マハジオダイン",
+    "translation": "玛哈吉欧达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_807_0",
+    "original": "ケラウノス",
+    "translation": "雷霆",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_808_0",
+    "original": "雷の乱舞",
+    "translation": "雷电乱舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n雷电乱舞\n\n雷的狂舞\n\n雷声乱舞"
+  },
+  {
+    "key": "text_809_0",
+    "original": "雷撃の乱舞",
+    "translation": "雷击乱舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n雷击乱舞\n\n雷击的狂舞"
+  },
+  {
+    "key": "text_810_0",
+    "original": "爆雷の乱舞",
+    "translation": "爆雷乱舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n爆雷乱舞\n\n雷电的乱舞\n\n狂轰滥炸"
+  },
+  {
+    "key": "text_812_0",
+    "original": "メギド",
+    "translation": "米吉多",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_813_0",
+    "original": "メギドラ",
+    "translation": "米吉多拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_814_0",
+    "original": "メギドラオン",
+    "translation": "米吉多拉翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_818_0",
+    "original": "ハマ",
+    "translation": "哈玛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_819_0",
+    "original": "ハマオン",
+    "translation": "哈玛翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_820_0",
+    "original": "マハンマ",
+    "translation": "玛翰玛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_821_0",
+    "original": "マハンマオン",
+    "translation": "玛翰玛翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_825_0",
+    "original": "ムド",
+    "translation": "姆多",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_826_0",
+    "original": "ムドオン",
+    "translation": "姆多翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_827_0",
+    "original": "マハムド",
+    "translation": "玛哈姆多",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_828_0",
+    "original": "マハムドオン",
+    "translation": "玛哈姆多翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_832_0",
+    "original": "ポイズマ",
+    "translation": "施毒术",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_833_0",
+    "original": "ポイズンブレス",
+    "translation": "剧毒之息",
+    "stage": 9,
+    "context": "翻译匹配：SH2"
+  },
+  {
+    "key": "text_834_0",
+    "original": "ペトラアイ",
+    "translation": "石化之眼",
+    "stage": 9,
+    "context": "翻译匹配：SMT3HD"
+  },
+  {
+    "key": "text_835_0",
+    "original": "ストーンミスト",
+    "translation": "石雾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n石雾"
+  },
+  {
+    "key": "text_836_0",
+    "original": "ドルミナー",
+    "translation": "永眠",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_837_0",
+    "original": "スリープソング",
+    "translation": "摇篮曲",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_838_0",
+    "original": "プリンパ",
+    "translation": "普林帕",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_839_0",
+    "original": "テンタラフー",
+    "translation": "颠塔拉弗",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_840_0",
+    "original": "惑乱の光",
+    "translation": "惑乱之光",
+    "stage": 0,
+    "context": "机翻辅助：\n\n惑乱之光\n\n困惑之光\n\n迷乱之光"
+  },
+  {
+    "key": "text_842_0",
+    "original": "デビルタッチ",
+    "translation": "恶魔之触",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_843_0",
+    "original": "デビルスマイル",
+    "translation": "恶魔微笑",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_844_0",
+    "original": "シバブー",
+    "translation": "恸哭紧缚",
+    "stage": 9,
+    "context": "翻译匹配：SMT3HD"
+  },
+  {
+    "key": "text_845_0",
+    "original": "バインドボイス",
+    "translation": "捆缚之声",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_846_0",
+    "original": "マカジャマ",
+    "translation": "玛卡加玛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_847_0",
+    "original": "サイレントノイズ",
+    "translation": "Silent Noise",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSilent Noise\n\n无声噪声\n\n无声噪音"
+  },
+  {
+    "key": "text_848_0",
+    "original": "ナイアーム",
+    "translation": "奈亚姆",
+    "stage": 0,
+    "context": "机翻辅助：\n\n奈亚姆\n\n奈臂\n\n内臂"
+  },
+  {
+    "key": "text_849_0",
+    "original": "マッスルダウン",
+    "translation": "肌肉放松",
+    "stage": 0,
+    "context": "机翻辅助：\n\n肌肉放松\n\n下降\n\n肌肉下降"
+  },
+  {
+    "key": "text_850_0",
+    "original": "スケアスロウ",
+    "translation": "斯凯斯洛。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n斯凯斯洛。\n\n滑板\n\n介阿介"
+  },
+  {
+    "key": "text_851_0",
+    "original": "スパイダーネット",
+    "translation": "蜘蛛网",
+    "stage": 0,
+    "context": "机翻辅助：\n\n蜘蛛网"
+  },
+  {
+    "key": "text_852_0",
+    "original": "自爆",
+    "translation": "自爆",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_853_0",
+    "original": "ウサギのまどろみ",
+    "translation": "兔子的假寐",
+    "stage": 0,
+    "context": "机翻辅助：\n\n兔子的假寐\n\n兔子的小偷\n\n兔子的迷糊"
+  },
+  {
+    "key": "text_854_0",
+    "original": "コウハ",
+    "translation": "克哈",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_855_0",
+    "original": "コウガ",
+    "translation": "克加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_856_0",
+    "original": "コウガオン",
+    "translation": "克加翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_860_0",
+    "original": "エイハ",
+    "translation": "耶哈",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_861_0",
+    "original": "エイガ",
+    "translation": "耶加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_862_0",
+    "original": "エイガオン",
+    "translation": "耶加翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_866_0",
+    "original": "フレイ",
+    "translation": "芙雷",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_867_0",
+    "original": "フレイラ",
+    "translation": "芙雷拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_868_0",
+    "original": "フレイダイン",
+    "translation": "芙雷达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_869_0",
+    "original": "アトミックフレア",
+    "translation": "原子火焰",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_870_0",
+    "original": "マハフレイ",
+    "translation": "玛哈芙雷",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_872_0",
+    "original": "サイ",
+    "translation": "赛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_873_0",
+    "original": "サイオ",
+    "translation": "赛欧",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_874_0",
+    "original": "サイダイン",
+    "translation": "赛达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_875_0",
+    "original": "サイコキネシス",
+    "translation": "念动波",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_876_0",
+    "original": "マハサイ",
+    "translation": "玛哈赛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_880_0",
+    "original": "神の審判",
+    "translation": "神之审判",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_881_0",
+    "original": "悪魔の審判",
+    "translation": "恶魔审判",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_883_0",
+    "original": "万物流転",
+    "translation": "万物流转",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_884_0",
+    "original": "神空波",
+    "translation": "真空波",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_898_0",
+    "original": "牙砕き",
+    "translation": "碎牙",
+    "stage": 0,
+    "context": "机翻辅助：\n\n碎牙\n\n牙碎\n\n磨牙"
+  },
+  {
+    "key": "text_899_0",
+    "original": "胆砕き",
+    "translation": "胆碎",
+    "stage": 0,
+    "context": "机翻辅助：\n\n胆碎\n\n心碎"
+  },
+  {
+    "key": "text_900_0",
+    "original": "大切断",
+    "translation": "大斩断",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_901_0",
+    "original": "ツインスラッシュ",
+    "translation": "双剑连斩",
+    "stage": 0,
+    "context": "机翻辅助：\n\n双剑连斩\n\n双斜线"
+  },
+  {
+    "key": "text_902_0",
+    "original": "突撃",
+    "translation": "突击",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_903_0",
+    "original": "トリプルダウン",
+    "translation": "三连倒",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_904_0",
+    "original": "剛殺斬",
+    "translation": "刚杀斩",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_905_0",
+    "original": "ハイスラッシュ",
+    "translation": "高斩",
+    "stage": 0,
+    "context": "机翻辅助：\n\n高斩\n\n高斜线\n\n高强度"
+  },
+  {
+    "key": "text_906_0",
+    "original": "チャージショット",
+    "translation": "蓄能射击",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_907_0",
+    "original": "メッタ突き",
+    "translation": "一阵乱打",
+    "stage": 0,
+    "context": "机翻辅助：\n\n一阵乱打\n\n铆钉\n\n尖刀"
+  },
+  {
+    "key": "text_908_0",
+    "original": "霧氷刃",
+    "translation": "雾冰刃。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n雾冰刃。\n\n雾冰刃\n\n雾凇刀"
+  },
+  {
+    "key": "text_909_0",
+    "original": "ギロチンカット",
+    "translation": "断头斩",
+    "stage": 9,
+    "context": "翻译匹配：SMT3HD"
+  },
+  {
+    "key": "text_910_0",
+    "original": "五月雨斬り",
+    "translation": "五月雨斩",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_911_0",
+    "original": "紫電砕",
+    "translation": "紫电碎",
+    "stage": 0,
+    "context": "机翻辅助：\n\n紫电碎"
+  },
+  {
+    "key": "text_912_0",
+    "original": "ドレインタッチ",
+    "translation": "Drain Touch",
+    "stage": 0,
+    "context": "机翻辅助：\n\nDrain Touch\n\n漏极接触\n\n洗衣粉"
+  },
+  {
+    "key": "text_913_0",
+    "original": "両腕落とし",
+    "translation": "断臂击",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_914_0",
+    "original": "シングルショット",
+    "translation": "单次射击",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_915_0",
+    "original": "茨の足枷",
+    "translation": "荆棘脚镣",
+    "stage": 0,
+    "context": "机翻辅助：\n\n荆棘脚镣\n\n荆棘的枷锁\n\n荆棘枷"
+  },
+  {
+    "key": "text_916_0",
+    "original": "茨の手錠",
+    "translation": "荆棘手铐",
+    "stage": 0,
+    "context": "机翻辅助：\n\n荆棘手铐"
+  },
+  {
+    "key": "text_917_0",
+    "original": "茨の口輪",
+    "translation": "荆棘口环",
+    "stage": 0,
+    "context": "机翻辅助：\n\n荆棘口环\n\n荆棘辔\n\n荆棘之口"
+  },
+  {
+    "key": "text_918_0",
+    "original": "アサルトショット",
+    "translation": "突击散弹枪",
+    "stage": 0,
+    "context": "机翻辅助：\n\n突击散弹枪\n\n突击镜头\n\n冲击"
+  },
+  {
+    "key": "text_919_0",
+    "original": "イノセントタック",
+    "translation": "纯真突刺",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_920_0",
+    "original": "武器砕き",
+    "translation": "破械",
+    "stage": 0,
+    "context": "机翻辅助：\n\n破械\n\n打碎武器\n\n粉碎武器"
+  },
+  {
+    "key": "text_921_0",
+    "original": "ホライズショット",
+    "translation": "全景",
+    "stage": 0,
+    "context": "机翻辅助：\n\n全景\n\n地平线镜头\n\n匀拍"
+  },
+  {
+    "key": "text_922_0",
+    "original": "刹那五月雨撃",
+    "translation": "刹那五月雨击",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_923_0",
+    "original": "メガトンプレス",
+    "translation": "百万吨袭击",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_924_0",
+    "original": "ブレインシェイク",
+    "translation": "头脑震撼",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_925_0",
+    "original": "スタードロップ",
+    "translation": "史塔杜洛普",
+    "stage": 0,
+    "context": "机翻辅助：\n\n史塔杜洛普\n\n星落\n\n星形下降"
+  },
+  {
+    "key": "text_926_0",
+    "original": "ぶちかまし",
+    "translation": "舍身相撞",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_927_0",
+    "original": "回転斬り",
+    "translation": "回旋斩",
+    "stage": 0,
+    "context": "机翻辅助：\n\n回旋斩\n\n旋转斩"
+  },
+  {
+    "key": "text_928_0",
+    "original": "利剣乱舞",
+    "translation": "利剑乱舞",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_929_0",
+    "original": "凍殺刃",
+    "translation": "冻杀刃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冻杀刃"
+  },
+  {
+    "key": "text_930_0",
+    "original": "空間殺法",
+    "translation": "空间杀法",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_931_0",
+    "original": "メッタ斬り",
+    "translation": "乱砍一通",
+    "stage": 0,
+    "context": "机翻辅助：\n\n乱砍一通\n\n麦塔斩\n\n刀斩"
+  },
+  {
+    "key": "text_932_0",
+    "original": "ヘッドバット",
+    "translation": "头锤",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_933_0",
+    "original": "灼熱発破",
+    "translation": "灼热爆破",
+    "stage": 0,
+    "context": "机翻辅助：\n\n灼热爆破"
+  },
+  {
+    "key": "text_934_0",
+    "original": "ヒートウェイブ",
+    "translation": "灼热波浪",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_935_0",
+    "original": "メガトンハンマー",
+    "translation": "百万吨巨锤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n百万吨巨锤\n\n百万吨锤\n\n巨锤"
+  },
+  {
+    "key": "text_936_0",
+    "original": "メガトンハンマー",
+    "translation": "百万吨巨锤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n百万吨巨锤\n\n百万吨锤\n\n巨锤"
+  },
+  {
+    "key": "text_937_0",
+    "original": "ブラインドカット",
+    "translation": "盲切",
+    "stage": 0,
+    "context": "机翻辅助：\n\n盲切\n\n盲剪"
+  },
+  {
+    "key": "text_938_0",
+    "original": "ポイズンカット",
+    "translation": "PoisonCut",
+    "stage": 0,
+    "context": "机翻辅助：\n\nPoisonCut\n\n葡萄干切割\n\n剃须刀"
+  },
+  {
+    "key": "text_939_0",
+    "original": "スリープカット",
+    "translation": "睡剪",
+    "stage": 0,
+    "context": "机翻辅助：\n\n睡剪\n\n休眠切断\n\n睡眠剪发"
+  },
+  {
+    "key": "text_940_0",
+    "original": "バインドカット",
+    "translation": "捆缚斩击",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_941_0",
+    "original": "カースカット",
+    "translation": "柯斯卡特",
+    "stage": 0,
+    "context": "机翻辅助：\n\n柯斯卡特\n\n卡丁车\n\n切槽"
+  },
+  {
+    "key": "text_942_0",
+    "original": "なぎ払い",
+    "translation": "横扫。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n横扫。\n\n付款\n\n砍掉"
+  },
+  {
+    "key": "text_943_0",
+    "original": "デスバウンド",
+    "translation": "死亡界限",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_944_0",
+    "original": "ミリオンシュート",
+    "translation": "百万射击",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_945_0",
+    "original": "暴れまくり",
+    "translation": "横冲直撞",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_946_0",
+    "original": "ぶちかまし",
+    "translation": "舍身相撞",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_947_0",
+    "original": "卵爆弾",
+    "translation": "蛋炸弹",
+    "stage": 0,
+    "context": "机翻辅助：\n\n蛋炸弹\n\n鸡蛋炸弹\n\n卵弹"
+  },
+  {
+    "key": "text_948_0",
+    "original": "バーストアーム",
+    "translation": "Burst arm。",
+    "stage": 0,
+    "context": "机翻辅助：\n\nBurst arm。\n\n猝发臂\n\n爆破臂"
+  },
+  {
+    "key": "text_949_0",
+    "original": "ヒーローソニック",
+    "translation": "英雄索尼克",
+    "stage": 0,
+    "context": "机翻辅助：\n\n英雄索尼克\n\n英雄音响\n\n索尼克英雄"
+  },
+  {
+    "key": "text_950_0",
+    "original": "カモシダキック",
+    "translation": "鸭志田踢腿。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n鸭志田踢腿。\n\n鸭志田踢球\n\n鸭志田踢腿"
+  },
+  {
+    "key": "text_951_0",
+    "original": "ガンズキャロット",
+    "translation": "坎兹卡罗特",
+    "stage": 0,
+    "context": "机翻辅助：\n\n坎兹卡罗特\n\n甘兹卡洛特\n\nguns clot"
+  },
+  {
+    "key": "text_952_0",
+    "original": "キャロットボム",
+    "translation": "Cannon Spike。",
+    "stage": 0,
+    "context": "机翻辅助：\n\nCannon Spike。\n\n卡洛特伯姆\n\n胡萝卜范"
+  },
+  {
+    "key": "text_953_0",
+    "original": "なぎ払い",
+    "translation": "横扫。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n横扫。\n\n付款\n\n砍掉"
+  },
+  {
+    "key": "text_954_0",
+    "original": "ヒーローソニック",
+    "translation": "英雄索尼克",
+    "stage": 0,
+    "context": "机翻辅助：\n\n英雄索尼克\n\n英雄音响\n\n索尼克英雄"
+  },
+  {
+    "key": "text_955_0",
+    "original": "王笏の一撃",
+    "translation": "权杖的一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n权杖的一击\n\n王笏的一击\n\n王笏一击"
+  },
+  {
+    "key": "text_956_0",
+    "original": "エンドショット",
+    "translation": "终",
+    "stage": 0,
+    "context": "机翻辅助：\n\n终\n\n终局镜头\n\n结束镜头"
+  },
+  {
+    "key": "text_957_0",
+    "original": "紅蓮の破壊光線",
+    "translation": "红莲的破坏光线",
+    "stage": 0,
+    "context": "机翻辅助：\n\n红莲的破坏光线"
+  },
+  {
+    "key": "text_958_0",
+    "original": "乱射",
+    "translation": "乱射",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "text_959_0",
+    "original": "暴走突撃",
+    "translation": "暴走突击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n暴走突击"
+  },
+  {
+    "key": "text_960_0",
+    "original": "具足斬り",
+    "translation": "足铠斩",
+    "stage": 0,
+    "context": "机翻辅助：\n\n足铠斩\n\n具足斩\n\n铠甲斩"
+  },
+  {
+    "key": "text_961_0",
+    "original": "打ち砕く",
+    "translation": "击碎",
+    "stage": 0,
+    "context": "机翻辅助：\n\n击碎\n\n打碎"
+  },
+  {
+    "key": "text_962_0",
+    "original": "八艘跳び",
+    "translation": "八艘跳跃",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_963_0",
+    "original": "ゴッドハンド",
+    "translation": "神之手",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_964_0",
+    "original": "排除",
+    "translation": "排除",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "text_965_0",
+    "original": "レッグイレーサー",
+    "translation": "竞速型",
+    "stage": 0,
+    "context": "机翻辅助：\n\n竞速型\n\n腿型赛车\n\n拖车"
+  },
+  {
+    "key": "text_966_0",
+    "original": "パワーイレーサー",
+    "translation": "速度竞技赛车",
+    "stage": 0,
+    "context": "机翻辅助：\n\n速度竞技赛车\n\n动力赛车\n\n电力赛车手"
+  },
+  {
+    "key": "text_967_0",
+    "original": "ヘッドイレーサー",
+    "translation": "头部追踪者",
+    "stage": 0,
+    "context": "机翻辅助：\n\n头部追踪者\n\n赛车手\n\n磁头消声器"
+  },
+  {
+    "key": "text_968_0",
+    "original": "ウェポンブレイク",
+    "translation": "武器破坏",
+    "stage": 0,
+    "context": "机翻辅助：\n\n武器破坏\n\n韦蓬布莱克\n\nwepon break"
+  },
+  {
+    "key": "text_969_0",
+    "original": "尻尾ぶん回し",
+    "translation": "尾巴摇来摇去",
+    "stage": 0,
+    "context": "机翻辅助：\n\n尾巴摇来摇去\n\n转尾巴\n\n尾巴分叉"
+  },
+  {
+    "key": "text_978_0",
+    "original": "ディア",
+    "translation": "迪亚",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_979_0",
+    "original": "ディアラマ",
+    "translation": "迪亚拉玛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_980_0",
+    "original": "ディアラハン",
+    "translation": "迪亚拉翰",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_981_0",
+    "original": "医療キット",
+    "translation": "医疗套件",
+    "stage": 0,
+    "context": "机翻辅助：\n\n医疗套件\n\n医疗工具包"
+  },
+  {
+    "key": "text_982_0",
+    "original": "自動修復",
+    "translation": "自动修复",
+    "stage": 0,
+    "context": "机翻辅助：\n\n自动修复"
+  },
+  {
+    "key": "text_983_0",
+    "original": "メディア",
+    "translation": "梅迪亚",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_984_0",
+    "original": "メディラマ",
+    "translation": "梅迪拉玛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_985_0",
+    "original": "メディアラハン",
+    "translation": "梅迪亚拉翰",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_987_0",
+    "original": "サマリカーム",
+    "translation": "萨玛利卡姆",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_988_0",
+    "original": "リカーム",
+    "translation": "利卡姆",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_990_0",
+    "original": "パトラ",
+    "translation": "帕特拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_993_0",
+    "original": "クロズディ",
+    "translation": "克洛兹迪",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_998_0",
+    "original": "獣の咆哮",
+    "translation": "野兽的咆哮",
+    "stage": 0,
+    "context": "机翻辅助：\n\n野兽的咆哮"
+  },
+  {
+    "key": "text_999_0",
+    "original": "口汚い野次",
+    "translation": "难听的奚落声",
+    "stage": 0,
+    "context": "机翻辅助：\n\n难听的奚落声\n\n嘴笨的野次\n\n脏话连篇"
+  },
+  {
+    "key": "text_1001_0",
+    "original": "ランパート",
+    "translation": "兰伯特",
+    "stage": 0,
+    "context": "机翻辅助：\n\n兰伯特\n\n兰帕特\n\n兰珀特"
+  },
+  {
+    "key": "text_1002_0",
+    "original": "ボディーガード",
+    "translation": "保镖",
+    "stage": 0,
+    "context": "机翻辅助：\n\n保镖"
+  },
+  {
+    "key": "text_1004_0",
+    "original": "オールガード",
+    "translation": "全体防御",
+    "stage": 0,
+    "context": "机翻辅助：\n\n全体防御\n\n后卫\n\n全保护"
+  },
+  {
+    "key": "text_1011_0",
+    "original": "マハタルカジャ",
+    "translation": "玛哈塔尔卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1012_0",
+    "original": "マハラクカジャ",
+    "translation": "玛哈拉库卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1013_0",
+    "original": "マハスクカジャ",
+    "translation": "玛哈斯库卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1014_0",
+    "original": "チャージ",
+    "translation": "蓄力",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1015_0",
+    "original": "コンセントレイト",
+    "translation": "专心致志",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1016_0",
+    "original": "炎の腐蝕",
+    "translation": "火焰腐蚀",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰腐蚀\n\n火焰的腐蚀"
+  },
+  {
+    "key": "text_1017_0",
+    "original": "氷の腐蝕",
+    "translation": "冰之腐蚀",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰之腐蚀\n\n冰的腐蚀"
+  },
+  {
+    "key": "text_1018_0",
+    "original": "雷の腐蝕",
+    "translation": "雷电腐蚀",
+    "stage": 0,
+    "context": "机翻辅助：\n\n雷电腐蚀\n\n雷的腐蚀"
+  },
+  {
+    "key": "text_1019_0",
+    "original": "風の腐蝕",
+    "translation": "风之腐蚀",
+    "stage": 0,
+    "context": "机翻辅助：\n\n风之腐蚀\n\n风的腐蚀"
+  },
+  {
+    "key": "text_1022_0",
+    "original": "マハタルンダ",
+    "translation": "玛哈塔伦达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1023_0",
+    "original": "マハラクンダ",
+    "translation": "玛哈拉坤达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1024_0",
+    "original": "マハスクンダ",
+    "translation": "玛哈斯坤达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1026_0",
+    "original": "デカジャ",
+    "translation": "迪卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1027_0",
+    "original": "デクンダ",
+    "translation": "迪坤达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1029_0",
+    "original": "逃走",
+    "translation": "逃离",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_1032_0",
+    "original": "タルカジャ",
+    "translation": "塔尔卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1033_0",
+    "original": "ラクカジャ",
+    "translation": "拉库卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1034_0",
+    "original": "スクカジャ",
+    "translation": "斯库卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1035_0",
+    "original": "タルンダ",
+    "translation": "塔伦达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1036_0",
+    "original": "ラクンダ",
+    "translation": "拉坤达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1037_0",
+    "original": "スクンダ",
+    "translation": "斯坤达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1039_0",
+    "original": "チャージワン",
+    "translation": "Charge one",
+    "stage": 0,
+    "context": "机翻辅助：\n\nCharge one\n\n充电一号\n\n充电一次"
+  },
+  {
+    "key": "text_1040_0",
+    "original": "絶対権力",
+    "translation": "绝对权力",
+    "stage": 0,
+    "context": "机翻辅助：\n\n绝对权力"
+  },
+  {
+    "key": "text_1041_0",
+    "original": "雄叫び",
+    "translation": "咆哮",
+    "stage": 9,
+    "context": "翻译匹配：SH2"
+  },
+  {
+    "key": "text_1042_0",
+    "original": "テンション上げ",
+    "translation": "炒热气氛",
+    "stage": 0,
+    "context": "机翻辅助：\n\n炒热气氛\n\n提高张力\n\n情绪高涨"
+  },
+  {
+    "key": "text_1043_0",
+    "original": "なぎ倒す",
+    "translation": "横扫千军",
+    "stage": 0,
+    "context": "机翻辅助：\n\n横扫千军\n\n推倒\n\n倒地"
+  },
+  {
+    "key": "text_1044_0",
+    "original": "暴れる",
+    "translation": "大闹一番",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大闹一番\n\n胡闹"
+  },
+  {
+    "key": "text_1045_0",
+    "original": "暴れまわる",
+    "translation": "大闹一场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大闹一场\n\n胡闹"
+  },
+  {
+    "key": "text_1046_0",
+    "original": "スクカジャ",
+    "translation": "斯库卡加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1047_0",
+    "original": "二重のスクカジャ",
+    "translation": "双重的Sukukaja。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n双重的Sukukaja。\n\n双层面罩\n\n双重刻划机"
+  },
+  {
+    "key": "text_1048_0",
+    "original": "三重のスクカジャ",
+    "translation": "三重的破坏",
+    "stage": 0,
+    "context": "机翻辅助：\n\n三重的破坏\n\n三层面罩\n\n三重刮刀"
+  },
+  {
+    "key": "text_1049_0",
+    "original": "ランダマイザ",
+    "translation": "女巫诅咒",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1061_0",
+    "original": "火炎の壁",
+    "translation": "火焰之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰之壁\n\n火焰墙"
+  },
+  {
+    "key": "text_1062_0",
+    "original": "疾風の壁",
+    "translation": "疾风之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疾风之壁\n\n疾风之墙"
+  },
+  {
+    "key": "text_1063_0",
+    "original": "氷結の壁",
+    "translation": "冰冻之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰冻之壁\n\n结冰的墙壁\n\n结冰的墙"
+  },
+  {
+    "key": "text_1064_0",
+    "original": "電撃の壁",
+    "translation": "电击之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电击之壁\n\n闪电墙\n\n电击墙"
+  },
+  {
+    "key": "text_1065_0",
+    "original": "祝福の壁",
+    "translation": "祝福之墙",
+    "stage": 0,
+    "context": "机翻辅助：\n\n祝福之墙"
+  },
+  {
+    "key": "text_1066_0",
+    "original": "呪怨の壁",
+    "translation": "咒怨之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n咒怨之壁\n\n咒怨之墙"
+  },
+  {
+    "key": "text_1067_0",
+    "original": "念動の壁",
+    "translation": "念动之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n念动之壁\n\n念动之墙\n\n心之墙"
+  },
+  {
+    "key": "text_1068_0",
+    "original": "核熱の壁",
+    "translation": "核热之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n核热之壁\n\n核热之墙\n\n核热墙"
+  },
+  {
+    "key": "text_1074_0",
+    "original": "火炎ブースタ",
+    "translation": "火焰强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1075_0",
+    "original": "氷結ブースタ",
+    "translation": "冰冻强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1076_0",
+    "original": "電撃ブースタ",
+    "translation": "电击强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1077_0",
+    "original": "疾風ブースタ",
+    "translation": "疾风强化",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1078_0",
+    "original": "トリックステップ",
+    "translation": "诡诈步法",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_1079_0",
+    "original": "回復量上昇",
+    "translation": "恢复量上升",
+    "stage": 0,
+    "context": "机翻辅助：\n\n恢复量上升\n\n回复量上升"
+  },
+  {
+    "key": "text_1080_0",
+    "original": "物理ブースタ",
+    "translation": "物理增强",
+    "stage": 0,
+    "context": "机翻辅助：\n\n物理增强\n\n物理增压器\n\n物理推进器"
+  },
+  {
+    "key": "text_1081_0",
+    "original": "物理ブースタ２",
+    "translation": "物理增强2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n物理增强2\n\n物理推进器2\n\n物理增压器2"
+  },
+  {
+    "key": "text_1082_0",
+    "original": "魔法ブースター",
+    "translation": "魔法增强",
+    "stage": 0,
+    "context": "机翻辅助：\n\n魔法增强\n\n魔法助推器"
+  },
+  {
+    "key": "text_1083_0",
+    "original": "魔法ブースター２",
+    "translation": "魔法增强2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n魔法增强2\n\n魔法助推器2\n\n魔法推进器2"
+  },
+  {
+    "key": "text_1084_0",
+    "original": "ワイドアタック１",
+    "translation": "广域攻击1",
+    "stage": 0,
+    "context": "机翻辅助：\n\n广域攻击1\n\n广角攻击1"
+  },
+  {
+    "key": "text_1085_0",
+    "original": "ワイドアタック２",
+    "translation": "广域攻击2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n广域攻击2\n\n广角攻击2"
+  },
+  {
+    "key": "text_1086_0",
+    "original": "ワイドアタック３",
+    "translation": "广域攻击3",
+    "stage": 0,
+    "context": "机翻辅助：\n\n广域攻击3\n\n广角攻击3"
+  },
+  {
+    "key": "text_1087_0",
+    "original": "ダブルブレイク１",
+    "translation": "双重破坏1",
+    "stage": 0,
+    "context": "机翻辅助：\n\n双重破坏1\n\n双爆1\n\n双杀1"
+  },
+  {
+    "key": "text_1088_0",
+    "original": "ダブルブレイク２",
+    "translation": "双重破坏2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n双重破坏2\n\n双爆2\n\n双杀2"
+  },
+  {
+    "key": "text_1089_0",
+    "original": "ダブルブレイク３",
+    "translation": "双重破坏3",
+    "stage": 0,
+    "context": "机翻辅助：\n\n双重破坏3\n\n双爆3\n\n双杀3"
+  },
+  {
+    "key": "text_1092_0",
+    "original": "オラトリオ",
+    "translation": "圣谭曲",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1093_0",
+    "original": "ブルータルの剛腕",
+    "translation": "残暴的刚腕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n残暴的刚腕\n\n布鲁塔尔的铁腕\n\n蓝塔的铁腕"
+  },
+  {
+    "key": "text_1094_0",
+    "original": "アリアドネの鎖",
+    "translation": "阿里阿德涅之链",
+    "stage": 0,
+    "context": "机翻辅助：\n\n阿里阿德涅之链\n\n阿里阿德涅链\n\n阿里阿德内链"
+  },
+  {
+    "key": "text_1095_0",
+    "original": "煉獄の双翼",
+    "translation": "炼狱双翼",
+    "stage": 0,
+    "context": "机翻辅助：\n\n炼狱双翼\n\n炼狱的双翼"
+  },
+  {
+    "key": "text_1096_0",
+    "original": "十文字斬り",
+    "translation": "十文字斩",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1098_0",
+    "original": "電撃ヘルブースタ",
+    "translation": "电击强化",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电击强化\n\n电击辅助装置\n\n闪电地狱神"
+  },
+  {
+    "key": "text_1099_0",
+    "original": "氷結ヘルブースタ",
+    "translation": "冰冻强化",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰冻强化\n\n冰封赫布斯塔\n\n结冰辅助装置"
+  },
+  {
+    "key": "text_1100_0",
+    "original": "念動ヘルブースタ",
+    "translation": "念动强化",
+    "stage": 0,
+    "context": "机翻辅助：\n\n念动强化\n\n念动地狱器\n\n心动辅助装置"
+  },
+  {
+    "key": "text_1101_0",
+    "original": "核熱ヘルブースタ",
+    "translation": "核热强化",
+    "stage": 0,
+    "context": "机翻辅助：\n\n核热强化\n\n赫布星核热\n\n核热辅助装置"
+  },
+  {
+    "key": "text_1102_0",
+    "original": "祝福ヘルブースタ",
+    "translation": "祝福强化",
+    "stage": 0,
+    "context": "机翻辅助：\n\n祝福强化\n\n祝福赫尔布斯塔\n\n祝福赫布斯塔"
+  },
+  {
+    "key": "text_1103_0",
+    "original": "呪怨ヘルブースタ",
+    "translation": "咒怨强化",
+    "stage": 0,
+    "context": "机翻辅助：\n\n咒怨强化\n\n咒怨\n\n咒怨地狱神"
+  },
+  {
+    "key": "text_1105_0",
+    "original": "共感の呼応",
+    "translation": "共感的呼应",
+    "stage": 0,
+    "context": "机翻辅助：\n\n共感的呼应\n\n共鸣的呼应"
+  },
+  {
+    "key": "text_1106_0",
+    "original": "以心伝心の絆",
+    "translation": "以心传心的羁绊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n以心传心的羁绊\n\n以心传心的纽带\n\n心心相印的羁绊"
+  },
+  {
+    "key": "text_1107_0",
+    "original": "憧憬の心",
+    "translation": "憧憬之心",
+    "stage": 0,
+    "context": "机翻辅助：\n\n憧憬之心\n\n憧憬的心"
+  },
+  {
+    "key": "text_1108_0",
+    "original": "団結の大連鎖",
+    "translation": "团结的连锁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n团结的连锁\n\n团结的大连锁"
+  },
+  {
+    "key": "text_1109_0",
+    "original": "剛腕スタイル",
+    "translation": "刚腕风格",
+    "stage": 0,
+    "context": "机翻辅助：\n\n刚腕风格\n\n铁腕风格\n\n刚强的身材"
+  },
+  {
+    "key": "text_1110_0",
+    "original": "剛腕スタイル",
+    "translation": "刚腕风格",
+    "stage": 0,
+    "context": "机翻辅助：\n\n刚腕风格\n\n铁腕风格\n\n刚强的身材"
+  },
+  {
+    "key": "text_1111_0",
+    "original": "鎧袖一触スタイル",
+    "translation": "铠袖一拂风格",
+    "stage": 0,
+    "context": "机翻辅助：\n\n铠袖一拂风格\n\n铠袖一触式\n\n短袖一触式"
+  },
+  {
+    "key": "text_1112_0",
+    "original": "鎧袖一触スタイル",
+    "translation": "铠袖一拂风格",
+    "stage": 0,
+    "context": "机翻辅助：\n\n铠袖一拂风格\n\n铠袖一触式\n\n短袖一触式"
+  },
+  {
+    "key": "text_1113_0",
+    "original": "ウォークライ",
+    "translation": "战吼",
+    "stage": 9,
+    "context": "翻译匹配：SH2"
+  },
+  {
+    "key": "text_1114_0",
+    "original": "念動吸収",
+    "translation": "念动吸收",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1115_0",
+    "original": "核熱吸収",
+    "translation": "核热吸收",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1170_0",
+    "original": "火炎回避の効果",
+    "translation": "火焰回避效果",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰回避效果\n\n躲避火焰的效果"
+  },
+  {
+    "key": "text_1171_0",
+    "original": "氷結回避の効果",
+    "translation": "冰冻回避效果",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰冻回避效果\n\n避免结冰的效果\n\n避免冰冻的效果"
+  },
+  {
+    "key": "text_1172_0",
+    "original": "疾風回避の効果",
+    "translation": "疾风回避效果",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疾风回避效果\n\n疾风回避的效果\n\n躲避疾风的效果"
+  },
+  {
+    "key": "text_1173_0",
+    "original": "電撃回避の効果",
+    "translation": "电击回避效果",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电击回避效果\n\n电击回避的效果\n\n闪电式回避的效果"
+  },
+  {
+    "key": "text_1174_0",
+    "original": "核熱回避の効果",
+    "translation": "核热回避效果",
+    "stage": 0,
+    "context": "机翻辅助：\n\n核热回避效果\n\n避免核热的效果"
+  },
+  {
+    "key": "text_1175_0",
+    "original": "念動回避の効果",
+    "translation": "念动回避效果",
+    "stage": 0,
+    "context": "机翻辅助：\n\n念动回避效果\n\n避免念动的效果\n\n避免心动的效果"
+  },
+  {
+    "key": "text_1176_0",
+    "original": "火炎回避の効果",
+    "translation": "火焰回避效果",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰回避效果\n\n躲避火焰的效果"
+  },
+  {
+    "key": "text_1177_0",
+    "original": "氷結回避の効果",
+    "translation": "冰冻回避效果",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰冻回避效果\n\n避免结冰的效果\n\n避免冰冻的效果"
+  },
+  {
+    "key": "text_1178_0",
+    "original": "疾風回避の効果",
+    "translation": "疾风回避效果",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疾风回避效果\n\n疾风回避的效果\n\n躲避疾风的效果"
+  },
+  {
+    "key": "text_1179_0",
+    "original": "電撃回避の効果",
+    "translation": "电击回避效果",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电击回避效果\n\n电击回避的效果\n\n闪电式回避的效果"
+  },
+  {
+    "key": "text_1180_0",
+    "original": "核熱回避の効果",
+    "translation": "核热回避效果",
+    "stage": 0,
+    "context": "机翻辅助：\n\n核热回避效果\n\n避免核热的效果"
+  },
+  {
+    "key": "text_1181_0",
+    "original": "念動回避の効果",
+    "translation": "念动回避效果",
+    "stage": 0,
+    "context": "机翻辅助：\n\n念动回避效果\n\n避免念动的效果\n\n避免心动的效果"
+  },
+  {
+    "key": "text_1182_0",
+    "original": "バトンタッチ",
+    "translation": "换手",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1183_0",
+    "original": "アタック２",
+    "translation": "攻击2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n攻击2"
+  },
+  {
+    "key": "text_1184_0",
+    "original": "防御",
+    "translation": "防御",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "text_1186_0",
+    "original": "トランプ兵の召喚",
+    "translation": "召唤扑克兵",
+    "stage": 0,
+    "context": "机翻辅助：\n\n召唤扑克兵\n\n特朗普士兵的传唤\n\n扑克兵的召唤"
+  },
+  {
+    "key": "text_1187_0",
+    "original": "トランプ兵の増援",
+    "translation": "增援扑克兵",
+    "stage": 0,
+    "context": "机翻辅助：\n\n增援扑克兵\n\n特朗普士兵的增援"
+  },
+  {
+    "key": "text_1189_0",
+    "original": "天罰",
+    "translation": "天罚",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_1190_0",
+    "original": "誓いの言葉",
+    "translation": "誓约之言",
+    "stage": 0,
+    "context": "机翻辅助：\n\n誓约之言\n\n誓言"
+  },
+  {
+    "key": "text_1191_0",
+    "original": "ピアスレイピア",
+    "translation": "穿刺刺针",
+    "stage": 0,
+    "context": "机翻辅助：\n\n穿刺刺针\n\n皮尔斯莱皮亚\n\n钢琴家"
+  },
+  {
+    "key": "text_1192_0",
+    "original": "暴風の舞い",
+    "translation": "暴风之舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n暴风之舞\n\n暴风的飞舞"
+  },
+  {
+    "key": "text_1193_0",
+    "original": "暴風の舞い",
+    "translation": "暴风之舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n暴风之舞\n\n暴风的飞舞"
+  },
+  {
+    "key": "text_1194_0",
+    "original": "風牙",
+    "translation": "风牙",
+    "stage": 0,
+    "context": "机翻辅助：\n\n风牙"
+  },
+  {
+    "key": "text_1195_0",
+    "original": "疾風牙",
+    "translation": "疾风牙",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疾风牙"
+  },
+  {
+    "key": "text_1196_0",
+    "original": "烈風牙",
+    "translation": "烈风牙",
+    "stage": 0,
+    "context": "机翻辅助：\n\n烈风牙"
+  },
+  {
+    "key": "text_1197_0",
+    "original": "暴風牙",
+    "translation": "暴风牙",
+    "stage": 0,
+    "context": "机翻辅助：\n\n暴风牙"
+  },
+  {
+    "key": "text_1200_0",
+    "original": "荒療治",
+    "translation": "粗暴疗法",
+    "stage": 0,
+    "context": "机翻辅助：\n\n粗暴疗法\n\n荒疗\n\n粗暴的治疗"
+  },
+  {
+    "key": "text_1201_0",
+    "original": "食いしばり",
+    "translation": "强忍",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1202_0",
+    "original": "ラビットフット",
+    "translation": "兔脚",
+    "stage": 0,
+    "context": "机翻辅助：\n\n兔脚\n\n兔子腿"
+  },
+  {
+    "key": "text_1203_0",
+    "original": "大声",
+    "translation": "大音量",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大音量\n\n大声"
+  },
+  {
+    "key": "text_1205_0",
+    "original": "刻命の歯車",
+    "translation": "刻命的齿轮",
+    "stage": 0,
+    "context": "机翻辅助：\n\n刻命的齿轮\n\n生命的齿轮"
+  },
+  {
+    "key": "text_1206_0",
+    "original": "時の跳躍",
+    "translation": "时间跳跃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n时间跳跃\n\n时间的跳跃"
+  },
+  {
+    "key": "text_1207_0",
+    "original": "時の予告",
+    "translation": "时间预告",
+    "stage": 0,
+    "context": "机翻辅助：\n\n时间预告\n\n时间的预告"
+  },
+  {
+    "key": "text_1208_0",
+    "original": "時の逆流",
+    "translation": "时间逆流",
+    "stage": 0,
+    "context": "机翻辅助：\n\n时间逆流\n\n时间的逆流\n\n时光倒流"
+  },
+  {
+    "key": "text_1209_0",
+    "original": "時の停留",
+    "translation": "时间停留",
+    "stage": 0,
+    "context": "机翻辅助：\n\n时间停留\n\n时间的停留\n\n当时的停留"
+  },
+  {
+    "key": "text_1215_0",
+    "original": "絶対権力",
+    "translation": "绝对权力",
+    "stage": 0,
+    "context": "机翻辅助：\n\n绝对权力"
+  },
+  {
+    "key": "text_1216_0",
+    "original": "否定",
+    "translation": "否定",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "text_1217_0",
+    "original": "同調",
+    "translation": "同调",
+    "stage": 0,
+    "context": "机翻辅助：\n\n同调\n\n同步\n\n调谐"
+  },
+  {
+    "key": "text_1218_0",
+    "original": "自動回復25％",
+    "translation": "自动恢复25%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n自动恢复25%"
+  },
+  {
+    "key": "text_1219_0",
+    "original": "自動回復40％",
+    "translation": "自动恢复40%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n自动恢复40%\n\n自动回复40%"
+  },
+  {
+    "key": "text_1220_0",
+    "original": "自動回復70％",
+    "translation": "自动恢复70%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n自动恢复70%\n\n自动回复70%"
+  },
+  {
+    "key": "text_1221_0",
+    "original": "殴りかかる",
+    "translation": "殴打",
+    "stage": 0,
+    "context": "机翻辅助：\n\n殴打"
+  },
+  {
+    "key": "text_1222_0",
+    "original": "絶望の衣",
+    "translation": "绝望之衣",
+    "stage": 0,
+    "context": "机翻辅助：\n\n绝望之衣\n\n绝望的外衣"
+  },
+  {
+    "key": "text_1223_0",
+    "original": "幾万の絶望",
+    "translation": "几万的绝望",
+    "stage": 0,
+    "context": "机翻辅助：\n\n几万的绝望\n\n万般绝望\n\n成千上万的绝望"
+  },
+  {
+    "key": "text_1224_0",
+    "original": "自動修復",
+    "translation": "自动修复",
+    "stage": 0,
+    "context": "机翻辅助：\n\n自动修复"
+  },
+  {
+    "key": "text_1225_0",
+    "original": "緊急修復",
+    "translation": "紧急修复",
+    "stage": 0,
+    "context": "机翻辅助：\n\n紧急修复"
+  },
+  {
+    "key": "text_1227_0",
+    "original": "総攻撃",
+    "translation": "总攻击",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1228_0",
+    "original": "メギドラオン",
+    "translation": "米吉多拉翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1232_0",
+    "original": "火炎の暴嵐",
+    "translation": "火焰风暴",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰风暴\n\n火焰的暴风雨"
+  },
+  {
+    "key": "text_1233_0",
+    "original": "氷結の暴嵐",
+    "translation": "冰冻风暴",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰冻风暴\n\n结冰的暴风雨\n\n冰冻的暴风雨"
+  },
+  {
+    "key": "text_1234_0",
+    "original": "閃光の暴嵐",
+    "translation": "闪光风暴",
+    "stage": 0,
+    "context": "机翻辅助：\n\n闪光风暴\n\n闪光的暴风雨"
+  },
+  {
+    "key": "text_1235_0",
+    "original": "暗闇の暴嵐",
+    "translation": "黑暗风暴",
+    "stage": 0,
+    "context": "机翻辅助：\n\n黑暗风暴\n\n黑暗的暴风雨"
+  },
+  {
+    "key": "text_1237_0",
+    "original": "セイントスピア",
+    "translation": "圣矛",
+    "stage": 0,
+    "context": "机翻辅助：\n\n圣矛\n\n莎士比亚\n\n圣彼得斯"
+  },
+  {
+    "key": "text_1238_0",
+    "original": "真空裂断",
+    "translation": "真空裂断",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真空裂断\n\n真空撕裂\n\n真空断裂"
+  },
+  {
+    "key": "text_1240_0",
+    "original": "フレイムオーラ",
+    "translation": "火焰气场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰气场"
+  },
+  {
+    "key": "text_1241_0",
+    "original": "アイスオーラ",
+    "translation": "冰霜灵气",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_1242_0",
+    "original": "セイントオーラ",
+    "translation": "神圣气场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n神圣气场\n\n圣多奥拉\n\n圣气场"
+  },
+  {
+    "key": "text_1243_0",
+    "original": "ダークネスオーラ",
+    "translation": "黑暗气场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n黑暗气场"
+  },
+  {
+    "key": "text_1244_0",
+    "original": "フレイムオーラ",
+    "translation": "火焰气场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰气场"
+  },
+  {
+    "key": "text_1245_0",
+    "original": "アイスオーラ",
+    "translation": "冰霜灵气",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_1246_0",
+    "original": "セイントオーラ",
+    "translation": "神圣气场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n神圣气场\n\n圣多奥拉\n\n圣气场"
+  },
+  {
+    "key": "text_1247_0",
+    "original": "ダークネスオーラ",
+    "translation": "黑暗气场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n黑暗气场"
+  },
+  {
+    "key": "text_1249_0",
+    "original": "怒気",
+    "translation": "怒气",
+    "stage": 0,
+    "context": "机翻辅助：\n\n怒气"
+  },
+  {
+    "key": "text_1250_0",
+    "original": "開闢の一撃",
+    "translation": "开辟之一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n开辟之一击\n\n开天辟地的一击\n\n开天辟地一击"
+  },
+  {
+    "key": "text_1252_0",
+    "original": "リテイク",
+    "translation": "重来",
+    "stage": 0,
+    "context": "机翻辅助：\n\n重来\n\n保持\n\n离开"
+  },
+  {
+    "key": "text_1253_0",
+    "original": "タイムアクセル",
+    "translation": "时间加速",
+    "stage": 0,
+    "context": "机翻辅助：\n\n时间加速\n\n时间加速器"
+  },
+  {
+    "key": "text_1255_0",
+    "original": "カモシダーマン！",
+    "translation": "鸭志田超人！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n鸭志田超人！"
+  },
+  {
+    "key": "text_1267_0",
+    "original": "連鎖の風撃",
+    "translation": "连锁风击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连锁风击\n\n连锁的风击"
+  },
+  {
+    "key": "text_1268_0",
+    "original": "連鎖の風",
+    "translation": "连锁风",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连锁风\n\n连锁之风\n\n连锁的风"
+  },
+  {
+    "key": "text_1282_0",
+    "original": "漢式・髑髏特攻撃",
+    "translation": "汉式·骷髅特攻",
+    "stage": 0,
+    "context": "机翻辅助：\n\n汉式·骷髅特攻\n\n汉式骷髅特攻击"
+  },
+  {
+    "key": "text_1283_0",
+    "original": "新・どーん☆",
+    "translation": "新·咚☆",
+    "stage": 0,
+    "context": "机翻辅助：\n\n新·咚☆"
+  },
+  {
+    "key": "text_1284_0",
+    "original": "花鳥風月",
+    "translation": "花鸟风月",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_1285_0",
+    "original": "２つの雷光",
+    "translation": "两道雷光",
+    "stage": 0,
+    "context": "机翻辅助：\n\n两道雷光\n\n两道闪电"
+  },
+  {
+    "key": "text_1286_0",
+    "original": "探偵王子アタック",
+    "translation": "侦探王子Attack",
+    "stage": 0,
+    "context": "机翻辅助：\n\n侦探王子Attack\n\n侦探王子\n\n侦探王子攻击"
+  },
+  {
+    "key": "text_1287_0",
+    "original": "運命との決別",
+    "translation": "与命运诀别",
+    "stage": 0,
+    "context": "机翻辅助：\n\n与命运诀别\n\n与命运的诀别"
+  },
+  {
+    "key": "text_1288_0",
+    "original": "会長連撃剣",
+    "translation": "会长连击剑",
+    "stage": 0,
+    "context": "机翻辅助：\n\n会长连击剑"
+  },
+  {
+    "key": "text_1289_0",
+    "original": "絆の一撃",
+    "translation": "羁绊的一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n羁绊的一击"
+  },
+  {
+    "key": "text_1290_0",
+    "original": "ハングリーシャウト",
+    "translation": "饥饿呐喊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n饥饿呐喊\n\n悬挂式挖掘机\n\n饥饿者"
+  },
+  {
+    "key": "text_1291_0",
+    "original": "正義の鉄槌",
+    "translation": "正义的铁锤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n正义的铁锤\n\n正义之锤"
+  },
+  {
+    "key": "text_1292_0",
+    "original": "信頼の連撃",
+    "translation": "信赖的连击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n信赖的连击\n\n信任的连击"
+  },
+  {
+    "key": "text_1293_0",
+    "original": "アニマル狂想曲",
+    "translation": "动物狂想曲",
+    "stage": 0,
+    "context": "机翻辅助：\n\n动物狂想曲"
+  },
+  {
+    "key": "text_1294_0",
+    "original": "二枚の切り札",
+    "translation": "两张王牌",
+    "stage": 0,
+    "context": "机翻辅助：\n\n两张王牌"
+  },
+  {
+    "key": "text_1295_0",
+    "original": "運命の進撃",
+    "translation": "命运的进击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n命运的进击\n\n命运的进攻"
+  },
+  {
+    "key": "text_1296_0",
+    "original": "快刀乱麻",
+    "translation": "快刀斩乱麻",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "text_1297_0",
+    "original": "美少女カルテット",
+    "translation": "美少女四重奏",
+    "stage": 0,
+    "context": "机翻辅助：\n\n美少女四重奏"
+  },
+  {
+    "key": "text_1298_0",
+    "original": "トリプルサポート",
+    "translation": "三重支援",
+    "stage": 0,
+    "context": "机翻辅助：\n\n三重支援\n\n三重支撑\n\n三重支持"
+  },
+  {
+    "key": "text_1299_0",
+    "original": "異種格闘拳脚",
+    "translation": "异种格斗拳脚",
+    "stage": 0,
+    "context": "机翻辅助：\n\n异种格斗拳脚\n\n异种格斗\n\n搏击拳腿"
+  },
+  {
+    "key": "text_1300_0",
+    "original": "相棒たちの底力",
+    "translation": "伙伴们的潜力",
+    "stage": 0,
+    "context": "机翻辅助：\n\n伙伴们的潜力\n\n搭档们的潜力"
+  },
+  {
+    "key": "text_1301_0",
+    "original": "ワイルド・オーダー",
+    "translation": "狂暴命令",
+    "stage": 0,
+    "context": "机翻辅助：\n\n狂暴命令\n\n狂野秩序\n\n野性订单"
+  },
+  {
+    "key": "text_1377_0",
+    "original": "コウハ",
+    "translation": "克哈",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1378_0",
+    "original": "コウガ",
+    "translation": "克加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1379_0",
+    "original": "コウガオン",
+    "translation": "克加翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1380_0",
+    "original": "マハコウハ",
+    "translation": "玛哈克哈",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1381_0",
+    "original": "マハコウガ",
+    "translation": "玛哈克加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1382_0",
+    "original": "マハコウガオン",
+    "translation": "玛哈克加翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1387_0",
+    "original": "エイハ",
+    "translation": "耶哈",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1388_0",
+    "original": "エイガ",
+    "translation": "耶加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1389_0",
+    "original": "エイガオン",
+    "translation": "耶加翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1390_0",
+    "original": "マハエイハ",
+    "translation": "玛哈耶哈",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1391_0",
+    "original": "マハエイガ",
+    "translation": "玛哈耶加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1392_0",
+    "original": "マハエイガオン",
+    "translation": "玛哈耶加翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1397_0",
+    "original": "フレイ",
+    "translation": "芙雷",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1398_0",
+    "original": "フレイラ",
+    "translation": "芙雷拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1399_0",
+    "original": "フレイダイン",
+    "translation": "芙雷达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1400_0",
+    "original": "マハフレイ",
+    "translation": "玛哈芙雷",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1401_0",
+    "original": "マハフレイラ",
+    "translation": "玛哈芙雷拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1402_0",
+    "original": "マハフレイダイン",
+    "translation": "玛哈芙雷达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1404_0",
+    "original": "アトミックフレア",
+    "translation": "原子火焰",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1405_0",
+    "original": "コズミックフレア",
+    "translation": "宇宙火焰",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1407_0",
+    "original": "サイ",
+    "translation": "赛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1408_0",
+    "original": "サイオ",
+    "translation": "赛欧",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1409_0",
+    "original": "サイダイン",
+    "translation": "赛达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1410_0",
+    "original": "マハサイ",
+    "translation": "玛哈赛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1411_0",
+    "original": "マハサイオ",
+    "translation": "玛哈赛欧",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1412_0",
+    "original": "マハサイダイン",
+    "translation": "玛哈赛达因",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1414_0",
+    "original": "サイコキネシス",
+    "translation": "念动波",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1415_0",
+    "original": "サイコフォース",
+    "translation": "念动力",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1416_0",
+    "original": "黒点撃",
+    "translation": "黑点击",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_1417_0",
+    "original": "金剛発破",
+    "translation": "金刚发破",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1418_0",
+    "original": "アグネヤストラ",
+    "translation": "火神之击",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1420_0",
+    "original": "ブレイブザッパー",
+    "translation": "勇气之击",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1421_0",
+    "original": "ワンショットキル",
+    "translation": "一枪毙命",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1422_0",
+    "original": "カームブレイバー",
+    "translation": "斗魂勇士",
+    "stage": 0,
+    "context": "机翻辅助：\n\n斗魂勇士\n\n卡姆布雷伯\n\n风暴刀锋"
+  },
+  {
+    "key": "text_1423_0",
+    "original": "物理・速封",
+    "translation": "物理·速封",
+    "stage": 0,
+    "context": "机翻辅助：\n\n物理·速封"
+  },
+  {
+    "key": "text_1424_0",
+    "original": "我慢の制裁",
+    "translation": "忍耐的制裁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n忍耐的制裁"
+  },
+  {
+    "key": "text_1425_0",
+    "original": "制裁の一撃",
+    "translation": "制裁的一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n制裁的一击"
+  },
+  {
+    "key": "text_1426_0",
+    "original": "我慢の神罰",
+    "translation": "忍耐的神罚",
+    "stage": 0,
+    "context": "机翻辅助：\n\n忍耐的神罚"
+  },
+  {
+    "key": "text_1427_0",
+    "original": "神罰の一撃",
+    "translation": "神罚的一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n神罚的一击"
+  },
+  {
+    "key": "text_1428_0",
+    "original": "絶妙の一撃",
+    "translation": "绝妙的一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n绝妙的一击"
+  },
+  {
+    "key": "text_1429_0",
+    "original": "天軍の一撃",
+    "translation": "天军的一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天军的一击\n\n天军一击"
+  },
+  {
+    "key": "text_1430_0",
+    "original": "夢見針",
+    "translation": "织梦针",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1431_0",
+    "original": "男気の壁",
+    "translation": "男子汉之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n男子汉之壁\n\n男子气概的墙\n\n男子气概之墙"
+  },
+  {
+    "key": "text_1432_0",
+    "original": "コストカット",
+    "translation": "成本削减",
+    "stage": 0,
+    "context": "机翻辅助：\n\n成本削减\n\n降低成本\n\n削减成本"
+  },
+  {
+    "key": "text_1433_0",
+    "original": "コストカット",
+    "translation": "成本削减",
+    "stage": 0,
+    "context": "机翻辅助：\n\n成本削减\n\n降低成本\n\n削减成本"
+  },
+  {
+    "key": "text_1434_0",
+    "original": "予告打ち返し",
+    "translation": "预告反击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n预告反击\n\n打回预告\n\n预告回击"
+  },
+  {
+    "key": "text_1435_0",
+    "original": "予告打ち返し",
+    "translation": "预告反击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n预告反击\n\n打回预告\n\n预告回击"
+  },
+  {
+    "key": "text_1436_0",
+    "original": "苦無援護",
+    "translation": "苦无援护",
+    "stage": 0,
+    "context": "机翻辅助：\n\n苦无援护\n\n无忧无虑"
+  },
+  {
+    "key": "text_1437_0",
+    "original": "苦無援護",
+    "translation": "苦无援护",
+    "stage": 0,
+    "context": "机翻辅助：\n\n苦无援护\n\n无忧无虑"
+  },
+  {
+    "key": "text_1438_0",
+    "original": "ボルテージ",
+    "translation": "电压",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电压\n\n巴尔的摩"
+  },
+  {
+    "key": "text_1439_0",
+    "original": "撃ち落とし",
+    "translation": "击落",
+    "stage": 0,
+    "context": "机翻辅助：\n\n击落"
+  },
+  {
+    "key": "text_1440_0",
+    "original": "撃ち落とし",
+    "translation": "击落",
+    "stage": 0,
+    "context": "机翻辅助：\n\n击落"
+  },
+  {
+    "key": "text_1441_0",
+    "original": "探偵の戒め",
+    "translation": "侦探的戒律",
+    "stage": 0,
+    "context": "机翻辅助：\n\n侦探的戒律\n\n侦探的训诫\n\n侦探的告诫"
+  },
+  {
+    "key": "text_1442_0",
+    "original": "カウンタステップ",
+    "translation": "反击垫步",
+    "stage": 0,
+    "context": "机翻辅助：\n\n反击垫步\n\n计数器阶跃\n\n计数步骤"
+  },
+  {
+    "key": "text_1443_0",
+    "original": "カウンタステップ",
+    "translation": "反击垫步",
+    "stage": 0,
+    "context": "机翻辅助：\n\n反击垫步\n\n计数器阶跃\n\n计数步骤"
+  },
+  {
+    "key": "text_1444_0",
+    "original": "鉄壁の漢気",
+    "translation": "铁壁男子气概",
+    "stage": 0,
+    "context": "机翻辅助：\n\n铁壁男子气概\n\n铁壁的汉气"
+  },
+  {
+    "key": "text_1445_0",
+    "original": "ラッシュステップ",
+    "translation": "冲刺垫步",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冲刺垫步\n\n高峰阶段"
+  },
+  {
+    "key": "text_1446_0",
+    "original": "ラッシュステップ",
+    "translation": "冲刺垫步",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冲刺垫步\n\n高峰阶段"
+  },
+  {
+    "key": "text_1447_0",
+    "original": "カウンタバッシュ",
+    "translation": "反击拳击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n反击拳击\n\n计数器缓冲器\n\n计数器"
+  },
+  {
+    "key": "text_1448_0",
+    "original": "カウンタバッシュ",
+    "translation": "反击拳击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n反击拳击\n\n计数器缓冲器\n\n计数器"
+  },
+  {
+    "key": "text_1449_0",
+    "original": "挑発カウンター",
+    "translation": "挑衅反击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n挑衅反击"
+  },
+  {
+    "key": "text_1450_0",
+    "original": "女帝の一刺し",
+    "translation": "女帝的一刺",
+    "stage": 0,
+    "context": "机翻辅助：\n\n女帝的一刺\n\n女皇的一刺\n\n女皇的刺杀"
+  },
+  {
+    "key": "text_1451_0",
+    "original": "オーバーリミット",
+    "translation": "极限突破",
+    "stage": 0,
+    "context": "机翻辅助：\n\n极限突破\n\n超限"
+  },
+  {
+    "key": "text_1452_0",
+    "original": "フルスロットル",
+    "translation": "全速推进",
+    "stage": 0,
+    "context": "机翻辅助：\n\n全速推进\n\n全力油门\n\n全节气门"
+  },
+  {
+    "key": "text_1453_0",
+    "original": "ラッキーパンチ",
+    "translation": "幸运拳",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1454_0",
+    "original": "ミラクルパンチ",
+    "translation": "奇迹拳",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1455_0",
+    "original": "挑発カウンター",
+    "translation": "挑衅反击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n挑衅反击"
+  },
+  {
+    "key": "text_1457_0",
+    "original": "反撃スタイル",
+    "translation": "反击模式",
+    "stage": 0,
+    "context": "机翻辅助：\n\n反击模式\n\n反击风格"
+  },
+  {
+    "key": "text_1458_0",
+    "original": "逆襲スタイル",
+    "translation": "逆袭模式",
+    "stage": 0,
+    "context": "机翻辅助：\n\n逆袭模式\n\n反击风格"
+  },
+  {
+    "key": "text_1459_0",
+    "original": "間食の技術",
+    "translation": "零食的技术",
+    "stage": 0,
+    "context": "机翻辅助：\n\n零食的技术\n\n零食技术\n\n吃零食的技巧"
+  },
+  {
+    "key": "text_1460_0",
+    "original": "間食の極意",
+    "translation": "零食的奥义",
+    "stage": 0,
+    "context": "机翻辅助：\n\n零食的奥义\n\n零食的秘诀"
+  },
+  {
+    "key": "text_1461_0",
+    "original": "探偵の禁戒",
+    "translation": "侦探的禁戒",
+    "stage": 0,
+    "context": "机翻辅助：\n\n侦探的禁戒"
+  },
+  {
+    "key": "text_1462_0",
+    "original": "猫足ステップ",
+    "translation": "猫足垫步",
+    "stage": 0,
+    "context": "机翻辅助：\n\n猫足垫步\n\n猫步"
+  },
+  {
+    "key": "text_1463_0",
+    "original": "アックスガード",
+    "translation": "斧枪防御",
+    "stage": 0,
+    "context": "机翻辅助：\n\n斧枪防御\n\n阿克斯保护\n\n护甲"
+  },
+  {
+    "key": "text_1464_0",
+    "original": "貝櫓の舞",
+    "translation": "贝橹之舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n贝橹之舞\n\n贝橹舞"
+  },
+  {
+    "key": "text_1465_0",
+    "original": "蜃気楼の舞",
+    "translation": "海市蜃楼之舞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n海市蜃楼之舞"
+  },
+  {
+    "key": "text_1466_0",
+    "original": "相殺クマボディ",
+    "translation": "相消小熊躯体",
+    "stage": 0,
+    "context": "机翻辅助：\n\n相消小熊躯体\n\n抵消小熊身体\n\n小熊身体"
+  },
+  {
+    "key": "text_1467_0",
+    "original": "女王の一刺し",
+    "translation": "女王的一刺",
+    "stage": 0,
+    "context": "机翻辅助：\n\n女王的一刺\n\n女王的刺"
+  },
+  {
+    "key": "text_1468_0",
+    "original": "極楽の遊歩",
+    "translation": "极乐漫步",
+    "stage": 0,
+    "context": "机翻辅助：\n\n极乐漫步\n\n极乐世界的散步\n\n极乐世界的漫步"
+  },
+  {
+    "key": "text_1469_0",
+    "original": "百戦錬磨の威圧",
+    "translation": "身经百战的威吓",
+    "stage": 0,
+    "context": "机翻辅助：\n\n身经百战的威吓\n\n千锤百炼的威压\n\n身经百战的威压"
+  },
+  {
+    "key": "text_1470_0",
+    "original": "イージスの神盾",
+    "translation": "神盾之神力",
+    "stage": 0,
+    "context": "机翻辅助：\n\n神盾之神力\n\n宙斯盾\n\n神盾"
+  },
+  {
+    "key": "text_1471_0",
+    "original": "小治癒促進",
+    "translation": "小治愈促进",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1472_0",
+    "original": "中治癒促進",
+    "translation": "中治愈促进",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1473_0",
+    "original": "大治癒促進",
+    "translation": "大治愈促进",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1474_0",
+    "original": "小気功",
+    "translation": "小气功",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1475_0",
+    "original": "中気功",
+    "translation": "中气功",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1476_0",
+    "original": "大気功",
+    "translation": "大气功",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_1477_0",
+    "original": "ギロチンスライス",
+    "translation": "断头台切片",
+    "stage": 0,
+    "context": "机翻辅助：\n\n断头台切片\n\n吉洛汀切片"
+  },
+  {
+    "key": "text_1478_0",
+    "original": "ギロチンザッパー",
+    "translation": "断头台强击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n断头台强击\n\n吉洛汀扎珀\n\n断头台"
+  },
+  {
+    "key": "text_1479_0",
+    "original": "パニッシュバイト",
+    "translation": "惩治咬啮",
+    "stage": 0,
+    "context": "机翻辅助：\n\n惩治咬啮\n\n潘尼休字节\n\n抛光刀具"
+  },
+  {
+    "key": "text_1480_0",
+    "original": "パニッシュエンド",
+    "translation": "惩治终结",
+    "stage": 0,
+    "context": "机翻辅助：\n\n惩治终结\n\n潘尼修德\n\n冲裁端"
+  },
+  {
+    "key": "text_1481_0",
+    "original": "セイントタッチ",
+    "translation": "神圣之触",
+    "stage": 0,
+    "context": "机翻辅助：\n\n神圣之触\n\n轻触\n\n圣心触"
+  },
+  {
+    "key": "text_1482_0",
+    "original": "双腕潰し",
+    "translation": "双臂击溃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n双臂击溃\n\n双臂压垮"
+  },
+  {
+    "key": "text_1483_0",
+    "original": "アックスシールド",
+    "translation": "斧枪之盾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n斧枪之盾\n\n阿克斯屏蔽\n\n亚克斯盾"
+  },
+  {
+    "key": "text_1484_0",
+    "original": "コストリダクト",
+    "translation": "成本削减",
+    "stage": 0,
+    "context": "机翻辅助：\n\n成本削减\n\n科斯特里风管\n\n成本管道"
+  },
+  {
+    "key": "text_1485_0",
+    "original": "コストリダクト",
+    "translation": "成本削减",
+    "stage": 0,
+    "context": "机翻辅助：\n\n成本削减\n\n科斯特里风管\n\n成本管道"
+  },
+  {
+    "key": "text_1486_0",
+    "original": "無敵クマボディ",
+    "translation": "无敌小熊躯体",
+    "stage": 0,
+    "context": "机翻辅助：\n\n无敌小熊躯体\n\n无敌小熊身体"
+  },
+  {
+    "key": "text_1487_0",
+    "original": "筋力の才",
+    "translation": "肌力之才",
+    "stage": 0,
+    "context": "机翻辅助：\n\n肌力之才\n\n肌肉力量之才\n\n膂力之才"
+  },
+  {
+    "key": "text_1488_0",
+    "original": "筋力の鬼才",
+    "translation": "肌力之鬼才",
+    "stage": 0,
+    "context": "机翻辅助：\n\n肌力之鬼才\n\n肌肉力量的奇才\n\n肌肉奇才"
+  },
+  {
+    "key": "text_1489_0",
+    "original": "筋力の天才",
+    "translation": "肌力之天才",
+    "stage": 0,
+    "context": "机翻辅助：\n\n肌力之天才\n\n肌肉天才"
+  },
+  {
+    "key": "text_1490_0",
+    "original": "魔力の才",
+    "translation": "魔力之才",
+    "stage": 0,
+    "context": "机翻辅助：\n\n魔力之才"
+  },
+  {
+    "key": "text_1491_0",
+    "original": "魔力の鬼才",
+    "translation": "魔力之鬼才",
+    "stage": 0,
+    "context": "机翻辅助：\n\n魔力之鬼才\n\n魔力鬼才\n\n具有魔力的鬼才"
+  },
+  {
+    "key": "text_1492_0",
+    "original": "魔力の天才",
+    "translation": "魔力之天才",
+    "stage": 0,
+    "context": "机翻辅助：\n\n魔力之天才\n\n魔力天才\n\n有魔力的天才"
+  },
+  {
+    "key": "text_1493_0",
+    "original": "忍耐の才",
+    "translation": "忍耐之才",
+    "stage": 0,
+    "context": "机翻辅助：\n\n忍耐之才\n\n忍耐力"
+  },
+  {
+    "key": "text_1494_0",
+    "original": "忍耐の鬼才",
+    "translation": "忍耐之鬼才",
+    "stage": 0,
+    "context": "机翻辅助：\n\n忍耐之鬼才\n\n忍耐的鬼才\n\n忍耐的奇才"
+  },
+  {
+    "key": "text_1495_0",
+    "original": "忍耐の天才",
+    "translation": "忍耐之天才",
+    "stage": 0,
+    "context": "机翻辅助：\n\n忍耐之天才\n\n忍耐的天才"
+  },
+  {
+    "key": "text_1496_0",
+    "original": "敏捷の才",
+    "translation": "敏捷之才",
+    "stage": 0,
+    "context": "机翻辅助：\n\n敏捷之才\n\n敏捷的才能"
+  },
+  {
+    "key": "text_1497_0",
+    "original": "敏捷の鬼才",
+    "translation": "敏捷之鬼才",
+    "stage": 0,
+    "context": "机翻辅助：\n\n敏捷之鬼才\n\n敏捷的奇才\n\n敏捷的鬼才"
+  },
+  {
+    "key": "text_1498_0",
+    "original": "敏捷の天才",
+    "translation": "敏捷之天才",
+    "stage": 0,
+    "context": "机翻辅助：\n\n敏捷之天才\n\n敏捷的天才"
+  },
+  {
+    "key": "text_1499_0",
+    "original": "運気の才",
+    "translation": "运气之才",
+    "stage": 0,
+    "context": "机翻辅助：\n\n运气之才\n\n运势之才"
+  },
+  {
+    "key": "text_1500_0",
+    "original": "運気の鬼才",
+    "translation": "运气之鬼才",
+    "stage": 0,
+    "context": "机翻辅助：\n\n运气之鬼才\n\n运气的奇才"
+  }
+]

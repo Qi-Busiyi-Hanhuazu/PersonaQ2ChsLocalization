@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おい、ジョーカー！？\n今、そっち行くのはマズイぞ！",
+    "translation": "おい、ジョーカー！？\n今、そっち行くのはマズイぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ナビの言うとおりだよ。\nここは一旦退いて、態勢を立て直そう？",
+    "translation": "ナビの言うとおりだよ。\nここは一旦退いて、態勢を立て直そう？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

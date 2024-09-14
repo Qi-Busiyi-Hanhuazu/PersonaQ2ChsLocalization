@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "一方、そのころ…",
+    "translation": "一方、そのころ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "映画…\nみんなが来て、新しいシーンに…",
+    "translation": "映画…\nみんなが来て、新しいシーンに…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "この先も…変わるの？",
+    "translation": "この先も…変わるの？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "彼らを信じて…\n今は、見守るしかないですね。",
+    "translation": "彼らを信じて…\n今は、見守るしかないですね。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "いったい、どんな映画になるのかしら…？",
+    "translation": "いったい、どんな映画になるのかしら…？",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  }
+]

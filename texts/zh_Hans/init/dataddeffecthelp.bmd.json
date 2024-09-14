@@ -1,0 +1,1381 @@
+[
+  {
+    "key": "addeffect_000_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_001_0",
+    "original": "力１ＵＰ",
+    "translation": "力1UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n力1UP\n\n力一UP"
+  },
+  {
+    "key": "addeffect_002_0",
+    "original": "力２ＵＰ",
+    "translation": "力2UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n力2UP\n\n力2up"
+  },
+  {
+    "key": "addeffect_003_0",
+    "original": "力３ＵＰ",
+    "translation": "力3UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n力3UP\n\n力3up"
+  },
+  {
+    "key": "addeffect_004_0",
+    "original": "力４ＵＰ",
+    "translation": "力4UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n力4UP\n\n力4up"
+  },
+  {
+    "key": "addeffect_005_0",
+    "original": "力５ＵＰ",
+    "translation": "力量5UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n力量5UP\n\n力5UP\n\n力5up"
+  },
+  {
+    "key": "addeffect_006_0",
+    "original": "耐１ＵＰ",
+    "translation": "耐1UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n耐力1UP\n\n耐1UP\n\n耐1up"
+  },
+  {
+    "key": "addeffect_007_0",
+    "original": "耐２ＵＰ",
+    "translation": "耐2UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n耐力2UP\n\n耐2UP\n\n耐2up"
+  },
+  {
+    "key": "addeffect_008_0",
+    "original": "耐３ＵＰ",
+    "translation": "耐3UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n耐力3UP\n\n耐3UP\n\n耐3up"
+  },
+  {
+    "key": "addeffect_009_0",
+    "original": "耐４ＵＰ",
+    "translation": "耐4UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n耐力4UP\n\n耐4UP\n\n耐4up"
+  },
+  {
+    "key": "addeffect_010_0",
+    "original": "耐５ＵＰ",
+    "translation": "耐5UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n耐力5UP\n\n耐5UP\n\n耐5up"
+  },
+  {
+    "key": "addeffect_011_0",
+    "original": "魔１ＵＰ",
+    "translation": "魔1UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔力1UP\n\n魔1UP\n\n魔1 UP"
+  },
+  {
+    "key": "addeffect_012_0",
+    "original": "魔２ＵＰ",
+    "translation": "魔2UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔力2UP\n\n魔2UP\n\n魔2 UP"
+  },
+  {
+    "key": "addeffect_013_0",
+    "original": "魔３ＵＰ",
+    "translation": "魔3UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔力3UP\n\n魔3UP\n\n魔3up"
+  },
+  {
+    "key": "addeffect_014_0",
+    "original": "魔４ＵＰ",
+    "translation": "魔4UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔力4UP\n\n魔4UP\n\n魔4up"
+  },
+  {
+    "key": "addeffect_015_0",
+    "original": "魔５ＵＰ",
+    "translation": "魔5UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔力5UP\n\n魔5UP\n\n魔5up"
+  },
+  {
+    "key": "addeffect_016_0",
+    "original": "速１ＵＰ",
+    "translation": "速1UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n敏捷1UP\n\n速度1UP\n\n速一UP"
+  },
+  {
+    "key": "addeffect_017_0",
+    "original": "速２ＵＰ",
+    "translation": "速2UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n敏捷2UP\n\n速度2UP\n\n速2 UP"
+  },
+  {
+    "key": "addeffect_018_0",
+    "original": "速３ＵＰ",
+    "translation": "速3UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n敏捷3UP\n\n速度3UP\n\n速3up"
+  },
+  {
+    "key": "addeffect_019_0",
+    "original": "速４ＵＰ",
+    "translation": "速4UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n敏捷4UP\n\n速度4UP\n\n速4up"
+  },
+  {
+    "key": "addeffect_020_0",
+    "original": "速５ＵＰ",
+    "translation": "速5UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n敏捷5UP\n\n速5up\n\n速度5UP"
+  },
+  {
+    "key": "addeffect_021_0",
+    "original": "運１ＵＰ",
+    "translation": "运1UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n幸运1UP\n\n运1UP\n\n运1 UP"
+  },
+  {
+    "key": "addeffect_022_0",
+    "original": "運２ＵＰ",
+    "translation": "运2UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n幸运2UP\n\n运气2UP\n\n运2 UP"
+  },
+  {
+    "key": "addeffect_023_0",
+    "original": "運３ＵＰ",
+    "translation": "运3UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n幸运3UP\n\n运3 UP\n\n运气提高3UP"
+  },
+  {
+    "key": "addeffect_024_0",
+    "original": "運４ＵＰ",
+    "translation": "运4UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n幸运4UP\n\n运4UP\n\n运4up"
+  },
+  {
+    "key": "addeffect_025_0",
+    "original": "運５ＵＰ",
+    "translation": "运5UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n幸运5UP\n\n运5UP\n\n运5 UP"
+  },
+  {
+    "key": "addeffect_026_0",
+    "original": "ＨＰ１０ＵＰ",
+    "translation": "HP10UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\nHP10UP"
+  },
+  {
+    "key": "addeffect_027_0",
+    "original": "ＨＰ２０ＵＰ",
+    "translation": "HP20UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\nHP20UP"
+  },
+  {
+    "key": "addeffect_028_0",
+    "original": "ＨＰ３０ＵＰ",
+    "translation": "HP30UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\nHP30UP"
+  },
+  {
+    "key": "addeffect_029_0",
+    "original": "ＨＰ４０ＵＰ",
+    "translation": "HP40UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\nHP40UP"
+  },
+  {
+    "key": "addeffect_030_0",
+    "original": "ＨＰ５０ＵＰ",
+    "translation": "HP50UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\nHP50UP"
+  },
+  {
+    "key": "addeffect_031_0",
+    "original": "ＳＰ１０ＵＰ",
+    "translation": "SP10UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSP10UP"
+  },
+  {
+    "key": "addeffect_032_0",
+    "original": "ＳＰ２０ＵＰ",
+    "translation": "SP20UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSP20UP"
+  },
+  {
+    "key": "addeffect_033_0",
+    "original": "ＳＰ３０ＵＰ",
+    "translation": "SP30UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSP30UP"
+  },
+  {
+    "key": "addeffect_034_0",
+    "original": "ＳＰ４０ＵＰ",
+    "translation": "SP40UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSP40UP\n\nSP 40UP"
+  },
+  {
+    "key": "addeffect_035_0",
+    "original": "ＳＰ５０ＵＰ",
+    "translation": "SP50UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSP50UP"
+  },
+  {
+    "key": "addeffect_036_0",
+    "original": "まれに混乱付着",
+    "translation": "偶尔附加混乱效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n偶尔附加混乱\n\n罕见的混乱附着"
+  },
+  {
+    "key": "addeffect_037_0",
+    "original": "ときどき混乱付着",
+    "translation": "时常附加混乱效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n时常附加混乱\n\n时常混乱附着\n\n有时混乱附着"
+  },
+  {
+    "key": "addeffect_038_0",
+    "original": "頻繁に混乱付着",
+    "translation": "频繁附加混乱效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n频繁附加混乱\n\n经常混乱附着\n\n频繁的混乱附着"
+  },
+  {
+    "key": "addeffect_039_0",
+    "original": "まれに毒付着",
+    "translation": "偶尔附加中毒效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n偶尔附加毒\n\n偶尔有毒附着\n\n偶尔沾上毒"
+  },
+  {
+    "key": "addeffect_040_0",
+    "original": "ときどき毒付着",
+    "translation": "时常附加中毒效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n时常附加毒\n\n有时会沾上毒\n\n有时有毒附着"
+  },
+  {
+    "key": "addeffect_041_0",
+    "original": "頻繁に毒付着",
+    "translation": "频繁附加中毒效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n频繁附加毒\n\n频繁沾毒\n\n毒附着频繁"
+  },
+  {
+    "key": "addeffect_042_0",
+    "original": "まれに恐怖付着",
+    "translation": "偶尔附加恐惧效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n偶尔附加恐惧\n\n偶尔会附着恐惧\n\n罕见地附着恐怖"
+  },
+  {
+    "key": "addeffect_043_0",
+    "original": "ときどき恐怖付着",
+    "translation": "时常附加恐惧效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n时常附加恐惧\n\n时常附着恐怖\n\n有时会附着恐惧"
+  },
+  {
+    "key": "addeffect_044_0",
+    "original": "頻繁に恐怖付着",
+    "translation": "频繁附加恐惧效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n频繁附加恐惧\n\n频繁地附着恐怖\n\n频繁地附着在恐惧上"
+  },
+  {
+    "key": "addeffect_045_0",
+    "original": "まれに激昂付着",
+    "translation": "偶尔附加激昂效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n偶尔附加激昂\n\n偶尔激昂地附着\n\n罕见的激昂附着"
+  },
+  {
+    "key": "addeffect_046_0",
+    "original": "ときどき激昂付着",
+    "translation": "时常附加激昂效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n时常附加激昂\n\n时而激昂地附着\n\n时而激昂附着"
+  },
+  {
+    "key": "addeffect_047_0",
+    "original": "頻繁に激昂付着",
+    "translation": "频繁附加激昂效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n频繁附加激昂\n\n频繁地激昂附着\n\n频繁地激愤附着"
+  },
+  {
+    "key": "addeffect_048_0",
+    "original": "まれに気絶付着",
+    "translation": "偶尔附加昏迷效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n偶尔附加昏迷\n\n罕见地昏厥附着\n\n罕见的昏厥附着"
+  },
+  {
+    "key": "addeffect_049_0",
+    "original": "ときどき気絶付着",
+    "translation": "时常附加昏迷效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n时常附加昏迷\n\n时常昏厥附着\n\n有时会昏厥"
+  },
+  {
+    "key": "addeffect_050_0",
+    "original": "頻繁に気絶付着",
+    "translation": "频繁附加昏迷效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n频繁附加昏迷\n\n经常昏厥附着\n\n频繁的昏迷附着"
+  },
+  {
+    "key": "addeffect_051_0",
+    "original": "まれに衰弱付着",
+    "translation": "偶尔附加衰弱效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n偶尔附加衰弱\n\n罕见的衰弱附着\n\n罕见地衰弱附着"
+  },
+  {
+    "key": "addeffect_052_0",
+    "original": "ときどき衰弱付着",
+    "translation": "时常附加衰弱效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n时常附加衰弱\n\n时常衰弱附着\n\n有时附着衰弱"
+  },
+  {
+    "key": "addeffect_053_0",
+    "original": "頻繁に衰弱付着",
+    "translation": "频繁附加衰弱效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n频繁附加衰弱\n\n频繁地衰弱附着"
+  },
+  {
+    "key": "addeffect_054_0",
+    "original": "まれに老化付着",
+    "translation": "偶尔附加老化效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n偶尔附加老化\n\n罕见的老化附着"
+  },
+  {
+    "key": "addeffect_055_0",
+    "original": "ときどき老化付着",
+    "translation": "时常附加老化效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n时常附加老化\n\n有时老化附着"
+  },
+  {
+    "key": "addeffect_056_0",
+    "original": "頻繁に老化付着",
+    "translation": "频繁附加老化效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n频繁附加老化\n\n频繁的老化附着\n\n频繁老化附着"
+  },
+  {
+    "key": "addeffect_057_0",
+    "original": "まれに魔封付着",
+    "translation": "偶尔附加封魔效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n偶尔附加魔封\n\n罕见的魔封附着\n\n魔封附著"
+  },
+  {
+    "key": "addeffect_058_0",
+    "original": "ときどき魔封付着",
+    "translation": "时常附加封魔效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n时常附加魔封\n\n有时魔封附着\n\n魔封附著"
+  },
+  {
+    "key": "addeffect_059_0",
+    "original": "頻繁に魔封付着",
+    "translation": "频繁附加封魔效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n频繁附加魔封\n\n频繁魔封附着\n\n频繁的魔封附着"
+  },
+  {
+    "key": "addeffect_060_0",
+    "original": "クリティカル率小ＵＰ",
+    "translation": "暴击率小UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n会心一击率小UP\n\n关键率小UP\n\n临界率小UP"
+  },
+  {
+    "key": "addeffect_061_0",
+    "original": "クリティカル率中ＵＰ",
+    "translation": "暴击率中UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n会心一击率中UP\n\n关键率中UP\n\n临界率中UP"
+  },
+  {
+    "key": "addeffect_062_0",
+    "original": "クリティカル率大ＵＰ",
+    "translation": "暴击率大UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n会心一击率大UP\n\n关键率大UP\n\n关键率大幅提高"
+  },
+  {
+    "key": "addeffect_063_0",
+    "original": "全パラメータ１ＵＰ",
+    "translation": "全能力值1UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n全参数1UP\n\n所有参数1UP\n\n总参数1up"
+  },
+  {
+    "key": "addeffect_064_0",
+    "original": "全パラメータ２ＵＰ",
+    "translation": "全能力值2UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n全参数2UP\n\n所有参数2UP\n\n总参数2up"
+  },
+  {
+    "key": "addeffect_065_0",
+    "original": "全パラメータ３ＵＰ",
+    "translation": "全能力值3UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n全参数3UP\n\n所有参数3UP\n\n全参数3up"
+  },
+  {
+    "key": "addeffect_066_0",
+    "original": "全パラメータ４ＵＰ",
+    "translation": "全能力值4UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n全参数4UP\n\n所有参数4UP\n\n全参数4up"
+  },
+  {
+    "key": "addeffect_067_0",
+    "original": "全パラメータ５ＵＰ",
+    "translation": "全能力值5UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n全参数5UP\n\n所有参数5UP\n\n总参数5up"
+  },
+  {
+    "key": "addeffect_068_0",
+    "original": "火炎属性の攻撃力が２５％上昇",
+    "translation": "火炎属性攻击力上升25%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火炎属性攻击力上升25%\n\n火焰属性的攻击力上升25%\n\n火焰属性攻击力上升25%"
+  },
+  {
+    "key": "addeffect_069_0",
+    "original": "氷結属性の攻撃力が２５％上昇",
+    "translation": "冰冻属性攻击力上升25%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰冻属性攻击力上升25%\n\n冰冻属性的攻击力上升25%"
+  },
+  {
+    "key": "addeffect_070_0",
+    "original": "電撃属性の攻撃力が２５％上昇",
+    "translation": "电击属性攻击力上升25%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电击属性攻击力上升25%\n\n电击属性的攻击力上升25%"
+  },
+  {
+    "key": "addeffect_071_0",
+    "original": "疾風属性の攻撃力が２５％上昇",
+    "translation": "疾风属性攻击力上升25%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疾风属性攻击力上升25%\n\n疾风属性的攻击力上升25%"
+  },
+  {
+    "key": "addeffect_072_0",
+    "original": "物理攻撃をまれに反射",
+    "translation": "偶尔反弹物理攻击",
+    "stage": 1,
+    "context": "机翻辅助：\n\n偶尔反射物理攻击"
+  },
+  {
+    "key": "addeffect_073_0",
+    "original": "物理攻撃をときどき反射",
+    "translation": "时常反弹物理攻击",
+    "stage": 1,
+    "context": "机翻辅助：\n\n时常反射物理攻击\n\n偶尔反射物理攻击"
+  },
+  {
+    "key": "addeffect_074_0",
+    "original": "物理攻撃を頻繁に反射",
+    "translation": "频繁反弹物理攻击",
+    "stage": 1,
+    "context": "机翻辅助：\n\n频繁反射物理攻击"
+  },
+  {
+    "key": "addeffect_075_0",
+    "original": "状態異常・混乱に耐性",
+    "translation": "对异常状态·混乱有抗性",
+    "stage": 0,
+    "context": "机翻辅助：\n\n对异常状态·混乱有抗性\n\n对状态异常、混乱的耐性\n\n耐状态异常、混乱"
+  },
+  {
+    "key": "addeffect_076_0",
+    "original": "状態異常・毒に耐性",
+    "translation": "对异常状态·毒有抗性",
+    "stage": 0,
+    "context": "机翻辅助：\n\n对异常状态·毒有抗性\n\n对状态异常、毒耐受性\n\n对状态异常、毒的耐受性"
+  },
+  {
+    "key": "addeffect_077_0",
+    "original": "状態異常・恐怖に耐性",
+    "translation": "对异常状态·恐惧有抗性",
+    "stage": 1,
+    "context": "机翻辅助：\n\n异常状态·恐惧抗性\n\n耐状态异常、恐怖\n\n对状态异常、恐惧有耐性"
+  },
+  {
+    "key": "addeffect_078_0",
+    "original": "状態異常・激昂に耐性",
+    "translation": "对异常状态·激昂有抗性",
+    "stage": 1,
+    "context": "机翻辅助：\n\n异常状态·激昂抗性\n\n对状态异常、情绪激昂有耐性\n\n耐状态异常、激昂"
+  },
+  {
+    "key": "addeffect_079_0",
+    "original": "状態異常・気絶に耐性",
+    "translation": "对异常状态·昏迷有抗性",
+    "stage": 1,
+    "context": "机翻辅助：\n\n异常状态·昏迷抗性\n\n对状态异常、昏厥的耐性\n\n耐状态异常、晕厥"
+  },
+  {
+    "key": "addeffect_080_0",
+    "original": "状態異常・衰弱に耐性",
+    "translation": "对异常状态·衰弱有抗性",
+    "stage": 1,
+    "context": "机翻辅助：\n\n异常状态·衰弱抗性\n\n对状态异常、衰弱的耐受性\n\n耐状态异常、衰弱"
+  },
+  {
+    "key": "addeffect_081_0",
+    "original": "状態異常・老化に耐性",
+    "translation": "对异常状态·老化有抗性",
+    "stage": 1,
+    "context": "机翻辅助：\n\n异常状态·老化抗性\n\n对状态异常、老化的耐受性\n\n耐状态异常、老化"
+  },
+  {
+    "key": "addeffect_082_0",
+    "original": "状態異常・魔封に耐性",
+    "translation": "对异常状态·封魔有抗性",
+    "stage": 1,
+    "context": "机翻辅助：\n\n异常状态·魔封抗性\n\n对状态异常·魔封耐性\n\n状态异常·魔封耐性"
+  },
+  {
+    "key": "addeffect_083_0",
+    "original": "戦闘開始時にタルカジャ",
+    "translation": "战斗开始时自动开启塔尔卡加",
+    "stage": 1,
+    "context": "机翻辅助：\n\n战斗开始时塔尔卡加\n\n战斗开始时塔尔卡贾\n\n战斗开始时"
+  },
+  {
+    "key": "addeffect_084_0",
+    "original": "戦闘開始時にラクカジャ",
+    "translation": "战斗开始时自动开启拉库卡加",
+    "stage": 1,
+    "context": "机翻辅助：\n\n战斗开始时拉库卡加\n\n战斗开始时\n\n战斗开始的时候，"
+  },
+  {
+    "key": "addeffect_085_0",
+    "original": "戦闘開始時にスクカジャ",
+    "translation": "战斗开始时自动开启斯库卡加",
+    "stage": 1,
+    "context": "机翻辅助：\n\n战斗开始时斯库卡加\n\n战斗开始时\n\n战斗开始的时候"
+  },
+  {
+    "key": "addeffect_086_0",
+    "original": "力１０ＵＰ",
+    "translation": "力10UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n力量10UP\n\n力10UP\n\n力10up"
+  },
+  {
+    "key": "addeffect_087_0",
+    "original": "耐１０ＵＰ",
+    "translation": "耐10UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n耐久10UP\n\n耐10UP\n\n耐10up"
+  },
+  {
+    "key": "addeffect_088_0",
+    "original": "魔１０ＵＰ",
+    "translation": "魔10UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔力10UP\n\n魔10UP\n\n魔10up"
+  },
+  {
+    "key": "addeffect_089_0",
+    "original": "速１０ＵＰ",
+    "translation": "速10UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n速度10UP\n\n速10UP\n\n速10up"
+  },
+  {
+    "key": "addeffect_090_0",
+    "original": "運１０ＵＰ",
+    "translation": "运10UP",
+    "stage": 1,
+    "context": "机翻辅助：\n\n幸运10UP\n\n运10up\n\n运气10UP"
+  },
+  {
+    "key": "addeffect_091_0",
+    "original": "ＨＰ１００ＵＰ",
+    "translation": "HP100UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\nHP100UP"
+  },
+  {
+    "key": "addeffect_092_0",
+    "original": "まれに全バステ効果付着",
+    "translation": "偶尔附加全体异常状态效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n偶尔附加全体弱化效果\n\n罕见地附着全部巴斯德效果\n\n罕见的全浴手效果附着"
+  },
+  {
+    "key": "addeffect_093_0",
+    "original": "時々全バステ効果付着",
+    "translation": "时常附加全体异常状态效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n时常附加全体弱化效果\n\n有时会附着全部巴斯德效果\n\n有时全浴手效果附着"
+  },
+  {
+    "key": "addeffect_094_0",
+    "original": "頻繁に全バステ効果付着",
+    "translation": "频繁附加全体异常状态效果",
+    "stage": 1,
+    "context": "机翻辅助：\n\n频繁附加全体弱化效果\n\n频繁的全浴手效果附着\n\n经常附着全总线效应"
+  },
+  {
+    "key": "addeffect_095_0",
+    "original": "物理ダメージを１０％減少",
+    "translation": "物理伤害减少10%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n物理伤害减少10%"
+  },
+  {
+    "key": "addeffect_096_0",
+    "original": "物理ダメージを２０％減少",
+    "translation": "物理伤害减少20%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n物理伤害减少20%"
+  },
+  {
+    "key": "addeffect_097_0",
+    "original": "物理ダメージを３０％減少",
+    "translation": "物理伤害减少30%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n物理伤害减少30%"
+  },
+  {
+    "key": "addeffect_098_0",
+    "original": "火炎ダメージを１０％減少",
+    "translation": "火焰伤害减少10%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰伤害减少10%"
+  },
+  {
+    "key": "addeffect_099_0",
+    "original": "火炎ダメージを２０％減少",
+    "translation": "火焰伤害减少20%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰伤害减少20%"
+  },
+  {
+    "key": "addeffect_100_0",
+    "original": "火炎ダメージを３０％減少",
+    "translation": "火焰伤害减少30%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰伤害减少30%"
+  },
+  {
+    "key": "addeffect_101_0",
+    "original": "氷結ダメージを１０％減少",
+    "translation": "冰冻伤害减少10%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰冻伤害减少10%"
+  },
+  {
+    "key": "addeffect_102_0",
+    "original": "氷結ダメージを２０％減少",
+    "translation": "冰冻伤害减少20%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰冻伤害减少20%"
+  },
+  {
+    "key": "addeffect_103_0",
+    "original": "氷結ダメージを３０％減少",
+    "translation": "冰冻伤害减少30%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰冻伤害减少30%"
+  },
+  {
+    "key": "addeffect_104_0",
+    "original": "疾風ダメージを１０％減少",
+    "translation": "疾风伤害减少10%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疾风伤害减少10%"
+  },
+  {
+    "key": "addeffect_105_0",
+    "original": "疾風ダメージを２０％減少",
+    "translation": "疾风伤害减少20%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疾风伤害减少20%"
+  },
+  {
+    "key": "addeffect_106_0",
+    "original": "疾風ダメージを３０％減少",
+    "translation": "疾风伤害减少30%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疾风伤害减少30%"
+  },
+  {
+    "key": "addeffect_107_0",
+    "original": "電撃ダメージを１０％減少",
+    "translation": "电击伤害减少10%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电击伤害减少10%"
+  },
+  {
+    "key": "addeffect_108_0",
+    "original": "電撃ダメージを２０％減少",
+    "translation": "电击伤害减少20%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电击伤害减少20%"
+  },
+  {
+    "key": "addeffect_109_0",
+    "original": "電撃ダメージを３０％減少",
+    "translation": "电击伤害减少30%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电击伤害减少30%"
+  },
+  {
+    "key": "addeffect_110_0",
+    "original": "魔法ダメージを１０％減少",
+    "translation": "魔法伤害减少10%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n魔法伤害减少10%"
+  },
+  {
+    "key": "addeffect_111_0",
+    "original": "魔法ダメージを２０％減少",
+    "translation": "魔法伤害减少20%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n魔法伤害减少20%"
+  },
+  {
+    "key": "addeffect_112_0",
+    "original": "魔法ダメージを３０％減少",
+    "translation": "魔法伤害减少30%",
+    "stage": 0,
+    "context": "机翻辅助：\n\n魔法伤害减少30%"
+  },
+  {
+    "key": "addeffect_113_0",
+    "original": "スリップ率が低下",
+    "translation": "滑动率下降",
+    "stage": 0,
+    "context": "机翻辅助：\n\n滑动率下降\n\n滑移率降低\n\n打滑率降低"
+  },
+  {
+    "key": "addeffect_114_0",
+    "original": "スリップ率がやや低下",
+    "translation": "滑动率略微下降",
+    "stage": 1,
+    "context": "机翻辅助：\n\n滑动率微降\n\n滑移率稍低\n\n打滑率稍微降低"
+  },
+  {
+    "key": "addeffect_115_0",
+    "original": "スリップ率がかなり低下",
+    "translation": "滑动率大幅下降",
+    "stage": 0,
+    "context": "机翻辅助：\n\n滑动率大幅下降\n\n滑移率相当低\n\n打滑率非常低"
+  },
+  {
+    "key": "addeffect_116_0",
+    "original": "物理回避が上昇",
+    "translation": "物理回避率提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n物理闪避上升\n\n物理回避上升"
+  },
+  {
+    "key": "addeffect_117_0",
+    "original": "物理回避がやや上昇",
+    "translation": "物理回避率略微提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n物理闪避微升\n\n物理回避稍微上升\n\n物理闪避略有上升"
+  },
+  {
+    "key": "addeffect_118_0",
+    "original": "物理回避がかなり上昇",
+    "translation": "物理回避率大幅提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n物理闪避大幅上升\n\n物理闪避有相当大的提升\n\n物理回避大幅上升"
+  },
+  {
+    "key": "addeffect_119_0",
+    "original": "火炎回避が上昇",
+    "translation": "火焰回避率提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n火焰闪避上升\n\n火焰回避率上升\n\n火焰回避上升"
+  },
+  {
+    "key": "addeffect_120_0",
+    "original": "火炎回避がやや上昇",
+    "translation": "火焰回避率略微提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n火焰闪避微升\n\n火焰回避稍微上升\n\n火焰闪避略有上升"
+  },
+  {
+    "key": "addeffect_121_0",
+    "original": "火炎回避がかなり上昇",
+    "translation": "火焰回避率大幅提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n火焰闪避大幅上升\n\n火焰回避显著上升\n\n火焰回避相当高"
+  },
+  {
+    "key": "addeffect_122_0",
+    "original": "氷結回避が上昇",
+    "translation": "冰冻回避率提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n冰冻闪避上升\n\n冰封回避上升\n\n避免冰冻的概率上升"
+  },
+  {
+    "key": "addeffect_123_0",
+    "original": "氷結回避がやや上昇",
+    "translation": "冰冻回避率略微提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n冰冻闪避微升\n\n冰冻回避稍微上升\n\n回避冰冻有所上升"
+  },
+  {
+    "key": "addeffect_124_0",
+    "original": "氷結回避がかなり上昇",
+    "translation": "冰冻回避率大幅提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n冰冻闪避大幅上升\n\n冰冻回避相当高\n\n冰封回避大幅上升"
+  },
+  {
+    "key": "addeffect_125_0",
+    "original": "疾風回避が上昇",
+    "translation": "疾风回避率提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n疾风闪避上升\n\n疾风回避上升"
+  },
+  {
+    "key": "addeffect_126_0",
+    "original": "疾風回避がやや上昇",
+    "translation": "疾风回避率略微提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n疾风闪避微升\n\n疾风回避稍微上升"
+  },
+  {
+    "key": "addeffect_127_0",
+    "original": "疾風回避がかなり上昇",
+    "translation": "疾风回避率大幅提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n疾风回避大幅提升\n\n疾风回避大幅上升\n\n疾风回避相当高"
+  },
+  {
+    "key": "addeffect_128_0",
+    "original": "電撃回避が上昇",
+    "translation": "电击回避率提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n电击回避提升\n\n电击回避上升\n\n闪避上升"
+  },
+  {
+    "key": "addeffect_129_0",
+    "original": "電撃回避がやや上昇",
+    "translation": "电击回避率略微提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n电击回避略微提升\n\n电击回避稍微上升\n\n闪避略有上升"
+  },
+  {
+    "key": "addeffect_130_0",
+    "original": "電撃回避がかなり上昇",
+    "translation": "电击回避率大幅提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n电击回避大幅提升\n\n电击回避大幅上升\n\n闪避相当高"
+  },
+  {
+    "key": "addeffect_131_0",
+    "original": "魔法回避が上昇",
+    "translation": "魔法回避率提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔法回避提升\n\n魔法回避率上升\n\n魔法回避上升"
+  },
+  {
+    "key": "addeffect_132_0",
+    "original": "魔法回避がやや上昇",
+    "translation": "魔法回避率略微提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔法回避略微提升\n\n魔法回避稍微上升"
+  },
+  {
+    "key": "addeffect_133_0",
+    "original": "魔法回避がかなり上昇",
+    "translation": "魔法回避率大幅提升",
+    "stage": 1,
+    "context": "机翻辅助：\n\n魔法回避大幅提升\n\n魔法回避相当上升\n\n魔法回避相当高"
+  },
+  {
+    "key": "addeffect_134_0",
+    "original": "経験値１．５倍",
+    "translation": "经验值1.5倍",
+    "stage": 1,
+    "context": "机翻辅助：\n\n经验值1·5倍\n\n经验值1.5倍"
+  },
+  {
+    "key": "addeffect_135_0",
+    "original": "戦闘終了時にＳＰが半減",
+    "translation": "战斗结束时SP减半",
+    "stage": 0,
+    "context": "机翻辅助：\n\n战斗结束时SP减半"
+  },
+  {
+    "key": "addeffect_136_0",
+    "original": "カリスマ",
+    "translation": "超凡入圣",
+    "stage": 9,
+    "context": "翻译匹配：SMT3HD"
+  },
+  {
+    "key": "addeffect_137_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_138_0",
+    "original": "ＳＰ１００ＵＰ",
+    "translation": "SP100UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSP100UP\n\nSP 100UP"
+  },
+  {
+    "key": "addeffect_139_0",
+    "original": "全パラメータ１０ＵＰ",
+    "translation": "全能力值10UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n全能力值10UP\n\n所有参数10UP\n\n总参数10up"
+  },
+  {
+    "key": "addeffect_140_0",
+    "original": "ＳＰ消費量が３倍",
+    "translation": "SP消耗增为3倍",
+    "stage": 1,
+    "context": "机翻辅助：\n\nSP消费量3倍\n\n存储处理器消费量为3倍"
+  },
+  {
+    "key": "addeffect_141_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_142_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_143_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_144_0",
+    "original": "火炎耐性",
+    "translation": "火焰耐性",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "addeffect_145_0",
+    "original": "氷結耐性",
+    "translation": "冰冻耐性",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "addeffect_146_0",
+    "original": "疾風耐性",
+    "translation": "疾风耐性",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "addeffect_147_0",
+    "original": "電撃耐性",
+    "translation": "电击耐性",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "addeffect_148_0",
+    "original": "火炎反射",
+    "translation": "火焰反弹",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "addeffect_149_0",
+    "original": "氷結反射",
+    "translation": "冰冻反弹",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "addeffect_150_0",
+    "original": "疾風反射",
+    "translation": "疾风反弹",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "addeffect_151_0",
+    "original": "電撃反射",
+    "translation": "电击反弹",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "addeffect_152_0",
+    "original": "火炎吸収",
+    "translation": "火焰吸收",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "addeffect_153_0",
+    "original": "氷結吸収",
+    "translation": "冰冻吸收",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "addeffect_154_0",
+    "original": "疾風吸収",
+    "translation": "疾风吸收",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "addeffect_155_0",
+    "original": "電撃吸収",
+    "translation": "电击吸收",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "addeffect_156_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_157_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_158_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_159_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_160_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_161_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_162_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_163_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_164_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_165_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_166_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_167_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_168_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_169_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_170_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_171_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_172_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_173_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_174_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_175_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_176_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_177_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_178_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_179_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_180_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_181_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_182_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_183_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_184_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_185_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_186_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_187_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_188_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "addeffect_189_0",
+    "original": "火炎属性の攻撃力ＵＰ",
+    "translation": "火焰属性攻击力UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰属性攻击力UP\n\n火焰属性的攻击力上升\n\n火焰属性的攻击力UP"
+  },
+  {
+    "key": "addeffect_190_0",
+    "original": "氷結属性の攻撃力ＵＰ",
+    "translation": "冰冻属性攻击力UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰冻属性攻击力UP\n\n冰冻属性的攻击力上升\n\n冰冻属性的攻击力UP"
+  },
+  {
+    "key": "addeffect_191_0",
+    "original": "疾風属性の攻撃力ＵＰ",
+    "translation": "疾风属性攻击力UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疾风属性攻击力UP\n\n疾风属性的攻击力上升\n\n疾风属性的攻击力UP"
+  },
+  {
+    "key": "addeffect_192_0",
+    "original": "電撃属性の攻撃力ＵＰ",
+    "translation": "电击属性攻击力UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电击属性攻击力UP\n\n电击属性的攻击力上升\n\n电击属性的攻击力UP"
+  },
+  {
+    "key": "addeffect_193_0",
+    "original": "火炎属性のダメージ減少",
+    "translation": "火焰属性伤害减少",
+    "stage": 0,
+    "context": "机翻辅助：\n\n火焰属性伤害减少\n\n火焰属性的伤害减少"
+  },
+  {
+    "key": "addeffect_194_0",
+    "original": "氷結属性のダメージ減少",
+    "translation": "冰冻属性伤害减少",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冰冻属性伤害减少\n\n冰冻属性的伤害减少"
+  },
+  {
+    "key": "addeffect_195_0",
+    "original": "疾風属性のダメージ減少",
+    "translation": "疾风属性伤害减少",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疾风属性伤害减少\n\n疾风属性的伤害减少"
+  },
+  {
+    "key": "addeffect_196_0",
+    "original": "電撃属性のダメージ減少",
+    "translation": "电击属性伤害减少",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电击属性伤害减少\n\n电击属性的伤害减少"
+  }
+]

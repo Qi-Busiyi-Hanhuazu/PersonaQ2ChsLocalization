@@ -1,0 +1,478 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "新しい特別上映が追加されましたので、\nお知らせでございます。",
+    "translation": "新しい特別上映が追加されましたので、\nお知らせでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "今回の内容は皆さまには\n少々刺激的かもしれません…",
+    "translation": "今回の内容は皆さまには\n少々刺激的かもしれません…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "…むむ！　クマの鼻が言ってる！\nこれはアダルトなニオイクマ！",
+    "translation": "…むむ！　クマの鼻が言ってる！\nこれはアダルトなニオイクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "皆さまには、カモシティにあるという\nヒミツの社交場を見つけて頂きたいのです。",
+    "translation": "皆さまには、カモシティにあるという\nヒミツの社交場を見つけて頂きたいのです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "そこでは夜な夜な男女がくんずほぐれつ\n酒池肉林の宴を繰り広げているとか。",
+    "translation": "そこでは夜な夜な男女がくんずほぐれつ\n酒池肉林の宴を繰り広げているとか。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "くんずほぐれつ…",
+    "translation": "くんずほぐれつ…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ヒミツの社交場…",
+    "translation": "ヒミツの社交場…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おいおい…\nそんな場所、大丈夫なのかよ？",
+    "translation": "おいおい…\nそんな場所、大丈夫なのかよ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "行きたくないの？",
+    "translation": "行きたくないの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "陽介は留守番で",
+    "translation": "陽介は留守番で",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いや、行きたくないとは言ってねえし、\nむしろ気になるってか…",
+    "translation": "いや、行きたくないとは言ってねえし、\nむしろ気になるってか…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "先輩、ムッツリっすね。",
+    "translation": "先輩、ムッツリっすね。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "うっさい！",
+    "translation": "うっさい！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "夜の社交場…\nこれは多分、あの場所のことかな？",
+    "translation": "夜の社交場…\nこれは多分、あの場所のことかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "ゲームセンター？",
+    "translation": "ゲームセンター？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "ナイトクラブか",
+    "translation": "ナイトクラブか",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_2",
+    "original": "大浴場だな",
+    "translation": "大浴場だな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "まあ、ゲーセンも\n一種の盛り場だけど…",
+    "translation": "まあ、ゲーセンも\n一種の盛り場だけど…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ですが社交場ではありませんね。",
+    "translation": "ですが社交場ではありませんね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "たぶん、エリザベスさんが言っているのは\nナイトクラブのことかと。",
+    "translation": "たぶん、エリザベスさんが言っているのは\nナイトクラブのことかと。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ナイスガイやタフガイたちが\n熱い夜を過ごす、あの…",
+    "translation": "ナイスガイやタフガイたちが\n熱い夜を過ごす、あの…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "なんで俺を見るんスか！",
+    "translation": "なんで俺を見るんスか！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "よく分かりませんが、エリザベスさんが\n言っているのはナイトクラブのことでは？",
+    "translation": "よく分かりませんが、エリザベスさんが\n言っているのはナイトクラブのことでは？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "さすがのご明察…",
+    "translation": "さすがのご明察…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "今カモシティではＶＩＰのみが入れるという\nナイトクラブが大流行中でございます。",
+    "translation": "今カモシティではＶＩＰのみが入れるという\nナイトクラブが大流行中でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ナイトクラブか…",
+    "translation": "ナイトクラブか…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "あまり健全なイメージはないわね。",
+    "translation": "あまり健全なイメージはないわね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そう？",
+    "translation": "そう？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "そう？　って、\nまさかお前、遊び慣れてるクチ？",
+    "translation": "そう？　って、\nまさかお前、遊び慣れてるクチ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ヒューヒュー、不良少年クマね！\nじゃあここはチミにお任せクマ！",
+    "translation": "ヒューヒュー、不良少年クマね！\nじゃあここはチミにお任せクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "SEL_023_0",
+    "original": "頼りにしてる",
+    "translation": "頼りにしてる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_023_1",
+    "original": "夜遊びなら負けない",
+    "translation": "夜遊びなら負けない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "いや、お前だってそういうの得意だろ？\n新宿の店とか入り浸ってるみたいだし…",
+    "translation": "いや、お前だってそういうの得意だろ？\n新宿の店とか入り浸ってるみたいだし…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "そういやお前、相変わらず、\nあの新宿の店行ってるんだよな…",
+    "translation": "そういやお前、相変わらず、\nあの新宿の店行ってるんだよな…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "なんとここにもバッドボーイが！",
+    "translation": "なんとここにもバッドボーイが！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "まあ、こんだけ慣れてる奴らがいるんだし\nここは俺たち男子に任せとけよ。",
+    "translation": "まあ、こんだけ慣れてる奴らがいるんだし\nここは俺たち男子に任せとけよ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "え、任せるって？",
+    "translation": "え、任せるって？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ほら、か弱い女子に夜の街は\n危ないだろ？",
+    "translation": "ほら、か弱い女子に夜の街は\n危ないだろ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "エスコートするから、\nキミたちは黙ってついてきなさい。",
+    "translation": "エスコートするから、\nキミたちは黙ってついてきなさい。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "…アンタ、何か企んでない？",
+    "translation": "…アンタ、何か企んでない？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "い、いやぁ、これはあくまで\n紳士の心遣いっていうか…",
+    "translation": "い、いやぁ、これはあくまで\n紳士の心遣いっていうか…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "別にそこまで危険じゃないと思うけど…",
+    "translation": "別にそこまで危険じゃないと思うけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "せっかく、オトナな場所に行けんだぜ？\n女子陣の隙を突いてムフフな展開に…",
+    "translation": "せっかく、オトナな場所に行けんだぜ？\n女子陣の隙を突いてムフフな展開に…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "順平くん？",
+    "translation": "順平くん？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "何でもない！　何でもない！\nここはオレたちに任せとけって、な！",
+    "translation": "何でもない！　何でもない！\nここはオレたちに任せとけって、な！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "SEL_036_0",
+    "original": "任せてほしい",
+    "translation": "任せてほしい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_036_1",
+    "original": "信じてくれ",
+    "translation": "信じてくれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "ふむ…そういうことなら\nここは彼らに任せよう。",
+    "translation": "ふむ…そういうことなら\nここは彼らに任せよう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "本当にいいんですか？",
+    "translation": "本当にいいんですか？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "依頼としては、店を探すだけだろう。\nそう羽目を外すこともあるまい。",
+    "translation": "依頼としては、店を探すだけだろう。\nそう羽目を外すこともあるまい。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "あざっすセンパイ！\nいよっしゃ、張り切ってくぜ～！",
+    "translation": "あざっすセンパイ！\nいよっしゃ、張り切ってくぜ～！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "ではバッドボーイズな皆様、\nどうぞよろしくお願い致します。",
+    "translation": "ではバッドボーイズな皆様、\nどうぞよろしくお願い致します。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

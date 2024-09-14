@@ -1,0 +1,2116 @@
+[
+  {
+    "key": "BTL_MES_026_001_0",
+    "original": "ほぅ…歯応えのありそうなヤツだな。",
+    "translation": "ほぅ…歯応えのありそうなヤツだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_002_0",
+    "original": "そういう事だ！　気合を入れていけ！",
+    "translation": "そういう事だ！　気合を入れていけ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_003_0",
+    "original": "お、おい、そいつはヤバイぞっ！！",
+    "translation": "お、おい、そいつはヤバイぞっ！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_004_0",
+    "original": "撤退撤退！　分かったらすぐ逃げろ！",
+    "translation": "撤退撤退！　分かったらすぐ逃げろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_005_0",
+    "original": "む…今のお前達なら…",
+    "translation": "む…今のお前達なら…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_006_0",
+    "original": "だが、そいつは固いぞ。\nダメージを与える工夫が必要だな。",
+    "translation": "だが、そいつは固いぞ。\nダメージを与える工夫が必要だな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_007_0",
+    "original": "大技が厄介なヤツだ。\n油断するなよ。",
+    "translation": "大技が厄介なヤツだ。\n油断するなよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_008_0",
+    "original": "物理攻撃が厄介なヤツだ。\n忘れるな。",
+    "translation": "物理攻撃が厄介なヤツだ。\n忘れるな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_009_0",
+    "original": "魔法攻撃が面倒なヤツだ。\n抜かるなよ。",
+    "translation": "魔法攻撃が面倒なヤツだ。\n抜かるなよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_010_0",
+    "original": "弱ると暴れるタイプだな。\n倒すなら一気にやれ！",
+    "translation": "弱ると暴れるタイプだな。\n倒すなら一気にやれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_011_0",
+    "original": "おおっ、あの輝き…",
+    "translation": "おおっ、あの輝き…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_012_0",
+    "original": "お、おい、逃がすなよ！？",
+    "translation": "お、おい、逃がすなよ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_013_0",
+    "original": "むっ…全体攻撃を持ってるぞ！",
+    "translation": "むっ…全体攻撃を持ってるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_014_0",
+    "original": "仲間をよく見ろ！\nピンチな奴はいないか？",
+    "translation": "仲間をよく見ろ！\nピンチな奴はいないか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_015_0",
+    "original": "範囲攻撃を持ってるみたいだぞ！",
+    "translation": "範囲攻撃を持ってるみたいだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_016_0",
+    "original": "おい、防御を忘れるなよ！",
+    "translation": "おい、防御を忘れるなよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_017_0",
+    "original": "こいつ…即死攻撃を持ってるぞ！",
+    "translation": "こいつ…即死攻撃を持ってるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_018_0",
+    "original": "おい、気を抜くなよ！",
+    "translation": "おい、気を抜くなよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_019_0",
+    "original": "おい、今は属性攻撃はダメだぞ！",
+    "translation": "おい、今は属性攻撃はダメだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_020_0",
+    "original": "だったら物理攻撃でいけ！",
+    "translation": "だったら物理攻撃でいけ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_021_0",
+    "original": "次、デカイのくるぞ！",
+    "translation": "次、デカイのくるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_022_0",
+    "original": "しっかり防御しろ！",
+    "translation": "しっかり防御しろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_023_0",
+    "original": "これは…手強そうだな…",
+    "translation": "これは…手強そうだな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_024_0",
+    "original": "む、無茶はするなよ？\n死なれちゃ困るからな！",
+    "translation": "む、無茶はするなよ？\n死なれちゃ困るからな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_025_0",
+    "original": "む？　初めて見る奴がいるな…",
+    "translation": "む？　初めて見る奴がいるな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_026_0",
+    "original": "ではまずデータ集めだ！\n色々とやってみろ！",
+    "translation": "ではまずデータ集めだ！\n色々とやってみろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_027_0",
+    "original": "手ごろな相手じゃないか？",
+    "translation": "手ごろな相手じゃないか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_028_0",
+    "original": "つまり手ごろな獲物だ！\n締まっていけ！",
+    "translation": "つまり手ごろな獲物だ！\n締まっていけ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_029_0",
+    "original": "なんだ、雑魚だぞ。",
+    "translation": "なんだ、雑魚だぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_030_0",
+    "original": "ふん！　だったら瞬殺だな！",
+    "translation": "ふん！　だったら瞬殺だな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_031_0",
+    "original": "むっ、相手の属性が変わったぞ！",
+    "translation": "むっ、相手の属性が変わったぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_032_0",
+    "original": "チャンスだ！　弱点を突いてやれ！",
+    "translation": "チャンスだ！　弱点を突いてやれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_033_0",
+    "original": "ちっ、ダメだ！",
+    "translation": "ちっ、ダメだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_034_0",
+    "original": "つまり逃走失敗だ！　耐えろ！",
+    "translation": "つまり逃走失敗だ！　耐えろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_035_0",
+    "original": "うわっ！　こんな時に！？",
+    "translation": "うわっ！　こんな時に！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_036_0",
+    "original": "こいつＦ．Ｏ．Ｅだ！　まずいぞ！",
+    "translation": "こいつＦ．Ｏ．Ｅだ！　まずいぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_037_0",
+    "original": "注意しろ、危ないヤツがいる！",
+    "translation": "注意しろ、危ないヤツがいる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_038_0",
+    "original": "おい！　体力は大丈夫か！？",
+    "translation": "おい！　体力は大丈夫か！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_039_0",
+    "original": "おい、陽介は大丈夫なのか？",
+    "translation": "おい、陽介は大丈夫なのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_040_0",
+    "original": "千枝はこのままで大丈夫なのか！？",
+    "translation": "千枝はこのままで大丈夫なのか！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_041_0",
+    "original": "お、おい、このままじゃ\n雪子がやられるぞ！",
+    "translation": "お、おい、このままじゃ\n雪子がやられるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_043_0",
+    "original": "完二はあのままでいいのか？",
+    "translation": "完二はあのままでいいのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_044_0",
+    "original": "直斗は限界のようだな…",
+    "translation": "直斗は限界のようだな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_045_0",
+    "original": "おい！　誰かクマを見てやれ！",
+    "translation": "おい！　誰かクマを見てやれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_046_0",
+    "original": "うわ！　ゆかりがピンチだぞ！",
+    "translation": "うわ！　ゆかりがピンチだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_047_0",
+    "original": "おいっ、順平がまずそうだぞ！",
+    "translation": "おいっ、順平がまずそうだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_048_0",
+    "original": "明彦はいいのか？",
+    "translation": "明彦はいいのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_049_0",
+    "original": "誰か、美鶴を見てやれ！",
+    "translation": "誰か、美鶴を見てやれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_051_0",
+    "original": "アイギスの体力に注意しろ！",
+    "translation": "アイギスの体力に注意しろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_052_0",
+    "original": "乾のヤツ、辛そうだな…",
+    "translation": "乾のヤツ、辛そうだな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_053_0",
+    "original": "こらっ、コロマルを見てやれ！",
+    "translation": "こらっ、コロマルを見てやれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_054_0",
+    "original": "おい！　真次郎の状態を見てやれ！",
+    "translation": "おい！　真次郎の状態を見てやれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_055_0",
+    "original": "おい、死にそうなヤツが居るぞ！",
+    "translation": "おい、死にそうなヤツが居るぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_056_0",
+    "original": "お、おい、大丈夫か！？　囚人！",
+    "translation": "お、おい、大丈夫か！？　囚人！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_057_0",
+    "original": "おい、竜司のやつピンチだぞ！",
+    "translation": "おい、竜司のやつピンチだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_058_0",
+    "original": "むっ、杏は大丈夫なのか！？",
+    "translation": "むっ、杏は大丈夫なのか！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_059_0",
+    "original": "うーん…モルガナがやられそうだな…",
+    "translation": "うーん…モルガナがやられそうだな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_060_0",
+    "original": "おい、誰か祐介を見てやれ！",
+    "translation": "おい、誰か祐介を見てやれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_061_0",
+    "original": "おい、真は大丈夫なのか？",
+    "translation": "おい、真は大丈夫なのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_063_0",
+    "original": "春の体力がギリギリだな…",
+    "translation": "春の体力がギリギリだな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_064_0",
+    "original": "むっ、明智がやられそうだぞ？",
+    "translation": "むっ、明智がやられそうだぞ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_065_0",
+    "original": "すぐに体力回復をしておくんだな！",
+    "translation": "すぐに体力回復をしておくんだな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_066_0",
+    "original": "ちっ、石化か！",
+    "translation": "ちっ、石化か！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_067_0",
+    "original": "おい、呪いを受けてるのがいるぞ！",
+    "translation": "おい、呪いを受けてるのがいるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_068_0",
+    "original": "毒には注意しろよ！\n…ってもうなってるのか！？",
+    "translation": "毒には注意しろよ！\n…ってもうなってるのか！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_069_0",
+    "original": "おい、寝てるやつがいるぞ！",
+    "translation": "おい、寝てるやつがいるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_070_0",
+    "original": "混乱させられたか…",
+    "translation": "混乱させられたか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_071_0",
+    "original": "麻痺してるのがいるぞ！",
+    "translation": "麻痺してるのがいるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_072_0",
+    "original": "ちっ、気絶させられたか…",
+    "translation": "ちっ、気絶させられたか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_073_0",
+    "original": "魔封じとはちょこざいな…",
+    "translation": "魔封じとはちょこざいな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_074_0",
+    "original": "おい、力が封じられてるぞ。",
+    "translation": "おい、力が封じられてるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_075_0",
+    "original": "素早さが封じられたか…",
+    "translation": "素早さが封じられたか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_076_0",
+    "original": "素早く対処！　そして反撃だ！",
+    "translation": "素早く対処！　そして反撃だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_077_0",
+    "original": "物理属性なら弱点を突けそうだな",
+    "translation": "物理属性なら弱点を突けそうだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_078_0",
+    "original": "火炎に弱いのがいるぞ！",
+    "translation": "火炎に弱いのがいるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_079_0",
+    "original": "氷結なら弱点を突けるぞ！",
+    "translation": "氷結なら弱点を突けるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_080_0",
+    "original": "疾風に弱いのがいるな…",
+    "translation": "疾風に弱いのがいるな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_081_0",
+    "original": "電撃属性で弱点狙えるぞ！",
+    "translation": "電撃属性で弱点狙えるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_082_0",
+    "original": "核熱に弱いのがいるぞ！",
+    "translation": "核熱に弱いのがいるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_083_0",
+    "original": "念動属性なら弱点突けるな…",
+    "translation": "念動属性なら弱点突けるな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_084_0",
+    "original": "祝福属性で弱点を突けそうだ。",
+    "translation": "祝福属性で弱点を突けそうだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_085_0",
+    "original": "呪怨属性なら弱点を狙えそうだ。",
+    "translation": "呪怨属性なら弱点を狙えそうだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_086_0",
+    "original": "おい、物理で弱点狙えるぞ！",
+    "translation": "おい、物理で弱点狙えるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_087_0",
+    "original": "火炎弱点がいるな…\nよし、火あぶりの刑だ！",
+    "translation": "火炎弱点がいるな…\nよし、火あぶりの刑だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_088_0",
+    "original": "氷結属性が弱点のやつがいるな。",
+    "translation": "氷結属性が弱点のやつがいるな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_089_0",
+    "original": "弱点を突きたければ疾風を使え！",
+    "translation": "弱点を突きたければ疾風を使え！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_090_0",
+    "original": "電撃弱点がいるな…\n電気椅子は使えないか！？",
+    "translation": "電撃弱点がいるな…\n電気椅子は使えないか！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_091_0",
+    "original": "核熱なら弱点を突けそうだぞ！",
+    "translation": "核熱なら弱点を突けそうだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_092_0",
+    "original": "念動属性に弱いヤツがいるな。",
+    "translation": "念動属性に弱いヤツがいるな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_093_0",
+    "original": "祝福属性なら弱点が突ける！\n盛大に祝ってやるがいい！",
+    "translation": "祝福属性なら弱点が突ける！\n盛大に祝ってやるがいい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_094_0",
+    "original": "呪怨属性に弱いやつがいるぞ！",
+    "translation": "呪怨属性に弱いやつがいるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_095_0",
+    "original": "何をすべきかは分かっているな？",
+    "translation": "何をすべきかは分かっているな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_096_0",
+    "original": "利用しない手は無い！\n分かってるな？",
+    "translation": "利用しない手は無い！\n分かってるな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_097_0",
+    "original": "陽介、ガッカリさせるなよ？",
+    "translation": "陽介、ガッカリさせるなよ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_098_0",
+    "original": "千枝、やってしまえ！",
+    "translation": "千枝、やってしまえ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_099_0",
+    "original": "雪子ならいけるだろう。",
+    "translation": "雪子ならいけるだろう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_101_0",
+    "original": "完二、役に立って見せろ！",
+    "translation": "完二、役に立って見せろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_102_0",
+    "original": "直斗、今こそ目立つときだぞ！",
+    "translation": "直斗、今こそ目立つときだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_103_0",
+    "original": "クマ、ただのクマでないところを\n見せてみろ！",
+    "translation": "クマ、ただのクマでないところを\n見せてみろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_104_0",
+    "original": "ゆかり、分かっているな？",
+    "translation": "ゆかり、分かっているな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_105_0",
+    "original": "振るうがいい、順平！",
+    "translation": "振るうがいい、順平！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_106_0",
+    "original": "明彦、気合を入れろ！",
+    "translation": "明彦、気合を入れろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_107_0",
+    "original": "美鶴、お前の出番だ！",
+    "translation": "美鶴、お前の出番だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_109_0",
+    "original": "アイギスの得意分野じゃないか？",
+    "translation": "アイギスの得意分野じゃないか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_110_0",
+    "original": "どうだ、乾？\n活躍のしどころだぞ！",
+    "translation": "どうだ、乾？\n活躍のしどころだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_111_0",
+    "original": "コロマル、行くがいい！",
+    "translation": "コロマル、行くがいい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_112_0",
+    "original": "真次郎ならやれるだろう。",
+    "translation": "真次郎ならやれるだろう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_113_0",
+    "original": "よし！　ガンガン狙っていけ！",
+    "translation": "よし！　ガンガン狙っていけ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_114_0",
+    "original": "囚人、お前の出番だ！",
+    "translation": "囚人、お前の出番だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_115_0",
+    "original": "竜司、お前ならいけるだろう！",
+    "translation": "竜司、お前ならいけるだろう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_116_0",
+    "original": "杏、活躍しろ！",
+    "translation": "杏、活躍しろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_117_0",
+    "original": "モルガナ、締まっていけ！",
+    "translation": "モルガナ、締まっていけ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_118_0",
+    "original": "出番だぞ、祐介！",
+    "translation": "出番だぞ、祐介！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_119_0",
+    "original": "真ならいけるだろう！",
+    "translation": "真ならいけるだろう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_121_0",
+    "original": "春、出番だ！",
+    "translation": "春、出番だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_122_0",
+    "original": "明智、やれるな？",
+    "translation": "明智、やれるな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_123_0",
+    "original": "よし、このまま気を抜かずに行け。",
+    "translation": "よし、このまま気を抜かずに行け。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_124_0",
+    "original": "さて…次はどうする？",
+    "translation": "さて…次はどうする？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_125_0",
+    "original": "じっくり、だが早く考えるがいい。",
+    "translation": "じっくり、だが早く考えるがいい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_126_0",
+    "original": "こっちまでウズウズしてくるけどな。",
+    "translation": "こっちまでウズウズしてくるけどな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_127_0",
+    "original": "おい、バトンタッチしてはどうだ？",
+    "translation": "おい、バトンタッチしてはどうだ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_128_0",
+    "original": "つまりバトンタッチだ！",
+    "translation": "つまりバトンタッチだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_129_0",
+    "original": "お！　ブーストしてるヤツがいるぞ。",
+    "translation": "お！　ブーストしてるヤツがいるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_130_0",
+    "original": "よしよし、ブーストがかかっているな。",
+    "translation": "よしよし、ブーストがかかっているな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_131_0",
+    "original": "見ろ、陽介がブースト状態だ。",
+    "translation": "見ろ、陽介がブースト状態だ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_132_0",
+    "original": "千枝がブーストしてるぞ。",
+    "translation": "千枝がブーストしてるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_133_0",
+    "original": "ほら、雪子がブーストしてるぞ。",
+    "translation": "ほら、雪子がブーストしてるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_135_0",
+    "original": "お！　完二にブーストがかかったな！",
+    "translation": "お！　完二にブーストがかかったな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_136_0",
+    "original": "直斗がブーストしているぞ。",
+    "translation": "直斗がブーストしているぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_137_0",
+    "original": "クマ、なかなかいいブーストだ。",
+    "translation": "クマ、なかなかいいブーストだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_138_0",
+    "original": "良いブーストだぞ、ゆかり！",
+    "translation": "良いブーストだぞ、ゆかり！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_139_0",
+    "original": "お！　順平にブーストがかかったか。",
+    "translation": "お！　順平にブーストがかかったか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_140_0",
+    "original": "明彦め、ブーストしたな。",
+    "translation": "明彦め、ブーストしたな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_141_0",
+    "original": "美鶴を見ろ、ブーストしてるぞ！",
+    "translation": "美鶴を見ろ、ブーストしてるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_143_0",
+    "original": "よし、アイギスにブーストがかかった！",
+    "translation": "よし、アイギスにブーストがかかった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_144_0",
+    "original": "よし！　乾にブーストがかかった！",
+    "translation": "よし！　乾にブーストがかかった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_145_0",
+    "original": "コロマルがブースト状態だ。",
+    "translation": "コロマルがブースト状態だ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_146_0",
+    "original": "真次郎がブーストしてるぞ。",
+    "translation": "真次郎がブーストしてるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_147_0",
+    "original": "ブーストしてる仲間がいるな。",
+    "translation": "ブーストしてる仲間がいるな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_148_0",
+    "original": "おお！　いいブーストだ、囚人！",
+    "translation": "おお！　いいブーストだ、囚人！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_149_0",
+    "original": "竜司にブーストがかかったな。",
+    "translation": "竜司にブーストがかかったな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_150_0",
+    "original": "よし、杏がブーストだ！",
+    "translation": "よし、杏がブーストだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_151_0",
+    "original": "おお、モルガナがブーストしてるぞ。",
+    "translation": "おお、モルガナがブーストしてるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_152_0",
+    "original": "祐介を見ろ！　ブーストしてるぞ！",
+    "translation": "祐介を見ろ！　ブーストしてるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_153_0",
+    "original": "真、いいブーストだ！",
+    "translation": "真、いいブーストだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_155_0",
+    "original": "ほぉ…春がブーストしてるのか。",
+    "translation": "ほぉ…春がブーストしてるのか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_156_0",
+    "original": "明智がブースト状態だ。",
+    "translation": "明智がブースト状態だ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_157_0",
+    "original": "しかも弱点が狙えるぞ！\n…というか狙っていけぇ！",
+    "translation": "しかも弱点が狙えるぞ！\n…というか狙っていけぇ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_158_0",
+    "original": "弱点も狙えそうだ！　チャンスだぞ！",
+    "translation": "弱点も狙えそうだ！　チャンスだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_159_0",
+    "original": "サポート準備はできてるようだな。",
+    "translation": "サポート準備はできてるようだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_160_0",
+    "original": "サポートできるぞ。\nちゃんと使っていけ！",
+    "translation": "サポートできるぞ。\nちゃんと使っていけ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_161_0",
+    "original": "これは…かなりの強敵のようです。",
+    "translation": "これは…かなりの強敵のようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_162_0",
+    "original": "くれぐれも注意しなさい。",
+    "translation": "くれぐれも注意しなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_163_0",
+    "original": "これは…マズイですね…",
+    "translation": "これは…マズイですね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_164_0",
+    "original": "ええ、即時撤退を提案します。",
+    "translation": "ええ、即時撤退を提案します。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_165_0",
+    "original": "今のあなた達なら、\n倒せるかもしれませんね。",
+    "translation": "今のあなた達なら、\n倒せるかもしれませんね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_166_0",
+    "original": "ですが、防御が固いようです。\nなにか手段が必要かもしれません。",
+    "translation": "ですが、防御が固いようです。\nなにか手段が必要かもしれません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_167_0",
+    "original": "大きな攻撃を使ってきます。\nご注意を。",
+    "translation": "大きな攻撃を使ってきます。\nご注意を。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_168_0",
+    "original": "物理攻撃が面倒ですね。\nお気をつけください。",
+    "translation": "物理攻撃が面倒ですね。\nお気をつけください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_169_0",
+    "original": "魔法攻撃が得意な敵です。\nその点、お忘れなく。",
+    "translation": "魔法攻撃が得意な敵です。\nその点、お忘れなく。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_170_0",
+    "original": "手負いになると面倒な敵です。\n全力で行くのが良いかと。",
+    "translation": "手負いになると面倒な敵です。\n全力で行くのが良いかと。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_171_0",
+    "original": "あれは…レア物ですね。",
+    "translation": "あれは…レア物ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_172_0",
+    "original": "レア物ですね。\n決して逃さないように。",
+    "translation": "レア物ですね。\n決して逃さないように。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_173_0",
+    "original": "全体攻撃に注意をすることです。",
+    "translation": "全体攻撃に注意をすることです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_174_0",
+    "original": "全員の体力に注意を。",
+    "translation": "全員の体力に注意を。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_175_0",
+    "original": "範囲攻撃を持つ相手ですね。",
+    "translation": "範囲攻撃を持つ相手ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_176_0",
+    "original": "ここは防御を心がけなさい。",
+    "translation": "ここは防御を心がけなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_177_0",
+    "original": "即死攻撃を持つ相手ですね。",
+    "translation": "即死攻撃を持つ相手ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_178_0",
+    "original": "油断大敵…",
+    "translation": "油断大敵…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_179_0",
+    "original": "今は属性攻撃は無駄ですね…",
+    "translation": "今は属性攻撃は無駄ですね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_180_0",
+    "original": "物理攻撃に専念することです。",
+    "translation": "物理攻撃に専念することです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_181_0",
+    "original": "次、大きな攻撃がきますよ。",
+    "translation": "次、大きな攻撃がきますよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_182_0",
+    "original": "防御を怠らないように。",
+    "translation": "防御を怠らないように。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_183_0",
+    "original": "あなた方には強敵ですね。",
+    "translation": "あなた方には強敵ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_184_0",
+    "original": "危険なら逃走を推奨します。",
+    "translation": "危険なら逃走を推奨します。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_185_0",
+    "original": "データの無い相手がいますね…",
+    "translation": "データの無い相手がいますね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_186_0",
+    "original": "まずは素性を探るのが定石ですね。",
+    "translation": "まずは素性を探るのが定石ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_187_0",
+    "original": "強くも無く…弱くも無く…",
+    "translation": "強くも無く…弱くも無く…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_188_0",
+    "original": "手堅く倒してしまいなさい。",
+    "translation": "手堅く倒してしまいなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_189_0",
+    "original": "どうやら格下の相手ですね。",
+    "translation": "どうやら格下の相手ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_190_0",
+    "original": "では、手早く蹴散らしなさい。",
+    "translation": "では、手早く蹴散らしなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_191_0",
+    "original": "どうやら相手の属性が変わったようです。",
+    "translation": "どうやら相手の属性が変わったようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_192_0",
+    "original": "今なら弱点を突くことが可能です。",
+    "translation": "今なら弱点を突くことが可能です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_193_0",
+    "original": "逃走ルートが見つかりませんでした…",
+    "translation": "逃走ルートが見つかりませんでした…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_194_0",
+    "original": "逃げ道が見つかりません。",
+    "translation": "逃げ道が見つかりません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_195_0",
+    "original": "来てしまいましたね…",
+    "translation": "来てしまいましたね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_196_0",
+    "original": "Ｆ．Ｏ．Ｅです、注意しなさい。",
+    "translation": "Ｆ．Ｏ．Ｅです、注意しなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_197_0",
+    "original": "味方の状態に注意をすることです。",
+    "translation": "味方の状態に注意をすることです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_198_0",
+    "original": "危ない人がいますね。",
+    "translation": "危ない人がいますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_199_0",
+    "original": "陽介を放っておいていいのですか？",
+    "translation": "陽介を放っておいていいのですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_200_0",
+    "original": "千枝が危ない状態ですね。",
+    "translation": "千枝が危ない状態ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_201_0",
+    "original": "雪子がやられてしまいそうですね。",
+    "translation": "雪子がやられてしまいそうですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_203_0",
+    "original": "完二は最後までもつでしょうか…",
+    "translation": "完二は最後までもつでしょうか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_204_0",
+    "original": "直斗は大丈夫ですか？",
+    "translation": "直斗は大丈夫ですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_205_0",
+    "original": "クマ、ギリギリですね。",
+    "translation": "クマ、ギリギリですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_206_0",
+    "original": "ゆかりの体力に気をつけなさい。",
+    "translation": "ゆかりの体力に気をつけなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_207_0",
+    "original": "順平はこのままでいいのですか？",
+    "translation": "順平はこのままでいいのですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_208_0",
+    "original": "明彦が危険な様子ですが…",
+    "translation": "明彦が危険な様子ですが…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_209_0",
+    "original": "美鶴の体力に注意しなさい。",
+    "translation": "美鶴の体力に注意しなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_211_0",
+    "original": "アイギスは大丈夫ですか？",
+    "translation": "アイギスは大丈夫ですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_212_0",
+    "original": "乾は限界みたいですね。",
+    "translation": "乾は限界みたいですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_213_0",
+    "original": "コロマルに気をつけなさい。",
+    "translation": "コロマルに気をつけなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_214_0",
+    "original": "真次郎を放っておくのですか？",
+    "translation": "真次郎を放っておくのですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_215_0",
+    "original": "倒れる寸前の人がいますね。",
+    "translation": "倒れる寸前の人がいますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_216_0",
+    "original": "囚人、死ぬつもりですか？",
+    "translation": "囚人、死ぬつもりですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_217_0",
+    "original": "竜司の体力がギリギリですね。",
+    "translation": "竜司の体力がギリギリですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_218_0",
+    "original": "杏はこのままで良いのですか？",
+    "translation": "杏はこのままで良いのですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_219_0",
+    "original": "モルガナの体力に注意を。",
+    "translation": "モルガナの体力に注意を。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_220_0",
+    "original": "祐介…このままでは危険かと。",
+    "translation": "祐介…このままでは危険かと。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_221_0",
+    "original": "真はあのままで良いのですか？",
+    "translation": "真はあのままで良いのですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_223_0",
+    "original": "春が倒れそうですよ？",
+    "translation": "春が倒れそうですよ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_224_0",
+    "original": "明智は放っておくのですか？",
+    "translation": "明智は放っておくのですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_225_0",
+    "original": "まず、体力回復に専念すべきです。",
+    "translation": "まず、体力回復に専念すべきです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_226_0",
+    "original": "石化してる者がいますね。",
+    "translation": "石化してる者がいますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_227_0",
+    "original": "呪われた者がいます。",
+    "translation": "呪われた者がいます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_228_0",
+    "original": "毒を受けたようですね。",
+    "translation": "毒を受けたようですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_229_0",
+    "original": "寝てる者がいますよ？",
+    "translation": "寝てる者がいますよ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_230_0",
+    "original": "混乱していますね…",
+    "translation": "混乱していますね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_231_0",
+    "original": "麻痺してる者がいますが…",
+    "translation": "麻痺してる者がいますが…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_232_0",
+    "original": "気絶してるようですね…",
+    "translation": "気絶してるようですね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_233_0",
+    "original": "魔法が封じられています。",
+    "translation": "魔法が封じられています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_234_0",
+    "original": "力を封じられましたね。",
+    "translation": "力を封じられましたね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_235_0",
+    "original": "素早さを封じられてるようですが…\nあえて指示します。",
+    "translation": "素早さを封じられてるようですが…\nあえて指示します。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_236_0",
+    "original": "すぐにでも対処されてはどうです？",
+    "translation": "すぐにでも対処されてはどうです？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_237_0",
+    "original": "物理攻撃で弱点を突けますね。",
+    "translation": "物理攻撃で弱点を突けますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_238_0",
+    "original": "火炎に弱い者がいます。\n焼いてしまいなさい。",
+    "translation": "火炎に弱い者がいます。\n焼いてしまいなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_239_0",
+    "original": "弱点を狙うなら氷結属性です。",
+    "translation": "弱点を狙うなら氷結属性です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_240_0",
+    "original": "疾風に弱い者がいますね。",
+    "translation": "疾風に弱い者がいますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_241_0",
+    "original": "電撃弱点がいます。",
+    "translation": "電撃弱点がいます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_242_0",
+    "original": "核熱なら弱点を狙えますね。",
+    "translation": "核熱なら弱点を狙えますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_243_0",
+    "original": "念動に弱い者がいます。",
+    "translation": "念動に弱い者がいます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_244_0",
+    "original": "祝福属性が弱点の者がいますね。",
+    "translation": "祝福属性が弱点の者がいますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_245_0",
+    "original": "呪怨属性を使いなさい\n弱点を突きたければ。",
+    "translation": "呪怨属性を使いなさい\n弱点を突きたければ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_246_0",
+    "original": "物理属性に弱いとは…\n軟弱な敵ですね。",
+    "translation": "物理属性に弱いとは…\n軟弱な敵ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_247_0",
+    "original": "火炎弱点の者がいます。",
+    "translation": "火炎弱点の者がいます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_248_0",
+    "original": "氷結に弱い者がいますね。",
+    "translation": "氷結に弱い者がいますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_249_0",
+    "original": "疾風で弱点が突けそうです。",
+    "translation": "疾風で弱点が突けそうです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_250_0",
+    "original": "電撃なら弱点を突けますよ。",
+    "translation": "電撃なら弱点を突けますよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_251_0",
+    "original": "核熱に弱い者がいます。",
+    "translation": "核熱に弱い者がいます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_252_0",
+    "original": "念動なら弱点が狙えますね。",
+    "translation": "念動なら弱点が狙えますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_253_0",
+    "original": "祝福してやりなさい。\nそれが弱点の者がいます。",
+    "translation": "祝福してやりなさい。\nそれが弱点の者がいます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_254_0",
+    "original": "呪怨属性なら弱点を狙えます。",
+    "translation": "呪怨属性なら弱点を狙えます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_255_0",
+    "original": "出し惜しみは無しでいきなさい。",
+    "translation": "出し惜しみは無しでいきなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_256_0",
+    "original": "分かってますね？",
+    "translation": "分かってますね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_257_0",
+    "original": "陽介、期待に応えなさい。",
+    "translation": "陽介、期待に応えなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_258_0",
+    "original": "千枝、出番ですよ。",
+    "translation": "千枝、出番ですよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_259_0",
+    "original": "雪子ならやれますね。",
+    "translation": "雪子ならやれますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_261_0",
+    "original": "完二、漢を見せなさい。",
+    "translation": "完二、漢を見せなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_262_0",
+    "original": "では、直斗の出番です。",
+    "translation": "では、直斗の出番です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_263_0",
+    "original": "クマならいけますね？",
+    "translation": "クマならいけますね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_264_0",
+    "original": "ゆかり、どうですか？",
+    "translation": "ゆかり、どうですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_265_0",
+    "original": "順平、もっと役に立ちなさい。",
+    "translation": "順平、もっと役に立ちなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_266_0",
+    "original": "これは、明彦ですね。",
+    "translation": "これは、明彦ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_267_0",
+    "original": "美鶴なら攻撃可能では？",
+    "translation": "美鶴なら攻撃可能では？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_269_0",
+    "original": "アイギス、行きなさい。",
+    "translation": "アイギス、行きなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_270_0",
+    "original": "乾、活躍してみては？",
+    "translation": "乾、活躍してみては？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_271_0",
+    "original": "コロマル、行きなさい。",
+    "translation": "コロマル、行きなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_272_0",
+    "original": "ここは真次郎では？",
+    "translation": "ここは真次郎では？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_273_0",
+    "original": "やれる者がいるのではありませんか？",
+    "translation": "やれる者がいるのではありませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_274_0",
+    "original": "囚人、貴方の出番では？",
+    "translation": "囚人、貴方の出番では？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_275_0",
+    "original": "さあ竜司、活躍しなさい。",
+    "translation": "さあ竜司、活躍しなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_276_0",
+    "original": "杏の出番では？",
+    "translation": "杏の出番では？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_277_0",
+    "original": "モルガナ、やれませんか？",
+    "translation": "モルガナ、やれませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_278_0",
+    "original": "祐介ならばいけるのでは？",
+    "translation": "祐介ならばいけるのでは？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_279_0",
+    "original": "真、今こそ活躍の時です。",
+    "translation": "真、今こそ活躍の時です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_281_0",
+    "original": "春、貴方ならやれるのでは？",
+    "translation": "春、貴方ならやれるのでは？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_282_0",
+    "original": "明智、振るいなさい。",
+    "translation": "明智、振るいなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_283_0",
+    "original": "次はどう行動しますか？",
+    "translation": "次はどう行動しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_284_0",
+    "original": "こうして戦闘を眺めるのも新鮮ですね。",
+    "translation": "こうして戦闘を眺めるのも新鮮ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_285_0",
+    "original": "油断は禁物ですよ。",
+    "translation": "油断は禁物ですよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_286_0",
+    "original": "落ち着いて正しい選択をしなさい。",
+    "translation": "落ち着いて正しい選択をしなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_287_0",
+    "original": "役割を交代すれば、弱点を狙えますね。",
+    "translation": "役割を交代すれば、弱点を狙えますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_288_0",
+    "original": "弱点を突くには有効です。",
+    "translation": "弱点を突くには有効です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_289_0",
+    "original": "ブーストしているようですね。",
+    "translation": "ブーストしているようですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_290_0",
+    "original": "味方にブーストがかかってますね。",
+    "translation": "味方にブーストがかかってますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_291_0",
+    "original": "陽介がブーストしています。",
+    "translation": "陽介がブーストしています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_292_0",
+    "original": "見なさい。千枝がブーストしています。",
+    "translation": "見なさい。千枝がブーストしています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_293_0",
+    "original": "雪子がブーストしたようですね。",
+    "translation": "雪子がブーストしたようですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_295_0",
+    "original": "完二がブースト状態です。",
+    "translation": "完二がブースト状態です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_296_0",
+    "original": "直斗がブーストしてますね。",
+    "translation": "直斗がブーストしてますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_297_0",
+    "original": "クマがブーストです。",
+    "translation": "クマがブーストです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_298_0",
+    "original": "ゆかりにブーストがかかったようです。",
+    "translation": "ゆかりにブーストがかかったようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_299_0",
+    "original": "順平がブーストですね。",
+    "translation": "順平がブーストですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_300_0",
+    "original": "明彦がブーストしてますね。",
+    "translation": "明彦がブーストしてますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_301_0",
+    "original": "美鶴がブースト状態です。",
+    "translation": "美鶴がブースト状態です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_303_0",
+    "original": "アイギスがブースト状態です。",
+    "translation": "アイギスがブースト状態です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_304_0",
+    "original": "乾にブーストがかかったようです。",
+    "translation": "乾にブーストがかかったようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_305_0",
+    "original": "コロマルがブーストです。",
+    "translation": "コロマルがブーストです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_306_0",
+    "original": "真次郎がブーストしてますね…",
+    "translation": "真次郎がブーストしてますね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_307_0",
+    "original": "ブーストのかかった者がいますね。",
+    "translation": "ブーストのかかった者がいますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_308_0",
+    "original": "ブーストしましたね、囚人。",
+    "translation": "ブーストしましたね、囚人。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_309_0",
+    "original": "竜司がブーストです。",
+    "translation": "竜司がブーストです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_310_0",
+    "original": "杏がブースト状態ですね。",
+    "translation": "杏がブースト状態ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_311_0",
+    "original": "モルガナにブーストがかかりました。",
+    "translation": "モルガナにブーストがかかりました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_312_0",
+    "original": "祐介がブーストしています。",
+    "translation": "祐介がブーストしています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_313_0",
+    "original": "真がブースト状態ですよ。",
+    "translation": "真がブースト状態ですよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_315_0",
+    "original": "春にブーストがかかっています。",
+    "translation": "春にブーストがかかっています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_316_0",
+    "original": "明智がブーストです。",
+    "translation": "明智がブーストです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_317_0",
+    "original": "弱点も狙えますね、好機です。",
+    "translation": "弱点も狙えますね、好機です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_318_0",
+    "original": "ここは弱点攻撃、一択では？",
+    "translation": "ここは弱点攻撃、一択では？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_319_0",
+    "original": "サポートが使用できるようです。",
+    "translation": "サポートが使用できるようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_320_0",
+    "original": "サポートも戦略に含めては？",
+    "translation": "サポートも戦略に含めては？",
+    "stage": 1,
+    "context": ""
+  }
+]

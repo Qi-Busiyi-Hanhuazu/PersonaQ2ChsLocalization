@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ねえ、あれ何だろ？",
+    "translation": "ねえ、あれ何だろ？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "何かの機械みたいだけど…\nうーん、あたしにはさっぱりだわ。",
+    "translation": "何かの機械みたいだけど…\nうーん、あたしにはさっぱりだわ。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うむむむ…\nここからじゃ、よくわからん…",
+    "translation": "うむむむ…\nここからじゃ、よくわからん…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "別の道から進んだら、近くにいけるかもね。\nその時に調べてみたら？",
+    "translation": "別の道から進んだら、近くにいけるかもね。\nその時に調べてみたら？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ゆかり、グッジョブ！　絶対なにかあるぞ…\nう～…気になりＭＡＸだ！",
+    "translation": "ゆかり、グッジョブ！　絶対なにかあるぞ…\nう～…気になりＭＡＸだ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "みんな！　この扉の先から、\n草食恐竜の気配を感じるよ！",
+    "translation": "みんな！　この扉の先から、\n草食恐竜の気配を感じるよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "でも、なんだか様子がおかしいかも…\n一体、どうしたんだろ？",
+    "translation": "でも、なんだか様子がおかしいかも…\n一体、どうしたんだろ？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "マジか…\nこりゃ、警戒した方がいいかもしんねーな。",
+    "translation": "マジか…\nこりゃ、警戒した方がいいかもしんねーな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "ジョーカー、\nちゃんと準備できてるか？",
+    "translation": "ジョーカー、\nちゃんと準備できてるか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "もしかしたら、この先は危ねえかもな。\n大丈夫そーか？",
+    "translation": "もしかしたら、この先は危ねえかもな。\n大丈夫そーか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "行こう",
+    "translation": "行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "ちょっと待て",
+    "translation": "ちょっと待て",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "よっしゃ！　んじゃ、さっそく…！",
+    "translation": "よっしゃ！　んじゃ、さっそく…！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おう、用意しとくに\n越したことはねーしな！",
+    "translation": "おう、用意しとくに\n越したことはねーしな！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  }
+]

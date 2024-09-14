@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "到着っと！　じゃあ早速お肉を探そ！",
+    "translation": "到着っと！　じゃあ早速お肉を探そ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うっわ、すげー肉肉しい！\nこれぞ肉ってカンジ！",
+    "translation": "うっわ、すげー肉肉しい！\nこれぞ肉ってカンジ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ヨダレ出てんぞ？",
+    "translation": "ヨダレ出てんぞ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "えっへへ…そりゃ、こんな美味しそうな\n肉を前にしたら仕方ないですし。",
+    "translation": "えっへへ…そりゃ、こんな美味しそうな\n肉を前にしたら仕方ないですし。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "里中先輩が食いついてんなら、\n肉食恐竜も釣れそうっスね。",
+    "translation": "里中先輩が食いついてんなら、\n肉食恐竜も釣れそうっスね。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "さっそく、離れた場所に置いて\n恐竜を誘い出してみましょう。",
+    "translation": "さっそく、離れた場所に置いて\n恐竜を誘い出してみましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "でもこの肉、まだ凍ってるけど…\n大丈夫かな？",
+    "translation": "でもこの肉、まだ凍ってるけど…\n大丈夫かな？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "肉食恐竜は、獲物を嗅ぎつけるための嗅覚が\n発達していた…と聞いたことがあります。",
+    "translation": "肉食恐竜は、獲物を嗅ぎつけるための嗅覚が\n発達していた…と聞いたことがあります。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "冷凍のままより、匂いが強くなる状態に\nした方が、成功率は高くなるかと。",
+    "translation": "冷凍のままより、匂いが強くなる状態に\nした方が、成功率は高くなるかと。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "解凍しよう",
+    "translation": "解凍しよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "肉を料理しよう",
+    "translation": "肉を料理しよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_2",
+    "original": "クマも添えよう",
+    "translation": "クマも添えよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "解凍すれば匂いは強くなるけど、\nこれだけ大きいと…時間かかっちゃうね。",
+    "translation": "解凍すれば匂いは強くなるけど、\nこれだけ大きいと…時間かかっちゃうね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "匂いに反応するなら、\n肉を調理するのはどうだろう？",
+    "translation": "匂いに反応するなら、\n肉を調理するのはどうだろう？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "料理…！　それだ！",
+    "translation": "料理…！　それだ！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ギョエー！\nやっぱり慈悲はないクマかー！？",
+    "translation": "ギョエー！\nやっぱり慈悲はないクマかー！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "匂いに反応するなら、\n肉を調理するのはどうだろう？",
+    "translation": "匂いに反応するなら、\n肉を調理するのはどうだろう？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "賛成！　肉のいい匂いに、きっと恐竜も\nホイホイって来ちゃうはず！",
+    "translation": "賛成！　肉のいい匂いに、きっと恐竜も\nホイホイって来ちゃうはず！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "コンテナの中に調理道具もあったし、\n使わせて貰いましょう。",
+    "translation": "コンテナの中に調理道具もあったし、\n使わせて貰いましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ところでよ、どこで料理すんだよ？\n調理場なんてねーぞ？",
+    "translation": "ところでよ、どこで料理すんだよ？\n調理場なんてねーぞ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "映画館に戻る？",
+    "translation": "映画館に戻る？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "バカ、密室で料理させたら、\n俺ら死んじまうっての！",
+    "translation": "バカ、密室で料理させたら、\n俺ら死んじまうっての！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ちょっと、花村！\nそれ、どういうこと！？",
+    "translation": "ちょっと、花村！\nそれ、どういうこと！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "あっ！　いや、アレだよ、アレ…\nえ、えぇ～っと…",
+    "translation": "あっ！　いや、アレだよ、アレ…\nえ、えぇ～っと…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "SEL_021_0",
+    "original": "室内は危険だ",
+    "translation": "室内は危険だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_021_1",
+    "original": "器具がない",
+    "translation": "器具がない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "確かに、ジョーカーの言うとおりだな。",
+    "translation": "確かに、ジョーカーの言うとおりだな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "これだけ大きな肉だ。\n火力も並みのものでは難しいだろう。",
+    "translation": "これだけ大きな肉だ。\n火力も並みのものでは難しいだろう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "そーそー！　部屋ん中じゃ、危ねえって…！\n屋外でたき火とかがいんじゃね？",
+    "translation": "そーそー！　部屋ん中じゃ、危ねえって…！\n屋外でたき火とかがいんじゃね？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "…俺らがすぐ逃げられるように。",
+    "translation": "…俺らがすぐ逃げられるように。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "確かに、ジョーカーの言うとおりだ。\n映画館の施設にはコンロとかもなかったし…",
+    "translation": "確かに、ジョーカーの言うとおりだ。\n映画館の施設にはコンロとかもなかったし…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "そーそー！　だからさ、\n屋外でたき火とかすればいんじゃね？",
+    "translation": "そーそー！　だからさ、\n屋外でたき火とかすればいんじゃね？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "…俺らもすぐ逃げられるように。",
+    "translation": "…俺らもすぐ逃げられるように。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "しかし、屋外での調理となると\n山火事などの危険が伴うが…",
+    "translation": "しかし、屋外での調理となると\n山火事などの危険が伴うが…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "それじゃあ、念のため\nすぐ消火できるように川の近くがいいかも。",
+    "translation": "それじゃあ、念のため\nすぐ消火できるように川の近くがいいかも。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "この辺りの水辺で、\n調理できそうな場所を探しましょう。",
+    "translation": "この辺りの水辺で、\n調理できそうな場所を探しましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

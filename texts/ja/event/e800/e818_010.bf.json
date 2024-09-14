@@ -1,0 +1,282 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "今回の特別上映は、\n３種類の素材集めでございます。",
+    "translation": "今回の特別上映は、\n３種類の素材集めでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "早速、素材のスペシャリストから説明を…\nテオ！　おらぬのか、テオ！",
+    "translation": "早速、素材のスペシャリストから説明を…\nテオ！　おらぬのか、テオ！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "現れないならポップコーンマシーンの\n中身を全てきな粉に…",
+    "translation": "現れないならポップコーンマシーンの\n中身を全てきな粉に…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "た、只今！\n何でしょうか姉上？",
+    "translation": "た、只今！\n何でしょうか姉上？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "今回必要になる素材について\nこの方たちに説明を。",
+    "translation": "今回必要になる素材について\nこの方たちに説明を。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "はい、まずはテディベアですが、\nこちらはファントムメイジが落とします。",
+    "translation": "はい、まずはテディベアですが、\nこちらはファントムメイジが落とします。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "そしてカレイドスコープは時の砂時計…",
+    "translation": "そしてカレイドスコープは時の砂時計…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "遮光器土偶はバスタードライブから\nそれぞれ入手する事が出来ます。",
+    "translation": "遮光器土偶はバスタードライブから\nそれぞれ入手する事が出来ます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "いずれもシャドウのレアな部位…\nそれらをひん剥いてきて頂きたいのです。",
+    "translation": "いずれもシャドウのレアな部位…\nそれらをひん剥いてきて頂きたいのです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "レア素材とか、\n面倒なニオイしかしねえな…",
+    "translation": "レア素材とか、\n面倒なニオイしかしねえな…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そんなこと言わず！\nここは是非、お引き受けください！",
+    "translation": "そんなこと言わず！\nここは是非、お引き受けください！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "積極的だな",
+    "translation": "積極的だな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "どうしたの？",
+    "translation": "どうしたの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_2",
+    "original": "やだ",
+    "translation": "やだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "だね。何か理由でもあるの？",
+    "translation": "だね。何か理由でもあるの？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "なんかすごい前のめりだけど、\n理由でもあるの？",
+    "translation": "なんかすごい前のめりだけど、\n理由でもあるの？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "そんなご無体な！",
+    "translation": "そんなご無体な！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "まあまあ、ここまで言うんだから\n何か理由があるんだよ。ね、テオ？",
+    "translation": "まあまあ、ここまで言うんだから\n何か理由があるんだよ。ね、テオ？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "はい…今言った素材を集めれば、\nまた新たな装備を作ることができるのです。",
+    "translation": "はい…今言った素材を集めれば、\nまた新たな装備を作ることができるのです。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "指定の素材はどれも強度があります。\nこれらを組み合わせればさぞゴツい装備が…",
+    "translation": "指定の素材はどれも強度があります。\nこれらを組み合わせればさぞゴツい装備が…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "SEL_013_0",
+    "original": "そんなに強いの？",
+    "translation": "そんなに強いの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_013_1",
+    "original": "楽しみだ",
+    "translation": "楽しみだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_013_2",
+    "original": "ゴツいのか",
+    "translation": "ゴツいのか",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ええ、私の名前にかけて必ず\n満足いくものを作ると、お約束致します。",
+    "translation": "ええ、私の名前にかけて必ず\n満足いくものを作ると、お約束致します。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "強い装備は男のロマンだよな！",
+    "translation": "強い装備は男のロマンだよな！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ええ、私の名前にかけて必ず\n皆さまの満足いくものを作ってみせます。",
+    "translation": "ええ、私の名前にかけて必ず\n皆さまの満足いくものを作ってみせます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ゴツいのはなー…",
+    "translation": "ゴツいのはなー…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "あくまで強度の話ですので。",
+    "translation": "あくまで強度の話ですので。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "機能性、デザインについても、\n満足させてみせると、お約束致します。",
+    "translation": "機能性、デザインについても、\n満足させてみせると、お約束致します。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "まったく、神聖な特別上映を\n我欲で利用しようなど言語道断…",
+    "translation": "まったく、神聖な特別上映を\n我欲で利用しようなど言語道断…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "貴様、腹を斬れ！\nと、言いたいところですが…",
+    "translation": "貴様、腹を斬れ！\nと、言いたいところですが…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_019_2",
+    "original": "このように愚弟も首を差し出す\n覚悟ですので何とぞ。",
+    "translation": "このように愚弟も首を差し出す\n覚悟ですので何とぞ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "く、首！？",
+    "translation": "く、首！？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "…いえ、皆さまも命がけで\n素材を集めてくださるのです。",
+    "translation": "…いえ、皆さまも命がけで\n素材を集めてくださるのです。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_020_2",
+    "original": "私もそれだけの覚悟で臨みましょう。\nぜひぜひ、よろしくお願い致します。",
+    "translation": "私もそれだけの覚悟で臨みましょう。\nぜひぜひ、よろしくお願い致します。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  }
+]

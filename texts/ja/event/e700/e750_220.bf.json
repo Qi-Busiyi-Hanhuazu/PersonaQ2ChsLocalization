@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ジョーカー、見てくれ。\nこの床、何か仕掛けがありそうだ…",
+    "translation": "ジョーカー、見てくれ。\nこの床、何か仕掛けがありそうだ…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "これは…乗ればいいのか、な？",
+    "translation": "これは…乗ればいいのか、な？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "乗る",
+    "translation": "乗る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "やめておこう",
+    "translation": "やめておこう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああ、早速ためしてみよう！",
+    "translation": "ああ、早速ためしてみよう！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "明彦、止めろ。",
+    "translation": "明彦、止めろ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "後先考えずに、何が起きるか\n分からないものを触るんじゃない。",
+    "translation": "後先考えずに、何が起きるか\n分からないものを触るんじゃない。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "賢明だな。何が起きるかわからないものを\nむやみに触る必要はない。",
+    "translation": "賢明だな。何が起きるかわからないものを\nむやみに触る必要はない。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うーん、でも気になりますよね。\nさっきの装置と連動してる可能性もあるし。",
+    "translation": "うーん、でも気になりますよね。\nさっきの装置と連動してる可能性もあるし。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_005_5_0",
+    "original": "…ねえ、千枝。\nためしに乗ってみちゃおっか？",
+    "translation": "…ねえ、千枝。\nためしに乗ってみちゃおっか？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うえええ！？　い、いやー…\nそれはマズイんじゃん？",
+    "translation": "うえええ！？　い、いやー…\nそれはマズイんじゃん？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そうっスよ！\nやめろって言われたじゃないスか！？",
+    "translation": "そうっスよ！\nやめろって言われたじゃないスか！？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "そうなんだけど…やるなって言われると\nやりたくならない？　私だけかな。",
+    "translation": "そうなんだけど…やるなって言われると\nやりたくならない？　私だけかな。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ま、まあまあ…他に道がないなら、\n試してみるのも手かもしれないね。",
+    "translation": "ま、まあまあ…他に道がないなら、\n試してみるのも手かもしれないね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "そうだな。\n後はジョーカーの判断に任せよう。",
+    "translation": "そうだな。\n後はジョーカーの判断に任せよう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  }
+]

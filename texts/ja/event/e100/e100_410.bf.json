@@ -1,0 +1,478 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "カモシダーマン像をどう頂戴するか、\nさっそく作戦会議といこうぜ。",
+    "translation": "カモシダーマン像をどう頂戴するか、\nさっそく作戦会議といこうぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "作戦会議って新鮮…！\nこれぞ怪盗団って感じ！",
+    "translation": "作戦会議って新鮮…！\nこれぞ怪盗団って感じ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ハハ、もうすっかり馴染んでるね。",
+    "translation": "ハハ、もうすっかり馴染んでるね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "[P3P名]のおかげで、\n配電盤へのルートは確保できたしな。",
+    "translation": "[P3P名]のおかげで、\n配電盤へのルートは確保できたしな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで、像を照らすライトは\nいつでも切れるわけだ。",
+    "translation": "これで、像を照らすライトは\nいつでも切れるわけだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "暗闇にまぎれて像を奪う…",
+    "translation": "暗闇にまぎれて像を奪う…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "前に同じような作戦やったことあるし、\nできそうだけど…",
+    "translation": "前に同じような作戦やったことあるし、\nできそうだけど…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "問題は、像をどこへ\nどうやって運び出すかだ。",
+    "translation": "問題は、像をどこへ\nどうやって運び出すかだ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "見た目よりは軽くても、\nあの場から担いで脱出…は厳しいね。",
+    "translation": "見た目よりは軽くても、\nあの場から担いで脱出…は厳しいね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "像を運び出す、か…\nねえ、何かいい手ないかな？",
+    "translation": "像を運び出す、か…\nねえ、何かいい手ないかな？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "クレーン車で吊る",
+    "translation": "クレーン車で吊る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "誰かが囮になる",
+    "translation": "誰かが囮になる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_2",
+    "original": "思いつかない",
+    "translation": "思いつかない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "クレーンゲームみたいだね！\n面白そう！",
+    "translation": "クレーンゲームみたいだね！\n面白そう！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "でも、そんな大がかりな仕掛け\n出来そうな所はなかったぞ。",
+    "translation": "でも、そんな大がかりな仕掛け\n出来そうな所はなかったぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "うーん…悪くないと思ったんだけど。\nこう、空からヒョイッと…",
+    "translation": "うーん…悪くないと思ったんだけど。\nこう、空からヒョイッと…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "囮作戦か…悪くはないが…",
+    "translation": "囮作戦か…悪くはないが…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "釣竿の先にモルガナくっつけるか？",
+    "translation": "釣竿の先にモルガナくっつけるか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "エサじゃねーよ！",
+    "translation": "エサじゃねーよ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "じゃなくて、マコトとハルに加えて\n囮役まで捕まる可能性があるだろ！",
+    "translation": "じゃなくて、マコトとハルに加えて\n囮役まで捕まる可能性があるだろ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "そっか、それもそうだよね…",
+    "translation": "そっか、それもそうだよね…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "あーあ、カモシダーマンみたいに\nスーパーヒーローのパワーがあればなー。",
+    "translation": "あーあ、カモシダーマンみたいに\nスーパーヒーローのパワーがあればなー。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ＨＡＨＡＨＡって空から舞い降りて、\nヒョイッと担いで、サラダバー…",
+    "translation": "ＨＡＨＡＨＡって空から舞い降りて、\nヒョイッと担いで、サラダバー…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "それができたら苦労はしないね。",
+    "translation": "それができたら苦労はしないね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "待って、いけるかも！",
+    "translation": "待って、いけるかも！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "何が？",
+    "translation": "何が？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "空だよ！　空！",
+    "translation": "空だよ！　空！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "何か思いついたようだな。\n聞かせてもらえるか？",
+    "translation": "何か思いついたようだな。\n聞かせてもらえるか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "うん。これには、祐介をはじめ、\nみんなの力が必要なんだけど…",
+    "translation": "うん。これには、祐介をはじめ、\nみんなの力が必要なんだけど…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ふむふむ、なるほどな。\nアレをこうしてソレをああするわけか…",
+    "translation": "ふむふむ、なるほどな。\nアレをこうしてソレをああするわけか…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "すっごくいいアイデアだと思う！",
+    "translation": "すっごくいいアイデアだと思う！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "でしょでしょ！",
+    "translation": "でしょでしょ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "さすがアン殿だぜ。しかし肝心なのは…\nユースケ、どうなんだ？",
+    "translation": "さすがアン殿だぜ。しかし肝心なのは…\nユースケ、どうなんだ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "任せてくれ。\nあっと驚く仕掛けにしてみせよう。",
+    "translation": "任せてくれ。\nあっと驚く仕掛けにしてみせよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "よっしゃ！\nんじゃ、必要な物をそろえようぜ！",
+    "translation": "よっしゃ！\nんじゃ、必要な物をそろえようぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "私と竜司は、さっそくテオドアさんの\nトコに行ってくるね。",
+    "translation": "私と竜司は、さっそくテオドアさんの\nトコに行ってくるね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_031_1",
+    "original": "例のヤツが大量に必要になるから、\n用意してもらわなくちゃ！",
+    "translation": "例のヤツが大量に必要になるから、\n用意してもらわなくちゃ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "だな。計画が失敗しないように、\n丈夫なヤツ頼んでくるわ！",
+    "translation": "だな。計画が失敗しないように、\n丈夫なヤツ頼んでくるわ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "私と祐介くんは、ナギさんに道具を借りて\n制作に取り掛かるね。",
+    "translation": "私と祐介くんは、ナギさんに道具を借りて\n制作に取り掛かるね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "ほとんど祐介くん頼みだけど…私は\nアシストでも使い走りでも、何でもやるよ！",
+    "translation": "ほとんど祐介くん頼みだけど…私は\nアシストでも使い走りでも、何でもやるよ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "この喜多川祐介、完璧なものを用意しよう。\n俺の能力を活かせるとは…腕が鳴る。",
+    "translation": "この喜多川祐介、完璧なものを用意しよう。\n俺の能力を活かせるとは…腕が鳴る。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "わたし…\n少し、ひかりと話してきていいか？",
+    "translation": "わたし…\n少し、ひかりと話してきていいか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_036_0",
+    "original": "なにか用事？",
+    "translation": "なにか用事？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_036_1",
+    "original": "気になるのか？",
+    "translation": "気になるのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "そうじゃないけど…\nひかりと、もう少し話をしてみたい。",
+    "translation": "そうじゃないけど…\nひかりと、もう少し話をしてみたい。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "うん…\nひかりと、もう少し話をしてみたい。",
+    "translation": "うん…\nひかりと、もう少し話をしてみたい。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "なら、ワガハイもついて行ってやる。",
+    "translation": "なら、ワガハイもついて行ってやる。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_039_1",
+    "original": "フタバだけじゃ、言いたいことも言えるか\n分かんねーからな。",
+    "translation": "フタバだけじゃ、言いたいことも言えるか\n分かんねーからな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "モナ…！　助かるぞ！",
+    "translation": "モナ…！　助かるぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "…僕も、エリザベスさんの所に\n行ってきてもいいかな？",
+    "translation": "…僕も、エリザベスさんの所に\n行ってきてもいいかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "エリザベスさんに？",
+    "translation": "エリザベスさんに？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "ごめん、ちょっと…ね。\n私用で申し訳ないんだけど。",
+    "translation": "ごめん、ちょっと…ね。\n私用で申し訳ないんだけど。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "ま、人手は足りてるから大丈夫だろ。",
+    "translation": "ま、人手は足りてるから大丈夫だろ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_044_1",
+    "original": "[P5名]は準備が出来るまで、\nみんなの様子を見てやってくれ。",
+    "translation": "[P5名]は準備が出来るまで、\nみんなの様子を見てやってくれ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_044_2",
+    "original": "アイツら放っておくと心配だからな。\nよろしく頼むぞ！",
+    "translation": "アイツら放っておくと心配だからな。\nよろしく頼むぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "みんな、それぞれの場所へと\n向かっていった…",
+    "translation": "みんな、それぞれの場所へと\n向かっていった…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_045_1",
+    "original": "誰の様子を見に行こうか…",
+    "translation": "誰の様子を見に行こうか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_046_0",
+    "original": "[P3P名]と祐介の所に行く",
+    "translation": "[P3P名]と祐介の所に行く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_046_1",
+    "original": "杏と竜司の所に行く",
+    "translation": "杏と竜司の所に行く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_046_2",
+    "original": "モルガナと双葉の所に行く",
+    "translation": "モルガナと双葉の所に行く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_046_3",
+    "original": "明智とエリザベスの所に行く",
+    "translation": "明智とエリザベスの所に行く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

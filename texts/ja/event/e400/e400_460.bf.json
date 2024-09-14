@@ -1,0 +1,394 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "見つけたぜ。ここにいたのか！",
+    "translation": "見つけたぜ。ここにいたのか！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "もう逃げられんぞ。\n覚悟は出来てるんだろうな！？",
+    "translation": "もう逃げられんぞ。\n覚悟は出来てるんだろうな！？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "待って！",
+    "translation": "待って！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ひかり？　どうした！？",
+    "translation": "ひかり？　どうした！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "お願い…\nドーと、話をさせてほしいの。",
+    "translation": "お願い…\nドーと、話をさせてほしいの。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "えっ？　そんなの危険ですよ！",
+    "translation": "えっ？　そんなの危険ですよ！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "…ごめん。でも、どうしても\n話さなきゃいけない…そんな気がするの。",
+    "translation": "…ごめん。でも、どうしても\n話さなきゃいけない…そんな気がするの。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "わかった",
+    "translation": "わかった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "無理はするな",
+    "translation": "無理はするな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "…みんな、ありがとう。",
+    "translation": "…みんな、ありがとう。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ずっと、忘れててごめんなさい…",
+    "translation": "ずっと、忘れててごめんなさい…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "あなたは、私が捨てきれなかった気持ち。\n私が作った存在…そうなんでしょう？",
+    "translation": "あなたは、私が捨てきれなかった気持ち。\n私が作った存在…そうなんでしょう？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "はあぁ！？",
+    "translation": "はあぁ！？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "完二くん、シッ！\nしばらく様子を見てみよう？",
+    "translation": "完二くん、シッ！\nしばらく様子を見てみよう？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "全部、思い出したわけじゃない…\nでも分かるの。",
+    "translation": "全部、思い出したわけじゃない…\nでも分かるの。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "私は、ずっとお前を見ていた。\nずっと、ずっと。",
+    "translation": "私は、ずっとお前を見ていた。\nずっと、ずっと。",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "…私、あなたが怖かった。",
+    "translation": "…私、あなたが怖かった。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "いつも目を背けてた…\n向き合えなくて、怯えていた。",
+    "translation": "いつも目を背けてた…\n向き合えなくて、怯えていた。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_016_2",
+    "original": "それがどうしてなのか…\nやっと…やっと、思い出したよ。",
+    "translation": "それがどうしてなのか…\nやっと…やっと、思い出したよ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_016_3",
+    "original": "自分の心を壊そうとしていた私を、\nあなたに見られることが…怖かった、って…",
+    "translation": "自分の心を壊そうとしていた私を、\nあなたに見られることが…怖かった、って…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "そうだ…お前は、私から逃げたんだ。\n自分が傷つかないために。",
+    "translation": "そうだ…お前は、私から逃げたんだ。\n自分が傷つかないために。",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "こんな私、見られたくなかった。",
+    "translation": "こんな私、見られたくなかった。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "こんな自分になったのは\n仕方ないんだって、思い込みたかった。",
+    "translation": "こんな自分になったのは\n仕方ないんだって、思い込みたかった。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_018_2",
+    "original": "だから、私は…自分を納得させるために、\n歪んだ映画を見続けてたんだ。",
+    "translation": "だから、私は…自分を納得させるために、\n歪んだ映画を見続けてたんだ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ひかりちゃん…",
+    "translation": "ひかりちゃん…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "それでも、私…\n心の奥では、捨てきれなかった。",
+    "translation": "それでも、私…\n心の奥では、捨てきれなかった。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "あなたを…忘れられなかった。\n忘れたくないって、思ってたんだ。",
+    "translation": "あなたを…忘れられなかった。\n忘れたくないって、思ってたんだ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "…それが分かったところで、\nお前はなにがしたい？",
+    "translation": "…それが分かったところで、\nお前はなにがしたい？",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "わ、私は…ここから出たい。\nこの映画の結末を変えて、外に出る。",
+    "translation": "わ、私は…ここから出たい。\nこの映画の結末を変えて、外に出る。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "お前に、その覚悟があるのか？",
+    "translation": "お前に、その覚悟があるのか？",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "ここまで来たのは、お前の力じゃない。\nお前は、そこのヤツらと違って弱いのに。",
+    "translation": "ここまで来たのは、お前の力じゃない。\nお前は、そこのヤツらと違って弱いのに。",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "……っ！",
+    "translation": "……っ！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "思い出せ…向き合うこともできずに、\n逃げ続けた弱い自分を。",
+    "translation": "思い出せ…向き合うこともできずに、\n逃げ続けた弱い自分を。",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "全てを捨てれば、誰にも責められない。\n傷つかずにいたいんだろう？",
+    "translation": "全てを捨てれば、誰にも責められない。\n傷つかずにいたいんだろう？",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ち、違う…それは…",
+    "translation": "ち、違う…それは…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "やめて…！",
+    "translation": "やめて…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "SEL_027_0",
+    "original": "しっかりしろ！",
+    "translation": "しっかりしろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_027_1",
+    "original": "俺たちがついてる",
+    "translation": "俺たちがついてる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "そうだ、お前はひとりじゃない。\n一人きりでもう悩まなくていい。",
+    "translation": "そうだ、お前はひとりじゃない。\n一人きりでもう悩まなくていい。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ああ、ワガハイたちのことを\n忘れてもらっちゃ困るぜ！",
+    "translation": "ああ、ワガハイたちのことを\n忘れてもらっちゃ困るぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "み、んな…",
+    "translation": "み、んな…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ヴヴヴ…グ…アア…\nアアアアアアアアアッ！！",
+    "translation": "ヴヴヴ…グ…アア…\nアアアアアアアアアッ！！",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "これは…！？",
+    "translation": "これは…！？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "speaker_ドー",
+    "original": "ドー",
+    "translation": "ドー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "試写室前…",
+    "translation": "試写室前…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "クマの着ぐるみは、放置されたままだ。",
+    "translation": "クマの着ぐるみは、放置されたままだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "これまでの行動を考えると、\nクマ君の狙いは一つ…",
+    "translation": "これまでの行動を考えると、\nクマ君の狙いは一つ…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ええ。\nテオドアさんの新作ポップコーンですね。",
+    "translation": "ええ。\nテオドアさんの新作ポップコーンですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "でも、どうしてクマ君は\n普通に貰おうとしなかったんだろう？",
+    "translation": "でも、どうしてクマ君は\n普通に貰おうとしなかったんだろう？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "彼の性格から察するに、強引に他人から\n奪うとは考えづらいね。",
+    "translation": "彼の性格から察するに、強引に他人から\n奪うとは考えづらいね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "それなんですが、恐らく…",
+    "translation": "それなんですが、恐らく…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あれれ～？　ナオチャンとゴロー、\nこんなトコで何してるのー？",
+    "translation": "あれれ～？　ナオチャンとゴロー、\nこんなトコで何してるのー？",
+    "stage": 1,
+    "context": "熊田"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "クマくん！　探しましたよ！",
+    "translation": "クマくん！　探しましたよ！",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "およ？\nどうしたの、みんなそんな顔して？",
+    "translation": "およ？\nどうしたの、みんなそんな顔して？",
+    "stage": 1,
+    "context": "熊田"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "実はですね…",
+    "translation": "実はですね…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ひょえー！　クマが知らないうちに、\nそんなことになってたなんて…！",
+    "translation": "ひょえー！　クマが知らないうちに、\nそんなことになってたなんて…！",
+    "stage": 1,
+    "context": "熊田"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "クマ、なーんにもしてない！\n無罪よ！？",
+    "translation": "クマ、なーんにもしてない！\n無罪よ！？",
+    "stage": 1,
+    "context": "熊田"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ええ、分かってます。",
+    "translation": "ええ、分かってます。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "証言に登場するクマくんは、\n普段のクマくんとは違いすぎる。",
+    "translation": "証言に登場するクマくんは、\n普段のクマくんとは違いすぎる。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "どういうこと？",
+    "translation": "どういうこと？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "犯人は別人？",
+    "translation": "犯人は別人？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_2",
+    "original": "魔が差したのか",
+    "translation": "魔が差したのか",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "つまり、今までのはクマ君になりきった\n別人の仕業…そうだよね？",
+    "translation": "つまり、今までのはクマ君になりきった\n別人の仕業…そうだよね？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ああ、多分クマ君になりきった\n何者かがいる…そうだよね？",
+    "translation": "ああ、多分クマ君になりきった\n何者かがいる…そうだよね？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ギョエー！\nクマは無実！　信じて！",
+    "translation": "ギョエー！\nクマは無実！　信じて！",
+    "stage": 1,
+    "context": "熊田"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "分かってる。",
+    "translation": "分かってる。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "たぶんこれは、クマ君になりきった\n別人の仕業…そうだよね？",
+    "translation": "たぶんこれは、クマ君になりきった\n別人の仕業…そうだよね？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ええ、僕も同じ見解です。",
+    "translation": "ええ、僕も同じ見解です。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "そして問題は、一体誰が\nクマくんに成り代わっていたかですが…",
+    "translation": "そして問題は、一体誰が\nクマくんに成り代わっていたかですが…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "クマ君は今まで、試写室に？",
+    "translation": "クマ君は今まで、試写室に？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "イエース！\n試写室で、ヨースケたちと遊んでたの。",
+    "translation": "イエース！\n試写室で、ヨースケたちと遊んでたの。",
+    "stage": 1,
+    "context": "熊田"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "では、叫び声には\n気がつかなかったんですか？",
+    "translation": "では、叫び声には\n気がつかなかったんですか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "何も聞こえなかったと思いますです。",
+    "translation": "何も聞こえなかったと思いますです。",
+    "stage": 1,
+    "context": "熊田"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "おっきい音で映画を流してたから、\nそのせいかもしれんけど…",
+    "translation": "おっきい音で映画を流してたから、\nそのせいかもしれんけど…",
+    "stage": 1,
+    "context": "熊田"
+  },
+  {
+    "key": "MSG_020_2",
+    "original": "それで、マガチャンに怒られて\n追い出されちゃったのよねー。",
+    "translation": "それで、マガチャンに怒られて\n追い出されちゃったのよねー。",
+    "stage": 1,
+    "context": "熊田"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "いつもの着ぐるみはどうしたんだい？",
+    "translation": "いつもの着ぐるみはどうしたんだい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "お部屋が蒸し暑かったから、脱いで\n試写室の外に置いといたけど？",
+    "translation": "お部屋が蒸し暑かったから、脱いで\n試写室の外に置いといたけど？",
+    "stage": 1,
+    "context": "熊田"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "なるほど、犯人はそれを\n利用したってわけか…",
+    "translation": "なるほど、犯人はそれを\n利用したってわけか…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ええ、当時の状況が見えてきましたね。\nそして犯人の目星も…",
+    "translation": "ええ、当時の状況が見えてきましたね。\nそして犯人の目星も…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_025_0",
+    "original": "犯人は誰だ？",
+    "translation": "犯人は誰だ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_025_1",
+    "original": "見当はつく",
+    "translation": "見当はつく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "勿体ぶるつもりはないのですが、\nまだ、決定打が足りません。",
+    "translation": "勿体ぶるつもりはないのですが、\nまだ、決定打が足りません。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "犯人にしらばっくれられたら終わりです。",
+    "translation": "犯人にしらばっくれられたら終わりです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_026_2",
+    "original": "確信が持てるまで、まだ名前を口に\nすべきではないでしょう。",
+    "translation": "確信が持てるまで、まだ名前を口に\nすべきではないでしょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "なら、まだ決定打が足りないことにも\n気付いているでしょう。",
+    "translation": "なら、まだ決定打が足りないことにも\n気付いているでしょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "犯人にしらばっくれられたら終わりです。",
+    "translation": "犯人にしらばっくれられたら終わりです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_027_2",
+    "original": "確信が持てるまで、まだ名前を口に\nすべきではないでしょう。",
+    "translation": "確信が持てるまで、まだ名前を口に\nすべきではないでしょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "それなら、僕にいい考えがあるよ。",
+    "translation": "それなら、僕にいい考えがあるよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "ただ、そのためにはテオドアさんの\n『新作ポップコーン』が必要だ。",
+    "translation": "ただ、そのためにはテオドアさんの\n『新作ポップコーン』が必要だ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "となると、ポップコーンの材料を\n集める必要がありますね。",
+    "translation": "となると、ポップコーンの材料を\n集める必要がありますね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ああ。[P5名]、準備ができたら\n特別上映をこなしに行こう。",
+    "translation": "ああ。[P5名]、準備ができたら\n特別上映をこなしに行こう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_熊田",
+    "original": "熊田",
+    "translation": "熊田",
+    "stage": 1,
+    "context": ""
+  }
+]

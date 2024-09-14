@@ -1,0 +1,23 @@
+[
+  {
+    "key": "YESNO_SEL_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "MSG_TEST_0",
+    "original": "支配人を呼ぶを選んだ\nメッセージテストです。",
+    "translation": "选择了呼叫支配人\n的信息测试。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n选择呼叫经理\n这是信息测试。\n\n选择了叫经理\n信息测试。\n\n选择了召唤经理\n信息测试。"
+  }
+]

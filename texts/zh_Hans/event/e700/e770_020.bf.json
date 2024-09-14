@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ん？　なんだこれ？",
+    "translation": "嗯？这是什么？",
+    "stage": 0,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n嗯？这是什么？\n\n？这是什么？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "地図…の座標でしょうか？",
+    "translation": "地图的坐标吗？",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n是地图……的座标吗？\n\n是地图……的坐标吗？\n\n地图……的坐标吗？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "確かにそう見えるけど…",
+    "translation": "确实看起来是这样，但是……",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n看起来的确是这样没错……\n\n确实看起来是这样……"
+  },
+  {
+    "key": "MSG_002_1_0",
+    "original": "ナビ。\nこれを今の地図に当てはめることは出来る？",
+    "translation": "NAVI。\n能把这个标记在地图上吗？",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n导航。\n可以把这个套用到现在的地图上吗？\n\n导航。\n这个可以套用到现在的地图上吗？\n\n导航系统。\n这个可以用在现在的地图上吗？"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "お！　宝の地図か！？\n任せとけ！",
+    "translation": "哦！是藏宝图吗！？交给我吧！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n哦！藏宝图吗！\n交给我吧！\n\n哦！宝物地图！？\n交给我吧！\n\n您！藏宝图啊！？\n交给我吧！"
+  },
+  {
+    "key": "MSG_003_1_0",
+    "original": "ふむふむ…\nこれによると…地図のココと、ココ…",
+    "translation": "嗯嗯……根据这个……\n地图上的这里和这里……",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n嗯嗯……\n根据这个……地图的这里和这里……\n\n根据这个……地图上的可可和可可……"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これだ！\nぐふふ…どんなオタカラだろうな！",
+    "translation": "这就是了！\n唔呵呵……会是什么宝物呢！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n就是这个！\n呼呼呼……会是什么样的宝物呢！\n\n就是这个！\n呼呼……是什么宝物啊！\n\n就是这个！\n呵呵……是什么样的宝贝呢！"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白钟 直斗",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

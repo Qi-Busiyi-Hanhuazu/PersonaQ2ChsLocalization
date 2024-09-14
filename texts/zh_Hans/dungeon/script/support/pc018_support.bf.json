@@ -1,0 +1,527 @@
+[
+  {
+    "key": "YUSUKE_FOE_FOLLOW_START__0",
+    "original": "見つかったのか？",
+    "translation": "被发现了吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n被发现了吗？\n\n找到了吗？"
+  },
+  {
+    "key": "YUSUKE_FOE_FOLLOW_START__2_0",
+    "original": "Ｆ．Ｏ．Ｅが来ているぞ。",
+    "translation": "F.O.E来了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E来了。"
+  },
+  {
+    "key": "YUSUKE_FOE_FOLLOW_START__3_0",
+    "original": "追われているようだ…",
+    "translation": "似乎有人在追她……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n似乎有人在追她……\n\n好像被追赶着……"
+  },
+  {
+    "key": "YUSUKE_FOE_NEAR_1_0",
+    "original": "ぬお…いるぞ！",
+    "translation": "唔哦……真的有！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n唔哦……真的有！\n\n滑头……在啊！\n\n有啊！"
+  },
+  {
+    "key": "YUSUKE_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅ…実に奇怪だ…",
+    "translation": "F.O.E……实在很奇怪……",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E……实在很奇怪……\n\nF.O.E……真奇怪……\n\nF.O.E……真是奇怪……"
+  },
+  {
+    "key": "YUSUKE_FOE_NEAR_3_0",
+    "original": "近づきすぎだな…",
+    "translation": "太近了啦……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n太近了啦……\n\n靠得太近了……\n\n太近了啊……"
+  },
+  {
+    "key": "YUSUKE_FOE_FOLLOW_END_1_0",
+    "original": "うむ、もう大丈夫だ。",
+    "translation": "嗯，已经没问题了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯，已经没问题了。\n\n嗯，已经没事了。"
+  },
+  {
+    "key": "YUSUKE_FOE_FOLLOW_END_2_0",
+    "original": "よし、切り替えていこう。",
+    "translation": "好，转换心情吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，转换心情吧。\n\n好，切换一下吧。\n\n好，转换一下吧。"
+  },
+  {
+    "key": "YUSUKE_FOE_FOLLOW_END_3_0",
+    "original": "逃げ切ったようだな。",
+    "translation": "看来是成功甩掉他们了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看来是成功甩掉他们了。\n\n你好像逃过了。\n\n你好像跑完了。"
+  },
+  {
+    "key": "YUSUKE_KANSI_REACTION_1_0",
+    "original": "見張られているな…",
+    "translation": "被监视了啊……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n被监视了啊……\n\n被监视着啊……"
+  },
+  {
+    "key": "YUSUKE_KANSI_REACTION_2_0",
+    "original": "冷静に動けば大丈夫だ。",
+    "translation": "只要冷静行动就没问题。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n只要冷静行动就没问题。\n\n只要冷静地行动就没问题。\n\n冷静地行动就没问题了。"
+  },
+  {
+    "key": "YUSUKE_KANSI_REACTION_3_0",
+    "original": "よく考えて動こう。",
+    "translation": "仔细思考后再行动吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n仔细思考后再行动吧。\n\n好好考虑一下再行动吧。\n\n好好考虑再行动吧。"
+  },
+  {
+    "key": "YUSUKE_DENKISAKU_REACTIO_0",
+    "original": "恐ろしいトラップだ…",
+    "translation": "真是可怕的陷阱……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真是可怕的陷阱……\n\n可怕的陷阱……"
+  },
+  {
+    "key": "YUSUKE_DENKISAKU_REACTIO_2_0",
+    "original": "どうにかしないとマズイな。",
+    "translation": "再不想想办法就糟了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n再不想想办法就糟了。\n\n不想想办法就糟了。\n\n不做点什么就糟了。"
+  },
+  {
+    "key": "YUSUKE_DENKISAKU_REACTIO_3_0",
+    "original": "柵か…厄介なシロモノだ。",
+    "translation": "栅栏吗……真是个麻烦的东西。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n栅栏吗……真是个麻烦的东西。\n\n栅栏啊……是麻烦的白色东西。\n\n栅栏啊……真是个麻烦的家伙。"
+  },
+  {
+    "key": "YUSUKE_KYOUHU_REACTION_1_0",
+    "original": "ぬおっ！",
+    "translation": "唔哦！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n唔哦！\n\n哎呀！\n\n布！"
+  },
+  {
+    "key": "YUSUKE_KYOUHU_REACTION_2_0",
+    "original": "飛ぶぞ！",
+    "translation": "要飞喽！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要飞喽！\n\n飞吧！\n\n要飞了！"
+  },
+  {
+    "key": "YUSUKE_KYOUHU_REACTION_3_0",
+    "original": "いい風だ！",
+    "translation": "真是好风！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真是好风！\n\n好风！"
+  },
+  {
+    "key": "YUSUKE_STAIR_FIND_1_0",
+    "original": "先に進む道だ…",
+    "translation": "是前进的道路……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是前进的道路……"
+  },
+  {
+    "key": "YUSUKE_STAIR_FIND_2_0",
+    "original": "よし、先が見えたぞ。",
+    "translation": "好，看到终点了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，看到终点了。\n\n好吧，我看到前方了。\n\n好，我看到前方了。"
+  },
+  {
+    "key": "YUSUKE_STAIR_FIND_3_0",
+    "original": "道が繋がったな。",
+    "translation": "路通了啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n路通了啊。\n\n路连在一起了。\n\n路连起来了。"
+  },
+  {
+    "key": "YUSUKE_TREASURE_FIND_1_0",
+    "original": "オタカラだ、行こう。",
+    "translation": "有宝物，走吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有宝物，走吧。\n\n宝贝，我们走吧。\n\n宝贝，走吧。"
+  },
+  {
+    "key": "YUSUKE_TREASURE_FIND_2_0",
+    "original": "ふむ…食糧だと助かるんだが…",
+    "translation": "唔……粮食是能帮上大忙……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n唔……粮食是能帮上大忙……\n\n嗯……如果是粮食的话就帮大忙了……\n\n嗯……如果是粮食的话就好了……"
+  },
+  {
+    "key": "YUSUKE_TREASURE_FIND_3_0",
+    "original": "おい、オタカラを見逃すなよ。",
+    "translation": "喂，别放过宝物啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，别放过宝物啊。\n\n喂，不要放过宝贝。\n\n喂，别错过你的宝贝。"
+  },
+  {
+    "key": "YUSUKE_CHECK_WALL_1_0",
+    "original": "ん？　違和感がある…",
+    "translation": "嗯？感觉不太对劲……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯？感觉不太对劲……\n\n嗯？有不协调感……\n\n？有违和感……"
+  },
+  {
+    "key": "YUSUKE_CHECK_WALL_2_0",
+    "original": "そこに何かないか？",
+    "translation": "那里是不是有什么？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那里是不是有什么？\n\n那里有什么吗？"
+  },
+  {
+    "key": "YUSUKE_CHECK_WALL_3_0",
+    "original": "どうも気になるな…",
+    "translation": "感觉很在意啊……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n感觉很在意啊……\n\n总觉得很在意啊……"
+  },
+  {
+    "key": "YUSUKE_SWITCH_FIND_1_0",
+    "original": "スイッチだな。",
+    "translation": "是开关吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是开关吧。\n\n是开关。\n\n是开关啊。"
+  },
+  {
+    "key": "YUSUKE_SWITCH_FIND_2_0",
+    "original": "押したくなるな…",
+    "translation": "真想按下去……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真想按下去……\n\n想推啊……\n\n真想按……"
+  },
+  {
+    "key": "YUSUKE_SWITCH_FIND_3_0",
+    "original": "なあ、押すのか？",
+    "translation": "喂，要按吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，要按吗？\n\n喂，推吗？\n\n喂，要推吗？"
+  },
+  {
+    "key": "YUSUKE_SHORTCUT_FIND_1_0",
+    "original": "近道だ、覚えておこう。",
+    "translation": "是捷径吗？记下来吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是捷径吗？记下来吧。\n\n这是捷径，记住吧。\n\n这是近道，记住吧。"
+  },
+  {
+    "key": "YUSUKE_SHORTCUT_FIND_2_0",
+    "original": "通れそうだな、行くか？",
+    "translation": "好像能过去，要走吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像能过去，要走吗？\n\n好像可以通过，去吗？\n\n好像能通过，去吗？"
+  },
+  {
+    "key": "YUSUKE_SHORTCUT_FIND_3_0",
+    "original": "もしかして、近道か？",
+    "translation": "难道是捷径？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n难道是捷径？\n\n难道是近道吗？"
+  },
+  {
+    "key": "YUSUKE_FOE_WARNING_NEAR__0",
+    "original": "フィルム・オプスキュリテ・エタンデユ\nやつがきてるぞ！",
+    "translation": "FILM·OPSYCHURIT·ETHANEDYU\n那家伙来了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nFILM·OPSYCHURIT·ETHANEDYU\n那家伙来了！\n\n菲尔姆·奥普斯奎利特·埃坦德\n他来了！\n\nfilmopscurite etandeu\n那家伙来了！"
+  },
+  {
+    "key": "YUSUKE_FOE_WARNING_NEAR__2_0",
+    "original": "Ｆ．Ｏ．Ｅの気配があるな…",
+    "translation": "有F.O.E的气息……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有F.O.E的气息……\n\n有F.O.E的迹象啊……\n\n有F.O.E的气息啊……"
+  },
+  {
+    "key": "YUSUKE_FOE_WARNING_NEAR__3_0",
+    "original": "諦めの悪いやつだ。",
+    "translation": "这家伙真不死心。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这家伙真不死心。\n\n是个死心眼的坏家伙。\n\n真是个死心塌地的家伙。"
+  },
+  {
+    "key": "YUSUKE_1PERSON_HPTP10_1_0",
+    "original": "精も根も、尽きそうだ…",
+    "translation": "感觉都要精疲力尽了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n感觉都要精疲力尽了……\n\n精疲力竭……"
+  },
+  {
+    "key": "YUSUKE_1PERSON_HPTP10_2_0",
+    "original": "こちらの消耗が激しい…",
+    "translation": "我方消耗得很厉害……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我方消耗得很厉害……\n\n这边的消耗很大……"
+  },
+  {
+    "key": "YUSUKE_1PERSON_HPTP10_3_0",
+    "original": "腹が減っては戦はできんぞ…",
+    "translation": "饿着肚子可打不了仗……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n饿着肚子可打不了仗……\n\n肚子饿了就不能打仗了……\n\n肚子饿了就不能战斗了……"
+  },
+  {
+    "key": "YUSUKE_1PERSON_HP10_1_0",
+    "original": "回復が必要だ…",
+    "translation": "需要恢复……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n需要恢复……"
+  },
+  {
+    "key": "YUSUKE_1PERSON_HP10_2_0",
+    "original": "体力が…もたん…",
+    "translation": "体力……撑不住了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n体力……撑不住了……\n\n体力……也……\n\n体力……不……"
+  },
+  {
+    "key": "YUSUKE_1PERSON_HP10_3_0",
+    "original": "水では腹は膨れんな…",
+    "translation": "水是填不饱肚子的……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n水是填不饱肚子的……\n\n水肚子是胀不起来的……\n\n水不能胀肚子……"
+  },
+  {
+    "key": "YUSUKE_1PERSON_TP10_1_0",
+    "original": "空腹で…クラクラする…",
+    "translation": "饿着肚子……头都晕了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n饿着肚子……头都晕了……\n\n饿得晕头转向……\n\n我饿了……头晕目眩……"
+  },
+  {
+    "key": "YUSUKE_1PERSON_TP10_2_0",
+    "original": "消耗しすぎたようだ…",
+    "translation": "看来消耗得太厉害了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看来消耗得太厉害了……\n\n好像消耗太多了……"
+  },
+  {
+    "key": "YUSUKE_1PERSON_TP10_3_0",
+    "original": "休ませてもらえないか…？",
+    "translation": "能让我休息一下吗……？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n能让我休息一下吗……？\n\n能让我休息吗……？"
+  },
+  {
+    "key": "YUSUKE_1PERSON_HP80_1_0",
+    "original": "調子は上々だ、行こう。",
+    "translation": "状况不错，走吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n状况不错，走吧。\n\n状态很好，走吧。"
+  },
+  {
+    "key": "YUSUKE_1PERSON_HP80_2_0",
+    "original": "うむ、いい塩梅だ。",
+    "translation": "嗯，感觉正好。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯，感觉正好。\n\n嗯，很好的咸梅。\n\n嗯，味道不错。"
+  },
+  {
+    "key": "YUSUKE_1PERSON_HP80_3_0",
+    "original": "いざ、進むとしよう。",
+    "translation": "那就前进吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那就前进吧。\n\n喂，前进吧。"
+  },
+  {
+    "key": "YUSUKE_DUNGEON_START_1_0",
+    "original": "いざ、始めるとしよう。",
+    "translation": "那就开始吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那就开始吧。\n\n那么，开始吧。"
+  },
+  {
+    "key": "YUSUKE_DUNGEON_START_2_0",
+    "original": "準備万端だ、行くぞ。",
+    "translation": "准备万全，走吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n准备万全，走吧。\n\n一切准备就绪，走吧。\n\n一切都准备好了，走吧。"
+  },
+  {
+    "key": "YUSUKE_DUNGEON_START_3_0",
+    "original": "インスピレーションを求めて！",
+    "translation": "去寻求灵感！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去寻求灵感！\n\n寻求灵感！\n\n寻找灵感！"
+  },
+  {
+    "key": "YUSUKE_QUEST_START_1_0",
+    "original": "仕事の時間だ。",
+    "translation": "工作时间到了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n工作时间到了。"
+  },
+  {
+    "key": "YUSUKE_QUEST_START_2_0",
+    "original": "どう攻略するか…",
+    "translation": "该怎么攻略呢……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n该怎么攻略呢……\n\n如何攻克……\n\n如何攻略……"
+  },
+  {
+    "key": "YUSUKE_QUEST_START_3_0",
+    "original": "早速はじめよう。",
+    "translation": "赶快开始吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n赶快开始吧。\n\n马上开始吧。"
+  },
+  {
+    "key": "YUSUKE_TOUHA_25_1_0",
+    "original": "仕上がりが楽しみだ。",
+    "translation": "真期待成品。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真期待成品。\n\n期待完成。"
+  },
+  {
+    "key": "YUSUKE_TOUHA_25_2_0",
+    "original": "悪くないスタートだ。",
+    "translation": "不错的开始。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不错的开始。\n\n这是个不错的开始。"
+  },
+  {
+    "key": "YUSUKE_TOUHA_50_1_0",
+    "original": "見えてきたな。",
+    "translation": "开始看到了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n开始看到了。\n\n看到了啊。\n\n看出来了。"
+  },
+  {
+    "key": "YUSUKE_TOUHA_50_2_0",
+    "original": "山を超えたな、いいぞ。",
+    "translation": "翻过山了，很好。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n翻过山了，很好。\n\n你翻山了，好啊。\n\n翻过山了，好啊。"
+  },
+  {
+    "key": "YUSUKE_TOUHA_75_1_0",
+    "original": "そろそろ仕上げだな。",
+    "translation": "差不多该收尾了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n差不多该收尾了。\n\n差不多该完成了。\n\n差不多该做完了。"
+  },
+  {
+    "key": "YUSUKE_TOUHA_75_2_0",
+    "original": "ディティールに移ろうか。",
+    "translation": "开始细部调整吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n开始细部调整吧。\n\n我们转移到迪蒂尔吧。\n\n转移到细节上吧。"
+  },
+  {
+    "key": "YUSUKE_TOUHA_100_1_0",
+    "original": "完成か…素晴らしい。",
+    "translation": "完成了吗……太棒了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n完成了吗……太棒了。"
+  },
+  {
+    "key": "YUSUKE_TOUHA_100_2_0",
+    "original": "ほう…見事な地図だな。",
+    "translation": "哦……好漂亮的地图。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦……好漂亮的地图。\n\n哦……好漂亮的地图啊。\n\n啊……好漂亮的地图啊。"
+  },
+  {
+    "key": "YUSUKE_MAPPING_ICON_ALL__0",
+    "original": "それがいい。",
+    "translation": "这样就好。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这样就好。\n\n那个好。\n\n那就好。"
+  },
+  {
+    "key": "YUSUKE_MAPPING_ICON_ALL__2_0",
+    "original": "正しい配置だ。",
+    "translation": "正确的配置。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n正确的配置。\n\n这是正确的配置。\n\n是正确的配置。"
+  },
+  {
+    "key": "YUSUKE_MAPPING_ICON_KAID_0",
+    "original": "そう、そこだ。",
+    "translation": "没错，就是那里。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没错，就是那里。\n\n对，就是那里。"
+  },
+  {
+    "key": "YUSUKE_MAPPING_ICON_KAID_2_0",
+    "original": "やるな。",
+    "translation": "厉害啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n厉害啊。\n\n不要做。\n\n别干了。"
+  },
+  {
+    "key": "YUSUKE_MAPPING_CHANGE_CO_0",
+    "original": "芸術だな…",
+    "translation": "艺术啊……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n艺术啊……\n\n真是艺术啊……\n\n是艺术啊……"
+  },
+  {
+    "key": "YUSUKE_MAPPING_CHANGE_CO_2_0",
+    "original": "ふむ、その色を使うか。",
+    "translation": "嗯，用那种颜色吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯，用那种颜色吧。\n\n嗯，用那个颜色吗。\n\n嗯，要用那个颜色吗？"
+  },
+  {
+    "key": "YUSUKE_MAPPING_ICON_DEL__0",
+    "original": "引き算も大切だな。",
+    "translation": "减法也很重要。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n减法也很重要。\n\n减法也很重要啊。"
+  },
+  {
+    "key": "YUSUKE_MAPPING_ICON_DEL__2_0",
+    "original": "ほう、潔い。",
+    "translation": "嚯，真是干脆。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嚯，真是干脆。\n\n嗬，好干净。\n\n哦，干净。"
+  },
+  {
+    "key": "YUSUKE_MAPPING_MEMO_1_0",
+    "original": "メモはありがたい。",
+    "translation": "笔记真是帮大忙了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n笔记真是帮大忙了。\n\n谢谢你的笔记。\n\n笔记很好。"
+  },
+  {
+    "key": "YUSUKE_MAPPING_MEMO_2_0",
+    "original": "何を書いたんだ？",
+    "translation": "上面写了些什么呢？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n上面写了些什么呢？\n\n你写了什么？"
+  },
+  {
+    "key": "YUSUKE_DOOR_OPEN_1_0",
+    "original": "行こう。",
+    "translation": "走吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n走吧。"
+  },
+  {
+    "key": "YUSUKE_DOOR_OPEN_2_0",
+    "original": "こっちだ。",
+    "translation": "在这边。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n在这边。\n\n这边。"
+  },
+  {
+    "key": "YUSUKE_DOOR_OPEN_3_0",
+    "original": "いざ！",
+    "translation": "好！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好！\n\n来吧！\n\n嘿！"
+  }
+]

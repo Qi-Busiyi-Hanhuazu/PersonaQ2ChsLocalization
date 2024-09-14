@@ -1,0 +1,135 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ＨＡＨＡＨＡ！",
+    "translation": "哈哈哈！",
+    "stage": 1,
+    "context": "说话人：カモシダーマン\n\n机翻辅助：\n\nHAHAHA！\n\nHAHAHA ！"
+  },
+  {
+    "key": "MSG_000_5_0",
+    "original": "絶対正義、カモシダーマン参上！\n悪党ども覚悟しろ！！",
+    "translation": "绝对正义，鸭志田超人登场！\n恶棍们做好准备好了吗！！",
+    "stage": 1,
+    "context": "说话人：カモシダーマン\n\n机翻辅助：\n\n绝对正义，鸭志田超人参见！\n坏蛋们觉悟吧！！\n\n绝对正义，鸭志田超人参上！\n恶棍们做好心理准备！！\n\n绝对正义，鸭志田超人参见！恶徒们也要觉悟！！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ハッ！\n怪盗団の力、見せてやるよ！",
+    "translation": "哈！\n就让你见识见识怪盗团的厉害！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n哈！\n让你们见识一下怪盗团的力量！\n\n哈！\n给你看怪盗团的力量！\n\n哈！让你见识一下怪盗团的力量！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ＨＡＨＡＨＡ！",
+    "translation": "哈哈哈！",
+    "stage": 1,
+    "context": "说话人：カモシダーマン\n\n机翻辅助：\n\nHAHAHA！\n\nHAHAHA ！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "全然効いてねえ！？",
+    "translation": "完全没有效果吗？！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n完全没用！？\n\n完全没有效果！？\n\n完全有效啊！？"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "当たってはいるようだが…",
+    "translation": "攻击应该是命中了……",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n虽然好像有打中……\n\n好像猜中了……\n\n好像说中了……"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "だから言っただろう？",
+    "translation": "所以我告诫过你们了吧？",
+    "stage": 1,
+    "context": "说话人：カモシダーマン\n\n机翻辅助：\n\n所以我不是说了吗？\n\n所以说了吧？"
+  },
+  {
+    "key": "MSG_007_5_0",
+    "original": "これが、絶対正義の…\n絶対的な権力者である私の力だ！",
+    "translation": "这就是绝对正义的……\n绝对权威者我的力量！",
+    "stage": 1,
+    "context": "说话人：カモシダーマン\n\n机翻辅助：\n\n这就是绝对正义的……\n身为绝对权力者的我的力量！\n\n这就是绝对正义的……\n这是身为绝对权力者的我的力量！\n\n这就是我绝对正义的力量！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "やっぱりダメっ！？",
+    "translation": "果然不行吗？！",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n果然还是不行！？\n\n果然不行！？"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "か、身体に…\n力が入んないっていうか…",
+    "translation": "啊，\n身体好像使不上劲还是说……",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n身、身体……\n使不上力气……\n\n吗，身体上……\n应该说是不用力吧……\n\n还是说身体没有力量呢……"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "くっ、上手く動けないね…\n本当に逆らえなくなってるみたいだ…",
+    "translation": "哎呀，并不能随心所以的使用力量……\n好像真的是没法反抗的感觉……",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n唔，动不了啊……\n好像真的无法反抗了……\n\n啊，不能很好地行动啊……\n好像真的不能违抗了……\n\n啊，不太能动啊……\n好像真的无法反抗了……"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ぬぐぐっ…\nこのままじゃマズイぞ…！",
+    "translation": "可恶啊……\n这样下去可就糟了……！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n唔唔唔……\n这样下去可不妙啊……！\n\n擦……再这样下去可就糟了……！\n\n\n这样下去可不行啊……！"
+  },
+  {
+    "key": "speaker_カモシダーマン",
+    "original": "カモシダーマン",
+    "translation": "鸭志田超人",
+    "stage": 0,
+    "context": "机翻辅助：\n\n鸭志田超人"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

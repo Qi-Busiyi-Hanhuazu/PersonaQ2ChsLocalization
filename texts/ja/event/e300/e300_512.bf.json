@@ -1,0 +1,170 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あれっ…？",
+    "translation": "あれっ…？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "この扉、ロックされているみたいです。\n通れそうにないですね…",
+    "translation": "この扉、ロックされているみたいです。\n通れそうにないですね…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "鍵があれば通れそうですが…\n今は、他の道を探しましょう。",
+    "translation": "鍵があれば通れそうですが…\n今は、他の道を探しましょう。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "この扉、ロックされているみたいです。\n鍵がないと通れそうにないですね…",
+    "translation": "この扉、ロックされているみたいです。\n鍵がないと通れそうにないですね…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "残念ですが、他の道を探しましょう。",
+    "translation": "残念ですが、他の道を探しましょう。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ここ、ロックされてましたよね。\nさっきの鍵を使えば、もしかして…",
+    "translation": "ここ、ロックされてましたよね。\nさっきの鍵を使えば、もしかして…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ああ、カードキーを使ってみよう。",
+    "translation": "ああ、カードキーを使ってみよう。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "認証、カンリョウ…開錠、シマシタ。",
+    "translation": "認証、カンリョウ…開錠、シマシタ。",
+    "stage": 1,
+    "context": "電子音声"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あっ、やりましたね！\nこれで先に進めそうです。",
+    "translation": "あっ、やりましたね！\nこれで先に進めそうです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "ですが、くれぐれも気をつけてくださいね。",
+    "translation": "ですが、くれぐれも気をつけてくださいね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "ロックするほど重要な区画なら、\n警備も厳重でしょうから…油断は禁物です！",
+    "translation": "ロックするほど重要な区画なら、\n警備も厳重でしょうから…油断は禁物です！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あれっ…？",
+    "translation": "あれっ…？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "この扉、ロックされているみたいです。\n鍵がないと通れそうにないですね…",
+    "translation": "この扉、ロックされているみたいです。\n鍵がないと通れそうにないですね…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "鍵…？",
+    "translation": "鍵…？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "それなら、さっき手に入れた\nカードキーが使えるんじゃないか？",
+    "translation": "それなら、さっき手に入れた\nカードキーが使えるんじゃないか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ああ、試してみてくれ。",
+    "translation": "ああ、試してみてくれ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "認証、カンリョウ…開錠、シマシタ。",
+    "translation": "認証、カンリョウ…開錠、シマシタ。",
+    "stage": 1,
+    "context": "電子音声"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "あっ、やりましたね！\nこれで先に進めそうです。",
+    "translation": "あっ、やりましたね！\nこれで先に進めそうです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "ですが、くれぐれも気をつけてくださいね。",
+    "translation": "ですが、くれぐれも気をつけてくださいね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_010_2",
+    "original": "ロックするほど重要な区画なら、\n警備も厳重でしょうから…油断は禁物です！",
+    "translation": "ロックするほど重要な区画なら、\n警備も厳重でしょうから…油断は禁物です！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_電子音声",
+    "original": "電子音声",
+    "translation": "電子音声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

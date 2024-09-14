@@ -1,0 +1,324 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "…アイギス？\n私の顔、何かついてる？",
+    "translation": "…アイギス？\n私の顔、何かついてる？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "どうしたよアイちゃん？",
+    "translation": "どうしたよアイちゃん？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "[P3P名]にずいぶんと熱い\n視線送っちゃって、妬けるねー！",
+    "translation": "[P3P名]にずいぶんと熱い\n視線送っちゃって、妬けるねー！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "先ほど、皆さんも仰られてましたが、\nわたしもずっと不思議であります。",
+    "translation": "先ほど、皆さんも仰られてましたが、\nわたしもずっと不思議であります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "[P3P名]さんは\n出会ったばかりの方なのに…",
+    "translation": "[P3P名]さんは\n出会ったばかりの方なのに…",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "なぜか、惹かれるものを感じるであります。",
+    "translation": "なぜか、惹かれるものを感じるであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "それって、私たちが話してたのと\n同じ感覚なのかな？",
+    "translation": "それって、私たちが話してたのと\n同じ感覚なのかな？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "それとも、まさか…ロボット的な目で\n何かが見えてるってこと？",
+    "translation": "それとも、まさか…ロボット的な目で\n何かが見えてるってこと？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "や、やめてよ…\n心霊現象とか、そういう話？",
+    "translation": "や、やめてよ…\n心霊現象とか、そういう話？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "心霊現象を感知する機能はありません。\nその他の意味で、ということですか？",
+    "translation": "心霊現象を感知する機能はありません。\nその他の意味で、ということですか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ほほう、わたしも興味あるな。\n他にどんな特殊機能が搭載されてるんだ？",
+    "translation": "ほほう、わたしも興味あるな。\n他にどんな特殊機能が搭載されてるんだ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "心電図がとれる",
+    "translation": "心電図がとれる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "レントゲンがとれる",
+    "translation": "レントゲンがとれる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_2",
+    "original": "オーラが見える",
+    "translation": "オーラが見える",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "そうそう。目からＸ線が出て\n全身スキャンできるとか！",
+    "translation": "そうそう。目からＸ線が出て\n全身スキャンできるとか！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "あ、あの…！\nそれ、本当に出来るんですか？",
+    "translation": "あ、あの…！\nそれ、本当に出来るんですか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "残念ながらありません。",
+    "translation": "残念ながらありません。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そうですよね…",
+    "translation": "そうですよね…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "そんな機能ついてるの？\nあたしのオーラも見える？　何色！？",
+    "translation": "そんな機能ついてるの？\nあたしのオーラも見える？　何色！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "里中は茶色だろ？\n肉食いすぎだから。",
+    "translation": "里中は茶色だろ？\n肉食いすぎだから。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "焼き加減はレアめが好きだから、\n茶色より、赤のほうが嬉しいぞよ。",
+    "translation": "焼き加減はレアめが好きだから、\n茶色より、赤のほうが嬉しいぞよ。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "どっちでもいいわ！　つか、そんな\nスピリチュアルな機能ねえだろ。",
+    "translation": "どっちでもいいわ！　つか、そんな\nスピリチュアルな機能ねえだろ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "機能と呼べるかは分かりませんが…",
+    "translation": "機能と呼べるかは分かりませんが…",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "あんの！？",
+    "translation": "あんの！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "目で見るというより、\nもっと精神的な何か、ということだろう。",
+    "translation": "目で見るというより、\nもっと精神的な何か、ということだろう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "心…とか、そういう感じ？",
+    "translation": "心…とか、そういう感じ？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "はい…\nそれに近いものである気がします。",
+    "translation": "はい…\nそれに近いものである気がします。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "…[P3P名]さんも、\nわたしの大切であります。",
+    "translation": "…[P3P名]さんも、\nわたしの大切であります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "えっ！？",
+    "translation": "えっ！？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "[P3名]さんと共に、\n[P3P名]さんは、わたしが守ります。",
+    "translation": "[P3名]さんと共に、\n[P3P名]さんは、わたしが守ります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "…ありがとう。\nそう言ってもらえると、私も心強いよ。",
+    "translation": "…ありがとう。\nそう言ってもらえると、私も心強いよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "ま、改めて一致団結ってコトで、\n引き続きガンバろーぜ！",
+    "translation": "ま、改めて一致団結ってコトで、\n引き続きガンバろーぜ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  }
+]

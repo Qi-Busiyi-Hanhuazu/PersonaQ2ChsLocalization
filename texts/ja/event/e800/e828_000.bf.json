@@ -1,0 +1,191 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "[P3P名]さん、\n少しよろしいでしょうか？",
+    "translation": "[P3P名]さん、\n少しよろしいでしょうか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "どうしたの、アイギス？",
+    "translation": "どうしたの、アイギス？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "じぃー…",
+    "translation": "じぃー…",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "えっ、なになに！？",
+    "translation": "えっ、なになに！？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "この感覚…やはり、あなたには\n[P3名]さんと同じものを感じます。",
+    "translation": "この感覚…やはり、あなたには\n[P3名]さんと同じものを感じます。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ワンワンッ！",
+    "translation": "ワンワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "コロマルさんも、[P3名]さんと\n同じ何かを感じているようです。",
+    "translation": "コロマルさんも、[P3名]さんと\n同じ何かを感じているようです。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "これは一体…？",
+    "translation": "これは一体…？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "撫で方が同じ",
+    "translation": "撫で方が同じ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "エサの匂いがする",
+    "translation": "エサの匂いがする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_2",
+    "original": "フェロモンだ",
+    "translation": "フェロモンだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "どちらも、モフりのテクニックは悪くない。\nだが原因はそれじゃない、と言ってます。",
+    "translation": "どちらも、モフりのテクニックは悪くない。\nだが原因はそれじゃない、と言ってます。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "えっ、何も持ってないよ？　それとも、\nさっきホットドッグつまんだからかな？",
+    "translation": "えっ、何も持ってないよ？　それとも、\nさっきホットドッグつまんだからかな？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "いえ、恐らくそういったことでは\nないように思われます。",
+    "translation": "いえ、恐らくそういったことでは\nないように思われます。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "えっ、フェロモン！？\n私から出てるのかな？",
+    "translation": "えっ、フェロモン！？\n私から出てるのかな？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "いえ、恐らくそういったことでは\nないように思われます。",
+    "translation": "いえ、恐らくそういったことでは\nないように思われます。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "うーん…じゃあ、何なんだろう？",
+    "translation": "うーん…じゃあ、何なんだろう？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "コロマルは初対面の人にも懐こいですけど、\nそれとは違うっていうか…",
+    "translation": "コロマルは初対面の人にも懐こいですけど、\nそれとは違うっていうか…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "[P3P名]さんに対しては、コロマルも\n特別な何かを感じてるのは分かります。",
+    "translation": "[P3P名]さんに対しては、コロマルも\n特別な何かを感じてるのは分かります。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "何なのでしょう…？\n実に不思議でありますね。",
+    "translation": "何なのでしょう…？\n実に不思議でありますね。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "特別上映『世界を越えた運命』が\nチケットカウンターに追加されました。",
+    "translation": "特別上映『世界を越えた運命』が\nチケットカウンターに追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  }
+]

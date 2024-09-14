@@ -1,0 +1,527 @@
+[
+  {
+    "key": "AKECHI_FOE_FOLLOW_START__0",
+    "original": "来てるよ、気を付けて。",
+    "translation": "来了哦，小心点。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n来了哦，小心点。\n\n我来了，小心点。\n\n来了，路上小心。"
+  },
+  {
+    "key": "AKECHI_FOE_FOLLOW_START__2_0",
+    "original": "Ｆ．Ｏ．Ｅだ、落ち着いて。",
+    "translation": "是F.O.E，冷静点。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是F.O.E，冷静点。\n\n好了，冷静点。"
+  },
+  {
+    "key": "AKECHI_FOE_FOLLOW_START__3_0",
+    "original": "来てるよ…Ｆ．Ｏ．Ｅだ！",
+    "translation": "来了哦……是F.O.E！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n来了哦……是F.O.E！\n\n来了……F.O.E！\n\n来了哟……是F.O.E！"
+  },
+  {
+    "key": "AKECHI_FOE_NEAR_1_0",
+    "original": "大丈夫、焦らずに行こう。",
+    "translation": "没事的，不要着急，慢慢来。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没事的，不要着急，慢慢来。\n\n没关系，别着急，走吧。"
+  },
+  {
+    "key": "AKECHI_FOE_NEAR_2_0",
+    "original": "目の前だ、注意して。",
+    "translation": "就在眼前了，注意点。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n就在眼前了，注意点。\n\n就在眼前，小心点。\n\n就在眼前，请注意。"
+  },
+  {
+    "key": "AKECHI_FOE_NEAR_3_0",
+    "original": "くっ…こんな近くに…！",
+    "translation": "唔……居然离得这么近……！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n唔……居然离得这么近……！\n\n啊……在这么近的地方……！\n\n唔……这么近……！"
+  },
+  {
+    "key": "AKECHI_FOE_FOLLOW_END_1_0",
+    "original": "ふぅ…撒けたかな？",
+    "translation": "呼……甩掉了吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呼……甩掉了吗？\n\n呼……撒了吗？\n\n嗯……撒了吗？"
+  },
+  {
+    "key": "AKECHI_FOE_FOLLOW_END_2_0",
+    "original": "僕らの逃げ切り勝ちだね。",
+    "translation": "看来我们成功逃脱了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看来我们成功逃脱了。\n\n我们逃之夭夭。\n\n我们总算逃过一劫了。"
+  },
+  {
+    "key": "AKECHI_FOE_FOLLOW_END_3_0",
+    "original": "もう追ってこないみたいだよ。",
+    "translation": "它好像不会再追来了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n它好像不会再追来了。\n\n好像已经不追了。\n\n好像已经追不上来了。"
+  },
+  {
+    "key": "AKECHI_KANSI_REACTION_1_0",
+    "original": "大丈夫、君ならできる。",
+    "translation": "没事的，你一定可以做到。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没事的，你一定可以做到。\n\n没关系，你可以的。\n\n没关系，你能行。"
+  },
+  {
+    "key": "AKECHI_KANSI_REACTION_2_0",
+    "original": "案外、単純な仕掛けさ。",
+    "translation": "其实机关意外地单纯。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n其实机关意外地单纯。\n\n意外的是，单纯的装置。\n\n没想到机关这么简单。"
+  },
+  {
+    "key": "AKECHI_KANSI_REACTION_3_0",
+    "original": "慎重に行こう。",
+    "translation": "慎重地前进吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n慎重地前进吧。\n\n慎重地去吧。\n\n小心地走吧。"
+  },
+  {
+    "key": "AKECHI_DENKISAKU_REACTIO_0",
+    "original": "止める方法を探そう。",
+    "translation": "找找看有没有阻止它的方法。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n找找看有没有阻止它的方法。\n\n寻找停止的方法吧。\n\n寻找阻止的方法吧。"
+  },
+  {
+    "key": "AKECHI_DENKISAKU_REACTIO_2_0",
+    "original": "電気柵か…参ったね…",
+    "translation": "是电栅栏吗……真伤脑筋……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是电栅栏吗……真伤脑筋……\n\n电栅栏吗……真受不了啊……\n\n电栅栏吗？我服了……"
+  },
+  {
+    "key": "AKECHI_DENKISAKU_REACTIO_3_0",
+    "original": "迂回するルートがあるかもね。",
+    "translation": "说不定有迂回的路线。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n说不定有迂回的路线。\n\n可能有迂回的路线。\n\n也许有迂回的路线。"
+  },
+  {
+    "key": "AKECHI_KYOUHU_REACTION_1_0",
+    "original": "くっ…！",
+    "translation": "唔……！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n唔……！\n\n啊……！"
+  },
+  {
+    "key": "AKECHI_KYOUHU_REACTION_2_0",
+    "original": "うわ…っ！",
+    "translation": "唔哇……！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n唔哇……！\n\n哇！\n\n哇……！"
+  },
+  {
+    "key": "AKECHI_KYOUHU_REACTION_3_0",
+    "original": "風が…っ！",
+    "translation": "风……！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n风……！\n\n风！"
+  },
+  {
+    "key": "AKECHI_STAIR_FIND_1_0",
+    "original": "次に進めるようだよ。",
+    "translation": "看来可以继续前进了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看来可以继续前进了。\n\n好像接下来要进行哦。\n\n接下来要进行了。"
+  },
+  {
+    "key": "AKECHI_STAIR_FIND_2_0",
+    "original": "やったね、次のエリアだ。",
+    "translation": "太好了，是下一个区域。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n太好了，是下一个区域。\n\n太好了，下一个区域。"
+  },
+  {
+    "key": "AKECHI_STAIR_FIND_3_0",
+    "original": "どうする？　先へ進むかい？",
+    "translation": "怎么办？要继续前进吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n怎么办？要继续前进吗？\n\n怎么办？继续前进吗？\n\n怎么办？前进吗？"
+  },
+  {
+    "key": "AKECHI_TREASURE_FIND_1_0",
+    "original": "宝箱だ、君に譲るよ。",
+    "translation": "有宝箱，就让给你吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有宝箱，就让给你吧。\n\n宝箱，让给你。\n\n宝箱，我会让给你的。"
+  },
+  {
+    "key": "AKECHI_TREASURE_FIND_2_0",
+    "original": "宝箱か…開けてみたらどうだい？",
+    "translation": "宝箱吗……打开看看吧？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n宝箱吗……打开看看吧？\n\n宝箱啊……打开看看怎么样？"
+  },
+  {
+    "key": "AKECHI_TREASURE_FIND_3_0",
+    "original": "みんな！　宝箱だ！",
+    "translation": "大家！是宝箱！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大家！是宝箱！\n\n大家好！宝箱！\n\n大家！宝箱！"
+  },
+  {
+    "key": "AKECHI_CHECK_WALL_1_0",
+    "original": "おや？　あれは…？",
+    "translation": "哎呀？那是……？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哎呀？那是……？\n\n哎？那是……？\n\n咦？那是……？"
+  },
+  {
+    "key": "AKECHI_CHECK_WALL_2_0",
+    "original": "僕の目は誤魔化せないよ。",
+    "translation": "别想骗过我的眼睛。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n别想骗过我的眼睛。\n\n我的眼睛是无法蒙混过去的。\n\n我的眼睛不会蒙混过关的。"
+  },
+  {
+    "key": "AKECHI_CHECK_WALL_3_0",
+    "original": "少し調べないかい？",
+    "translation": "要不要稍微调查一下？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要不要稍微调查一下？\n\n不稍微调查一下吗？"
+  },
+  {
+    "key": "AKECHI_SWITCH_FIND_1_0",
+    "original": "スイッチか、なるほどね。",
+    "translation": "是开关啊，原来如此。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是开关啊，原来如此。\n\n开关啊，原来如此。"
+  },
+  {
+    "key": "AKECHI_SWITCH_FIND_2_0",
+    "original": "ここ、スイッチがあるね。",
+    "translation": "这里有开关呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这里有开关呢。\n\n这里有开关。"
+  },
+  {
+    "key": "AKECHI_SWITCH_FIND_3_0",
+    "original": "スイッチがあるよ、どうする？",
+    "translation": "有开关哦，怎么办？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有开关哦，怎么办？\n\n有开关，怎么办？"
+  },
+  {
+    "key": "AKECHI_SHORTCUT_FIND_1_0",
+    "original": "ここ、通り抜けられそうだね。",
+    "translation": "这里好像可以穿过去。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这里好像可以穿过去。\n\n这里好像可以穿过去啊。\n\n这里好像可以通过。"
+  },
+  {
+    "key": "AKECHI_SHORTCUT_FIND_2_0",
+    "original": "近道とはありがたいな。",
+    "translation": "有捷径真是太好了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有捷径真是太好了。\n\n捷径真是太好了。\n\n近道真是太好了。"
+  },
+  {
+    "key": "AKECHI_SHORTCUT_FIND_3_0",
+    "original": "抜けられそうだ、行ってみるかい？",
+    "translation": "好像可以穿过去，要去看看吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像可以穿过去，要去看看吗？\n\n好像可以脱身了，要不要去看看？\n\n好像能拔出来，去看看吗？"
+  },
+  {
+    "key": "AKECHI_FOE_WARNING_NEAR__0",
+    "original": "まだ来るのか、しつこいな。",
+    "translation": "又来了吗？真烦人。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n又来了吗？真烦人。\n\n还来吗，真烦人。\n\n还来吗，真烦人啊。"
+  },
+  {
+    "key": "AKECHI_FOE_WARNING_NEAR__2_0",
+    "original": "休ませてはくれないようだね。",
+    "translation": "看来是不会让我们休息了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看来是不会让我们休息了。\n\n好像不让我休息。\n\n你好像不让我休息啊。"
+  },
+  {
+    "key": "AKECHI_FOE_WARNING_NEAR__3_0",
+    "original": "Ｆ．Ｏ．Ｅの追尾が続いているね。",
+    "translation": "F.O.E还在追踪呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E还在追踪呢。\n\nF.O.E的跟踪还在继续呢。"
+  },
+  {
+    "key": "AKECHI_1PERSON_HPTP10_1_0",
+    "original": "ダメージが大きいな。\n立て直しを頼む。",
+    "translation": "伤害很大啊。\n麻烦重整态势。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n伤害很大啊。\n麻烦重整态势。\n\n伤害好大啊。\n请求重建。\n\n伤害很大啊。拜托重整。"
+  },
+  {
+    "key": "AKECHI_1PERSON_HPTP10_2_0",
+    "original": "危険な状況だ、回復を。",
+    "translation": "情况很危险，快恢复。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n情况很危险，快恢复。\n\n危险的状况，恢复吧。\n\n危险的状况，请恢复。"
+  },
+  {
+    "key": "AKECHI_1PERSON_HPTP10_3_0",
+    "original": "これ以上は無謀じゃないかな…？",
+    "translation": "再这样下去太鲁莽了吧……？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n再这样下去太鲁莽了吧……？\n\n再这样不是鲁莽吗……？\n\n再这样下去就太鲁莽了吧……？"
+  },
+  {
+    "key": "AKECHI_1PERSON_HP10_1_0",
+    "original": "回復のメドはたつかい…？",
+    "translation": "能恢复到什么程度呢……？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n能恢复到什么程度呢……？\n\n有恢复的目标吗？？\n\n恢复的目标已经过去了吗……？"
+  },
+  {
+    "key": "AKECHI_1PERSON_HP10_2_0",
+    "original": "思ったより削られたね…",
+    "translation": "被削掉的血量比想象中还多……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n被削掉的血量比想象中还多……\n\n比想象中被削减了呢……\n\n比想象的还要被削掉呢……"
+  },
+  {
+    "key": "AKECHI_1PERSON_HP10_3_0",
+    "original": "なんの…まだまだ…",
+    "translation": "什么嘛……还早得很……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n什么嘛……还早得很……\n\n什么……还差得远……"
+  },
+  {
+    "key": "AKECHI_1PERSON_TP10_1_0",
+    "original": "参ったな、倒れそうだ。",
+    "translation": "真伤脑筋，好像快倒下了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真伤脑筋，好像快倒下了。\n\n服了，快倒下了。\n\n我认输了，我快要倒下了。"
+  },
+  {
+    "key": "AKECHI_1PERSON_TP10_2_0",
+    "original": "いまは休むべきなのかもしれない…",
+    "translation": "现在或许应该休息……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n现在或许应该休息……\n\n也许现在应该休息了……\n\n也许现在应该休息……"
+  },
+  {
+    "key": "AKECHI_1PERSON_TP10_3_0",
+    "original": "気力の勝負になりそうだね…",
+    "translation": "看来会变成比拼毅力……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看来会变成比拼毅力……\n\n好像是力量的较量呢……\n\n看来这是一场毅力的较量了……"
+  },
+  {
+    "key": "AKECHI_1PERSON_HP80_1_0",
+    "original": "みんな、調子はいいみたいだね。",
+    "translation": "大家看起来状况不错。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大家看起来状况不错。\n\n大家看起来状态都很好呢。\n\n大家的状态好像都很好。"
+  },
+  {
+    "key": "AKECHI_1PERSON_HP80_2_0",
+    "original": "順調に進めているよ！",
+    "translation": "进展得很顺利！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n进展得很顺利！\n\n进展顺利！\n\n进行得很顺利哦！"
+  },
+  {
+    "key": "AKECHI_1PERSON_HP80_3_0",
+    "original": "いつでも僕を頼ってくれ。",
+    "translation": "随时都可以依靠我。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n随时都可以依靠我。\n\n请随时依靠我。\n\n随时都来找我。"
+  },
+  {
+    "key": "AKECHI_DUNGEON_START_1_0",
+    "original": "さあ、始めようか！",
+    "translation": "来，开始吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n来，开始吧！\n\n那么，开始吧！"
+  },
+  {
+    "key": "AKECHI_DUNGEON_START_2_0",
+    "original": "僕達ならやれるさ。",
+    "translation": "我们一定办得到。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我们一定办得到。\n\n我们能做到的。\n\n我们可以做到。"
+  },
+  {
+    "key": "AKECHI_DUNGEON_START_3_0",
+    "original": "油断は禁物、いいね？",
+    "translation": "大意不得，知道吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大意不得，知道吗？\n\n不要疏忽大意，好吗？\n\n不能大意，对吧？"
+  },
+  {
+    "key": "AKECHI_QUEST_START_1_0",
+    "original": "ミッション、スタートだ。",
+    "translation": "任务开始。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n任务开始。\n\n使命，是开始。\n\n任务，开始了。"
+  },
+  {
+    "key": "AKECHI_QUEST_START_2_0",
+    "original": "お手並み拝見と行こうかな。",
+    "translation": "就让我见识一下吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n就让我见识一下吧。\n\n让我去看看你的手艺吧。\n\n我去看看你的本领吧。"
+  },
+  {
+    "key": "AKECHI_QUEST_START_3_0",
+    "original": "さあ、はじめようか。",
+    "translation": "来，开始吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n来，开始吧。\n\n好了，开始吧。\n\n那么，开始吧。"
+  },
+  {
+    "key": "AKECHI_TOUHA_25_1_0",
+    "original": "じっくりいこうか。",
+    "translation": "慢慢来吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n慢慢来吧。\n\n慢慢地走吧。\n\n还是踏踏实实地去吧。"
+  },
+  {
+    "key": "AKECHI_TOUHA_25_2_0",
+    "original": "千里の道も一歩からだよ。",
+    "translation": "千里之行始于足下。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n千里之行始于足下。\n\n千里之行始于足下啊。"
+  },
+  {
+    "key": "AKECHI_TOUHA_50_1_0",
+    "original": "残りあと半分だ。",
+    "translation": "还剩下一半。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n还剩下一半。\n\n只剩下一半了。"
+  },
+  {
+    "key": "AKECHI_TOUHA_50_2_0",
+    "original": "ここまでは順調だね！",
+    "translation": "到目前为止很顺利呢！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n到目前为止很顺利呢！\n\n到这里为止很顺利呢！\n\n到这里为止很顺利啊！"
+  },
+  {
+    "key": "AKECHI_TOUHA_75_1_0",
+    "original": "焦らず、じっくり進もう。",
+    "translation": "不要着急，慢慢前进吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不要着急，慢慢前进吧。\n\n不要着急，踏踏实实地前进吧。"
+  },
+  {
+    "key": "AKECHI_TOUHA_75_2_0",
+    "original": "完成目前だね！",
+    "translation": "就快完成了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n就快完成了！\n\n快要完成了呢！\n\n完成在即呢！"
+  },
+  {
+    "key": "AKECHI_TOUHA_100_1_0",
+    "original": "完成だ！　上出来だよ！",
+    "translation": "完成了！做得很好！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n完成了！做得很好！"
+  },
+  {
+    "key": "AKECHI_TOUHA_100_2_0",
+    "original": "おめでとう、出来上がったんだね！",
+    "translation": "恭喜，完成了呢！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n恭喜，完成了呢！\n\n恭喜你，完成了！\n\n恭喜，你做好了！"
+  },
+  {
+    "key": "AKECHI_MAPPING_ICON_ALL__0",
+    "original": "ああ、間違いない。",
+    "translation": "啊，没错。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啊，没错。"
+  },
+  {
+    "key": "AKECHI_MAPPING_ICON_ALL__2_0",
+    "original": "うん、いいね。",
+    "translation": "嗯，很好。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯，很好。\n\n嗯，好啊。\n\n嗯，不错。"
+  },
+  {
+    "key": "AKECHI_MAPPING_ICON_KAID_0",
+    "original": "さすが、やるね。",
+    "translation": "真有你的。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真有你的。\n\n不愧是做啊。\n\n真够能干的。"
+  },
+  {
+    "key": "AKECHI_MAPPING_ICON_KAID_2_0",
+    "original": "完璧だ！",
+    "translation": "完美！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n完美！"
+  },
+  {
+    "key": "AKECHI_MAPPING_CHANGE_CO_0",
+    "original": "色分けか、なるほど。",
+    "translation": "要分色吗？原来如此。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要分色吗？原来如此。\n\n颜色区分啊，原来如此。\n\n原来如此。"
+  },
+  {
+    "key": "AKECHI_MAPPING_CHANGE_CO_2_0",
+    "original": "こだわるんだね。",
+    "translation": "很讲究呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n很讲究呢。\n\n真执着啊。\n\n你很讲究啊。"
+  },
+  {
+    "key": "AKECHI_MAPPING_ICON_DEL__0",
+    "original": "僕も不要だと思うよ。",
+    "translation": "我也觉得不需要。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我也觉得不需要。"
+  },
+  {
+    "key": "AKECHI_MAPPING_ICON_DEL__2_0",
+    "original": "はは、思い切ったね。",
+    "translation": "哈哈，很果断呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哈哈，很果断呢。\n\n哈哈，下定决心了。\n\n哈哈，我下定决心了。"
+  },
+  {
+    "key": "AKECHI_MAPPING_MEMO_1_0",
+    "original": "なるほど、いい案だ。",
+    "translation": "原来如此，好主意。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n原来如此，好主意。\n\n原来如此，是个好主意。"
+  },
+  {
+    "key": "AKECHI_MAPPING_MEMO_2_0",
+    "original": "さすが冷静だね。",
+    "translation": "真冷静。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真冷静。\n\n不愧是冷静啊。\n\n真不愧是冷静啊。"
+  },
+  {
+    "key": "AKECHI_DOOR_OPEN_1_0",
+    "original": "こっちだよ！",
+    "translation": "在这边！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n在这边！\n\n这边！\n\n是这边！"
+  },
+  {
+    "key": "AKECHI_DOOR_OPEN_2_0",
+    "original": "行こうか。",
+    "translation": "走吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n走吧。"
+  },
+  {
+    "key": "AKECHI_DOOR_OPEN_3_0",
+    "original": "早くおいでよ。",
+    "translation": "快点过来。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n快点过来。\n\n你快点过来啊。\n\n快来啊。"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "チッ、またウジャウジャと出やがるぜ。",
+    "translation": "切，又是蜂拥而出。",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n啧，又冒出来一堆了。\n\n哇，又出来了。\n\n啧，又开始啰啰嗦嗦了。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "慌てるなスカル、良い連絡がある。",
+    "translation": "不要慌张，SKULL，有好消息。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n别慌张，SKULL，我有好消息要告诉你。\n\n别慌，SKULL，有好消息。\n\n别慌SKULL，有好消息。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "んぁ？　連絡？",
+    "translation": "什么？啥消息？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n嗯啊？好消息？\n\n嗯？联络？\n\n啊？联络？"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "この世界でのペルソナの使い方と\nサポートにもだいぶ慣れてきた所だ。",
+    "translation": "我已经开始熟悉在这个世界\n使用和支持人格面具和战斗支援了。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n我差不多已经习惯了在这个世界使用人格面具的方法和\n支援。\n\n对这个世界的人格面具的使用方法和\n支持也已经习惯了。\n\n在这个世界上，人格面具的使用方法和支持也已经习惯了。"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "ここからはわたしも戦闘に協力するぞ！",
+    "translation": "从现在开始我也会辅助战斗！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n从现在开始，我也要协助战斗！\n\n从这里开始我也会协助战斗的！\n\n从这里开始我也要协助战斗！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "戦闘中もナビの力が\n借りられるのは助かるな。",
+    "translation": "战斗中也能借助NAVI的力量可真是帮大忙了。",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n战斗中也能\n借用导航的力量，真是帮了大忙。\n\n在战斗中也能借助导航的力量真是帮了大忙啊。\n\n\n战斗中也能借用导航的力量真是帮了大忙。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うん、期待してるからねナビ！",
+    "translation": "嗯，期待着你的发挥，NAVI！",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n嗯，我很期待哦，导航！\n\n嗯，我很期待啊导航！\n\n嗯，因为期待着导航！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "まっかせろ！\n期待してくれ！",
+    "translation": "交给我！\n敬请期待！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n交给我吧！\n好好期待吧！\n\n等一下！\n敬请期待！\n\n红吧！\n期待吧！"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

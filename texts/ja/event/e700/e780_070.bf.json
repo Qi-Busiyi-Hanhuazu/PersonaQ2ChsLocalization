@@ -1,0 +1,100 @@
+[
+  {
+    "key": "WSHOP_1ST_IN_MES_NAG_0",
+    "original": "あ、皆さま。\n少々お待ちいただけますか？",
+    "translation": "あ、皆さま。\n少々お待ちいただけますか？",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "WSHOP_1ST_IN_MES_NAG_1_0",
+    "original": "商品の中に風変わりな物を見かけたので、\n皆さまにお伝えしたいと思っていたのです。",
+    "translation": "商品の中に風変わりな物を見かけたので、\n皆さまにお伝えしたいと思っていたのです。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "WSHOP_1ST_IN_MES_NAG_02_0",
+    "original": "へぇ、気になるな。\n見せてくれよ！",
+    "translation": "へぇ、気になるな。\n見せてくれよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "WSHOP_1ST_IN_MES_NAG_03_0",
+    "original": "はい、こちらの\n[F4 84 05 01 01 01 36 06]という商品なのですが…",
+    "translation": "はい、こちらの\n[F4 84 05 01 01 01 36 06]という商品なのですが…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "WSHOP_1ST_IN_MES_NAG_03_1",
+    "original": "[颜色 03]『迷宮から脱出できる道具』[颜色 01]という\n商品説明が記載されております。",
+    "translation": "[颜色 03]『迷宮から脱出できる道具』[颜色 01]という\n商品説明が記載されております。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "WSHOP_1ST_IN_MES_NAG_03_2",
+    "original": "もしかしたら、皆さまのお役に立つのでは\nないかしら…？",
+    "translation": "もしかしたら、皆さまのお役に立つのでは\nないかしら…？",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "WSHOP_1ST_IN_MES_NAG_03__0",
+    "original": "よろしければ、お一つお持ちください。\nこちらはサービスですよ。",
+    "translation": "よろしければ、お一つお持ちください。\nこちらはサービスですよ。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "WSHOP_1ST_IN_MES_NAG_04_0",
+    "original": "えっ！　これを使ったら、すぐに\nこの映画館に帰れるってこと！？",
+    "translation": "えっ！　これを使ったら、すぐに\nこの映画館に帰れるってこと！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "WSHOP_1ST_IN_MES_NAG_05_0",
+    "original": "退路を確保しておくのは重要だし、\n探索前は準備しておくとよさそうだね。",
+    "translation": "退路を確保しておくのは重要だし、\n探索前は準備しておくとよさそうだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "WSHOP_1ST_IN_MES_NAG_06_0",
+    "original": "お役に立ちそうでしたら、\n今後もご購入をご検討くださいね。",
+    "translation": "お役に立ちそうでしたら、\n今後もご購入をご検討くださいね。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "必要な部品は２個だよね。",
+    "translation": "必要な部品は２個だよね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "はい。目的の部品ですが、\n採取ポイントで入手できるはずです。",
+    "translation": "はい。目的の部品ですが、\n採取ポイントで入手できるはずです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "では、いざ行かん！\nレッツ、ドーナッ…！",
+    "translation": "では、いざ行かん！\nレッツ、ドーナッ…！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おイナリ！　待った！",
+    "translation": "おイナリ！　待った！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "そのあたり、いつもよりＦ．Ｏ．Ｅの\n反応が活発だ。",
+    "translation": "そのあたり、いつもよりＦ．Ｏ．Ｅの\n反応が活発だ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "食い意地張って突っ込むと\n痛い目見るぞ。",
+    "translation": "食い意地張って突っ込むと\n痛い目見るぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…先は長そうだね。",
+    "translation": "…先は長そうだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "まあ、食前の運動にはなりそうだ。\n油断せずに行こう。",
+    "translation": "まあ、食前の運動にはなりそうだ。\n油断せずに行こう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

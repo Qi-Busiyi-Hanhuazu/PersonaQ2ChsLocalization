@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "ここ、採取できるみたいだね。\nどうしよっか？",
+    "translation": "ここ、採取できるみたいだね。\nどうしよっか？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そうだね。\n周りには気をつけて探そ。",
+    "translation": "そうだね。\n周りには気をつけて探そ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うん！\nじゃあ、集中して探そっか！",
+    "translation": "うん！\nじゃあ、集中して探そっか！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "止めておくの？\n分かった。",
+    "translation": "止めておくの？\n分かった。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全部かな？",
+    "translation": "これで全部かな？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あらっ？",
+    "translation": "あらっ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "わぁ！",
+    "translation": "わぁ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "やった。",
+    "translation": "やった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "危なかったね。\n取れるものはこれで全部みたい。",
+    "translation": "危なかったね。\n取れるものはこれで全部みたい。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "レアだよ！",
+    "translation": "レアだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "わぁ、すごーい！",
+    "translation": "わぁ、すごーい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "うふふ、やったね！",
+    "translation": "うふふ、やったね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あ！　ショートカット！\n通ってみる？",
+    "translation": "あ！　ショートカット！\n通ってみる？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "うーん…\nこっちは通れないみたいだね。",
+    "translation": "うーん…\nこっちは通れないみたいだね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "なんだか、とっても危険な空気だね。\n大丈夫かな…？",
+    "translation": "なんだか、とっても危険な空気だね。\n大丈夫かな…？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "う、うん。\n気をつけて調べよう。",
+    "translation": "う、うん。\n気をつけて調べよう。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "分かった。\n危険だもんね。",
+    "translation": "分かった。\n危険だもんね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あ、危なかった…\nみんな無事？",
+    "translation": "あ、危なかった…\nみんな無事？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここ、なんだかシャドウの気配が\n多い気がしない…？",
+    "translation": "ここ、なんだかシャドウの気配が\n多い気がしない…？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "うん。\n気をつけて調べてみよう。",
+    "translation": "うん。\n気をつけて調べてみよう。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだね。\n危ないかもしれないものね。",
+    "translation": "そうだね。\n危ないかもしれないものね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "やっぱりシャドウが出たね。\nこれで終わりかな…？",
+    "translation": "やっぱりシャドウが出たね。\nこれで終わりかな…？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "映画館に戻れるね。\nどうしよっか？　戻る？",
+    "translation": "映画館に戻れるね。\nどうしよっか？　戻る？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

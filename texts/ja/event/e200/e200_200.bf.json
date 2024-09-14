@@ -1,0 +1,415 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "新しい場所に来たけど…\nこの辺にも、花村いないかな？",
+    "translation": "新しい場所に来たけど…\nこの辺にも、花村いないかな？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うーん…ごめん。\nちょっと探るの難しいかも…",
+    "translation": "うーん…ごめん。\nちょっと探るの難しいかも…",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "仕方がありません。\n足で稼ぐのも重要な捜査です。",
+    "translation": "仕方がありません。\n足で稼ぐのも重要な捜査です。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "なあなあ！　ちょっといい？",
+    "translation": "なあなあ！　ちょっといい？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "俺、ニンゲンに興味あるんだ！\nだから話してみたいっていうか。",
+    "translation": "俺、ニンゲンに興味あるんだ！\nだから話してみたいっていうか。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "私たちに興味？　どうして？",
+    "translation": "私たちに興味？　どうして？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "だってよ、この島の施設って\nニンゲンが作ったんだぜ？",
+    "translation": "だってよ、この島の施設って\nニンゲンが作ったんだぜ？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "ケンキュウシツって部屋にあった本とか、\n俺、夢中で読んじまったもん。",
+    "translation": "ケンキュウシツって部屋にあった本とか、\n俺、夢中で読んじまったもん。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "文字が読めるのか？",
+    "translation": "文字が読めるのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "なんの本？",
+    "translation": "なんの本？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_2",
+    "original": "天才恐竜だな",
+    "translation": "天才恐竜だな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "へへっ、まぁな…つっても、\n内容まではあんま分かんなかったけど。",
+    "translation": "へへっ、まぁな…つっても、\n内容まではあんま分かんなかったけど。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "えーと、たしか…\nイデンシなんちゃら…？",
+    "translation": "えーと、たしか…\nイデンシなんちゃら…？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "ま、あんま分かんなかったけど。",
+    "translation": "ま、あんま分かんなかったけど。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "でも、文字も読めるんだ？",
+    "translation": "でも、文字も読めるんだ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "て、天才！？\nいやぁ～まあ、それほどでも…",
+    "translation": "て、天才！？\nいやぁ～まあ、それほどでも…",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "って、ホント言うと\n内容はよく分かんなかったんだけどな。",
+    "translation": "って、ホント言うと\n内容はよく分かんなかったんだけどな。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "でも、文字も読めるんだ？",
+    "translation": "でも、文字も読めるんだ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "言葉が喋れるわけだから、\n文字が読めてもおかしくはないが…",
+    "translation": "言葉が喋れるわけだから、\n文字が読めてもおかしくはないが…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "あと、あれあれ！\nデンキで動く不思議なやつ！",
+    "translation": "あと、あれあれ！\nデンキで動く不思議なやつ！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "キカイってんだっけ？\nお前たちも、ああいうの作ったりすんの？",
+    "translation": "キカイってんだっけ？\nお前たちも、ああいうの作ったりすんの？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "うーん、私には無理かな。\n直斗くんなら出来るかもだけど。",
+    "translation": "うーん、私には無理かな。\n直斗くんなら出来るかもだけど。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ワガハイも、簡単なヤツなら作れるぜ！",
+    "translation": "ワガハイも、簡単なヤツなら作れるぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "マジかよ！　スゲーな！",
+    "translation": "マジかよ！　スゲーな！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "他の恐竜どもは黙ってんのに、\nコイツだけやたら絡んでくるっスね。",
+    "translation": "他の恐竜どもは黙ってんのに、\nコイツだけやたら絡んでくるっスね。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "さすが、花村と同じ顔してるだけあるわ。",
+    "translation": "さすが、花村と同じ顔してるだけあるわ。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "調子よさそうなとこも、\nヨースケにクリソツね～。",
+    "translation": "調子よさそうなとこも、\nヨースケにクリソツね～。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "それからそれから、\nお前らって、肉も草も食えるんだろ？",
+    "translation": "それからそれから、\nお前らって、肉も草も食えるんだろ？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "千枝は肉ばっかりだよね。",
+    "translation": "千枝は肉ばっかりだよね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "うむ。あたしの胃袋に、\n草や野菜の入る余地はなぁい！",
+    "translation": "うむ。あたしの胃袋に、\n草や野菜の入る余地はなぁい！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "えっ！？　ニンゲンって、\n本当は完全な肉食だったのか？",
+    "translation": "えっ！？　ニンゲンって、\n本当は完全な肉食だったのか？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "SEL_024_0",
+    "original": "そうだ",
+    "translation": "そうだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_1",
+    "original": "野菜も食べる",
+    "translation": "野菜も食べる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_2",
+    "original": "炭水化物がいい",
+    "translation": "炭水化物がいい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "こら、ウソつかないの。\n人間は基本的に雑食でしょう。",
+    "translation": "こら、ウソつかないの。\n人間は基本的に雑食でしょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ああ。肉も野菜も、それを受け止める\n白米があってこそ輝くからな。",
+    "translation": "ああ。肉も野菜も、それを受け止める\n白米があってこそ輝くからな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "食も芸術もバランスが命…\n俺はバランス良く何でも食べる！",
+    "translation": "食も芸術もバランスが命…\n俺はバランス良く何でも食べる！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "どういうこと？\nお前ら、同じニンゲンじゃねえのか？",
+    "translation": "どういうこと？\nお前ら、同じニンゲンじゃねえのか？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "好き嫌いは、人それぞれだから。\n好きなものばっかり食べる人もいるんだよ。",
+    "translation": "好き嫌いは、人それぞれだから。\n好きなものばっかり食べる人もいるんだよ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "もちろん、嫌いなものを克服するのも\n大切なことだけどね。",
+    "translation": "もちろん、嫌いなものを克服するのも\n大切なことだけどね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ふーん。よく分かんねぇな…",
+    "translation": "ふーん。よく分かんねぇな…",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "肉でも草でも、食いたいもんは\n自分で決めりゃいいってことだよ。",
+    "translation": "肉でも草でも、食いたいもんは\n自分で決めりゃいいってことだよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "…ニンゲンは、自分のことを\n自分で決められるのかぁ。",
+    "translation": "…ニンゲンは、自分のことを\n自分で決められるのかぁ。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "…ん？　なにか言った？",
+    "translation": "…ん？　なにか言った？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "や、なんでもねえわ！　わりい！\nほら、先に進もうぜ！",
+    "translation": "や、なんでもねえわ！　わりい！\nほら、先に進もうぜ！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ヨウスケサウルス",
+    "original": "ヨウスケサウルス",
+    "translation": "ヨウスケサウルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

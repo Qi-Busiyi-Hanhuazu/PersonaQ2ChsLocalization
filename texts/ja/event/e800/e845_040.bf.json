@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おらっしゃーい！　まずは１体撃破クマ！",
+    "translation": "おらっしゃーい！　まずは１体撃破クマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "フゥ、なんとかなったか。",
+    "translation": "フゥ、なんとかなったか。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_1_0",
+    "original": "やっぱヤベーぞ、あのクマ野郎。\n可愛い顔して完全に殺しに来てるからな。",
+    "translation": "やっぱヤベーぞ、あのクマ野郎。\n可愛い顔して完全に殺しに来てるからな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "だが、勝てない相手じゃない。\nこの調子でいこう。",
+    "translation": "だが、勝てない相手じゃない。\nこの調子でいこう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "次はいよいよ決勝戦じゃい！\nチャンピオンクマベルトは頂いたクマ！",
+    "translation": "次はいよいよ決勝戦じゃい！\nチャンピオンクマベルトは頂いたクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おい、またワープするとこ２つあるぜ。\nどっちだ？",
+    "translation": "おい、またワープするとこ２つあるぜ。\nどっちだ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "わかった！　左だと思う！",
+    "translation": "わかった！　左だと思う！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "自信たっぷりね、パンサー。\nあのヒントが解けたの？",
+    "translation": "自信たっぷりね、パンサー。\nあのヒントが解けたの？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ううん、そうじゃなくて\nビビっと来たっていうか。",
+    "translation": "ううん、そうじゃなくて\nビビっと来たっていうか。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "てか、テレビの占いで今日のさそり座の運勢\n１位だったの思い出した。",
+    "translation": "てか、テレビの占いで今日のさそり座の運勢\n１位だったの思い出した。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "それで、ラッキーカラーは青だったし、\nだからここは青のワープで！",
+    "translation": "それで、ラッキーカラーは青だったし、\nだからここは青のワープで！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あ、あれ…？",
+    "translation": "あ、あれ…？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "えへへ、やっぱダメ？",
+    "translation": "えへへ、やっぱダメ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "荒垣君は、\nどっちの道が正しいと思う？",
+    "translation": "荒垣君は、\nどっちの道が正しいと思う？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あ？　なんで俺に訊く？",
+    "translation": "あ？　なんで俺に訊く？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "はは、理由なんてないけど。",
+    "translation": "はは、理由なんてないけど。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "決めるのはジョーカーだし、\n参考程度に訊きたかっただけさ。",
+    "translation": "決めるのはジョーカーだし、\n参考程度に訊きたかっただけさ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "俺にはわからねえよ。",
+    "translation": "俺にはわからねえよ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "だいたい、どっち行こうが\n間違ってるかも知れねえぞ。",
+    "translation": "だいたい、どっち行こうが\n間違ってるかも知れねえぞ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ははは、確かにね。",
+    "translation": "ははは、確かにね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "そうだとしたら、後戻りできるうちに、\n道を選び直せたらいいんだけど。",
+    "translation": "そうだとしたら、後戻りできるうちに、\n道を選び直せたらいいんだけど。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  }
+]

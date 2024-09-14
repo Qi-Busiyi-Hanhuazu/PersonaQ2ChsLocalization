@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ぜ、全部倒した？",
+    "translation": "ぜ、全部倒した？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、今ので終わりのようだ。",
+    "translation": "ああ、今ので終わりのようだ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "はぁ、なんだったんだよ今の…\n変な言葉叫びながら出てきやがって。\n驚いたじゃねーか…",
+    "translation": "はぁ、なんだったんだよ今の…\n変な言葉叫びながら出てきやがって。\n驚いたじゃねーか…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "いくら女の子が好きだからって、\nあんなに『男は無理』って\n叫ばなくてもいいのに…",
+    "translation": "いくら女の子が好きだからって、\nあんなに『男は無理』って\n叫ばなくてもいいのに…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "つか、言われなくたって、\nこっちだってカモシダーマンなんか\n無理だってんだよ！",
+    "translation": "つか、言われなくたって、\nこっちだってカモシダーマンなんか\n無理だってんだよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あそこまでいくと、\nもはやアレルギーだね…",
+    "translation": "あそこまでいくと、\nもはやアレルギーだね…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "アレルギー反応か…言い得て妙だな。",
+    "translation": "アレルギー反応か…言い得て妙だな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "恐らく、他の監視マスを踏んでも\n同じことが起こるのだろうな…\nだとすれば、避けたほうがいい。",
+    "translation": "恐らく、他の監視マスを踏んでも\n同じことが起こるのだろうな…\nだとすれば、避けたほうがいい。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "だな。\n踏む必要があったとしても、\n必要最低限で済ませようぜ。",
+    "translation": "だな。\n踏む必要があったとしても、\n必要最低限で済ませようぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

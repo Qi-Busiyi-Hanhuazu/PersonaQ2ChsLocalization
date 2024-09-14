@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "仕留め切れなかったか！",
+    "translation": "没解决掉吗！",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n没解决掉吗！\n\n没搞定吗？\n\n没做完吗！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "もう、しつこいっての！",
+    "translation": "真是的，烦死人了！",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n真是烦人！\n\n已经很烦人了！\n\n真烦人！"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "こうなったら、\nあたしの必殺カンフーでケリつけちゃる！",
+    "translation": "事已至此，\n就用我的必杀功夫做个了结吧！",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n既然如此，\n就用我的必杀功夫做个了结！\n\n这样的话，\n用我的必杀功夫来开玩笑！\n\n这样的话，\n用我的必杀功夫踢到他！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ちょ、千枝ちゃん！？\n待って！　私も行く！",
+    "translation": "等下，小千！？\n等等我！我也要去！",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n等等，千枝！？\n等等！我也要去！\n\n喂，千枝酱！？\n等等！我也去！\n\n喂，千枝！？\n等等！我也去！"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "待て！",
+    "translation": "等等！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n等等！"
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "危ないぞ！",
+    "translation": "很危险哦！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n很危险哦！\n\n危险！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "って、二人とももう行っちまったし！",
+    "translation": "这，她们俩这就上了啊！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n呃，两个人都冲出去了！\n\n两个人都已经走了！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いや、こういう時の里中は強い。\nきっと大丈夫だ。",
+    "translation": "没事，里中在这种时候都很强的。\n一定没问题的。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n不，里中在这种时候很强。\n一定没问题的。\n\n不，这种时候的里中很强。\n一定没问题。\n\n不，这种时候里中很坚强。一定没问题。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "行くぞー！　アチョー！",
+    "translation": "上吧——！我打——！",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n上吧——！亚喳——！\n\n去吧！阿哲！\n\n走吧！啊呀！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "わ、私も！　行くよー！\nアチョー！",
+    "translation": "我、我也！上了哦——！\n我打——！",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n我、我也！上吧——！\n亚喳——！\n\n哇，我也是！去吧！\n阿哲！\n\n哇，我也是！走吧～！\n阿超！"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

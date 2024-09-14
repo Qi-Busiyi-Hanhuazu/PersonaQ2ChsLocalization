@@ -1,0 +1,128 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "みんな、待って！\nその扉の先…複数の強い反応があるよ！",
+    "translation": "みんな、待って！\nその扉の先…複数の強い反応があるよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "へ！？　え、えええどうしよ！\nってか、強い反応って何！？",
+    "translation": "へ！？　え、えええどうしよ！\nってか、強い反応って何！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "…この感じ、前にもあった。",
+    "translation": "…この感じ、前にもあった。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "[P3P名]や[P4姓]たちに\n遭遇したときと似てる…",
+    "translation": "[P3P名]や[P4姓]たちに\n遭遇したときと似てる…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "なら、[P3P姓]さんの\n仲間がいるんじゃねーの？",
+    "translation": "なら、[P3P姓]さんの\n仲間がいるんじゃねーの？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "でも、それだけじゃないかも。\n他の反応もあって…",
+    "translation": "でも、それだけじゃないかも。\n他の反応もあって…",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "確かに、それは気になるな。",
+    "translation": "確かに、それは気になるな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "ジョーカー、どうする？\n一度、態勢を整えるのもありだが…",
+    "translation": "ジョーカー、どうする？\n一度、態勢を整えるのもありだが…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "この先は何があるかわからねぇ…\n準備はいいか？",
+    "translation": "この先は何があるかわからねぇ…\n準備はいいか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "先に進もう",
+    "translation": "先に進もう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "立て直そう",
+    "translation": "立て直そう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "気を引き締めて、行くぞ…！",
+    "translation": "気を引き締めて、行くぞ…！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "そうだな。賢明な判断だ。",
+    "translation": "そうだな。賢明な判断だ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

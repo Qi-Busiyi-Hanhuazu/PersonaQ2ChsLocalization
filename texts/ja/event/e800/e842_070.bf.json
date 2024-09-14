@@ -1,0 +1,107 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お願いしておりました品、\nひかり様よりお納め頂きました。",
+    "translation": "お願いしておりました品、\nひかり様よりお納め頂きました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "大変にすばらしき逸品、\n大切にさせて頂きたく存じます。",
+    "translation": "大変にすばらしき逸品、\n大切にさせて頂きたく存じます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "みんなで頑張ったから、\n喜んでもらえてよかった。",
+    "translation": "みんなで頑張ったから、\n喜んでもらえてよかった。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "何に使うの？",
+    "translation": "何に使うの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "蝶が好きなの？",
+    "translation": "蝶が好きなの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "特にこれといった用途は\nございませんが…",
+    "translation": "特にこれといった用途は\nございませんが…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "儚く舞う姿を眺め、心穏やかな時間を\n愉しむと言ったところでしょうか。",
+    "translation": "儚く舞う姿を眺め、心穏やかな時間を\n愉しむと言ったところでしょうか。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "好き、と言えばそうでしょうか。",
+    "translation": "好き、と言えばそうでしょうか。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "儚く舞う姿には何ゆえか\n心惹かれるものがございます。",
+    "translation": "儚く舞う姿には何ゆえか\n心惹かれるものがございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "最後はバタバタしちゃったけど、\nけっこう楽しかったかも。",
+    "translation": "最後はバタバタしちゃったけど、\nけっこう楽しかったかも。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "またよろしくね、ひかりちゃん。",
+    "translation": "またよろしくね、ひかりちゃん。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ありがとう、私も楽しかったよ。\nまたお手伝いさせてね。",
+    "translation": "ありがとう、私も楽しかったよ。\nまたお手伝いさせてね。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さて、始めるとするか。",
+    "translation": "那么，开始吧。",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n那么，开始吧。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あっ！　たいへん！",
+    "translation": "啊！糟了！",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n啊！糟糕！\n\n啊！不得了！\n\n啊！糟了！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "どうした！？　見つけたか？",
+    "translation": "怎么了！？找到了吗？",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n怎么了！？找到了吗？"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "お弁当持ってくるの忘れちゃった…\nせっかく作ったのに…",
+    "translation": "我忘记带便当了……\n好不容易都做好了……",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n我忘记带便当了……\n难得都做好了……\n\n忘记带便当了……\n好不容易做了……\n\n忘记带便当了……\n好不容易做出来的……"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…悪くない報せだな。",
+    "translation": "……是个不错的消息呢。",
+    "stage": 0,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n……是个不错的消息呢。\n\n……真是不错的回报啊。\n\n……真是个不错的消息。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "…ああ、幸先いいスタートだぜ。",
+    "translation": "……啊啊，是个好开始。",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n……嗯，是个好的开始。\n\n……啊，这是个好的开始。\n\n……啊，这是个很好的开始。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "エリザベスさん、\n『大物を』って言ってたね。",
+    "translation": "伊莉莎白小姐说过\n要“大只的”呢。",
+    "stage": 1,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n伊莉莎白\n说了要“大只的”呢。\n\n伊莉莎白小姐，你说“要有大人物”。\n\n\n伊莉莎白，你说的是“大人物”吧。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん、まずはちょっと歩いて\nどんなのいるか見てみよっか。",
+    "translation": "嗯，先稍微走一下，\n看看都有什么样子的吧。",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n嗯，先稍微走一下\n看看有什么吧。\n\n嗯，先走一走\n看看有什么人吧。\n\n嗯，先走一会儿，看看有什么样的。"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "光",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 由加莉",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

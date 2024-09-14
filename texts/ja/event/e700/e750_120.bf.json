@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "うおっ！　ア、アレって、Ｆ．Ｏ．Ｅか！？\nイカツすぎんだろ…",
+    "translation": "うおっ！　ア、アレって、Ｆ．Ｏ．Ｅか！？\nイカツすぎんだろ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ワンッ！　グルルルル…",
+    "translation": "ワンッ！　グルルルル…",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "コロマルさんも非常に警戒しています。\nかなりヤバイ相手のようです。",
+    "translation": "コロマルさんも非常に警戒しています。\nかなりヤバイ相手のようです。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "アイツが暴れたら、周囲の映画館さえ\n簡単に壊してしまいそうだな…",
+    "translation": "アイツが暴れたら、周囲の映画館さえ\n簡単に壊してしまいそうだな…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "つーか、もう壊してるけどな。\nなんだよ、あのパワー…ヤベェって！",
+    "translation": "つーか、もう壊してるけどな。\nなんだよ、あのパワー…ヤベェって！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ワンッ！ワンッ！",
+    "translation": "ワンッ！ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "Ｆ．Ｏ．Ｅがこっちに向かってくる。\n気をつけろ…と、言っています！",
+    "translation": "Ｆ．Ｏ．Ｅがこっちに向かってくる。\n気をつけろ…と、言っています！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "って、マジかよ！？\nおい！　逃げんぞ、ジョーカー…！",
+    "translation": "って、マジかよ！？\nおい！　逃げんぞ、ジョーカー…！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  }
+]

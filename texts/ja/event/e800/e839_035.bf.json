@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "フフフフフ。\n『黒い何か』は持って行かれたわ。",
+    "translation": "フフフフフ。\n『黒い何か』は持って行かれたわ。",
+    "stage": 1,
+    "context": "のんびりした花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "アハハハハ。\n『黒い何か』は下へ持って行かれたわ。",
+    "translation": "アハハハハ。\n『黒い何か』は下へ持って行かれたわ。",
+    "stage": 1,
+    "context": "朗らかな花"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "アイツが『黒い何か』を\n独り占めするために。",
+    "translation": "アイツが『黒い何か』を\n独り占めするために。",
+    "stage": 1,
+    "context": "のんびりした花"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "まだよく分かんねーけど、下の階に\n『黒い何か』ってのがあるみたいだな。",
+    "translation": "まだよく分かんねーけど、下の階に\n『黒い何か』ってのがあるみたいだな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "ひかりが書いた、地図の目印んとこ。\nまずはそこを目指そうぜ。",
+    "translation": "ひかりが書いた、地図の目印んとこ。\nまずはそこを目指そうぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_のんびりした花",
+    "original": "のんびりした花",
+    "translation": "のんびりした花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_朗らかな花",
+    "original": "朗らかな花",
+    "translation": "朗らかな花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

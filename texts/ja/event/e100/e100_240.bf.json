@@ -1,0 +1,170 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "助かったぁ…ありがとう！",
+    "translation": "助かったぁ…ありがとう！",
+    "stage": 1,
+    "context": "茶髪の少女"
+  },
+  {
+    "key": "MSG_000_5_0",
+    "original": "あの、もしかして君たちも…\nペルソナ使い？",
+    "translation": "あの、もしかして君たちも…\nペルソナ使い？",
+    "stage": 1,
+    "context": "茶髪の少女"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ。\nそっちも同じみたいだな。",
+    "translation": "ああ。\nそっちも同じみたいだな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "俺たちの他にも、ペルソナ使いが…\n不思議な縁を感じるな。",
+    "translation": "俺たちの他にも、ペルソナ使いが…\n不思議な縁を感じるな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うん。私もびっくりしちゃった。\n凄いマスクつけてるし、最初は敵かと…",
+    "translation": "うん。私もびっくりしちゃった。\n凄いマスクつけてるし、最初は敵かと…",
+    "stage": 1,
+    "context": "茶髪の少女"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あはは…\n傍から見たら、確かにヘンだよね。",
+    "translation": "あはは…\n傍から見たら、確かにヘンだよね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "ヘンじゃない",
+    "translation": "ヘンじゃない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "スタイリッシュだ",
+    "translation": "スタイリッシュだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_2",
+    "original": "不審者じゃない",
+    "translation": "不審者じゃない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あ…その、ごめんね。",
+    "translation": "あ…その、ごめんね。",
+    "stage": 1,
+    "context": "茶髪の少女"
+  },
+  {
+    "key": "MSG_006_5_0",
+    "original": "カッコ悪いとかじゃなくて、\nとっても個性的だなって！",
+    "translation": "カッコ悪いとかじゃなくて、\nとっても個性的だなって！",
+    "stage": 1,
+    "context": "茶髪の少女"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん、そうだね。\nとっても個性的だと思う。",
+    "translation": "うん、そうだね。\nとっても個性的だと思う。",
+    "stage": 1,
+    "context": "茶髪の少女"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "うん、分かってるよ。\nすぐ助けてくれたしね！",
+    "translation": "うん、分かってるよ。\nすぐ助けてくれたしね！",
+    "stage": 1,
+    "context": "茶髪の少女"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "そうだ、さっき言ってたことなんだけど\nテオドアのこと知ってるの！？",
+    "translation": "そうだ、さっき言ってたことなんだけど\nテオドアのこと知ってるの！？",
+    "stage": 1,
+    "context": "茶髪の少女"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ああ。知っていると言っても、\n出会ったばかりだけどね。",
+    "translation": "ああ。知っていると言っても、\n出会ったばかりだけどね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "そっか…よかった、テオが無事で…\n突然はぐれちゃって心配してたんだ。",
+    "translation": "そっか…よかった、テオが無事で…\n突然はぐれちゃって心配してたんだ。",
+    "stage": 1,
+    "context": "茶髪の少女"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "向こうも、君のことを心配していたよ。\n早く再会できるといいね。",
+    "translation": "向こうも、君のことを心配していたよ。\n早く再会できるといいね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "うん、どうもありがとう。",
+    "translation": "うん、どうもありがとう。",
+    "stage": 1,
+    "context": "茶髪の少女"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "そういえば、自己紹介まだだったね。\n私の名前は…",
+    "translation": "そういえば、自己紹介まだだったね。\n私の名前は…",
+    "stage": 1,
+    "context": "茶髪の少女"
+  },
+  {
+    "key": "speaker_茶髪の少女",
+    "original": "茶髪の少女",
+    "translation": "茶髪の少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

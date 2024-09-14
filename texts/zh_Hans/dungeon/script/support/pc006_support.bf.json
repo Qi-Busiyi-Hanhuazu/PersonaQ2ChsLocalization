@@ -1,0 +1,737 @@
+[
+  {
+    "key": "RISE_FOE_FOLLOW_START_1_0",
+    "original": "Ｆ．Ｏ．Ｅが気づいたみたい！ ",
+    "translation": "F.O.E好像注意到了！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E好像注意到了！"
+  },
+  {
+    "key": "RISE_FOE_FOLLOW_START_2_0",
+    "original": "あのＦ．Ｏ．Ｅ、気づいてるよ！ ",
+    "translation": "那个F.O.E，注意到我们了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那个F.O.E，注意到了哦！ \n\n那个F.O.E，注意到了哟！ \n\n那个F.O.E，我注意到了！"
+  },
+  {
+    "key": "RISE_FOE_FOLLOW_START_3_0",
+    "original": "Ｆ．Ｏ．Ｅに注意して！ ",
+    "translation": "注意F.O.E！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n注意F.O.E！"
+  },
+  {
+    "key": "RISE_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅに気をつけて！ ",
+    "translation": "小心F.O.E！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n小心F.O.E！"
+  },
+  {
+    "key": "RISE_FOE_NEAR_2_0",
+    "original": "敵Ｆ．Ｏ．Ｅを発見！　注意して！ ",
+    "translation": "注意！发现敌方F.O.E！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现敌人F.O.E！注意！ \n\n发现敌人F.O.E！请注意！"
+  },
+  {
+    "key": "RISE_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅ、接近中だよ！ ",
+    "translation": "F.O.E正在接近！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E正在接近！ \n\nF.O.E，接近中哟！ \n\nF.O.E，正在接近中！"
+  },
+  {
+    "key": "RISE_FOE_FOLLOW_END_1_0",
+    "original": "Ｆ．Ｏ．Ｅを振り切ったよ！ ",
+    "translation": "已经摆脱F.O.E了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n甩掉F.O.E了哦！ \n\n甩掉了F.O.E哟！ \n\n我甩掉F.O.E了！"
+  },
+  {
+    "key": "RISE_FOE_FOLLOW_END_2_0",
+    "original": "Ｆ．Ｏ．Ｅから逃げ切れたみたい！ ",
+    "translation": "看来成功逃脱了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像成功甩掉F.O.E了！ \n\n好像从F.O.E逃出来了！ \n\n好像从F.O.E逃完了！"
+  },
+  {
+    "key": "RISE_FOE_FOLLOW_END_3_0",
+    "original": "よかった、もう追ってこないね。 ",
+    "translation": "太好了，他不追了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太好了，它不会再追来了呢。 \n\n太好了，不会再追上来了。 \n\n太好了，我不会再追你了。"
+  },
+  {
+    "key": "RISE_KANSI_REACTION_1_0",
+    "original": "気をつけて進んでね！ ",
+    "translation": "小心前进！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小心地前进吧！ \n\n小心前进！ \n\n小心前进哦！"
+  },
+  {
+    "key": "RISE_KANSI_REACTION_2_0",
+    "original": "見つからないように、そーっとね。 ",
+    "translation": "小心行动，不要被发现。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要小心别被发现，悄悄地哦。 \n\n为了找不到，就这样。 \n\n不要被发现，轻轻地。"
+  },
+  {
+    "key": "RISE_KANSI_REACTION_3_0",
+    "original": "慌てずに、慎重に行こう？ ",
+    "translation": "不要着急，谨慎行事吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不要慌张，慎重地走吧。 \n\n不要慌张，慎重地去吧？ \n\n不要慌张，慎重地走吧？"
+  },
+  {
+    "key": "RISE_DENKISAKU_REACTION__0",
+    "original": "そこ電気を止めないと通れないよ！ ",
+    "translation": "如果不切断那里的电力就过不去！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那边不关掉电就不能通过哦！ \n\n那里不关灯是过不去的！ \n\n不把那里的电关掉就不能通过哦！"
+  },
+  {
+    "key": "RISE_DENKISAKU_REACTION__2_0",
+    "original": "電気柵には注意して！ ",
+    "translation": "小心电网！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要小心有电的栅栏！ \n\n注意电栅栏！"
+  },
+  {
+    "key": "RISE_DENKISAKU_REACTION__3_0",
+    "original": "止めるスイッチがあるはずだよ！ \n探してみて！ ",
+    "translation": "应该有停止开关！\n快去找找看！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n应该有开关可以关掉！\n找找看！ \n\n应该有停止的开关！\n试着找找看！ \n\n应该有关闭的开关！\n找找看！"
+  },
+  {
+    "key": "RISE_KYOUHU_REACTION_1_0",
+    "original": "あっ、すごい風！ ",
+    "translation": "啊，好大的风！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊，风好强！ \n\n啊，好大的风！"
+  },
+  {
+    "key": "RISE_KYOUHU_REACTION_2_0",
+    "original": "ああっ、みんなー！ ",
+    "translation": "啊啊，大家！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊啊，大家！ \n\n啊，大家！"
+  },
+  {
+    "key": "RISE_KYOUHU_REACTION_3_0",
+    "original": "うっそ、流されてる！？ ",
+    "translation": "骗人的吧，被吹走了？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不会吧，被吹走了！？ \n\n嗯，被冲走了！？ \n\n不，被冲走了！？\n\n评论：\n\n不确定"
+  },
+  {
+    "key": "RISE_STAIR_FIND_1_0",
+    "original": "先に進めそうだよ！ ",
+    "translation": "看来可以继续前进了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像可以前进！ \n\n好像要先前进了！ \n\n好像要继续前进哦！"
+  },
+  {
+    "key": "RISE_STAIR_FIND_2_0",
+    "original": "次のエリアに行けそうだね、どうする？ ",
+    "translation": "看起来可以去下一区域了，要怎么办？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像可以到下一个区域，怎么办？ \n\n好像可以去下一个区域了，怎么办？ \n\n要去下一个区域了，怎么办？"
+  },
+  {
+    "key": "RISE_STAIR_FIND_3_0",
+    "original": "階段、発見！　行ってみる？ ",
+    "translation": "发现楼梯！要用吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现阶梯！要去看看吗？ \n\n发现楼梯！去看看？ \n\n楼梯，发现！要不要去看看？"
+  },
+  {
+    "key": "RISE_TREASURE_FIND_1_0",
+    "original": "宝箱はっけーん！ ",
+    "translation": "发现宝箱！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现宝箱！ \n\n宝箱来了！ \n\n宝箱破解！"
+  },
+  {
+    "key": "RISE_TREASURE_FIND_2_0",
+    "original": "ラッキー。宝箱、見ーっけ！ ",
+    "translation": "真走运。发现宝箱了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真幸运，找到宝箱了！ \n\n真幸运。宝箱，你看！ \n\n幸运。宝箱，来看看吧！"
+  },
+  {
+    "key": "RISE_TREASURE_FIND_3_0",
+    "original": "あっ、宝箱だよ！　開けてみる？ ",
+    "translation": "啊，是宝箱！要打看看看吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊，是宝箱！要打开看看吗？ \n\n啊，是宝箱啊！打开看看？ \n\n啊，宝箱！打开看看？"
+  },
+  {
+    "key": "RISE_CHECK_WALL_1_0",
+    "original": "前に何かあるみたい。 ",
+    "translation": "前面好像有什么东西。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前面好像有什么东西。 \n\n前面好像有什么。"
+  },
+  {
+    "key": "RISE_CHECK_WALL_2_0",
+    "original": "その辺り、ちょっと気になるかも… ",
+    "translation": "那附近有点让人在意啊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这边好像有点令人在意…… \n\n在那附近，可能有点在意…… \n\n这方面，可能有点在意……"
+  },
+  {
+    "key": "RISE_CHECK_WALL_3_0",
+    "original": "前方、調べてみない？ ",
+    "translation": "要不要去调查一下前面呢？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要调查一下前方？ \n\n前方，要不要调查一下？ \n\n不查一下前方吗？"
+  },
+  {
+    "key": "RISE_SWITCH_FIND_1_0",
+    "original": "近くにスイッチがありそうだよ。 ",
+    "translation": "附近应该有开关。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n附近好像有开关。"
+  },
+  {
+    "key": "RISE_SWITCH_FIND_2_0",
+    "original": "この辺にスイッチがありそうだね。 ",
+    "translation": "这附近可能有开关。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这边好像有开关。 \n\n这附近好像有开关。"
+  },
+  {
+    "key": "RISE_SWITCH_FIND_3_0",
+    "original": "スイッチがありそうな気配！ ",
+    "translation": "感觉有开关啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像有开关的气息！ \n\n好像有开关！ \n\n好像有开关的样子！"
+  },
+  {
+    "key": "RISE_SHORTCUT_FIND_1_0",
+    "original": "そこ、ショートカットできそうだよ！ ",
+    "translation": "那里好像是捷径！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那边好像可以抄捷径！ \n\n那里，快捷方式快要能了哟！ \n\n那里，好像可以剪短发哦！"
+  },
+  {
+    "key": "RISE_SHORTCUT_FIND_2_0",
+    "original": "近道になりそうなとこ、発見！ ",
+    "translation": "发现捷径！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现好像可以走捷径的地方！ \n\n快要成为近道的地方，发现！ \n\n发现可能成为捷径的地方！"
+  },
+  {
+    "key": "RISE_SHORTCUT_FIND_3_0",
+    "original": "見て！　そこ通れそうだよ！ ",
+    "translation": "快看！好像能从那里通过！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看！好像可以走那边！ \n\n看！那里好像可以通过！ \n\n你看！那里好像可以通过！"
+  },
+  {
+    "key": "RISE_PARTY_DEAD_1_0",
+    "original": "負傷者多数だよ！ \n戻ったほうがいいかも！ ",
+    "translation": "受伤者很多！\n或许返回一趟比较好！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有很多人受伤了！\n回去可能比较好！ \n\n伤员很多啊！\n也许回去比较好！ \n\n很多人受伤了！\n还是回去比较好！"
+  },
+  {
+    "key": "RISE_PARTY_DEAD_2_0",
+    "original": "大ピーンチ！　態勢を立て直して！ ",
+    "translation": "大危机！快重整旗鼓！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大危机！重整态势！ \n\n大pinch！重整态势！ \n\n大扁豆！重整旗鼓！"
+  },
+  {
+    "key": "RISE_PARTY_DEAD_3_0",
+    "original": "うわわ！　このまま進むのは超危険だよ！ ",
+    "translation": "哇哇！这个样子继续前进超危险的！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔哇哇！这样继续前进超危险的！ \n\n哇！就这样前进是超危险的！ \n\n哇！这样下去超危险的！"
+  },
+  {
+    "key": "RISE_FOE_WARNING_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅ、まだ追ってきてるよ！ ",
+    "translation": "F.O.E还在追！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E还在追过来！ \n\nF.O.E，我还在追你呢！ \n\nF.O.E，你还在追我呢！"
+  },
+  {
+    "key": "RISE_FOE_WARNING_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅに追われてる、注意して！ ",
+    "translation": "注意！F.O.E在追我们！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n被F.O.E追着，小心！ \n\n被F.O.E追赶着，注意！"
+  },
+  {
+    "key": "RISE_FOE_WARNING_NEAR_3_0",
+    "original": "まだ追われてるよ、油断しないで！ ",
+    "translation": "还在被追着呢，不要掉以轻心！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n还在追哦，不要大意！ \n\n你还在被追呢，不要大意！ \n\n还被追赶着，不要疏忽大意！"
+  },
+  {
+    "key": "RISE_PARTY_HPTP10_1_0",
+    "original": "マズいよ！　いったん戻ってきて！ ",
+    "translation": "不妙！先回去吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不妙！先回来！ \n\n真糟糕！暂时回来！ \n\n不好意思！先回来吧！"
+  },
+  {
+    "key": "RISE_PARTY_HPTP10_2_0",
+    "original": "ピンチ、ピンチ！　無理しちゃダメ！ ",
+    "translation": "危险，危险！别勉强了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n危机，危机！不可以勉强！ \n\n危机，危机！不能勉强！ \n\n危机，危机！不要勉强！"
+  },
+  {
+    "key": "RISE_PARTY_HPTP10_3_0",
+    "original": "全滅しちゃう！　体勢立て直せる？ ",
+    "translation": "要全灭了！还能重整旗鼓吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n会全灭！能重整态势吗？ \n\n全军覆没！能重整姿势吗？ \n\n全军覆没！能恢复姿势吗？"
+  },
+  {
+    "key": "RISE_PARTY_HP10_1_0",
+    "original": "みんなの体力がピンチ！ ",
+    "translation": "大家的体力都到极限了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家的体力陷入危机！ \n\n大家的体力危机！ \n\n大家的体力面临危机！"
+  },
+  {
+    "key": "RISE_PARTY_HP10_2_0",
+    "original": "みんな、体力が減ってるよ！ ",
+    "translation": "大家的体力都很少了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家的体力都减少了！ \n\n大家的体力都在减少哦！"
+  },
+  {
+    "key": "RISE_PARTY_HP10_3_0",
+    "original": "みんな、体力回復して！ ",
+    "translation": "大家快恢复体力！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家，恢复体力！"
+  },
+  {
+    "key": "RISE_1PERSON_HPTP10_1_0",
+    "original": "危険な状態だよ！ ",
+    "translation": "这样子很危险！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n状况很危险！ \n\n危险的状态！ \n\n情况很危险！"
+  },
+  {
+    "key": "RISE_1PERSON_HPTP10_2_0",
+    "original": "このままじゃ倒れちゃう、回復して！ ",
+    "translation": "这样下去会倒下的，快回复！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这样下去会倒下的，快回复！ \n\n这样下去会倒下的，快恢复！ \n\n就这样倒下了，恢复吧！"
+  },
+  {
+    "key": "RISE_1PERSON_HPTP10_3_0",
+    "original": "体力・気力ピンチだよ！ ",
+    "translation": "体力和精力都要不行了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n体力和气力都陷入危机了！ \n\n体力·精力危机哟！ \n\n体力·气力危机哟！"
+  },
+  {
+    "key": "RISE_PARTY_TP10_1_0",
+    "original": "みんなの気力に注意して！ ",
+    "translation": "注意大家的精力！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家要注意气力！ \n\n注意大家的毅力！ \n\n注意大家的精力！"
+  },
+  {
+    "key": "RISE_PARTY_TP10_2_0",
+    "original": "みんな、疲れてるよ！　大丈夫？ ",
+    "translation": "大家都很累了！没问题吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家都很累了！没事吧？ \n\n大家都累了！没事吧？"
+  },
+  {
+    "key": "RISE_PARTY_TP10_3_0",
+    "original": "気力に注意して、みんな！ ",
+    "translation": "大家要注意精力哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家要注意气力！ \n\n注意气力，大家！ \n\n注意精力，大家！"
+  },
+  {
+    "key": "RISE_1PERSON_HP10_1_0",
+    "original": "体力回復できる？ ",
+    "translation": "能恢复体力吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能回复体力吗？ \n\n能恢复体力吗？"
+  },
+  {
+    "key": "RISE_1PERSON_HP10_2_0",
+    "original": "誰か、回復してあげて！ ",
+    "translation": "谁来帮他恢复！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n谁来回复一下！ \n\n谁来帮我恢复一下吧！ \n\n谁来帮我恢复！"
+  },
+  {
+    "key": "RISE_1PERSON_HP10_3_0",
+    "original": "体力に注意して！ ",
+    "translation": "注意保重身体！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要注意体力！ \n\n注意体力！"
+  },
+  {
+    "key": "RISE_1PERSON_TP10_1_0",
+    "original": "疲れてない？　大丈夫？ ",
+    "translation": "你不累吗？没事吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n会累吗？没事吧？ \n\n不累吗？没事吧？"
+  },
+  {
+    "key": "RISE_1PERSON_TP10_2_0",
+    "original": "気力がヤバいよ！ ",
+    "translation": "精力告急！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n气力快不行了！ \n\n精力太糟糕了！ \n\n力气太大了！"
+  },
+  {
+    "key": "RISE_1PERSON_TP10_3_0",
+    "original": "ガス欠になってない？ ",
+    "translation": "还能行吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n燃料快用完了？（注：日语中“气力”和“燃料”同音） \n\n没有缺煤气吗？ \n\n是不是没煤气了？"
+  },
+  {
+    "key": "RISE_ITEM_90_BATTLE_1_0",
+    "original": "荷物の整理整頓も大事だよ？ ",
+    "translation": "整理物品也很重要哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n整理行李也很重要哦！ \n\n整理整理行李也很重要？ \n\n行李的整理整顿也很重要哦。"
+  },
+  {
+    "key": "RISE_ITEM_90_BATTLE_2_0",
+    "original": "持ち物はマメに整理してね！ ",
+    "translation": "要经常整理物品哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要勤快整理行李哦！ \n\n要好好整理随身携带的物品哦！ \n\n请把随身物品整理成豆子哦！"
+  },
+  {
+    "key": "RISE_ITEM_90_BATTLE_3_0",
+    "original": "整理しないと、荷物が溢れそうだよ。 ",
+    "translation": "不整理的话，背包会溢出来的。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不整理的话，行李会满出来的！ \n\n不整理的话，行李会溢出来的。 \n\n不整理的话，行李都快溢出来了。"
+  },
+  {
+    "key": "RISE_1PERSON_HP80_1_0",
+    "original": "すごい、まだ余裕ありそうだね！ ",
+    "translation": "太棒了，看起来还能继续呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好厉害，好像还有余裕！ \n\n好厉害，好像还有富余呢！\n\n评论：\n\n不确定"
+  },
+  {
+    "key": "RISE_1PERSON_HP80_2_0",
+    "original": "この調子でどんどん行こ！ ",
+    "translation": "保持这个状态继续往前走吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n照这个步调继续前进吧！ \n\n就这样不断前进！ \n\n就这样不断地前进！"
+  },
+  {
+    "key": "RISE_1PERSON_HP80_3_0",
+    "original": "まだまだ元気そうだね！ ",
+    "translation": "你看起来还很精神呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看起来还很有精神呢！ \n\n还很有精神呢！ \n\n你看起来还很精神呢！"
+  },
+  {
+    "key": "FUKA_RISE_MAKASETA_1_0",
+    "original": "りせちゃん、\nあとはよろしくお願いします！",
+    "translation": "小理世，\n之后就交给你了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n理世，\n之后请多关照！\n\n理世，\n之后就拜托了！\n\n理世，之后就拜托你了！"
+  },
+  {
+    "key": "FUKA_RISE_MAKASETA_2_0",
+    "original": "りせちゃんのナビ、楽しみです！",
+    "translation": "我很期待小理世的导航！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好期待理世的导航哦！\n\n我很期待理世的导航！\n\n期待理世的导航！"
+  },
+  {
+    "key": "FUKA_RISE_MAKASETA_3_0",
+    "original": "ここからはりせちゃんに代わりますね！",
+    "translation": "接下来就交给小理世了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n接下来换理世上场喽！\n\n从这里开始我会代替理世酱的！\n\n从这里开始就换成理世了！"
+  },
+  {
+    "key": "FUKA_RISE_ANSWER_1_0",
+    "original": "風花ちゃんに代わりまして、 \nりせ、いきまーす！ ",
+    "translation": "就由我来代替小风花，\n理世，出击！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n接下来换我，\n理世要出发喽！ \n\n我代替风花，\n理世，来了！ \n\n代替风花，\n理世，加油！"
+  },
+  {
+    "key": "FUKA_RISE_ANSWER_2_0",
+    "original": "お疲れ様、風花ちゃん！\n次は任せてっ！ ",
+    "translation": "辛苦了，小风花！\n接下来就交给我吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n辛苦了，风花！\n接下来交给我！ \n\n辛苦了，风花酱！\n下次就交给我吧！ \n\n辛苦了，风花！\n下次就交给我吧！"
+  },
+  {
+    "key": "FUKA_RISE_ANSWER_3_0",
+    "original": "風花ちゃんの次は、 \nりせちーがナビをするよ！ ",
+    "translation": "在小风花之后\n由理世亲为大家导航！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n风花之后，\n换理世导航喽！ \n\n风小花之后，是理世导航哟！\n \n\n在风花之后，理世会做导航哦！"
+  },
+  {
+    "key": "FUTABA_RISE_MAKASETA_1_0",
+    "original": "ナビ、りせに交代するぞ！\nよろしく頼んだ！",
+    "translation": "导航就交给理世吧！\n交给你了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n导航换理世了！\n拜托你了！\n\n导航，理世交替！\n拜托了！\n\n导航，我要跟理世换班了！\n拜托了！"
+  },
+  {
+    "key": "FUTABA_RISE_MAKASETA_2_0",
+    "original": "りせ、ナビの交代よろしくな！\n期待してるぞ！",
+    "translation": "理世，换班吧！\n我期待你的表现！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n理世，导航交给你喽！\n我很期待哦！\n\n理世，导航的交替请多关照！\n很期待哦！\n\n理世，换班导航就拜托了！\n我很期待！"
+  },
+  {
+    "key": "FUTABA_RISE_MAKASETA_3_0",
+    "original": "よしっ！\nここからはりせにバトンタッチするぞ！",
+    "translation": "好！\n就让理世接力吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好！\n接下来换理世上场喽！\n\n好！\n从这里开始要向理世交接！\n\n好！\n从这里开始，我要向理世交接！"
+  },
+  {
+    "key": "FUTABA_RISE_ANSWER_1_0",
+    "original": "オッケー！　任せて、ナビ！ ",
+    "translation": "OK！导航就交给我吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nOK！交给我吧，导航！ \n\n好！交给我，导航！ \n\nOK ！交给我，导航！"
+  },
+  {
+    "key": "FUTABA_RISE_ANSWER_2_0",
+    "original": "ナビに代わって、 \nここからは私が支援するよ！ ",
+    "translation": "我会接替导航，\n接下来就由我来支援！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n接下来换我，\n来支援喽！ \n\n代替导航，\n从这里我支援哟！ \n\n代替导航，\n从这里开始我来支援哦！"
+  },
+  {
+    "key": "FUTABA_RISE_ANSWER_3_0",
+    "original": "ナビ、お疲れ！ \n私も頑張るからね！ ",
+    "translation": "导航辛苦了！\n我也会加油的！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n导航，辛苦了！\n我也会加油的！ \n\n导航，辛苦了！\n我也会努力的！ \n\n导航，辛苦了！我也会努力的！"
+  },
+  {
+    "key": "RISE_ITEM_90_DUNGEON_1_0",
+    "original": "荷物の整理整頓も大事だよ？ ",
+    "translation": "整理物品也很重要哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n整理行李也很重要哦！ \n\n整理整理行李也很重要？ \n\n行李的整理整顿也很重要哦。"
+  },
+  {
+    "key": "RISE_ITEM_90_DUNGEON_2_0",
+    "original": "持ち物はマメに整理してね！ ",
+    "translation": "要经常整理物品哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要勤快整理行李哦！ \n\n要好好整理随身携带的物品哦！ \n\n请把随身物品整理成豆子哦！"
+  },
+  {
+    "key": "RISE_ITEM_90_DUNGEON_3_0",
+    "original": "整理しないと、荷物が溢れそうだよ。 ",
+    "translation": "不整理的话，背包会溢出来的。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不整理的话，行李会满出来的！ \n\n不整理的话，行李会溢出来的。 \n\n不整理的话，行李都快溢出来了。"
+  },
+  {
+    "key": "RISE_DUNGEON_START_1_0",
+    "original": "頑張ってサポートするね！ ",
+    "translation": "我会努力支援你的！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我会努力支援的！ \n\n加油支持！ \n\n加油支持哦！"
+  },
+  {
+    "key": "RISE_DUNGEON_START_2_0",
+    "original": "危なくなったら、すぐに退避してね？ ",
+    "translation": "如果情况危险，要立即撤离。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n遇到危险的时候，要马上撤退哦！ \n\n有危险的话，要马上躲避哦。 \n\n危险的话，马上躲避吧？"
+  },
+  {
+    "key": "RISE_DUNGEON_START_3_0",
+    "original": "みんな、準備はいい？ \n張り切ってこー！ ",
+    "translation": "大家准备好了吗？\n全力上吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家准备好了吗？\n鼓起干劲上吧！ \n\n大家准备好了吗？\n加油！ \n\n大家准备好了吗？\n干劲十足！"
+  },
+  {
+    "key": "RISE_QUEST_START_1_0",
+    "original": "無事に達成できるよう、ガンバろー！ ",
+    "translation": "为了顺利完成目标，加油吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n为了能顺利达成目标，一起加油吧！ \n\n为了能平安达成，加油！ \n\n为了能顺利达成，加油！"
+  },
+  {
+    "key": "RISE_QUEST_START_2_0",
+    "original": "それじゃ、特別上映始まるよー！ ",
+    "translation": "那么，特别上映开始了哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那么，特别上映要开始咯！ \n\n那么，特别上映开始哟！ \n\n那么，特别上映开始啦～！"
+  },
+  {
+    "key": "RISE_QUEST_START_3_0",
+    "original": "特別上映、スタート！ ",
+    "translation": "特别上映，开始！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n特别上映，开始！ \n\n特别上映开始！"
+  },
+  {
+    "key": "RISE_TOUHA_25_1_0",
+    "original": "先は長そうだよ、気をつけて！ ",
+    "translation": "前方的路看起来很长，小心！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前面好像还很长，要小心哦！ \n\n前面好像很长，小心！ \n\n前面的路还很长，小心点！"
+  },
+  {
+    "key": "RISE_TOUHA_25_2_0",
+    "original": "まだ道のりは長そうだよ！ \n油断しないでね！ ",
+    "translation": "还有很长的路要走呢！\n不要掉以轻心哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n路途好像还很遥远！\n不要大意！ \n\n路还很长呢！\n不要大意哦！ \n\n路还很长呢！不要大意哦！"
+  },
+  {
+    "key": "RISE_TOUHA_50_1_0",
+    "original": "半分くらいは来たかな。頑張って！ ",
+    "translation": "大概过了一半了吧。加油！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大概走了一半了吧，加油！ \n\n大概来了一半吧。加油！"
+  },
+  {
+    "key": "RISE_TOUHA_50_2_0",
+    "original": "順調だね！　この調子で行っちゃおー！ ",
+    "translation": "很顺利呢！就这样继续吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n很顺利呢！就照这个样子继续下去吧！ \n\n很顺利啊！就这样走吧！ \n\n很顺利啊！这样下去可不行啊！"
+  },
+  {
+    "key": "RISE_TOUHA_75_1_0",
+    "original": "このフロアもあと少しだよ、頑張ろ！ ",
+    "translation": "这一层也只剩一点了，加油！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这个楼层也快走完了，加油！ \n\n这个楼层还有一点哦，加油！ \n\n这个楼层也只差一点点了，加油！"
+  },
+  {
+    "key": "RISE_TOUHA_75_2_0",
+    "original": "けっこう歩いたね。みんないい調子！ ",
+    "translation": "走得相当远了呢。大家都很棒！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n走了不少路呢，大家状态都很好！ \n\n走了不少路呢。大家的状态都很好！ \n\n你走了不少路啊。大家好！\n\n评论：\n\n不确定"
+  },
+  {
+    "key": "RISE_TOUHA_100_1_0",
+    "original": "行けそうな場所は回れたね！ \nおめでとう！ ",
+    "translation": "能去的地方都去了呢！\n恭喜！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能去的地方都绕过了呢！\n恭喜！ \n\n好像能去的地方转了一圈呢！\n恭喜！ \n\n能去的地方都转过去了呢！\n恭喜！"
+  },
+  {
+    "key": "RISE_TOUHA_100_2_0",
+    "original": "回ってない場所はなさそうだね！ \nやった！ ",
+    "translation": "好像已经没有地方探索了呢！\n太好了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像没有没绕过的地方呢！\n太好了！ \n\n好像没有不转的地方啊！\n太好了！ \n\n好像没有不转的地方！\n太棒了！"
+  },
+  {
+    "key": "RISE_MAPPING_ICON_ALL_1_0",
+    "original": "いい感じに描けてるね！ ",
+    "translation": "画得不错呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n画得不错呢！ \n\n画得真好啊！ \n\n画得很好呢！"
+  },
+  {
+    "key": "RISE_MAPPING_ICON_ALL_2_0",
+    "original": "しるし、ばっちりだね！ ",
+    "translation": "标记得非常完美！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n记号画得很完美呢！ \n\n标志，很漂亮啊！ \n\n标志，很准确啊！"
+  },
+  {
+    "key": "RISE_MAPPING_ICON_KAIDAN_0",
+    "original": "フロア移動できる場所は大切だもんね！ ",
+    "translation": "可以移动到不同楼层的地方是很重要的！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能移动到其他楼层的地方很重要呢！ \n\n楼层能移动的地方是很重要的！ \n\n能移动楼层的地方很重要呢！"
+  },
+  {
+    "key": "RISE_MAPPING_ICON_KAIDAN_2_0",
+    "original": "この地図があれば迷わないね！ ",
+    "translation": "有了这张地图就不会迷路了呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n只要有这张地图就不会迷路了呢！ \n\n有了这张地图就不会迷路了！"
+  },
+  {
+    "key": "RISE_MAPPING_CHANGE_COLO_0",
+    "original": "色変えるんだ、オシャレだね！ ",
+    "translation": "换颜色了，好时尚啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n还换了颜色，真时髦呢！ \n\n改变颜色，好时尚啊！ \n\n改变颜色，很时尚呢！"
+  },
+  {
+    "key": "RISE_MAPPING_CHANGE_COLO_2_0",
+    "original": "どんな地図になるのか、楽しみ！ ",
+    "translation": "会是怎样的地图呢，好期待啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好期待会是什么样的地图！ \n\n会变成什么样的地图呢，很期待！ \n\n会是怎样的地图呢？很期待！"
+  },
+  {
+    "key": "RISE_MAPPING_ICON_DEL_1_0",
+    "original": "うん、見やすくなるね！ ",
+    "translation": "嗯，变得更容易阅读了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯，变得很好辨认了呢！ \n\n嗯，变得容易看！ \n\n嗯，变得容易看了！"
+  },
+  {
+    "key": "RISE_MAPPING_ICON_DEL_2_0",
+    "original": "迷わないよう、ちゃんと整頓だね！ ",
+    "translation": "为了不迷失方向，要好好整理！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n为了不迷路，要好好整理呢！ \n\n为了不迷路，好好整顿一下吧！"
+  },
+  {
+    "key": "RISE_MAPPING_MEMO_1_0",
+    "original": "マメだね、さっすがー！ ",
+    "translation": "真勤快啊，不愧是你！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真认真，不愧是！ \n\n真是豆子啊！ \n\n你真勤快，萨克斯！"
+  },
+  {
+    "key": "RISE_MAPPING_MEMO_2_0",
+    "original": "大事なことはメモメモ、だね！ ",
+    "translation": "重要的事情要记下来哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n重要的事要记下来呢！ \n\n重要的事情要记笔记，对吧！ \n\n重要的是记笔记，对吧！"
+  },
+  {
+    "key": "RISE_KARITORU_ENCOUNT_1_0",
+    "original": "ヤバッ、“刈り取るもの”の気配！ \n気をつけて！ ",
+    "translation": "不好，有“猎杀者”的气息！\n大家小心！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n糟糕，有“收割者”的气息！\n小心！ \n\nyaba，“收割的东西”的气息！\n小心！ \n\n糟糕，“收割的东西”的气息！\n小心！"
+  },
+  {
+    "key": "RISE_KARITORU_ENCOUNT_2_0",
+    "original": "“刈り取るもの”の気配を察知！ \n注意して！ ",
+    "translation": "感知到了“猎杀者”的气息！\n小心！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n察觉到“收割者”的气息！\n注意！ \n\n察觉到“收割之物”的气息！\n注意！ \n\n察觉“收割的东西”的气息！\n注意！"
+  },
+  {
+    "key": "RISE_KARITORU_ENCOUNT_3_0",
+    "original": "“刈り取るもの”の反応！ \n来るよ！ ",
+    "translation": "是“猎杀者”的反应！\n要来了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“收割者”的反应！\n要来了！ \n\n“收割的东西”的反应！\n会来的！"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ワウッ！　ワンワン！",
+    "translation": "ワウッ！　ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ありましたね、骨！\n順調じゃないですか？",
+    "translation": "ありましたね、骨！\n順調じゃないですか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "コロマル君のおかげだね。\nそれじゃあ、今度は僕の出番かな。",
+    "translation": "コロマル君のおかげだね。\nそれじゃあ、今度は僕の出番かな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "これも食事の跡だ。\nしかも、さっきより少し新しい。",
+    "translation": "これも食事の跡だ。\nしかも、さっきより少し新しい。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なに！？　いよいよ対決の時か！",
+    "translation": "なに！？　いよいよ対決の時か！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "はは、残念だけどまだ少し先かな。",
+    "translation": "はは、残念だけどまだ少し先かな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "新しいといっても、骨にされてから\nある程度は経っているみたいだ。",
+    "translation": "新しいといっても、骨にされてから\nある程度は経っているみたいだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ワウワウ、ワフッ！",
+    "translation": "ワウワウ、ワフッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "なるほど、次は東に進めばいいのかい？",
+    "translation": "なるほど、次は東に進めばいいのかい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "……！",
+    "translation": "……！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "言葉がわかるのか？",
+    "translation": "言葉がわかるのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "西だと思う",
+    "translation": "西だと思う",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ああいや、そうじゃない。\nなんとなくそう思っただけだよ。",
+    "translation": "ああいや、そうじゃない。\nなんとなくそう思っただけだよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "どうかな、天田くん。",
+    "translation": "どうかな、天田くん。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "…はい、コロマルは\n東だって言ってるみたいです。",
+    "translation": "…はい、コロマルは\n東だって言ってるみたいです。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あれ？　違ったかな？",
+    "translation": "あれ？　違ったかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "…いえ、クロウさんの言う通りです。\nコロマルは、東の方だって。",
+    "translation": "…いえ、クロウさんの言う通りです。\nコロマルは、東の方だって。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "へー、クロウとコロちゃん、\nやっぱりいいコンビかも。",
+    "translation": "へー、クロウとコロちゃん、\nやっぱりいいコンビかも。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "それじゃ、次は東に向かってみて！",
+    "translation": "それじゃ、次は東に向かってみて！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  }
+]

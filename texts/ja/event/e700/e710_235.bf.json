@@ -1,0 +1,121 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "はあ…めちゃくちゃ疲れたー！\nどんだけ監視してんの！？",
+    "translation": "はあ…めちゃくちゃ疲れたー！\nどんだけ監視してんの！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そうだな、もっと節電すべきだ。\n電気代もバカにならん。",
+    "translation": "そうだな、もっと節電すべきだ。\n電気代もバカにならん。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "実際、先月の料金を見たときの\n恐怖といったら…！　くっ！",
+    "translation": "実際、先月の料金を見たときの\n恐怖といったら…！　くっ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "いや、今、それは関係ねーだろ…",
+    "translation": "いや、今、それは関係ねーだろ…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "まあ、サーチライトを潜り抜けるというのは\n怪盗の醍醐味のようで楽しくはあったがな。",
+    "translation": "まあ、サーチライトを潜り抜けるというのは\n怪盗の醍醐味のようで楽しくはあったがな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "無事に抜けられたから良かったものの、\n捕まったらどうなってたことか…",
+    "translation": "無事に抜けられたから良かったものの、\n捕まったらどうなってたことか…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ま、お疲れさんってとこか。",
+    "translation": "ま、お疲れさんってとこか。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "ちなみに、ざっと見たところ\nもうサーチライトは無さそうだぞ！",
+    "translation": "ちなみに、ざっと見たところ\nもうサーチライトは無さそうだぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "…このエリアには、だけどな。",
+    "translation": "…このエリアには、だけどな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うげ…ってことは、\n次のエリアもあるってことかよ…",
+    "translation": "うげ…ってことは、\n次のエリアもあるってことかよ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "クイーンとノワールのためだぞ。\n気張れよ、スカル！",
+    "translation": "クイーンとノワールのためだぞ。\n気張れよ、スカル！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "わかってるって！\nんじゃ、気合い入れ直して行くぞ！",
+    "translation": "わかってるって！\nんじゃ、気合い入れ直して行くぞ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

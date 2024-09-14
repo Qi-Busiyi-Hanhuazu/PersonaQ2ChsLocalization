@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ここは開けているな…",
+    "translation": "这里是打开的啊……",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n这里没有门啊……\n\n这里开着啊……\n\n这里很开阔啊……"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "な、なんだあのロボット？\n敵かっ！？",
+    "translation": "那、那个机器人是什么情况？\n是敌人吗！？",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n那、那个机器人是什么？\n是敌人吗！？\n\n什么，那个机器人？\n是敌人吗！？\n\n喂，那个机器人是什么？\n敌人啊！？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ちょっと、あそこ！\n誰か戦ってない！？",
+    "translation": "诶，那边是！\n并没有战斗啊！？",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n喂，那边！\n怎么都没人战斗！？\n\n喂，那里！\n有人在战斗吗！？\n\n喂，那里！\n谁没有战斗！？"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あれはっ…！",
+    "translation": "那个人是……！",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n那是……！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "えっ？\nあの動きって、まさか！？",
+    "translation": "哎？\n那个动作，难道是！？",
+    "stage": 0,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n哎？\n那个动作，难道是！？\n\n啊？\n那个动作，不会吧！？\n\n诶？那个动作，怎么可能！？"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鹤",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 由加莉",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

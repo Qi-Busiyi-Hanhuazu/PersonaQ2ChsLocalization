@@ -1,0 +1,247 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "クンクン…",
+    "translation": "クンクン…",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ワン。",
+    "translation": "ワン。",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ワン！ ワンワン！",
+    "translation": "ワン！ ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ぐるるる…\nワン！",
+    "translation": "ぐるるる…\nワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ワオーン！",
+    "translation": "ワオーン！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ワンワンワン！",
+    "translation": "ワンワンワン！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "クンクン。",
+    "translation": "クンクン。",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ワン！　ワンワンワン！",
+    "translation": "ワン！　ワンワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "クウーン…",
+    "translation": "クウーン…",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "グルルル…！",
+    "translation": "グルルル…！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ワン！　ワンワン！",
+    "translation": "ワン！　ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "クンクン…　ワン！",
+    "translation": "クンクン…　ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ワンワン！！",
+    "translation": "ワンワン！！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  }
+]

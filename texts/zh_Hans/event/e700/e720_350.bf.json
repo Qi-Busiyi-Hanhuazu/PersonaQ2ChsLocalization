@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ちょっと待った！\nこの先に敵の気配だ！",
+    "translation": "稍等一下！\n前方有敌人的气息！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n等一下！\n前方有敌人的气息！\n\n等一下！\n前方是敌人的气息！\n\n等一下！前面有敌人的迹象！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "待ち伏せでしょうか。\n進めば戦闘になりそうですね。",
+    "translation": "该会是埋伏吗？\n继续前进的话可能要面临战斗。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n是埋伏吗？\n前进的话，应该会变成战斗呢。\n\n是埋伏吗。\n前进的话好像会变成战斗。\n\n是在埋伏吗？\n推进的话可能会发生战斗。"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "準備はいいですか、ジョーカー？",
+    "translation": "准备好了吗，JOKER？",
+    "stage": 0,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n准备好了吗，JOKER？\n\n你准备好了吗，JOKER ？"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "行こう",
+    "translation": "我们走吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n上吧\n\n走吧"
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "ちょっと待って",
+    "translation": "稍等一下",
+    "stage": 1,
+    "context": "机翻辅助：\n\n等我一下\n\n稍等一下\n\n等一下"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "わかったわ。\n蹴散らしてやりましょう！",
+    "translation": "我明白了。\n让我来击垮它们！",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n我知道了。\n我们把它们赶走吧！\n\n我知道了。\n踢散吧！\n\n我知道了。\n踢开他吧！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うん、しっかり態勢を整えてから\n進みましょう。",
+    "translation": "好的，\n先确保做好准备再继续前进吧。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n嗯，好好地做好准备\n再前进吧。\n\n嗯，做好准备后再前进吧。\n\n\n嗯，做好准备之后再前进吧。"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白钟 直斗",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

@@ -1,0 +1,653 @@
+[
+  {
+    "key": "JUSTINE_FOE_FOLLOW_START_0",
+    "original": "あれは… ",
+    "translation": "あれは… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅに気づかれました。 ",
+    "translation": "Ｆ．Ｏ．Ｅに気づかれました。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_FOE_FOLLOW_START_3_0",
+    "original": "追尾状態にあります。 ",
+    "translation": "追尾状態にあります。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅが接近しています。 ",
+    "translation": "Ｆ．Ｏ．Ｅが接近しています。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_FOE_NEAR_2_0",
+    "original": "ご注意を、Ｆ．Ｏ．Ｅが近くにいます。 ",
+    "translation": "ご注意を、Ｆ．Ｏ．Ｅが近くにいます。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_FOE_NEAR_3_0",
+    "original": "慎重に進むことです。 ",
+    "translation": "慎重に進むことです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_FOE_FOLLOW_END_1_0",
+    "original": "これで少し落ち着けますね。 \nカロリーヌ。 ",
+    "translation": "これで少し落ち着けますね。 \nカロリーヌ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_FOE_FOLLOW_END_2_0",
+    "original": "どうやら、Ｆ．Ｏ．Ｅが \n追尾をやめたようです。 ",
+    "translation": "どうやら、Ｆ．Ｏ．Ｅが \n追尾をやめたようです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_FOE_FOLLOW_END_3_0",
+    "original": "追尾を止めたようですよ、カロリーヌ。 ",
+    "translation": "追尾を止めたようですよ、カロリーヌ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_KANSI_REACTION_1_0",
+    "original": "ライトで見つからないように \n進みなさい。 ",
+    "translation": "ライトで見つからないように \n進みなさい。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_KANSI_REACTION_2_0",
+    "original": "スイッチを切るまでは、 \nライトを避けて進むことです。 ",
+    "translation": "スイッチを切るまでは、 \nライトを避けて進むことです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_KANSI_REACTION_3_0",
+    "original": "避けて進めば、 \n見つかることはないでしょう。 ",
+    "translation": "避けて進めば、 \n見つかることはないでしょう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_DENKISAKU_REACTI_0",
+    "original": "電気を止めなければ、 \n進むことは叶いません。 ",
+    "translation": "電気を止めなければ、 \n進むことは叶いません。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_DENKISAKU_REACTI_2_0",
+    "original": "電気を止めるスイッチがあるはずです。 ",
+    "translation": "電気を止めるスイッチがあるはずです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_DENKISAKU_REACTI_3_0",
+    "original": "スイッチを探しだせれば、 \nこの先に行けるはずです。 ",
+    "translation": "スイッチを探しだせれば、 \nこの先に行けるはずです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_KYOUHU_REACTION__0",
+    "original": "あ、風が…！？ ",
+    "translation": "あ、風が…！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_KYOUHU_REACTION__2_0",
+    "original": "これに乗って移動するのです。 ",
+    "translation": "これに乗って移動するのです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_KYOUHU_REACTION__3_0",
+    "original": "だ、大丈夫ですか… ",
+    "translation": "だ、大丈夫ですか… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_STAIR_FIND_1_0",
+    "original": "そのようですね。 \n確認してみてください。 ",
+    "translation": "そのようですね。 \n確認してみてください。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_STAIR_FIND_2_0",
+    "original": "流石ですねカロリーヌ、 \n急いで確認を。 ",
+    "translation": "流石ですねカロリーヌ、 \n急いで確認を。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_STAIR_FIND_3_0",
+    "original": "前方に見えるのは階段ですね。 ",
+    "translation": "前方に見えるのは階段ですね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_TREASURE_FIND_1_0",
+    "original": "あれは、宝箱のようです。 ",
+    "translation": "あれは、宝箱のようです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_TREASURE_FIND_2_0",
+    "original": "宝箱を見つけましたね。 ",
+    "translation": "宝箱を見つけましたね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_TREASURE_FIND_3_0",
+    "original": "あれがオタカラというものなのですね。 ",
+    "translation": "あれがオタカラというものなのですね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_CHECK_WALL_1_0",
+    "original": "近くに何かがあるようですね。 ",
+    "translation": "近くに何かがあるようですね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_CHECK_WALL_2_0",
+    "original": "この近くに何かを感じます。 ",
+    "translation": "この近くに何かを感じます。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_CHECK_WALL_3_0",
+    "original": "この辺りを調べてみるのも \n良いでしょう。 ",
+    "translation": "この辺りを調べてみるのも \n良いでしょう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_SWITCH_FIND_1_0",
+    "original": "あれは…スイッチですね。 ",
+    "translation": "あれは…スイッチですね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_SWITCH_FIND_2_0",
+    "original": "近くにスイッチがあります。 ",
+    "translation": "近くにスイッチがあります。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_SWITCH_FIND_3_0",
+    "original": "スイッチを押せば、 \n何か変化があるでしょう。 ",
+    "translation": "スイッチを押せば、 \n何か変化があるでしょう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_SHORTCUT_FIND_1_0",
+    "original": "近くに通れる壁がありそうです。 ",
+    "translation": "近くに通れる壁がありそうです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_SHORTCUT_FIND_2_0",
+    "original": "あの壁、通れるかもしれません。 ",
+    "translation": "あの壁、通れるかもしれません。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_SHORTCUT_FIND_3_0",
+    "original": "近くの壁を調べてみてください。 ",
+    "translation": "近くの壁を調べてみてください。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_PARTY_DEAD_1_0",
+    "original": "カロリーヌ… \nだ…大丈夫でしょうか… ",
+    "translation": "カロリーヌ… \nだ…大丈夫でしょうか… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_PARTY_DEAD_2_0",
+    "original": "まずは回復を急ぎなさい。 ",
+    "translation": "まずは回復を急ぎなさい。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_PARTY_DEAD_3_0",
+    "original": "帰還も考慮して、 \n行動を選択することです。 ",
+    "translation": "帰還も考慮して、 \n行動を選択することです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_FOE_WARNING_NEAR_0",
+    "original": "まだＦ．Ｏ．Ｅに追われています。 \nカロリーヌも警戒を。 ",
+    "translation": "まだＦ．Ｏ．Ｅに追われています。 \nカロリーヌも警戒を。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_FOE_WARNING_NEAR_2_0",
+    "original": "引き続き、気を抜けませんよ。 ",
+    "translation": "引き続き、気を抜けませんよ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_FOE_WARNING_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅが追尾状態です。 ",
+    "translation": "Ｆ．Ｏ．Ｅが追尾状態です。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_PARTY_HPTP10_1_0",
+    "original": "皆様、すでに限界が来ている様子… ",
+    "translation": "皆様、すでに限界が来ている様子… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_PARTY_HPTP10_2_0",
+    "original": "作戦を中止すべきです。 ",
+    "translation": "作戦を中止すべきです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_PARTY_HPTP10_3_0",
+    "original": "皆様の疲れの色が濃いです。 ",
+    "translation": "皆様の疲れの色が濃いです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_PARTY_HP10_1_0",
+    "original": "おや、カロリーヌにしては優しい… \nですが同感です。 ",
+    "translation": "おや、カロリーヌにしては優しい… \nですが同感です。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_PARTY_HP10_2_0",
+    "original": "パーティ内の体力の低下を \n確認しました。 ",
+    "translation": "パーティ内の体力の低下を \n確認しました。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_PARTY_HP10_3_0",
+    "original": "まずは落ち着いて回復をするのです。 ",
+    "translation": "まずは落ち着いて回復をするのです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_1PERSON_HPTP10_1_0",
+    "original": "そろそろ限界ではありませんか？ ",
+    "translation": "そろそろ限界ではありませんか？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_1PERSON_HPTP10_2_0",
+    "original": "心も身体も限界です。 ",
+    "translation": "心も身体も限界です。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_1PERSON_HPTP10_3_0",
+    "original": "回復の手を差し伸べてください。 ",
+    "translation": "回復の手を差し伸べてください。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_PARTY_TP10_1_0",
+    "original": "カロリーヌ、彼らを休ませましょう。 ",
+    "translation": "カロリーヌ、彼らを休ませましょう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_PARTY_TP10_2_0",
+    "original": "皆様の気力が限界です… \n帰らせましょうカロリーヌ。 ",
+    "translation": "皆様の気力が限界です… \n帰らせましょうカロリーヌ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_PARTY_TP10_3_0",
+    "original": "今のままでは戦うことは難しいですよ。 ",
+    "translation": "今のままでは戦うことは難しいですよ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_1PERSON_HP10_1_0",
+    "original": "囚人の体力が限界です、休息しては？ ",
+    "translation": "囚人の体力が限界です、休息しては？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_1PERSON_HP10_2_0",
+    "original": "囚人の体力が低下しています。 ",
+    "translation": "囚人の体力が低下しています。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_1PERSON_HP10_3_0",
+    "original": "どなたか囚人に回復を。 ",
+    "translation": "どなたか囚人に回復を。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_1PERSON_TP10_1_0",
+    "original": "どうやら、精神が疲弊している様子… ",
+    "translation": "どうやら、精神が疲弊している様子… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_1PERSON_TP10_2_0",
+    "original": "気力の限界が近いですね。 ",
+    "translation": "気力の限界が近いですね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_1PERSON_TP10_3_0",
+    "original": "そろそろ限界のようですね。 ",
+    "translation": "そろそろ限界のようですね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_ITEM_90_BATTLE_1_0",
+    "original": "物を持ちすぎのようです。 ",
+    "translation": "物を持ちすぎのようです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_ITEM_90_BATTLE_2_0",
+    "original": "物を整理したほうがよさそうです。 ",
+    "translation": "物を整理したほうがよさそうです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_ITEM_90_BATTLE_3_0",
+    "original": "持ちすぎですよ、整理しなさい。 ",
+    "translation": "持ちすぎですよ、整理しなさい。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_1PERSON_HP80_1_0",
+    "original": "そうですね、カロリーヌ。 \n私たちも安心できるというものです。 ",
+    "translation": "そうですね、カロリーヌ。 \n私たちも安心できるというものです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_1PERSON_HP80_2_0",
+    "original": "良い戦い方ですね。 ",
+    "translation": "良い戦い方ですね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_1PERSON_HP80_3_0",
+    "original": "まだまだ戦えそうですね。 ",
+    "translation": "まだまだ戦えそうですね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_ITEM_90_DUNGEON__0",
+    "original": "物を持ちすぎのようです。 ",
+    "translation": "物を持ちすぎのようです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_ITEM_90_DUNGEON__2_0",
+    "original": "物を整理したほうがよさそうです。 ",
+    "translation": "物を整理したほうがよさそうです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_ITEM_90_DUNGEON__3_0",
+    "original": "持ちすぎですよ、整理しなさい。 ",
+    "translation": "持ちすぎですよ、整理しなさい。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_DUNGEON_START_1_0",
+    "original": "探索を開始するのですね？ ",
+    "translation": "探索を開始するのですね？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_DUNGEON_START_2_0",
+    "original": "それでは、私たちが援護します。 ",
+    "translation": "それでは、私たちが援護します。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_DUNGEON_START_3_0",
+    "original": "では、探索を進めましょう。 ",
+    "translation": "では、探索を進めましょう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_QUEST_START_1_0",
+    "original": "特別上映を開始いたします。 ",
+    "translation": "特別上映を開始いたします。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_QUEST_START_2_0",
+    "original": "達成まで我らが援護しましょう。 ",
+    "translation": "達成まで我らが援護しましょう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_QUEST_START_3_0",
+    "original": "それでは開始いたしましょう。 ",
+    "translation": "それでは開始いたしましょう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_TOUHA_25_1_0",
+    "original": "まだまだ先は長そうですね。 ",
+    "translation": "まだまだ先は長そうですね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_TOUHA_25_2_0",
+    "original": "少しだけ地図が描きあがりましたね。 ",
+    "translation": "少しだけ地図が描きあがりましたね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_TOUHA_50_1_0",
+    "original": "これで半分ほど進めましたね。 ",
+    "translation": "これで半分ほど進めましたね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_TOUHA_50_2_0",
+    "original": "やっと半分といったところでしょうか。 ",
+    "translation": "やっと半分といったところでしょうか。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_TOUHA_75_1_0",
+    "original": "もう少しで \nこのフロアのすべてがわかりますね。 ",
+    "translation": "もう少しで \nこのフロアのすべてがわかりますね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_TOUHA_75_2_0",
+    "original": "このフロアのすべて把握するまで、 \nあと少しです。 ",
+    "translation": "このフロアのすべて把握するまで、 \nあと少しです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_TOUHA_100_1_0",
+    "original": "フロアを踏破しましたね \n素晴らしいです。 ",
+    "translation": "フロアを踏破しましたね \n素晴らしいです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_TOUHA_100_2_0",
+    "original": "このフロアは踏破済みになりましたね。 ",
+    "translation": "このフロアは踏破済みになりましたね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_MAPPING_ICON_ALL_0",
+    "original": "なかなか良い描き方です。 ",
+    "translation": "なかなか良い描き方です。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_MAPPING_ICON_ALL_2_0",
+    "original": "囚人にしては上出来です。 ",
+    "translation": "囚人にしては上出来です。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_MAPPING_ICON_KAI_0",
+    "original": "我らの更生の成果ですね。 ",
+    "translation": "我らの更生の成果ですね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_MAPPING_ICON_KAI_2_0",
+    "original": "階段に印をつけるのですね？ ",
+    "translation": "階段に印をつけるのですね？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_MAPPING_CHANGE_C_0",
+    "original": "どんな地図になるのか楽しみです。 ",
+    "translation": "どんな地図になるのか楽しみです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_MAPPING_CHANGE_C_2_0",
+    "original": "面白い色使いですね。 ",
+    "translation": "面白い色使いですね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_MAPPING_ICON_DEL_0",
+    "original": "間違いは正されるものなのです。 ",
+    "translation": "間違いは正されるものなのです。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_MAPPING_ICON_DEL_2_0",
+    "original": "地図を綺麗にするのは良い事ですよ。 ",
+    "translation": "地図を綺麗にするのは良い事ですよ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_MAPPING_MEMO_1_0",
+    "original": "メモを取るとは… \n貴方の成長を感じます。 ",
+    "translation": "メモを取るとは… \n貴方の成長を感じます。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_MAPPING_MEMO_2_0",
+    "original": "これで忘れることはないでしょう。 ",
+    "translation": "これで忘れることはないでしょう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_KARITORU_ENCOUNT_0",
+    "original": "刈り取る者が来ます。 \n注意してください。 ",
+    "translation": "刈り取る者が来ます。 \n注意してください。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_KARITORU_ENCOUNT_2_0",
+    "original": "注意してください、刈り取る者です。 ",
+    "translation": "注意してください、刈り取る者です。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUSTINE_KARITORU_ENCOUNT_3_0",
+    "original": "刈り取る者…気を付けることです。 ",
+    "translation": "刈り取る者…気を付けることです。 ",
+    "stage": 1,
+    "context": ""
+  }
+]

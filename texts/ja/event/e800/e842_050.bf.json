@@ -1,0 +1,366 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さあ年貢の納めどきよー！\n大人しくお縄を頂戴しんしゃい！",
+    "translation": "さあ年貢の納めどきよー！\n大人しくお縄を頂戴しんしゃい！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "どうするよ？\nみんなでガバッと捕まえるか？",
+    "translation": "どうするよ？\nみんなでガバッと捕まえるか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "待って、驚いてまた逃げちゃう。",
+    "translation": "待って、驚いてまた逃げちゃう。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "ほら、おいで。",
+    "translation": "ほら、おいで。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "蝶はみるみる小さくなり、\nひかりの手にとまった…",
+    "translation": "蝶はみるみる小さくなり、\nひかりの手にとまった…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ふふ、かわいい。",
+    "translation": "ふふ、かわいい。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ひかりちゃん、スッゴ！\n何でそんなことできちゃうの？",
+    "translation": "ひかりちゃん、スッゴ！\n何でそんなことできちゃうの？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うーん、なんとなくできる気がしただけ。\n私の映画の中だからかな。",
+    "translation": "うーん、なんとなくできる気がしただけ。\n私の映画の中だからかな。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "お手柄だ",
+    "translation": "お手柄だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "驚いた",
+    "translation": "驚いた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_2",
+    "original": "かわいいな",
+    "translation": "かわいいな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ありがとう、ジョーカー。\nお役に立てたならうれしいな。",
+    "translation": "ありがとう、ジョーカー。\nお役に立てたならうれしいな。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ふふ、自分でもビックリしちゃった。",
+    "translation": "ふふ、自分でもビックリしちゃった。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "えっ！？",
+    "translation": "えっ！？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "あ、ああ、チョウチョのこと…\nうん、私もすごく好き。",
+    "translation": "あ、ああ、チョウチョのこと…\nうん、私もすごく好き。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "美少女と蝶、実に絵になってる。\nいいカットだぜ、うん。",
+    "translation": "美少女と蝶、実に絵になってる。\nいいカットだぜ、うん。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "よーし、これで蝶は手に入れた。\nミッションは無事終了だな！",
+    "translation": "よーし、これで蝶は手に入れた。\nミッションは無事終了だな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "さて、引き上げるとするか。",
+    "translation": "さて、引き上げるとするか。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "見て見て～！\nここ、お花がたくさん咲いてるクマよ？",
+    "translation": "見て見て～！\nここ、お花がたくさん咲いてるクマよ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ほんと、すごくいい香り。\n素敵なところだね。",
+    "translation": "ほんと、すごくいい香り。\n素敵なところだね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "辺りには色とりどりの花が咲き、\n甘い香りが漂っている…",
+    "translation": "辺りには色とりどりの花が咲き、\n甘い香りが漂っている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "つか、長いこと歩かされたし\nここで休憩してかねえ？",
+    "translation": "つか、長いこと歩かされたし\nここで休憩してかねえ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "SEL_017_0",
+    "original": "そうしよう",
+    "translation": "そうしよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_017_1",
+    "original": "早く帰ろう",
+    "translation": "早く帰ろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "やったー！\nおやつタイムにするクマ！",
+    "translation": "やったー！\nおやつタイムにするクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "悪くない場所だ。\n少しのんびりさせてもらうか。",
+    "translation": "悪くない場所だ。\n少しのんびりさせてもらうか。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "オヨ？\nジョーカー、おうちが恋しいクマか？",
+    "translation": "オヨ？\nジョーカー、おうちが恋しいクマか？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "でもチョットだけいいでしょー？\nみんなでピクニックしたいクマ～！",
+    "translation": "でもチョットだけいいでしょー？\nみんなでピクニックしたいクマ～！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "すまない、クマのわがままを\n聞いてやってくれないか。",
+    "translation": "すまない、クマのわがままを\n聞いてやってくれないか。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "この場所で少し休むことにした…",
+    "translation": "この場所で少し休むことにした…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "あー、チョウチョいたクマ！",
+    "translation": "あー、チョウチョいたクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ここ、いっぱいいるね。\nお花に集まって来てるみたい。",
+    "translation": "ここ、いっぱいいるね。\nお花に集まって来てるみたい。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "どれもとっても綺麗ねー！",
+    "translation": "どれもとっても綺麗ねー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "クマも、ヒカリンみたいに\nチョウチョ捕まえるクマ！",
+    "translation": "クマも、ヒカリンみたいに\nチョウチョ捕まえるクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "甘～いクマフェロモンでメロメロよー？\nほらおいでー！",
+    "translation": "甘～いクマフェロモンでメロメロよー？\nほらおいでー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "蝶がこちらに集まってくる…",
+    "translation": "蝶がこちらに集まってくる…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "……！",
+    "translation": "……！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "クマくんダメっ！　離れて！",
+    "translation": "クマくんダメっ！　離れて！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "大量のシャドウ反応！？\n危険です、戦闘態勢を！",
+    "translation": "大量のシャドウ反応！？\n危険です、戦闘態勢を！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "その蝶、シャドウだ！！\n来るぞ！",
+    "translation": "その蝶、シャドウだ！！\n来るぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

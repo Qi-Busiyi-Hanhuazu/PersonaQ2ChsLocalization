@@ -1,0 +1,443 @@
+[
+  {
+    "key": "FCL_NETWORK_MSG_YN_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_MSG_YN_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SUBPERSONA_C_0",
+    "original": "これでいい",
+    "translation": "これでいい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SUBPERSONA_C_1",
+    "original": "考え直す",
+    "translation": "考え直す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_0",
+    "original": "＞すれちがい通信に登録することで、\n　すれちがった相手と\n　『すれちがい手帳の交換』が行えます。",
+    "translation": "＞すれちがい通信に登録することで、\n　すれちがった相手と\n　『すれちがい手帳の交換』が行えます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_1",
+    "original": "＞ニンテンドー３ＤＳ本体に\n　ペルソナＱ２のすれちがい通信を\n　登録しますか？",
+    "translation": "＞ニンテンドー３ＤＳ本体に\n　ペルソナＱ２のすれちがい通信を\n　登録しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_SUCC_0",
+    "original": "＞ペルソナＱ２のすれちがい通信を\n　ニンテンドー３ＤＳ本体に登録しました。",
+    "translation": "＞ペルソナＱ２のすれちがい通信を\n　ニンテンドー３ＤＳ本体に登録しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_SUCC_1",
+    "original": "＞このゲームを終了しても\n　すれちがい通信は自動で行われます。",
+    "translation": "＞このゲームを終了しても\n　すれちがい通信は自動で行われます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_SUCC_2",
+    "original": "＞ＨＯＭＥメニューから『本体設定』を選び\n　『データ管理』の『すれちがい通信管理』で\n　すれちがい通信を停止する事ができます。",
+    "translation": "＞ＨＯＭＥメニューから『本体設定』を選び\n　『データ管理』の『すれちがい通信管理』で\n　すれちがい通信を停止する事ができます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_EXIS_0",
+    "original": "＞ペルソナＱ２のすれちがい通信は\n　すでに登録されています。",
+    "translation": "＞ペルソナＱ２のすれちがい通信は\n　すでに登録されています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_EXIS_1",
+    "original": "＞すれちがい通信をやめるときは\n　ＨＯＭＥメニューから『本体設定』を選び",
+    "translation": "＞すれちがい通信をやめるときは\n　ＨＯＭＥメニューから『本体設定』を選び",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_EXIS_2",
+    "original": "＞『データ管理』の『すれちがい通信管理』で\n　中止することができます。",
+    "translation": "＞『データ管理』の『すれちがい通信管理』で\n　中止することができます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_FULL_0",
+    "original": "＞ニンテンドー３ＤＳ本体にこれ以上\n　すれちがい通信を登録できません。",
+    "translation": "＞ニンテンドー３ＤＳ本体にこれ以上\n　すれちがい通信を登録できません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_FULL_1",
+    "original": "＞『本体設定』の『すれちがい通信管理』で\n　ほかのソフトのすれちがい通信をやめて\n　ください。",
+    "translation": "＞『本体設定』の『すれちがい通信管理』で\n　ほかのソフトのすれちがい通信をやめて\n　ください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_EULA_0",
+    "original": "＞すれちがい通信を利用するには\n　最新の利用規約に同意する必要が\n　あります。",
+    "translation": "＞すれちがい通信を利用するには\n　最新の利用規約に同意する必要が\n　あります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_EULA_1",
+    "original": "＞本体設定で『インターネット設定』⇒\n　『その他の情報』⇒『利用規約の確認』を\n　選び最新の利用規約に同意してください。",
+    "translation": "＞本体設定で『インターネット設定』⇒\n　『その他の情報』⇒『利用規約の確認』を\n　選び最新の利用規約に同意してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_PARE_0",
+    "original": "＞『他のユーザーとのすれちがい通信』が、\n　保護者により制限されているため\n　すれちがい通信を利用できません。",
+    "translation": "＞『他のユーザーとのすれちがい通信』が、\n　保護者により制限されているため\n　すれちがい通信を利用できません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_QR_ALERT_0",
+    "original": "＞他者を不快にしたり、その権利を侵害する\n　文章や自身や他人のプライベートな情報は\n　他人に渡したり公開しないでください",
+    "translation": "＞他者を不快にしたり、その権利を侵害する\n　文章や自身や他人のプライベートな情報は\n　他人に渡したり公開しないでください",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_QR_MAKE_0",
+    "original": "＞自分のすれちがい手帳のＱＲコードと\n　画像データをＳＤカードに出力します。\n　既にデータが存在する場合は上書きします。",
+    "translation": "＞自分のすれちがい手帳のＱＲコードと\n　画像データをＳＤカードに出力します。\n　既にデータが存在する場合は上書きします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_QR_MAKE_1",
+    "original": "＞ＳＤカードに出力してよろしいですか？",
+    "translation": "＞ＳＤカードに出力してよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_QR_SD_WRITIN_0",
+    "original": "＞ＳＤカードに書きこんでいます",
+    "translation": "＞ＳＤカードに書きこんでいます",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_QR_SD_NONE_0",
+    "original": "＞ＳＤカードが差されていません。",
+    "translation": "＞ＳＤカードが差されていません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_QR_SD_SHORTA_0",
+    "original": "＞ＳＤカードの空き容量が足りません。",
+    "translation": "＞ＳＤカードの空き容量が足りません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_QR_SD_PHOTO__0",
+    "original": "＞ＳＤカードの写真がいっぱいなので\n　保存できません。",
+    "translation": "＞ＳＤカードの写真がいっぱいなので\n　保存できません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_QR_SD_ERROR_0",
+    "original": "＞ＳＤカードを認識できませんでした。",
+    "translation": "＞ＳＤカードを認識できませんでした。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_QR_MAKE_SUCC_0",
+    "original": "＞ＤＣＩＭ／１００ＮＩＮ０３\n　にＱＲコードの画像データを出力しました。",
+    "translation": "＞ＤＣＩＭ／１００ＮＩＮ０３\n　にＱＲコードの画像データを出力しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_QR_LOAD_0",
+    "original": "＞外側カメラでペルソナＱ２の\n　ＱＲコードを写してください。",
+    "translation": "＞外側カメラでペルソナＱ２の\n　ＱＲコードを写してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_QR_LOAD_SUCC_0",
+    "original": "＞すれちがい手帳を登録しますか？",
+    "translation": "＞すれちがい手帳を登録しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_QR_SAVING_0",
+    "original": "＞読み込んだすれちがい手帳をセーブしています",
+    "translation": "＞読み込んだすれちがい手帳をセーブしています",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_QR_INVALID_D_0",
+    "original": "＞ペルソナＱ２の\n　ＱＲコードではありません。",
+    "translation": "＞ペルソナＱ２の\n　ＱＲコードではありません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_QR_DECODE_ER_0",
+    "original": "＞ＱＲコードが認識できませんでした。",
+    "translation": "＞ＱＲコードが認識できませんでした。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_INBOX_RECEIV_0",
+    "original": "＞新しいすれちがい手帳を受け取りますか？",
+    "translation": "＞新しいすれちがい手帳を受け取りますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_INBOX_CHECKI_0",
+    "original": "＞すれちがい通信のデータを\n　確認しています。",
+    "translation": "＞すれちがい通信のデータを\n　確認しています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_DELE_0",
+    "original": "このすれちがい手帳、捨てていいの？",
+    "translation": "このすれちがい手帳、捨てていいの？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_DELE_2_0",
+    "original": "このすれちがい手帳を処分して\n宜しいでしょうか？",
+    "translation": "このすれちがい手帳を処分して\n宜しいでしょうか？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_SUMM_0",
+    "original": "このペルソナを召喚するには、\n[占位A 01]円かかるけど、\nいいの？",
+    "translation": "このペルソナを召喚するには、\n[占位A 01]円かかるけど、\nいいの？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_SUMM_2_0",
+    "original": "このペルソナを召喚するには、\n[占位A 01]円かかります。\n宜しいでしょうか？",
+    "translation": "このペルソナを召喚するには、\n[占位A 01]円かかります。\n宜しいでしょうか？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_SUMM_3_0",
+    "original": "＞ペルソナ“[颜色 02][占位A 01][颜色 01]”を\n　召喚した。",
+    "translation": "＞ペルソナ“[颜色 02][占位A 01][颜色 01]”を\n　召喚した。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_EXIS_0",
+    "original": "このペルソナはもう持ってるよ。",
+    "translation": "このペルソナはもう持ってるよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_EXIS_2_0",
+    "original": "このペルソナは\n既にお持ちでございます。",
+    "translation": "このペルソナは\n既にお持ちでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_MONE_0",
+    "original": "このペルソナを召喚するには、\nお金が足りないよ。",
+    "translation": "このペルソナを召喚するには、\nお金が足りないよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_MONE_2_0",
+    "original": "このペルソナを召喚するには、\n所持金が足りないようです…",
+    "translation": "このペルソナを召喚するには、\n所持金が足りないようです…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_STOC_0",
+    "original": "それ以上はペルソナを持てないよ。",
+    "translation": "それ以上はペルソナを持てないよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_STOC_2_0",
+    "original": "それ以上はペルソナを\n所持できないようです。",
+    "translation": "それ以上はペルソナを\n所持できないようです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_LV_M_0",
+    "original": "このペルソナを召喚するには、\nキミのレベルが足りないよ。",
+    "translation": "このペルソナを召喚するには、\nキミのレベルが足りないよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_LV_E_0",
+    "original": "このペルソナを生み出すには、\nあなたのレベルが足りない\nようですね。",
+    "translation": "このペルソナを生み出すには、\nあなたのレベルが足りない\nようですね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "FCL_NETWORK_ATTACH_M_0",
+    "original": "このペルソナでいいの？",
+    "translation": "このペルソナでいいの？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "FCL_NETWORK_ATTACH_E_0",
+    "original": "このペルソナでいいの？",
+    "translation": "このペルソナでいいの？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "FCL_NETWORK_INPUT_ATTENT_0",
+    "original": "＞個人情報や受け取った人が、\n　不快に思う事は書かないでください。",
+    "translation": "＞個人情報や受け取った人が、\n　不快に思う事は書かないでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_INPUT_NGWORD_0",
+    "original": "＞不適切な内容です。\n　もう一度、入力してください。",
+    "translation": "＞不適切な内容です。\n　もう一度、入力してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_INPUT_NUMBER_0",
+    "original": "＞数字は５文字までしか入力できません。\n　もう一度、入力してください。",
+    "translation": "＞数字は５文字までしか入力できません。\n　もう一度、入力してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_NAME_OPEN_0",
+    "original": "＞主人公の名前を公開しますか？",
+    "translation": "＞主人公の名前を公開しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_NAME_OPEN_SE_0",
+    "original": "公開する",
+    "translation": "公開する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_NAME_OPEN_SE_1",
+    "original": "公開しない",
+    "translation": "公開しない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_EDIT_SAVE_0",
+    "original": "＞すれちがい手帳の内容が、\n　更新されています。",
+    "translation": "＞すれちがい手帳の内容が、\n　更新されています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_EDIT_SAVE_1",
+    "original": "＞すれちがい通信に反映する為、\n　セーブを行いますか？",
+    "translation": "＞すれちがい通信に反映する為、\n　セーブを行いますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_EDIT_CANCEL_0",
+    "original": "＞更新内容をすれちがい通信に\n　反映せずに、編集を終了します。\n　よろしいですか？",
+    "translation": "＞更新内容をすれちがい通信に\n　反映せずに、編集を終了します。\n　よろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_NOT_EDIT_PER_0",
+    "original": "そのペルソナはキミたちだけのだよ。\n“ここではない世界”との交信には\n使えないみたい。",
+    "translation": "そのペルソナはキミたちだけのだよ。\n“ここではない世界”との交信には\n使えないみたい。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "FCL_NETWORK_NOT_EDIT_PER_1",
+    "original": "別のペルソナを選び直してよ。",
+    "translation": "別のペルソナを選び直してよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "FCL_NETWORK_NOT_EDIT_PER_2_0",
+    "original": "そのペルソナはキミたちだけのだよ。\n“ここではない世界”との交信には\n使えないみたい。",
+    "translation": "そのペルソナはキミたちだけのだよ。\n“ここではない世界”との交信には\n使えないみたい。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "FCL_NETWORK_NOT_EDIT_PER_2_1",
+    "original": "別のペルソナを選び直してよ。",
+    "translation": "別のペルソナを選び直してよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  }
+]

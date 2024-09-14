@@ -1,0 +1,338 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "これで２つ目か…\nなんかこの素材キラキラしてない？",
+    "translation": "これで２つ目か…\nなんかこの素材キラキラしてない？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "シャドウだけど、言われなかったら\nアクセとかストラップに使えそう。",
+    "translation": "シャドウだけど、言われなかったら\nアクセとかストラップに使えそう。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そこに気付くとは、さすがゆかり。\n女子力の塊だね！",
+    "translation": "そこに気付くとは、さすがゆかり。\n女子力の塊だね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "塊って…",
+    "translation": "塊って…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "残りはあと１つ。\n良いペースですね！",
+    "translation": "残りはあと１つ。\n良いペースですね！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "風花のサポート、あってこそだよ。\nやっぱ頼りになるなあ。",
+    "translation": "風花のサポート、あってこそだよ。\nやっぱ頼りになるなあ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "あ、モチロン、他のナビも凄いんだけど\n風花のは実家みたいな安心感あってさ。",
+    "translation": "あ、モチロン、他のナビも凄いんだけど\n風花のは実家みたいな安心感あってさ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_2",
+    "original": "やっぱ聞き慣れてるからかな？",
+    "translation": "やっぱ聞き慣れてるからかな？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "聞き慣れてる？",
+    "translation": "聞き慣れてる？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あ、そっか…私が聞き慣れてるのは\n私の世界の風花なんだよね…",
+    "translation": "あ、そっか…私が聞き慣れてるのは\n私の世界の風花なんだよね…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "違いはある？",
+    "translation": "違いはある？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "聞き比べしたい",
+    "translation": "聞き比べしたい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "こっちの風花の方がちょっと早口とか？\nいや、そんなことないか…",
+    "translation": "こっちの風花の方がちょっと早口とか？\nいや、そんなことないか…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "ほんと、全く同じだよ。\nナビの仕方も。それに性格も。",
+    "translation": "ほんと、全く同じだよ。\nナビの仕方も。それに性格も。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "うーん、たぶん違いなんてないと思う。",
+    "translation": "うーん、たぶん違いなんてないと思う。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "ほんと、全く同じ。\nナビの仕方も。それに性格も。",
+    "translation": "ほんと、全く同じ。\nナビの仕方も。それに性格も。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "へえ…\nやっぱメカに強かったり？",
+    "translation": "へえ…\nやっぱメカに強かったり？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "うん、はんだごてとか使えちゃうし！",
+    "translation": "うん、はんだごてとか使えちゃうし！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "なのに、何故か料理は壊滅的で、\n砂糖と小麦粉間違えるレベルなんだよね。",
+    "translation": "なのに、何故か料理は壊滅的で、\n砂糖と小麦粉間違えるレベルなんだよね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "えっと、あくまで私の知ってる風花の話ね！",
+    "translation": "えっと、あくまで私の知ってる風花の話ね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "てか、自分の知らない自分の話と\n比べられても困るよね。",
+    "translation": "てか、自分の知らない自分の話と\n比べられても困るよね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ううん。",
+    "translation": "ううん。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "聞けば聞くほど、[P3P名]ちゃんの\n知ってる私は紛れもなく私なんだなって。",
+    "translation": "聞けば聞くほど、[P3P名]ちゃんの\n知ってる私は紛れもなく私なんだなって。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "知らないヤツが自分のこと知ってるって\nはじめは違和感だったけどよ…",
+    "translation": "知らないヤツが自分のこと知ってるって\nはじめは違和感だったけどよ…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "もう一人のオレッチが仲間って認めて\nたんなら、まあ問題ないっしょ！",
+    "translation": "もう一人のオレッチが仲間って認めて\nたんなら、まあ問題ないっしょ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_015_2",
+    "original": "なんせオレだし。\nオレはオレを信じる的な？",
+    "translation": "なんせオレだし。\nオレはオレを信じる的な？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "順平…",
+    "translation": "順平…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "へえ、たまには良いこと言うじゃん。",
+    "translation": "へえ、たまには良いこと言うじゃん。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "お、もしやこれは予想外に好感触？\nやっべ、みんな惚れんなよ。",
+    "translation": "お、もしやこれは予想外に好感触？\nやっべ、みんな惚れんなよ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "なんせオレにはチドリンという\n心に決めた相手が…",
+    "translation": "なんせオレにはチドリンという\n心に決めた相手が…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "SEL_019_0",
+    "original": "聞いてない",
+    "translation": "聞いてない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_019_1",
+    "original": "台無しだ",
+    "translation": "台無しだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_019_2",
+    "original": "行こう",
+    "translation": "行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "順平はほっといて、そろそろ行こうか。",
+    "translation": "順平はほっといて、そろそろ行こうか。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "まあ、安定の順平クオリティってことで。\nじゃ、そろそろ行こうか。",
+    "translation": "まあ、安定の順平クオリティってことで。\nじゃ、そろそろ行こうか。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "だね。風花、次は？",
+    "translation": "だね。風花、次は？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "最後の一つは４－Ｂにいる、\nファントムメイジのテディベアですね。",
+    "translation": "最後の一つは４－Ｂにいる、\nファントムメイジのテディベアですね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "よし、早く見つけて\nテオに届けなくっちゃっね！",
+    "translation": "よし、早く見つけて\nテオに届けなくっちゃっね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "最後の一つは３－Ｆにいる、\n時の砂時計のカレイドスコープですね。",
+    "translation": "最後の一つは３－Ｆにいる、\n時の砂時計のカレイドスコープですね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "よし、早く見つけて\nテオに届けなくっちゃっね！",
+    "translation": "よし、早く見つけて\nテオに届けなくっちゃっね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "最後の一つはバスタードライブの\n遮光器土偶ですね。",
+    "translation": "最後の一つはバスタードライブの\n遮光器土偶ですね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "バスタードライブはこのフロアなら、\nどこにでも出現します。",
+    "translation": "バスタードライブはこのフロアなら、\nどこにでも出現します。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "よし、早く見つけて\nテオに届けなくっちゃっね！",
+    "translation": "よし、早く見つけて\nテオに届けなくっちゃっね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_AB_GATE_SETUMEI_1_0",
+    "original": "＞AB扉について説明する（1）",
+    "translation": "＞说明AB门（1）",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞说明AB门（1）\n\n＞对AB门进行说明（1）"
+  },
+  {
+    "key": "MSG_AB_GATE_SETUMEI_1_1",
+    "original": "「前の扉が開くと同時に\n通ってきた扉が閉じている事に驚く。」\nイベント。",
+    "translation": "“打开前方的门后\n同时发现通过的门是关着的，感到惊讶。”\n事件。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n“打开前方的门后\n同时发现通过的门是关着的，感到惊讶。”\n事件。\n\n\n前门打开的同时，走过的门关着，令人吃惊。\n活动。\n\n“前边的门打开的同时，通过的门却关闭了，这让我很吃惊。”\n活动。"
+  },
+  {
+    "key": "MSG_AB_GATE_SETUMEI_2_0",
+    "original": "＞AB扉について説明する（2）",
+    "translation": "＞说明AB门（2）",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞说明AB门（2）\n\n＞对AB门进行说明（2）"
+  },
+  {
+    "key": "MSG_AB_GATE_SETUMEI_2_1",
+    "original": "「（1）と同じ現象により\nギミック挙動に憶測をつけて説明する。」\nイベント",
+    "translation": "“（1）发生相同的现象\n以臆测的方式说明机关行为。”\n事件",
+    "stage": 0,
+    "context": "机翻辅助：\n\n“（1）发生相同的现象\n以臆测的方式说明机关行为。”\n事件\n\n“根据与（1）相同的现象\n对吉米克行为进行臆测说明。”\n活动\n\n“根据与（1）相同的现象，对创意行为进行臆测并进行说明。”\n活动"
+  },
+  {
+    "key": "MSG_KANSI_SHOBATU_FOE_SE_0",
+    "original": "＞監視＆処罰FOEαについて説明する(1)",
+    "translation": "＞说明监视＆处罚FOEα（1）",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞说明监视＆处罚FOEα（1）\n\n＞对监视与处罚FOEα进行说明（1）\n\n＞对监视＆处罚FOEα进行说明（1）"
+  },
+  {
+    "key": "MSG_KANSI_SHOBATU_FOE_SE_1",
+    "original": "「監視FOEに見つかってしまったぞ！」",
+    "translation": "“被监视FOE发现了！”",
+    "stage": 0,
+    "context": "机翻辅助：\n\n“被监视FOE发现了！”"
+  },
+  {
+    "key": "MSG_KANSI_SHOBATU_FOE_SE_2_0",
+    "original": "「処罰FOEが起動したぞ！\nアイツ、こっちを追ってくる！」\nといったイベント。　",
+    "translation": "“处罚FOE启动了！\n那家伙追过来了！”\n这样的事件。　",
+    "stage": 0,
+    "context": "机翻辅助：\n\n“处罚FOE启动了！\n那家伙追过来了！”\n这样的事件。　\n\n“处罚FOE启动了！\n那家伙，追我来！”\n这样的活动。　\n\n“处罚FOE启动了！\n那家伙要追过来！”\n这样的活动。"
+  },
+  {
+    "key": "MSG_KANSI_SHOBATU_FOE_SE_3_0",
+    "original": "＞監視＆処罰FOEαについて説明する(2)",
+    "translation": "＞说明监视＆处罚FOEα（2）",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞说明监视＆处罚FOEα（2）\n\n＞对监视与处罚FOEα进行说明（2）\n\n＞对监视＆处罚FOEα进行说明（2）"
+  },
+  {
+    "key": "MSG_KANSI_SHOBATU_FOE_SE_3_1",
+    "original": "「監視＆処罰FOEの関係性を憶測。\n監視FOEを倒せば、処罰FOEの起動を\n阻止できるのかも！」といったイベント",
+    "translation": "“臆测监视＆处罚FOE的关系。\n打倒监视FOE，\n或许就能阻止处罚FOE启动！”这样的事件。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n“臆测监视＆处罚FOE的关系。\n打倒监视FOE，\n或许就能阻止处罚FOE启动！”这样的事件。\n\n\n猜测监视与处罚FOE的关系。如果打倒监视FOE，也许就能阻止处罚FOE的启动！\n之类的活动\n\n“猜测监视和处罚FOE的关系。\n如果打倒监视FOE，也许能阻止处罚FOE的启动！”"
+  },
+  {
+    "key": "MSG_FOE_AB_GATE_SETUMEI__0",
+    "original": "＞処罰FOE＆ABゲートの関係性ついて説明する(1)",
+    "translation": "＞说明处罚FOE＆AB门的关系（1）",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞说明处罚FOE＆AB门的关系（1）\n\n＞处罚foe＆ab门的关联性说明（1）"
+  },
+  {
+    "key": "MSG_FOE_AB_GATE_SETUMEI__1",
+    "original": "「扉が閉まっていて進めない！」\nといったイベント。",
+    "translation": "“门关着，没办法前进！”\n这样的事件。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n“门关着，没办法前进！”\n这样的事件。\n\n“门关着进不去！”\n这样的活动。\n\n“门关着，无法前进！”。"
+  },
+  {
+    "key": "MSG_FOE_AB_GATE_SETUMEI__2_0",
+    "original": "＞処罰FOE＆ABゲートの関係性ついて説明する(2)",
+    "translation": "＞说明处罚FOE＆AB门的关系（2）",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞说明处罚FOE＆AB门的关系（2）\n\n＞处罚foe＆ab事件的关联性说明（2）"
+  },
+  {
+    "key": "MSG_FOE_AB_GATE_SETUMEI__2_1",
+    "original": "「FOEが通ったら、扉が開いたぞ！\nあの扉はFOEにも反応して動くのか！」\nといったイベント。",
+    "translation": "“FOE通过后，门打开了！\n那扇门会对FOE产生反应而动作吗！”\n这样的事件。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n“FOE通过后，门打开了！\n那扇门会对FOE产生反应而动作吗！”\n这样的事件。\n\n“FOE一通过，门就打开了！\n那扇门对FOE也有反应吗？”\n这样的活动。\n\n“FOE通过的话，门就开了！\n那扇门对FOE也有反应吗！”。"
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "好像有什么埋在里面……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像有什么埋在里面……\n\n好像埋了什么……\n\n好像埋着什么……"
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "好像有什么埋在里面，\n但背包已经装满了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像有什么埋在里面，\n背包里已经装满了……\n\n好像有什么东西被填满了，\n包里满满的……\n\n好像有什么东西被埋了……"
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理一下再来吧……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n整理一下再来吧……\n\n整理之后再来吧……"
+  }
+]

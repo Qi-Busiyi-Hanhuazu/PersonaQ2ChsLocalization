@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ジョーカー！　ちょい待ち！\nこの先、敵の反応がある。",
+    "translation": "JOKER！稍等一下！\n前方有敌人的反应。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\nJOKER！等一下！\n前方有敌人的反应。\n\nJOKER！ 稍等一下！\n前方有敌人的反应。\n\nJOKER ！等一下！\n在这之前，敌人会有反应。"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "行けそうか？",
+    "translation": "没问题吗？",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n能过去吗？\n\n能去吗？\n\n能行吗？"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "大丈夫だ",
+    "translation": "没问题",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没问题\n\n我没事\n\n不要紧"
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "少し待て",
+    "translation": "稍微等等",
+    "stage": 1,
+    "context": "机翻辅助：\n\n等我一下\n\n稍等一下"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ええ、わかったわ。進みましょう。",
+    "translation": "好，明白了。继续前进吧。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n嗯，知道了。我们前进吧。\n\n嗯，知道了。前进吧。\n\n嗯，知道了。继续前进吧。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうだな、万全を期すに越したことはない。\n一度、態勢を立て直そう。",
+    "translation": "是啊，万无一失最好不过了。\n暂且重新调整一下状态吧。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n说得也是，凡事还是小心为上。\n先重整态势吧。\n\n是啊，最好是万无一失。\n让我们重新做好准备。\n\n是啊，最好是确保万无一失。让我们重整旗鼓吧。"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

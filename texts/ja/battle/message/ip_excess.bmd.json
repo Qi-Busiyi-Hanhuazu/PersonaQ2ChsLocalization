@@ -1,0 +1,79 @@
+[
+  {
+    "key": "IP_EXCESS_YESNO_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "IP_EXCESS_YESNO_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "IP_EXCESS_ITEM_0",
+    "original": "＞選択されたアイテムを捨てます。\n　よろしいですか？",
+    "translation": "＞選択されたアイテムを捨てます。\n　よろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "IP_EXCESS_PERSONA_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』を消滅させます。\n　よろしいですか?",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』を消滅させます。\n　よろしいですか?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "IP_EXCESS_PERSONA_BUSY_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』を消滅させます。\n　装備中のペルソナですが、\n　よろしいですか？",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』を消滅させます。\n　装備中のペルソナですが、\n　よろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "IP_EXCESS_PERSONA_END_0",
+    "original": "＞ペルソナ『[颜色 02][占位A 01][颜色 01]』が\n　意識から消え去った。",
+    "translation": "＞ペルソナ『[颜色 02][占位A 01][颜色 01]』が\n　意識から消え去った。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "IP_EXCESS_PERSONA_MULTI_0",
+    "original": "＞選択されたペルソナを消滅させます。\n　よろしいですか？",
+    "translation": "＞選択されたペルソナを消滅させます。\n　よろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "IP_EXCESS_PERSONA_BUSY_M_0",
+    "original": "＞選択されたペルソナを消滅させます。\n　装備中のペルソナが含まれていますが\n　よろしいですか？",
+    "translation": "＞選択されたペルソナを消滅させます。\n　装備中のペルソナが含まれていますが\n　よろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "IP_EXCESS_PERSONA_END_MU_0",
+    "original": "＞選択されたペルソナが\n　意識から消え去った。",
+    "translation": "＞選択されたペルソナが\n　意識から消え去った。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "IP_EXCESS_HELP_0",
+    "original": "これ以上ペルソナを所持できません。\n消滅させるペルソナを選んでください。",
+    "translation": "これ以上ペルソナを所持できません。\n消滅させるペルソナを選んでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "IP_EXCESS_CANT_DELETE_DL_0",
+    "original": "＞捨てられないＤＬＣアイテムです。",
+    "translation": "＞捨てられないＤＬＣアイテムです。",
+    "stage": 1,
+    "context": ""
+  }
+]

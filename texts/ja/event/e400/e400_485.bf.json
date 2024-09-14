@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ひかり、出ておいで。",
+    "translation": "ひかり、出ておいで。",
+    "stage": 1,
+    "context": "落ち着いた男性の声"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "…………。",
+    "translation": "…………。",
+    "stage": 1,
+    "context": "うつろな目の少女"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ひかりが欲しいと言ってたノート、\n買ってきたよ。",
+    "translation": "ひかりが欲しいと言ってたノート、\n買ってきたよ。",
+    "stage": 1,
+    "context": "落ち着いた男性の声"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "…………。",
+    "translation": "…………。",
+    "stage": 1,
+    "context": "うつろな目の少女"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ひかり、どうして出てこないんだい？",
+    "translation": "ひかり、どうして出てこないんだい？",
+    "stage": 1,
+    "context": "落ち着いた男性の声"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ふぅ……",
+    "translation": "ふぅ……",
+    "stage": 1,
+    "context": "落ち着いた男性の声"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "どうしてお前はそうなんだ？",
+    "translation": "どうしてお前はそうなんだ？",
+    "stage": 1,
+    "context": "落ち着いた男性の声"
+  },
+  {
+    "key": "speaker_落ち着いた男性の声",
+    "original": "落ち着いた男性の声",
+    "translation": "落ち着いた男性の声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_うつろな目の少女",
+    "original": "うつろな目の少女",
+    "translation": "うつろな目の少女",
+    "stage": 1,
+    "context": ""
+  }
+]

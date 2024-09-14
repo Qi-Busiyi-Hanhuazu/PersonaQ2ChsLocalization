@@ -1,0 +1,695 @@
+[
+  {
+    "key": "YESNO_SEL_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "GET_ITEM_MES_0",
+    "original": "＞[占位B 01]を手に入れた。",
+    "translation": "＞[占位B 01]を手に入れた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "GET_MONEY_MES_0",
+    "original": "＞[占位A 01]円を手に入れた。",
+    "translation": "＞[占位A 01]円を手に入れた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "TBOX_ENEMY_APPEAR_0",
+    "original": "＞ああっと！！",
+    "translation": "＞ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "NOT_OPEN_SHORTCUT_0",
+    "original": "＞こちらからは通れないようだ…",
+    "translation": "＞こちらからは通れないようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "OPENED_BOX_0",
+    "original": "もう何も入ってないようだ…",
+    "translation": "もう何も入ってないようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "EXIT_DUNGEON_SEL_0",
+    "original": "＞この映画から脱出しようか…",
+    "translation": "＞この映画から脱出しようか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_ASK_0",
+    "original": "＞抜け道がある…",
+    "translation": "＞抜け道がある…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_SHORTCUT_ASK_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_SHORTCUT_ASK_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ONEWAY_ASK_0",
+    "original": "＞抜け道がある。\n　[颜色 03]向こう側からは帰って来られなそうだ…",
+    "translation": "＞抜け道がある。\n　[颜色 03]向こう側からは帰って来られなそうだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_ONEWAY_ASK_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_ONEWAY_ASK_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "持ち物がいっぱいなようだ…",
+    "translation": "持ち物がいっぱいなようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "GATHER_SUSPENSE_0",
+    "original": "＞採取ポイントを調べた…",
+    "translation": "＞採取ポイントを調べた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "GATHER_SUSPENSE_1",
+    "original": "＞…？",
+    "translation": "＞…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JIJIKU_SEL_0",
+    "original": "セーブする",
+    "translation": "セーブする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JIJIKU_SEL_1",
+    "original": "迷宮から脱出する",
+    "translation": "迷宮から脱出する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JIJIKU_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JIJIKU_ASK_0",
+    "original": "＞どうしますか？",
+    "translation": "＞どうしますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FIND_QUEST_TEST_0",
+    "original": "＞一度拠点に戻ってクエストを\n　確認した方が良さそうだ。どうする？",
+    "translation": "＞一度拠点に戻ってクエストを\n　確認した方が良さそうだ。どうする？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_QUEST_ESCAPE_TEST_0",
+    "original": "拠点に戻る",
+    "translation": "拠点に戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_QUEST_ESCAPE_TEST_1",
+    "original": "このまま進む",
+    "translation": "このまま進む",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ALERT_MSG_0",
+    "original": "＞ここから先は特別上映の範囲外です。\n　どうしますか？",
+    "translation": "＞ここから先は特別上映の範囲外です。\n　どうしますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_ALERT_MSG_0",
+    "original": "映画館に戻る",
+    "translation": "映画館に戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_ALERT_MSG_1",
+    "original": "探索を続ける",
+    "translation": "探索を続ける",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MAPPING_FAILED_MSG_0",
+    "original": "＞宝箱の地図が輝き出し、\n　地図に謎の模様が浮かび上がった。",
+    "translation": "＞宝箱の地図が輝き出し、\n　地図に謎の模様が浮かび上がった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MAPPING_FAILED_MSG_1",
+    "original": "＞まだ行ったことのない場所が\n　反応しているようだ…",
+    "translation": "＞まだ行ったことのない場所が\n　反応しているようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "POWER_SPOT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "POWER_SPOT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "POWER_SPOT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "USE_AUTO_RECOVER_ASK_0",
+    "original": "＞オートリカバーを使用しますか？",
+    "translation": "＞オートリカバーを使用しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AUTO_RECOVER_SEL_0",
+    "original": "使用する",
+    "translation": "使用する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AUTO_RECOVER_SEL_1",
+    "original": "使用しない",
+    "translation": "使用しない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AUTO_RECOVER_NOT_USE_MSG_0",
+    "original": "＞回復をしなかった",
+    "translation": "＞回復をしなかった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AUTO_RECOVER_NOT_USE_MSG_2_0",
+    "original": "＞現在、体力が減っている\n　キャラクターがいません。",
+    "translation": "＞現在、体力が減っている\n　キャラクターがいません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AUTO_RECOVER_NOT_USE_MSG_3_0",
+    "original": "＞SPが足りないため、\n　回復できません。",
+    "translation": "＞SPが足りないため、\n　回復できません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AUTO_RECOVER_NOT_USE_MSG_4_0",
+    "original": "＞回復スキルを使えるメンバーが\n　パーティにいません。",
+    "translation": "＞回復スキルを使えるメンバーが\n　パーティにいません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_OTAKARA_GET_0",
+    "original": "「やっぱり、\nここを調べればオタカラが手に入るな。」\n「でも、敵の気配もする…」というイベント",
+    "translation": "「やっぱり、\nここを調べればオタカラが手に入るな。」\n「でも、敵の気配もする…」というイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_1_0",
+    "original": "「オタカラスポット」では[颜色 03]様々なアイテム[颜色 01]を\n入手することができます。",
+    "translation": "「オタカラスポット」では[颜色 03]様々なアイテム[颜色 01]を\n入手することができます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_2_0",
+    "original": "最初の選択肢で\n[颜色 03]「採取に専念する」[颜色 01]を選ぶと、",
+    "translation": "最初の選択肢で\n[颜色 03]「採取に専念する」[颜色 01]を選ぶと、",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_2_1",
+    "original": "[颜色 03]最大５個[颜色 01]までアイテムを入手することが可能で\nレアアイテムが出現する確率も高くなりますが",
+    "translation": "[颜色 03]最大５個[颜色 01]までアイテムを入手することが可能で\nレアアイテムが出現する確率も高くなりますが",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_2_2",
+    "original": "戦闘が発生する危険度も高くなります。",
+    "translation": "戦闘が発生する危険度も高くなります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_3_0",
+    "original": "最初の選択肢で\n[颜色 03]「警戒しながら探す」[颜色 01]を選ぶと、",
+    "translation": "最初の選択肢で\n[颜色 03]「警戒しながら探す」[颜色 01]を選ぶと、",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_3_1",
+    "original": "[颜色 03]最大３個[颜色 01]までしかアイテムを入手できませんが\n戦闘が発生する危険度は低くなります。",
+    "translation": "[颜色 03]最大３個[颜色 01]までしかアイテムを入手できませんが\n戦闘が発生する危険度は低くなります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_4_0",
+    "original": "それぞれ入手回数は限られていますが\n[颜色 03]一度迷宮から出る[颜色 01]と\n一部の「オタカラスポット」で\n[颜色 03]再度、アイテムが入手可能[颜色 01]となります。\n　\n「オタカラスポット」を有効に活用し\nどんどんアイテムを入手していきましょう。",
+    "translation": "それぞれ入手回数は限られていますが\n[颜色 03]一度迷宮から出る[颜色 01]と\n一部の「オタカラスポット」で\n[颜色 03]再度、アイテムが入手可能[颜色 01]となります。\n　\n「オタカラスポット」を有効に活用し\nどんどんアイテムを入手していきましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_OTAKARA_GET_2_0",
+    "original": "「結構取れたな！\nこれは美味い。今後も調べて見よう。",
+    "translation": "「結構取れたな！\nこれは美味い。今後も調べて見よう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_OTAKARA_GET_2_1",
+    "original": "ただし、敵との\n遭遇の可能性はあるから気をつけような。」\nというイベント",
+    "translation": "ただし、敵との\n遭遇の可能性はあるから気をつけような。」\nというイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_OTAKARA_BAG_0",
+    "original": "「アイテムが\nいっぱいなようだから出直してこよう」\nというイベント",
+    "translation": "「アイテムが\nいっぱいなようだから出直してこよう」\nというイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_0_0",
+    "original": "クエストとして迷宮に入ると\n[颜色 03]そのクエストでのみ進行不可になる通路[颜色 01]など",
+    "translation": "クエストとして迷宮に入ると\n[颜色 03]そのクエストでのみ進行不可になる通路[颜色 01]など",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_0_1",
+    "original": "[颜色 03]MAPに変化が起こる[颜色 01]場合があります。\n新たに進行不可となったルートは",
+    "translation": "[颜色 03]MAPに変化が起こる[颜色 01]場合があります。\n新たに進行不可となったルートは",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_1_0",
+    "original": "下画面にて[颜色 03]赤い塗り潰し[颜色 01]と\n[颜色 03]専用アイコン[颜色 01]として表示されます。",
+    "translation": "下画面にて[颜色 03]赤い塗り潰し[颜色 01]と\n[颜色 03]専用アイコン[颜色 01]として表示されます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_1_1",
+    "original": "クエストとして迷宮を探索する際は\n下画面をよく確認し、注意して進みましょう。",
+    "translation": "クエストとして迷宮を探索する際は\n下画面をよく確認し、注意して進みましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_2_0",
+    "original": "またクエスト中は下画面に\n[颜色 03]“Quest”パレット[颜色 01]が表示されます。",
+    "translation": "またクエスト中は下画面に\n[颜色 03]“Quest”パレット[颜色 01]が表示されます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_2_1",
+    "original": "このパレットに格納されたアイコンは\n[颜色 03]クエスト中のみ配置が可能[颜色 01]となっており",
+    "translation": "このパレットに格納されたアイコンは\n[颜色 03]クエスト中のみ配置が可能[颜色 01]となっており",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_2_2",
+    "original": "[颜色 03]クスエト中のみ発生するイベントなど[颜色 01]に       \n目印をつけておくのに有効です。       ",
+    "translation": "[颜色 03]クスエト中のみ発生するイベントなど[颜色 01]に       \n目印をつけておくのに有効です。       ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_2_3",
+    "original": "“Quest”パレットを使いこなし\nクエストのクリアを目指しましょう。",
+    "translation": "“Quest”パレットを使いこなし\nクエストのクリアを目指しましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_TREAS_0",
+    "original": "迷宮内には[颜色 03]特定クエストの間のみ\n出現する宝箱[颜色 01]があります。",
+    "translation": "迷宮内には[颜色 03]特定クエストの間のみ\n出現する宝箱[颜色 01]があります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_TREAS_1",
+    "original": "中には[颜色 03]探索に役立つアイテム[颜色 01]が\n入っているので、見逃さずに手に入れましょう。",
+    "translation": "中には[颜色 03]探索に役立つアイテム[颜色 01]が\n入っているので、見逃さずに手に入れましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_FUTABA_IP_BTL_MSG_1_0",
+    "original": "『刈り取るもの』だ…\nやばいのが来るぞ…！！",
+    "translation": "『刈り取るもの』だ…\nやばいのが来るぞ…！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_FUTABA_IP_BTL_MSG_2_0",
+    "original": "この気配…『刈り取るもの』だ！！",
+    "translation": "この気配…『刈り取るもの』だ！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_FUTABA_IP_BTL_MSG_3_0",
+    "original": "やばいのが来る！　対処急げ！",
+    "translation": "やばいのが来る！　対処急げ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_FUKA_IP_BTL_MSG_1_0",
+    "original": "『刈り取るもの』の反応！\n気をつけてください！",
+    "translation": "『刈り取るもの』の反応！\n気をつけてください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_FUKA_IP_BTL_MSG_2_0",
+    "original": "『刈り取るもの』が接近してます！\n注意して！",
+    "translation": "『刈り取るもの』が接近してます！\n注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_FUKA_IP_BTL_MSG_3_0",
+    "original": "この反応は…『刈り取るもの』です！\n気をつけて！",
+    "translation": "この反応は…『刈り取るもの』です！\n気をつけて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_RISE_IP_BTL_MSG_1_0",
+    "original": "ヤバッ、『刈り取るもの』の気配！\n気をつけて！",
+    "translation": "ヤバッ、『刈り取るもの』の気配！\n気をつけて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_RISE_IP_BTL_MSG_2_0",
+    "original": "『刈り取るもの』の気配を察知！\n注意して！",
+    "translation": "『刈り取るもの』の気配を察知！\n注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_RISE_IP_BTL_MSG_3_0",
+    "original": "『刈り取るもの』の反応！\n来るよ！",
+    "translation": "『刈り取るもの』の反応！\n来るよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_JUSTINE_IP_BTL_MSG_1_0",
+    "original": "『刈り取るもの』が来ます。\n注意してください。",
+    "translation": "『刈り取るもの』が来ます。\n注意してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_JUSTINE_IP_BTL_MSG_2_0",
+    "original": "注意してください、\n『刈り取るもの』です。",
+    "translation": "注意してください、\n『刈り取るもの』です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_JUSTINE_IP_BTL_MSG_3_0",
+    "original": "『刈り取るもの』…\n気を付けることです。",
+    "translation": "『刈り取るもの』…\n気を付けることです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_CAROLIN_IP_BTL_MSG_1_0",
+    "original": "『刈り取るもの』が近いぞ！",
+    "translation": "『刈り取るもの』が近いぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_CAROLIN_IP_BTL_MSG_2_0",
+    "original": "気をつけろ！\n『刈り取るもの』だぞ！",
+    "translation": "気をつけろ！\n『刈り取るもの』だぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_CAROLIN_IP_BTL_MSG_3_0",
+    "original": "この音…\n『刈り取るもの』だぞ！",
+    "translation": "この音…\n『刈り取るもの』だぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ELIZABETH_IP_BTL_MSG_0",
+    "original": "『刈り取るもの』、\n登場～でございます。",
+    "translation": "『刈り取るもの』、\n登場～でございます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ELIZABETH_IP_BTL_MSG_2_0",
+    "original": "呼ばれて飛び出て、\n『刈り取るもの』でございます。",
+    "translation": "呼ばれて飛び出て、\n『刈り取るもの』でございます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ELIZABETH_IP_BTL_MSG_3_0",
+    "original": "まさにこの音…\n『刈り取るもの』とお見受けいたします。",
+    "translation": "まさにこの音…\n『刈り取るもの』とお見受けいたします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_THEODOR_IP_BTL_MSG_1_0",
+    "original": "気を付けてください、\n『刈り取るもの』です！",
+    "translation": "気を付けてください、\n『刈り取るもの』です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_THEODOR_IP_BTL_MSG_2_0",
+    "original": "『刈り取るもの』が来ます。\nご注意を！",
+    "translation": "『刈り取るもの』が来ます。\nご注意を！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_THEODOR_IP_BTL_MSG_3_0",
+    "original": "この気配…\n『刈り取るもの』です！",
+    "translation": "この気配…\n『刈り取るもの』です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_MARGARET_IP_BTL_MSG__0",
+    "original": "『刈り取るもの』の気配よ！\n警戒を！",
+    "translation": "『刈り取るもの』の気配よ！\n警戒を！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_MARGARET_IP_BTL_MSG__2_0",
+    "original": "強力な敵が近づいてるようね。\nご注意を。",
+    "translation": "強力な敵が近づいてるようね。\nご注意を。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_MARGARET_IP_BTL_MSG__3_0",
+    "original": "『刈り取るもの』が近いようね、警戒して。",
+    "translation": "『刈り取るもの』が近いようね、警戒して。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NANAKO_IP_BTL_MSG_1_0",
+    "original": "『刈り取るもの』、だって！",
+    "translation": "『刈り取るもの』、だって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NANAKO_IP_BTL_MSG_2_0",
+    "original": "『刈り取るもの』、だ！\nくるみたいだよ！",
+    "translation": "『刈り取るもの』、だ！\nくるみたいだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NANAKO_IP_BTL_MSG_3_0",
+    "original": "たいへんだよ。\n『刈り取るもの』、がくる！",
+    "translation": "たいへんだよ。\n『刈り取るもの』、がくる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_foe_exist_move_short_0",
+    "original": "お、おい！\nショートカットの先にＦ．Ｏ．Ｅが居るぞ！",
+    "translation": "お、おい！\nショートカットの先にＦ．Ｏ．Ｅが居るぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_1",
+    "original": "今通るのは止めておけ！",
+    "translation": "今通るのは止めておけ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_2_0",
+    "original": "お、おい！\nショートカットの先にＦ．Ｏ．Ｅが居るぞ！",
+    "translation": "お、おい！\nショートカットの先にＦ．Ｏ．Ｅが居るぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_2_1",
+    "original": "今通るのは止めておけ！",
+    "translation": "今通るのは止めておけ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_3_0",
+    "original": "待って！\nその先にＦ．Ｏ．Ｅが居るよ！",
+    "translation": "待って！\nその先にＦ．Ｏ．Ｅが居るよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_3_1",
+    "original": "今は通らない方がいいと思う！",
+    "translation": "今は通らない方がいいと思う！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_4_0",
+    "original": "待ってください！\nその先にＦ．Ｏ．Ｅがいます！",
+    "translation": "待ってください！\nその先にＦ．Ｏ．Ｅがいます！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_4_1",
+    "original": "Ｆ．Ｏ．Ｅが居なくなってから\n通りましょう！",
+    "translation": "Ｆ．Ｏ．Ｅが居なくなってから\n通りましょう！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_GET_TRESURE_MAP_0",
+    "original": "＞地図にこの映画内に隠された\n[颜色 03]『宝の在り処』[颜色 01]が示された。",
+    "translation": "＞地図にこの映画内に隠された\n[颜色 03]『宝の在り処』[颜色 01]が示された。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  }
+]

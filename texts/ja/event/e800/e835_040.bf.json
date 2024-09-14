@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おっ、矢印を発見！\nこんどはあっちってワケね。",
+    "translation": "おっ、矢印を発見！\nこんどはあっちってワケね。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "なんか、子供の頃に戻ったみたいで\n楽しいかも。",
+    "translation": "なんか、子供の頃に戻ったみたいで\n楽しいかも。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "わかるぞ、わくわくするな！",
+    "translation": "わかるぞ、わくわくするな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "意外にヒントの矢印は少ないみたいだ。\n見落とさないように注意な。",
+    "translation": "意外にヒントの矢印は少ないみたいだ。\n見落とさないように注意な。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "矢印は『左』を指している。\n左の方へ向かおうか…",
+    "translation": "矢印は『左』を指している。\n左の方へ向かおうか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "矢印は『左』を指している。\n左の方へ向かおうか…",
+    "translation": "矢印は『左』を指している。\n左の方へ向かおうか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

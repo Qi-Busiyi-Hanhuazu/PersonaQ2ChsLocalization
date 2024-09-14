@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_kobito_first_look_0",
+    "original": "＞小人を初めて見るイベント",
+    "translation": "＞小人を初めて見るイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "何かが埋まっているようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理してからまた来よう…",
+    "stage": 1,
+    "context": ""
+  }
+]

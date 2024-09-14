@@ -1,0 +1,380 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ここが釣り場っスね。",
+    "translation": "这里是钓鱼的地方吧。",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n这里就是钓场吧。\n\n这里是钓鱼的地方。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "けど、餌がねえんじゃ、\n釣れねえよな。",
+    "translation": "但是，\n没有饵的话就钓不到鱼了。",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n不过，没有饵\n钓不到吧。\n\n但是，如果没有饵的话，就钓不上来了。\n\n\n但是，如果没有食物的话，就钓不到了。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "まずは餌になる虫を探さないとね。",
+    "translation": "首先得找到作为鱼饵的虫子。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n得先找能当饵的虫子才行。\n\n首先要寻找能成为食物的虫子。\n\n首先要找能成为食物的虫子。"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "虫は湿った落ち葉の下にいると思う。\nまずはそっちを見つけよう。",
+    "translation": "虫应该在潮湿的落叶下面。\n首先找那边吧。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n虫子应该在潮湿的落叶底下。\n先找到那里吧。\n\n我觉得虫子在潮湿的落叶下。\n首先要找到那边。\n\n我想虫子在潮湿的落叶下。首先找到那个人吧。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ここだね。\nちゃんと、それらしい反応もあるよ！",
+    "translation": "这里呢。\n确实，有反应了！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n是这里吧\n确实有疑似虫子的反应！\n\n就是这里。\n好好地，也有那样的反应哟！\n\n就是这里啊。\n确实，也有这样的反应哦！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "餌も揃ったし、\nいよいよ古代魚と対面ってか。",
+    "translation": "饵也准备好了，\n终于要见到古代鱼了。",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n饵也准备好了\n终于要和古代鱼面对面了吗？\n\n饵料也凑齐了，终于要和古代鱼见面了。\n\n\n食物也准备好了，终于要和古代鱼见面了。"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "先輩、頼みましたよ！",
+    "translation": "前辈，拜托了！",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n学长，拜托你了！\n\n前辈，拜托你了！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "へっ、ウチのジョーカーのが\n先に釣れるに決まってる！",
+    "translation": "嘿嘿，我们家的JOKER\n肯定会先钓上来的！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n哼，我们JOKER\n肯定先钓到！\n\n哦，我们JOKER的\n肯定是先上钩的！\n\n哦，我们家JOKER的肯定能先钓到！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ンだと！？",
+    "translation": "你说啥！？",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n什么！\n\n嗯！？"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "じゃあ、勝負な。\nジョーカー、腕前見せてやれ！",
+    "translation": "那好，就决一胜负吧。\nJOKER，让我看看你的本事！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n那就来比吧。\nJOKER，让他见识你的本事！\n\n那就一决胜负吧。\nJOKER，让我看看你的本领！"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "任せろ",
+    "translation": "放心吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n交给我吧"
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "決着をつけよう",
+    "translation": "来一决胜负",
+    "stage": 1,
+    "context": "机翻辅助：\n\n来一决胜负吧\n\n来个了结吧\n\n做个了断吧"
+  },
+  {
+    "key": "SEL_008_2",
+    "original": "勝手に決めるな",
+    "translation": "不要随便决定",
+    "stage": 1,
+    "context": "机翻辅助：\n\n别擅自决定啦\n\n不要随便决定"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "フッ、面白そうだ。",
+    "translation": "呵呵，感觉很有趣。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n呵，好像很有趣。\n\n嗯，看起来很有趣。\n\n哈哈，听起来很有趣。"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "いいじゃないか。面白そうだ。",
+    "translation": "好啊，感觉很有趣。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n不错嘛，好像很有趣。\n\n不是很好吗。看起来很有趣。\n\n这不是很好吗？听起来很有趣。"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "センセイー！\nぶちかましてやるクマー！",
+    "translation": "师父！\n好好教训他们熊熊！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n师父！\n我要给他好看！\n\n谢谢！\n给你揍的小熊！\n\n师父——！\n我要揍你的小熊！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ジョーカー、華麗に頂いてやれ！",
+    "translation": "JOKER，让我看看你华丽的表演！",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\nJOKER，华丽地钓上来吧！\n\nJOKER、华丽地收下吧！\n\nJOKER，华丽地收下吧！"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "結局対決する流れなのね。",
+    "translation": "结果还是要对决的节奏啊。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n结果还是演变成对决了呢。\n\n结果是对决的流程呢。\n\n结果是对决。"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "そんじゃ、ヨーイ…スタート！",
+    "translation": "那么，准备好了……开始！",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n那么，预备……开始！\n\n那么，悠悠……开始！\n\n那好吧……开始！"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ふっ！",
+    "translation": "噗！",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n呼！"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "しばらくは待ちか。\n釣りって、こっからがなげーんだよな…",
+    "translation": "等一会吧。\n钓鱼可是从现在才开始……",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n先等一下吧。\n钓鱼这种事，从现在开始才是重头戏呢……\n\n要等一会儿吗。\n钓鱼是从这里开始的吧……\n\n再等一会儿吧。所谓钓鱼，就是从这里开始的游戏吧……"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "…かかった！",
+    "translation": "……咬钩了！",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n……上钩了！\n\n……挂了！\n\n……中了！"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "マジかよ！？",
+    "translation": "真的吗！？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n真的假的！？\n\n真的吗！？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "あの竿のしなり方…かなりの大物だぞ！",
+    "translation": "那个鱼竿的弯度……肯定是条大鱼！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n看那钓竿的弯曲方式……是相当大的鱼啊！\n\n那个竿的制作方法……是相当大的人物！\n\n那个竿的弯曲方法……是相当大的东西哟！"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "くっ…\nこのままじゃ、持ってかれる…",
+    "translation": "呃……\n这样下去饵会被拖走……",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n唔……\n这样下去会被拖走……\n\n唔……再这样下去，会被带走的……\n\n\n嗯……这样下去的话，会被拿走的……"
+  },
+  {
+    "key": "SEL_021_0",
+    "original": "手伝おう",
+    "translation": "我来帮忙",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我来帮忙吧\n\n帮忙吧\n\n我来帮你"
+  },
+  {
+    "key": "SEL_021_1",
+    "original": "二人なら出来る",
+    "translation": "两个人的话就能做到",
+    "stage": 1,
+    "context": "机翻辅助：\n\n两个人的话就办得到\n\n两个人的话可以"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ジョーカー…\nああ、頼む！",
+    "translation": "JOKER……\n啊，拜托了！",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\nJOKER……\n嗯，拜托你了！\n\nJOKER……\n啊，拜托了！"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "タイミングを合わせよう…\n３、２、１…",
+    "translation": "把握好时机……\n3、2、1……",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n配合时机吧……\n3、2、1……"
+  },
+  {
+    "key": "SEL_023_0",
+    "original": "今だ！",
+    "translation": "现在！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n就是现在！"
+  },
+  {
+    "key": "SEL_023_1",
+    "original": "頂戴する！",
+    "translation": "得手了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我要钓上来啦！\n\n我吃了！\n\n我收下了！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "うおっ！　デケぇ…",
+    "translation": "哇！好大啊……",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n唔哦！好大……\n\n哎呀！好厉害……\n\n呜呜！不行啊……"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "大きさといい、\nこれが目的の古代魚ね。",
+    "translation": "不仅大小合适，\n这就是目标的古代鱼呢。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n大小也是……\n这就是我们要钓的古代鱼呢。\n\n大小也好，\n这就是目的的古代鱼啊。\n\n论大小，\n这是古代鱼的目的。"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ふぅ…ありがとう。\n対決のはずが、助けられてしまったな。",
+    "translation": "呼，谢谢。\n原本是要对决的，\n结果却被帮助了。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n呼……谢谢你。\n本来是要对决的，结果却让你救了一命。\n\n嗯……谢谢。\n本应该是对决，却被救了。\n\n呼……谢谢。本应是对决，却得到了帮助。"
+  },
+  {
+    "key": "SEL_027_0",
+    "original": "リーダーの務めだ",
+    "translation": "这是队长的责任",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这是队长的职责\n\n是领导的责任\n\n这是领导的职责"
+  },
+  {
+    "key": "SEL_027_1",
+    "original": "仲間だからな",
+    "translation": "因为是伙伴",
+    "stage": 1,
+    "context": "机翻辅助：\n\n因为我们是伙伴嘛\n\n因为是伙伴嘛\n\n因为我们是朋友"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "リーダー…",
+    "translation": "队长……",
+    "stage": 0,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n队长……\n\n领队……\n\n领导……"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "そうだな。俺が君の立場でも\n同じことをしていたな。",
+    "translation": "嗯，如果我是你的话，\n也会做同样的事情。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n说得也是。如果我站在你的立场\n也会做同样的事吧。\n\n是啊。我在你的立场上也做了同样的事情。\n\n\n是啊。我站在你的立场上也做了同样的事情。"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "仲間か…\nああ、そうだな！",
+    "translation": "伙伴啊……\n啊，是的呢！",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n伙伴啊……\n嗯，是啊！\n\n是伙伴吗……\n啊，是啊！\n\n啊，是啊！"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "なんか、力と力のぶつかり合いのち、\nフュージョン的な感じでアツかったぞ！",
+    "translation": "感觉这就是不打不相识呢！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n感觉，力量和力量的碰撞后，\n有种合体的感觉好热啊！\n\n什么，力量和力量的碰撞之后，\n融合的感觉很热！\n\n怎么说呢，力量和力量的碰撞之后，给人一种融合的感觉！"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "うん。二人の呼吸がピッタリだったから\n釣れたんだと思う。",
+    "translation": "嗯，我觉得是因为两人\n配合的十分默契才能钓到的。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n嗯。我想就是因为两人的呼吸一致\n才会钓到的。\n\n嗯。我想是因为两个人的呼吸很合适才钓到的。\n\n\n嗯。因为两个人配合得很默契，所以我想是钓到了。"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "これぞまさに共闘だな。",
+    "translation": "这就是所谓的共同作战。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n这正是所谓的并肩作战呢。\n\n这就是共同战斗啊。\n\n这就是并肩作战啊。"
+  },
+  {
+    "key": "MSG_032_1",
+    "original": "さて、目的も達成したし映画館へ戻ろう。",
+    "translation": "好了，目的也达成了，\n我们回电影院吧。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n那么，既然目的已经达成，就回电影院去吧。\n\n那么，目的也达成了，回到电影院吧。\n\n好了，目的也达成了，回到电影院吧。"
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "小熊",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さて、今回の特別上映は…",
+    "translation": "さて、今回の特別上映は…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "『サイドプテラのオタカラを奪え！』\nというものでございます。",
+    "translation": "『サイドプテラのオタカラを奪え！』\nというものでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "オ、オタカラだって！？",
+    "translation": "オ、オタカラだって！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "でもきっと、私たちが知っている\n『オタカラ』とは違うわよね。",
+    "translation": "でもきっと、私たちが知っている\n『オタカラ』とは違うわよね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ここはパレスじゃないし、\nいわゆる金銀財宝のようなもの…？",
+    "translation": "ここはパレスじゃないし、\nいわゆる金銀財宝のようなもの…？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "こちらチケットの記載によると、\n一対の金色の王冠であるとのこと。",
+    "translation": "こちらチケットの記載によると、\n一対の金色の王冠であるとのこと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おお、マジで『お宝』じゃん！",
+    "translation": "おお、マジで『お宝』じゃん！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "はい、翼竜が隠し持つというその財宝を奪い\nこちらにお持ちください。",
+    "translation": "はい、翼竜が隠し持つというその財宝を奪い\nこちらにお持ちください。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "でもさ、サイドプテラって\nＦ．Ｏ．Ｅだろ？",
+    "translation": "でもさ、サイドプテラって\nＦ．Ｏ．Ｅだろ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "奪うっつっても簡単に倒せねーし、\n最悪俺らがエサにされちまうんじゃ…",
+    "translation": "奪うっつっても簡単に倒せねーし、\n最悪俺らがエサにされちまうんじゃ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "戦う必要はない",
+    "translation": "戦う必要はない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "勝てるまで鍛えよう",
+    "translation": "勝てるまで鍛えよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "えっ、やっつけないで\nどうやって奪うの？",
+    "translation": "えっ、やっつけないで\nどうやって奪うの？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ニャッフッフ…ワガハイたちは怪盗団だぜ？\n仕事はスマートにやらなきゃな。",
+    "translation": "ニャッフッフ…ワガハイたちは怪盗団だぜ？\n仕事はスマートにやらなきゃな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "おー、修行するってこと？\nそれなら頑張るぞよ！",
+    "translation": "おー、修行するってこと？\nそれなら頑張るぞよ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "おいおい、もっとスマートにやれ。\nワガハイたちは怪盗団だぞ？",
+    "translation": "おいおい、もっとスマートにやれ。\nワガハイたちは怪盗団だぞ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "そうね、サイドプテラがお宝を\n持ち歩いているとは限らないわ。",
+    "translation": "そうね、サイドプテラがお宝を\n持ち歩いているとは限らないわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "その金色の王冠を隠している\n場所がわかれば…",
+    "translation": "その金色の王冠を隠している\n場所がわかれば…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "スキを見てゲットだ！\nいつもと同じだな！",
+    "translation": "スキを見てゲットだ！\nいつもと同じだな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "わー、それホントに怪盗っぽい！\nワクワクしてきた！",
+    "translation": "わー、それホントに怪盗っぽい！\nワクワクしてきた！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "お宝を持ち運びの際には、\nこちらをお使い下さい。",
+    "translation": "お宝を持ち運びの際には、\nこちらをお使い下さい。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "テオお手製の巾着でございます。",
+    "translation": "テオお手製の巾着でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "うわ、テオドアさんが作ったの？\n手先器用すぎ。",
+    "translation": "うわ、テオドアさんが作ったの？\n手先器用すぎ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "はい、テオがどうしてもご用意したいと\n私に泣いて頼みましたゆえ。",
+    "translation": "はい、テオがどうしてもご用意したいと\n私に泣いて頼みましたゆえ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "笑顔がすごくウソくさいぞ。",
+    "translation": "笑顔がすごくウソくさいぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ところで、皆様。",
+    "translation": "ところで、皆様。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "お宝といえば怪盗、怪盗といえばお宝。\n両者は切っても切れぬ深い関係。",
+    "translation": "お宝といえば怪盗、怪盗といえばお宝。\n両者は切っても切れぬ深い関係。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_020_2",
+    "original": "怪盗団の皆様がついに本領を\n発揮されるのではと期待しております。",
+    "translation": "怪盗団の皆様がついに本領を\n発揮されるのではと期待しております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_020_3",
+    "original": "大空を舞い、地の底を這う！\nまさに八面六臂の大ハッスル！",
+    "translation": "大空を舞い、地の底を這う！\nまさに八面六臂の大ハッスル！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "えっと、ちょっとそこまでは…",
+    "translation": "えっと、ちょっとそこまでは…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "諦めてはなりません。\n為せば成る、為さねば成らぬホトトギス！",
+    "translation": "諦めてはなりません。\n為せば成る、為さねば成らぬホトトギス！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "皆様はきっとできます！　さあ！　さあ！",
+    "translation": "皆様はきっとできます！　さあ！　さあ！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "な、なにかしらこのプレッシャー…\nできないとは言いづらいわね…",
+    "translation": "な、なにかしらこのプレッシャー…\nできないとは言いづらいわね…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そこは出来ないってハッキリ言おう？",
+    "translation": "そこは出来ないってハッキリ言おう？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ムム、エリザベス殿の言葉ではないが\nワガハイ、なんだか血が騒ぐぞ！",
+    "translation": "ムム、エリザベス殿の言葉ではないが\nワガハイ、なんだか血が騒ぐぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "オタカラに心惹かれるのは、\n怪盗の本能みたいなもんだからな！",
+    "translation": "オタカラに心惹かれるのは、\n怪盗の本能みたいなもんだからな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_025_2",
+    "original": "ニャッフー！　オタカラァ～！",
+    "translation": "ニャッフー！　オタカラァ～！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ほほう、モルガナはずいぶん\nやる気になってるクマね！",
+    "translation": "ほほう、モルガナはずいぶん\nやる気になってるクマね！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "マタタビの前のネコ状態だな…",
+    "translation": "マタタビの前のネコ状態だな…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "だ・か・ら！　猫じゃねー！\nりぴーとあふたーみー！？",
+    "translation": "だ・か・ら！　猫じゃねー！\nりぴーとあふたーみー！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "イエース。\nモルガナ　イズ　キャット。",
+    "translation": "イエース。\nモルガナ　イズ　キャット。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ぬぉおおおお…",
+    "translation": "ぬぉおおおお…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ははっ、お前はハシャギすぎなんだよ。",
+    "translation": "ははっ、お前はハシャギすぎなんだよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_031_1",
+    "original": "まあでも、モルガナほどじゃねえけど、\n俺もちょっとワクワクしてたり？",
+    "translation": "まあでも、モルガナほどじゃねえけど、\n俺もちょっとワクワクしてたり？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "え？　坂本くんも？\nネコにマタタビみたいになっちゃったり？",
+    "translation": "え？　坂本くんも？\nネコにマタタビみたいになっちゃったり？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "ネコじゃねーよ！\n…って、俺に言わすな！",
+    "translation": "ネコじゃねーよ！\n…って、俺に言わすな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "ほら、前に言ったろ？\nひさびさ怪盗っぽいことしてえって。",
+    "translation": "ほら、前に言ったろ？\nひさびさ怪盗っぽいことしてえって。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "おー、言ってたね！\nまさに今がそのときじゃん！",
+    "translation": "おー、言ってたね！\nまさに今がそのときじゃん！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "銀行とか美術館みたいなよくある\nシチュエーションじゃねえけどさ。",
+    "translation": "銀行とか美術館みたいなよくある\nシチュエーションじゃねえけどさ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "この映画ならみんなで思いっきり\nできそうじゃね？",
+    "translation": "この映画ならみんなで思いっきり\nできそうじゃね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "サイドプテラ相手に空中戦しつつ、\nオタカラ財宝ゲーット、か！",
+    "translation": "サイドプテラ相手に空中戦しつつ、\nオタカラ財宝ゲーット、か！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_036_1",
+    "original": "うん！　派手だし悪くないかも！",
+    "translation": "うん！　派手だし悪くないかも！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "…空中戦は、できないと思うが。",
+    "translation": "…空中戦は、できないと思うが。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "待て、サイドプテラと戦う気か？\nあれＦ．Ｏ．Ｅだぞ？",
+    "translation": "待て、サイドプテラと戦う気か？\nあれＦ．Ｏ．Ｅだぞ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "たいへん盛り上がって参りましたね。\n私もこちらから拝見致しております。",
+    "translation": "たいへん盛り上がって参りましたね。\n私もこちらから拝見致しております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_039_1",
+    "original": "いざや往け往け怪盗団。\nオタカラ奪いにレッツらゴー！",
+    "translation": "いざや往け往け怪盗団。\nオタカラ奪いにレッツらゴー！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_039_2",
+    "original": "…で、ございます。",
+    "translation": "…で、ございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_040_0",
+    "original": "始めよう",
+    "translation": "始めよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_040_1",
+    "original": "頂いていく！",
+    "translation": "頂いていく！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "お、気合い入ってんじゃん、[P5名]。\n俺もひさびさ燃えて来たぜ。",
+    "translation": "お、気合い入ってんじゃん、[P5名]。\n俺もひさびさ燃えて来たぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "クマも頑張るクマ！\nクマ流怪盗術、見せちゃるけんね！",
+    "translation": "クマも頑張るクマ！\nクマ流怪盗術、見せちゃるけんね！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "よし、さっそく出発するか。\n準備は怠るなよ。",
+    "translation": "よし、さっそく出発するか。\n準備は怠るなよ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

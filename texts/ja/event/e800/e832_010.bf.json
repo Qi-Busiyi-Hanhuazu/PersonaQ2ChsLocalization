@@ -1,0 +1,464 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "また、新たな特別上映が追加されました。",
+    "translation": "また、新たな特別上映が追加されました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "こちらの上映は、カモシティ内にて\n行われるようでございます。",
+    "translation": "こちらの上映は、カモシティ内にて\n行われるようでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "ヒーローを失い、新たな道を踏み出そうと\nしている街の人々を励ます…",
+    "translation": "ヒーローを失い、新たな道を踏み出そうと\nしている街の人々を励ます…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_3",
+    "original": "そんなホットでハートフルな上映内容と\nなっております。",
+    "translation": "そんなホットでハートフルな上映内容と\nなっております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "人を励ますのが目的…なんだかいつもの\n内容とは、少し違うみたいね。",
+    "translation": "人を励ますのが目的…なんだかいつもの\n内容とは、少し違うみたいね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "けど、カモシダーマンをぶっ倒したのは\n俺らだしな…",
+    "translation": "けど、カモシダーマンをぶっ倒したのは\n俺らだしな…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "責任ってワケじゃねーけど、\nこれは行っといたほうがいいんじゃね？",
+    "translation": "責任ってワケじゃねーけど、\nこれは行っといたほうがいいんじゃね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうだね。僕たちに出来ることなら、\n街の人たちに協力してあげよう。",
+    "translation": "そうだね。僕たちに出来ることなら、\n街の人たちに協力してあげよう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うっし、んじゃ早速行って\nパーッとやっちまいましょう！",
+    "translation": "うっし、んじゃ早速行って\nパーッとやっちまいましょう！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ところがどっこ～い！\nエリザベストップでございます。",
+    "translation": "ところがどっこ～い！\nエリザベストップでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "な、なんスかそれ…",
+    "translation": "な、なんスかそれ…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "こちらの特別上映、とあるスペシャルな\n条件が設けられている様子…",
+    "translation": "こちらの特別上映、とあるスペシャルな\n条件が設けられている様子…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "その条件とは…『上映には指定の者が\n必ず出演すること』。",
+    "translation": "その条件とは…『上映には指定の者が\n必ず出演すること』。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_007_2",
+    "original": "そのスペシャルな方々とは、ズバリ！\nアイギス様、奥村春様、久慈川りせ様…",
+    "translation": "そのスペシャルな方々とは、ズバリ！\nアイギス様、奥村春様、久慈川りせ様…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_007_3",
+    "original": "以上の三名となっております。",
+    "translation": "以上の三名となっております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "およよ？　どういうことクマ？",
+    "translation": "およよ？　どういうことクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "えー、こちらの補足によりますと…",
+    "translation": "えー、こちらの補足によりますと…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "選ばれし美少女たちの力で、人々の心を\nラブリーハピネスにしちゃいなＹＯ！",
+    "translation": "選ばれし美少女たちの力で、人々の心を\nラブリーハピネスにしちゃいなＹＯ！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_2",
+    "original": "…だそうです。",
+    "translation": "…だそうです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "いや、ゼッテー書いてねーだろそれ…",
+    "translation": "いや、ゼッテー書いてねーだろそれ…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "つか、ご指名つきってことか？\n美少女トリプル主演的な？",
+    "translation": "つか、ご指名つきってことか？\n美少女トリプル主演的な？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_010_1_0",
+    "original": "はい。美少女三名を、前線および\nナビにご指定くだされば問題ないかと。",
+    "translation": "はい。美少女三名を、前線および\nナビにご指定くだされば問題ないかと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "美少女って…私も入ってるの？",
+    "translation": "美少女って…私も入ってるの？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "よっ、待ってました！　美少女怪盗！",
+    "translation": "よっ、待ってました！　美少女怪盗！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "…握り潰すよ？",
+    "translation": "…握り潰すよ？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "や、あの、ジョークだって！",
+    "translation": "や、あの、ジョークだって！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ふむぅ。これは女子のヒミツの花園…\nその名も女子会クマね！！",
+    "translation": "ふむぅ。これは女子のヒミツの花園…\nその名も女子会クマね！！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "そうとなれば、ぷりちーさに定評のある\nクマだって、負けていられないクマ！",
+    "translation": "そうとなれば、ぷりちーさに定評のある\nクマだって、負けていられないクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "あはは、燃えてるね、クマ。\n自信たっぷりだったもんね。",
+    "translation": "あはは、燃えてるね、クマ。\n自信たっぷりだったもんね。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "クマ、みんなよりも可愛くなって、\n女子会に参加するって決めたクマ。",
+    "translation": "クマ、みんなよりも可愛くなって、\n女子会に参加するって決めたクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "そんで、みんなに負けないぐらいの\nぷりちーさで人を元気にできればー…",
+    "translation": "そんで、みんなに負けないぐらいの\nぷりちーさで人を元気にできればー…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_017_2",
+    "original": "クマも美少女界に仲間入り！\nつまり、女子会に参加できるクマ！",
+    "translation": "クマも美少女界に仲間入り！\nつまり、女子会に参加できるクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "では、これは女子会参加を賭けた\nクマさんの執念の上映でもあるわけですね。",
+    "translation": "では、これは女子会参加を賭けた\nクマさんの執念の上映でもあるわけですね。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "クマの女子会はともかく、せっかくの\nご指名ならやるしかないよね。",
+    "translation": "クマの女子会はともかく、せっかくの\nご指名ならやるしかないよね。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "ナビしか出来ないけど、精いっぱい頑張る！",
+    "translation": "ナビしか出来ないけど、精いっぱい頑張る！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "[P5名]くん。\nこの上映、私たちに任せてもらっていい？",
+    "translation": "[P5名]くん。\nこの上映、私たちに任せてもらっていい？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "SEL_021_0",
+    "original": "任せた",
+    "translation": "任せた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_021_1",
+    "original": "すごく不安だ",
+    "translation": "すごく不安だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_021_2",
+    "original": "自分も頑張る",
+    "translation": "自分も頑張る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "任されたであります。\n任務、必ず遂行してみせます。",
+    "translation": "任されたであります。\n任務、必ず遂行してみせます。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "クマのフレッシュなぷりちーさに釘付けよ！\n張り切って参りますクマ！",
+    "translation": "クマのフレッシュなぷりちーさに釘付けよ！\n張り切って参りますクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "その気持ち、すっごく分かるぜ…",
+    "translation": "その気持ち、すっごく分かるぜ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "大丈夫クマ。\nやる気に燃えたクマがついてるクマ。",
+    "translation": "大丈夫クマ。\nやる気に燃えたクマがついてるクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "だーかーら、心配なんだっつの！",
+    "translation": "だーかーら、心配なんだっつの！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "まあ、Ｆ．Ｏ．Ｅと戦う感じでもねえし、\n任せても大丈夫…か？",
+    "translation": "まあ、Ｆ．Ｏ．Ｅと戦う感じでもねえし、\n任せても大丈夫…か？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "そうだな。\nでも危なくなったら、無理はするな。",
+    "translation": "そうだな。\nでも危なくなったら、無理はするな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "それなー！\nぶっちゃけ、オレっちも燃えてきたぜ。",
+    "translation": "それなー！\nぶっちゃけ、オレっちも燃えてきたぜ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "こう、女子たちに囲まれて\n夢の順平ハーレムチームって感じで…",
+    "translation": "こう、女子たちに囲まれて\n夢の順平ハーレムチームって感じで…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "順平ってさぁ…",
+    "translation": "順平ってさぁ…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "ほんっっと、キモいよね。",
+    "translation": "ほんっっと、キモいよね。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "噛みしめるように\n言わないでくれません！？",
+    "translation": "噛みしめるように\n言わないでくれません！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "えっと、私がナビをやって、\n春さんとアイギスが前線に出ればＯＫね？",
+    "translation": "えっと、私がナビをやって、\n春さんとアイギスが前線に出ればＯＫね？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_031_1",
+    "original": "編成は[P5姓]さんに任せるから\n用意が出来たら、出発しよ！",
+    "translation": "編成は[P5姓]さんに任せるから\n用意が出来たら、出発しよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  }
+]

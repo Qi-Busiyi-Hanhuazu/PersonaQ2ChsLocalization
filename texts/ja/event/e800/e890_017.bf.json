@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あら、もうお終い？\n熱くなってきたところなのに、残念だわ。",
+    "translation": "あら、もうお終い？\n熱くなってきたところなのに、残念だわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_000_1_0",
+    "original": "少々、飛ばしすぎたかしら。\nついて来られると思ったのだけれど…",
+    "translation": "少々、飛ばしすぎたかしら。\nついて来られると思ったのだけれど…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "今回は、姉上の勝利でございます。",
+    "translation": "今回は、姉上の勝利でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "再び挑戦されるときは、\nチケットカウンターにてお声掛け下さい。",
+    "translation": "再び挑戦されるときは、\nチケットカウンターにてお声掛け下さい。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "次はもっと楽しませて頂戴、約束よ。",
+    "translation": "次はもっと楽しませて頂戴、約束よ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  }
+]

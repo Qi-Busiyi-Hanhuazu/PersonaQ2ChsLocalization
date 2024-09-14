@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "矢印あったよ！　右だって！",
+    "translation": "找到箭头了！是右方！",
+    "stage": 0,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n找到箭头了！是右方！\n\n有箭头哦！右边！\n\n有箭头哦！对了！\n\n评论：\n\n根据前后文档中的文本（寻找彩蛋）\n暂译。根据实机表现再更改。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "オッケーだぜ、パンサー！\n面舵いっぱーい！",
+    "translation": "OK了，PANTHER！\n右满舵！",
+    "stage": 0,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\nOK了，PANTHER！\n右满舵！\n\n好啊，PANTER！\n掌舵！\n\n太好了，PANTHER ！\n面舵一倍！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "右の方へ向かってみようか…",
+    "translation": "朝右边前进看看吧……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n朝右边前进看看吧……\n\n往右边看吧……\n\n向右看……"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "矢印は『右』を指している。\n右の方へ向かおうか…",
+    "translation": "箭头指着“右边”。\n朝右边前进吧……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n箭头指着“右边”。\n朝右边前进吧……\n\n箭头指向“右”。\n向右走吧……\n\n箭头指向“右边”。\n向右走吧……"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊织 顺平",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

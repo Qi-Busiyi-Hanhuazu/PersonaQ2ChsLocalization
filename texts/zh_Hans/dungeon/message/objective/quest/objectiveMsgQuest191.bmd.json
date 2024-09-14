@@ -1,0 +1,44 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "ヒーローベルトを探そう",
+    "translation": "寻找英雄腰带",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找英雄皮带\n\n寻找英雄腰带"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "どこかにあるヒーローベルトを見つけよう",
+    "translation": "寻找位于某处的英雄腰带",
+    "stage": 0,
+    "context": "机翻辅助：\n\n寻找位于某处的英雄腰带\n\n找到某个地方的英雄腰带吧\n\n寻找某处的英雄腰带"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "目的地にあるヒーローベルトを見つけよう",
+    "translation": "寻找位于目的地的英雄腰带",
+    "stage": 0,
+    "context": "机翻辅助：\n\n寻找位于目的地的英雄腰带\n\n找到目的地的英雄腰带吧\n\n寻找目的地的英雄地带"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "クエストクリア報告に向かおう",
+    "translation": "去完成任务报告",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去完成任务报告\n\n向着任务完成报告前进吧\n\n前往任务通关报告"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_4_0",
+    "original": "クエスト１小目標０４",
+    "translation": "任务1小目标04",
+    "stage": 1,
+    "context": "机翻辅助：\n\n任务1 小目标04\n\n任务1小目标04"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_5_0",
+    "original": "クエスト１小目標０５",
+    "translation": "任务1小目标05",
+    "stage": 1,
+    "context": "机翻辅助：\n\n任务1 小目标05\n\n任务1小目标05"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なるほど…\n[颜色 03]スイッチを操作すると、柵が回転する[颜色 01]のね。",
+    "translation": "なるほど…\n[颜色 03]スイッチを操作すると、柵が回転する[颜色 01]のね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やった！　これで先へ進めるね！",
+    "translation": "やった！　これで先へ進めるね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "人間はいなくなっても\n施設は生きているということか。",
+    "translation": "人間はいなくなっても\n施設は生きているということか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "けど、この先、いくつか強い反応がある。\nこりゃ、Ｆ．Ｏ．Ｅっぽい。気をつけ…",
+    "translation": "けど、この先、いくつか強い反応がある。\nこりゃ、Ｆ．Ｏ．Ｅっぽい。気をつけ…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "ん…？　まてよ、他にも反応があるな。",
+    "translation": "ん…？　まてよ、他にも反応があるな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "え？　他の反応って？",
+    "translation": "え？　他の反応って？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "んんん…シャドウでもないし。\nＦ．Ｏ．Ｅとも違う。恐竜でもなさそうだし…",
+    "translation": "んんん…シャドウでもないし。\nＦ．Ｏ．Ｅとも違う。恐竜でもなさそうだし…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "よくわからん、なんだこれ…探れないぞ！",
+    "translation": "よくわからん、なんだこれ…探れないぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "どうも複数でまとまってるみたいなんだが…\nダメだ、詳細な位置が分からん！",
+    "translation": "どうも複数でまとまってるみたいなんだが…\nダメだ、詳細な位置が分からん！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "どういうこと…？",
+    "translation": "どういうこと…？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "複数？\nもしかして…ううん、でも…",
+    "translation": "複数？\nもしかして…ううん、でも…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ふむ…ここから先は、\nどんな状況になるかわからない。",
+    "translation": "ふむ…ここから先は、\nどんな状況になるかわからない。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "気をつけて進めよ、ジョーカー。",
+    "translation": "気をつけて進めよ、ジョーカー。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "近道を使えるようにしよう",
+    "translation": "设法走近路吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n设法使用捷径\n\n尽量走近路\n\n让我们走近路吧"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "近道を探してみよう",
+    "translation": "找找捷径吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找捷径\n\n试着寻找近路吧\n\n找条近路看看"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "他の近道も開いてみよう",
+    "translation": "也试一下开启其他近路吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n尝试开启其他捷径\n\n试着打开其他的近道吧\n\n试着打开其他的捷径"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "クエストクリア報告に向かおう",
+    "translation": "去完成任务报告",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去完成任务报告\n\n向着任务完成报告前进吧\n\n前往任务通关报告"
+  }
+]

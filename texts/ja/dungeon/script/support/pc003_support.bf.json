@@ -1,0 +1,527 @@
+[
+  {
+    "key": "YOUSUKE_FOE_FOLLOW_START_0",
+    "original": "Ｆ．Ｏ．Ｅに見つかったぞ！",
+    "translation": "Ｆ．Ｏ．Ｅに見つかったぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅに追われてるぞ！",
+    "translation": "Ｆ．Ｏ．Ｅに追われてるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_FOE_FOLLOW_START_3_0",
+    "original": "やべっ！　見つかった！",
+    "translation": "やべっ！　見つかった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_FOE_NEAR_1_0",
+    "original": "おわっ、Ｆ．Ｏ．Ｅ発見！",
+    "translation": "おわっ、Ｆ．Ｏ．Ｅ発見！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_FOE_NEAR_2_0",
+    "original": "気ぃつけろ、Ｆ．Ｏ．Ｅだ！",
+    "translation": "気ぃつけろ、Ｆ．Ｏ．Ｅだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_FOE_NEAR_3_0",
+    "original": "近くにＦ．Ｏ．Ｅがいんぞ！",
+    "translation": "近くにＦ．Ｏ．Ｅがいんぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_FOE_FOLLOW_END_1_0",
+    "original": "Ｆ．Ｏ．Ｅから逃げ切れたな…",
+    "translation": "Ｆ．Ｏ．Ｅから逃げ切れたな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_FOE_FOLLOW_END_2_0",
+    "original": "よっしゃ、Ｆ．Ｏ．Ｅを撒いたぜ！",
+    "translation": "よっしゃ、Ｆ．Ｏ．Ｅを撒いたぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_FOE_FOLLOW_END_3_0",
+    "original": "うし、もう追ってこねーな。",
+    "translation": "うし、もう追ってこねーな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_KANSI_REACTION_1_0",
+    "original": "みんな気をつけろよ。",
+    "translation": "みんな気をつけろよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_KANSI_REACTION_2_0",
+    "original": "慎重にいこうぜ。",
+    "translation": "慎重にいこうぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_KANSI_REACTION_3_0",
+    "original": "しーっ、見つかるなよ？",
+    "translation": "しーっ、見つかるなよ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_DENKISAKU_REACTI_0",
+    "original": "危ねーからさ、この電気止めようぜ。",
+    "translation": "危ねーからさ、この電気止めようぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_DENKISAKU_REACTI_2_0",
+    "original": "止めねぇと、丸焦げになるぞ。",
+    "translation": "止めねぇと、丸焦げになるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_DENKISAKU_REACTI_3_0",
+    "original": "電気柵のスイッチ、どこだ？",
+    "translation": "電気柵のスイッチ、どこだ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_KYOUHU_REACTION__0",
+    "original": "うっそ！？",
+    "translation": "うっそ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_KYOUHU_REACTION__2_0",
+    "original": "どわっ！",
+    "translation": "どわっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_KYOUHU_REACTION__3_0",
+    "original": "わっ!?",
+    "translation": "わっ!?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_STAIR_FIND_1_0",
+    "original": "おっ、先に行けそうだな！",
+    "translation": "おっ、先に行けそうだな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_STAIR_FIND_2_0",
+    "original": "次のエリアに進もうぜ！",
+    "translation": "次のエリアに進もうぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_STAIR_FIND_3_0",
+    "original": "とっとと先に行こうぜ？",
+    "translation": "とっとと先に行こうぜ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_TREASURE_FIND_1_0",
+    "original": "っしゃ、宝箱発見！",
+    "translation": "っしゃ、宝箱発見！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_TREASURE_FIND_2_0",
+    "original": "あれ、宝箱じゃねーか？",
+    "translation": "あれ、宝箱じゃねーか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_TREASURE_FIND_3_0",
+    "original": "宝箱、開けるよな？　なっ？",
+    "translation": "宝箱、開けるよな？　なっ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_CHECK_WALL_1_0",
+    "original": "何かありそうじゃねーか？",
+    "translation": "何かありそうじゃねーか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_CHECK_WALL_2_0",
+    "original": "この辺、なんか怪しくね？",
+    "translation": "この辺、なんか怪しくね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_CHECK_WALL_3_0",
+    "original": "前、見てみるか？",
+    "translation": "前、見てみるか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_SWITCH_FIND_1_0",
+    "original": "お？　スイッチがあんぞ。",
+    "translation": "お？　スイッチがあんぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_SWITCH_FIND_2_0",
+    "original": "スイッチか…押してみるか？",
+    "translation": "スイッチか…押してみるか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_SWITCH_FIND_3_0",
+    "original": "スイッチ、はっけーん！",
+    "translation": "スイッチ、はっけーん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_SHORTCUT_FIND_1_0",
+    "original": "そこ、通れそうじゃね？",
+    "translation": "そこ、通れそうじゃね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_SHORTCUT_FIND_2_0",
+    "original": "もしかして近道できるか？",
+    "translation": "もしかして近道できるか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_SHORTCUT_FIND_3_0",
+    "original": "なんかそこ、近道できそうじゃん？",
+    "translation": "なんかそこ、近道できそうじゃん？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_FOE_WARNING_NEAR_0",
+    "original": "げっ、Ｆ．Ｏ．Ｅが来てるのかよ。",
+    "translation": "げっ、Ｆ．Ｏ．Ｅが来てるのかよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_FOE_WARNING_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅだ、気をつけて進もうぜ。",
+    "translation": "Ｆ．Ｏ．Ｅだ、気をつけて進もうぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_FOE_WARNING_NEAR_3_0",
+    "original": "まだ追われてるぜ。",
+    "translation": "まだ追われてるぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_1PERSON_HPTP10_1_0",
+    "original": "うう…マジしんど…",
+    "translation": "うう…マジしんど…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_1PERSON_HPTP10_2_0",
+    "original": "…いったん帰んねーか？",
+    "translation": "…いったん帰んねーか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_1PERSON_HPTP10_3_0",
+    "original": "ダメだ、動けねえ…",
+    "translation": "ダメだ、動けねえ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_1PERSON_HP10_1_0",
+    "original": "体力が厳しいな…",
+    "translation": "体力が厳しいな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_1PERSON_HP10_2_0",
+    "original": "頼む！　体力回復させてくれ！",
+    "translation": "頼む！　体力回復させてくれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_1PERSON_HP10_3_0",
+    "original": "うおぉ…体力つれえ…",
+    "translation": "うおぉ…体力つれえ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_1PERSON_TP10_1_0",
+    "original": "やべえ、気力が…尽きる…",
+    "translation": "やべえ、気力が…尽きる…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_1PERSON_TP10_2_0",
+    "original": "これ以上は気力がもたねぇ！",
+    "translation": "これ以上は気力がもたねぇ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_1PERSON_TP10_3_0",
+    "original": "やべぇ…もう力入んねぇ…",
+    "translation": "やべぇ…もう力入んねぇ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_1PERSON_HP80_1_0",
+    "original": "へへっ、ヨユーヨユー！",
+    "translation": "へへっ、ヨユーヨユー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_1PERSON_HP80_2_0",
+    "original": "この調子で突き進もうぜ！",
+    "translation": "この調子で突き進もうぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_1PERSON_HP80_3_0",
+    "original": "まだまだヨユーだな。",
+    "translation": "まだまだヨユーだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_DUNGEON_START_1_0",
+    "original": "張り切っていきますか！",
+    "translation": "張り切っていきますか！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_DUNGEON_START_2_0",
+    "original": "準備はいいな？　行こうぜ！",
+    "translation": "準備はいいな？　行こうぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_DUNGEON_START_3_0",
+    "original": "よっしゃ、気合い入れていこうぜ！",
+    "translation": "よっしゃ、気合い入れていこうぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_QUEST_START_1_0",
+    "original": "絶対に達成してやろうぜ！",
+    "translation": "絶対に達成してやろうぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_QUEST_START_2_0",
+    "original": "俺らなら出来るって！",
+    "translation": "俺らなら出来るって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_QUEST_START_3_0",
+    "original": "張り切っていこうぜ！",
+    "translation": "張り切っていこうぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_TOUHA_25_1_0",
+    "original": "まだまだ先は長そうだな。",
+    "translation": "まだまだ先は長そうだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_TOUHA_25_2_0",
+    "original": "こっから先も、気をつけようぜ。",
+    "translation": "こっから先も、気をつけようぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_TOUHA_50_1_0",
+    "original": "半分くらい進んだんじゃね？",
+    "translation": "半分くらい進んだんじゃね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_TOUHA_50_2_0",
+    "original": "よし、いい調子で進んでんな。",
+    "translation": "よし、いい調子で進んでんな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_TOUHA_75_1_0",
+    "original": "おー、だいぶ進んできたな。",
+    "translation": "おー、だいぶ進んできたな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_TOUHA_75_2_0",
+    "original": "おっ、かなり地図埋まってね？",
+    "translation": "おっ、かなり地図埋まってね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_TOUHA_100_1_0",
+    "original": "よっしゃ、全部回れたっぽいな。",
+    "translation": "よっしゃ、全部回れたっぽいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_TOUHA_100_2_0",
+    "original": "このフロアは踏破したな、お疲れさん。",
+    "translation": "このフロアは踏破したな、お疲れさん。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_MAPPING_ICON_ALL_0",
+    "original": "おっ、いいじゃん！",
+    "translation": "おっ、いいじゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_MAPPING_ICON_ALL_2_0",
+    "original": "地図描くの、うまいな！",
+    "translation": "地図描くの、うまいな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_MAPPING_ICON_KAI_0",
+    "original": "これなら迷わないな！",
+    "translation": "これなら迷わないな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_MAPPING_ICON_KAI_2_0",
+    "original": "行き来が分かりやすくなったな！",
+    "translation": "行き来が分かりやすくなったな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_MAPPING_CHANGE_C_0",
+    "original": "お、センスいいじゃん。",
+    "translation": "お、センスいいじゃん。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_MAPPING_CHANGE_C_2_0",
+    "original": "こういうの、個性出るよな。",
+    "translation": "こういうの、個性出るよな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_MAPPING_ICON_DEL_0",
+    "original": "見やすく整理も必要だな。",
+    "translation": "見やすく整理も必要だな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_MAPPING_ICON_DEL_2_0",
+    "original": "そーそー、いらないのはポイッとな！",
+    "translation": "そーそー、いらないのはポイッとな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_MAPPING_MEMO_1_0",
+    "original": "そういうの大事だよな！",
+    "translation": "そういうの大事だよな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_MAPPING_MEMO_2_0",
+    "original": "さすが、キチンとしてんのな！",
+    "translation": "さすが、キチンとしてんのな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_DOOR_OPEN_1_0",
+    "original": "いこうぜ！",
+    "translation": "いこうぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_DOOR_OPEN_2_0",
+    "original": "おっさき～！",
+    "translation": "おっさき～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YOUSUKE_DOOR_OPEN_3_0",
+    "original": "開けゴマ、ってか。",
+    "translation": "開けゴマ、ってか。",
+    "stage": 1,
+    "context": ""
+  }
+]

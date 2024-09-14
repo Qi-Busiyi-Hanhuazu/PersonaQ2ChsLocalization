@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おい、ヤバイぞ！\n前からも敵が来てる…",
+    "translation": "喂，糟糕！\n前面有敌人过来了……",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n喂，这下不妙了！\n敌人从前方也来了……\n\n喂，糟糕！\n前面也有敌人来了……\n\n喂，糟糕了！敌人也从前面来了……"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "…って、なんだこいつら！\nシャドウなのか！？",
+    "translation": "……这些家伙是什么东西！\n是暗影吗！？",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n……呃，这两个家伙是怎样！\n是暗影吗！？\n\n……这是什么！\n是暗影吗！？\n\n……这是什么玩意儿！\n是暗影吗！？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "た、多分…？\nいつものとは違うみたいだけど…",
+    "translation": "也、也许吧……？\n虽然感觉和平常的不太一样……",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n大、大概……？\n虽然跟平常不太一样……\n\n大概……？\n好像和往常不同……\n\n太、大概……？\n好像和平时不一样……"
+  },
+  {
+    "key": "MSG_001_5_0",
+    "original": "ああもう、意味わかんない！",
+    "translation": "啊，真是莫名其妙！",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n啊啊，真是的，搞不懂！\n\n啊，已经不明白什么意思了！\n\n啊，真搞不懂！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "とにかく、今はここを\n切り抜けることだけ考えましょう。",
+    "translation": "总之，\n我们还是先专心应对眼前的危机吧。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n总之，现在就先考虑如何\n脱离这里吧。\n\n总之，现在只考虑穿过这里吧。\n\n\n总之，现在只想着如何度过这段时间。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうだな。後ろから警察も来ている…\nスカル、俺たちはこっちの相手をしよう。",
+    "translation": "说得对，警察也从背后追来了……\nSKULL，我们来应付这边的对手吧。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n是啊。警察也从后面过来了……\nSKULL，我们来对付这边的敌人。\n\n是啊。后面也有警察……\nSKULL，我们来做这边的对手吧。\n\n是啊。后面警察也来了……\nSKULL，我们做这边的对手吧。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おうよ！　任せとけって！",
+    "translation": "哦！交给我吧！",
+    "stage": 0,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n哦！交给我吧！\n\n喔！交给我吧！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "僕も加勢するよ。\nジョーカー、そっちは頼んだ。",
+    "translation": "我也会来帮忙的。\nJOKER，那边就拜托你了。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n我也来帮忙。\nJOKER，那边就拜托你了。\n\n我也来帮忙。\nJOKER，那件事我拜托了。\n\n我也会帮你的。JOKER，你拜托我了。"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

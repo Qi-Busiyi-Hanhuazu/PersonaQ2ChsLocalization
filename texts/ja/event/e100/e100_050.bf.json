@@ -1,0 +1,261 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "モルガナ、どうした？\nなんか手がかりあったか！？",
+    "translation": "モルガナ、どうした？\nなんか手がかりあったか！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "この扉、見てみろ。",
+    "translation": "この扉、見てみろ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "扉…？",
+    "translation": "扉…？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "この扉…",
+    "translation": "この扉…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "やっぱりダメ？",
+    "translation": "やっぱりダメ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "出入り口のような扉があるが、\n幾重にもチェーンが巻きつけられている…",
+    "translation": "出入り口のような扉があるが、\n幾重にもチェーンが巻きつけられている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "扉には、４つの鍵がかけられている…",
+    "translation": "扉には、４つの鍵がかけられている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ンだこりゃ！？",
+    "translation": "ンだこりゃ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "厳重だな…",
+    "translation": "厳重だな…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "っていうか、これどう見ても\n私たち閉じ込められてんじゃん！？",
+    "translation": "っていうか、これどう見ても\n私たち閉じ込められてんじゃん！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "拉致監禁、キター！",
+    "translation": "拉致監禁、キター！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "おい、モルガナ！\nピッキングで開けられねぇのか！？",
+    "translation": "おい、モルガナ！\nピッキングで開けられねぇのか！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "試したが、鍵穴が妙な形をしてて無理だ。\n普通の鍵じゃない。",
+    "translation": "試したが、鍵穴が妙な形をしてて無理だ。\n普通の鍵じゃない。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_011_5_0",
+    "original": "この鍵さえ何とかなれば、\nこっから外に出れると思うんだが…",
+    "translation": "この鍵さえ何とかなれば、\nこっから外に出れると思うんだが…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そうだよね。ねえ、[P5名]…\nどうにかできないかな？",
+    "translation": "そうだよね。ねえ、[P5名]…\nどうにかできないかな？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_013_0",
+    "original": "こじ開けよう",
+    "translation": "こじ開けよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_013_1",
+    "original": "鍵を探そう",
+    "translation": "鍵を探そう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_013_2",
+    "original": "無理だろう",
+    "translation": "無理だろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ハァ、ハァ…くっそ。\nダメだ…全っ然、ムリ…",
+    "translation": "ハァ、ハァ…くっそ。\nダメだ…全っ然、ムリ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ふむ、力技では無理そうか。\nどこかに鍵はないのか？",
+    "translation": "ふむ、力技では無理そうか。\nどこかに鍵はないのか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "諦めるの早っ！！",
+    "translation": "諦めるの早っ！！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "潔いのも良いが、腹を括るにはまだ早い。\nどこかに鍵はないのか？",
+    "translation": "潔いのも良いが、腹を括るにはまだ早い。\nどこかに鍵はないのか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ひと通り探したが、見つからなかった。\nネズミの一匹すらいなかったぜ。",
+    "translation": "ひと通り探したが、見つからなかった。\nネズミの一匹すらいなかったぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ところでそっちは…\nマコトとハルはどうなった？",
+    "translation": "ところでそっちは…\nマコトとハルはどうなった？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "捜したけどダメだ、見つからない…",
+    "translation": "捜したけどダメだ、見つからない…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "手がかりすらもねぇよ。",
+    "translation": "手がかりすらもねぇよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "出入り口が閉ざされているとなると、\n外に出たとも思えない。どうしたものか…",
+    "translation": "出入り口が閉ざされているとなると、\n外に出たとも思えない。どうしたものか…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "…ねえ、さっきの場所に戻ってみない？",
+    "translation": "…ねえ、さっきの場所に戻ってみない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "もしかしたら二人とも、遅れて来てるかも\nしれないし。",
+    "translation": "もしかしたら二人とも、遅れて来てるかも\nしれないし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "確かに、アン殿の言う通りだな。\nここで考えてても仕方ない。",
+    "translation": "確かに、アン殿の言う通りだな。\nここで考えてても仕方ない。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "よし、いったん戻るぞ！",
+    "translation": "よし、いったん戻るぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

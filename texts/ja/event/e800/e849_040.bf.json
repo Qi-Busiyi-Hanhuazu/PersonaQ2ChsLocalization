@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "皆様が繰り広げる熱い攻防に、\n私の心もヒ～トア～ップ！",
+    "translation": "皆様が繰り広げる熱い攻防に、\n私の心もヒ～トア～ップ！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1_0",
+    "original": "役目を忘れ、ダイナミック乱入する\n寸前でございました。",
+    "translation": "役目を忘れ、ダイナミック乱入する\n寸前でございました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あはは…エリザベスが言うと、\n冗談に聞こえないな。",
+    "translation": "あはは…エリザベスが言うと、\n冗談に聞こえないな。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "さて、今回もまた新たに\nフィルムを手にされたようですね。",
+    "translation": "さて、今回もまた新たに\nフィルムを手にされたようですね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1_0",
+    "original": "いよいよ真相へと近づいて参りました。\nこの後の手筈は、お任せ下さい。",
+    "translation": "いよいよ真相へと近づいて参りました。\nこの後の手筈は、お任せ下さい。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "準備してくる",
+    "translation": "準備してくる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "今度は誰だ？",
+    "translation": "今度は誰だ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "フフ、逸るお気持ちが\n抑えきれぬということでしょうか。",
+    "translation": "フフ、逸るお気持ちが\n抑えきれぬということでしょうか。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "はてさて、慌てずとも\nすぐにお分かり頂けるかと、フフ。",
+    "translation": "はてさて、慌てずとも\nすぐにお分かり頂けるかと、フフ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "それでは、従前通りに参りましょう。",
+    "translation": "それでは、従前通りに参りましょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "まずは今回の特別上映の報酬を\nお受け取り下さい。",
+    "translation": "まずは今回の特別上映の報酬を\nお受け取り下さい。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_1_0",
+    "original": "そして、皆様の準備が整いましたら、\n私にお声掛け下さいませ。",
+    "translation": "そして、皆様の準備が整いましたら、\n私にお声掛け下さいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

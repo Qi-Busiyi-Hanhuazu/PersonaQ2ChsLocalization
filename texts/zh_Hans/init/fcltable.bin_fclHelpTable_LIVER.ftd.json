@@ -1,0 +1,37 @@
+[
+  {
+    "key": "text_000_0",
+    "original": "マーガレットのお願いを聞く",
+    "translation": "听玛格丽特的请求",
+    "stage": 0,
+    "context": "机翻辅助：\n\n听玛格丽特的请求\n\n听取玛格丽特的请求"
+  },
+  {
+    "key": "text_001_0",
+    "original": "マリーのお願いを聞く",
+    "translation": "听玛丽的请求",
+    "stage": 0,
+    "context": "机翻辅助：\n\n听玛丽的请求\n\n听取玛丽的请求"
+  },
+  {
+    "key": "text_002_0",
+    "original": "マリーの行方を尋ねる",
+    "translation": "询问玛丽的下落",
+    "stage": 0,
+    "context": "机翻辅助：\n\n询问玛丽的下落\n\n打听玛丽的下落"
+  },
+  {
+    "key": "text_003_0",
+    "original": "コミュニティ達成率を確認する",
+    "translation": "查看社群完成率",
+    "stage": 1,
+    "context": "机翻辅助：\n\n查看社区完成率\n\n确认社群达成率"
+  },
+  {
+    "key": "text_004_0",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  }
+]

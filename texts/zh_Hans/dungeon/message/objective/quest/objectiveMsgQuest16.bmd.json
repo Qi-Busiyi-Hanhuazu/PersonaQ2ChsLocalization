@@ -1,0 +1,37 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "コンテナから依頼品を探せ！",
+    "translation": "从集装箱中寻找委托物品！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n从货柜寻找委托物品！\n\n从集装箱中寻找委托品！\n\n从集装箱寻找委托品！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "壊れたコンテナを探せ",
+    "translation": "寻找坏掉的集装箱",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找坏掉的货柜\n\n寻找损坏的集装箱\n\n寻找坏掉的集装箱"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "コンテナへ向かおう",
+    "translation": "前往集装箱吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往货柜吧\n\n去集装箱吧"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "コンテナへ向かおう",
+    "translation": "前往集装箱吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往货柜吧\n\n去集装箱吧"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_4_0",
+    "original": "コンテナへ向かおう",
+    "translation": "前往集装箱吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往货柜吧\n\n去集装箱吧"
+  }
+]

@@ -1,0 +1,1423 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おおお？　真っ暗だぞ！？\nベタ展開キタコレ！",
+    "translation": "おおお？　真っ暗だぞ！？\nベタ展開キタコレ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "げっ、もしかして罠か！？",
+    "translation": "げっ、もしかして罠か！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "静かに！　何か聞こえる。",
+    "translation": "静かに！　何か聞こえる。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ＴＫ－００、０３、０５、０６、０８。\nＹＳ－０１、０６。",
+    "translation": "ＴＫ－００、０３、０５、０６、０８。\nＹＳ－０１、０６。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "ＩＷ－０４。\nＵＩＹ－２２４９。",
+    "translation": "ＩＷ－０４。\nＵＩＹ－２２４９。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "『知識』適正テストを開始します。\n出される問いに全て答えてください。",
+    "translation": "『知識』適正テストを開始します。\n出される問いに全て答えてください。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_003_3",
+    "original": "また、労働作業には協調性も問われます。\n達成しなかった場合は連帯責任です。",
+    "translation": "また、労働作業には協調性も問われます。\n達成しなかった場合は連帯責任です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_003_4",
+    "original": "全員、重大なエラーがあるとみなし、\nこの場で処分します。",
+    "translation": "全員、重大なエラーがあるとみなし、\nこの場で処分します。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "処分だとっ！？",
+    "translation": "処分だとっ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "概ね、予想通りの展開だね。\n処分される前に問題を解かないと。",
+    "translation": "概ね、予想通りの展開だね。\n処分される前に問題を解かないと。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ちょっ、まだ心の準備が…！\nやべ、トイレ行きたくなってきた…",
+    "translation": "ちょっ、まだ心の準備が…！\nやべ、トイレ行きたくなってきた…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "参謀はどうした？",
+    "translation": "参謀はどうした？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "我慢しろ",
+    "translation": "我慢しろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "参謀は参謀でも、熟考派だから！　つか、\n緊張したら、なんか腹まで痛くなってきた！",
+    "translation": "参謀は参謀でも、熟考派だから！　つか、\n緊張したら、なんか腹まで痛くなってきた！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "わ、分かってるって。でも緊張したら、\nなんか腹まで痛くなってきた…イテテ。",
+    "translation": "わ、分かってるって。でも緊張したら、\nなんか腹まで痛くなってきた…イテテ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ひとまず落ち着いて？\nクリアしないと出られないんだから。",
+    "translation": "ひとまず落ち着いて？\nクリアしないと出られないんだから。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "では、今から出題します。\n不正があった場合、罰を与えます。",
+    "translation": "では、今から出題します。\n不正があった場合、罰を与えます。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "正解が複数ある問題です。\n必ず一人一回、解答してください。",
+    "translation": "正解が複数ある問題です。\n必ず一人一回、解答してください。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "解答者の順番は自由ですが\n速やかに解答してください。",
+    "translation": "解答者の順番は自由ですが\n速やかに解答してください。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "これは…解答順が後になるほど、\n正解を探すのが難しくなる形式ですね。",
+    "translation": "これは…解答順が後になるほど、\n正解を探すのが難しくなる形式ですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "知識に自信がある人は、\n後に回ったほうが得策かと。",
+    "translation": "知識に自信がある人は、\n後に回ったほうが得策かと。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "みんな、一番手は緊張するだろ？\nここは俺が先陣をきって…",
+    "translation": "みんな、一番手は緊張するだろ？\nここは俺が先陣をきって…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "いや、ここはワガハイが\n最初に手本を見せてやらないとだろ！",
+    "translation": "いや、ここはワガハイが\n最初に手本を見せてやらないとだろ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "いやいや、ここは俺が。",
+    "translation": "いやいや、ここは俺が。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "お前ら、そんなに自信ないなら\n一番手は譲ってやるぞ。",
+    "translation": "お前ら、そんなに自信ないなら\n一番手は譲ってやるぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "け、決して自信がないワケじゃねえ！\nただ、怪盗団として見本をみせてやろうと…",
+    "translation": "け、決して自信がないワケじゃねえ！\nただ、怪盗団として見本をみせてやろうと…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "それで、リボンの知識量はどうなんだ？",
+    "translation": "それで、リボンの知識量はどうなんだ？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "おお、華麗なスルー。",
+    "translation": "おお、華麗なスルー。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ワタシは汎用問題であれば\n回答可能デス。",
+    "translation": "ワタシは汎用問題であれば\n回答可能デス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "では、リボンさんは真ん中が妥当かな？\n最後は僕に任せてくれ。",
+    "translation": "では、リボンさんは真ん中が妥当かな？\n最後は僕に任せてくれ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "異論はありません。\n僕も後半で構いませんよ。",
+    "translation": "異論はありません。\n僕も後半で構いませんよ。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "それでは問題です。\n第１問。",
+    "translation": "それでは問題です。\n第１問。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "数字が２つ以上使用されている\n四字熟語を答えなさい。",
+    "translation": "数字が２つ以上使用されている\n四字熟語を答えなさい。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "う、う～ん…？\n数字が２つ…",
+    "translation": "う、う～ん…？\n数字が２つ…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "あっ、思いついたぞ！\nズバリ『一攫千金』だ！",
+    "translation": "あっ、思いついたぞ！\nズバリ『一攫千金』だ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "へへ、俺もすぐに思いついたぜ。\n『一石二鳥』！",
+    "translation": "へへ、俺もすぐに思いついたぜ。\n『一石二鳥』！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ワタシの解答は『七転八倒』デス。",
+    "translation": "ワタシの解答は『七転八倒』デス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "じゃあ、私は『一言一句』で。\n次はジョーカー、お願いできる？",
+    "translation": "じゃあ、私は『一言一句』で。\n次はジョーカー、お願いできる？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_028_05_0",
+    "original": "いい？　数字が２つ以上\n使用されている四字熟語よ！",
+    "translation": "いい？　数字が２つ以上\n使用されている四字熟語よ！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "SEL_029_0",
+    "original": "一騎当千",
+    "translation": "一騎当千",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_029_1",
+    "original": "二束三文",
+    "translation": "二束三文",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_029_2",
+    "original": "焼肉定食",
+    "translation": "焼肉定食",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "一騎で、千人もの敵に対抗できる、か…\n頼もしい答えだな。",
+    "translation": "一騎で、千人もの敵に対抗できる、か…\n頼もしい答えだな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "みんなが一騎当千の活躍をすれば、\nこの世界も余裕で攻略できるだろうね。",
+    "translation": "みんなが一騎当千の活躍をすれば、\nこの世界も余裕で攻略できるだろうね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "間違っちゃいないが、ワガハイは\nもっと景気いい言葉がいいな。",
+    "translation": "間違っちゃいないが、ワガハイは\nもっと景気いい言葉がいいな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "景気がいい、か…\n『一日五食』とかどうだ？",
+    "translation": "景気がいい、か…\n『一日五食』とかどうだ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "健康を考えたら\n『一汁三菜』のほうがいいわね。",
+    "translation": "健康を考えたら\n『一汁三菜』のほうがいいわね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "頭、里中か！\nていうか、数字１つも入ってねーし！",
+    "translation": "頭、里中か！\nていうか、数字１つも入ってねーし！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "そもそも、漢字を４つ並べただけじゃなくて\n慣用句的な意味もないとね。",
+    "translation": "そもそも、漢字を４つ並べただけじゃなくて\n慣用句的な意味もないとね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "そいじゃ、次だな。\nわたしは『一期一会』だ！",
+    "translation": "そいじゃ、次だな。\nわたしは『一期一会』だ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "では、私は『九夏三伏』だ。",
+    "translation": "では、私は『九夏三伏』だ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "僕は『千紫万紅』で。\n最後は明智さん、お願いします。",
+    "translation": "僕は『千紫万紅』で。\n最後は明智さん、お願いします。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "ああ、任せて。\n『一罰百戒』でどうかな？",
+    "translation": "ああ、任せて。\n『一罰百戒』でどうかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "全員、正解です。",
+    "translation": "全員、正解です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "ふう…なんとか乗り切ったな。",
+    "translation": "ふう…なんとか乗り切ったな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "やっべ。最後のほう、なに言ってんだか\n分かんなかったわ…休暇とか戦士万能とか…",
+    "translation": "やっべ。最後のほう、なに言ってんだか\n分かんなかったわ…休暇とか戦士万能とか…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "では、次の問いに移ります。",
+    "translation": "では、次の問いに移ります。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_044_1",
+    "original": "無作為に解答者を選出します。\n指名された者は、速やかに回答をしなさい。",
+    "translation": "無作為に解答者を選出します。\n指名された者は、速やかに回答をしなさい。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "まだあんのかよっ？\nしかもランダム！？",
+    "translation": "まだあんのかよっ？\nしかもランダム！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "それでは問題です。\n第２問。",
+    "translation": "それでは問題です。\n第２問。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_046_1",
+    "original": "金属元素を９つ挙げなさい。\nただし、金・銀・銅は除きます。",
+    "translation": "金属元素を９つ挙げなさい。\nただし、金・銀・銅は除きます。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "常識問題だな。\nこれも簡単にクリアできるだろう。",
+    "translation": "常識問題だな。\nこれも簡単にクリアできるだろう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "えっ、マジ！？　金属元素？",
+    "translation": "えっ、マジ！？　金属元素？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "花村先輩のために、『アレ』だけは\n残しておいた方が良さそうですね…",
+    "translation": "花村先輩のために、『アレ』だけは\n残しておいた方が良さそうですね…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "そうだね。ランダムに選ばれるようだし、\n僕も『アレ』は残しておくよ。",
+    "translation": "そうだね。ランダムに選ばれるようだし、\n僕も『アレ』は残しておくよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "んだな。\n『アレ』なら、誰でも答えられるしな。",
+    "translation": "んだな。\n『アレ』なら、誰でも答えられるしな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "待って！　『アレ』ってなに！？",
+    "translation": "待って！　『アレ』ってなに！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "では、開始します。\n識別番号、ＴＫ－０８。",
+    "translation": "では、開始します。\n識別番号、ＴＫ－０８。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "トップバッターは僕か。\n『ベリリウム』。",
+    "translation": "トップバッターは僕か。\n『ベリリウム』。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "正解です。\n次、識別番号、ＴＫ－０５。",
+    "translation": "正解です。\n次、識別番号、ＴＫ－０５。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "本当に規則性はなさそうね。\nじゃあ、『モリブデン』で。",
+    "translation": "本当に規則性はなさそうね。\nじゃあ、『モリブデン』で。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_056_1_0",
+    "original": "正解です。\n次、識別番号、ＹＳ－０６。",
+    "translation": "正解です。\n次、識別番号、ＹＳ－０６。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_056_2_0",
+    "original": "では、『タングステン』に\nしておきましょうか。",
+    "translation": "では、『タングステン』に\nしておきましょうか。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "正解です。\n次、識別番号、ＩＷ－０４。",
+    "translation": "正解です。\n次、識別番号、ＩＷ－０４。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "『パラジウム』だ。",
+    "translation": "『パラジウム』だ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "正解です。\n次、識別番号、ＴＫ－０６。",
+    "translation": "正解です。\n次、識別番号、ＴＫ－０６。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "『マンガン』！\n最近見ないな。マンガン電池。",
+    "translation": "『マンガン』！\n最近見ないな。マンガン電池。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "正解です。\n次、識別番号、ＵＩＹ－２２４９。",
+    "translation": "正解です。\n次、識別番号、ＵＩＹ－２２４９。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_062_0",
+    "original": "『プラチナ』デス。",
+    "translation": "『プラチナ』デス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_062_1_0",
+    "original": "正解です。",
+    "translation": "正解です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_063_0",
+    "original": "やべっ…分かんねー！\nアレってなんだ、アレ…",
+    "translation": "やべっ…分かんねー！\nアレってなんだ、アレ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_064_0",
+    "original": "次、識別番号、ＴＫ－００。",
+    "translation": "次、識別番号、ＴＫ－００。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_065_0",
+    "original": "ジョーカーの番だな。いいか、\n金・銀・銅以外の金属元素だからな？",
+    "translation": "ジョーカーの番だな。いいか、\n金・銀・銅以外の金属元素だからな？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_066_0",
+    "original": "鉄",
+    "translation": "鉄",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_066_1",
+    "original": "チタン",
+    "translation": "チタン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_066_2",
+    "original": "硬貨",
+    "translation": "硬貨",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_067_0",
+    "original": "正解です。",
+    "translation": "正解です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_068_0",
+    "original": "あっ…\n『アレ』言っちゃいましたね。",
+    "translation": "あっ…\n『アレ』言っちゃいましたね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_069_0",
+    "original": "次、識別番号、ＴＫ－０３。",
+    "translation": "次、識別番号、ＴＫ－０３。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_070_0",
+    "original": "ふふん、ワガハイはちゃんと知ってるぜ？\n『ナトリウム』だ。",
+    "translation": "ふふん、ワガハイはちゃんと知ってるぜ？\n『ナトリウム』だ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_071_0",
+    "original": "正解です。\n次、識別番号、ＹＳ－０１。",
+    "translation": "正解です。\n次、識別番号、ＹＳ－０１。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_072_0",
+    "original": "ダメだ、何も思いつかねぇ！\n鉄以外で硬いもん…えーと、えーと…",
+    "translation": "ダメだ、何も思いつかねぇ！\n鉄以外で硬いもん…えーと、えーと…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_072_1",
+    "original": "か、カルシウム…とか？\nほら、骨って固いし…",
+    "translation": "か、カルシウム…とか？\nほら、骨って固いし…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_072_2",
+    "original": "って、やっぱそんなワケ…",
+    "translation": "って、やっぱそんなワケ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_073_0",
+    "original": "正解です。",
+    "translation": "正解です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_074_0",
+    "original": "ウソ？　まじで！？\nスゲェ、テキトーに言ってみるもんだな！",
+    "translation": "ウソ？　まじで！？\nスゲェ、テキトーに言ってみるもんだな！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_075_0",
+    "original": "参謀…とは…？",
+    "translation": "参謀…とは…？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_076_0",
+    "original": "正解です。",
+    "translation": "正解です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_077_0",
+    "original": "ＳＦっぽくていいね。\n『アレ』も残してくれてるし。",
+    "translation": "ＳＦっぽくていいね。\n『アレ』も残してくれてるし。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_078_0",
+    "original": "次、識別番号、ＹＳ－０１。",
+    "translation": "次、識別番号、ＹＳ－０１。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_079_0",
+    "original": "アレ…アレ…\nアレ、アレイ…鉄アレイ…？",
+    "translation": "アレ…アレ…\nアレ、アレイ…鉄アレイ…？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_079_1",
+    "original": "あっ、『鉄』か！？",
+    "translation": "あっ、『鉄』か！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_080_0",
+    "original": "正解です。",
+    "translation": "正解です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_081_0",
+    "original": "ウソ？　まじで！？\n当たった！",
+    "translation": "ウソ？　まじで！？\n当たった！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_082_0",
+    "original": "参謀…とは…？",
+    "translation": "参謀…とは…？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_083_0",
+    "original": "次、識別番号、ＴＫ－０３。",
+    "translation": "次、識別番号、ＴＫ－０３。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_084_0",
+    "original": "ふふん、ワガハイはちゃんと知ってるぜ？\n『ナトリウム』だ。",
+    "translation": "ふふん、ワガハイはちゃんと知ってるぜ？\n『ナトリウム』だ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_085_0",
+    "original": "正解です。",
+    "translation": "正解です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_086_0",
+    "original": "お？　ジョーカーのボケか？",
+    "translation": "お？　ジョーカーのボケか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_087_0",
+    "original": "今はボケてる場合じゃないでしょ？",
+    "translation": "今はボケてる場合じゃないでしょ？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_087_1",
+    "original": "真面目に答えて、ジョーカー。\n金・銀・銅以外の硬貨があるでしょう？",
+    "translation": "真面目に答えて、ジョーカー。\n金・銀・銅以外の硬貨があるでしょう？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "SEL_088_0",
+    "original": "アルミニウム",
+    "translation": "アルミニウム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_088_1",
+    "original": "ニッケル",
+    "translation": "ニッケル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_089_0",
+    "original": "正解です。",
+    "translation": "正解です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_090_0",
+    "original": "ふう…よかった。\nもう驚かせないでよ。",
+    "translation": "ふう…よかった。\nもう驚かせないでよ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_091_0",
+    "original": "正解です。",
+    "translation": "正解です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_092_0",
+    "original": "お、そっちか。\nなかなかシブいトコいったな。",
+    "translation": "お、そっちか。\nなかなかシブいトコいったな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_093_0",
+    "original": "次、識別番号、ＴＫ－０３。",
+    "translation": "次、識別番号、ＴＫ－０３。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_094_0",
+    "original": "ふふん、ワガハイはちゃんと知ってるぜ？\n『ナトリウム』だ。",
+    "translation": "ふふん、ワガハイはちゃんと知ってるぜ？\n『ナトリウム』だ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_095_0",
+    "original": "正解です。",
+    "translation": "正解です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_096_0",
+    "original": "よし、ラストは花村先輩ですね。\n『アレ』を答えるだけですよ！",
+    "translation": "よし、ラストは花村先輩ですね。\n『アレ』を答えるだけですよ！",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_097_0",
+    "original": "ちょっ、だから『アレ』って…！",
+    "translation": "ちょっ、だから『アレ』って…！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_098_0",
+    "original": "次、識別番号、ＹＳ－０１。",
+    "translation": "次、識別番号、ＹＳ－０１。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_099_0",
+    "original": "アレ…アレ…\nアレ、アレイ…鉄アレイ…？",
+    "translation": "アレ…アレ…\nアレ、アレイ…鉄アレイ…？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_099_1",
+    "original": "あっ、『鉄』か！？",
+    "translation": "あっ、『鉄』か！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_100_0",
+    "original": "正解です。",
+    "translation": "正解です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_101_0",
+    "original": "ウソ？　まじで！？\n当たった！",
+    "translation": "ウソ？　まじで！？\n当たった！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_102_0",
+    "original": "参謀…とは…？",
+    "translation": "参謀…とは…？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_103_0",
+    "original": "では、最終問題に移ります。",
+    "translation": "では、最終問題に移ります。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_104_0",
+    "original": "えっ！？　まだあるの？",
+    "translation": "えっ！？　まだあるの？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_105_0",
+    "original": "でも、最終問題だ。\n終わりは見えたよ。",
+    "translation": "でも、最終問題だ。\n終わりは見えたよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_106_0",
+    "original": "この先に、ゲートが２つあります。",
+    "translation": "この先に、ゲートが２つあります。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_107_0",
+    "original": "２つのうち、○と×、正解と\n思うゲートに飛び込んでください。",
+    "translation": "２つのうち、○と×、正解と\n思うゲートに飛び込んでください。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_107_1",
+    "original": "間違ったゲートを選んだ場合は\nその先の高圧電流で、即処分されます。",
+    "translation": "間違ったゲートを選んだ場合は\nその先の高圧電流で、即処分されます。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_108_0",
+    "original": "は？　即処分！？",
+    "translation": "は？　即処分！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_109_0",
+    "original": "ゲートの向こうは\n確認できないみたいだな。",
+    "translation": "ゲートの向こうは\n確認できないみたいだな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_109_1",
+    "original": "見てみろ。ゲート付近の足元に\n電流が流れてる。",
+    "translation": "見てみろ。ゲート付近の足元に\n電流が流れてる。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_110_0",
+    "original": "勢いをつけて飛び越えろってこと？\nずいぶん荒業ね。",
+    "translation": "勢いをつけて飛び越えろってこと？\nずいぶん荒業ね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_111_0",
+    "original": "無理！　無理ゲー！",
+    "translation": "無理！　無理ゲー！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_111_1",
+    "original": "そもそも知識問題なのに、\n運動神経がいるとか反則だし！",
+    "translation": "そもそも知識問題なのに、\n運動神経がいるとか反則だし！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_112_0",
+    "original": "…しかし、ここまで来た以上は\n答えるしかない。まずは問題を聞こう。",
+    "translation": "…しかし、ここまで来た以上は\n答えるしかない。まずは問題を聞こう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_113_0",
+    "original": "それでは問題です。",
+    "translation": "それでは問題です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_113_1",
+    "original": "他とは違う『個性』を獲得するのは\n良いことか？",
+    "translation": "他とは違う『個性』を獲得するのは\n良いことか？",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_114_0",
+    "original": "は…？　なに言ってんだ！？",
+    "translation": "は…？　なに言ってんだ！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_115_0",
+    "original": "んなの、『○』に決まってんじゃねーか。\n考えるまでもないだろ！",
+    "translation": "んなの、『○』に決まってんじゃねーか。\n考えるまでもないだろ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_116_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_117_0",
+    "original": "落ち着いて。\nこれはロボットの適正テストだよ。",
+    "translation": "落ち着いて。\nこれはロボットの適正テストだよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_117_1",
+    "original": "僕たちの答えが、この世界の\n正解とは限らないんじゃないかな。",
+    "translation": "僕たちの答えが、この世界の\n正解とは限らないんじゃないかな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_118_0",
+    "original": "ここのルールに従って考えれば、\n『×』ということか…",
+    "translation": "ここのルールに従って考えれば、\n『×』ということか…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_119_0",
+    "original": "個性を持つことが良いなら『○』、\n悪なら『×』か…どう答えるんだ？",
+    "translation": "個性を持つことが良いなら『○』、\n悪なら『×』か…どう答えるんだ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_120_0",
+    "original": "×だ",
+    "translation": "×だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_120_1",
+    "original": "○だ",
+    "translation": "○だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_120_2",
+    "original": "△だ",
+    "translation": "△だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_121_0",
+    "original": "…そうね。納得はいかないけど、\nロボットが答える問題だからね。",
+    "translation": "…そうね。納得はいかないけど、\nロボットが答える問題だからね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_122_0",
+    "original": "頭じゃ分かってても、やっぱり\n腹が立ちすぎるぞ！　この問題！",
+    "translation": "頭じゃ分かってても、やっぱり\n腹が立ちすぎるぞ！　この問題！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_123_0",
+    "original": "ジョーカーの気持ちは分かるけど、\nこれは、ロボット用の問題だから…",
+    "translation": "ジョーカーの気持ちは分かるけど、\nこれは、ロボット用の問題だから…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_124_0",
+    "original": "その反逆心はスバラシイけどな。\nいま処分されちまったら、意味がないぜ？",
+    "translation": "その反逆心はスバラシイけどな。\nいま処分されちまったら、意味がないぜ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_125_0",
+    "original": "そうだよなー。\nここはいっそ『△』で…",
+    "translation": "そうだよなー。\nここはいっそ『△』で…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_125_1",
+    "original": "って、ねーよ！\n『○』か『×』の二択だっつの！",
+    "translation": "って、ねーよ！\n『○』か『×』の二択だっつの！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_126_0",
+    "original": "もう…二人とも漫才してないで、\n真面目に考えなさい。",
+    "translation": "もう…二人とも漫才してないで、\n真面目に考えなさい。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_127_0",
+    "original": "この世界に則った答えは『×』だ。\n異論はないな？",
+    "translation": "この世界に則った答えは『×』だ。\n異論はないな？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_128_0",
+    "original": "はい、アリマセン。",
+    "translation": "はい、アリマセン。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_129_0",
+    "original": "リボン…",
+    "translation": "リボン…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_130_0",
+    "original": "そうと決まれば、後は飛び込むだけだね。\nみんな、心の準備はいい？",
+    "translation": "そうと決まれば、後は飛び込むだけだね。\nみんな、心の準備はいい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_131_0",
+    "original": "今さら、後には戻れねえって！\n一斉に行こうぜ？",
+    "translation": "今さら、後には戻れねえって！\n一斉に行こうぜ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_132_0",
+    "original": "分かった。\nでは、後はリーダーに任せよう。",
+    "translation": "分かった。\nでは、後はリーダーに任せよう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_133_0",
+    "original": "よし、オマエら！\nジョーカーに続け！",
+    "translation": "よし、オマエら！\nジョーカーに続け！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_133_1",
+    "original": "ここを抜けたら、解除スイッチが\nあるはずだ。行くぞ！",
+    "translation": "ここを抜けたら、解除スイッチが\nあるはずだ。行くぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_134_0",
+    "original": "＞一方、その頃…\n　『力』の試験部屋…",
+    "translation": "＞一方、その頃…\n　『力』の試験部屋…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_135_0",
+    "original": "もしかすると、自分たちの体を\nのせれば簡単になるんじゃないか？",
+    "translation": "もしかすると、自分たちの体を\nのせれば簡単になるんじゃないか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_136_0",
+    "original": "さっすがセンセイ！\nクマもずっと思ってたクマ！",
+    "translation": "さっすがセンセイ！\nクマもずっと思ってたクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_137_0",
+    "original": "ウソこいてんじゃねぇ！\nさっきまで死にそうな顔だったろ！？",
+    "translation": "ウソこいてんじゃねぇ！\nさっきまで死にそうな顔だったろ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_138_0",
+    "original": "フッ…キレのあるツッコミだ。",
+    "translation": "フッ…キレのあるツッコミだ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_139_0",
+    "original": "バカ、変なとこ感心してねえで\nさっさとしろ。時間がねーぞ！",
+    "translation": "バカ、変なとこ感心してねえで\nさっさとしろ。時間がねーぞ！",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_140_0",
+    "original": "ま、待って！\n一人ずつのるのは止めよ！？",
+    "translation": "ま、待って！\n一人ずつのるのは止めよ！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_141_0",
+    "original": "また一方、その頃…\n『適応能力』の試験部屋…",
+    "translation": "また一方、その頃…\n『適応能力』の試験部屋…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_142_0",
+    "original": "私が先頭に立って進むから、\nみんな後に続いて！",
+    "translation": "私が先頭に立って進むから、\nみんな後に続いて！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_143_0",
+    "original": "分かった、やってみる！",
+    "translation": "分かった、やってみる！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_144_0",
+    "original": "ぼ、僕も頑張ってみます！",
+    "translation": "ぼ、僕も頑張ってみます！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_145_0",
+    "original": "すごっ…[P3P名]ちゃん、\nみんなを引っ張ってってる。",
+    "translation": "すごっ…[P3P名]ちゃん、\nみんなを引っ張ってってる。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_146_0",
+    "original": "うん、すごく頼りになる。",
+    "translation": "うん、すごく頼りになる。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_147_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_試験メッセージ",
+    "original": "試験メッセージ",
+    "translation": "試験メッセージ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  }
+]

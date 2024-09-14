@@ -1,0 +1,800 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "リーダーもアイギスも、いる気配がないね…\nどこに行ったんだろ。",
+    "translation": "リーダーもアイギスも、いる気配がないね…\nどこに行ったんだろ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "アイギスと似たロボットとやらもな。\n映画を変えるカギらしいが…",
+    "translation": "アイギスと似たロボットとやらもな。\n映画を変えるカギらしいが…",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そっちはそっちで、俺たちと会う前から\nずっと捜してたんだよな？",
+    "translation": "そっちはそっちで、俺たちと会う前から\nずっと捜してたんだよな？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ああ…\nだが、どうにも上手くいかなかった。",
+    "translation": "ああ…\nだが、どうにも上手くいかなかった。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "至る所に仕掛けがあってな。\n行き詰まっていたところだ。",
+    "translation": "至る所に仕掛けがあってな。\n行き詰まっていたところだ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "それでも進むしかない",
+    "translation": "それでも進むしかない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "慎重になろう",
+    "translation": "慎重になろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_2",
+    "original": "困ったな…",
+    "translation": "困ったな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "行き詰まっていたという話なら、\n迂闊に進む前に、よく考えたほうがいい。",
+    "translation": "行き詰まっていたという話なら、\n迂闊に進む前に、よく考えたほうがいい。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "さすがはリーダー。\n慎重になるのは、探偵業の基本でもある。",
+    "translation": "さすがはリーダー。\n慎重になるのは、探偵業の基本でもある。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いっそ、誰かから情報を引き出せれば\nいいんだがな。",
+    "translation": "いっそ、誰かから情報を引き出せれば\nいいんだがな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "誰か、とは？\nこの世界にはロボットしかいないぞ。",
+    "translation": "誰か、とは？\nこの世界にはロボットしかいないぞ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "言っておくが、大型犬のロボットとか\n勘弁してくれよ？",
+    "translation": "言っておくが、大型犬のロボットとか\n勘弁してくれよ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "武装してなくて、飛びかかってこない、\nウロウロしてるようなヤツがいい。",
+    "translation": "武装してなくて、飛びかかってこない、\nウロウロしてるようなヤツがいい。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "うーん…\nどこかに話が聞けそうなロボットは…",
+    "translation": "うーん…\nどこかに話が聞けそうなロボットは…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ワン！　ワンワン！",
+    "translation": "ワン！　ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ん？　急にどうした？",
+    "translation": "ん？　急にどうした？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ロボット"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "あっ、コロマルが吠えてるほう！\n弱そうなロボットがいますよ！",
+    "translation": "あっ、コロマルが吠えてるほう！\n弱そうなロボットがいますよ！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "本当ね…私、行ってみる。",
+    "translation": "本当ね…私、行ってみる。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "大丈夫かよ、クイーン…？\nサツの時みたいに、また疑われるんじゃ…",
+    "translation": "大丈夫かよ、クイーン…？\nサツの時みたいに、また疑われるんじゃ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "つ、次はもっと上手くやってみせるから！",
+    "translation": "つ、次はもっと上手くやってみせるから！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "では、くれぐれも気をつけてください。\n僕たちも、ここから見ていますので。",
+    "translation": "では、くれぐれも気をつけてください。\n僕たちも、ここから見ていますので。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "巡回ロボット"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "あの…すみません。\nちょっと訊きたいことが…",
+    "translation": "あの…すみません。\nちょっと訊きたいことが…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "休憩ハ、１５時ヨリ。",
+    "translation": "休憩ハ、１５時ヨリ。",
+    "stage": 1,
+    "context": "巡回ロボット"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "えっ？",
+    "translation": "えっ？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "本日ノ生産性ハ８０ぱーせんと、\n先日ヨリ２ぱーせんと減…",
+    "translation": "本日ノ生産性ハ８０ぱーせんと、\n先日ヨリ２ぱーせんと減…",
+    "stage": 1,
+    "context": "巡回ロボット"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "あの、訊きたいのは\nそういうことじゃなくて…",
+    "translation": "あの、訊きたいのは\nそういうことじゃなくて…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "エラー処理ハ５けん、\nスクラップ処理ハ２１けん…",
+    "translation": "エラー処理ハ５けん、\nスクラップ処理ハ２１けん…",
+    "stage": 1,
+    "context": "巡回ロボット"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ダメ…\nコミュニケーションが取れないみたい。",
+    "translation": "ダメ…\nコミュニケーションが取れないみたい。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "意思の疎通は難しそうだ。\nこれ以上は、話してもムダだろうな。",
+    "translation": "意思の疎通は難しそうだ。\nこれ以上は、話してもムダだろうな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "アイギスみたいに、とはいきませんね…",
+    "translation": "アイギスみたいに、とはいきませんね…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ねえ、みんな！\nあの液晶掲示板、なんだろ？",
+    "translation": "ねえ、みんな！\nあの液晶掲示板、なんだろ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "どうやら、ロボットたちの生産を\n煽っているようですね。",
+    "translation": "どうやら、ロボットたちの生産を\n煽っているようですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "これ、誰だろう？\n『偉大な指導者』って書いてあるけど…",
+    "translation": "これ、誰だろう？\n『偉大な指導者』って書いてあるけど…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ちょ、ちょっと待った！\nこのロン毛にメガネ、どっかで見たような…",
+    "translation": "ちょ、ちょっと待った！\nこのロン毛にメガネ、どっかで見たような…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "どっからどう見ても、\n思いっきり幾月さんでしょ…",
+    "translation": "どっからどう見ても、\n思いっきり幾月さんでしょ…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "知り合いなの？",
+    "translation": "知り合いなの？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "うん。月光館学園の理事長で、\n特別課外活動部の顧問なんだけど…",
+    "translation": "うん。月光館学園の理事長で、\n特別課外活動部の顧問なんだけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "どうして幾月さんが、ロボット界の\n指導者になってるんだろう？",
+    "translation": "どうして幾月さんが、ロボット界の\n指導者になってるんだろう？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_036_0",
+    "original": "ロボットが好きだから",
+    "translation": "ロボットが好きだから",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_036_1",
+    "original": "一緒に迷いこんだのか？",
+    "translation": "一緒に迷いこんだのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_036_2",
+    "original": "キャスティングだ",
+    "translation": "キャスティングだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "風花さんはともかく、幾月さんが？\nそんな話、聞いたことないですけど…",
+    "translation": "風花さんはともかく、幾月さんが？\nそんな話、聞いたことないですけど…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "ならこれも、\n『キャスティング』と考えるのが妥当ね。",
+    "translation": "ならこれも、\n『キャスティング』と考えるのが妥当ね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "いや…我々がここへ来る時、\n理事長は我々といなかった。",
+    "translation": "いや…我々がここへ来る時、\n理事長は我々といなかった。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "私も一人でした。",
+    "translation": "私も一人でした。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "ならこれも、\n『キャスティング』と考えるのが妥当ね。",
+    "translation": "ならこれも、\n『キャスティング』と考えるのが妥当ね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "ええ。『キャスティング』と考えるのが\n私も正解だと思うわ。",
+    "translation": "ええ。『キャスティング』と考えるのが\n私も正解だと思うわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "キャスティング？",
+    "translation": "キャスティング？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "映画に入った人と関係のある人が、\n映画内の登場人物として現れるの。",
+    "translation": "映画に入った人と関係のある人が、\n映画内の登場人物として現れるの。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_044_1",
+    "original": "１つ目のシアターのカモシダーマン、\n２つ目のシアターのヨウスケサウルス…",
+    "translation": "１つ目のシアターのカモシダーマン、\n２つ目のシアターのヨウスケサウルス…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_044_2",
+    "original": "ほら、掲示板をよく見て。生身の人間の\n画像じゃなくて、どこかＣＧっぽくない？",
+    "translation": "ほら、掲示板をよく見て。生身の人間の\n画像じゃなくて、どこかＣＧっぽくない？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "あっ、本当ですね…",
+    "translation": "あっ、本当ですね…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_045_1",
+    "original": "よく考えたら、理事長はメガネだけど\nこんなサングラスしてないですし。",
+    "translation": "よく考えたら、理事長はメガネだけど\nこんなサングラスしてないですし。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "つまり、予告編に出ていたアイギス似の\nロボットも『キャスティング』という事か？",
+    "translation": "つまり、予告編に出ていたアイギス似の\nロボットも『キャスティング』という事か？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "おそらくは。陽介も、さっきの映画で\n人面恐竜として登場していました。",
+    "translation": "おそらくは。陽介も、さっきの映画で\n人面恐竜として登場していました。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "あの、雑なコラージュみたいなヤツな。\n最初に見た時はビビったわ。",
+    "translation": "あの、雑なコラージュみたいなヤツな。\n最初に見た時はビビったわ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "幾月さんは、僕たちの保護者みたいな\n立場の人なんです。",
+    "translation": "幾月さんは、僕たちの保護者みたいな\n立場の人なんです。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_049_1",
+    "original": "それを考えると、指導者というのも\nあながち間違ってないですね。",
+    "translation": "それを考えると、指導者というのも\nあながち間違ってないですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "このニセ幾月さんだったら、\nリーダーたちのこと知ってんのかな？",
+    "translation": "このニセ幾月さんだったら、\nリーダーたちのこと知ってんのかな？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "見た目は似てても、中身は別物なんだ。\nあまりアテにはできないよ。",
+    "translation": "見た目は似てても、中身は別物なんだ。\nあまりアテにはできないよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "それに、指導者ってことはよ…",
+    "translation": "それに、指導者ってことはよ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_052_1",
+    "original": "そいつが命令して、個性を排除しようと\nしてるってことじゃねぇのか？",
+    "translation": "そいつが命令して、個性を排除しようと\nしてるってことじゃねぇのか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "マトモじゃなさそうっスね。\n結局、どうすりゃいいんスか？",
+    "translation": "マトモじゃなさそうっスね。\n結局、どうすりゃいいんスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "ロボを管理してるなら、監視モニターとか、\nコントロールルーム的な施設があるはず。",
+    "translation": "ロボを管理してるなら、監視モニターとか、\nコントロールルーム的な施設があるはず。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_054_1",
+    "original": "今は、その辺を目標にするってのはどうだ？",
+    "translation": "今は、その辺を目標にするってのはどうだ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "ウロウロして迷うより、そっちのがイイね。\nで、その施設ってどこ？",
+    "translation": "ウロウロして迷うより、そっちのがイイね。\nで、その施設ってどこ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "管理施設があるならば、\n世界の中枢…最深部じゃないかな？",
+    "translation": "管理施設があるならば、\n世界の中枢…最深部じゃないかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "ふむ…ジョーカー。\nひとまず管理施設を目標とするぞ？",
+    "translation": "ふむ…ジョーカー。\nひとまず管理施設を目標とするぞ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_058_0",
+    "original": "了解した",
+    "translation": "了解した",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_058_1",
+    "original": "それでいい",
+    "translation": "それでいい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "よーし。\nみんな、クマについてきんしゃーい！",
+    "translation": "よーし。\nみんな、クマについてきんしゃーい！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "あっ、コラ。クマきち！\n走るなっつーの！",
+    "translation": "あっ、コラ。クマきち！\n走るなっつーの！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_062_0",
+    "original": "…どうした、桐条。",
+    "translation": "…どうした、桐条。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_063_0",
+    "original": "いや、[P3P姓]のことでな。",
+    "translation": "いや、[P3P姓]のことでな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_063_1",
+    "original": "理事長のことも知っていたし、\n彼女は本当に…何者なんだろうな。",
+    "translation": "理事長のことも知っていたし、\n彼女は本当に…何者なんだろうな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_064_0",
+    "original": "[P3P姓]か…\nウソをついてるようには見えねぇな。",
+    "translation": "[P3P姓]か…\nウソをついてるようには見えねぇな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_064_1",
+    "original": "俺たちに気ィ遣ってんのか、\n気丈に振る舞っちゃいるがな…",
+    "translation": "俺たちに気ィ遣ってんのか、\n気丈に振る舞っちゃいるがな…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_065_0",
+    "original": "ああ、それは申し訳なく思う。\nだが我々にもサッパリだ…",
+    "translation": "ああ、それは申し訳なく思う。\nだが我々にもサッパリだ…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_065_1",
+    "original": "こういう時だけは、明彦の猪突猛進さが\n羨ましくなるな。",
+    "translation": "こういう時だけは、明彦の猪突猛進さが\n羨ましくなるな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_066_0",
+    "original": "オイオイ。さすがに冗談だろ？",
+    "translation": "オイオイ。さすがに冗談だろ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_067_0",
+    "original": "フフ…それはどうだろうな。",
+    "translation": "フフ…それはどうだろうな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_068_0",
+    "original": "あの…どうかしました？\n行かないと、はぐれちゃいますよ？",
+    "translation": "あの…どうかしました？\n行かないと、はぐれちゃいますよ？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_069_0",
+    "original": "いや、何でもねぇよ。\n今行く。",
+    "translation": "いや、何でもねぇよ。\n今行く。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_070_0",
+    "original": "…ああ。",
+    "translation": "…ああ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ロボット",
+    "original": "ロボット",
+    "translation": "ロボット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巡回ロボット",
+    "original": "巡回ロボット",
+    "translation": "巡回ロボット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  }
+]

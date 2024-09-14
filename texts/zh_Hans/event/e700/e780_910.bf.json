@@ -1,0 +1,394 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "来たな、囚人！",
+    "translation": "你来了，囚犯！",
+    "stage": 1,
+    "context": "说话人：カロリーヌ\n\n机翻辅助：\n\n来了啊，囚犯！\n\n来了，囚犯！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "どうかしたのですか？",
+    "translation": "怎么了吗？",
+    "stage": 0,
+    "context": "说话人：ジュスティーヌ\n\n机翻辅助：\n\n怎么了吗？\n\n怎么了？"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "いつもと様子が…",
+    "translation": "和平常不一样……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n样子和平常不一样……\n\n和往常一样的样子……\n\n和平常一样的样子……"
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "模様替えした？",
+    "translation": "换装饰了？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n换装了？\n\n重新布置了吗？\n\n改变花样了吗？"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "何を言ってる。\n別に、いつもと変わらないだろう。",
+    "translation": "你在说什么呢。\n和平常也没什么不同吧。",
+    "stage": 1,
+    "context": "说话人：カロリーヌ\n\n机翻辅助：\n\n你在说什么。\n和平常没什么不同吧。\n\n你在说什么。\n但也不会像往常一样。\n\n你在说什么？没什么，和平时没什么两样吧。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "もしかしたら、部屋にマリーが\nいないからじゃないかしら。",
+    "translation": "会不会是因为\n玛丽不在房间里。",
+    "stage": 1,
+    "context": "说话人：マーガレット\n\n机翻辅助：\n\n该不会是因为\n玛丽不在房间吧。\n\n也许是因为房间里没有玛丽吧。\n\n\n难道是因为玛丽不在房间里吗？"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "今、少し使いにやっているの。\nすぐ戻ると思うのだけれど。",
+    "translation": "我刚刚派她出去做点事，\n应该很快就回来了。",
+    "stage": 1,
+    "context": "说话人：マーガレット\n\n机翻辅助：\n\n现在，我稍微派他出去了。\n应该很快就会回来。\n\n我现在在用一点。\n我想马上就回来。\n\n我现在正在用。我想我很快就会回来的。"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "使いって？",
+    "translation": "派她出去？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n派他出去？\n\n使用？"
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "どこに行ってる？",
+    "translation": "去哪里了？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去哪里了？\n\n你去哪儿了？\n\n去哪儿了？"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いえ、大した用事ではありません。",
+    "translation": "不、并不是什么重要的事。",
+    "stage": 1,
+    "context": "说话人：マーガレット\n\n机翻辅助：\n\n不、不是什么重要的事。\n\n不、不是什么大事。"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "あんまり退屈そうにしているから、\nテオのところに少し買い物をお願いしたの。",
+    "translation": "因为看她好像很无聊，\n所以就拜托她去西奥那边买点东西。",
+    "stage": 1,
+    "context": "说话人：マーガレット\n\n机翻辅助：\n\n因为看您好像很无聊，\n所以就拜托他去西奥那边买点东西。\n\n看他看起来太无聊了，就拜托西奥买点儿东西。\n\n\n因为太无聊了，所以拜托他去买点东西。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "……？",
+    "translation": "……？",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "床に何か落ちている…",
+    "translation": "好像有什么东西掉在地上……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n地上好像有什么东西掉了……\n\n地板上掉了什么……\n\n有什么东西掉在地板上……"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ん？\nなんだ、その紙は。",
+    "translation": "嗯？\n那张纸是？",
+    "stage": 1,
+    "context": "说话人：カロリーヌ\n\n机翻辅助：\n\n嗯？\n那张纸是什么？\n\n嗯？\n那张纸是什么。\n\n？\n那张纸是什么？"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "便せん…ですか？",
+    "translation": "是……便条纸吗？",
+    "stage": 0,
+    "context": "说话人：ジュスティーヌ\n\n机翻辅助：\n\n是……便条纸吗？\n\n是马桶吗？\n\n信纸……是吗？"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "あら…マリーの落し物かしら。\n時々あるようなの…ふふ…",
+    "translation": "哎呀……是玛丽掉的吗？\n她偶尔会掉这种东西呢……呵呵……",
+    "stage": 1,
+    "context": "说话人：マーガレット\n\n机翻辅助：\n\n哎呀……是玛丽掉的吗？\n偶尔会掉这种东西呢……呵呵……\n\n哎呀……是玛丽丢的东西吗。\n偶尔会有……呵呵……\n\n哎呀……是玛丽丢的东西吗？\n好像有时会有……呵呵……"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "便せんは、マリーのもののようだ…",
+    "translation": "便条纸似乎是玛丽的东西……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n便条纸似乎是玛丽的东西……\n\n信纸好像是玛丽的……\n\n马桶好像是玛丽的……"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "勢いのある文字で\n何か書かれているのが見える…",
+    "translation": "上面用气势十足的文字\n写着一些字……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n上面用气势十足的文字\n写着一些字……\n\n用有气势的文字\n能看到写着什么……\n\n用气势磅礴的文字写着什么……"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "『人ならざる者たちへ』",
+    "translation": "“致非人者”",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n“非人者的诗歌”\n\n“致非人之人”"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ピンチがチャンス！　\n（ＭＡ・ＪＩ・ＤＡ・ＹＯ！）",
+    "translation": "危机就是转机！\n（SHI·ZHEN·DE·O！）",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n危机就是转机！\n（MA·JI·DA·YO！）\n\n危机就是机会！\n（MA·JI·DA·YO！）\n\n危机就是机会！\n（MA·JI·DA·YO ！）"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "無理？　だからこそ挑戦！　\n（ＫＯＲＥＭＯＨＯＮＴＯ！）",
+    "translation": "做不到？那才叫挑战！\n（ZHE YE SHI ZHEN DE！）",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n办不到？所以才要挑战！\n（KOREMOHONTO！）\n\n不行吗？所以才要挑战！\n（KOREMOHONTO！）\n\n不行？正因为如此挑战！\n（KOREMOHONTO ！）"
+  },
+  {
+    "key": "MSG_013_2",
+    "original": "遠慮？　なんのため？　\nだれのため？",
+    "translation": "顾虑？因为什么？\n因为谁？",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n客气？为了什么？\n为了谁？"
+  },
+  {
+    "key": "MSG_013_3",
+    "original": "やっておしまいッ！　\nやらなきゃおしまいッ！　\n（ＹＡＲＯＵＤＯＭＯ～！）",
+    "translation": "送他们完蛋！\n不然就完蛋！\n（HUN DAN MEN～！）",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n干掉他们！\n不干掉就完蛋了！\n（YAROUDOMO～！）\n\n做完了！\n不做就完了！\n（YAROUDOMO～！）\n\n做完吧！不做就完了！\n（YAROUDOMO ～！）"
+  },
+  {
+    "key": "MSG_013_4",
+    "original": "でもね・・・　\nからだ、だいじ。だから。",
+    "translation": "可是呢……\n身体，很重要。所以……",
+    "stage": 0,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n可是呢……\n身体，很重要。所以……\n\n但是……\n身体，重要。所以。\n\n但是……\n身体，很重要。所以。"
+  },
+  {
+    "key": "MSG_013_5",
+    "original": "ね？　（ＳＵ・ＫＩ・ＤＡ・ＹＯ）",
+    "translation": "对吧？（WO·AI·NI·YO）",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n对吧？（SU·KI·DA·YO）\n\n是吧？（SU·KI·DA·YO）\n\n啊？（SU·KI·DA·YO）"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "……。",
+    "translation": "……",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "これは一体…？",
+    "translation": "这到底是……？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这到底……？\n\n这到底是……？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "…ふわあああああっ！",
+    "translation": "……哇啊啊啊啊啊！",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n……呼哇啊啊啊啊啊！\n\n啊啊啊啊啊啊啊！\n\n……蓬松啊啊啊啊啊！"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "はぁ、はぁ…！",
+    "translation": "哈啊、哈啊……！",
+    "stage": 0,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n哈啊、哈啊……！\n\n啊、啊……！\n\n哈、哈……！"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "よ、読んだ！？\nねえ、読んだの！？",
+    "translation": "看、看了吗！？\n喂，你看过了吧！？",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n你、你看了吗！？\n喂，你看了吗！？\n\n哟，读了！？\n喂，看了！？\n\n哟，读了！？\n喂，你读了吗？？"
+  },
+  {
+    "key": "SEL_017_0",
+    "original": "読んだ",
+    "translation": "看了",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看了\n\n读过\n\n读了"
+  },
+  {
+    "key": "SEL_017_1",
+    "original": "読んでない",
+    "translation": "没看",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没看\n\n没读"
+  },
+  {
+    "key": "SEL_017_2",
+    "original": "感動した",
+    "translation": "很感动",
+    "stage": 0,
+    "context": "机翻辅助：\n\n很感动\n\n感动了"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ＭＡ・ＪＩ・ＫＡ・ＹＯ…！？",
+    "translation": "ZHEN·DE·JIA·DE……！？",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\nMA·JI·KA·YO……！？（注：日语中“看了”和“很感动”的发音很像）\n\nA·JI·KA·YO……！？\n\nMA·JI·KA·YO……！？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "そっ、その顔、読んだでしょ！？\nＵ・ＳＯ・ＴＳＵ・ＫＩ！",
+    "translation": "你、你那表情，绝对看了吧！？\nDA·PIAN·ZI！",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n你、你那表情，看了吧！？\nU·SO·TSU·KI！\n\n是的，你读过那张脸吧！？\nU·SO·TSU·KI！\n\n对，你看那张脸了吧！？\nU·SO·TSU·KI ！"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ＭＡ・ＪＩ・ＤＥ！？",
+    "translation": "ZHEN·DE·MA！？",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\nMA·JI·DE！？（注：日语中“看了”和“MA·JI·DE”的发音很像）\n\nA·JI·DE！？\n\nMA·JI·DE ！？"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "…あっ！　そのニヤついた顔っ…！\nやっぱＵ・ＳＯ・ＴＳＵ・ＫＩ！",
+    "translation": "……啊！那副得意的表情……！\n果然是DA·PIAN·ZI！",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n……啊！那张贼笑的脸……！\n果然是U·SO·TSU·KI！\n\n……啊！那个带着笑容的脸……！\n果然是U·SO·TSU·KI！\n\n……啊！那张带着笑意的脸……！\n还是U·SO·TSU·KI ！"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "…ちっ、違うから！　これはその…\n心が迸ってるだけで詩とかじゃないし！",
+    "translation": "……才、才不是！这是那个……\n一时兴起写的，才不是诗啦！",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n……才、才不是！这是那个……\n只是心在迸发，不是诗啦！\n\n……不、不是的！这是那个……\n只是心灵的迸出，又不是诗！\n\n……因为不是！这只是心在迸发，又不是诗！"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "てゆーかフツー勝手に見る！？\nなんのため！？　だれのため！？",
+    "translation": "话说，干嘛随便偷看啊！\n因为什么！？因为谁啊！？",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n话说，谁会随便偷看啊！\n为了什么！？为了谁啊！？\n\n随便看！？\n为了什么！？为了谁！？\n\n随便随便看！？\n为了什么！？为了谁！？"
+  },
+  {
+    "key": "MSG_021_2",
+    "original": "…ピ、ピンチがチャンスだもん！\nそう、チャンスだよ私！　チャンス！",
+    "translation": "……危、危机就是转机嘛！\n没错，是转机啦我！转机！",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n……危、危机就是转机嘛！\n没错，我就是转机！转机！\n\n……皮，危机就是机会啊！\n是啊，是机会啊我！机会！\n\n……呸，危机就是机会啊！\n对，这是我的机会！机会！"
+  },
+  {
+    "key": "MSG_021_3",
+    "original": "……。",
+    "translation": "……",
+    "stage": 0,
+    "context": "说话人：マリー"
+  },
+  {
+    "key": "MSG_021_4",
+    "original": "ばかきらいさいてー覗きＹＡＲＯＵ！\n今度読んだらやってやるからッ！",
+    "translation": "最讨厌笨蛋了你这偷窥HUNDAN！\n下次再看我就干掉你！",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n我最讨厌笨蛋了啦！偷窥的YAROU！\n下次再看我就干掉你！\n\n讨厌笨蛋-偷窥YAROU！\n下次读的话我会做的！\n\n讨厌笨蛋！下次读了我就给你做！"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "マリーは頬を赤らめている…",
+    "translation": "玛丽脸颊泛红……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n玛丽脸颊泛红……\n\n玛丽红着脸……\n\n玛丽脸红了……"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "からだ、だいじ。だから？",
+    "translation": "身体，很重要。所以？",
+    "stage": 0,
+    "context": "说话人：カロリーヌ\n\n机翻辅助：\n\n身体，很重要。所以？\n\n身体，身体。所以呢？\n\n身体很重要。所以呢？"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "だから、何なんだ？　ジュスティーヌ？",
+    "translation": "所以，什么来着？芮丝汀娜？",
+    "stage": 1,
+    "context": "说话人：カロリーヌ\n\n机翻辅助：\n\n所以，什么？芮丝汀娜？\n\n所以，到底是什么？芮丝汀娜？\n\n所以，到底是怎么回事？芮丝汀娜？"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "やっておしまい…",
+    "translation": "完蛋……",
+    "stage": 1,
+    "context": "说话人：ジュスティーヌ\n\n机翻辅助：\n\n干掉……\n\n做完了……\n\n做完就结束了……"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "すとーーーーっぷッ！\nおしまいおしまいおしまーいッ！",
+    "translation": "STOP！\n完蛋完蛋完蛋！",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\nSTOP！\n停停停停停！\n\n哇————哇！\n结束了！\n\nstoreup ！\n完蛋完蛋完蛋！"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ふふっ…",
+    "translation": "呵呵……",
+    "stage": 0,
+    "context": "说话人：マーガレット\n\n机翻辅助：\n\n呵呵……"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "みんなして…\nうう…意地悪…",
+    "translation": "大家……\n呜呜……坏心眼……",
+    "stage": 0,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n大家……\n呜呜……坏心眼……\n\n大家一起……\n嗯……坏心眼……\n\n大家做……\n呜呜……坏心眼……"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "よほど読まれたくなかったようだ…",
+    "translation": "看来是真的很不想被看到……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看来是真的很不想被看到……\n\n好像相当不想被读……\n\n好像特别不想被读……"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "てゆーか、何で落ちてるんだろ…\nわけわかんないよ。",
+    "translation": "话说，为什么会掉在地上啊……\n真是莫名其妙。",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n话说，为什么会掉在地上啊……\n莫名其妙。\n\n话说回来，为什么会掉下来呢……\n不知道为什么。\n\n咦，为什么会掉下来呢……我也不知道。"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "マリーは落ち着かない様子で、\nいつもの場所に戻った…",
+    "translation": "玛丽一副不安的样子\n回到了平时呆的地方……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n玛丽看起来很不平静，\n回到了老地方……\n\n玛丽一副心神不宁的样子……\n\n\n玛丽一副不安的样子……"
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "卡萝莉娜",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "芮丝汀娜",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "玛格丽特",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "玛丽",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

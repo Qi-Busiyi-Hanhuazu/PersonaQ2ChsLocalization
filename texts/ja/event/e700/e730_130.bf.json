@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ほあっ！？",
+    "translation": "ほあっ！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あ、扉が開いたね。",
+    "translation": "あ、扉が開いたね。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "…って、びっくりしすぎじゃない？",
+    "translation": "…って、びっくりしすぎじゃない？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ち、違うって！\n[颜色 03]後ろの扉がいきなり閉じた[颜色 01]から…！",
+    "translation": "ち、違うって！\n[颜色 03]後ろの扉がいきなり閉じた[颜色 01]から…！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あ、ホントだ。\nなーんか、規則性ある感じ？",
+    "translation": "あ、ホントだ。\nなーんか、規則性ある感じ？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "確かに気になりますけど\nとりあえず、今は先に進みません？",
+    "translation": "確かに気になりますけど\nとりあえず、今は先に進みません？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  }
+]

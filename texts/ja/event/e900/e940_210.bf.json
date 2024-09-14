@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ん…？\nこの道、荷物をどかせば\n通れそうじゃないか？",
+    "translation": "ん…？\nこの道、荷物をどかせば\n通れそうじゃないか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "確かに…でも、この張り紙に\n通行禁止って書いてあるよ。",
+    "translation": "確かに…でも、この張り紙に\n通行禁止って書いてあるよ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "禁止のところを無理に通って\n敵に目をつけられても厄介じゃない？",
+    "translation": "禁止のところを無理に通って\n敵に目をつけられても厄介じゃない？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "今は他の場所に行こうよ。",
+    "translation": "今は他の場所に行こうよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

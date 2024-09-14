@@ -1,0 +1,16 @@
+[
+  {
+    "key": "MSG_QUESTCLEAR_0",
+    "original": "＞クエストクリア！",
+    "translation": "＞任务完成！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞任务完成！\n\n＞任务通关！"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "伊莉莎白",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

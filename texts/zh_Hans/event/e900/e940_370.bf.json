@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…ねぇ、みんな。\nあそこ、見張りがいるみたい。",
+    "translation": "……欸，大家。\n那里好像有人看守。",
+    "stage": 0,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n……欸，大家。\n那里好像有人看守。\n\n……喂，大家。\n那里好像有看守人。\n\n……喂，大家。那里好像有人看守。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "本当だな…\n気づかれないように、そっと行こうぜ。",
+    "translation": "真的耶……\n我们悄悄过去，不要被发现。",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n真的耶……\n我们悄悄过去，不要被发现。\n\n真的啊……\n为了不被发现，悄悄地走吧。\n\n真的呢……别被发现，悄悄地走吧。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おい！\nお前たち、そこで何をしている！？",
+    "translation": "喂！\n你们在那里做什么！",
+    "stage": 0,
+    "context": "说话人：警察官\n\n机翻辅助：\n\n喂！\n你们在那里做什么！\n\n喂！\n你们在那里干什么！？\n\n喂！你们在那里做什么？？"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "げっ、こっちにもいたのかよ！？",
+    "translation": "呃，这里也有吗！",
+    "stage": 0,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n呃，这里也有吗！\n\n哎，这里也有啊！？\n\n啊，原来这里也有啊！？"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "仕方がない。\nここは戦って切り抜けるぞ！",
+    "translation": "没办法了。\n我们要在这里战斗突围！",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n没办法了。\n我们要在这里战斗突围！\n\n没办法。\n这里要战斗到底！\n\n没办法。\n这里要战斗下去！"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_警察官",
+    "original": "警察官",
+    "translation": "警察",
+    "stage": 0,
+    "context": "机翻辅助：\n\n警察"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

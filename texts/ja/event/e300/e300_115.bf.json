@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "＞一方、その頃…",
+    "translation": "＞一方、その頃…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "君たちのようなエラーは\n排除されるかどうかをエラーべ！",
+    "translation": "君たちのようなエラーは\n排除されるかどうかをエラーべ！",
+    "stage": 1,
+    "context": "モニターから流れる音声"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "排除などさせません！",
+    "translation": "排除などさせません！",
+    "stage": 1,
+    "context": "青い目の少女"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "心配いりません。\nあなたは、必ずわたしが守るであります。",
+    "translation": "心配いりません。\nあなたは、必ずわたしが守るであります。",
+    "stage": 1,
+    "context": "青い目の少女"
+  },
+  {
+    "key": "speaker_モニターから流れる音声",
+    "original": "モニターから流れる音声",
+    "translation": "モニターから流れる音声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_青い目の少女",
+    "original": "青い目の少女",
+    "translation": "青い目の少女",
+    "stage": 1,
+    "context": ""
+  }
+]

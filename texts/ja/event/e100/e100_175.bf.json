@@ -1,0 +1,779 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あのー…",
+    "translation": "あのー…",
+    "stage": 1,
+    "context": "男の声"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "いいか。他の者たちも、\n囚人を監視するように心がけろよ！",
+    "translation": "いいか。他の者たちも、\n囚人を監視するように心がけろよ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "へーへー。",
+    "translation": "へーへー。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "なんだ、そのフザけた態度は！\nお前も処されたいのか！",
+    "translation": "なんだ、そのフザけた態度は！\nお前も処されたいのか！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "すっげー偉そう…\n軍曹の幼女とか、目覚めそうだな。",
+    "translation": "すっげー偉そう…\n軍曹の幼女とか、目覚めそうだな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "すみません…",
+    "translation": "すみません…",
+    "stage": 1,
+    "context": "男の声"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "祐介、今何か言った？",
+    "translation": "祐介、今何か言った？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いや、何も。",
+    "translation": "いや、何も。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "誰かの声がしたんだけど…\n気のせいかな？",
+    "translation": "誰かの声がしたんだけど…\n気のせいかな？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あの…よろしいですか？",
+    "translation": "あの…よろしいですか？",
+    "stage": 1,
+    "context": "男の声"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "杏、後ろ…誰だ？",
+    "translation": "杏、後ろ…誰だ？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "…えっ？",
+    "translation": "…えっ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ああ、やっと気づいて…",
+    "translation": "ああ、やっと気づいて…",
+    "stage": 1,
+    "context": "青い服の男性"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "きゃあああっ！！",
+    "translation": "きゃあああっ！！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "うわああっ！？",
+    "translation": "うわああっ！？",
+    "stage": 1,
+    "context": "青い服の男性"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "なんでアンタも驚いてるんだよ？\nつーか誰だよ！？",
+    "translation": "なんでアンタも驚いてるんだよ？\nつーか誰だよ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "呼ばれて飛び出て～。",
+    "translation": "呼ばれて飛び出て～。",
+    "stage": 1,
+    "context": "青い服の女性"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "で、でで、出たぁぁ～！",
+    "translation": "で、でで、出たぁぁ～！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "おい、ジュスティーヌ…",
+    "translation": "おい、ジュスティーヌ…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "あの者たちは…",
+    "translation": "あの者たちは…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "皆々様方、お初でございます。",
+    "translation": "皆々様方、お初でございます。",
+    "stage": 1,
+    "context": "青い服の女性"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あんたら何者だ！？\nつーか、また青いし！！",
+    "translation": "あんたら何者だ！？\nつーか、また青いし！！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "私はエリザベス。\nこちらは弟のテオドア。",
+    "translation": "私はエリザベス。\nこちらは弟のテオドア。",
+    "stage": 1,
+    "context": "青い服の女性"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "初めまして、テオドアと申します。",
+    "translation": "初めまして、テオドアと申します。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "いつからそこにいたんだい？",
+    "translation": "いつからそこにいたんだい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "フフフ…いつ、いかなる時も、\n傍にいるのが私どもでございます。",
+    "translation": "フフフ…いつ、いかなる時も、\n傍にいるのが私どもでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "またややこしいのが出てきやがった…",
+    "translation": "またややこしいのが出てきやがった…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "よ、よく分かんねえが…\nさっきからヘンな感じだぜ。",
+    "translation": "よ、よく分かんねえが…\nさっきからヘンな感じだぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "謎だらけの世界だからな。\n理解がまったく追いつかん。",
+    "translation": "謎だらけの世界だからな。\n理解がまったく追いつかん。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "てか、双子と同じような服だけど。\nもしかして仲間？",
+    "translation": "てか、双子と同じような服だけど。\nもしかして仲間？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "そうですね…我々のことは、『ベルベット\nルームに仕える者』とご認識いただければ。",
+    "translation": "そうですね…我々のことは、『ベルベット\nルームに仕える者』とご認識いただければ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "ええ。ですが、詳しい話は\nぶっちゃけ後回しでございます。",
+    "translation": "ええ。ですが、詳しい話は\nぶっちゃけ後回しでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "そ、そうでした！",
+    "translation": "そ、そうでした！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_042_1",
+    "original": "実は、この世界にやってくる途中で\n客人とはぐれてしまいまして…",
+    "translation": "実は、この世界にやってくる途中で\n客人とはぐれてしまいまして…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_042_2",
+    "original": "こちらの映画館内は捜したのですが、\nどこにも見当たりません。",
+    "translation": "こちらの映画館内は捜したのですが、\nどこにも見当たりません。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "客人？　ソイツも青いの？",
+    "translation": "客人？　ソイツも青いの？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "いえ、青くはないかと…\n高校生の女性で、ヘッドフォンをしています。",
+    "translation": "いえ、青くはないかと…\n高校生の女性で、ヘッドフォンをしています。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "ヘッドフォン？",
+    "translation": "ヘッドフォン？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "わたしは高校生じゃないぞ。",
+    "translation": "わたしは高校生じゃないぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "分からないや…\n見てないよね、[P5名]？",
+    "translation": "分からないや…\n見てないよね、[P5名]？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_048_0",
+    "original": "見てない",
+    "translation": "見てない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_048_1",
+    "original": "迷子か…",
+    "translation": "迷子か…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "私も覚えがございません…",
+    "translation": "私も覚えがございません…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_049_5_0",
+    "original": "ひかりさんは？",
+    "translation": "ひかりさんは？",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "知らない…",
+    "translation": "知らない…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "そうですか。困りました…",
+    "translation": "そうですか。困りました…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "俺たちが仲間とはぐれたように、\nその女性も映画の中にいるんだろうか？",
+    "translation": "俺たちが仲間とはぐれたように、\nその女性も映画の中にいるんだろうか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "映画の中？　それは…",
+    "translation": "映画の中？　それは…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "テオ、余計な質問はしない。\n察するのです。",
+    "translation": "テオ、余計な質問はしない。\n察するのです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "失礼しました…",
+    "translation": "失礼しました…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "オッケー、テオドアさん。ついでだし、\nもし見つけたら連れてきてやるよ。",
+    "translation": "オッケー、テオドアさん。ついでだし、\nもし見つけたら連れてきてやるよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "あ、ありがとうございます！\nたいへん助かります。",
+    "translation": "あ、ありがとうございます！\nたいへん助かります。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "テオ、感謝は態度でも示さなければ。",
+    "translation": "テオ、感謝は態度でも示さなければ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "態度…ですか？\n頭を深く下げるとか…",
+    "translation": "態度…ですか？\n頭を深く下げるとか…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "そういう意味ではありません。\n私のカンですと、この方たちは…",
+    "translation": "そういう意味ではありません。\n私のカンですと、この方たちは…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "いつの間にかこの世界に入り込み、\n閉じ込められてしまった。",
+    "translation": "いつの間にかこの世界に入り込み、\n閉じ込められてしまった。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_061_1",
+    "original": "そして、出口には、\n幾重にも鍵がかけられていたりして…",
+    "translation": "そして、出口には、\n幾重にも鍵がかけられていたりして…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_062_0",
+    "original": "よく知ってんな！？",
+    "translation": "よく知ってんな！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_063_0",
+    "original": "人生、イロイロございます。\n私たちも、経験を重ねておりますゆえ。",
+    "translation": "人生、イロイロございます。\n私たちも、経験を重ねておりますゆえ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_064_0",
+    "original": "ここへ来たのも、運命の導きによる、必然。",
+    "translation": "ここへ来たのも、運命の導きによる、必然。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_064_5_0",
+    "original": "そこで我が不肖の愚弟・テオドアが、\n皆様に協力することに致しました。",
+    "translation": "そこで我が不肖の愚弟・テオドアが、\n皆様に協力することに致しました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_065_0",
+    "original": "ええっ？　あ、姉上！？",
+    "translation": "ええっ？　あ、姉上！？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_066_0",
+    "original": "確か、旅は道連れ、死なば野郎ども…\nそんな言葉があった様な、なかった様な。",
+    "translation": "確か、旅は道連れ、死なば野郎ども…\nそんな言葉があった様な、なかった様な。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_066_1",
+    "original": "とにかく、助け合いの精神でございます。",
+    "translation": "とにかく、助け合いの精神でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_067_0",
+    "original": "ありがたい",
+    "translation": "ありがたい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_067_1",
+    "original": "胡散臭い",
+    "translation": "胡散臭い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_067_2",
+    "original": "何をしてくれる？",
+    "translation": "何をしてくれる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_068_0",
+    "original": "よく分かんないけど、\n敵じゃないみたいだしね。",
+    "translation": "よく分かんないけど、\n敵じゃないみたいだしね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_068_1",
+    "original": "一人でも協力者が多いのは助かるかも。",
+    "translation": "一人でも協力者が多いのは助かるかも。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_069_0",
+    "original": "それで協力とは、具体的には何を？",
+    "translation": "それで協力とは、具体的には何を？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_070_0",
+    "original": "まあな。双子の仲間かと思ったら、\n初対面っぽいし…",
+    "translation": "まあな。双子の仲間かと思ったら、\n初対面っぽいし…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_071_0",
+    "original": "でも、敵にも見えないし、\nなんか大丈夫そうじゃない？",
+    "translation": "でも、敵にも見えないし、\nなんか大丈夫そうじゃない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_072_0",
+    "original": "それで協力とは、具体的には何を？",
+    "translation": "それで協力とは、具体的には何を？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_073_0",
+    "original": "そうですね…\nこの辺りに、物を売り捌ける…",
+    "translation": "そうですね…\nこの辺りに、物を売り捌ける…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_073_1",
+    "original": "…もとい、お売りすることができる場所は\nどこかにございませんか？",
+    "translation": "…もとい、お売りすることができる場所は\nどこかにございませんか？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_074_0",
+    "original": "今、『売り捌く』って言ったぞ。",
+    "translation": "今、『売り捌く』って言ったぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_075_0",
+    "original": "空耳でございます。ラーララー。",
+    "translation": "空耳でございます。ラーララー。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_076_0",
+    "original": "誤魔化した！",
+    "translation": "誤魔化した！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_077_0",
+    "original": "売店ならロビーにあるぜ？",
+    "translation": "売店ならロビーにあるぜ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_078_0",
+    "original": "ええ、館内の売店でよろしければ\nご案内いたしますが…",
+    "translation": "ええ、館内の売店でよろしければ\nご案内いたしますが…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "おや…\n姉上、あそこにいる二人は…",
+    "translation": "おや…\n姉上、あそこにいる二人は…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "あらあら、これはこれは…",
+    "translation": "あらあら、これはこれは…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ふん…",
+    "translation": "ふん…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ふむ、なるほど…",
+    "translation": "ふむ、なるほど…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_031_5_0",
+    "original": "いいですか、テオ。\n必要以上に触れるのは無粋というもの。",
+    "translation": "いいですか、テオ。\n必要以上に触れるのは無粋というもの。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "しかし、姉上…",
+    "translation": "しかし、姉上…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "意味のないことは起こりません。\n呼ばれた理由があるのでしょう。",
+    "translation": "意味のないことは起こりません。\n呼ばれた理由があるのでしょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "その理由を探すのも、\nまた、必要なことなのかもしれません。",
+    "translation": "その理由を探すのも、\nまた、必要なことなのかもしれません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ジュスティーヌ、アイツら何者だろう？",
+    "translation": "ジュスティーヌ、アイツら何者だろう？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "我らの存在の根本に関わる…\nそんな気がします。",
+    "translation": "我らの存在の根本に関わる…\nそんな気がします。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "主に何を言われるかわかりませんし、\nここは深く触れないでおきましょう。",
+    "translation": "主に何を言われるかわかりませんし、\nここは深く触れないでおきましょう。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "ふん、そうだな。\n更生の邪魔をしてこなければいい。",
+    "translation": "ふん、そうだな。\n更生の邪魔をしてこなければいい。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_079_0",
+    "original": "いいか囚人！　この映画館から出るまでは、\n自由に歩くことを赦してやる。",
+    "translation": "いいか囚人！　この映画館から出るまでは、\n自由に歩くことを赦してやる。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_080_0",
+    "original": "いわば仮釈放です。\n更生の気持ちを忘れぬように。",
+    "translation": "いわば仮釈放です。\n更生の気持ちを忘れぬように。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_081_0",
+    "original": "さあさあ、皆さま。\n売店へレッツらゴーでございます。",
+    "translation": "さあさあ、皆さま。\n売店へレッツらゴーでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_男の声",
+    "original": "男の声",
+    "translation": "男の声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_青い服の男性",
+    "original": "青い服の男性",
+    "translation": "青い服の男性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_青い服の女性",
+    "original": "青い服の女性",
+    "translation": "青い服の女性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  }
+]

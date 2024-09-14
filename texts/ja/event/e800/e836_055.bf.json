@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "不審者発見、不審者発見。\nただちに現場へ急行せよ…",
+    "translation": "不審者発見、不審者発見。\nただちに現場へ急行せよ…",
+    "stage": 1,
+    "context": "研究所セキュリティ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "来るぞ！",
+    "translation": "来るぞ！",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "speaker_研究所セキュリティ",
+    "original": "研究所セキュリティ",
+    "translation": "研究所セキュリティ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "key": "P_GET_MSGID_GET_0",
+    "original": "＞ペルソナ“[颜色 02][占位A 01][颜色 01]”を\n　手に入れた！",
+    "translation": "＞ペルソナ“[颜色 02][占位A 01][颜色 01]”を\n　手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P_GET_MSGID_RUNKUP_0",
+    "original": "＞より多くのスキルを所持する\n　ペルソナが現れた！",
+    "translation": "＞より多くのスキルを所持する\n　ペルソナが現れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P_GET_MSGID_RUNKUP_1",
+    "original": "＞ペルソナ“[颜色 02][占位A 01][颜色 01]”を\n　手に入れた！",
+    "translation": "＞ペルソナ“[颜色 02][占位A 01][颜色 01]”を\n　手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P_GET_MSGID_HIGH_RUNKUP_0",
+    "original": "＞高レベルのペルソナが現れた！",
+    "translation": "＞高レベルのペルソナが現れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P_GET_MSGID_HIGH_RUNKUP_1",
+    "original": "＞ペルソナ“[颜色 02][占位A 01][颜色 01]”を\n　手に入れた！",
+    "translation": "＞ペルソナ“[颜色 02][占位A 01][颜色 01]”を\n　手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P_GET_MSGID_TUTORIAL_0",
+    "original": "戦闘に勝利するとペルソナを\n手に入れられることがあります。",
+    "translation": "戦闘に勝利するとペルソナを\n手に入れられることがあります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P_GET_MSGID_TUTORIAL_1",
+    "original": "ペルソナを手に入れられる可能性は\n戦闘終了時の“ブースト状態”の\n人数が多いほど、高くなります。\n　\n積極的に弱点を狙っていきましょう。",
+    "translation": "ペルソナを手に入れられる可能性は\n戦闘終了時の“ブースト状態”の\n人数が多いほど、高くなります。\n　\n積極的に弱点を狙っていきましょう。",
+    "stage": 1,
+    "context": ""
+  }
+]

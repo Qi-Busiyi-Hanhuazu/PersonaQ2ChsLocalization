@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "甘いパッション！\nはじける果実（フルゥツ）！",
+    "translation": "甘いパッション！\nはじける果実（フルゥツ）！",
+    "stage": 1,
+    "context": "歌う花"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "あなたのハートに…",
+    "translation": "あなたのハートに…",
+    "stage": 1,
+    "context": "歌う花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "スキトキメキトキス…",
+    "translation": "スキトキメキトキス…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "なんか呪文唱え始めたけど…",
+    "translation": "なんか呪文唱え始めたけど…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "…ダメ。求めてるのと違う。\nもっとイケナイ罪の香りがないと…！",
+    "translation": "…ダメ。求めてるのと違う。\nもっとイケナイ罪の香りがないと…！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "罪の香り？",
+    "translation": "罪の香り？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "闇のパッションか…",
+    "translation": "闇のパッションか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そう。もっとふつふつと湧き上がる\n甘く痺れるような闇のパッションが…",
+    "translation": "そう。もっとふつふつと湧き上がる\n甘く痺れるような闇のパッションが…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "はっ！　い、今の忘れて！\nとにかく、これはダメ！　何も浮かばない！",
+    "translation": "はっ！　い、今の忘れて！\nとにかく、これはダメ！　何も浮かばない！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "じゃあ、もう一つの花の方に\n行ってみようか。",
+    "translation": "じゃあ、もう一つの花の方に\n行ってみようか。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_歌う花",
+    "original": "歌う花",
+    "translation": "歌う花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "こちらの特別上映の舞台は、\n『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』でございます。",
+    "translation": "こちらの特別上映の舞台は、\n『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "主役は、故障してしまった１体のロボット。\nどうやら、外れた部品がおありの様子…",
+    "translation": "主役は、故障してしまった１体のロボット。\nどうやら、外れた部品がおありの様子…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "その部品を見つけ、元に戻してあげるという\n大変ハートフルな内容となっております。",
+    "translation": "その部品を見つけ、元に戻してあげるという\n大変ハートフルな内容となっております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "壊れたロボットか…\n早く修理してあげたいね。",
+    "translation": "壊れたロボットか…\n早く修理してあげたいね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ワン、ワンッ！",
+    "translation": "ワン、ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "コロマルさんは、[P3P名]さんと\n一緒に行きたいようです。",
+    "translation": "コロマルさんは、[P3P名]さんと\n一緒に行きたいようです。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "えっ、私と？",
+    "translation": "えっ、私と？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "コロマル、[P3P名]さんのことが\n気になってる様子でしたもんね。",
+    "translation": "コロマル、[P3P名]さんのことが\n気になってる様子でしたもんね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "もしかしたら、それもあって\n一緒に行きたがってるのかな？",
+    "translation": "もしかしたら、それもあって\n一緒に行きたがってるのかな？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ふふ、何だかそういうの嬉しいな。",
+    "translation": "ふふ、何だかそういうの嬉しいな。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "それじゃ一緒に行こ、コロマル！\nあっ、もちろん天田君もね？",
+    "translation": "それじゃ一緒に行こ、コロマル！\nあっ、もちろん天田君もね？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "えっ！？　あ…はい！",
+    "translation": "えっ！？　あ…はい！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "わたしも行くであります。\nご一緒させてください。",
+    "translation": "わたしも行くであります。\nご一緒させてください。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "故障ロボットはすぐに見つかるかと…\n問題は、その後の部品探しです。",
+    "translation": "故障ロボットはすぐに見つかるかと…\n問題は、その後の部品探しです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "皆様、良い結末を期待しております。\n行ってらっしゃいませ。",
+    "translation": "皆様、良い結末を期待しております。\n行ってらっしゃいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  }
+]

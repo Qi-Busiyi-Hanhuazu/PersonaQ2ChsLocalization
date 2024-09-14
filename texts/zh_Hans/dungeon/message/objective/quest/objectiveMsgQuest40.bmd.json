@@ -1,0 +1,37 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "『果物のようなもの』を集めろ！",
+    "translation": "收集“类似水果的东西”！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n收集“类似水果的东西”！\n\n收集“水果一样的东西”！\n\n收集“像水果一样的东西”！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "オタカラスポットで残り４つ探せ",
+    "translation": "寻找剩余的4个藏宝地点",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找剩余的4个隐藏地点\n\n在宝物景点寻找剩下的4个\n\n在宝藏地点寻找剩下的4个"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "オタカラスポットで残り３つ探せ",
+    "translation": "寻找剩余的3个藏宝地点",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找剩余的3个隐藏地点\n\n在宝物景点寻找剩下的3个\n\n在宝藏地点寻找剩下的3个"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "オタカラスポットで残り２つ探せ",
+    "translation": "寻找剩余的2个藏宝地点",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找剩余的2个隐藏地点\n\n在宝物景点寻找剩下的两个\n\n在宝藏地点寻找剩下的2个"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_4_0",
+    "original": "オタカラスポットで残り１つ探せ",
+    "translation": "寻找剩余的1个藏宝地点",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找剩余的1个隐藏地点\n\n在宝物景点寻找剩下的一个\n\n在宝藏地点寻找剩下的一个"
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お？　なんだこれ？",
+    "translation": "お？　なんだこれ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "何かのスイッチのようだね…",
+    "translation": "何かのスイッチのようだね…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "どうする、ジョーカー。\n押してみるかい？",
+    "translation": "どうする、ジョーカー。\n押してみるかい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "押してみよう",
+    "translation": "押してみよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "やめておこう",
+    "translation": "やめておこう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_2",
+    "original": "好きにしろ",
+    "translation": "好きにしろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おっしゃ！\nんじゃ、さっそく…",
+    "translation": "おっしゃ！\nんじゃ、さっそく…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ちょ、ちょっと！\n大丈夫？　罠だったらヤバくない？",
+    "translation": "ちょ、ちょっと！\n大丈夫？　罠だったらヤバくない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そうだな、ナビに\n調べてもらったらどうだろう。",
+    "translation": "そうだな、ナビに\n調べてもらったらどうだろう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そうだね。\n罠だったらヤバイし…",
+    "translation": "そうだね。\n罠だったらヤバイし…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ああ、ナビに\n調べてもらった方がいいだろう。",
+    "translation": "ああ、ナビに\n調べてもらった方がいいだろう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "マジ！？\nじゃあ、押してみようぜ！",
+    "translation": "マジ！？\nじゃあ、押してみようぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ちょ、ちょっと！\n罠だったらヤバくない！？",
+    "translation": "ちょ、ちょっと！\n罠だったらヤバくない！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "そうだな、ナビに\n調べてもらったらどうだろう。",
+    "translation": "そうだな、ナビに\n調べてもらったらどうだろう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ほいほい、了解。\nお任せあれ…っと！",
+    "translation": "ほいほい、了解。\nお任せあれ…っと！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ん？　こりゃあ…",
+    "translation": "ん？　こりゃあ…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "おい、みんな！　そのスイッチ、\nサーチライトに繋がってるぞ！",
+    "translation": "おい、みんな！　そのスイッチ、\nサーチライトに繋がってるぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_2",
+    "original": "電源さえ切れれば、こっちのもんだ。\nジョーカー、押してみてくれ！",
+    "translation": "電源さえ切れれば、こっちのもんだ。\nジョーカー、押してみてくれ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "おっ！　やったな。\nサーチライトが消えたぞ！",
+    "translation": "おっ！　やったな。\nサーチライトが消えたぞ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "へえ、これは便利だね。\nまた見つけたら調べてみようか。",
+    "translation": "へえ、これは便利だね。\nまた見つけたら調べてみようか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ん？　こりゃあ…",
+    "translation": "ん？　こりゃあ…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "おい、みんな！　そのスイッチ、\nサーチライトに繋がってるぞ！",
+    "translation": "おい、みんな！　そのスイッチ、\nサーチライトに繋がってるぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "マジか！？　ラッキー！",
+    "translation": "マジか！？　ラッキー！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "電源さえ切れれば、こっちのもんだ。\nまた見つけたら、調べてみてくれ。",
+    "translation": "電源さえ切れれば、こっちのもんだ。\nまた見つけたら、調べてみてくれ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

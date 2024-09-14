@@ -1,0 +1,226 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "うっし！\nまんまと恐竜がこっち来たぜ！",
+    "translation": "好！\n恐龙完全被引过来啰！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好！\n恐龙完全被引过来了！\n\n嗯！\n恐龙来了！\n\n可恶！\n恐龙来了！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "その辺に起動スイッチがあるはずだ！\n柵に電気を流せ！",
+    "translation": "那附近应该有启动开关！\n让电流通过栅栏！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n附近应该有启动开关！\n让电流通过栅栏！\n\n那边应该有启动开关！\n给栅栏通电！\n\n那附近应该有启动开关！\n让栅栏通电！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おっしゃ、これだな！",
+    "translation": "好，就是这个吧！",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n好，就是这个！\n\n你说，就是这个！\n\n喂，就是这个啊！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あン！？\n反応しないっスよ！？",
+    "translation": "啊！？\n没反应耶！？",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n啊嗯！？\n没反应耶！？\n\n啊！？\n没有反应！？\n\n啊！？\n没有反应啊！？"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "私がやってみる！",
+    "translation": "我来试试看！",
+    "stage": 0,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n我来试试看！\n\n我来试试！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あれっ、どうして？\n壊れてるの！？",
+    "translation": "咦，为什么？\n坏掉了吗！？",
+    "stage": 0,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n咦，为什么？\n坏掉了吗！？\n\n咦，为什么？\n坏了吗！？\n\n咦，为什么？\n坏了！？"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ランプが消えてる…\nどうやら電源が落ちてるみたいだね。",
+    "translation": "灯灭了……\n看来是电源被关掉了呢。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n灯灭了……\n看来是没电了。\n\n灯灭了……电源好像掉了。\n\n\n灯灭了……好像电源掉了。"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "だから柵が開けっぱなしだったわけだ。",
+    "translation": "难怪栅栏会一直开着。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n所以栅栏才会一直开着。\n\n所以栅栏一直开着。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "マズくない？\nどうやったら点くの！？",
+    "translation": "有点不妙吧？\n要怎么连上电源！？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n不妙吧？\n要怎样才会亮！？\n\n不难受吗？\n怎么才能点上呢？？\n\n不累吗？\n怎么点！？"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "どこかに予備電源がないでしょうか？",
+    "translation": "会不会在哪里有备用电源？",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n会不会有备用电源？\n\n哪里没有备用电源吗？\n\n哪里没有备用电源？"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "予備電源だな！？\n探せ、探せ！！",
+    "translation": "备用电源吗！？\n找找看、找找看！！",
+    "stage": 0,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n备用电源吗！？\n找找看、找找看！！\n\n备用电源！？\n寻找，寻找！！\n\n是备用电源啊！？\n找，找！！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ＧＲＲＲＲＯＯＯＯＡＮ！",
+    "translation": "嘎哦哦哦哦哦哦！",
+    "stage": 1,
+    "context": "说话人：派手な肉食恐竜\n\n机翻辅助：\n\nGRRRROOOOAN！\n\nGRRRROOOAN！\n\nGRRRROOOOAN ！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "マズイぞ！\nヤツが柵を抜けそうだ！",
+    "translation": "糟糕！\n那家伙要穿过栅栏了！",
+    "stage": 0,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n糟糕！\n那家伙要穿过栅栏了！\n\n太糟糕了！\n他要穿过栅栏了！\n\n糟了！那家伙要从栅栏里钻出来了！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "…なら、俺が足止めしよう。",
+    "translation": "……那我去拖住它。",
+    "stage": 0,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n……那我去拖住它。\n\n……那么，我来阻止你吧。\n\n……那我来阻止他吧。"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "センセイ！？　む、無茶クマ！？",
+    "translation": "师父！？不、不要乱来熊熊！？",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n师父！？小、小熊乱来！？\n\n师父！？嗯，无茶熊熊！？\n\n师父！？嗯，太荒唐了熊熊！？"
+  },
+  {
+    "key": "SEL_014_0",
+    "original": "俺も行く",
+    "translation": "我也去",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我也去"
+  },
+  {
+    "key": "SEL_014_1",
+    "original": "待て！",
+    "translation": "等等！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n等等！"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ダメ、聞こえてない！\nもう目の前まで行っちゃってる！",
+    "translation": "不行，他没听见！\n已经到它眼前了！",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n不行，没听见！\n已经到眼前了！\n\n不行，没听到！\n已经走到眼前了！\n\n不行，我没听见！\n已经走到眼前了！"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "[P4姓]を\n放ってはおけない…！",
+    "translation": "不能放着[P4姓]不管……！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能\n放着[P4姓]不管……！\n\n不能放任[P4姓]不管……！\n\n\n不能放任[P4姓]……！"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ちょっ、ジョーカーまで！？",
+    "translation": "等等，连JOKER都这样！？",
+    "stage": 0,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n等等，连JOKER都这样！？\n\n喂，到JOKER为止！？\n\n喂，到JOKER ！？"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白钟 直斗",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_派手な肉食恐竜",
+    "original": "派手な肉食恐竜",
+    "translation": "花哨的肉食恐龙",
+    "stage": 1,
+    "context": "机翻辅助：\n\n华丽的肉食恐龙\n\n华丽的食肉恐龙"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "小熊",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

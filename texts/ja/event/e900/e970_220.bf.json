@@ -1,0 +1,303 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…これは興味深いチケットが\n発券されましたね。",
+    "translation": "…これは興味深いチケットが\n発券されましたね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "私が説明するよりも、\nわが弟を呼んだほうが早いでしょう。\nテオー！　テオー！",
+    "translation": "私が説明するよりも、\nわが弟を呼んだほうが早いでしょう。\nテオー！　テオー！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "はい、姉上。\nお呼びでしょうか？",
+    "translation": "はい、姉上。\nお呼びでしょうか？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "呼びもしないのに、\nあんな大声出すわけないでしょう。",
+    "translation": "呼びもしないのに、\nあんな大声出すわけないでしょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "た、確かに…\nすみません、姉上…",
+    "translation": "た、確かに…\nすみません、姉上…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "察しの悪い男はモテませんよ。",
+    "translation": "察しの悪い男はモテませんよ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "ところで、このチケットに\n心当たりはありませんか？",
+    "translation": "ところで、このチケットに\n心当たりはありませんか？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "こ、これは…！",
+    "translation": "こ、これは…！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "もしかして…何か知っているの？",
+    "translation": "もしかして…何か知っているの？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ええ、実は…売店で取り扱う\nポップコーンの種類を増やしたいと\n思っておりまして…",
+    "translation": "ええ、実は…売店で取り扱う\nポップコーンの種類を増やしたいと\n思っておりまして…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "…そういえば、みんながいない時に\nそんなことブツブツ言ってたね。",
+    "translation": "…そういえば、みんながいない時に\nそんなことブツブツ言ってたね。",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "その通りでございます。\nですが…私はクエストの\n発注をしておりません。",
+    "translation": "その通りでございます。\nですが…私はクエストの\n発注をしておりません。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "そもそも、どうやって発注するのかも\n知らないのです。",
+    "translation": "そもそも、どうやって発注するのかも\n知らないのです。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_009_2",
+    "original": "それなのに、いったいどうして…",
+    "translation": "それなのに、いったいどうして…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "テオが直接発注したわけではないのに、\n今こうやって発券されている…",
+    "translation": "テオが直接発注したわけではないのに、\n今こうやって発券されている…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "ふむ、なんと興味深いのでしょう！",
+    "translation": "ふむ、なんと興味深いのでしょう！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "なあなあ、誰が頼んだかなんて話より、\n新作のポップコーンの話をしようぜ！",
+    "translation": "なあなあ、誰が頼んだかなんて話より、\n新作のポップコーンの話をしようぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "種類を増やしたいって思ってたんだろ？\nリクエストしてもいい感じ！？",
+    "translation": "種類を増やしたいって思ってたんだろ？\nリクエストしてもいい感じ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ええ、もちろんです。",
+    "translation": "ええ、もちろんです。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "じゃあ、キャラメル味なんてどうだ？\n甘いものは脳の働きを助けるんだぞ。",
+    "translation": "じゃあ、キャラメル味なんてどうだ？\n甘いものは脳の働きを助けるんだぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "あ、それいいね！\n甘いとしょっぱいでバランス取れるし！",
+    "translation": "あ、それいいね！\n甘いとしょっぱいでバランス取れるし！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "なるほど！\n参考になります…！",
+    "translation": "なるほど！\n参考になります…！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ねぇ、商品って\n勝手に増やしちゃってもいいの？",
+    "translation": "ねぇ、商品って\n勝手に増やしちゃってもいいの？",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "売るのは塩味だけって、\n決まっているでしょ。",
+    "translation": "売るのは塩味だけって、\n決まっているでしょ。",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "でも、こーやってチケット出てるし、\n結果的に売れれば問題ないんじゃね？",
+    "translation": "でも、こーやってチケット出てるし、\n結果的に売れれば問題ないんじゃね？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "…………。",
+    "translation": "…………。",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "では、皆様には\n材料調達をお願いします。",
+    "translation": "では、皆様には\n材料調達をお願いします。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "材料は迷宮の中にある、\nパワースポット内にありますので。",
+    "translation": "材料は迷宮の中にある、\nパワースポット内にありますので。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_019_2",
+    "original": "そうですね…\n３件ほど回っていただければ十分かと。",
+    "translation": "そうですね…\n３件ほど回っていただければ十分かと。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "あ、あんな変な世界の材料使うの！？",
+    "translation": "あ、あんな変な世界の材料使うの！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ご安心ください。\n誓って、人体に害はございません。",
+    "translation": "ご安心ください。\n誓って、人体に害はございません。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ふむ、害がないのなら問題ないな。\nさっそく行くとしよう。",
+    "translation": "ふむ、害がないのなら問題ないな。\nさっそく行くとしよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "だな。\nてかさ、ポップコーンの材料があるなら\nそのうち他の食いモンも出たりして。",
+    "translation": "だな。\nてかさ、ポップコーンの材料があるなら\nそのうち他の食いモンも出たりして。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "な、なんで、みんな乗り気なわけ？\n怖くないの…？",
+    "translation": "な、なんで、みんな乗り気なわけ？\n怖くないの…？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "アン殿…\n毒見はアイツらに任せようぜ…",
+    "translation": "アン殿…\n毒見はアイツらに任せようぜ…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マヨイ",
+    "original": "マヨイ",
+    "translation": "マヨイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

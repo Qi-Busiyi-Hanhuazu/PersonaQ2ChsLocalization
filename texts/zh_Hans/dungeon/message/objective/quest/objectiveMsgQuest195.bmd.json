@@ -1,0 +1,37 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "ハーレムを解放しよう",
+    "translation": "开放后宫吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n解放后宫\n\n释放后宫吧\n\n解放哈莱姆"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "目的地へと向かおう",
+    "translation": "前往目的地",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前往目的地\n\n向着目的地前进吧"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "クエストクリア報告に向かおう",
+    "translation": "去完成任务报告",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去完成任务报告\n\n向着任务完成报告前进吧\n\n前往任务通关报告"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "クエスト５小目標０３",
+    "translation": "任务5小目标03",
+    "stage": 1,
+    "context": "机翻辅助：\n\n任务5 小目标03\n\n任务5小目标03"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_4_0",
+    "original": "クエスト５小目標０４",
+    "translation": "任务5小目标04",
+    "stage": 1,
+    "context": "机翻辅助：\n\n任务5 小目标04\n\n任务5小目标04"
+  }
+]

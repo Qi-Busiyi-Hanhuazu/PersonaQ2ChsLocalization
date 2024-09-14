@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さて、敵が近いみたいだね。",
+    "translation": "さて、敵が近いみたいだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_000_1_0",
+    "original": "なるほど、強そうだ。\nすごい気配を感じるよ。",
+    "translation": "なるほど、強そうだ。\nすごい気配を感じるよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "落ち着いてるな、[P3名]。\nさすが、リーダーの名は伊達じゃないな。",
+    "translation": "落ち着いてるな、[P3名]。\nさすが、リーダーの名は伊達じゃないな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_1_0",
+    "original": "頼むぞ、今回の主役はキミなのである！",
+    "translation": "頼むぞ、今回の主役はキミなのである！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "わかった、やってみる。",
+    "translation": "わかった、やってみる。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "構えろ、来るぞ！",
+    "translation": "構えろ、来るぞ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  }
+]

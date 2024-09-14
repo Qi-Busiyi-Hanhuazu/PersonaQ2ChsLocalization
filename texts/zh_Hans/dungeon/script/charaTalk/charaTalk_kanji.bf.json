@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "なんか採れるとこっスね。\nどうするんスか？",
+    "translation": "好像有可以采集的地方啊。\n怎么办？",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n好像有可以采集的东西呢\n怎么办？\n\n能采到什么就好了。\n怎么办？\n\n要是能采点什么就好了。\n怎么办？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "了解っス！",
+    "translation": "了解！",
+    "stage": 0,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n了解！\n\n明白了！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "任せて下さい！",
+    "translation": "交给我吧！",
+    "stage": 0,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n交给我吧！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あ、止めとくんスね。",
+    "translation": "啊，先暂停对吧。",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n啊，要停手呢。\n\n啊，我要阻止你。\n\n啊，停下来了。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで終わりっスね。",
+    "translation": "这下就结束了呢。",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n这样就结束了呢。\n\n这就结束了。\n\n到此结束。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "もらってくぜ。",
+    "translation": "我收下喽。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我收下啦。\n\n请收下吧。\n\n我收下了。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "おう！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦！\n\n喔！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "やったっスね！",
+    "translation": "做得好！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太好了呢！\n\n太好了！\n\n太棒了！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "危なかったっスね。\n採れるもんは全部採ったみたいっス。",
+    "translation": "刚刚真危险啊。\n不过这下能采的就全部采集完了。",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n好险呢\n能采的都采完了呢。\n\n真危险啊。\n能采的东西好像都采了。\n\n太危险了。能采的好像都采了。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "すげぇっス！",
+    "translation": "太厉害了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好厉害！\n\n了不起！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ヤバいっスよ！",
+    "translation": "不妙啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好强哦！\n\n太糟糕了！\n\n糟了！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "うお、レア！",
+    "translation": "哦，稀有物品！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦，稀有道具！\n\n哇，稀有！\n\n噢，稀有！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "近道みたいっスね。\n通っておくっスか？",
+    "translation": "好像是近路呢。\n走走看吗？",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n好像是捷径呢\n要走吗？\n\n好像是近道。\n要去吗？\n\n好像是捷径。\n送你过去吗？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れねえんスね。",
+    "translation": "这边过不去啊。",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n这边不能走呢。\n\n这边不能通过啊。\n\n这是过不去的。"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ここ、ヤバくねーっスか？\n嫌な気配がするぜ…",
+    "translation": "这里有点不妙吧？\n有种不好的预感啊……",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n这里好像很危险？\n有不好的气息……\n\n这里很糟糕吧？\n感觉很讨厌……\n\n这里不好吗？有一种讨厌的气息……"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "了解っス！\n気合入れて行くっスよ！",
+    "translation": "了解！\n全力采集吧！",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n了解！\n要鼓起干劲上咯！\n\n明白了！\n鼓起干劲去！\n\n明白了！\n打起精神去哦！"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そっスね。分かりました。",
+    "translation": "好吧。我知道了。",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n是呢，我知道了。\n\n是啊。我明白了。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "やっぱ出たっスね…\nマジでハンパねっス…",
+    "translation": "果然出现了呢……\n有点不妙啊……",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n果然出现了……\n真的不是盖的……\n\n果然出来了呢……\n真的是半吊子……\n\n果然出来了呢……\n真的很辛苦啊……"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここ、シャドウいそうっスね。\nどうすっスか？",
+    "translation": "这里好像有暗影啊。\n怎么办？",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n感觉暗影会在这里耶。\n怎么办？\n\n这里是暗影。\n怎么了？\n\n这里好像是暗影。\n怎么吸？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "了解っス！",
+    "translation": "知道了！",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n了解！\n\n明白了！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そっスね。\n分かりました。",
+    "translation": "也是呢。\n知道了。",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n说得也是。\n我明白了。\n\n是啊。\n明白了。\n\n是啊。我知道了。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "これで終わりっスか？",
+    "translation": "这样就结束了吗？",
+    "stage": 0,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n这样就结束了吗？\n\n就这样结束了吗？\n\n这就结束了吗？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここ、映画館帰れるみたいっスよ？\nどうするんスか？",
+    "translation": "这里好像可以回电影院啊？\n要回去吗？",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n这里好像可以通往电影院哦？\n怎么办？\n\n这里好像可以回电影院了？\n怎么办？\n\n这里好像可以回电影院了。\n怎么办？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ん？\nなんだろこの看板？",
+    "translation": "ん？\nなんだろこの看板？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "えーっと…\n『この先、カモシダーマンハーレム』",
+    "translation": "えーっと…\n『この先、カモシダーマンハーレム』",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "は、ハーレムぅ！？\nアイツそんなものまで作ってるの！？",
+    "translation": "は、ハーレムぅ！？\nアイツそんなものまで作ってるの！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "看板の内容を見るに、\nどうやら街中の若い女性を\nこのハーレムに集めてるようだね。",
+    "translation": "看板の内容を見るに、\nどうやら街中の若い女性を\nこのハーレムに集めてるようだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "しかも、\nご丁寧に入り口は見張りつきだぜ。",
+    "translation": "しかも、\nご丁寧に入り口は見張りつきだぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "出入りも完璧に監視されてる。\nあいつらがいる限り、\n手出しできなさそうだな。",
+    "translation": "出入りも完璧に監視されてる。\nあいつらがいる限り、\n手出しできなさそうだな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "それならさっさと\nあいつらぶっ飛ばしちゃおうよ！",
+    "translation": "それならさっさと\nあいつらぶっ飛ばしちゃおうよ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ち、ちょっと待って！",
+    "translation": "ち、ちょっと待って！",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "気持ちは分かるけど、\n見張りがどれだけいるのかわからない。\n無闇に突っ込むのは危険だよ。",
+    "translation": "気持ちは分かるけど、\n見張りがどれだけいるのかわからない。\n無闇に突っ込むのは危険だよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "う…\nそ、それはそうだけど…",
+    "translation": "う…\nそ、それはそうだけど…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "今は一度引いて、\n何か分かったら戻ってこよう。",
+    "translation": "今は一度引いて、\n何か分かったら戻ってこよう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "…うん、わかった。",
+    "translation": "…うん、わかった。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "それにしても、\n自分のためにハーレム作るとか\nどんなヒーローよ…",
+    "translation": "それにしても、\n自分のためにハーレム作るとか\nどんなヒーローよ…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "あいつ、ホント最っ低！",
+    "translation": "あいつ、ホント最っ低！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "この辺り、採取できそうね。\nどうする？",
+    "translation": "这附近好像可以采集呢。\n想怎么办？",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n这附近好像可以采集呢。\n怎么办？\n\n这附近可以采集。\n怎么办？\n\n这附近好像可以采集。\n怎么办？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そうね。\n周りに気をつけていきましょう。",
+    "translation": "也是呢。\n多注意下周围的情况吧。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n这个嘛……\n小心地前进吧。\n\n是啊。\n要注意周围的人。\n\n是啊。\n注意周围的人吧。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "了解。\nじゃあ、始めましょうか。",
+    "translation": "了解。\n那就开始吧。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n了解。\n那么，我们开始吧。\n\n明白。\n那么，我们开始吧。\n\n明白了。那么，开始吧。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そう？\nじゃあ、後にしましょうか。",
+    "translation": "是这样吗？\n那就之后再处理吧。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n是吗？\n那就晚点再开始吧。\n\n是吗？\n那么，以后再说吧。\n\n是吗？那么，待会儿再说吧。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全部かしら？",
+    "translation": "这就是全部了吧？",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n这些就是全部了吗？\n\n这就是全部吗？"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うん！",
+    "translation": "嗯！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いいわね。",
+    "translation": "不错啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不错呢。\n\n好啊。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うんうん。",
+    "translation": "嗯嗯。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯嗯。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ふぅ…油断大敵ね。\n採取はここまでにしましょうか。",
+    "translation": "呼……千万不能大意啊。\n采集就先到此为止吧。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n呼……大意不得呢。\n采集就到此为止吧。\n\n嗯……真是疏忽大意的大敌啊。\n采集就到此为止吧。\n\n呼……真是个大敌。\n采集就到这里吧。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "やったわ！",
+    "translation": "做到了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太好了！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "凄いわ！",
+    "translation": "好厉害！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好厉害！\n\n好厉害啊！\n\n真厉害！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "レアものよ！",
+    "translation": "是稀有物品！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是稀有物品呢！\n\n稀有的东西啊！\n\n稀有的东西！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットね。\nどうする？",
+    "translation": "有捷径呢。\n想怎么办？",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n是捷径呢。\n怎么办？\n\n快捷方式啊。\n怎么办？\n\n短发呢。\n怎么办？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないのね。\n反対側を調べましょう。",
+    "translation": "这边走不通呢。\n调查一下对面吧。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n这边不能通过呢。\n调查另一边吧。\n\n这边不能通过啊。\n调查另一侧吧。\n\n这边不能通过啊。\n调查另一侧。"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "とてつもなく危険な気配がするわ…\nどうする？　ジョーカー？",
+    "translation": "感觉到非常危险的气息了……\n要怎么做？JOKER？",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n有种非常危险的气息呢……\n怎么办？JOKER？\n\n总觉得有点危险……\n怎么办？JOKER？\n\n有一种危险的感觉……\n怎么办？JOKER ？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かったわ。\n気を抜かずに調べましょう。",
+    "translation": "知道了。\n不要放松警惕，继续调查。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n我知道了。\n小心地调查吧。\n\n我知道了。\n不要松懈，调查一下吧。\n\n我知道了。不要放松警惕地调查吧。"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうね。\n止めておきましょう。",
+    "translation": "也是呢。\n就先到此为止吧。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n这个嘛……\n还是别调查好了。\n\n是啊。\n让我们停下来啊。\n\n是啊。\n先停止吧。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "かなり強い敵だったわね…",
+    "translation": "是相当强大的敌人呢……",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n敌人相当强呢……\n\n是相当强的敌人呢……\n\n是相当强的敌人啊……"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "なんだかシャドウの気配が多いわね。\n大丈夫かしら？",
+    "translation": "感觉好像有很多暗影的气息呢。\n没关系吗？",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n总觉得暗影的气息很多呢。\n没问题吗？\n\n总觉得暗影的气息很多呢。\n没事吧？\n\n总觉得暗影的气息很多呢。\n不要紧吧？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "分かったわ。\n調べてみましょう。",
+    "translation": "明白了。\n那就调查一下吧。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n我知道了。\n调查看看吧。\n\n我知道了。\n调查一下吧。\n\n我知道了。试着调查一下吧。"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうね。\n止めておきましょう。",
+    "translation": "也是呢。\n还是先停下来吧。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n这个嘛……\n还是别调查好了。\n\n是啊。\n让我们停下来啊。\n\n是啊。\n先停止吧。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "本当にシャドウが出たわね…\nこれで終わりかしら？",
+    "translation": "暗影真的出现了呢……\n只能到此为止了吗？",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n真的出现了暗影呢……\n这样就结束了吗？\n\n真的出现暗影了呢……\n这样就结束了吗？\n\n暗影真的出来了呢……\n这就结束了吗？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから映画館に戻れるわね。\nどうする？",
+    "translation": "从这里可以回到电影院呢。\n你想怎么做？",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n可以从这里回到电影院呢。\n怎么办？\n\n从这里可以回电影院了呢。\n怎么办？\n\n从这里可以回到电影院了。\n怎么办？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

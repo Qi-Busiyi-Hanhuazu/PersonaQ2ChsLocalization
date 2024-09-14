@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なんだこの扉！\n気持ちわりぃマーク貼ってんな！",
+    "translation": "这扇门是怎么回事！\n上面贴着这么恶心的标志！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n这扇门是怎么回事！\n上面贴着恶心的标志！\n\n这是什么门！\n贴着让人心情舒畅的标志！\n\n这扇门是怎么回事！\n贴上心情不好的标志！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "鴨志田の顔かな？",
+    "translation": "是鸭志田的脸吗？",
+    "stage": 0,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n是鸭志田的脸吗？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "開かねーし。",
+    "translation": "打不开啊。",
+    "stage": 0,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n打不开啊。\n\n开不开。\n\n打不开。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "何かあるのかもしれないし、\n場所はメモしておこうよ！",
+    "translation": "说不定有什么东西，\n先把这个地点记下来吧！",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n说不定有什么东西，\n先记下地点吧！\n\n也许有什么事，\n把地点记下来吧！\n\n也许有什么，\n把地点记下来吧！"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

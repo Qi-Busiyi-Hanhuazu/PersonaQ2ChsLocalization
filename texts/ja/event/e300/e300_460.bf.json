@@ -1,0 +1,576 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "うおお！　ちゃんと道があるぞ！\nこれで先に進めるな！",
+    "translation": "うおお！　ちゃんと道があるぞ！\nこれで先に進めるな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ふう…ようやく抜けられたね。\nみんなお疲れさま。",
+    "translation": "ふう…ようやく抜けられたね。\nみんなお疲れさま。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "コロマルさん…\n押シテくれて、有難うゴザイマシタ。",
+    "translation": "コロマルさん…\n押シテくれて、有難うゴザイマシタ。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ワン！　ワンッ！",
+    "translation": "ワン！　ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "こら、あまりじゃれつくな。\nリボンが戸惑っているだろう。",
+    "translation": "こら、あまりじゃれつくな。\nリボンが戸惑っているだろう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "どうした、リボン。\n何か気になることでもあるのか？",
+    "translation": "どうした、リボン。\n何か気になることでもあるのか？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "なんデショウ？　コロマルさんを\n見てイルと…胸のあたりが変なカンジです。",
+    "translation": "なんデショウ？　コロマルさんを\n見てイルと…胸のあたりが変なカンジです。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "具合でも悪いのか？",
+    "translation": "具合でも悪いのか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "分かりマセン。胸のあたりの温度が\n少し高クなって…浮クような感じデス…",
+    "translation": "分かりマセン。胸のあたりの温度が\n少し高クなって…浮クような感じデス…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "ドキドキしてる？",
+    "translation": "ドキドキしてる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "キュンキュンしてる？",
+    "translation": "キュンキュンしてる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_2",
+    "original": "ムキムキしてきた？",
+    "translation": "ムキムキしてきた？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ちょっと違くない？\nもっとこう、癒されるみたいな。",
+    "translation": "ちょっと違くない？\nもっとこう、癒されるみたいな。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "あ、ほわわーんって感じ。",
+    "translation": "あ、ほわわーんって感じ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ほわわーん？",
+    "translation": "ほわわーん？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "カワイイものを見て、嬉しいとか、\n大切にしたくなる、みたいな？",
+    "translation": "カワイイものを見て、嬉しいとか、\n大切にしたくなる、みたいな？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "キュンキュン？",
+    "translation": "キュンキュン？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "カワイイものを見て、嬉しいとか、\n大切にしたくなる、みたいな？",
+    "translation": "カワイイものを見て、嬉しいとか、\n大切にしたくなる、みたいな？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "いや、ロボットだから、\n筋肉はつかないんじゃないか？",
+    "translation": "いや、ロボットだから、\n筋肉はつかないんじゃないか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "アキにツッコまれたら\nおしまいだな。",
+    "translation": "アキにツッコまれたら\nおしまいだな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "リボンちゃんが言っているのは、\nかわいいとか、嬉しいってことじゃない？",
+    "translation": "リボンちゃんが言っているのは、\nかわいいとか、嬉しいってことじゃない？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "うんうん。可愛くて、ギュッとしたくなる\nみたいな気持ちだよね。",
+    "translation": "うんうん。可愛くて、ギュッとしたくなる\nみたいな気持ちだよね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ぎゅっと、シタイ…？",
+    "translation": "ぎゅっと、シタイ…？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "あれ？　違った？",
+    "translation": "あれ？　違った？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "イエ…ワタシ、コロマルさん、\nぎゅっとシタイ…",
+    "translation": "イエ…ワタシ、コロマルさん、\nぎゅっとシタイ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "ケド、こんな感情、\nロボットらしくナイのでは…",
+    "translation": "ケド、こんな感情、\nロボットらしくナイのでは…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "んなの、関係ねーだろ。",
+    "translation": "んなの、関係ねーだろ。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "可愛いモン見て、可愛いって思うのは\n当たり前っつか…触りたくなんだろうがよ！",
+    "translation": "可愛いモン見て、可愛いって思うのは\n当たり前っつか…触りたくなんだろうがよ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "そうなのデスカ？\nでは、完二さんモ、ぎゅっとシタイ？",
+    "translation": "そうなのデスカ？\nでは、完二さんモ、ぎゅっとシタイ？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "へ？　そりゃ、ギュッとした…",
+    "translation": "へ？　そりゃ、ギュッとした…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_026_5_0",
+    "original": "って、言わせんなコラァァァ！",
+    "translation": "って、言わせんなコラァァァ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ガルルルル…",
+    "translation": "ガルルルル…",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "めっちゃ威嚇されてんじゃねーか…",
+    "translation": "めっちゃ威嚇されてんじゃねーか…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ねえ、リボンちゃん。らしくあるべき、\nなんて、決めつける必要ないと思うよ。",
+    "translation": "ねえ、リボンちゃん。らしくあるべき、\nなんて、決めつける必要ないと思うよ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ああ、自分らしさを決めるのは\n他人じゃない。",
+    "translation": "ああ、自分らしさを決めるのは\n他人じゃない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "それに、ロボットらしくと言うが\nアイギスは自由奔放だろう。",
+    "translation": "それに、ロボットらしくと言うが\nアイギスは自由奔放だろう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "オマエモナー。",
+    "translation": "オマエモナー。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "はい、わたしはロボットですが、\nコロマルさんと仲良しであります。",
+    "translation": "はい、わたしはロボットですが、\nコロマルさんと仲良しであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "ワン！　ワン！",
+    "translation": "ワン！　ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "コロマルさんは、ぜひリボンさんに\n撫でてほしいと言っています。",
+    "translation": "コロマルさんは、ぜひリボンさんに\n撫でてほしいと言っています。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "コロマルさん…\n本当に、触っていいのですか？",
+    "translation": "コロマルさん…\n本当に、触っていいのですか？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "SEL_036_0",
+    "original": "優しくな",
+    "translation": "優しくな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_036_1",
+    "original": "存分にモフれ",
+    "translation": "存分にモフれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "コロマルはね、アゴ下の首あたり…\nこの辺を撫でると喜びますよ！",
+    "translation": "コロマルはね、アゴ下の首あたり…\nこの辺を撫でると喜びますよ！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "なるほど…こう、デスカ？",
+    "translation": "なるほど…こう、デスカ？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "…ワンッ！",
+    "translation": "…ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "もっと、ナデテ…？",
+    "translation": "もっと、ナデテ…？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "コロマルさん、気持ちよくて\nご満悦のようでありますね。",
+    "translation": "コロマルさん、気持ちよくて\nご満悦のようでありますね。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "ヨカッタ…",
+    "translation": "ヨカッタ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "ワン、ワンッ！",
+    "translation": "ワン、ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "で、どうよ？\nコロマルに触ってみた感想は？",
+    "translation": "で、どうよ？\nコロマルに触ってみた感想は？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "柔ラカクて…アタタかくて、\nとても…もふもふシテイマス…",
+    "translation": "柔ラカクて…アタタかくて、\nとても…もふもふシテイマス…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_045_1",
+    "original": "犬…カワイイ、デス…",
+    "translation": "犬…カワイイ、デス…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "リボンチャン、ソレを言うなら\nクマだってもっふもふクマよ？",
+    "translation": "リボンチャン、ソレを言うなら\nクマだってもっふもふクマよ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_046_1",
+    "original": "さあ、クマのことも思う存分なでんしゃい！\n全身どこでも喜ぶクマよ！",
+    "translation": "さあ、クマのことも思う存分なでんしゃい！\n全身どこでも喜ぶクマよ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "ワタシの思考回路ガ、\nエンリョする、と判断しマシタ。",
+    "translation": "ワタシの思考回路ガ、\nエンリョする、と判断しマシタ。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "し、しどい…\nクマだってもふもふなのに…！",
+    "translation": "し、しどい…\nクマだってもふもふなのに…！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "や、どっからどう見たって\n欲まみれだし。",
+    "translation": "や、どっからどう見たって\n欲まみれだし。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "はいはい、モフモフタイム終了な！\nそろそろ先に進もうぜ。",
+    "translation": "はいはい、モフモフタイム終了な！\nそろそろ先に進もうぜ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "ハイ、分かりマシタ。\n行きマショウ、コロマルさん。",
+    "translation": "ハイ、分かりマシタ。\n行きマショウ、コロマルさん。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  }
+]

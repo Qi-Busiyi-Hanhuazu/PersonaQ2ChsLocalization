@@ -1,0 +1,527 @@
+[
+  {
+    "key": "ANN_FOE_FOLLOW_START_1_0",
+    "original": "Ｆ．Ｏ．Ｅ来てる、来てるって！ ",
+    "translation": "F.O.E来了，来了啦！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E来了，来了啦！ \n\n来了，来了！ \n\nF.O.E来了，来了！"
+  },
+  {
+    "key": "ANN_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅこっち見てる！ ",
+    "translation": "F.O.E在看这边！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E在看这边！ \n\n看这边！ \n\nF.O.E看这边！"
+  },
+  {
+    "key": "ANN_FOE_FOLLOW_START_3_0",
+    "original": "ヤバ、見つかった！？ ",
+    "translation": "糟糕，被发现了！？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n糟糕，被发现了！？ \n\n糟糕，找到了！？"
+  },
+  {
+    "key": "ANN_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅがいるよ！ ",
+    "translation": "F.O.E在这里！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E在这里！ \n\nF.O.E在哦！ \n\n有F.O.E哦！"
+  },
+  {
+    "key": "ANN_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅだよ、ピンチ！ ",
+    "translation": "是F.O.E啊，危机！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是F.O.E啊，危机！ \n\nF.O.E，危机！ \n\nF.O.E啊，危机！"
+  },
+  {
+    "key": "ANN_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅだよ、気をつけて！ ",
+    "translation": "是F.O.E哦，小心！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是F.O.E哦，小心！ \n\n是F.O.E，小心！"
+  },
+  {
+    "key": "ANN_FOE_FOLLOW_END_1_0",
+    "original": "はぁ…助かった…もう来なそうだよ。 ",
+    "translation": "呼……得救了……看来不会再来了。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呼……得救了……看来不会再来了。 \n\n啊……得救了……好像已经不来了。 \n\n哈……得救了……好像不会再来了。"
+  },
+  {
+    "key": "ANN_FOE_FOLLOW_END_2_0",
+    "original": "ふう…Ｆ．Ｏ．Ｅ諦めたみたいだね。",
+    "translation": "呼……看来F.O.E已经放弃了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呼……看来F.O.E已经放弃了。\n\n哼……F.O.E好像放弃了。\n\n嗯……好像放弃了。"
+  },
+  {
+    "key": "ANN_FOE_FOLLOW_END_3_0",
+    "original": "Ｆ．Ｏ．Ｅから逃げ切ったよ！ ",
+    "translation": "我们从F.O.E手中逃过一劫了！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我们从F.O.E手中逃过一劫了！ \n\n从F.O.E逃开了哟！ \n\n我从F.O.E那里逃出来了！"
+  },
+  {
+    "key": "ANN_KANSI_REACTION_1_0",
+    "original": "見つかったら面倒だよ、隠れて進もう！ ",
+    "translation": "要是被发现就麻烦了，躲起来前进吧！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要是被发现就麻烦了，躲起来前进吧！ \n\n找到了就麻烦了，躲起来前进吧！ \n\n被发现了就麻烦了，藏起来前进吧！"
+  },
+  {
+    "key": "ANN_KANSI_REACTION_2_0",
+    "original": "見つからないよーに、そーっと… ",
+    "translation": "为了不被发现，要悄悄地…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n为了不被发现，要悄悄地…… \n\n找不到了，嗯…… \n\n我找不到你，你……"
+  },
+  {
+    "key": "ANN_KANSI_REACTION_3_0",
+    "original": "キンチョーして、変な汗でてきた… ",
+    "translation": "紧张得要命，还冒出了奇怪的汗…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n紧张得要命，还冒出了奇怪的汗…… \n\n紧张，出了奇怪的汗…… \n\n突然出汗了……"
+  },
+  {
+    "key": "ANN_DENKISAKU_REACTION_1_0",
+    "original": "うわ、髪が逆立つ… ",
+    "translation": "哇，头发都竖起来了…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哇，头发都竖起来了…… \n\n哇，头发倒立……"
+  },
+  {
+    "key": "ANN_DENKISAKU_REACTION_2_0",
+    "original": "これ、触ったら絶対ヤバいやつ！ ",
+    "translation": "这玩意儿，绝对不能碰！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这玩意儿，绝对不能碰！ \n\n这个，碰了绝对不好的家伙！ \n\n这个，碰了绝对不行！"
+  },
+  {
+    "key": "ANN_DENKISAKU_REACTION_3_0",
+    "original": "こわっ…電気やばい… ",
+    "translation": "好可怕……电好可怕…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好可怕……电好可怕…… \n\n哇……电呀…… \n\n哇……电气危机……"
+  },
+  {
+    "key": "ANN_KYOUHU_REACTION_1_0",
+    "original": "ちょっと、風！？ ",
+    "translation": "等等，有风！？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n等等，有风！？ \n\n有点，风！？ \n\n等等，风！？"
+  },
+  {
+    "key": "ANN_KYOUHU_REACTION_2_0",
+    "original": "ちょっ、マジ！？ ",
+    "translation": "喂，真的假的！？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，真的假的！？ \n\n喂，真的！？ \n\n等、真的！？"
+  },
+  {
+    "key": "ANN_KYOUHU_REACTION_3_0",
+    "original": "ウッソ！？ ",
+    "translation": "不会吧！？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不会吧！？ \n\n哇！？ \n\n不！？"
+  },
+  {
+    "key": "ANN_STAIR_FIND_1_0",
+    "original": "進めそうだよ！ ",
+    "translation": "好像能前进！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像能前进！ \n\n好像要前进了！"
+  },
+  {
+    "key": "ANN_STAIR_FIND_2_0",
+    "original": "あ、道みっけ！ ",
+    "translation": "啊，找到路了！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啊，找到路了！ \n\n啊，看路！ \n\n啊，是道美！"
+  },
+  {
+    "key": "ANN_STAIR_FIND_3_0",
+    "original": "ねえ、行ってみよ！ ",
+    "translation": "欸，去看看吧！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n欸，去看看吧！ \n\n喂，去看看吧！ \n\n喂，去看看！"
+  },
+  {
+    "key": "ANN_TREASURE_FIND_1_0",
+    "original": "オタカラだー！ ",
+    "translation": "是宝物！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是宝物！ \n\n宝贝！"
+  },
+  {
+    "key": "ANN_TREASURE_FIND_2_0",
+    "original": "宝箱だよ、やった！ ",
+    "translation": "有宝箱耶，太棒了！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有宝箱耶，太棒了！ \n\n宝箱，太好了！ \n\n宝箱，成功了！"
+  },
+  {
+    "key": "ANN_TREASURE_FIND_3_0",
+    "original": "いいもの見っけ！ ",
+    "translation": "找到好东西了！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n找到好东西了！ \n\n来看看好东西吧！ \n\n看好东西来！"
+  },
+  {
+    "key": "ANN_CHECK_WALL_1_0",
+    "original": "これ…なんか怪しいよね？ ",
+    "translation": "这个……感觉很可疑吧？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这个……感觉很可疑吧？ \n\n这个……有点奇怪吧？ \n\n这个……有点可疑吧？"
+  },
+  {
+    "key": "ANN_CHECK_WALL_2_0",
+    "original": "ね、確かめてみない？ ",
+    "translation": "欸，要不要确认一下？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n欸，要不要确认一下？ \n\n喂，不确认一下吗？ \n\n要不要去确认一下？"
+  },
+  {
+    "key": "ANN_CHECK_WALL_3_0",
+    "original": "ぜーったい、なんかあるよ！ ",
+    "translation": "绝对有什么！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n绝对有什么！ \n\n哇，有什么事啊！ \n\n绝了，有什么事！"
+  },
+  {
+    "key": "ANN_SWITCH_FIND_1_0",
+    "original": "スイッチ、押すだけならタダだよね？ ",
+    "translation": "只是按个开关而已，又不用钱！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n只是按个开关而已，又不用钱！ \n\n只是按下开关的话是免费的吧？ \n\n只是按下开关，是免费的吧？"
+  },
+  {
+    "key": "ANN_SWITCH_FIND_2_0",
+    "original": "あ、スイッチあるよ！ ",
+    "translation": "啊，有开关！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啊，有开关！ \n\n啊，有开关哦！"
+  },
+  {
+    "key": "ANN_SWITCH_FIND_3_0",
+    "original": "スイッチ押しちゃう？ ",
+    "translation": "要按下去吗？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要按下去吗？ \n\n按下开关？"
+  },
+  {
+    "key": "ANN_SHORTCUT_FIND_1_0",
+    "original": "そこ、近道になりそうな予感！ ",
+    "translation": "感觉可以抄近路！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n感觉可以抄近路！ \n\n那里，快要成为近道的预感！ \n\n那里，有可能成为捷径的预感！"
+  },
+  {
+    "key": "ANN_SHORTCUT_FIND_2_0",
+    "original": "ショートカットできそうじゃない？ ",
+    "translation": "好像可以走捷径耶？ ",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像可以抄捷径耶？ \n\n不是可以剪短发吗？ \n\n快捷方式不是很好吗？"
+  },
+  {
+    "key": "ANN_SHORTCUT_FIND_3_0",
+    "original": "ねえ、そこ通れそうだよ。 ",
+    "translation": "欸，好像可以走那里哦。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n欸，好像可以走那里哦。 \n\n喂，好像可以通过那里。 \n\n喂，那里好像可以通过。"
+  },
+  {
+    "key": "ANN_FOE_WARNING_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅ、しつこすぎだっつの！ ",
+    "translation": "F.O.E，烦死了！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E，烦死了！ \n\nF.O.E，你太执着了！ \n\nF.O.E，你太烦人了！"
+  },
+  {
+    "key": "ANN_FOE_WARNING_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅ来てるよ、逃げて！ ",
+    "translation": "F.O.E来了，快逃！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E来了，快逃！ \n\n我来了，快逃！"
+  },
+  {
+    "key": "ANN_FOE_WARNING_NEAR_3_0",
+    "original": "ウソ、まだＦ．Ｏ．Ｅいるの？ ",
+    "translation": "不会吧，F.O.E还在吗？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不会吧，F.O.E还在吗？ \n\n骗人的，你还在吗？ \n\n说谎，F.O.E还在吗？"
+  },
+  {
+    "key": "ANN_1PERSON_HPTP10_1_0",
+    "original": "ごめっ…きつい… ",
+    "translation": "抱歉……好累…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n抱歉……好累…… \n\n哥美……好紧…… \n\n对不起……很辛苦……"
+  },
+  {
+    "key": "ANN_1PERSON_HPTP10_2_0",
+    "original": "ねえ、休めないかな…？ ",
+    "translation": "欸，可以休息一下吗……？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n欸，可以休息一下吗……？ \n\n喂，不能休息吗……？ \n\n喂，能休息一下吗……？"
+  },
+  {
+    "key": "ANN_1PERSON_HPTP10_3_0",
+    "original": "さすがに…きっついかも。 ",
+    "translation": "实在……好累。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n实在……好累。 \n\n不愧是……可能是真的。 \n\n真不愧是……果然。"
+  },
+  {
+    "key": "ANN_1PERSON_HP10_1_0",
+    "original": "ヤバい、かなりギリ… ",
+    "translation": "糟糕，快不行了…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n糟糕，快不行了…… \n\n糟糕，相当勉强…… \n\n糟糕，相当严重……"
+  },
+  {
+    "key": "ANN_1PERSON_HP10_2_0",
+    "original": "うう、体がヤバい。",
+    "translation": "呜呜，身体好难受。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呜呜，身体好难受。\n\n嗯，身体很糟糕。\n\n呜呜，身体不好。"
+  },
+  {
+    "key": "ANN_1PERSON_HP10_3_0",
+    "original": "限界かも…ごめん。 ",
+    "translation": "好像到极限了……抱歉。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像到极限了……抱歉。 \n\n可能是极限了……对不起。 \n\n也许是极限了……对不起。"
+  },
+  {
+    "key": "ANN_1PERSON_TP10_1_0",
+    "original": "もう、ムリィ… ",
+    "translation": "已经，不行了…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n已经，不行了…… \n\n已经，穆莉…… \n\n已经，不行……"
+  },
+  {
+    "key": "ANN_1PERSON_TP10_2_0",
+    "original": "お願い、休ませて… ",
+    "translation": "拜托，让我休息…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n拜托，让我休息…… \n\n求你了，让我休息一下……"
+  },
+  {
+    "key": "ANN_1PERSON_TP10_3_0",
+    "original": "うぅ、気力がもたない… ",
+    "translation": "呜呜，没力气了…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呜呜，没力气了…… \n\n嗯，没有力气…… \n\n嗯，没力气了……"
+  },
+  {
+    "key": "ANN_1PERSON_HP80_1_0",
+    "original": "イエイ、絶好調！ ",
+    "translation": "耶，状况绝佳！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n耶，状况绝佳！ \n\n耶，状态绝佳！ \n\n不错，状态极佳！"
+  },
+  {
+    "key": "ANN_1PERSON_HP80_2_0",
+    "original": "まだ行けるよね？ ",
+    "translation": "还可以继续吧？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n还可以继续吧？ \n\n还能去吧？"
+  },
+  {
+    "key": "ANN_1PERSON_HP80_3_0",
+    "original": "どんどん行くよ！ ",
+    "translation": "继续前进吧！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n继续前进吧！ \n\n不断地去！ \n\n越走越远！"
+  },
+  {
+    "key": "ANN_DUNGEON_START_1_0",
+    "original": "じゃ、行こっか！ ",
+    "translation": "那就走吧！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那就走吧！ \n\n那么，走吧！"
+  },
+  {
+    "key": "ANN_DUNGEON_START_2_0",
+    "original": "探索スタート！ ",
+    "translation": "开始探索！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n开始探索！ \n\n探索开始！"
+  },
+  {
+    "key": "ANN_DUNGEON_START_3_0",
+    "original": "しゅっぱーつ！ ",
+    "translation": "出发！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n出发！ \n\n哇！ \n\n发货！"
+  },
+  {
+    "key": "ANN_QUEST_START_1_0",
+    "original": "みんなでがんばろ！ ",
+    "translation": "大家一起加油吧！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大家一起加油吧！ \n\n大家一起加油！"
+  },
+  {
+    "key": "ANN_QUEST_START_2_0",
+    "original": "アーユーレディ？ ",
+    "translation": "You ready？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\nYou ready？ \n\n阿尤雷迪？ \n\n阿尤瑞迪？"
+  },
+  {
+    "key": "ANN_QUEST_START_3_0",
+    "original": "エイエイ、オー！ ",
+    "translation": "Ei Ei，Oh！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\nEi Ei，Oh！ \n\n喂、喂！ \n\n哦哦，哦！"
+  },
+  {
+    "key": "ANN_TOUHA_25_1_0",
+    "original": "まだまだ、これから！ ",
+    "translation": "还早得很，现在才开始！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n还早得很，现在才开始！ \n\n还差得远呢！ \n\n现在才刚刚开始！"
+  },
+  {
+    "key": "ANN_TOUHA_25_2_0",
+    "original": "最後までガンバろ！ ",
+    "translation": "一起努力到最后吧！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n一起努力到最后吧！ \n\n加油到最后！ \n\n坚持到最后！"
+  },
+  {
+    "key": "ANN_TOUHA_50_1_0",
+    "original": "やっと半分だね。",
+    "translation": "终于过一半了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n终于过一半了。\n\n终于一半了。\n\n终于到一半了。"
+  },
+  {
+    "key": "ANN_TOUHA_50_2_0",
+    "original": "よし、あと半分！ ",
+    "translation": "好，还剩一半！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，还剩一半！ \n\n好，还有一半！"
+  },
+  {
+    "key": "ANN_TOUHA_75_1_0",
+    "original": "あとちょっとってところ？ ",
+    "translation": "就快到了吧？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n就快到了吧？ \n\n还有一点？ \n\n还差一点点？"
+  },
+  {
+    "key": "ANN_TOUHA_75_2_0",
+    "original": "ラストスパート！ ",
+    "translation": "最后冲刺！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n最后冲刺！"
+  },
+  {
+    "key": "ANN_TOUHA_100_1_0",
+    "original": "やったー、完成！ ",
+    "translation": "太好了，完成了！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n太好了，完成了！ \n\n太棒了，完成！"
+  },
+  {
+    "key": "ANN_TOUHA_100_2_0",
+    "original": "よっし、できあがり！ ",
+    "translation": "好，完成了！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，完成了！ \n\n好了，做好了！ \n\n四、大功告成！"
+  },
+  {
+    "key": "ANN_MAPPING_ICON_ALL_1_0",
+    "original": "あ、いいね！ ",
+    "translation": "啊，不错呢！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啊，不错呢！ \n\n啊，真好啊！ \n\n啊，好啊！"
+  },
+  {
+    "key": "ANN_MAPPING_ICON_ALL_2_0",
+    "original": "うん、いいかんじ！ ",
+    "translation": "嗯，感觉不错！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯，感觉不错！"
+  },
+  {
+    "key": "ANN_MAPPING_ICON_KAIDAN__0",
+    "original": "そこだよね。",
+    "translation": "就是这个！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n就是这个！\n\n就是那里。\n\n就是那里吧。"
+  },
+  {
+    "key": "ANN_MAPPING_ICON_KAIDAN__2_0",
+    "original": "大事だもんね！ ",
+    "translation": "这很重要呢！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这很重要呢！ \n\n太重要了！ \n\n很重要啊！"
+  },
+  {
+    "key": "ANN_MAPPING_CHANGE_COLOR_0",
+    "original": "センスいいね！ ",
+    "translation": "你很有品味呢！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n你很有品味呢！ \n\n好有品位啊！ \n\n感觉真好啊！"
+  },
+  {
+    "key": "ANN_MAPPING_CHANGE_COLOR_2_0",
+    "original": "いいね、もっとデコっちゃう？ ",
+    "translation": "不错呢，要装饰得更花俏吗？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不错呢，要装饰得更花俏吗？ \n\n好啊，是不是更夸张了？ \n\n好啊，再装饰一下吧？"
+  },
+  {
+    "key": "ANN_MAPPING_ICON_DEL_1_0",
+    "original": "整理整頓！ ",
+    "translation": "整理整顿！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n整理整顿！"
+  },
+  {
+    "key": "ANN_MAPPING_ICON_DEL_2_0",
+    "original": "要らないのは片付けないとね。",
+    "translation": "不要的东西要收拾好才行。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不要的东西要收拾好才行。\n\n不要的要收拾。\n\n不需要的要收拾。"
+  },
+  {
+    "key": "ANN_MAPPING_MEMO_1_0",
+    "original": "メモ書き大事！ ",
+    "translation": "笔记很重要！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n笔记很重要！ \n\n写笔记很重要！ \n\n重要的笔记！"
+  },
+  {
+    "key": "ANN_MAPPING_MEMO_2_0",
+    "original": "マメだねー、さすが。 ",
+    "translation": "真认真呢，不愧是你。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真认真呢，不愧是你。 \n\n真是豆子啊，不愧是。 \n\n真勤快啊，不愧是。"
+  },
+  {
+    "key": "ANN_DOOR_OPEN_1_0",
+    "original": "さ、行こっか！ ",
+    "translation": "来，走吧！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n来，走吧！ \n\n喂，走吧！"
+  },
+  {
+    "key": "ANN_DOOR_OPEN_2_0",
+    "original": "こっちこっち！ ",
+    "translation": "这边这边！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这边这边！ \n\n这边这边这边！"
+  },
+  {
+    "key": "ANN_DOOR_OPEN_3_0",
+    "original": "レッツゴー！ ",
+    "translation": "Let's go！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\nLet's go！ \n\n红果！ \n\n来吧！"
+  }
+]

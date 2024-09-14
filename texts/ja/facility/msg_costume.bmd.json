@@ -1,0 +1,72 @@
+[
+  {
+    "key": "Y_FCL_DIALOG_MSG_EITHER_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "Y_FCL_DIALOG_MSG_EITHER_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "Y_FCLSHOP_BUY_MSG_0",
+    "original": "＞[占位B 01]を購入しますか？",
+    "translation": "＞[占位B 01]を購入しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "Y_FCLSHOP_SELL_MSG_0",
+    "original": "＞[占位B 01]を[占位A 02]個売却しますか？",
+    "translation": "＞[占位B 01]を[占位A 02]個売却しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "Y_FCLSHOP_EQUIP_0",
+    "original": "＞[占位B 01]を装備しますか？",
+    "translation": "＞[占位B 01]を装備しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "Y_FCLSHOP_TRADE_0",
+    "original": "＞今まで装備していた\n　[占位B 01]を売りますか？",
+    "translation": "＞今まで装備していた\n　[占位B 01]を売りますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CSHOP_ADDNEW_0",
+    "original": "＞新規入荷メッセージ",
+    "translation": "＞新規入荷メッセージ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CSHOP_HELLO_0",
+    "original": "＞入店時挨拶",
+    "translation": "＞入店時挨拶",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CSHOP_HELLO_RAIN_0",
+    "original": "＞入店時挨拶",
+    "translation": "＞入店時挨拶",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CSHOP_MSG_EQUIP_SET_0",
+    "original": "＞この衣装はセットになっています。\n　全員、この衣装を装備しますか？",
+    "translation": "＞この衣装はセットになっています。\n　全員、この衣装を装備しますか？",
+    "stage": 1,
+    "context": ""
+  }
+]

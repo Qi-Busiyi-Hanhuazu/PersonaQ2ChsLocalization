@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_JIJIKU_TUTORIAL_0",
+    "original": "＞初磁軸チュートリアルイベント",
+    "translation": "＞初磁軸チュートリアルイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_SAVEPOINT_TUTORIAL_0_0",
+    "original": "＞不思議な光が溢れている…",
+    "translation": "＞不思議な光が溢れている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_SAVEPOINT_TUTORIAL_1_0",
+    "original": "ここでは、[颜色 03]セーブ[颜色 01]と[颜色 03]迷宮からの脱出[颜色 01]を\n行うことができます。",
+    "translation": "ここでは、[颜色 03]セーブ[颜色 01]と[颜色 03]迷宮からの脱出[颜色 01]を\n行うことができます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_BOSS_STOP_0",
+    "original": "＞この部屋にはクリスタルを入手してくるまで\n　入ることはできません。",
+    "translation": "＞この部屋にはクリスタルを入手してくるまで\n　入ることはできません。",
+    "stage": 1,
+    "context": ""
+  }
+]

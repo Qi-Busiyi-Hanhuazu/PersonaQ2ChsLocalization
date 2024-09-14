@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "それまで！　勝負ありでございます。",
+    "translation": "それまで！　勝負ありでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "今回は、私の勝ちのようですね。",
+    "translation": "今回は、私の勝ちのようですね。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_001_1_0",
+    "original": "力をつけて、またおいでなさい。\nいつでも、お待ちしていますよ。",
+    "translation": "力をつけて、またおいでなさい。\nいつでも、お待ちしていますよ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "リターンマッチは、チケットカウンターにて\n私までお声掛け下さい。",
+    "translation": "リターンマッチは、チケットカウンターにて\n私までお声掛け下さい。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "それでは、また。",
+    "translation": "それでは、また。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  }
+]

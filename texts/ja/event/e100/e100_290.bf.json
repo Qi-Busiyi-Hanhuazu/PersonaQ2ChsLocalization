@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おい、囚人！",
+    "translation": "おい、囚人！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "冴えない顔をしているな、\n首尾はどうだ？",
+    "translation": "冴えない顔をしているな、\n首尾はどうだ？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "順調だ",
+    "translation": "順調だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "よくない",
+    "translation": "よくない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_2",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "それでこそ、我らの準備も\n実るというもの…",
+    "translation": "それでこそ、我らの準備も\n実るというもの…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ふん、貴様に良い報せだ。\nペルソナ合体の準備ができたぞ。",
+    "translation": "ふん、貴様に良い報せだ。\nペルソナ合体の準備ができたぞ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "さあ、ベルベットルームに行くぞ！",
+    "translation": "さあ、ベルベットルームに行くぞ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なんだと！？\nまったく、手のかかる奴だ。",
+    "translation": "なんだと！？\nまったく、手のかかる奴だ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そんな囚人に朗報です。\nペルソナ合体の準備が整いました。",
+    "translation": "そんな囚人に朗報です。\nペルソナ合体の準備が整いました。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "さあ、ベルベットルームに行きましょう。",
+    "translation": "さあ、ベルベットルームに行きましょう。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "お前に黙秘権はない！\n質問には答えろ！",
+    "translation": "お前に黙秘権はない！\n質問には答えろ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "それとも、答えられぬほどの\n苦境なのですか？",
+    "translation": "それとも、答えられぬほどの\n苦境なのですか？",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "そんな囚人に朗報です。\nペルソナ合体の準備が整いました。",
+    "translation": "そんな囚人に朗報です。\nペルソナ合体の準備が整いました。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "さあ、ベルベットルームに行くぞ！",
+    "translation": "さあ、ベルベットルームに行くぞ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "行っちまった…",
+    "translation": "行っちまった…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "とりあえず…ついていこ？",
+    "translation": "とりあえず…ついていこ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

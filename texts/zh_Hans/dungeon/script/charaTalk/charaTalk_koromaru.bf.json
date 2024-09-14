@@ -1,0 +1,247 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "ワン！",
+    "translation": "汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "クンクン…",
+    "translation": "嗅嗅……",
+    "stage": 1,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n闻闻……\n\n君君……\n\n昆昆……"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ワンワン！",
+    "translation": "汪汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪汪！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ワン。",
+    "translation": "汪。",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ワン！ ワンワン！",
+    "translation": "汪汪！汪汪！",
+    "stage": 1,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！汪汪！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ワン！",
+    "translation": "汪！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n汪！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ワンワン！",
+    "translation": "汪汪！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n汪汪！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ワン！",
+    "translation": "汪！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n汪！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ぐるるる…\nワン！",
+    "translation": "咕噜噜噜……\n汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n咕噜噜噜……\n汪！\n\n转……\n汪！\n\n咕噜咕噜……\n汪！"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ワンワン！",
+    "translation": "汪汪！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n汪汪！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ワオーン！",
+    "translation": "哇哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哇噢！\n\n哇哦！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ワンワンワン！",
+    "translation": "汪汪汪！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n汪汪汪！\n\n汪汪！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "クンクン。",
+    "translation": "嗅嗅。",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n嗅嗅。\n\n昆昆昆。\n\n君君。"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ワン！　ワンワンワン！",
+    "translation": "汪汪！汪汪汪汪！",
+    "stage": 1,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！汪汪汪！\n\n汪！汪汪！"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "クウーン…",
+    "translation": "哇……",
+    "stage": 1,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n呜呜……\n\n昆恩……\n\n嗯……"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "グルルル…！",
+    "translation": "咕噜噜……！",
+    "stage": 1,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n咕噜噜噜……！\n\n格鲁鲁鲁……！\n\n露露……！"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ワンワン！",
+    "translation": "汪汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪汪！"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ワン！",
+    "translation": "汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ワン！　ワンワン！",
+    "translation": "汪汪！",
+    "stage": 1,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！汪汪！"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "クンクン…　ワン！",
+    "translation": "闻闻…… 汪！",
+    "stage": 1,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n嗅嗅……汪！\n\n昆昆昆……汪！\n\n君君……汪！"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ワン！",
+    "translation": "汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ワンワン！",
+    "translation": "汪汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪汪！"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ワン！",
+    "translation": "汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ワンワン！！",
+    "translation": "汪汪！！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪汪！！"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "虎狼丸",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

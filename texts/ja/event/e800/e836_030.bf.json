@@ -1,0 +1,198 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "みなさん、やりましたよ！\nまずは一つ目のパーツを入手です！",
+    "translation": "みなさん、やりましたよ！\nまずは一つ目のパーツを入手です！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "よっしゃ、この調子で\nあと二つ集めればいいんだな？",
+    "translation": "よっしゃ、この調子で\nあと二つ集めればいいんだな？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "にしても、ナビのパワーアップかー。\n具体的にはどんな感じになんだろうな？",
+    "translation": "にしても、ナビのパワーアップかー。\n具体的にはどんな感じになんだろうな？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そうだな、プロテインのオート補給…\nオートプロテインなんていうのはどうだ？",
+    "translation": "そうだな、プロテインのオート補給…\nオートプロテインなんていうのはどうだ？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "えっ…僕は、もっとカッコいいのが\nいいですけど。ビームサーベルとか！",
+    "translation": "えっ…僕は、もっとカッコいいのが\nいいですけど。ビームサーベルとか！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "期待してるところ悪いんだが、\nビームは出ないぞ。プロテインもな。",
+    "translation": "期待してるところ悪いんだが、\nビームは出ないぞ。プロテインもな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そうなのか…",
+    "translation": "そうなのか…",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そ、そうですよね…",
+    "translation": "そ、そうですよね…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "情報伝達の速度と範囲を上げて、\nよりみんなと連携しやすくする…",
+    "translation": "情報伝達の速度と範囲を上げて、\nよりみんなと連携しやすくする…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "そんな感じの機械が作れればいいなって\n思ってます。きっとお役に立てますよ！",
+    "translation": "そんな感じの機械が作れればいいなって\n思ってます。きっとお役に立てますよ！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "さらっと言ってるけど、そんな機械を\nフツーに作れちまうのがすげえよな。",
+    "translation": "さらっと言ってるけど、そんな機械を\nフツーに作れちまうのがすげえよな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "すごいでしょ？　ナビも風花も、\n機械いじりからハッキングまでお手の物！",
+    "translation": "すごいでしょ？　ナビも風花も、\n機械いじりからハッキングまでお手の物！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "何でも出来ちゃう、スーパーナビたち\nなんだからね！",
+    "translation": "何でも出来ちゃう、スーパーナビたち\nなんだからね！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "い、いえそんな…\nりせちゃんのナビ能力だって、相当ですよ。",
+    "translation": "い、いえそんな…\nりせちゃんのナビ能力だって、相当ですよ。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "だな！　分かりやすいし、的確だし、\nアイドルのナビとかテンション爆上がりだ。",
+    "translation": "だな！　分かりやすいし、的確だし、\nアイドルのナビとかテンション爆上がりだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ナビメンバーもそれぞれ特徴があって、\n個性的だな。",
+    "translation": "ナビメンバーもそれぞれ特徴があって、\n個性的だな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "だが、ナビ能力は総じてみんな高い。\n俺たちも安心して身を任せられる。",
+    "translation": "だが、ナビ能力は総じてみんな高い。\n俺たちも安心して身を任せられる。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "えへへ、先輩にホメられちゃった！",
+    "translation": "えへへ、先輩にホメられちゃった！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "けど、もっとパワーアップしてみせるから、\n期待しててね？",
+    "translation": "けど、もっとパワーアップしてみせるから、\n期待しててね？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "みなさん。残り二つのパーツも\nどうぞよろしくお願いしますね！",
+    "translation": "みなさん。残り二つのパーツも\nどうぞよろしくお願いしますね！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

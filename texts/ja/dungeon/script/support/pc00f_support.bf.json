@@ -1,0 +1,527 @@
+[
+  {
+    "key": "AEGIS_FOE_FOLLOW_START_1_0",
+    "original": "Ｆ．Ｏ．Ｅの\n追尾を確認したであります！",
+    "translation": "Ｆ．Ｏ．Ｅの\n追尾を確認したであります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅが追ってきていますね。",
+    "translation": "Ｆ．Ｏ．Ｅが追ってきていますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_FOE_FOLLOW_START_3_0",
+    "original": "どうやらＦ．Ｏ．Ｅに\n気付かれたようです。",
+    "translation": "どうやらＦ．Ｏ．Ｅに\n気付かれたようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅが近くにいるであります。",
+    "translation": "Ｆ．Ｏ．Ｅが近くにいるであります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅがいるでありまーす。",
+    "translation": "Ｆ．Ｏ．Ｅがいるでありまーす。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅの気配を探知、\nすぐ近くにいます。",
+    "translation": "Ｆ．Ｏ．Ｅの気配を探知、\nすぐ近くにいます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_FOE_FOLLOW_END_1_0",
+    "original": "Ｆ．Ｏ．Ｅを振り切ったようですね。",
+    "translation": "Ｆ．Ｏ．Ｅを振り切ったようですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_FOE_FOLLOW_END_2_0",
+    "original": "追尾を諦めたようであります。",
+    "translation": "追尾を諦めたようであります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_FOE_FOLLOW_END_3_0",
+    "original": "Ｆ．Ｏ．Ｅからの\n逃走に成功したようです。",
+    "translation": "Ｆ．Ｏ．Ｅからの\n逃走に成功したようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_KANSI_REACTION_1_0",
+    "original": "感知されないよう、注意してください。",
+    "translation": "感知されないよう、注意してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_KANSI_REACTION_2_0",
+    "original": "しーっ…であります。",
+    "translation": "しーっ…であります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_KANSI_REACTION_3_0",
+    "original": "そ～っと、そ～っと…",
+    "translation": "そ～っと、そ～っと…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_DENKISAKU_REACTION_0",
+    "original": "これは感電しそうですね…\n恐ろしいです。",
+    "translation": "これは感電しそうですね…\n恐ろしいです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_DENKISAKU_REACTION_2_0",
+    "original": "この電流からチャージ…\nはできませんね。",
+    "translation": "この電流からチャージ…\nはできませんね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_DENKISAKU_REACTION_3_0",
+    "original": "電気を止めてから\n進むことを提案します。",
+    "translation": "電気を止めてから\n進むことを提案します。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_KYOUHU_REACTION_1_0",
+    "original": "強風であります！",
+    "translation": "強風であります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_KYOUHU_REACTION_2_0",
+    "original": "あ、これは…",
+    "translation": "あ、これは…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_KYOUHU_REACTION_3_0",
+    "original": "飛んでいくであります。",
+    "translation": "飛んでいくであります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_STAIR_FIND_1_0",
+    "original": "階段を発見！\n先に進めそうです。",
+    "translation": "階段を発見！\n先に進めそうです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_STAIR_FIND_2_0",
+    "original": "階段を探知！\n突入しますか？",
+    "translation": "階段を探知！\n突入しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_STAIR_FIND_3_0",
+    "original": "新しいエリアへの突入を\n提案いたします。",
+    "translation": "新しいエリアへの突入を\n提案いたします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_TREASURE_FIND_1_0",
+    "original": "前方に宝箱を確認しました！",
+    "translation": "前方に宝箱を確認しました！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_TREASURE_FIND_2_0",
+    "original": "宝箱、発見。\n金銀財宝ザックザク…でしょうか？",
+    "translation": "宝箱、発見。\n金銀財宝ザックザク…でしょうか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_TREASURE_FIND_3_0",
+    "original": "宝箱…いわゆるオタカラでありますね！",
+    "translation": "宝箱…いわゆるオタカラでありますね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_CHECK_WALL_1_0",
+    "original": "前方に気になるものがあるであります。",
+    "translation": "前方に気になるものがあるであります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_CHECK_WALL_2_0",
+    "original": "前方に不審物発見！\n調査を提案します。",
+    "translation": "前方に不審物発見！\n調査を提案します。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_CHECK_WALL_3_0",
+    "original": "この辺りを調べることを提案します。",
+    "translation": "この辺りを調べることを提案します。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_SWITCH_FIND_1_0",
+    "original": "スイッチを発見したであります！",
+    "translation": "スイッチを発見したであります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_SWITCH_FIND_2_0",
+    "original": "スイッチを確認、どうしますか？",
+    "translation": "スイッチを確認、どうしますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_SWITCH_FIND_3_0",
+    "original": "スイッチ発見。\n押しますか？　破壊しますか？",
+    "translation": "スイッチ発見。\n押しますか？　破壊しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_SHORTCUT_FIND_1_0",
+    "original": "近道になりそうな場所を発見しました。",
+    "translation": "近道になりそうな場所を発見しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_SHORTCUT_FIND_2_0",
+    "original": "通れそうな場所を感知しました。",
+    "translation": "通れそうな場所を感知しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_SHORTCUT_FIND_3_0",
+    "original": "近道になりそうなポイントを発見。",
+    "translation": "近道になりそうなポイントを発見。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_FOE_WARNING_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅのロックオン、\n継続中です！",
+    "translation": "Ｆ．Ｏ．Ｅのロックオン、\n継続中です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_FOE_WARNING_NEAR_2_0",
+    "original": "まだＦ．Ｏ．Ｅが\n追いかけてきています！",
+    "translation": "まだＦ．Ｏ．Ｅが\n追いかけてきています！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_FOE_WARNING_NEAR_3_0",
+    "original": "敵Ｆ．Ｏ．Ｅ、こちらに進攻中です！",
+    "translation": "敵Ｆ．Ｏ．Ｅ、こちらに進攻中です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_1PERSON_HPTP10_1_0",
+    "original": "オーバーヒートしそう…です…",
+    "translation": "オーバーヒートしそう…です…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_1PERSON_HPTP10_2_0",
+    "original": "帰還を提案いたします。",
+    "translation": "帰還を提案いたします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_1PERSON_HPTP10_3_0",
+    "original": "このままですと、\n活動停止の危険があります。",
+    "translation": "このままですと、\n活動停止の危険があります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_1PERSON_HP10_1_0",
+    "original": "体力の低下を報告いたします。",
+    "translation": "体力の低下を報告いたします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_1PERSON_HP10_2_0",
+    "original": "機能停止の可能性があります。",
+    "translation": "機能停止の可能性があります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_1PERSON_HP10_3_0",
+    "original": "体力が危険水域であります！",
+    "translation": "体力が危険水域であります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_1PERSON_TP10_1_0",
+    "original": "気力の低下を報告いたします。",
+    "translation": "気力の低下を報告いたします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_1PERSON_TP10_2_0",
+    "original": "気力が…限界値であります…",
+    "translation": "気力が…限界値であります…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_1PERSON_TP10_3_0",
+    "original": "気力、低下。\n疲れた、というやつであります。",
+    "translation": "気力、低下。\n疲れた、というやつであります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_1PERSON_HP80_1_0",
+    "original": "見事な戦闘でした。\nバッチグーであります。",
+    "translation": "見事な戦闘でした。\nバッチグーであります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_1PERSON_HP80_2_0",
+    "original": "すばらしい戦闘結果でしたね。",
+    "translation": "すばらしい戦闘結果でしたね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_1PERSON_HP80_3_0",
+    "original": "ランクトリプルＳの戦闘でした。",
+    "translation": "ランクトリプルＳの戦闘でした。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_DUNGEON_START_1_0",
+    "original": "気合いを入れて行くであります！",
+    "translation": "気合いを入れて行くであります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_DUNGEON_START_2_0",
+    "original": "れっつらごー、であります！",
+    "translation": "れっつらごー、であります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_DUNGEON_START_3_0",
+    "original": "目指せ、完全制圧…であります！",
+    "translation": "目指せ、完全制圧…であります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_QUEST_START_1_0",
+    "original": "アイギス、いきますであります！",
+    "translation": "アイギス、いきますであります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_QUEST_START_2_0",
+    "original": "ミッション、スタートです。",
+    "translation": "ミッション、スタートです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_QUEST_START_3_0",
+    "original": "早期解決を提案するであります！",
+    "translation": "早期解決を提案するであります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_TOUHA_25_1_0",
+    "original": "まだまだ先は長いであります。",
+    "translation": "まだまだ先は長いであります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_TOUHA_25_2_0",
+    "original": "休みながら行くことを提案します。",
+    "translation": "休みながら行くことを提案します。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_TOUHA_50_1_0",
+    "original": "やっと半分到達です！",
+    "translation": "やっと半分到達です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_TOUHA_50_2_0",
+    "original": "地図が埋まって、\n探索効率アップが期待できそうです。",
+    "translation": "地図が埋まって、\n探索効率アップが期待できそうです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_TOUHA_75_1_0",
+    "original": "あと少し…であります！",
+    "translation": "あと少し…であります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_TOUHA_75_2_0",
+    "original": "残りの部分、早く埋めたいですね。",
+    "translation": "残りの部分、早く埋めたいですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_TOUHA_100_1_0",
+    "original": "このフロアは完全に制圧した…\nであります！",
+    "translation": "このフロアは完全に制圧した…\nであります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_TOUHA_100_2_0",
+    "original": "地図が埋まりました、お疲れ様です。",
+    "translation": "地図が埋まりました、お疲れ様です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_MAPPING_ICON_ALL_1_0",
+    "original": "１ミリの狂いもありません。",
+    "translation": "１ミリの狂いもありません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_MAPPING_ICON_ALL_2_0",
+    "original": "さすがであります！",
+    "translation": "さすがであります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_MAPPING_ICON_KAIDA_0",
+    "original": "そこで相違ないであります。",
+    "translation": "そこで相違ないであります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_MAPPING_ICON_KAIDA_2_0",
+    "original": "迷わずフロア移動できそうであります。",
+    "translation": "迷わずフロア移動できそうであります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_MAPPING_CHANGE_COL_0",
+    "original": "なるほど、特別さが読み取れますね。",
+    "translation": "なるほど、特別さが読み取れますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_MAPPING_CHANGE_COL_2_0",
+    "original": "センスが爆発しているでありますね。",
+    "translation": "センスが爆発しているでありますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_MAPPING_ICON_DEL_1_0",
+    "original": "不要物は廃棄するであります！",
+    "translation": "不要物は廃棄するであります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_MAPPING_ICON_DEL_2_0",
+    "original": "スッキリ快適であります。",
+    "translation": "スッキリ快適であります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_MAPPING_MEMO_1_0",
+    "original": "メモをすれば忘れません。",
+    "translation": "メモをすれば忘れません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_MAPPING_MEMO_2_0",
+    "original": "メモを忘れないようにメモを…あれれ？",
+    "translation": "メモを忘れないようにメモを…あれれ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_DOOR_OPEN_1_0",
+    "original": "お先に、であります。",
+    "translation": "お先に、であります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_DOOR_OPEN_2_0",
+    "original": "こちらです！",
+    "translation": "こちらです！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AEGIS_DOOR_OPEN_3_0",
+    "original": "偵察はお任せください！",
+    "translation": "偵察はお任せください！",
+    "stage": 1,
+    "context": ""
+  }
+]

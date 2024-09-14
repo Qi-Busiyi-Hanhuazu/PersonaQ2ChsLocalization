@@ -1,0 +1,520 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "す、すごい…\nジョーカーの攻撃を全部受けきってる…",
+    "translation": "す、すごい…\nジョーカーの攻撃を全部受けきってる…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "感心してる場合じゃないわ。ナビの話だと\n強い力を持った奴がいっぱいって…",
+    "translation": "感心してる場合じゃないわ。ナビの話だと\n強い力を持った奴がいっぱいって…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ちょっとちょっと、大丈夫！？\nなんか派手にやりあってるけど…",
+    "translation": "ちょっとちょっと、大丈夫！？\nなんか派手にやりあってるけど…",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "つか、すげえ…\nあの仮面、先輩と互角かよ！？",
+    "translation": "つか、すげえ…\nあの仮面、先輩と互角かよ！？",
+    "stage": 1,
+    "context": "目つきの悪い少年"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "え、仮面…？",
+    "translation": "え、仮面…？",
+    "stage": 1,
+    "context": "控えめな少女"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "本当だ、あの人たちすごい格好！\n仮装大会にでも出るのかな…",
+    "translation": "本当だ、あの人たちすごい格好！\n仮装大会にでも出るのかな…",
+    "stage": 1,
+    "context": "控えめな少女"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そーれーよーりー！\nリセチャンが大変なのクマ！",
+    "translation": "そーれーよーりー！\nリセチャンが大変なのクマ！",
+    "stage": 1,
+    "context": "着ぐるみ"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "ヨースケも心配だし、こんなところで\nおしゃべりしている暇はないクマよー！？",
+    "translation": "ヨースケも心配だし、こんなところで\nおしゃべりしている暇はないクマよー！？",
+    "stage": 1,
+    "context": "着ぐるみ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ですが、この状況…\nどうやって収拾をつけたものか…",
+    "translation": "ですが、この状況…\nどうやって収拾をつけたものか…",
+    "stage": 1,
+    "context": "知的な少年"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そこのおかしな格好のキミたち！\nすぐにどきんしゃい！",
+    "translation": "そこのおかしな格好のキミたち！\nすぐにどきんしゃい！",
+    "stage": 1,
+    "context": "着ぐるみ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "なぬっ？\nおかしな格好はそっちだろーが！",
+    "translation": "なぬっ？\nおかしな格好はそっちだろーが！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "クマたちは急いでるクマ！\nゴチャゴチャ言わず、ここを通すクマ！",
+    "translation": "クマたちは急いでるクマ！\nゴチャゴチャ言わず、ここを通すクマ！",
+    "stage": 1,
+    "context": "着ぐるみ"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "どーしても通さないっちゅーんなら、\nペルソナでやっちゃうクマよー？",
+    "translation": "どーしても通さないっちゅーんなら、\nペルソナでやっちゃうクマよー？",
+    "stage": 1,
+    "context": "着ぐるみ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "お前、ペルソナ知ってんのか！？",
+    "translation": "お前、ペルソナ知ってんのか！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "えっ？　もしかして、あなたたちも\nペルソナを使えるの？",
+    "translation": "えっ？　もしかして、あなたたちも\nペルソナを使えるの？",
+    "stage": 1,
+    "context": "控えめな少女"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ひょっとして、お仲間かな？\n僕たちもペルソナ使いなんだ。",
+    "translation": "ひょっとして、お仲間かな？\n僕たちもペルソナ使いなんだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "なんだって！？",
+    "translation": "なんだって！？",
+    "stage": 1,
+    "context": "落ち着いた少年"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "でもアンタら、飛び道具使ってたろ！\nやる気マンマンだったじゃねーか！",
+    "translation": "でもアンタら、飛び道具使ってたろ！\nやる気マンマンだったじゃねーか！",
+    "stage": 1,
+    "context": "目つきの悪い少年"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "あの銃なら、弾は出んぞ。\nただのモデルガンだからな。",
+    "translation": "あの銃なら、弾は出んぞ。\nただのモデルガンだからな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "モデルガン？\nなぜ、そんなものを？",
+    "translation": "モデルガン？\nなぜ、そんなものを？",
+    "stage": 1,
+    "context": "知的な少年"
+  },
+  {
+    "key": "SEL_017_0",
+    "original": "威嚇用だ",
+    "translation": "威嚇用だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_017_1",
+    "original": "殴れば痛い",
+    "translation": "殴れば痛い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_017_2",
+    "original": "使えないのを忘れてた",
+    "translation": "使えないのを忘れてた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "え、マジでこれ偽物？\nどう見ても本物なんすけど！？",
+    "translation": "え、マジでこれ偽物？\nどう見ても本物なんすけど！？",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "なるほど…ハッタリで、\n戦闘を回避しようとしたんですね。",
+    "translation": "なるほど…ハッタリで、\n戦闘を回避しようとしたんですね。",
+    "stage": 1,
+    "context": "知的な少年"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "っつーことは、ハナから\n戦う気はなかったワケっスか？",
+    "translation": "っつーことは、ハナから\n戦う気はなかったワケっスか？",
+    "stage": 1,
+    "context": "目つきの悪い少年"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "まさかの鈍器！？\nめっちゃリアルだけど…",
+    "translation": "まさかの鈍器！？\nめっちゃリアルだけど…",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "…なるほど。本来の目的は\nハッタリといったところでしょうか。",
+    "translation": "…なるほど。本来の目的は\nハッタリといったところでしょうか。",
+    "stage": 1,
+    "context": "知的な少年"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "っつーことは、ハナから\n戦う気はなかったワケっスか？",
+    "translation": "っつーことは、ハナから\n戦う気はなかったワケっスか？",
+    "stage": 1,
+    "context": "目つきの悪い少年"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "いやいやいや、途中から\nガチでやり合ってる感あったけど！？",
+    "translation": "いやいやいや、途中から\nガチでやり合ってる感あったけど！？",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ご、誤解しないでね！\nはじめは威嚇のつもりだったの。",
+    "translation": "ご、誤解しないでね！\nはじめは威嚇のつもりだったの。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "人間相手なら、拳銃を見れば\n逃げてくれるかなって。",
+    "translation": "人間相手なら、拳銃を見れば\n逃げてくれるかなって。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "っつーことは、ハナから\n戦う気はなかったワケっスか？",
+    "translation": "っつーことは、ハナから\n戦う気はなかったワケっスか？",
+    "stage": 1,
+    "context": "目つきの悪い少年"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ムム…？　この仮面集団、\nそこまで警戒する必要はないクマか？",
+    "translation": "ムム…？　この仮面集団、\nそこまで警戒する必要はないクマか？",
+    "stage": 1,
+    "context": "着ぐるみ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ねえ。とりあえず、お互いに\nいったん落ち着かない？",
+    "translation": "ねえ。とりあえず、お互いに\nいったん落ち着かない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ああ…こちらこそ、すまない。\n俺たちも状況がよく分かってなくて…",
+    "translation": "ああ…こちらこそ、すまない。\n俺たちも状況がよく分かってなくて…",
+    "stage": 1,
+    "context": "落ち着いた少年"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "出口を探すのに必死で、\nなりふり構ってられなかったんだ。",
+    "translation": "出口を探すのに必死で、\nなりふり構ってられなかったんだ。",
+    "stage": 1,
+    "context": "落ち着いた少年"
+  },
+  {
+    "key": "MSG_029_2",
+    "original": "もちろん、君たちを襲う気も、\n本当に斬る気もなかった。",
+    "translation": "もちろん、君たちを襲う気も、\n本当に斬る気もなかった。",
+    "stage": 1,
+    "context": "落ち着いた少年"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "センセー、急ぐクマ！\nリセチャンが苦しんでるクマ！",
+    "translation": "センセー、急ぐクマ！\nリセチャンが苦しんでるクマ！",
+    "stage": 1,
+    "context": "着ぐるみ"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ハァ…ハァ…",
+    "translation": "ハァ…ハァ…",
+    "stage": 1,
+    "context": "ぐったりした少女"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "その子、すごい汗！\n顔色も悪いし、具合が悪いの！？",
+    "translation": "その子、すごい汗！\n顔色も悪いし、具合が悪いの！？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "ああ、毒にあてられたんだ。\n解毒薬を持っていないか？",
+    "translation": "ああ、毒にあてられたんだ。\n解毒薬を持っていないか？",
+    "stage": 1,
+    "context": "落ち着いた少年"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "いえ、解毒に効くような薬は、\n私たちの手持ちには無いわ。",
+    "translation": "いえ、解毒に効くような薬は、\n私たちの手持ちには無いわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "そうか…ここの植物特有のものらしく、\n俺たちの持ってる薬では駄目だった。",
+    "translation": "そうか…ここの植物特有のものらしく、\n俺たちの持ってる薬では駄目だった。",
+    "stage": 1,
+    "context": "落ち着いた少年"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "ごめんね、力になれなくて…",
+    "translation": "ごめんね、力になれなくて…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "ううん、親身になってくれてありがとう。",
+    "translation": "ううん、親身になってくれてありがとう。",
+    "stage": 1,
+    "context": "控えめな少女"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "それと、もうひとつなんだけど。\nあたしたちと似た格好のヤツ見なかった？",
+    "translation": "それと、もうひとつなんだけど。\nあたしたちと似た格好のヤツ見なかった？",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_038_1",
+    "original": "こう…両サイドに髪がはねてて、首に\nヘッドフォンかけてる男子なんだけど。",
+    "translation": "こう…両サイドに髪がはねてて、首に\nヘッドフォンかけてる男子なんだけど。",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "それも…ごめんなさい。\n見たら覚えてるはずなんだけど…",
+    "translation": "それも…ごめんなさい。\n見たら覚えてるはずなんだけど…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "この人たちも仲間とはぐれて…",
+    "translation": "この人たちも仲間とはぐれて…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "クソッ…\nどっちも進展なしかよ！",
+    "translation": "クソッ…\nどっちも進展なしかよ！",
+    "stage": 1,
+    "context": "目つきの悪い少年"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "とにかく、彼女はすぐに処置が必要だ。\n安静に休める場へ連れて行こう。",
+    "translation": "とにかく、彼女はすぐに処置が必要だ。\n安静に休める場へ連れて行こう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "そうね。薬もあるかもしれないし、\n一度、映画館に帰りましょう。",
+    "translation": "そうね。薬もあるかもしれないし、\n一度、映画館に帰りましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "は、映画館？\nジャングルに、そんなとこあんの！？",
+    "translation": "は、映画館？\nジャングルに、そんなとこあんの！？",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "SEL_045_0",
+    "original": "話せば長くなる",
+    "translation": "話せば長くなる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_045_1",
+    "original": "とにかくついてこい",
+    "translation": "とにかくついてこい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "…分かった。\nキミたちを信じてみよう。",
+    "translation": "…分かった。\nキミたちを信じてみよう。",
+    "stage": 1,
+    "context": "落ち着いた少年"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "ええ…不明な点は多いですが、\n今は久慈川さんの容態が心配です。",
+    "translation": "ええ…不明な点は多いですが、\n今は久慈川さんの容態が心配です。",
+    "stage": 1,
+    "context": "知的な少年"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "よし、決まったな！\n映画館に戻るぞ！　ついてこい！",
+    "translation": "よし、決まったな！\n映画館に戻るぞ！　ついてこい！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_活発そうな少女",
+    "original": "活発そうな少女",
+    "translation": "活発そうな少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_目つきの悪い少年",
+    "original": "目つきの悪い少年",
+    "translation": "目つきの悪い少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_控えめな少女",
+    "original": "控えめな少女",
+    "translation": "控えめな少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_着ぐるみ",
+    "original": "着ぐるみ",
+    "translation": "着ぐるみ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_知的な少年",
+    "original": "知的な少年",
+    "translation": "知的な少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_落ち着いた少年",
+    "original": "落ち着いた少年",
+    "translation": "落ち着いた少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ぐったりした少女",
+    "original": "ぐったりした少女",
+    "translation": "ぐったりした少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

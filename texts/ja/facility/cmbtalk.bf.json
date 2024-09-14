@@ -1,0 +1,695 @@
+[
+  {
+    "key": "VELVET_TALK_GREET_TWINS__0",
+    "original": "よく来たな囚人！",
+    "translation": "よく来たな囚人！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "VELVET_TALK_GREET_TWINS__2_0",
+    "original": "懲りずにまた来たようだな！",
+    "translation": "懲りずにまた来たようだな！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "VELVET_TALK_GREET_TWINS__3_0",
+    "original": "よく来ましたね。",
+    "translation": "よく来ましたね。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "VELVET_OUT_TWINS_0_0",
+    "original": "また来なさい、囚人。",
+    "translation": "また来なさい、囚人。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "VELVET_OUT_TWINS_1_0",
+    "original": "しっかりと励むのですよ。",
+    "translation": "しっかりと励むのですよ。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "VELVET_OUT_TWINS_2_0",
+    "original": "我らの期待を裏切るなよ、囚人！",
+    "translation": "我らの期待を裏切るなよ、囚人！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "SEL_VELVET_BATTLE_BEFORE_0",
+    "original": "バッチリだ",
+    "translation": "バッチリだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_VELVET_BATTLE_BEFORE_1",
+    "original": "少し待って",
+    "translation": "少し待って",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MARIE_SEL_1ST_1",
+    "original": "今度ね",
+    "translation": "今度ね",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MARIE_SEL_1",
+    "original": "コミュ属性を確認する",
+    "translation": "コミュ属性を確認する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MARIE_SEL_2",
+    "original": "やっぱりやめる",
+    "translation": "やっぱりやめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MARIE_AFTERMAX_SEL_1",
+    "original": "コミュ属性を確認する",
+    "translation": "コミュ属性を確認する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MARIE_AFTERMAX_SEL_2",
+    "original": "やっぱりやめる",
+    "translation": "やっぱりやめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_MARIE_D_CLEAR_00_1",
+    "original": "あれは事故だ",
+    "translation": "あれは事故だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_MARIE_D_CLEAR_00_2",
+    "original": "見たかった",
+    "translation": "見たかった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_MARIE_HAJIKI_SISSOU__1",
+    "original": "さよならって？",
+    "translation": "さよならって？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_MARIE_0103_1",
+    "original": "やっぱり断る",
+    "translation": "やっぱり断る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "book_bonus001_01_0",
+    "original": "ペルソナフィルムにある程度の数の\nペルソナが登録されたようですね。",
+    "translation": "ペルソナフィルムにある程度の数の\nペルソナが登録されたようですね。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "book_bonus001_01_1",
+    "original": "囚人の更生の一歩を祝して、\nささやかな褒美を与えましょう。",
+    "translation": "囚人の更生の一歩を祝して、\nささやかな褒美を与えましょう。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "book_bonus001_02_0",
+    "original": "ペルソナフィルムからの引き出し金額が、\n１０％割り引かれるようになった！",
+    "translation": "ペルソナフィルムからの引き出し金額が、\n１０％割り引かれるようになった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "book_bonus001_03_0",
+    "original": "以降のペルソナフィルムからの\n引き出し金額を割り引いてあげましょう。",
+    "translation": "以降のペルソナフィルムからの\n引き出し金額を割り引いてあげましょう。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "book_bonus001_03_1",
+    "original": "今後もペルソナの登録数を増やせば、\nその努力に応えねばなりませんね。",
+    "translation": "今後もペルソナの登録数を増やせば、\nその努力に応えねばなりませんね。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "book_bonus001_03_2",
+    "original": "より一層励むことです。",
+    "translation": "より一層励むことです。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "book_bonus002_01_0",
+    "original": "これまでにお前が生み出したペルソナ…\n以前よりさらに多くなったようだな。",
+    "translation": "これまでにお前が生み出したペルソナ…\n以前よりさらに多くなったようだな。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "book_bonus002_01_1",
+    "original": "それでは約束どおり、\n我々から褒美をくれてやろう！",
+    "translation": "それでは約束どおり、\n我々から褒美をくれてやろう！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "book_bonus002_02_0",
+    "original": "ペルソナフィルムからの引き出し金額が、\n１５％割り引かれるようになった！",
+    "translation": "ペルソナフィルムからの引き出し金額が、\n１５％割り引かれるようになった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "book_bonus002_03_0",
+    "original": "今後のペルソナフィルムからの\n引き出し金額をさらに割り引いてやったぞ！",
+    "translation": "今後のペルソナフィルムからの\n引き出し金額をさらに割り引いてやったぞ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "book_bonus002_03_1",
+    "original": "とは言え、まだまだ知らないペルソナが\n数多く存在するようだな…",
+    "translation": "とは言え、まだまだ知らないペルソナが\n数多く存在するようだな…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "book_bonus002_03_2",
+    "original": "我々もお前からどのようなペルソナが\n誕生するのか興味もある。",
+    "translation": "我々もお前からどのようなペルソナが\n誕生するのか興味もある。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "book_bonus002_03_3",
+    "original": "今後の働きに期待しつつ…\n褒美を用意して待っていてやろう！",
+    "translation": "今後の働きに期待しつつ…\n褒美を用意して待っていてやろう！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "book_bonus003_01_0",
+    "original": "気づけば相当な数のペルソナが\n貴方から生まれたようですね…",
+    "translation": "気づけば相当な数のペルソナが\n貴方から生まれたようですね…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "book_bonus003_01_1",
+    "original": "全てのペルソナが登録される日も、\nそう遠くはないかもしれませんね…",
+    "translation": "全てのペルソナが登録される日も、\nそう遠くはないかもしれませんね…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "book_bonus003_01_2",
+    "original": "あ…、すっかり忘れていました。\nこちらをお渡ししておきます。",
+    "translation": "あ…、すっかり忘れていました。\nこちらをお渡ししておきます。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "book_bonus003_02_0",
+    "original": "ペルソナフィルムからの引き出し金額が\n２０％割り引かれるようになった！",
+    "translation": "ペルソナフィルムからの引き出し金額が\n２０％割り引かれるようになった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "book_bonus003_03_0",
+    "original": "ペルソナフィルムの完成まであとわずか…\nそちらを役立てるといいでしょう。",
+    "translation": "ペルソナフィルムの完成まであとわずか…\nそちらを役立てるといいでしょう。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "book_bonus003_03_1",
+    "original": "この世に存在するペルソナ全てを\n生み出す…",
+    "translation": "この世に存在するペルソナ全てを\n生み出す…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "book_bonus003_03_2",
+    "original": "貴方になら出来るかもしれませんね。\nその時が来るのを期待していますよ…",
+    "translation": "貴方になら出来るかもしれませんね。\nその時が来るのを期待していますよ…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "book_bonus004_01_0",
+    "original": "まさかお前がこれほどの能力を\n持っているとはな…",
+    "translation": "まさかお前がこれほどの能力を\n持っているとはな…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "book_bonus004_01_1",
+    "original": "今、まさに全てのペルソナが\nペルソナフィルムに登録された！",
+    "translation": "今、まさに全てのペルソナが\nペルソナフィルムに登録された！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "book_bonus004_01_2",
+    "original": "お前の努力を称える、\n最高の褒美をくれてやろう！",
+    "translation": "お前の努力を称える、\n最高の褒美をくれてやろう！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "book_bonus004_02_0",
+    "original": "ペルソナフィルムからの引き出し金額が\n２５％割り引かれるようになった！",
+    "translation": "ペルソナフィルムからの引き出し金額が\n２５％割り引かれるようになった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "book_bonus004_03_0",
+    "original": "これがあれば、ペルソナフィルムが\nより使いやすいものとなるだろう。",
+    "translation": "これがあれば、ペルソナフィルムが\nより使いやすいものとなるだろう。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "book_bonus004_03_1",
+    "original": "ただし引き出し金額が無料…\nというわけではないぞ。",
+    "translation": "ただし引き出し金額が無料…\nというわけではないぞ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "book_bonus004_03_2",
+    "original": "それが世の常というものだからな！",
+    "translation": "それが世の常というものだからな！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "book_bonus004_03_3",
+    "original": "じゃあな！",
+    "translation": "じゃあな！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_exp_personac_0",
+    "original": "合体の基本とは",
+    "translation": "合体の基本とは",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_exp_personac_1",
+    "original": "ペルソナコピーとは",
+    "translation": "ペルソナコピーとは",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_exp_personac_2",
+    "original": "合体の法則とは",
+    "translation": "合体の法則とは",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_exp_personac_3",
+    "original": "スキルの継承とは",
+    "translation": "スキルの継承とは",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_exp_personac_4",
+    "original": "継承できるスキルの属性とは",
+    "translation": "継承できるスキルの属性とは",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_exp_personac_5",
+    "original": "もどる",
+    "translation": "もどる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_HELP_KIHON_0",
+    "original": "『合体』とは、２体以上のペルソナを素に\n新たな１体を召喚する秘儀のことです。",
+    "translation": "『合体』とは、２体以上のペルソナを素に\n新たな１体を召喚する秘儀のことです。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KIHON_0_0",
+    "original": "ただし、合体できるのは\nサブペルソナだけだからな。",
+    "translation": "ただし、合体できるのは\nサブペルソナだけだからな。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KIHON_0_2_0",
+    "original": "合体を行えば、大方はより強力な\nペルソナを生み出すことが出来るはず。",
+    "translation": "合体を行えば、大方はより強力な\nペルソナを生み出すことが出来るはず。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KIHON_0_2_1",
+    "original": "その代わり、合体に使用したペルソナは\n消滅しますので、注意が必要です。",
+    "translation": "その代わり、合体に使用したペルソナは\n消滅しますので、注意が必要です。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KIHON_0_3_0",
+    "original": "だが、合体前のペルソナから\nいくつかのスキルを引き継ぐ事ができるぞ。",
+    "translation": "だが、合体前のペルソナから\nいくつかのスキルを引き継ぐ事ができるぞ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KIHON_0_4_0",
+    "original": "合体したペルソナは、\n育てれば新たなスキルを覚えます。",
+    "translation": "合体したペルソナは、\n育てれば新たなスキルを覚えます。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KIHON_0_5_0",
+    "original": "つまり、上手く使えば好きなスキルだけを\n持たせたペルソナも夢ではないということだ。",
+    "translation": "つまり、上手く使えば好きなスキルだけを\n持たせたペルソナも夢ではないということだ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KIHON_0_5_1",
+    "original": "ま、囚人にそれが出来ればだがな！",
+    "translation": "ま、囚人にそれが出来ればだがな！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_COPY_0",
+    "original": "本来、合体の時には\n使用したペルソナは一度消滅します。",
+    "translation": "本来、合体の時には\n使用したペルソナは一度消滅します。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_COPY_1",
+    "original": "ですが、『ペルソナコピー』を指定すれば、\n消失する際にペルソナフィルムから\nペルソナを引き出して差し上げます。",
+    "translation": "ですが、『ペルソナコピー』を指定すれば、\n消失する際にペルソナフィルムから\nペルソナを引き出して差し上げます。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_COPY_02_0",
+    "original": "つまり、装備中のペルソナを素材にしても、\nそのペルソナが消失しないわけだ。",
+    "translation": "つまり、装備中のペルソナを素材にしても、\nそのペルソナが消失しないわけだ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_COPY_02_1",
+    "original": "もちろん、ペルソナフィルムからの\nコピー費用は、貴様らに払ってもらう。",
+    "translation": "もちろん、ペルソナフィルムからの\nコピー費用は、貴様らに払ってもらう。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_COPY_03_0",
+    "original": "これを便利に思うかどうかは、\n貴方たち次第…",
+    "translation": "これを便利に思うかどうかは、\n貴方たち次第…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_COPY_04_0",
+    "original": "使いたければ、合体させるペルソナを\n選択する時に指定するんだな。",
+    "translation": "使いたければ、合体させるペルソナを\n選択する時に指定するんだな。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_RULE_0",
+    "original": "合体における素材と結果には、おおよそ\nアルカナに基づいた法則がありそうだ。",
+    "translation": "合体における素材と結果には、おおよそ\nアルカナに基づいた法則がありそうだ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_RULE_1",
+    "original": "まあ、それに当てはまらない\n組み合わせもあるようだがな。",
+    "translation": "まあ、それに当てはまらない\n組み合わせもあるようだがな。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_RULE_02_0",
+    "original": "同じアルカナ同士の組み合わせが、\nその一例ですね。",
+    "translation": "同じアルカナ同士の組み合わせが、\nその一例ですね。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_RULE_02_1",
+    "original": "同じアルカナ同士の場合は、そのアルカナの\n１ランク下のペルソナが生まれることが\n分かっています。",
+    "translation": "同じアルカナ同士の場合は、そのアルカナの\n１ランク下のペルソナが生まれることが\n分かっています。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_RULE_03_0",
+    "original": "とにかく、貴様らで色々と組み合わせを\n試して理解するんだな！",
+    "translation": "とにかく、貴様らで色々と組み合わせを\n試して理解するんだな！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KEISYOU_0",
+    "original": "合体で生まれるペルソナは、\n素材にしたペルソナのスキルを\n継承する場合があります。",
+    "translation": "合体で生まれるペルソナは、\n素材にしたペルソナのスキルを\n継承する場合があります。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KEISYOU_1",
+    "original": "つまり合体を活用すれば、元々は習得しない\nはずのスキルを覚えることも可能でしょう。",
+    "translation": "つまり合体を活用すれば、元々は習得しない\nはずのスキルを覚えることも可能でしょう。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KEISYOU_2_0",
+    "original": "強力なペルソナを手に入れるための\n最も重要な事だ、しっかり覚えておけよ。",
+    "translation": "強力なペルソナを手に入れるための\n最も重要な事だ、しっかり覚えておけよ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KEISYOU_3_0",
+    "original": "継承の理論は詳しく分かっていませんが…\n次の３つの点を伝えておきましょう。",
+    "translation": "継承の理論は詳しく分かっていませんが…\n次の３つの点を伝えておきましょう。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KEISYOU_3_1",
+    "original": "第１に『継承させるスキルは、貴方が自由に\n選択する事ができる』ということ。",
+    "translation": "第１に『継承させるスキルは、貴方が自由に\n選択する事ができる』ということ。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KEISYOU_3_2",
+    "original": "第２に『生み出されるペルソナによって、\n継承できるスキルが限られる』こと。",
+    "translation": "第２に『生み出されるペルソナによって、\n継承できるスキルが限られる』こと。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KEISYOU_3_3",
+    "original": "…これについては、別途説明します。",
+    "translation": "…これについては、別途説明します。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KEISYOU_4_0",
+    "original": "最後は『素材とするペルソナにスキルが多い\nほど、継承できるスキル数も増える』だ！",
+    "translation": "最後は『素材とするペルソナにスキルが多い\nほど、継承できるスキル数も増える』だ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KEISYOU_4_1",
+    "original": "ま、色々試していくうちに分かるだろう。\n上手く使いこなしてみせろ、囚人。",
+    "translation": "ま、色々試していくうちに分かるだろう。\n上手く使いこなしてみせろ、囚人。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ZOKUSEI_0",
+    "original": "スキルの継承について、\nもう少し詳しく説明しましょう。",
+    "translation": "スキルの継承について、\nもう少し詳しく説明しましょう。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ZOKUSEI_1",
+    "original": "ペルソナには各々に『継承できるスキル』と\n『継承できないスキル』があります。",
+    "translation": "ペルソナには各々に『継承できるスキル』と\n『継承できないスキル』があります。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ZOKUSEI_2",
+    "original": "それはペルソナごとの特徴によって、\nおおよそ定められているようです。",
+    "translation": "それはペルソナごとの特徴によって、\nおおよそ定められているようです。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ZOKUSEI_2_0",
+    "original": "今、判明していることを教えてやる。\n心して聞けよ。",
+    "translation": "今、判明していることを教えてやる。\n心して聞けよ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ZOKUSEI_2_1",
+    "original": "まず、物理攻撃が得意なペルソナ。\nこれらは回復スキルを継承できず…",
+    "translation": "まず、物理攻撃が得意なペルソナ。\nこれらは回復スキルを継承できず…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ZOKUSEI_2_2",
+    "original": "逆に、回復を得意とする者は、\n物理攻撃スキルを継承できない！",
+    "translation": "逆に、回復を得意とする者は、\n物理攻撃スキルを継承できない！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ZOKUSEI_3_0",
+    "original": "『火と氷』『雷と風』『祝と呪』など、\nこれらは対を成す属性となります。",
+    "translation": "『火と氷』『雷と風』『祝と呪』など、\nこれらは対を成す属性となります。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ZOKUSEI_3_1",
+    "original": "片方の属性に偏ったペルソナは、\n反する属性のスキルを継承できません。",
+    "translation": "片方の属性に偏ったペルソナは、\n反する属性のスキルを継承できません。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ZOKUSEI_3_2",
+    "original": "最初に持っているスキルの属性と反する\n属性は継承できない、とお考えください。",
+    "translation": "最初に持っているスキルの属性と反する\n属性は継承できない、とお考えください。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ZOKUSEI_4_0",
+    "original": "だが、例外もあるぞ。",
+    "translation": "だが、例外もあるぞ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ZOKUSEI_4_1",
+    "original": "全てのスキルを継承できるペルソナも\n存在するようだが、極めて稀な性質だな！",
+    "translation": "全てのスキルを継承できるペルソナも\n存在するようだが、極めて稀な性質だな！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ZOKUSEI_4_2",
+    "original": "何はともあれ、\n色々と試すことだな、囚人！",
+    "translation": "何はともあれ、\n色々と試すことだな、囚人！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "VELVET_HELP_GREET_TWINS__0",
+    "original": "何を聞きたいんだ？",
+    "translation": "何を聞きたいんだ？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "VELVET_HELP_GREET_TWINS__2_0",
+    "original": "何を聞きたいのですか？",
+    "translation": "何を聞きたいのですか？",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "VELVET_HELP_GREET_MARRY_0",
+    "original": "何について知りたいの？",
+    "translation": "何について知りたいの？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  }
+]

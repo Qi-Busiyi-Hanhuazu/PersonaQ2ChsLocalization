@@ -1,0 +1,471 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ねえ、みんな！　イセカイナビを見て。\nおかしいの。何も表示されない。",
+    "translation": "ねえ、みんな！　イセカイナビを見て。\nおかしいの。何も表示されない。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "全員、エラー画面？\nいっせいに壊れたってことか？",
+    "translation": "全員、エラー画面？\nいっせいに壊れたってことか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "いや、それは不自然だろう。\n情報が欲しいな。",
+    "translation": "いや、それは不自然だろう。\n情報が欲しいな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "何か、手がかりになるものはないかな？",
+    "translation": "何か、手がかりになるものはないかな？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "やっべ、サツだ！",
+    "translation": "やっべ、サツだ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ちょっと待って！\nあの制服、日本の警察じゃないよね？",
+    "translation": "ちょっと待って！\nあの制服、日本の警察じゃないよね？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "海外の警察っぽい服だな…\nＦＰＳでよく見るぞ。",
+    "translation": "海外の警察っぽい服だな…\nＦＰＳでよく見るぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "んー…シャドウでもなさそうだ。",
+    "translation": "んー…シャドウでもなさそうだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "なら、あの人に訊いてみる…とか？",
+    "translation": "なら、あの人に訊いてみる…とか？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "は！？　サツに！？\nこのカッコで！？",
+    "translation": "は！？　サツに！？\nこのカッコで！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "任せた、クイーン",
+    "translation": "任せた、クイーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "ダメならその時だ",
+    "translation": "ダメならその時だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ええっ、私！？",
+    "translation": "ええっ、私！？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "いざという時はそのトゲで\n威嚇してやれ、クイーン。",
+    "translation": "いざという時はそのトゲで\n威嚇してやれ、クイーン。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ハァ…言いだしっぺは私だものね。",
+    "translation": "ハァ…言いだしっぺは私だものね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "そうだね…\nここで悩んでても仕方ないか。",
+    "translation": "そうだね…\nここで悩んでても仕方ないか。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "ということで、クイーンよろしく！",
+    "translation": "ということで、クイーンよろしく！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ええっ、私！？",
+    "translation": "ええっ、私！？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "くふふ、言いだしっぺの法則だな。",
+    "translation": "くふふ、言いだしっぺの法則だな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "やってみるけど、もし何かあったら\nみんなフォロー頼むからね？",
+    "translation": "やってみるけど、もし何かあったら\nみんなフォロー頼むからね？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "あの…すみません。",
+    "translation": "あの…すみません。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ん…？\nなんだお前ら、その格好は！？",
+    "translation": "ん…？\nなんだお前ら、その格好は！？",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "やっぱそうなるよな…",
+    "translation": "やっぱそうなるよな…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "クイーンなんて、\nただでさえ世紀末感スゲーし。",
+    "translation": "クイーンなんて、\nただでさえ世紀末感スゲーし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "えっと…私たち、仮装パーティーに\n行く途中で道に迷ってしまって。",
+    "translation": "えっと…私たち、仮装パーティーに\n行く途中で道に迷ってしまって。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "な、なんてベタなんだ…！",
+    "translation": "な、なんてベタなんだ…！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "だがそれがいい。",
+    "translation": "だがそれがいい。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "仮装パーティー？\nふうん…手が込んでるな。",
+    "translation": "仮装パーティー？\nふうん…手が込んでるな。",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "おおっ、信じたぞ！\n意外とチョロいな。",
+    "translation": "おおっ、信じたぞ！\n意外とチョロいな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ここまで本格的な衣装だと、\nかえって信憑性が増すのかもしれん。",
+    "translation": "ここまで本格的な衣装だと、\nかえって信憑性が増すのかもしれん。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "…で、何の用だ？",
+    "translation": "…で、何の用だ？",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ここがどこなのか、位置情報を教えて\nいただけませんか？",
+    "translation": "ここがどこなのか、位置情報を教えて\nいただけませんか？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ここはカモシティの１番街だが…\n大都会・カモシティを知らないのか？",
+    "translation": "ここはカモシティの１番街だが…\n大都会・カモシティを知らないのか？",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "なんかムカつく地名だな。\nてか、ジョーカー知ってっか？",
+    "translation": "なんかムカつく地名だな。\nてか、ジョーカー知ってっか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_030_0",
+    "original": "聞いたことはある",
+    "translation": "聞いたことはある",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_030_1",
+    "original": "知らない",
+    "translation": "知らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "は？　マジでか！？",
+    "translation": "は？　マジでか！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "私は知らないけれど…\n新しいテーマパークか何かかな？",
+    "translation": "私は知らないけれど…\n新しいテーマパークか何かかな？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "だよなー。\n一度聞いたら、忘れなさそうだし。",
+    "translation": "だよなー。\n一度聞いたら、忘れなさそうだし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "うーん…\n新しいテーマパークか何かかな？",
+    "translation": "うーん…\n新しいテーマパークか何かかな？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "なんか怪しいな…\nお前ら、どこから来た？",
+    "translation": "なんか怪しいな…\nお前ら、どこから来た？",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "SEL_036_0",
+    "original": "あっちの方から来た",
+    "translation": "あっちの方から来た",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_036_1",
+    "original": "メメントスから来た",
+    "translation": "メメントスから来た",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_036_2",
+    "original": "覚えていない",
+    "translation": "覚えていない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "だから、あっちとはどっちだ！",
+    "translation": "だから、あっちとはどっちだ！",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "メメ…？　は？",
+    "translation": "メメ…？　は？",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "なんだと！？　お前ら、仮装パーティーに\n行くんじゃなかったのか？",
+    "translation": "なんだと！？　お前ら、仮装パーティーに\n行くんじゃなかったのか？",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "めっちゃ疑われてない！？",
+    "translation": "めっちゃ疑われてない！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "うーん、これは…\nちょっとまずい流れだね。",
+    "translation": "うーん、これは…\nちょっとまずい流れだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "不審な奴らめ…\n何をしていたか、詳しく話を聞こうか。",
+    "translation": "不審な奴らめ…\n何をしていたか、詳しく話を聞こうか。",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "ま、待ってください！！\n私たちは本当にっ…！",
+    "translation": "ま、待ってください！！\n私たちは本当にっ…！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "おい、何かいっぱい来たぞ！？",
+    "translation": "おい、何かいっぱい来たぞ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "そこの仮面集団、挙動が怪しい。\nまとめて連行しろ！",
+    "translation": "そこの仮面集団、挙動が怪しい。\nまとめて連行しろ！",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "了解した、応援する！",
+    "translation": "了解した、応援する！",
+    "stage": 1,
+    "context": "小太りの警官"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "ヤベェ！　みんな走れ！！",
+    "translation": "ヤベェ！　みんな走れ！！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "ご、ごめんなさい！",
+    "translation": "ご、ごめんなさい！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "逃がすな！　捕らえろーっ！",
+    "translation": "逃がすな！　捕らえろーっ！",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真面目そうな警官",
+    "original": "真面目そうな警官",
+    "translation": "真面目そうな警官",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_小太りの警官",
+    "original": "小太りの警官",
+    "translation": "小太りの警官",
+    "stage": 1,
+    "context": ""
+  }
+]

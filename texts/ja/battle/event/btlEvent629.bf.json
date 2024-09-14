@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "では、皆様。\nこのテオドアがお相手させて頂きます。",
+    "translation": "では、皆様。\nこのテオドアがお相手させて頂きます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "皆様のお力、拝見いたします。",
+    "translation": "皆様のお力、拝見いたします。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ふむ…なるほど。\nポップコーンと同じくらい興味深い。",
+    "translation": "ふむ…なるほど。\nポップコーンと同じくらい興味深い。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "しかし、この程度ではないでしょう？",
+    "translation": "しかし、この程度ではないでしょう？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "私、力には少々自信があるのです。\nこのまま終わるわけにはまいりません。",
+    "translation": "私、力には少々自信があるのです。\nこのまま終わるわけにはまいりません。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "見事…いえ。\n褒めるのは後にしましょう。",
+    "translation": "見事…いえ。\n褒めるのは後にしましょう。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "さあ、最後までそのお力を\n私に拝見させてください。",
+    "translation": "さあ、最後までそのお力を\n私に拝見させてください。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "素晴らしい…\nこれが皆様のお力…",
+    "translation": "素晴らしい…\nこれが皆様のお力…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_040_1",
+    "original": "しかと拝見いたしました。",
+    "translation": "しかと拝見いたしました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  }
+]

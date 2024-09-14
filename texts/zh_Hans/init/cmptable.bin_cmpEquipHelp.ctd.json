@@ -1,0 +1,23 @@
+[
+  {
+    "key": "text_000_0",
+    "original": "誰の装備を変更しますか？",
+    "translation": "要修改谁的装备？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要变更谁的装备？\n\n变更谁的装备？\n\n换谁的装备？"
+  },
+  {
+    "key": "text_001_0",
+    "original": "どの装備を変更しますか？",
+    "translation": "要修改哪个装备？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要变更哪个装备？\n\n你要变更哪个装备？"
+  },
+  {
+    "key": "text_002_0",
+    "original": "どれに変更しますか？",
+    "translation": "要修改成什么？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要变更什么装备？\n\n改成哪个？\n\n要改成哪个？"
+  }
+]

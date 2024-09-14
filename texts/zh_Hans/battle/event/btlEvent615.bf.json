@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お願い、私にも協力させて！",
+    "translation": "拜托了，让我也来帮忙吧！",
+    "stage": 1,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n拜托，也让我帮忙！\n\n拜托，让我也协助你！\n\n拜托，也让我来帮忙吧！"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "応援くらいしか出来ないけど、\n少しでもみんなの力になりたいの！",
+    "translation": "虽然我只能给大家加油鼓劲，\n但我也想尽我所能的帮助大家！",
+    "stage": 1,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n虽然我只能加油，\n但我想尽可能帮上大家的忙！\n\n虽然只能应援，但是想稍微成为大家的力量！\n\n\n虽然只能支援，但我想成为大家的一份力量，哪怕只是一点点！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、共に戦おう。",
+    "translation": "啊啊，一起战斗吧。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n好，一起战斗吧。\n\n啊，一起战斗吧。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ヒカリンの応援で、勇気リンリン！\nパワー百倍クマー！",
+    "translation": "小光光的鼓舞，勇气哐哐上升！\n力量百倍熊熊！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n在光光的加油下，勇气琳琳！\n力量百倍小熊～！\n\n光的应援，勇气琳琳！\n力量百倍小熊！\n\n在hikarin的支援下，勇气玲玲！\n力量百倍小熊！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ひかりちゃんの力、私たちに貸して！",
+    "translation": "小光，帮帮我们吧！",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n小光的力量，借给我们！\n\n光酱的力量，借给我们吧！\n\n把阿光的力量借给我们吧！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うん！",
+    "translation": "嗯！",
+    "stage": 0,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n嗯！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "応援なら任せて！",
+    "translation": "加油鼓劲就交给我吧！",
+    "stage": 1,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n加油就交给我！\n\n应援的话就交给我吧！\n\n要支援就交给我吧！"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "光",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "小熊",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

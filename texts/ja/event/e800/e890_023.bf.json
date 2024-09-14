@@ -1,0 +1,198 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さあ、囚人。\n遠慮なくかかってこい！",
+    "translation": "さあ、囚人。\n遠慮なくかかってこい！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "特別に相手してやるというんだ。\n嬉しいだろう？",
+    "translation": "特別に相手してやるというんだ。\n嬉しいだろう？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "いつになくはしゃいでいますね、\nカロリーヌ。",
+    "translation": "いつになくはしゃいでいますね、\nカロリーヌ。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "浮ついた気持ちで、\n足元をすくわれぬように。",
+    "translation": "浮ついた気持ちで、\n足元をすくわれぬように。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "なッ！？　浮ついてなどいないッ！",
+    "translation": "なッ！？　浮ついてなどいないッ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "お前こそどうなんだ。\nやけに口数が多い気がするが？",
+    "translation": "お前こそどうなんだ。\nやけに口数が多い気がするが？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "そんなことはありません。",
+    "translation": "そんなことはありません。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "仲良くやれ",
+    "translation": "仲良くやれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "可愛いな",
+    "translation": "可愛いな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "う、うるさい！\nだいたい全て貴様のせいだ！",
+    "translation": "う、うるさい！\nだいたい全て貴様のせいだ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そうです。\n貴方の前だと、なぜか調子が狂います。",
+    "translation": "そうです。\n貴方の前だと、なぜか調子が狂います。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "やれやれ、ジョーカーに\nだいぶ入れ込んでるみたいだね。",
+    "translation": "やれやれ、ジョーカーに\nだいぶ入れ込んでるみたいだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "か、かわ…！？\nな、なな、何をふざけたことを！",
+    "translation": "か、かわ…！？\nな、なな、何をふざけたことを！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "わ、我らを篭絡しても、\n手加減はしません。",
+    "translation": "わ、我らを篭絡しても、\n手加減はしません。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "そ、そそそ、そういうことだ！",
+    "translation": "そ、そそそ、そういうことだ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "顔を真っ赤にして言われても\n説得力がないけどね。",
+    "translation": "顔を真っ赤にして言われても\n説得力がないけどね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "さて、前置きが長くなっておりますが。",
+    "translation": "さて、前置きが長くなっておりますが。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_012_1_0",
+    "original": "ツンやデレなどお忙しいところ、\n始めて頂いてよろしいでしょうか。",
+    "translation": "ツンやデレなどお忙しいところ、\n始めて頂いてよろしいでしょうか。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "言われなくとも。",
+    "translation": "言われなくとも。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "さあ、始めましょうカロリーヌ。\nホットドッグが待っています。",
+    "translation": "さあ、始めましょうカロリーヌ。\nホットドッグが待っています。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ククク…承知した！\n目に物見せてやるぞ、囚人！",
+    "translation": "ククク…承知した！\n目に物見せてやるぞ、囚人！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "クク…少しは自信があるようだな、囚人。\nだが、何度来ようと同じだぞ？",
+    "translation": "クク…少しは自信があるようだな、囚人。\nだが、何度来ようと同じだぞ？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "せいぜい足掻いて見せなさい。\nでは、始めますよ。",
+    "translation": "せいぜい足掻いて見せなさい。\nでは、始めますよ。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  }
+]

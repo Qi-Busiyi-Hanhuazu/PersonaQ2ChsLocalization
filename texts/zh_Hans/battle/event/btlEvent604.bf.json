@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "チッ、出やがったな！",
+    "translation": "切，出现了是吧！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n啧，又冒出来了！\n\n嘁，出现了啊！\n\n哇，出来了！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やっぱり、パレスにいるのとは\nなんか雰囲気違うね。",
+    "translation": "果然，\n和在宫殿里的感觉有些不一样呢。",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n果然跟在宫殿的暗影\n给人的感觉不一样。\n\n果然，和在宫殿的气氛不一样呢。\n\n\n果然和在宫殿的感觉不一样。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "だが、敵は敵だ。\n立ちふさがるなら倒すのみ！",
+    "translation": "但是，敌人就是敌人。\n如果挡在了面前，那就只有打倒他们！",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n不过，敌人就是敌人。\n挡在前面就打倒他！\n\n但是，敌人就是敌人。\n要挡就打倒他！\n\n但是，敌人是敌人。\n挡着的话只能打倒！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おイナリの言う通りだ。",
+    "translation": "就如小狐狸所说的那样。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n正如小狐狸所说。\n\n你说得没错。"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "そんなに強くないっぽいし、\nいつも通りに切り抜けろ！",
+    "translation": "好像也不是很强的样子，\n就像平常一样应对吧！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n他们看起来不怎么强\n只要像平常一样突破就好！\n\n好像没有那么强，\n一如既往地摆脱吧！\n\n好像没那么强，\n像往常一样突破吧！"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

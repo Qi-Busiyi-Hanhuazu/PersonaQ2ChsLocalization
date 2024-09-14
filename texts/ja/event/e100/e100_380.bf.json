@@ -1,0 +1,373 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "気をつけろ、警備がいるぞ。",
+    "translation": "気をつけろ、警備がいるぞ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "…ん？　でも、警備にしては\n特に周囲に何もなさそうだが…",
+    "translation": "…ん？　でも、警備にしては\n特に周囲に何もなさそうだが…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "アイツ、なんで突っ立ってるんだ？",
+    "translation": "アイツ、なんで突っ立ってるんだ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "サボってんじゃね？\nなんかボケッとしてるし。",
+    "translation": "サボってんじゃね？\nなんかボケッとしてるし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "スカルじゃねぇんだから。",
+    "translation": "スカルじゃねぇんだから。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ああ！？",
+    "translation": "ああ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "それより見て、あそこ！\n開いてるマンホールがない？",
+    "translation": "それより見て、あそこ！\n開いてるマンホールがない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ンあ？　マンホール？\n下水道の工事でもしてんのか？",
+    "translation": "ンあ？　マンホール？\n下水道の工事でもしてんのか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "じゃなくて、あそこ警備してんじゃない？\n海外だと地下に電線が通ってるし。",
+    "translation": "じゃなくて、あそこ警備してんじゃない？\n海外だと地下に電線が通ってるし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "ひょっとしたら、マンホールの下に\nライトアップ用の電源があるのかも。",
+    "translation": "ひょっとしたら、マンホールの下に\nライトアップ用の電源があるのかも。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "それは考えられるね。\n無意味な場所を警備するとは思えない。",
+    "translation": "それは考えられるね。\n無意味な場所を警備するとは思えない。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ふむ…可能性があるなら、\n確認のために、下水道へ降りてみるか。",
+    "translation": "ふむ…可能性があるなら、\n確認のために、下水道へ降りてみるか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "だが、進むなら警官をどうにかしねぇとな…\nどうする、ジョーカー？",
+    "translation": "だが、進むなら警官をどうにかしねぇとな…\nどうする、ジョーカー？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "蹴散らそう",
+    "translation": "蹴散らそう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "やるしかないか…",
+    "translation": "やるしかないか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_2",
+    "original": "話し合いで",
+    "translation": "話し合いで",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "おっし。\nそれが手っ取り早そうだな！",
+    "translation": "おっし。\nそれが手っ取り早そうだな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "だな。口で言って\nどいてくれる相手じゃなさそうだ。",
+    "translation": "だな。口で言って\nどいてくれる相手じゃなさそうだ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "んじゃ、手っ取り早く済まそうぜ！",
+    "translation": "んじゃ、手っ取り早く済まそうぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "それは無理じゃないか？",
+    "translation": "それは無理じゃないか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "カモシダーマンに歯向かった悪党を\nおいそれと入れてくれるわけがない。",
+    "translation": "カモシダーマンに歯向かった悪党を\nおいそれと入れてくれるわけがない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ヘッ、ひと暴れしてやろうぜ！",
+    "translation": "ヘッ、ひと暴れしてやろうぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "待て。提案がある。",
+    "translation": "待て。提案がある。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "倒すついでに、\n制服を頂戴するのはどうだろう？",
+    "translation": "倒すついでに、\n制服を頂戴するのはどうだろう？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "制服を？　どうして？",
+    "translation": "制服を？　どうして？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "像を盗むならば、\nこの先も監視の目がありそうだ。",
+    "translation": "像を盗むならば、\nこの先も監視の目がありそうだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "警察の服があれば\nどこかで役に立つかもしれない。",
+    "translation": "警察の服があれば\nどこかで役に立つかもしれない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "変装ってわけか。悪くないアイデアだ。\nまあ、ワガハイは着られないけど…",
+    "translation": "変装ってわけか。悪くないアイデアだ。\nまあ、ワガハイは着られないけど…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "僕たちも怪盗服だし、\n簡単には着替えられそうにないね。",
+    "translation": "僕たちも怪盗服だし、\n簡単には着替えられそうにないね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "適任となると…",
+    "translation": "適任となると…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "…[P3P名]ちゃん？",
+    "translation": "…[P3P名]ちゃん？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "えっ、私！？\n警官になりすますの？",
+    "translation": "えっ、私！？\n警官になりすますの？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "やりたい！　やるやる！\n私でいいかな、ジョーカー？",
+    "translation": "やりたい！　やるやる！\n私でいいかな、ジョーカー？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_024_0",
+    "original": "任せた",
+    "translation": "任せた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_1",
+    "original": "みんながいいなら",
+    "translation": "みんながいいなら",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_2",
+    "original": "自分も着たい",
+    "translation": "自分も着たい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ジョーカーは怪盗服があるでしょ！",
+    "translation": "ジョーカーは怪盗服があるでしょ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここは[P3P姓]さんにお任せしよう。",
+    "translation": "ここは[P3P姓]さんにお任せしよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "うん、任せて！\n変装なんて、怪盗団の仲間っぽいね！",
+    "translation": "うん、任せて！\n変装なんて、怪盗団の仲間っぽいね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "あはは、[P3P名]ちゃんも\n怪盗らしくなってきたね！",
+    "translation": "あはは、[P3P名]ちゃんも\n怪盗らしくなってきたね！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "えへへ。私も今は、怪盗団の一員って\nことでヨロシクね！",
+    "translation": "えへへ。私も今は、怪盗団の一員って\nことでヨロシクね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "よし、そうと決まれば敵を倒そう！\nジョーカー、準備はいいか？",
+    "translation": "よし、そうと決まれば敵を倒そう！\nジョーカー、準備はいいか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_031_0",
+    "original": "さっさとやろう",
+    "translation": "さっさとやろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_031_1",
+    "original": "少し待ってくれ",
+    "translation": "少し待ってくれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ムッ…不審者発見！\n直ちに拘束し、連行する！！",
+    "translation": "ムッ…不審者発見！\n直ちに拘束し、連行する！！",
+    "stage": 1,
+    "context": "見張り中の警官"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_見張り中の警官",
+    "original": "見張り中の警官",
+    "translation": "見張り中の警官",
+    "stage": 1,
+    "context": ""
+  }
+]

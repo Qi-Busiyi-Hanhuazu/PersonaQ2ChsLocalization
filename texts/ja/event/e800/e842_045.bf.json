@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふー、ようやく降りられた。\nけっこう遠回りさせられちゃったね。",
+    "translation": "ふー、ようやく降りられた。\nけっこう遠回りさせられちゃったね。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "この近くには…いないみたい。",
+    "translation": "この近くには…いないみたい。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "蝶が降りていった穴のあたりを\n探すのが良さそうだね。",
+    "translation": "蝶が降りていった穴のあたりを\n探すのが良さそうだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "ここからだと西の方角だ。\nジョーカー、行ってみよう。",
+    "translation": "ここからだと西の方角だ。\nジョーカー、行ってみよう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

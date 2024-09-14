@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お！？　なあなあ！\nこのハシゴ、通れるんじゃね？",
+    "translation": "お！？　なあなあ！\nこのハシゴ、通れるんじゃね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "なるほど、繋がっているのか…",
+    "translation": "なるほど、繋がっているのか…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "おそらく、向こう側のハシゴを降ろせば\n通れるようになるだろうし…",
+    "translation": "おそらく、向こう側のハシゴを降ろせば\n通れるようになるだろうし…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_2",
+    "original": "ちょっと行ってみようか？",
+    "translation": "ちょっと行ってみようか？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "これ、ハシゴだよね。\nどこに繋がっているのかな？",
+    "translation": "これ、ハシゴだよね。\nどこに繋がっているのかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "…わからん。\n地図だと、どうなってるんだ？",
+    "translation": "…わからん。\n地図だと、どうなってるんだ？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "んー…反対側に繋がってるみたいだぞ。\nわたしたちがさっき通った道だな。",
+    "translation": "んー…反対側に繋がってるみたいだぞ。\nわたしたちがさっき通った道だな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "マジ？　なあ、行ってみようぜ！\n秘密の抜け道に使えるかもしれねーしよ！",
+    "translation": "マジ？　なあ、行ってみようぜ！\n秘密の抜け道に使えるかもしれねーしよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

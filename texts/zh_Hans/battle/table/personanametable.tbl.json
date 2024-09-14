@@ -1,0 +1,2438 @@
+[
+  {
+    "key": "text_002_0",
+    "original": "スライム",
+    "translation": "软泥怪",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_003_0",
+    "original": "アメノウズメ",
+    "translation": "天钿女",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_004_0",
+    "original": "レギオン",
+    "translation": "恶灵军团",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_005_0",
+    "original": "オセ",
+    "translation": "欧赛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_006_0",
+    "original": "ジャアクフロスト",
+    "translation": "邪恶霜精",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_007_0",
+    "original": "デカラビア",
+    "translation": "单卡拉比",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_008_0",
+    "original": "シキオウジ",
+    "translation": "式王子",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_010_0",
+    "original": "アガシオン",
+    "translation": "阿珈席翁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_011_0",
+    "original": "オロバス",
+    "translation": "欧若博司",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_012_0",
+    "original": "ジャックフロスト",
+    "translation": "杰克霜精",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_013_0",
+    "original": "カハク",
+    "translation": "花魄",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_014_0",
+    "original": "ジャックランタン",
+    "translation": "杰克灯笼",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_015_0",
+    "original": "ディース",
+    "translation": "狄丝",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_016_0",
+    "original": "ランダ",
+    "translation": "兰达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_017_0",
+    "original": "ジン",
+    "translation": "灵怪",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_018_0",
+    "original": "スルト",
+    "translation": "斯尔特",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_019_0",
+    "original": "マダ",
+    "translation": "摩陀",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_020_0",
+    "original": "コロポックル",
+    "translation": "克鲁波克鲁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_021_0",
+    "original": "サラスヴァティ",
+    "translation": "妙音天女",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_022_0",
+    "original": "ハイピクシー",
+    "translation": "高等皮克希",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_023_0",
+    "original": "ガンガー",
+    "translation": "甘伽",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_024_0",
+    "original": "パールヴァティ",
+    "translation": "帕尔瓦蒂",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_025_0",
+    "original": "キクリヒメ",
+    "translation": "菊理媛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_026_0",
+    "original": "ハリティー",
+    "translation": "诃梨帝母",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_027_0",
+    "original": "ツィツィミトル",
+    "translation": "兹兹米特尔",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_028_0",
+    "original": "スカアハ",
+    "translation": "斯卡哈",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_029_0",
+    "original": "ヤクシニー",
+    "translation": "母夜叉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_030_0",
+    "original": "ティターニア",
+    "translation": "缇坦妮雅",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_031_0",
+    "original": "ゴルゴン",
+    "translation": "蛇发女妖",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_032_0",
+    "original": "ガブリエル",
+    "translation": "加百列",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_033_0",
+    "original": "スカディ",
+    "translation": "丝卡蒂",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_034_0",
+    "original": "マザーハーロット",
+    "translation": "巴比伦大淫妇",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_035_0",
+    "original": "ラクシュミ",
+    "translation": "吉祥天女",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_036_0",
+    "original": "オベロン",
+    "translation": "奥伯隆",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_037_0",
+    "original": "キングフロスト",
+    "translation": "霜精之王",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_038_0",
+    "original": "セタンタ",
+    "translation": "瑟坦特",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_039_0",
+    "original": "メズキ",
+    "translation": "马面",
+    "stage": 1,
+    "context": "机翻辅助：\n\n梅兹奇。\n\n梅兹基\n\n梅祖"
+  },
+  {
+    "key": "text_040_0",
+    "original": "オオクニヌシ",
+    "translation": "大国主",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_041_0",
+    "original": "トート",
+    "translation": "托特",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_042_0",
+    "original": "オオヤマツミ",
+    "translation": "大山津见",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_043_0",
+    "original": "パピルサグ",
+    "translation": "人面蝎",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_044_0",
+    "original": "キングー",
+    "translation": "金固",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_045_0",
+    "original": "バロン",
+    "translation": "巴隆",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_046_0",
+    "original": "オーディン",
+    "translation": "奥丁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_047_0",
+    "original": "アンズー",
+    "translation": "安祖",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_048_0",
+    "original": "シーサー",
+    "translation": "狮爷",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_049_0",
+    "original": "ユニコーン",
+    "translation": "独角兽",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_050_0",
+    "original": "ゴズキ",
+    "translation": "牛头",
+    "stage": 1,
+    "context": "机翻辅助：\n\nGODZILLA\n\n嘎吱嘎吱\n\n五月"
+  },
+  {
+    "key": "text_051_0",
+    "original": "フラロウス",
+    "translation": "佛劳洛斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_052_0",
+    "original": "だいそうじょう",
+    "translation": "大僧正",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_053_0",
+    "original": "ハチマン",
+    "translation": "八幡神",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_054_0",
+    "original": "コウリュウ",
+    "translation": "黄龙",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_055_0",
+    "original": "ピクシー",
+    "translation": "皮克希",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_056_0",
+    "original": "アルプ",
+    "translation": "阿尔普",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_057_0",
+    "original": "モー・ショボー",
+    "translation": "莫索保",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_058_0",
+    "original": "クイーンメイブ",
+    "translation": "妖精女王",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_059_0",
+    "original": "リャナンシー",
+    "translation": "莲南希",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_060_0",
+    "original": "ラファエル",
+    "translation": "拉斐尔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_061_0",
+    "original": "キュベレ",
+    "translation": "库柏勒",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_062_0",
+    "original": "イシュタル",
+    "translation": "伊丝塔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_063_0",
+    "original": "ナタタイシ",
+    "translation": "哪吒太子",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_064_0",
+    "original": "キマイラ",
+    "translation": "奇美拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_065_0",
+    "original": "エリゴール",
+    "translation": "埃力格",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_067_0",
+    "original": "アレス",
+    "translation": "阿瑞斯",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_068_0",
+    "original": "オオミツヌ",
+    "translation": "大御津濡",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_069_0",
+    "original": "トリグラフ",
+    "translation": "特里格拉夫",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_070_0",
+    "original": "トール",
+    "translation": "托尔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_071_0",
+    "original": "オファニム",
+    "translation": "欧法希姆",
+    "stage": 0,
+    "context": "机翻辅助：\n\n欧法希姆\n\n奥法尼姆\n\n欧法尼姆"
+  },
+  {
+    "key": "text_072_0",
+    "original": "アタバク",
+    "translation": "大元帅明王",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_073_0",
+    "original": "フツヌシ",
+    "translation": "经津主",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_074_0",
+    "original": "エンジェル",
+    "translation": "天使",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_075_0",
+    "original": "パワー",
+    "translation": "能天使",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_076_0",
+    "original": "ヴァーチャー",
+    "translation": "力天使",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_077_0",
+    "original": "ソロネ",
+    "translation": "座天使",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_078_0",
+    "original": "ウリエル",
+    "translation": "乌列尔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_079_0",
+    "original": "メルキセデク",
+    "translation": "麦基洗德",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_080_0",
+    "original": "スラオシャ",
+    "translation": "斯拉欧加",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_081_0",
+    "original": "アズミ",
+    "translation": "安昙神",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_082_0",
+    "original": "イッポンダタラ",
+    "translation": "一本踏鞴",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_083_0",
+    "original": "モスマン",
+    "translation": "天蛾人",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_084_0",
+    "original": "ヒトコトヌシ",
+    "translation": "一言主",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_085_0",
+    "original": "クラマテング",
+    "translation": "鞍马天狗",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_086_0",
+    "original": "ニーズホッグ",
+    "translation": "尼德霍格",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_087_0",
+    "original": "ネビロス",
+    "translation": "奈比洛斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_088_0",
+    "original": "アラハバキ",
+    "translation": "荒霸吐",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_089_0",
+    "original": "オンギョウキ",
+    "translation": "隐形鬼",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_090_0",
+    "original": "エンプーサ",
+    "translation": "恩浦萨",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_091_0",
+    "original": "ライジュウ",
+    "translation": "雷兽",
+    "stage": 9,
+    "context": "翻译匹配：SMT3HD"
+  },
+  {
+    "key": "text_092_0",
+    "original": "フォルトゥナ",
+    "translation": "福尔图娜",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_093_0",
+    "original": "クロト",
+    "translation": "克洛托",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_094_0",
+    "original": "ラケシス",
+    "translation": "拉刻西斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_095_0",
+    "original": "アナンタ",
+    "translation": "阿难陀",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_096_0",
+    "original": "アトロポス",
+    "translation": "阿特罗波斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_097_0",
+    "original": "ノルン",
+    "translation": "诺伦",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_098_0",
+    "original": "パズス",
+    "translation": "帕祖祖",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_099_0",
+    "original": "ザントマン",
+    "translation": "睡魔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_100_0",
+    "original": "ヴァルキリー",
+    "translation": "女武神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_101_0",
+    "original": "ラクシャーサ",
+    "translation": "罗刹",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_102_0",
+    "original": "ツチグモ",
+    "translation": "土蜘蛛",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_103_0",
+    "original": "オニ",
+    "translation": "鬼",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_104_0",
+    "original": "ハヌマーン",
+    "translation": "哈奴曼",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_105_0",
+    "original": "ジークフリード",
+    "translation": "齐格飞",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_106_0",
+    "original": "カーリー",
+    "translation": "迦梨",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_107_0",
+    "original": "ザオウゴンゲン",
+    "translation": "藏王权现",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_108_0",
+    "original": "オンモラキ",
+    "translation": "阴摩罗鬼",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_109_0",
+    "original": "ベリス",
+    "translation": "比利士",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_110_0",
+    "original": "ヨモツイクサ",
+    "translation": "黄泉军",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_111_0",
+    "original": "オルトロス",
+    "translation": "欧特鲁斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_112_0",
+    "original": "ヤツフサ",
+    "translation": "八房",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_113_0",
+    "original": "バジリスク",
+    "translation": "巴西利斯克",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_114_0",
+    "original": "ヘルズエンジェル",
+    "translation": "地狱天使",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_115_0",
+    "original": "ヴァスキ",
+    "translation": "婆苏吉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_116_0",
+    "original": "アティス",
+    "translation": "阿提斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_117_0",
+    "original": "モコイ",
+    "translation": "莫克伊",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_118_0",
+    "original": "トゥルダク",
+    "translation": "吐鲁达克",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_119_0",
+    "original": "マタドール",
+    "translation": "斗牛士",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_120_0",
+    "original": "ホワイトライダー",
+    "translation": "白骑士",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_121_0",
+    "original": "サマエル",
+    "translation": "萨麦尔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_122_0",
+    "original": "モト",
+    "translation": "莫特",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_123_0",
+    "original": "ペイルライダー",
+    "translation": "苍白骑士",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_124_0",
+    "original": "アリス",
+    "translation": "爱丽丝",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_125_0",
+    "original": "マハカーラ",
+    "translation": "大黑天",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_126_0",
+    "original": "アプサラス",
+    "translation": "飞天",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_127_0",
+    "original": "カイチ",
+    "translation": "獬豸",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_128_0",
+    "original": "ミトラ",
+    "translation": "密特拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_129_0",
+    "original": "ゲンブ",
+    "translation": "玄武",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_130_0",
+    "original": "セイリュウ",
+    "translation": "青龙",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_131_0",
+    "original": "スザク",
+    "translation": "朱雀",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_132_0",
+    "original": "ビャッコ",
+    "translation": "白虎",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_133_0",
+    "original": "ヴィシュヌ",
+    "translation": "毗湿奴",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_134_0",
+    "original": "ウコバク",
+    "translation": "乌科巴克",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_135_0",
+    "original": "インキュバス",
+    "translation": "男梦魔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_136_0",
+    "original": "サキュバス",
+    "translation": "女梦魔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_137_0",
+    "original": "リリス",
+    "translation": "莉莉丝",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_138_0",
+    "original": "ベルフェゴール",
+    "translation": "贝尔芬格",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_139_0",
+    "original": "ベリアル",
+    "translation": "彼列",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_140_0",
+    "original": "アスタロト",
+    "translation": "亚斯她录",
+    "stage": 1,
+    "context": "机翻辅助：\n\n阿斯塔蒂\n\n阿斯塔罗特"
+  },
+  {
+    "key": "text_141_0",
+    "original": "ベルゼブブ",
+    "translation": "别西卜",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_142_0",
+    "original": "クー・フーリン",
+    "translation": "库夫林",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_143_0",
+    "original": "アバドン",
+    "translation": "亚巴顿",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_144_0",
+    "original": "マーラ",
+    "translation": "魔罗",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_145_0",
+    "original": "セイテンタイセイ",
+    "translation": "齐天大圣",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_146_0",
+    "original": "ヨシツネ",
+    "translation": "义经",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_147_0",
+    "original": "マサカド",
+    "translation": "将门",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_148_0",
+    "original": "シヴァ",
+    "translation": "湿婆",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_149_0",
+    "original": "シュウ",
+    "translation": "蚩尤",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_150_0",
+    "original": "キウン",
+    "translation": "迦温",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_151_0",
+    "original": "ヌエ",
+    "translation": "奴延",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_152_0",
+    "original": "ネコショウグン",
+    "translation": "猫将军",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_153_0",
+    "original": "ガネーシャ",
+    "translation": "葛内舍",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_154_0",
+    "original": "ガルーダ",
+    "translation": "迦楼罗",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_155_0",
+    "original": "カルティケーヤ",
+    "translation": "韦驮天",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_156_0",
+    "original": "サトゥルヌス",
+    "translation": "萨图尔努斯",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_157_0",
+    "original": "ルシフェル",
+    "translation": "路西菲尔",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_158_0",
+    "original": "アンドラス",
+    "translation": "安德拉斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_159_0",
+    "original": "ノズチ",
+    "translation": "野槌",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_160_0",
+    "original": "ヤマタノオロチ",
+    "translation": "八岐大蛇",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_161_0",
+    "original": "アルラウネ",
+    "translation": "爱娜温",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_162_0",
+    "original": "ギリメカラ",
+    "translation": "基力梅卡拉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_163_0",
+    "original": "ミシャグジさま",
+    "translation": "御社宫司神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_164_0",
+    "original": "チェルノボグ",
+    "translation": "切尔诺伯格",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_165_0",
+    "original": "セト",
+    "translation": "赛特",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_166_0",
+    "original": "バアル・ゼブル",
+    "translation": "巴力西卜",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_167_0",
+    "original": "サンダルフォン",
+    "translation": "圣德芬",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_168_0",
+    "original": "カーシー",
+    "translation": "狗妖精",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_169_0",
+    "original": "ホウオウ",
+    "translation": "凤凰",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_170_0",
+    "original": "ヤタガラス",
+    "translation": "八咫乌",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_171_0",
+    "original": "ナラシンハ",
+    "translation": "那罗辛哈",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_172_0",
+    "original": "タムリン",
+    "translation": "塔姆林",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_173_0",
+    "original": "ジャターユ",
+    "translation": "佳塔由",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_174_0",
+    "original": "スパルナ",
+    "translation": "金翅鸟",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_175_0",
+    "original": "アスラおう",
+    "translation": "阿修罗王",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_176_0",
+    "original": "レッドライダー",
+    "translation": "红骑士",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_177_0",
+    "original": "アヌビス",
+    "translation": "阿努比斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_178_0",
+    "original": "ブラックライダー",
+    "translation": "黑骑士",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_179_0",
+    "original": "トランペッター",
+    "translation": "吹号者",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_180_0",
+    "original": "ミカエル",
+    "translation": "米迦勒",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_181_0",
+    "original": "サタン",
+    "translation": "撒旦",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_182_0",
+    "original": "メタトロン",
+    "translation": "梅塔特隆",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_183_0",
+    "original": "アルダー",
+    "translation": "阿尔达",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_184_0",
+    "original": "ルシファー",
+    "translation": "路西法",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_185_0",
+    "original": "重装ゼウス",
+    "translation": "重装宙斯",
+    "stage": 0,
+    "context": "机翻辅助：\n\n重装宙斯"
+  },
+  {
+    "key": "text_186_0",
+    "original": "ゼウス",
+    "translation": "宙斯",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_187_0",
+    "original": "アークエンジェル",
+    "translation": "大天使",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_188_0",
+    "original": "アリラト",
+    "translation": "艾里拉特",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_189_0",
+    "original": "ドミニオン",
+    "translation": "主天使",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_190_0",
+    "original": "トゥルダク",
+    "translation": "吐鲁达克",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_191_0",
+    "original": "バジリスク",
+    "translation": "巴西利斯克",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_192_0",
+    "original": "オオヤマツミ",
+    "translation": "大山津见",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_193_0",
+    "original": "重装ゼウス",
+    "translation": "重装宙斯",
+    "stage": 0,
+    "context": "机翻辅助：\n\n重装宙斯"
+  },
+  {
+    "key": "text_194_0",
+    "original": "ゼウス",
+    "translation": "宙斯",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_195_0",
+    "original": "ジークフリード",
+    "translation": "齐格飞",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_196_0",
+    "original": "オベロン",
+    "translation": "奥伯隆",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_197_0",
+    "original": "クー・フーリン",
+    "translation": "库夫林",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_198_0",
+    "original": "アスラおう",
+    "translation": "阿修罗王",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_199_0",
+    "original": "ロキ",
+    "translation": "洛基",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_200_0",
+    "original": "オオクニヌシ",
+    "translation": "大国主",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_201_0",
+    "original": "オーディン",
+    "translation": "奥丁",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_202_0",
+    "original": "ヨシツネ",
+    "translation": "义经",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_203_0",
+    "original": "ルシフェル",
+    "translation": "路西菲尔",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_204_0",
+    "original": "ジャアクフロスト",
+    "translation": "邪恶霜精",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_205_0",
+    "original": "スルト",
+    "translation": "斯尔特",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_206_0",
+    "original": "ジャックフロスト",
+    "translation": "杰克霜精",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_207_0",
+    "original": "トール",
+    "translation": "托尔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_208_0",
+    "original": "タナトス",
+    "translation": "塔纳托斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_209_0",
+    "original": "カグヤ",
+    "translation": "辉夜",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_210_0",
+    "original": "マガツイザナギ",
+    "translation": "祸津伊邪那岐",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_211_0",
+    "original": "オルフェウス・改",
+    "translation": "俄耳甫斯·改",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_212_0",
+    "original": "カムイモシリ",
+    "translation": "神威之国",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_213_0",
+    "original": "コウゼオン",
+    "translation": "光世音",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_214_0",
+    "original": "スメオオミカミ",
+    "translation": "皇大御神",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_215_0",
+    "original": "タケジザイテン",
+    "translation": "他化自在天",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_216_0",
+    "original": "タケハヤスサノオ",
+    "translation": "建速须佐之男",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_217_0",
+    "original": "ハラエドノオオカミ",
+    "translation": "祓户大神",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_218_0",
+    "original": "ヤマトスメラミコト",
+    "translation": "日本天尊",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_219_0",
+    "original": "シヴァ",
+    "translation": "湿婆",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_220_0",
+    "original": "ヴィシュヌ",
+    "translation": "毗湿奴",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_221_0",
+    "original": "レギオン",
+    "translation": "恶灵军团",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_222_0",
+    "original": "マサカド",
+    "translation": "将门",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_223_0",
+    "original": "アリス",
+    "translation": "爱丽丝",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_224_0",
+    "original": "コウリュウ",
+    "translation": "黄龙",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_225_0",
+    "original": "サンダルフォン",
+    "translation": "圣德芬",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_226_0",
+    "original": "ベルゼブブ",
+    "translation": "别西卜",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_227_0",
+    "original": "サタン",
+    "translation": "撒旦",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_228_0",
+    "original": "トランペッター",
+    "translation": "吹号者",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_229_0",
+    "original": "リリス",
+    "translation": "莉莉丝",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_230_0",
+    "original": "ミカエル",
+    "translation": "米迦勒",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_231_0",
+    "original": "ウリエル",
+    "translation": "乌列尔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_232_0",
+    "original": "ガブリエル",
+    "translation": "加百列",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_233_0",
+    "original": "ラファエル",
+    "translation": "拉斐尔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_240_0",
+    "original": "イザナギ",
+    "translation": "伊邪那岐",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_241_0",
+    "original": "イザナギノオオカミ",
+    "translation": "伊邪那岐大神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_242_0",
+    "original": "オルフェウス",
+    "translation": "俄耳甫斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_243_0",
+    "original": "オルフェウス・改",
+    "translation": "俄耳甫斯·改",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_244_0",
+    "original": "ジライヤ",
+    "translation": "自来也",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_245_0",
+    "original": "スサノオ",
+    "translation": "须佐之男",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_246_0",
+    "original": "トモエ",
+    "translation": "巴御前",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_247_0",
+    "original": "スズカゴンゲン",
+    "translation": "铃鹿权现",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_248_0",
+    "original": "コノハナサクヤ",
+    "translation": "木花开耶",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_249_0",
+    "original": "アマテラス",
+    "translation": "天照",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_250_0",
+    "original": "ヒミコ",
+    "translation": "卑弥呼",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_251_0",
+    "original": "カンゼオン",
+    "translation": "观世音",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_252_0",
+    "original": "タケミカヅチ",
+    "translation": "建御雷",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_253_0",
+    "original": "ロクテンマオウ",
+    "translation": "第六天魔王",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_254_0",
+    "original": "スクナヒコナ",
+    "translation": "少彦名",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_255_0",
+    "original": "ヤマトタケル",
+    "translation": "日本武尊",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_256_0",
+    "original": "キントキドウジ",
+    "translation": "金时童子",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_257_0",
+    "original": "カムイ",
+    "translation": "神威",
+    "stage": 9,
+    "context": "翻译匹配：P4G"
+  },
+  {
+    "key": "text_258_0",
+    "original": "イオ",
+    "translation": "伊娥",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_259_0",
+    "original": "イシス",
+    "translation": "伊西斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_260_0",
+    "original": "ヘルメス",
+    "translation": "赫耳墨斯",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_261_0",
+    "original": "トリスメギストス",
+    "translation": "特里斯墨吉斯忒斯",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_262_0",
+    "original": "ポリデュークス",
+    "translation": "波吕克斯",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_263_0",
+    "original": "カエサル",
+    "translation": "凯萨",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_264_0",
+    "original": "ペンテシレア",
+    "translation": "彭忒西勒亚",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_265_0",
+    "original": "アルテミシア",
+    "translation": "阿尔特米西亚",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_266_0",
+    "original": "ルキア",
+    "translation": "路济亚",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_267_0",
+    "original": "ユノ",
+    "translation": "朱诺",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_268_0",
+    "original": "パラディオン",
+    "translation": "雅典娜神像",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_269_0",
+    "original": "アテナ",
+    "translation": "雅典娜",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_270_0",
+    "original": "ネメシス",
+    "translation": "涅墨西斯",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_271_0",
+    "original": "カーラ・ネミ",
+    "translation": "伽罗尼弥",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_272_0",
+    "original": "ケルベロス",
+    "translation": "克鲁贝洛斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_273_0",
+    "original": "ケルベロス",
+    "translation": "克鲁贝洛斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_274_0",
+    "original": "カストール",
+    "translation": "卡斯托尔",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_275_0",
+    "original": "カストール",
+    "translation": "卡斯托尔",
+    "stage": 9,
+    "context": "翻译匹配：P3P"
+  },
+  {
+    "key": "text_276_0",
+    "original": "オルフェウス",
+    "translation": "俄耳甫斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_277_0",
+    "original": "メサイア",
+    "translation": "弥赛亚",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_278_0",
+    "original": "アルセーヌ",
+    "translation": "亚森",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_279_0",
+    "original": "サタナエル",
+    "translation": "撒旦耶尔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_280_0",
+    "original": "キャプテン・キッド",
+    "translation": "船长基德",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_281_0",
+    "original": "セイテンタイセイ",
+    "translation": "齐天大圣",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_282_0",
+    "original": "カルメン",
+    "translation": "卡门",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_283_0",
+    "original": "ヘカーテ",
+    "translation": "赫卡忒",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_284_0",
+    "original": "ゾロ",
+    "translation": "佐罗",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_285_0",
+    "original": "メルクリウス",
+    "translation": "墨丘利",
+    "stage": 0,
+    "context": "机翻辅助：\n\n墨丘利"
+  },
+  {
+    "key": "text_286_0",
+    "original": "ゴエモン",
+    "translation": "五右卫门",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_287_0",
+    "original": "カムスサノヲ",
+    "translation": "神须佐之男",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_288_0",
+    "original": "ヨハンナ",
+    "translation": "琼安",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_289_0",
+    "original": "アナト",
+    "translation": "阿纳特",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_290_0",
+    "original": "ネクロノミコン",
+    "translation": "死灵之书",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_291_0",
+    "original": "プロメテウス",
+    "translation": "普罗米修斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_292_0",
+    "original": "ミラディ",
+    "translation": "米莱迪",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_293_0",
+    "original": "アスタルテ",
+    "translation": "阿斯塔尔塔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_294_0",
+    "original": "ロビンフッド",
+    "translation": "罗宾汉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_295_0",
+    "original": "ロビンフッド",
+    "translation": "罗宾汉",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_336_0",
+    "original": "サキミタマ",
+    "translation": "幸魂",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_337_0",
+    "original": "クシミタマ",
+    "translation": "奇魂",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_338_0",
+    "original": "ニギミタマ",
+    "translation": "和魂",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_339_0",
+    "original": "アラミタマ",
+    "translation": "荒魂",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_340_0",
+    "original": "マンドレイク",
+    "translation": "曼陀罗",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_341_0",
+    "original": "ハルパス",
+    "translation": "哈帕斯",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_342_0",
+    "original": "ヘケト",
+    "translation": "海奎特",
+    "stage": 1,
+    "context": "机翻辅助：\n\n赫克托\n\n海克特\n\n海胆"
+  },
+  {
+    "key": "text_343_0",
+    "original": "ケルピー",
+    "translation": "凯尔派",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_344_0",
+    "original": "シルキー",
+    "translation": "希路奇",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_345_0",
+    "original": "スダマ",
+    "translation": "山灵",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_346_0",
+    "original": "バイコーン",
+    "translation": "双角兽",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_347_0",
+    "original": "ビフロンス",
+    "translation": "比夫龙",
+    "stage": 1,
+    "context": "机翻辅助：\n\n毕夫隆\n\n比弗洛斯\n\n维弗洛斯"
+  },
+  {
+    "key": "text_348_0",
+    "original": "ユキジョロウ",
+    "translation": "雪女郎",
+    "stage": 0,
+    "context": "机翻辅助：\n\n雪女郎\n\n尤基乔罗\n\n雪助郎"
+  },
+  {
+    "key": "text_349_0",
+    "original": "ゴモリー",
+    "translation": "格莫瑞",
+    "stage": 0,
+    "context": "机翻辅助：\n\n格莫瑞\n\n戈莫里\n\n高莫利"
+  },
+  {
+    "key": "text_350_0",
+    "original": "アーマーン",
+    "translation": "阿米特",
+    "stage": 1,
+    "context": "机翻辅助：\n\n阿曼\n\n阿默恩"
+  },
+  {
+    "key": "text_351_0",
+    "original": "コッパテング",
+    "translation": "木叶天狗",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_352_0",
+    "original": "プリンシパリティ",
+    "translation": "权天使",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_353_0",
+    "original": "カラドリウス",
+    "translation": "医官鸟",
+    "stage": 1,
+    "context": "机翻辅助：\n\n咖喇杜力乌斯\n\n卡拉德里乌斯\n\n卡拉多留"
+  },
+  {
+    "key": "text_354_0",
+    "original": "ペレ",
+    "translation": "佩蕾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n佩蕾\n\n贝利"
+  },
+  {
+    "key": "text_355_0",
+    "original": "マヤウェル",
+    "translation": "马亚韦尔",
+    "stage": 1,
+    "context": "机翻辅助：\n\n玛雅威尔\n\n马亚韦尔"
+  },
+  {
+    "key": "text_356_0",
+    "original": "イナバシロウサギ",
+    "translation": "因幡白兔",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_357_0",
+    "original": "ナルキッソス",
+    "translation": "那耳喀索斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_358_0",
+    "original": "スレイプニル",
+    "translation": "斯雷普尼尔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_359_0",
+    "original": "ベルセルク",
+    "translation": "狂战士",
+    "stage": 1,
+    "context": "机翻辅助：\n\n巴萨卡\n\n贝尔塞尔克\n\n贝塞尔"
+  },
+  {
+    "key": "text_360_0",
+    "original": "ダンタリアン",
+    "translation": "但他林",
+    "stage": 1,
+    "context": "机翻辅助：\n\n丹塔利昂\n\n丹塔良\n\n邓丽君"
+  },
+  {
+    "key": "text_361_0",
+    "original": "ズェラロンズ",
+    "translation": "扎拉隆兹",
+    "stage": 1,
+    "context": "机翻辅助：\n\n兹拉朗兹\n\n祖拉隆斯\n\n祖拉龙"
+  },
+  {
+    "key": "text_362_0",
+    "original": "ヴィヴィアン",
+    "translation": "薇薇安",
+    "stage": 0,
+    "context": "机翻辅助：\n\n薇薇安\n\n维维安"
+  },
+  {
+    "key": "text_363_0",
+    "original": "バフォメット",
+    "translation": "巴风特",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_364_0",
+    "original": "ルーグ",
+    "translation": "鲁格",
+    "stage": 1,
+    "context": "机翻辅助：\n\n卢各\n\n罗格\n\n鲁格"
+  },
+  {
+    "key": "text_365_0",
+    "original": "ケルプ",
+    "translation": "智天使",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_366_0",
+    "original": "ハクジョウシ",
+    "translation": "白素贞",
+    "stage": 1,
+    "context": "机翻辅助：\n\n白鹤（Hakujoushi）\n\n白板\n\n白斩牛"
+  },
+  {
+    "key": "text_367_0",
+    "original": "フェンリル",
+    "translation": "芬里尔",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_368_0",
+    "original": "ハトホル",
+    "translation": "哈索尔",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哈托赫\n\n哈特霍尔\n\n齿孔"
+  },
+  {
+    "key": "text_369_0",
+    "original": "ミトラス",
+    "translation": "米特拉斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_370_0",
+    "original": "バグス",
+    "translation": "巴古斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_371_0",
+    "original": "ロンギヌス",
+    "translation": "朗基努斯",
+    "stage": 0,
+    "context": "机翻辅助：\n\n朗基努斯\n\n隆基努斯"
+  },
+  {
+    "key": "text_372_0",
+    "original": "ローレライ",
+    "translation": "罗蕾莱",
+    "stage": 1,
+    "context": "机翻辅助：\n\n罗雷莱\n\n罗蕾莱\n\n低电平"
+  },
+  {
+    "key": "text_373_0",
+    "original": "バロール",
+    "translation": "巴罗尔",
+    "stage": 1,
+    "context": "机翻辅助：\n\n巴洛鲁\n\n巴洛尔\n\n巴罗尔"
+  },
+  {
+    "key": "text_374_0",
+    "original": "ヴィーヴル",
+    "translation": "薇薇尔",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_375_0",
+    "original": "モロク",
+    "translation": "摩洛",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_376_0",
+    "original": "プロメテウス",
+    "translation": "普罗米修斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_377_0",
+    "original": "ウロボロス",
+    "translation": "乌洛波洛斯",
+    "stage": 1,
+    "context": "机翻辅助：\n\nOuroboros\n\n乌洛博罗斯\n\n衔尾蛇"
+  },
+  {
+    "key": "text_378_0",
+    "original": "ジャンヌ・ダルク",
+    "translation": "圣女贞德",
+    "stage": 0,
+    "context": "机翻辅助：\n\n圣女贞德\n\n贞德"
+  },
+  {
+    "key": "text_379_0",
+    "original": "バアル",
+    "translation": "巴力",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_380_0",
+    "original": "セイオウボ",
+    "translation": "西王母",
+    "stage": 1,
+    "context": "机翻辅助：\n\n赛王波。\n\n水獭\n\n西王宝"
+  },
+  {
+    "key": "text_381_0",
+    "original": "クドラク",
+    "translation": "库德拉克",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_382_0",
+    "original": "クルースニク",
+    "translation": "克雷斯尼克",
+    "stage": 9,
+    "context": "翻译匹配：SMTVV"
+  },
+  {
+    "key": "text_383_0",
+    "original": "ブラックマリア",
+    "translation": "黑圣母玛丽亚",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小熊莉亚\n\n布拉小熊利亚\n\n布拉克小熊利亚"
+  },
+  {
+    "key": "text_384_0",
+    "original": "セラフ",
+    "translation": "炽天使",
+    "stage": 0,
+    "context": "机翻辅助：\n\n炽天使\n\n塞拉夫\n\n塞拉赫"
+  },
+  {
+    "key": "text_385_0",
+    "original": "コウテイ",
+    "translation": "黄帝",
+    "stage": 1,
+    "context": "机翻辅助：\n\n黑铁。\n\n黄褐色\n\n皇帝"
+  },
+  {
+    "key": "text_386_0",
+    "original": "オルフェウス・賊神",
+    "translation": "俄耳甫斯·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_387_0",
+    "original": "メサイア・賊神",
+    "translation": "弥赛亚·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_388_0",
+    "original": "タナトス・賊神",
+    "translation": "塔纳托斯·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_389_0",
+    "original": "イザナギ・賊神",
+    "translation": "伊邪那岐·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_390_0",
+    "original": "マガツイザナギ賊神",
+    "translation": "祸津伊邪那岐·贼神",
+    "stage": 1,
+    "context": "机翻辅助：\n\n野鸭蛹贼神\n\n怪盗神"
+  },
+  {
+    "key": "text_391_0",
+    "original": "カグヤ・賊神",
+    "translation": "辉夜·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_392_0",
+    "original": "アリアドネ",
+    "translation": "阿里阿德涅",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_393_0",
+    "original": "アリアドネ・賊神",
+    "translation": "阿里阿德涅·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_394_0",
+    "original": "ツキヨミ",
+    "translation": "月读",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_395_0",
+    "original": "ツキヨミ・賊神",
+    "translation": "月读·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_396_0",
+    "original": "アステリオス",
+    "translation": "阿斯忒里俄斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "text_397_0",
+    "original": "アステリオス・賊神",
+    "translation": "阿斯忒里俄斯·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  }
+]

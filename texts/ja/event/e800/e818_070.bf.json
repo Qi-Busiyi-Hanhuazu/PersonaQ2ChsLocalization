@@ -1,0 +1,471 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "無事、素材を集められたようで\n何よりでございます。",
+    "translation": "無事、素材を集められたようで\n何よりでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "では早速こちらをテオに…",
+    "translation": "では早速こちらをテオに…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "たしかに受け取りました。",
+    "translation": "たしかに受け取りました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "おお、これぞまさに私が求めていた輝き…\nこれでまた新たな装備が作れそうです。",
+    "translation": "おお、これぞまさに私が求めていた輝き…\nこれでまた新たな装備が作れそうです。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_001_2",
+    "original": "腕によりをかけて開発しますので、\nしばしお待ちください。",
+    "translation": "腕によりをかけて開発しますので、\nしばしお待ちください。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "やったね！\nお店のラインナップが増えるよ。",
+    "translation": "やったね！\nお店のラインナップが増えるよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "戦力アップだ",
+    "translation": "戦力アップだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "でもお金は取るんでしょ？",
+    "translation": "でもお金は取るんでしょ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ただ、装備品は買って装備しないと\n意味ないから、そこ注意な。",
+    "translation": "ただ、装備品は買って装備しないと\n意味ないから、そこ注意な。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おっと、忘れる所でした…",
+    "translation": "おっと、忘れる所でした…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "装備は対価を頂きますが、\nこちらは私からの気持ちになります。",
+    "translation": "装備は対価を頂きますが、\nこちらは私からの気持ちになります。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "[P3P姓]様、\nどうぞお受け取りください。",
+    "translation": "[P3P姓]様、\nどうぞお受け取りください。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "指輪？　私に？",
+    "translation": "指輪？　私に？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "プロポーズか",
+    "translation": "プロポーズか",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "おめでとう",
+    "translation": "おめでとう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_2",
+    "original": "一人だけずるい",
+    "translation": "一人だけずるい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "な、なんですと！？",
+    "translation": "な、なんですと！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "でも男性から女性に指輪を贈るって\nいったら、それしかないよね？",
+    "translation": "でも男性から女性に指輪を贈るって\nいったら、それしかないよね？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ちょっと待って。そういうのは\n[P3P名]ちゃんの返事を聞いてからだよ。",
+    "translation": "ちょっと待って。そういうのは\n[P3P名]ちゃんの返事を聞いてからだよ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "で、どう？　テオドアさんの気持ち、\n受け取る？　それとも…",
+    "translation": "で、どう？　テオドアさんの気持ち、\n受け取る？　それとも…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "申し訳ないのですが、\n素材に限りがありましたので…",
+    "translation": "申し訳ないのですが、\n素材に限りがありましたので…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "素材？",
+    "translation": "素材？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "あの、\n皆さま何か誤解されているようですが…",
+    "translation": "あの、\n皆さま何か誤解されているようですが…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "こちらは岳羽様、伊織様、山岸様からの\n贈り物でございます。",
+    "translation": "こちらは岳羽様、伊織様、山岸様からの\n贈り物でございます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "え！？　みんなの？",
+    "translation": "え！？　みんなの？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "素材の欠片で何か作れないかと、\n前もって相談を頂いておりました。",
+    "translation": "素材の欠片で何か作れないかと、\n前もって相談を頂いておりました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "素材を入手した時に出たほんの欠片\nだからさ、大したものじゃないんだけど…",
+    "translation": "素材を入手した時に出たほんの欠片\nだからさ、大したものじゃないんだけど…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "綺麗だし折角ならアクセサリーに\nしてもらおうって話し合ったんです。",
+    "translation": "綺麗だし折角ならアクセサリーに\nしてもらおうって話し合ったんです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "でも、なんで私に？\n私プレゼントもらうようなことなんて何も…",
+    "translation": "でも、なんで私に？\n私プレゼントもらうようなことなんて何も…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_019_0",
+    "original": "日頃のお礼だ",
+    "translation": "日頃のお礼だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_019_1",
+    "original": "ねぎらいの気持ちだ",
+    "translation": "ねぎらいの気持ちだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_019_2",
+    "original": "仲間だからだ",
+    "translation": "仲間だからだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そういうこと。",
+    "translation": "そういうこと。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "[P3P名]が言ったんじゃん。\n仲間のために頑張るのは当然って。",
+    "translation": "[P3P名]が言ったんじゃん。\n仲間のために頑張るのは当然って。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_020_2",
+    "original": "なら、仲間のために頑張ってくれてる\n仲間をねぎらうのも当然でしょ。",
+    "translation": "なら、仲間のために頑張ってくれてる\n仲間をねぎらうのも当然でしょ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "仲間…",
+    "translation": "仲間…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "たしかに私たちはここに来る前の\n[P3P名]ちゃんのことは知りません。",
+    "translation": "たしかに私たちはここに来る前の\n[P3P名]ちゃんのことは知りません。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "でも、私は今一緒にいる[P3P名]ちゃん\nのことが好きで、もっと仲良くしたいなって。",
+    "translation": "でも、私は今一緒にいる[P3P名]ちゃん\nのことが好きで、もっと仲良くしたいなって。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ま、この指輪で少しでもその気持ちが\n伝わればなーなんて思ったわけですよ。",
+    "translation": "ま、この指輪で少しでもその気持ちが\n伝わればなーなんて思ったわけですよ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "材料、シャドウだけど。",
+    "translation": "材料、シャドウだけど。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "それは言わなくていいの！\nいちおう、綺麗なんだから！",
+    "translation": "それは言わなくていいの！\nいちおう、綺麗なんだから！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "[P3P名]ちゃん…？",
+    "translation": "[P3P名]ちゃん…？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "…ありがとう。すごく嬉しいよ。",
+    "translation": "…ありがとう。すごく嬉しいよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "ふふ、すごく綺麗だね。\nシャドウだけど。",
+    "translation": "ふふ、すごく綺麗だね。\nシャドウだけど。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "もう、それは言わない約束！",
+    "translation": "もう、それは言わない約束！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "[P3P姓]さん、\nすごく良い顔してるわね。",
+    "translation": "[P3P姓]さん、\nすごく良い顔してるわね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ああ。不可抗力とは言え\n彼女には寂しい思いをさせてたからな。",
+    "translation": "ああ。不可抗力とは言え\n彼女には寂しい思いをさせてたからな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "だが、あの顔を見れば、\nもう心配する事もなさそうだ…",
+    "translation": "だが、あの顔を見れば、\nもう心配する事もなさそうだ…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "今回はいい仕事をしましたね、テオ。",
+    "translation": "今回はいい仕事をしましたね、テオ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_031_1",
+    "original": "貴方のお客人からまた\n新たな絆の力を感じます。",
+    "translation": "貴方のお客人からまた\n新たな絆の力を感じます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "いえ、私がしたのは、\nほんのお手伝い…",
+    "translation": "いえ、私がしたのは、\nほんのお手伝い…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_032_1",
+    "original": "あれは彼ら自身の力に他なりません。",
+    "translation": "あれは彼ら自身の力に他なりません。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "フフ…\nそうですね。",
+    "translation": "フフ…\nそうですね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

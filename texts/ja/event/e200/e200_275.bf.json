@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ＧＲＲＲＲＯＯＯＯＡＮ！",
+    "translation": "ＧＲＲＲＲＯＯＯＯＡＮ！",
+    "stage": 1,
+    "context": "派手な肉食恐竜"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ハァハァハァ…",
+    "translation": "ハァハァハァ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "勢いで助けに入っちまったけど、\nこりゃ、どうすっかな…",
+    "translation": "勢いで助けに入っちまったけど、\nこりゃ、どうすっかな…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あ、ああ…怪我が…",
+    "translation": "あ、ああ…怪我が…",
+    "stage": 1,
+    "context": "気弱そうな草食恐竜"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "へっ、このくらい平気だって。\nそれよりお前、後ろ下がってろ！",
+    "translation": "へっ、このくらい平気だって。\nそれよりお前、後ろ下がってろ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なんで、こんな危険なこと…",
+    "translation": "なんで、こんな危険なこと…",
+    "stage": 1,
+    "context": "気弱そうな草食恐竜"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "なんでって、そりゃあ…",
+    "translation": "なんでって、そりゃあ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "陽介！　大丈夫か！？",
+    "translation": "陽介！　大丈夫か！？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_派手な肉食恐竜",
+    "original": "派手な肉食恐竜",
+    "translation": "派手な肉食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_気弱そうな草食恐竜",
+    "original": "気弱そうな草食恐竜",
+    "translation": "気弱そうな草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

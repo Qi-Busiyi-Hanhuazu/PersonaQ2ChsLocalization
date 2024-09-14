@@ -1,0 +1,282 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "いささか簡単すぎましたでしょうか？\nまさに秒殺しの完封フィニッシュ。",
+    "translation": "いささか簡単すぎましたでしょうか？\nまさに秒殺しの完封フィニッシュ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "戦力の充実と、皆様の成長を垣間見られる\n痛快な作品でございました。",
+    "translation": "戦力の充実と、皆様の成長を垣間見られる\n痛快な作品でございました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "それでは、報酬をお納め下さい。\n次回も期待しております。",
+    "translation": "それでは、報酬をお納め下さい。\n次回も期待しております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "データの収集もバッチリであります。\n皆さん、ご協力ありがとうございました。",
+    "translation": "データの収集もバッチリであります。\n皆さん、ご協力ありがとうございました。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "はは、せっかくこんだけ集まってんだ。\nどんどん頼ってくれって。",
+    "translation": "はは、せっかくこんだけ集まってんだ。\nどんどん頼ってくれって。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ありがとう、すごく心強いよ。\nあれだけ苦労したのがウソみたいだ。",
+    "translation": "ありがとう、すごく心強いよ。\nあれだけ苦労したのがウソみたいだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "そういや、[P3名]たちって\nはぐれた後、どうしてたんだ？",
+    "translation": "そういや、[P3名]たちって\nはぐれた後、どうしてたんだ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ああ…召喚器を落としちゃったのは\nさすがに参ったよ。",
+    "translation": "ああ…召喚器を落としちゃったのは\nさすがに参ったよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "逃げながら戦って…気付いたら\nだいぶ奥まで追い込まれていた。",
+    "translation": "逃げながら戦って…気付いたら\nだいぶ奥まで追い込まれていた。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "無事でよかった",
+    "translation": "無事でよかった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "大変だったな",
+    "translation": "大変だったな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ありがとう、あの時は本当に助かった。\n間一髪のところだったから。",
+    "translation": "ありがとう、あの時は本当に助かった。\n間一髪のところだったから。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "しかし、たった二人でよく切り抜けてくれた。\nさすが君としか言いようがないな。",
+    "translation": "しかし、たった二人でよく切り抜けてくれた。\nさすが君としか言いようがないな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "もちろん、アイギスも。\nいつも苦労をかけるが、この先も頼むぞ。",
+    "translation": "もちろん、アイギスも。\nいつも苦労をかけるが、この先も頼むぞ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "はい、もちろんです！\n皆さんの力になれるよう、全力を尽くします！",
+    "translation": "はい、もちろんです！\n皆さんの力になれるよう、全力を尽くします！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "それにしても…アイギスさんを作ったのは\n桐条グループなんですよね？",
+    "translation": "それにしても…アイギスさんを作ったのは\n桐条グループなんですよね？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "…まあ、そういうことになるな。",
+    "translation": "…まあ、そういうことになるな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "僕らには想像もつかない技術力ですね。\nアイギスさんは人間そのものだ。",
+    "translation": "僕らには想像もつかない技術力ですね。\nアイギスさんは人間そのものだ。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "さらにペルソナまで扱えるなんて、\nいったいどんな研究を…？",
+    "translation": "さらにペルソナまで扱えるなんて、\nいったいどんな研究を…？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "それは、話せば長くなるが…",
+    "translation": "それは、話せば長くなるが…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "……？",
+    "translation": "……？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "にひひ、そういう難しいことは気にするな！\nロボ子は萌える！　それでおＫだ！",
+    "translation": "にひひ、そういう難しいことは気にするな！\nロボ子は萌える！　それでおＫだ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "もえ、る…？　おけー…？",
+    "translation": "もえ、る…？　おけー…？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "データにありません、どういった意味でしょう？",
+    "translation": "データにありません、どういった意味でしょう？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "はは…アイギスはすごいって、\n褒めてくれてるってことだと思うよ。",
+    "translation": "はは…アイギスはすごいって、\n褒めてくれてるってことだと思うよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "とにかく、またお世話になったね。\nアイギスの頼みに付き合ってくれて、ありがとう。",
+    "translation": "とにかく、またお世話になったね。\nアイギスの頼みに付き合ってくれて、ありがとう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "SEL_019_0",
+    "original": "お安い御用だ",
+    "translation": "お安い御用だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_019_1",
+    "original": "仲間なら当然だ",
+    "translation": "仲間なら当然だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "はは、さすがはリーダーだね。\nそういう懐の深さは、僕も見習いたいな。",
+    "translation": "はは、さすがはリーダーだね。\nそういう懐の深さは、僕も見習いたいな。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "わたしも『もえ』で『おけー』になれる\nよう、今後ともフルスロットルで参ります！",
+    "translation": "わたしも『もえ』で『おけー』になれる\nよう、今後ともフルスロットルで参ります！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "力を合わせて必ず脱出しよう。\nこれから、改めてよろしく。",
+    "translation": "力を合わせて必ず脱出しよう。\nこれから、改めてよろしく。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

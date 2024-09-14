@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "おっと！　オタカラスポット！\n採っちゃう？　採っちゃう？",
+    "translation": "おっと！　オタカラスポット！\n採っちゃう？　採っちゃう？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おう！\n気は抜かないぜ！",
+    "translation": "おう！\n気は抜かないぜ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "んじゃ専念するぜ！\n任せとけ！",
+    "translation": "んじゃ専念するぜ！\n任せとけ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "お？　止めとく？\n了解了解！",
+    "translation": "お？　止めとく？\n了解了解！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全部だぜ！",
+    "translation": "これで全部だぜ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いいじゃん。",
+    "translation": "いいじゃん。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ほほー。",
+    "translation": "ほほー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "おっ。",
+    "translation": "おっ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "び、びびったぜ…\nとにかく採取はカンペキだな！",
+    "translation": "び、びびったぜ…\nとにかく採取はカンペキだな！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "レアゲットだぜ！",
+    "translation": "レアゲットだぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "マジか！！",
+    "translation": "マジか！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "来たー！",
+    "translation": "来たー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "おっと、近道発見！\nどうするよ？",
+    "translation": "おっと、近道発見！\nどうするよ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないかー。",
+    "translation": "こっちは通れないかー。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "なぁ…ここヤバいよな？\n絶対に出ちゃう系だよな？",
+    "translation": "なぁ…ここヤバいよな？\n絶対に出ちゃう系だよな？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "マジ！？\nよ、よし！　調べるぞ？",
+    "translation": "マジ！？\nよ、よし！　調べるぞ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "だよな、止めとこうぜ。\n順平、危うきに近寄らず！",
+    "translation": "だよな、止めとこうぜ。\n順平、危うきに近寄らず！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "やっべ、強すぎだろ…\n採取も命がけだな。",
+    "translation": "やっべ、強すぎだろ…\n採取も命がけだな。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここ、シャドウの気配多くね？\nどうするよ？",
+    "translation": "ここ、シャドウの気配多くね？\nどうするよ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "おっし！　気をつけて調べようぜ！",
+    "translation": "おっし！　気をつけて調べようぜ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "お？　止めとくか。",
+    "translation": "お？　止めとくか。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "おっし！　これで終わりだな！",
+    "translation": "おっし！　これで終わりだな！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "おっと、こっから映画館戻れるぜー？\nどうすんよ？",
+    "translation": "おっと、こっから映画館戻れるぜー？\nどうすんよ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  }
+]

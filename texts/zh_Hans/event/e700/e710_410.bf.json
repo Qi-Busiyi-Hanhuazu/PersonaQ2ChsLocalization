@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ダメだ、ジョーカー！",
+    "translation": "不行，JOKER！",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n不行啊，JOKER！\n\n不行，JOKER！\n\n不行，JOKER ！"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "…焦る気持ちは分かるけど、\n今のまま戦っても勝ち目は無い。",
+    "translation": "……虽然我能理解你急躁的心情，\n但现在这样继续战斗也没有胜算。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n……我明白你焦急的心情，\n但以现在这样战斗的话，没有胜算。\n\n……虽然明白焦急的心情，但是像现在这样战斗也没有胜算。\n\n\n……焦急的心情我能理解，但现在这样战斗也没有胜算。"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "二人を心配する気持ちも理解できるけど\nここは冷静になってくれ。",
+    "translation": "我也知道你很担心她们\n但是现在还是先冷静一下。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n我也能理解你担心她们的心情\n但你先冷静下来吧。\n\n我能理解你担心两个人的心情，但这里你要冷静。\n\n\n虽然也能理解担心两人的心情，但是请冷静下来。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "悔しいけど、クロウの言う通りだぜ。",
+    "translation": "虽然我也很不甘心，但CROW说得没错。",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n虽然不甘心，但CROW说得没错。\n\n虽然不甘心，但正如CROW所说。"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "クイーンとノワールを助けるためにも\n今は退くしかねぇって！　な！？",
+    "translation": "为了能救出QUEEN和NOIR\n我们现在只能先撤退了！走吧！？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n为了救出QUEEN和NOIR\n现在只能撤退了！好吗！？\n\n为了帮助QUEEN和NOIR\n现在只能退了！啊！？\n\n为了帮助QUEEN和NOIR，现在只能退出了！的！？"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

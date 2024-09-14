@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_get_on_foe_look_0",
+    "original": "＞FOEがせりに乗っているのを見る",
+    "translation": "＞看到FOE站在升降台上",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞看见FOE坐在香菇上。\n\n＞看到FOE坐在拱上\n\n＞看到FOE骑在船尾上"
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "好像有什么埋在里面……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像有什么埋在里面……\n\n好像埋了什么……\n\n好像埋着什么……"
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "好像有什么埋在里面，\n但背包已经装满了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像有什么埋在里面，\n背包里已经装满了……\n\n好像有什么东西被填满了，\n包里满满的……\n\n好像有什么东西被埋了……"
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理一下再来吧……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n整理一下再来吧……\n\n整理之后再来吧……"
+  }
+]

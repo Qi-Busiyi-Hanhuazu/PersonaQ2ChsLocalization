@@ -1,0 +1,37 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "目的地へたどり着け！",
+    "translation": "抵达目的地！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n抵达目的地！\n\n到达目的地！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "扉のセキュリティを解け",
+    "translation": "解除门的安保系统",
+    "stage": 0,
+    "context": "机翻辅助：\n\n解除门的安保系统\n\n解除门的安全\n\n打开门上的安全装置"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "目的地へ向かえ",
+    "translation": "向目的地进发",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往目的地\n\n向目的地前进"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "道を選択し目的地へ向かえ",
+    "translation": "选择道路，向目的地进发",
+    "stage": 1,
+    "context": "机翻辅助：\n\n选择道路前往目的地\n\n选择道路，朝着目的地前进。"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_4_0",
+    "original": "先へ向かおう",
+    "translation": "往前进发吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n往前进吧\n\n向前走吧\n\n往前走吧"
+  }
+]

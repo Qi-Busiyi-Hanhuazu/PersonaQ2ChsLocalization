@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "あ！　ここ採取出来るみたい！\nどうしよっか？",
+    "translation": "あ！　ここ採取出来るみたい！\nどうしよっか？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "オーケー！\n周りに気をつけて探そう！",
+    "translation": "オーケー！\n周りに気をつけて探そう！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "分かった！\n集中して探すね！",
+    "translation": "分かった！\n集中して探すね！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "危ないかもしれないしね。\nまた、気が向いたら探してみよっか。",
+    "translation": "危ないかもしれないしね。\nまた、気が向いたら探してみよっか。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全部みたいだね。",
+    "translation": "これで全部みたいだね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ゲーット！",
+    "translation": "ゲーット！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うわぁ！",
+    "translation": "うわぁ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん！",
+    "translation": "うん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "び、びっくりした…\nもう終わりにしておこ？",
+    "translation": "び、びっくりした…\nもう終わりにしておこ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "凄くない！？",
+    "translation": "凄くない！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "テンション上がる！",
+    "translation": "テンション上がる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "イェーイ！",
+    "translation": "イェーイ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あ！　近道できそう！\nどうする？　通る？",
+    "translation": "あ！　近道できそう！\nどうする？　通る？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないみたいだね…",
+    "translation": "こっちは通れないみたいだね…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ね、ここヤバくない？\nなんか嫌な気配がするんだけど…",
+    "translation": "ね、ここヤバくない？\nなんか嫌な気配がするんだけど…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "う、うん。分かった。",
+    "translation": "う、うん。分かった。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだね。\n止めておこっか。",
+    "translation": "そうだね。\n止めておこっか。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ふう…どうなることかと思った。\nすごく強かったね。",
+    "translation": "ふう…どうなることかと思った。\nすごく強かったね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここ、シャドウの気配ヤバくない？\nどうしよっか？",
+    "translation": "ここ、シャドウの気配ヤバくない？\nどうしよっか？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "分かった。\n気をつけて探そ！",
+    "translation": "分かった。\n気をつけて探そ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだね。\n止めておこっか。",
+    "translation": "そうだね。\n止めておこっか。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ふう…危なかったね。",
+    "translation": "ふう…危なかったね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "これ映画館に戻る所だよね？\n戻る？",
+    "translation": "これ映画館に戻る所だよね？\n戻る？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

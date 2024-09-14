@@ -1,0 +1,268 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "採取可能な箇所であります。\nどうしますか？",
+    "translation": "这里可以进行采集。\n您要怎么做？",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n这是可以采集的地点。\n要怎么做？\n\n是可以采集的地方。\n怎么办？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "了解であります。\n用心しながら探します。",
+    "translation": "了解。\n我会谨慎地探索。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n了解。\n小心地寻找。\n\n明白了。\n一边小心一边寻找。\n\n明白了。小心翼翼地寻找。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "了解しました。\nなりふり構わず探します。",
+    "translation": "明白了。\n我会不顾一切进行探索。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n知道了。\n不管三七二十一地寻找。\n\n明白了。\n不修边幅地寻找。\n\n明白了。不管身份如何都要找。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "了解であります。",
+    "translation": "了解。",
+    "stage": 0,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n了解。\n\n明白了。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "根こそぎ終了であります。",
+    "translation": "彻底结束了。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n全部挖光。\n\n连根拔起结束了。\n\n彻底结束了。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ゲットであります。",
+    "translation": "到手了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n取得。\n\n是得到的。\n\n得到了。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "こんなん出ました。",
+    "translation": "找到了这样的东西。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n挖到这种东西。\n\n这样出来了。\n\n出困难了。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "なるほどなー。",
+    "translation": "是这样啊——",
+    "stage": 1,
+    "context": "机翻辅助：\n\n原来如此啊。\n\n原来如此。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "敵の妨害がありました。\n採取はここまでであります。",
+    "translation": "敌人进行了干扰。\n采集工作到此结束。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n有敌人妨碍。\n采集到此为止。\n\n有敌人的妨碍。\n采集到此为止。\n\n有敌人的妨碍。采集到此为止。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "掘り出し物です。",
+    "translation": "是意外的发现呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n挖到宝了。\n\n是挖出来的东西。\n\n是挖掘出来的东西。"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "やったぜであります！",
+    "translation": "您太棒了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太棒啦！\n\n太好了！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "拍手であります！",
+    "translation": "为您鼓掌！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n鼓掌！\n\n鼓掌了！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカット発見です。\nどうしますか？",
+    "translation": "发现了捷径。\n您要怎么做？",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n发现捷径。\n要怎么做？\n\n快捷方式发现。\n怎么办？\n\n发现快捷方式。\n怎么办？"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ショートカット発見です。\nどうしますか？",
+    "translation": "发现了捷径。\n您要怎么做？",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n发现捷径。\n要怎么做？\n\n快捷方式发现。\n怎么办？\n\n发现快捷方式。\n怎么办？"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ショートカット発見です。\nどうしますか？",
+    "translation": "发现了捷径。\n您要怎么做？",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n发现捷径。\n要怎么做？\n\n快捷方式发现。\n怎么办？\n\n发现快捷方式。\n怎么办？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こちらは通れないようであります。",
+    "translation": "这里似乎不能通行。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n这边好像不能走。\n\n这边好像不能通过。\n\n这里似乎无法通过。"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "こちらからは通れないようであります。",
+    "translation": "这边好像走不通。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n这边好像不能走。\n\n从这里好像不能通过。\n\n从这边好像无法通过。"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "こちらからは通れないようであります。",
+    "translation": "这边好像走不通。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n这边好像不能走。\n\n从这里好像不能通过。\n\n从这边好像无法通过。"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "超強力な敵反応です。\n覚悟が必要であります。",
+    "translation": "出现了非常强力的敌人反应。\n需要做好准备。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n有超强力的敌人反应。\n需要做好觉悟。\n\n是超强的敌人反应。\n需要做好心理准备。\n\n超强的敌人反应。有必要做好心理准备。"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "了解であります。\n戦闘態勢！",
+    "translation": "了解。\n战斗准备！",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n了解。\n战斗态势！\n\n明白了。\n战斗态势！"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "危うきになんとやら…でありますね。",
+    "translation": "真是相当危险……的情况。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n所谓危险的场所，就是指这种地方吧。\n\n真是危险啊。\n\n危险的是什么……是啊。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "かなりの強敵でありましたね。\n無事に帰還できました。",
+    "translation": "对手相当强大啊。\n幸好能够平安归来。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n那里的敌人相当强大呢。\n我们平安归来了。\n\n是相当的强敌呢。\n平安归来了。\n\n是相当强劲的对手。平安归来了。"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "シャドウの反応が強いであります。\nどうしますか？",
+    "translation": "暗影的反应很强。\n您要怎么办？",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n暗影的反应很强烈。\n要怎么做？\n\n反光的反应很强。\n怎么办？\n\n暗影的反应很强。\n怎么办？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "了解であります！\n周囲警戒！",
+    "translation": "了解！\n警惕四周！",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n了解！\n警戒周围！\n\n明白了！\n周围警戒！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "了解。\n態勢を立て直すであります。",
+    "translation": "了解。\n我将重新调整状态。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n了解。\n重整态势。\n\n明白。\n重整态势。\n\n明白了。我要重整旗鼓。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "安全を確保しました。\n油断大敵でありますね。",
+    "translation": "已确认四周安全。\n万万不可大意。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n确保安全了。\n千万不能大意呢。\n\n确保了安全。\n疏忽大意是大敌啊。\n\n确保了安全。真是无情大敌啊。"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "映画館に戻るでありますか？",
+    "translation": "您要回电影院吗？",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n要回电影院吗？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "埃癸斯",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

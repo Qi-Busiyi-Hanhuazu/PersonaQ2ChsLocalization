@@ -1,0 +1,205 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ねえ、りせちゃん！\n道はこっちでいいの？",
+    "translation": "ねえ、りせちゃん！\n道はこっちでいいの？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん、大丈夫だよ。\nこのまま、真っ直ぐ進んで。",
+    "translation": "うん、大丈夫だよ。\nこのまま、真っ直ぐ進んで。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "んん～？\nねえ、あそこになんかあるよ？",
+    "translation": "んん～？\nねえ、あそこになんかあるよ？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おいおい！　んだ、こりゃ…\n木が倒れて進めねーじゃねーか！？",
+    "translation": "おいおい！　んだ、こりゃ…\n木が倒れて進めねーじゃねーか！？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ジョーカー、見てくれ。",
+    "translation": "ジョーカー、見てくれ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "この木の根元…\n恐竜の爪痕がついてる…",
+    "translation": "この木の根元…\n恐竜の爪痕がついてる…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "まだ新しい",
+    "translation": "まだ新しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "恐竜？",
+    "translation": "恐竜？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ああ、どうやら\n僕らは相当、嫌われてしまったようだね。",
+    "translation": "ああ、どうやら\n僕らは相当、嫌われてしまったようだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "なんですと！　ましゃか、わざと\nクマたちの行く手を邪魔してるクマ！？",
+    "translation": "なんですと！　ましゃか、わざと\nクマたちの行く手を邪魔してるクマ！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "…なして？",
+    "translation": "…なして？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ああ、この爪痕はまだ新しいし…\nわざと道をふさいだみたいだね。",
+    "translation": "ああ、この爪痕はまだ新しいし…\nわざと道をふさいだみたいだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "うーん、来て欲しくないってこと？",
+    "translation": "うーん、来て欲しくないってこと？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "だからって、ここまで来て\n引き下がるわけにはいかねーっスよ！",
+    "translation": "だからって、ここまで来て\n引き下がるわけにはいかねーっスよ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "しかし、流石は恐竜ですね。\nこんな風に大木をなぎ倒せるんですから。",
+    "translation": "しかし、流石は恐竜ですね。\nこんな風に大木をなぎ倒せるんですから。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そう言われてみりゃ、そうだな。\nキレさせたらヤベェかも…",
+    "translation": "そう言われてみりゃ、そうだな。\nキレさせたらヤベェかも…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "腐っても鯛、草食でも恐竜…\nってところかしら。",
+    "translation": "腐っても鯛、草食でも恐竜…\nってところかしら。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "こりゃ、面倒だけど\n他の道を探してみるしかねーな。",
+    "translation": "こりゃ、面倒だけど\n他の道を探してみるしかねーな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  }
+]

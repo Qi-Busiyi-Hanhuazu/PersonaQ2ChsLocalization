@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なるほど、敵というのは…あれか。",
+    "translation": "なるほど、敵というのは…あれか。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "先輩、あいつ…強いよ！\n負けないで！",
+    "translation": "先輩、あいつ…強いよ！\n負けないで！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "心配ない。\nジョーカーたちもついている。",
+    "translation": "心配ない。\nジョーカーたちもついている。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "任せたぞ",
+    "translation": "任せたぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "頼りにしてる",
+    "translation": "頼りにしてる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ああ、俺も全力を尽くす。\n必ず勝とう！",
+    "translation": "ああ、俺も全力を尽くす。\n必ず勝とう！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  }
+]

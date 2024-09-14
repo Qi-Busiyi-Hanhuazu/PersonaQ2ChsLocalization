@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "見つけた！",
+    "translation": "找到了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n找到了！"
+  },
+  {
+    "key": "MSG_000_1_0",
+    "original": "あとはフィルムを…",
+    "translation": "接下来只要把胶片……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n接下来只要换掉胶片……\n\n然后把胶片……"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やはり、一筋縄では\nいかないようだな…！",
+    "translation": "果然，\n一般的办法行不通啊……！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n果然\n没那么容易啊……！\n\n还是，用普通的办法\n好像不去……！\n\n果然，用一般的方法是行不通的……！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "フン…",
+    "translation": "哼……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哼……"
+  },
+  {
+    "key": "MSG_002_1_0",
+    "original": "邪魔をする奴は、叩きのめすまで。",
+    "translation": "妨碍我的家伙，就要打倒。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n妨碍我的家伙，就该打倒。\n\n妨碍的人，连敲的手术刀都没有。\n\n捣乱的家伙，直到打倒为止。"
+  },
+  {
+    "key": "MSG_002_2_0",
+    "original": "行くぞ！",
+    "translation": "上吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n上吧！\n\n走吧！"
+  }
+]

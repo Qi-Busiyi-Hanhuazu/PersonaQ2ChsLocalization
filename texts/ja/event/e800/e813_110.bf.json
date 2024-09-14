@@ -1,0 +1,464 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ポップコーンをロビーに仕掛け、\n物陰で張り込むことにした…",
+    "translation": "ポップコーンをロビーに仕掛け、\n物陰で張り込むことにした…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "なるほど、これがウワサの\nあぶりサーモンってやつですな！",
+    "translation": "なるほど、これがウワサの\nあぶりサーモンってやつですな！",
+    "stage": 1,
+    "context": "熊田"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ええっと…あぶり出しのことですか？",
+    "translation": "ええっと…あぶり出しのことですか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "しっ…来たよ。",
+    "translation": "しっ…来たよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_2_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "クマ？"
+  },
+  {
+    "key": "MSG_003_4_0",
+    "original": "やっぱり…\n現行犯で確保しましょう。",
+    "translation": "やっぱり…\n現行犯で確保しましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ちょっとちょっとー！\nクマの着ぐるみで何しちゃってるの！",
+    "translation": "ちょっとちょっとー！\nクマの着ぐるみで何しちゃってるの！",
+    "stage": 1,
+    "context": "熊田"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "これ以上の悪行は許さんですし！",
+    "translation": "これ以上の悪行は許さんですし！",
+    "stage": 1,
+    "context": "熊田"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "……ッ！？",
+    "translation": "……ッ！？",
+    "stage": 1,
+    "context": "クマ？"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "やっと尻尾を捕まえましたよ。",
+    "translation": "やっと尻尾を捕まえましたよ。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "状況を踏まえれば、答えは一つ。\nそう、その中に入っているのは…",
+    "translation": "状況を踏まえれば、答えは一つ。\nそう、その中に入っているのは…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "カロリーヌとジュスティーヌ！",
+    "translation": "カロリーヌとジュスティーヌ！",
+    "stage": 1,
+    "context": "明智・直斗"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ぐ、ぐぬぬ…！\nなぜバレた！？",
+    "translation": "ぐ、ぐぬぬ…！\nなぜバレた！？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "全ては状況証拠…",
+    "translation": "全ては状況証拠…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "ですが、消去法で考えれば\n残るのは貴方たちだけです。",
+    "translation": "ですが、消去法で考えれば\n残るのは貴方たちだけです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "まず、エリザベスさんとテオドアさん…",
+    "translation": "まず、エリザベスさんとテオドアさん…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "春が着ぐるみを見つけるまで\n[P5名]と一緒にいた二人は白だ。",
+    "translation": "春が着ぐるみを見つけるまで\n[P5名]と一緒にいた二人は白だ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "次に、マーガレットさんは\n騒ぎが起こった時は試写室にいました。",
+    "translation": "次に、マーガレットさんは\n騒ぎが起こった時は試写室にいました。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "着ぐるみと対面しているマリーさんも、\n候補でないのは明らかです。",
+    "translation": "着ぐるみと対面しているマリーさんも、\n候補でないのは明らかです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "そうなると、残るは君たちしかいない…\nというわけだね。",
+    "translation": "そうなると、残るは君たちしかいない…\nというわけだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "単独犯かどうかは、クマくんの\n着ぐるみがヒントになりました。",
+    "translation": "単独犯かどうかは、クマくんの\n着ぐるみがヒントになりました。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "小柄な二人では、どう頑張っても\n一人では着ぐるみを動かせませんからね。",
+    "translation": "小柄な二人では、どう頑張っても\n一人では着ぐるみを動かせませんからね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_015_2",
+    "original": "不自然な歩き方をしていたのは、\n二人が肩車をしていたからだったんですね。",
+    "translation": "不自然な歩き方をしていたのは、\n二人が肩車をしていたからだったんですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_015_2_0",
+    "original": "まさか、クマの着ぐるみの中で\n二人羽織してたとは…",
+    "translation": "まさか、クマの着ぐるみの中で\n二人羽織してたとは…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_015_2_1",
+    "original": "二人だけ楽しそうでずるいクマー！\nクマも一緒にやってみたかったクマ！",
+    "translation": "二人だけ楽しそうでずるいクマー！\nクマも一緒にやってみたかったクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "カロリーヌ、これはもう\n言い逃れは出来ない状況かと。",
+    "translation": "カロリーヌ、これはもう\n言い逃れは出来ない状況かと。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "う、うぬぬ…",
+    "translation": "う、うぬぬ…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "どうしてこんなことを？",
+    "translation": "どうしてこんなことを？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ポップコーンの噂を聞いて、\nカロリーヌがどうしても食べたいと…",
+    "translation": "ポップコーンの噂を聞いて、\nカロリーヌがどうしても食べたいと…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ジュスティーヌだって\n興味津々だっただろうが！？",
+    "translation": "ジュスティーヌだって\n興味津々だっただろうが！？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "そ、それに、テオドアが過去最高傑作\nなどとのたまうから…",
+    "translation": "そ、それに、テオドアが過去最高傑作\nなどとのたまうから…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "新作のポップコーンは材料がなくて、\nそんなに数が出来ないと知りました。",
+    "translation": "新作のポップコーンは材料がなくて、\nそんなに数が出来ないと知りました。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "ただ、食べられないと知れば知るほど\n欲求は強くなるばかり…",
+    "translation": "ただ、食べられないと知れば知るほど\n欲求は強くなるばかり…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_021_2",
+    "original": "…と、カロリーヌが言うので。",
+    "translation": "…と、カロリーヌが言うので。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_021_2_0",
+    "original": "だから、私だけのせいにするなっ！",
+    "translation": "だから、私だけのせいにするなっ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_021_4_0",
+    "original": "そうこう悩む私たちの前に現れたのが、\nあのクマの着ぐるみでした。",
+    "translation": "そうこう悩む私たちの前に現れたのが、\nあのクマの着ぐるみでした。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "SEL_022_0",
+    "original": "出来心だったのか",
+    "translation": "出来心だったのか",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_022_1",
+    "original": "着ぐるみさえなければ…",
+    "translation": "着ぐるみさえなければ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ええ、あの着ぐるみはまるで我々に\n『着ろ』とささやくかのようでした。",
+    "translation": "ええ、あの着ぐるみはまるで我々に\n『着ろ』とささやくかのようでした。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "つまり、君たちも着ぐるみに\n狂わされた被害者だった、と…",
+    "translation": "つまり、君たちも着ぐるみに\n狂わされた被害者だった、と…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "え、ちょおぉっ？　クマのせいクマ！？",
+    "translation": "え、ちょおぉっ？　クマのせいクマ！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "うぅ…\nここまで大ごとにする気はなかったんだ。",
+    "translation": "うぅ…\nここまで大ごとにする気はなかったんだ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "肩車では、上手く着ぐるみを操れなくて…\nすまなかった…",
+    "translation": "肩車では、上手く着ぐるみを操れなくて…\nすまなかった…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ええ。\n騒がせてしまい、申し訳ありません…",
+    "translation": "ええ。\n騒がせてしまい、申し訳ありません…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "素直になれない乙女心、\nクマには分かるクマよ！",
+    "translation": "素直になれない乙女心、\nクマには分かるクマよ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "…というわけで、じゃじゃーん！",
+    "translation": "…というわけで、じゃじゃーん！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_028_2",
+    "original": "テオに用意してもらいましたクマ！",
+    "translation": "テオに用意してもらいましたクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_028_2_0",
+    "original": "そ、それは…！",
+    "translation": "そ、それは…！",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_028_4_0",
+    "original": "くれるのかっ！？",
+    "translation": "くれるのかっ！？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_028_6_0",
+    "original": "プレゼント・フォー・ユー！\n嬉しいは、みんなで分けっこクマ！",
+    "translation": "プレゼント・フォー・ユー！\n嬉しいは、みんなで分けっこクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "もぐもぐもぐ…むぐぐっ！",
+    "translation": "もぐもぐもぐ…むぐぐっ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "こ、この味は…なんて衝撃的なんだ！",
+    "translation": "こ、この味は…なんて衝撃的なんだ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "とても刺激的です…\n先ほどから…もぐ…手が止まりません。",
+    "translation": "とても刺激的です…\n先ほどから…もぐ…手が止まりません。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "皆にも配って、仲直りするクマ！\n行くクマよー！",
+    "translation": "皆にも配って、仲直りするクマ！\n行くクマよー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "うっ…その、なんだ…\nありがとうな。",
+    "translation": "うっ…その、なんだ…\nありがとうな。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_032_2_0",
+    "original": "私からも、改めてお礼を…\nありがとうございました。",
+    "translation": "私からも、改めてお礼を…\nありがとうございました。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "フフッ、一件落着…かな？",
+    "translation": "フフッ、一件落着…かな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ええ、良かったですね。\nでは、僕たちも報告に行きましょうか。",
+    "translation": "ええ、良かったですね。\nでは、僕たちも報告に行きましょうか。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "speaker_熊田",
+    "original": "熊田",
+    "translation": "熊田",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ？",
+    "original": "クマ？",
+    "translation": "クマ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智・直斗",
+    "original": "明智・直斗",
+    "translation": "明智・直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  }
+]

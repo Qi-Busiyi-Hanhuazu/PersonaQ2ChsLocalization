@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "やったよ、倒したね！",
+    "translation": "やったよ、倒したね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_000_1_0",
+    "original": "ジョーカー、大活躍だったね。\nまさに主役って感じだった！",
+    "translation": "ジョーカー、大活躍だったね。\nまさに主役って感じだった！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あら？　これは…？",
+    "translation": "あら？　これは…？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "足元に何かが落ちている…",
+    "translation": "足元に何かが落ちている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "さっきの奴が落としたらしいな。",
+    "translation": "さっきの奴が落としたらしいな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これ、フィルムじゃないかしら？\nずいぶん煤けてるけど。",
+    "translation": "これ、フィルムじゃないかしら？\nずいぶん煤けてるけど。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "よくわからんが、\n戦利品として頂いておこうぜ。",
+    "translation": "よくわからんが、\n戦利品として頂いておこうぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "『煤けたフィルム』を手に入れた！",
+    "translation": "『煤けたフィルム』を手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "これで目的は達成ね。\n戻って報告しましょう。",
+    "translation": "これで目的は達成ね。\n戻って報告しましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  }
+]

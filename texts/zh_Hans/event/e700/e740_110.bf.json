@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おわっ！？　んじゃ、こりゃ…穴？",
+    "translation": "哦哇！？那这是……洞？",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n哦哇！？那么，这是……洞？\n\n哇！？那么，这是……洞？\n\n完了！？那，这是……孔？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ってか、切り株に…鼻！？",
+    "translation": "是说，树桩上……有鼻子！？",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n话说，树桩上……有鼻子！？\n\n话说回来，在树桩上……鼻子！？\n\n对了，树桩……鼻子！？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そして、ここにー…クマ！？",
+    "translation": "而且，这里有……小熊！？",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n然后，这里……有熊熊！？\n\n然后，在这里……熊熊！？\n\n然后，可可……熊熊！？"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "まったく関係ねーよ！",
+    "translation": "完全无关吧！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n完全没关系吧！\n\n完全没有关系！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ここからだと詳細は不明ですが、\nあの鼻は、何かの仕掛けかもしれませんね。",
+    "translation": "从这里看不清细节，\n不过那个鼻子可能是某种机关吧。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n从这里看不清楚细节，不过\n那个鼻子可能是某种机关。\n\n从这里开始的话详细情况不明，不过，那个鼻子，可能是什么机关吧。\n\n\n从这里详细情况不明，不过，那个鼻子，说不定是什么装置。"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "[颜色 03]鼻を操作するスイッチ的なもの[颜色 01]、とか…",
+    "translation": "[颜色 03]像是操作鼻子的开关[颜色 01]之类的……",
+    "stage": 0,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n[颜色 03]像是操作鼻子的开关[颜色 01]之类的……\n\n[颜色 03]操纵鼻子的开关式的东西[颜色 01]，之类的……\n\n[颜色 03]操作鼻子的开关性的东西[颜色 01]，之类的……"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "鼻？",
+    "translation": "鼻子？",
+    "stage": 0,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n鼻子？"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ハナ？",
+    "translation": "bi zi？",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n鼻？\n\n花？"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ハナって、あの鼻？",
+    "translation": "bi zi，是说那个鼻子？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n鼻，那个鼻子？\n\n那个鼻子？\n\n鼻子是指那个鼻子吗？"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "鼻だ",
+    "translation": "是鼻子",
+    "stage": 1,
+    "context": "机翻辅助：\n\n鼻子啊\n\n鼻子"
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "長い鼻だ",
+    "translation": "长鼻子",
+    "stage": 1,
+    "context": "机翻辅助：\n\n长鼻子啊\n\n长鼻子"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "つーか、おめーらも何なんだよ！？\n鼻ハナ気持ちワリイな！",
+    "translation": "是说你们也是，在干嘛啊！？\n一直鼻子鼻子的很恶心啦！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n话说，你们又是怎样啊！？\n鼻子鼻好恶心哦！\n\n喂，你们也是什么啊！？\n鼻子好舒服啊！\n\n你是什么人啊？？鼻子很舒服啊！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ここからでは推測の域を出ません。\n穴に気をつけて、近づいて見てみましょう。",
+    "translation": "从这里看还做不了推测。\n小心洞穴，试着靠近看看吧。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n从这里只能推测。\n小心洞穴，靠近看看吧。\n\n从这里不出推测的范围。\n注意洞穴，试着靠近看看吧。\n\n从这里就只能推测了。小心洞口，走近看看吧。"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊织 顺平",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "小熊",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白钟 直斗",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

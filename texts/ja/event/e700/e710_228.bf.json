@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ちょっと待って！",
+    "translation": "ちょっと待って！",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あ？　んだよ！？\n早く進まねぇと…",
+    "translation": "あ？　んだよ！？\n早く進まねぇと…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あれを見てくれ。",
+    "translation": "あれを見てくれ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ライト？",
+    "translation": "ライト？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "なんであんなでけぇのが\nこんな所にあんだ？",
+    "translation": "なんであんなでけぇのが\nこんな所にあんだ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "恐らく、[颜色 03]サーチライト[颜色 01]だと思う。",
+    "translation": "恐らく、[颜色 03]サーチライト[颜色 01]だと思う。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ゲッ…マジかよ。",
+    "translation": "ゲッ…マジかよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "僕たちを捕らえるためか…",
+    "translation": "僕たちを捕らえるためか…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "もしくは、市民のことさえ\n監視しているのかもね。",
+    "translation": "もしくは、市民のことさえ\n監視しているのかもね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_2",
+    "original": "彼の言う、悪とやらを逃さないために。",
+    "translation": "彼の言う、悪とやらを逃さないために。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ケッ、胸くそわりぃな…\nぶっ壊してやりてぇ！",
+    "translation": "ケッ、胸くそわりぃな…\nぶっ壊してやりてぇ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "気持ちは分かるが、慎重にな！\n敵に見つかったら厄介だ…",
+    "translation": "気持ちは分かるが、慎重にな！\n敵に見つかったら厄介だ…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "発見されないように、\n[颜色 03]サーチライトは避けて進め[颜色 01]よ？",
+    "translation": "発見されないように、\n[颜色 03]サーチライトは避けて進め[颜色 01]よ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

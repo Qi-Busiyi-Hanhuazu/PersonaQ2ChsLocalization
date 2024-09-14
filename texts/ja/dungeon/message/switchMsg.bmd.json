@@ -1,0 +1,114 @@
+[
+  {
+    "key": "S00_DG_GIMMICK_SWITCH_MS_0",
+    "original": "スイッチを押した。",
+    "translation": "スイッチを押した。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S01_DG_GIMMICK_SWITCH_MS_0",
+    "original": "スイッチを力強く押した",
+    "translation": "スイッチを力強く押した",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S02_DG_GIMMICK_SWITCH_MS_0",
+    "original": "スイッチは既に押されている",
+    "translation": "スイッチは既に押されている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S03_DG_GIMMICK_SWITCH_MS_0",
+    "original": "スイッチは既に力強く押されている",
+    "translation": "スイッチは既に力強く押されている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S04_DG_GIMMICK_CHANGE_SW_0",
+    "original": "スイッチをＯＮにした",
+    "translation": "スイッチをＯＮにした",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S05_DG_GIMMICK_CHANGE_SW_0",
+    "original": "スイッチをＯＦＦにした",
+    "translation": "スイッチをＯＦＦにした",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S06_DG_GIMMICK_CHANGE_SE_0",
+    "original": "サーチライトの電源が切れた。",
+    "translation": "サーチライトの電源が切れた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S07_DG_GIMMICK_CHANGE_SE_0",
+    "original": "既にサーチライトの電源は切れている。",
+    "translation": "既にサーチライトの電源は切れている。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S08_DG_GIMMICK_CHANGE_SE_0",
+    "original": "点いているサーチライトが\n切り替わった。",
+    "translation": "点いているサーチライトが\n切り替わった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S09_DG_GIMMICK_KAITENSAK_0",
+    "original": "柵を回転させた。",
+    "translation": "柵を回転させた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S10_DG_GIMMICK_DENKISAKU_0",
+    "original": "電気柵の電源が一時的に切れた。",
+    "translation": "電気柵の電源が一時的に切れた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S11_DG_GIMMICK_DENKISAKU_0",
+    "original": "既に電源は操作してある。",
+    "translation": "既に電源は操作してある。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S12_DG_GIMMICK_SERI_CHAN_0",
+    "original": "せりが一斉に動いた。",
+    "translation": "せりが一斉に動いた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S13_DG_GIMMICK_BOUHU_OPE_0",
+    "original": "付近の風の流れが変わった。",
+    "translation": "付近の風の流れが変わった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S14_DG_GIMMICK_SERI_FIRS_0",
+    "original": "せりが一斉に動いた。",
+    "translation": "せりが一斉に動いた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "S15_DG_GIMMICK_BOUHU_FIR_0",
+    "original": "何かの作動した音がした…",
+    "translation": "何かの作動した音がした…",
+    "stage": 1,
+    "context": ""
+  }
+]

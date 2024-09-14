@@ -1,0 +1,240 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さて、こちらの『特別上映』も\nいよいよ大詰めの感がございます。",
+    "translation": "さて、こちらの『特別上映』も\nいよいよ大詰めの感がございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "思い起こしますと、皆様演じる数多の作品は\n本当に素晴らしいものばかり。",
+    "translation": "思い起こしますと、皆様演じる数多の作品は\n本当に素晴らしいものばかり。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん、みんなの色んな姿が観られて、\nいつも楽しみだよ。",
+    "translation": "うん、みんなの色んな姿が観られて、\nいつも楽しみだよ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "どれも心に残ってる。\nいい映画って、そういうものだよね。",
+    "translation": "どれも心に残ってる。\nいい映画って、そういうものだよね。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ここらで区切りとしまして、\n『例のやつ』を上映致しましょう。",
+    "translation": "ここらで区切りとしまして、\n『例のやつ』を上映致しましょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1_0",
+    "original": "ひかり様の映画の最奥にて、\n強力なシャドウが出現したとのこと。",
+    "translation": "ひかり様の映画の最奥にて、\n強力なシャドウが出現したとのこと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1_1",
+    "original": "こちらを討ち果たし、\n皆様の『力』をお示し下さいませ。",
+    "translation": "こちらを討ち果たし、\n皆様の『力』をお示し下さいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "見せつけてやろう",
+    "translation": "見せつけてやろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "もう充分では？",
+    "translation": "もう充分では？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ああ、己を磨くにも絶好の機会だ。\n受けて立とうじゃないか。",
+    "translation": "ああ、己を磨くにも絶好の機会だ。\n受けて立とうじゃないか。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "まあ、受けて立とうじゃないか。\n真剣勝負は貴重な経験になる。",
+    "translation": "まあ、受けて立とうじゃないか。\n真剣勝負は貴重な経験になる。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うん、先輩の言う通りです。\nまだまだ戦いは続きそうだし。",
+    "translation": "うん、先輩の言う通りです。\nまだまだ戦いは続きそうだし。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そんで？　例のやつってことは、\nご指名あるっつーことだろ。",
+    "translation": "そんで？　例のやつってことは、\nご指名あるっつーことだろ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ああ、[P3P姓]様。",
+    "translation": "ああ、[P3P姓]様。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "チケットの記載によりますと、\n今回の指名は[P3P姓]様。",
+    "translation": "チケットの記載によりますと、\n今回の指名は[P3P姓]様。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "わ、私が！？",
+    "translation": "わ、私が！？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "左様でございます、[P3P姓]様は、\n必ず戦闘にご参加くださいませ。",
+    "translation": "左様でございます、[P3P姓]様は、\n必ず戦闘にご参加くださいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "いよっ、主演女優！",
+    "translation": "いよっ、主演女優！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_011_1_0",
+    "original": "安心したまえ、名俳優のオレがいりゃ\n傑作になること間違いなし！",
+    "translation": "安心したまえ、名俳優のオレがいりゃ\n傑作になること間違いなし！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ふふ、ありがとう、順平。\n淡～い期待してるよ。",
+    "translation": "ふふ、ありがとう、順平。\n淡～い期待してるよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "あのね、もっと濃厚でいいのよ？",
+    "translation": "あのね、もっと濃厚でいいのよ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "アンタが言うと、\nゲスにしか聞こえないわ。",
+    "translation": "アンタが言うと、\nゲスにしか聞こえないわ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "それでは皆様。\n存分にその『力』、ご披露下さいませ。",
+    "translation": "それでは皆様。\n存分にその『力』、ご披露下さいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "そして、見事達成されました暁には…",
+    "translation": "そして、見事達成されました暁には…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_015_1_0",
+    "original": "嗚呼、いよいよ私も…！\nこの胸の高鳴り、抑えられません♪",
+    "translation": "嗚呼、いよいよ私も…！\nこの胸の高鳴り、抑えられません♪",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "彼女のことは置いといて…\nまずは目の前の敵を倒さないと。",
+    "translation": "彼女のことは置いといて…\nまずは目の前の敵を倒さないと。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_016_1_0",
+    "original": "ひかりちゃんの映画の最深部だよね。\n準備ができたら、出発しよう！",
+    "translation": "ひかりちゃんの映画の最深部だよね。\n準備ができたら、出発しよう！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  }
+]

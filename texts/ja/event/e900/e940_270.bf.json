@@ -1,0 +1,163 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "無事にすべての道を\n発見されたようですね。\nお疲れ様でございました。",
+    "translation": "無事にすべての道を\n発見されたようですね。\nお疲れ様でございました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ゴミ掃除は大変だったけど、\n抜け道の場所が分かってれば\n中の探索が楽になりそうだね。",
+    "translation": "ゴミ掃除は大変だったけど、\n抜け道の場所が分かってれば\n中の探索が楽になりそうだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああ。\nそれに、もし敵に追われたときには\n逃走ルートとしても使えるな。",
+    "translation": "ああ。\nそれに、もし敵に追われたときには\n逃走ルートとしても使えるな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "この先、前のベルトみたいに\n何かを盗むクエストがないとは限らん。",
+    "translation": "この先、前のベルトみたいに\n何かを盗むクエストがないとは限らん。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "その時に敵から逃げられるよう、\n近道はちゃんと\n使えるようにしておこうぜ。",
+    "translation": "その時に敵から逃げられるよう、\n近道はちゃんと\n使えるようにしておこうぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "いっそ、真たちが捕まってるところに\nビューンと行けちゃうような\n近道があればいいのにね。",
+    "translation": "いっそ、真たちが捕まってるところに\nビューンと行けちゃうような\n近道があればいいのにね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…でも、近道ってズルくない？",
+    "translation": "…でも、近道ってズルくない？",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "普通の道使えって言われてるのに、\nなんかサボってるみたい。",
+    "translation": "普通の道使えって言われてるのに、\nなんかサボってるみたい。",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そうかぁ？\n別に近道くらい自由に使っても\nいいじゃねーか。",
+    "translation": "そうかぁ？\n別に近道くらい自由に使っても\nいいじゃねーか。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "つーか、\n道ふさぐのにゴミ使うほうが\nよっぽど悪質だろ。",
+    "translation": "つーか、\n道ふさぐのにゴミ使うほうが\nよっぽど悪質だろ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そもそも、鍛錬するのも\n近道を使うのも、\n本来は個人が判断することだ。",
+    "translation": "そもそも、鍛錬するのも\n近道を使うのも、\n本来は個人が判断することだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "誰かにとやかく言われるような\nことではないだろう。",
+    "translation": "誰かにとやかく言われるような\nことではないだろう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "…そう。",
+    "translation": "…そう。",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ま、近道使わないのも自由だけどよ。\nそんくらい、\n自分で決めろってこったな。",
+    "translation": "ま、近道使わないのも自由だけどよ。\nそんくらい、\n自分で決めろってこったな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あまり近道をしすぎても\n運動不足になりかねませんが…\n皆様なら心配はなさそうですね。",
+    "translation": "あまり近道をしすぎても\n運動不足になりかねませんが…\n皆様なら心配はなさそうですね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "では、\nお待ちかねの報酬タイムでございます。\nどうぞお受け取りくださいませ。",
+    "translation": "では、\nお待ちかねの報酬タイムでございます。\nどうぞお受け取りくださいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マヨイ",
+    "original": "マヨイ",
+    "translation": "マヨイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

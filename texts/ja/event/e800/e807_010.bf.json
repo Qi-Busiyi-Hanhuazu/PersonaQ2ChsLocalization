@@ -1,0 +1,380 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "時は来た！　…でございます。",
+    "translation": "時は来た！　…でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "な、なんスか急に。",
+    "translation": "な、なんスか急に。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "皆様、この世界に来てからというもの\n奮闘に次ぐ奮闘の日々…",
+    "translation": "皆様、この世界に来てからというもの\n奮闘に次ぐ奮闘の日々…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "たくましく成長なさった皆様であれば、\nこちらの壁を乗り越えることも可能かと…",
+    "translation": "たくましく成長なさった皆様であれば、\nこちらの壁を乗り越えることも可能かと…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "今回の『特別上映』は、ズバリ！",
+    "translation": "今回の『特別上映』は、ズバリ！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_3",
+    "original": "カモシダーマンの映画内にいる、チキンな\nＦ．Ｏ．Ｅの討伐依頼でございます！",
+    "translation": "カモシダーマンの映画内にいる、チキンな\nＦ．Ｏ．Ｅの討伐依頼でございます！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "それって、手にデカいチキンを\n持ってるヤツのこと？",
+    "translation": "それって、手にデカいチキンを\n持ってるヤツのこと？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "左様でございます。",
+    "translation": "左様でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "フフン、それなら既に倒したことあるし、\n達成できそうだな！",
+    "translation": "フフン、それなら既に倒したことあるし、\n達成できそうだな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "更に報酬も貰えるっていうなら、\nオイシイと思うぜ？",
+    "translation": "更に報酬も貰えるっていうなら、\nオイシイと思うぜ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "初めて見た時は逃げるしかなかった\n相手だが…ワガハイたちも成長してんだ。",
+    "translation": "初めて見た時は逃げるしかなかった\n相手だが…ワガハイたちも成長してんだ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "今なら倒せるかもしれないぜ？\n挑戦してみようぜ、ジョーカー。",
+    "translation": "今なら倒せるかもしれないぜ？\n挑戦してみようぜ、ジョーカー。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "この『特別上映』だが、\n俺も是非ともやってみたい。",
+    "translation": "この『特別上映』だが、\n俺も是非ともやってみたい。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "ヤツの持っている『肉の武器』には、\n前から興味を持っていた。面白い形だ。",
+    "translation": "ヤツの持っている『肉の武器』には、\n前から興味を持っていた。面白い形だ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あー、思い出したわ！",
+    "translation": "あー、思い出したわ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "かぶり付ける肉、どっかで見たって\n思ってたら、アイツが持ってたんだ！",
+    "translation": "かぶり付ける肉、どっかで見たって\n思ってたら、アイツが持ってたんだ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "か、かぶり付ける肉っ！",
+    "translation": "か、かぶり付ける肉っ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "よし、さっさと討伐に行こ！\n今すぐにチキンゲットしに行こ！",
+    "translation": "よし、さっさと討伐に行こ！\n今すぐにチキンゲットしに行こ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "食す芸術か…楽しみだ。",
+    "translation": "食す芸術か…楽しみだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "千枝たち…食べる気だな。",
+    "translation": "千枝たち…食べる気だな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ええ…食べる気ですね。",
+    "translation": "ええ…食べる気ですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ちょっと待って。見た目は確かに肉だけど、\nあれが食べられる保証は…",
+    "translation": "ちょっと待って。見た目は確かに肉だけど、\nあれが食べられる保証は…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "肉は、一口にしかず！\nかぶり付いてみないと分からない！",
+    "translation": "肉は、一口にしかず！\nかぶり付いてみないと分からない！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "そうだな。溢れる芸術欲と食欲、\nどちらも抑えることなど出来ん。",
+    "translation": "そうだな。溢れる芸術欲と食欲、\nどちらも抑えることなど出来ん。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "こいつら、何が何でも食う気みたいだな…\nオマエからも言ってやってくれ。",
+    "translation": "こいつら、何が何でも食う気みたいだな…\nオマエからも言ってやってくれ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_017_0",
+    "original": "とにかく討伐だ",
+    "translation": "とにかく討伐だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_017_1",
+    "original": "肉食べ放題だ！",
+    "translation": "肉食べ放題だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_017_2",
+    "original": "好きにしろ",
+    "translation": "好きにしろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "だよね、そうだよね！\nまずはあの『肉』を手に入れなければ！",
+    "translation": "だよね、そうだよね！\nまずはあの『肉』を手に入れなければ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "オマエまで食う気かよ！？",
+    "translation": "オマエまで食う気かよ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "肉が食べ放題！　いい響き！\n早く討伐に行こっ！",
+    "translation": "肉が食べ放題！　いい響き！\n早く討伐に行こっ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ああ、好きにさせてもらおう。肉を\n持ち帰る用に、タッパーも用意せねば。",
+    "translation": "ああ、好きにさせてもらおう。肉を\n持ち帰る用に、タッパーも用意せねば。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "あ！　あたしもー！",
+    "translation": "あ！　あたしもー！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ったく、仕方ねーな。",
+    "translation": "ったく、仕方ねーな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "そんなにＦ．Ｏ．Ｅの持ってる肉が欲しい\nっていうなら、俺も一肌脱ぐっきゃねーな。",
+    "translation": "そんなにＦ．Ｏ．Ｅの持ってる肉が欲しい\nっていうなら、俺も一肌脱ぐっきゃねーな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "陽介…腹が減ってるのか？",
+    "translation": "陽介…腹が減ってるのか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "食いたいワケじゃねーよ！",
+    "translation": "食いたいワケじゃねーよ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "いやまぁ、なんつーか、俺もそろそろ\n活躍しとかないとなー…なんて？",
+    "translation": "いやまぁ、なんつーか、俺もそろそろ\n活躍しとかないとなー…なんて？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_025_2",
+    "original": "ほら俺、ずっとはぐれてたから\nカッコいいとこ見せられてねーじゃん？",
+    "translation": "ほら俺、ずっとはぐれてたから\nカッコいいとこ見せられてねーじゃん？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "フフフ…\n旺盛な食欲に好奇心、複雑な内情…",
+    "translation": "フフフ…\n旺盛な食欲に好奇心、複雑な内情…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "目的はそれぞれ違えども、皆様たいへんに\nやる気のようでございますね。",
+    "translation": "目的はそれぞれ違えども、皆様たいへんに\nやる気のようでございますね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_027_2",
+    "original": "ですが、相手は腐ってもＦ．Ｏ．Ｅ…\nどうぞ最後までお気を抜かずに。",
+    "translation": "ですが、相手は腐ってもＦ．Ｏ．Ｅ…\nどうぞ最後までお気を抜かずに。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  }
+]

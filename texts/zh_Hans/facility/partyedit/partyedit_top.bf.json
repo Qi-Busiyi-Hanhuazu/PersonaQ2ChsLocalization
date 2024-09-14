@@ -1,0 +1,51 @@
+[
+  {
+    "key": "OK_SEL_0",
+    "original": "ＯＫ",
+    "translation": "OK",
+    "stage": 0,
+    "context": "机翻辅助：\n\nOK\n\n确定"
+  },
+  {
+    "key": "YESNO_SEL_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "FIRST_LEADER_NOT_EXIST_0",
+    "original": "＞ＦＩＲＳＴチームに\n　リーダーが存在しません",
+    "translation": "＞FIRST队伍里\n　不存在队长。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞在FIRST队伍中\n　没有队长。\n\n＞FIRST团队\n　领导不存在\n\n＞第一团队中没有领导者。"
+  },
+  {
+    "key": "SECOND_LEADER_NOT_EXIST_0",
+    "original": "＞ＳＥＣＯＮＤチームに\n　リーダーが存在しません",
+    "translation": "＞SECOND队伍里\n　不存在队长。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞在SECOND队伍中\n　没有队长。\n\n＞SECOND团队中\n　不存在领导\n\n＞SECOND团队中不存在领导"
+  },
+  {
+    "key": "FIRST_NAVI_NOT_EXIST_0",
+    "original": "＞ＦＩＲＳＴチームに\n　ナビが存在しません",
+    "translation": "＞FIRST队伍里\n　不存在导航。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞在FIRST队伍中\n　没有导航。\n\n＞FIRST团队\n　导航不存在\n\n＞第一组没有导航系统。"
+  },
+  {
+    "key": "SECOND_NAVI_NOT_EXIST_0",
+    "original": "＞ＳＥＣＯＮＤチームに\n　ナビが存在しません",
+    "translation": "＞SECOND队伍里\n　不存在导航。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞在SECOND队伍中\n　没有导航。\n\n＞SECOND团队中\n　导航不存在\n\n＞SECOND团队中没有导航系统"
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "オタカラスポットみたいです。\n採取してみますか？",
+    "translation": "好像是藏宝地点呢。\n要采集下看看吗？",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n好像是宝藏地点。\n要采集看看吗？\n\n好像是藏宝地点。\n要采集一下吗？\n\n好像是宝物景点。\n要采集吗？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "了解です！\n周りにも注意しましょう！",
+    "translation": "了解！\n别忘了警戒周围！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n了解！\n也要注意周遭！\n\n明白了！\n也要注意周围的人！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "分かりました！\n一意専心、ですね！",
+    "translation": "明白了！\n先集中精神做这个吧！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n知道了！\n专心一意，对吧！\n\n明白了！\n专心致志啊！\n\n明白了！\n是专心致志吧！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "はい、分かりました。\n危険もありますからね。",
+    "translation": "好的，我明白了。\n因为也存在危险。",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n是，我知道了。\n毕竟有危险嘛。\n\n好的，我知道了。\n因为也有危险。\n\n好的，我知道了。因为也有危险。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "もう何もないみたいですね。\nお疲れ様でした。",
+    "translation": "好像什么也没有呢。\n辛苦了。",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n好像已经没有东西了呢。\n大家辛苦了。\n\n好像什么都没有了。\n辛苦了。\n\n好像什么都没有了。您辛苦了。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "わぁ～！",
+    "translation": "哇～！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哇～！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "どうでしたか？",
+    "translation": "怎么样？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n怎么样呢？\n\n怎么样？"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ふむふむ。",
+    "translation": "嗯嗯。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯嗯。\n\n嗯嗯嗯嗯。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "皆さん、お疲れ様です。\n採取もおしまいみたいですよ。",
+    "translation": "大家，辛苦了。\n采集工作似乎也结束了呢。",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n各位，辛苦了。\n采集好像也结束了呢。\n\n大家辛苦了。\n采集好像也结束了。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "レアですよ！",
+    "translation": "是稀有物品呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好稀有哦！\n\n很稀有哦！\n\n是稀有哦！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "やりましたね！",
+    "translation": "太棒了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太好了呢！\n\n做了呢！\n\n做到了呢！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "すごいです！",
+    "translation": "好厉害！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好厉害！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットです！\n開通しておきますか？",
+    "translation": "是捷径呢！\n要从这里走吗？",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n是捷径呢！\n要开通吗？\n\n是快捷方式！\n要开通吗？\n\n是短发！\n要开通吗？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないみたいですね…\n反対側を調べてみて下さい！",
+    "translation": "这边好像过不去呢……\n调查一下对面吧！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n这边好像不能走呢……\n请试着调查另一边！\n\n这边好像不能通过呢……\n请调查一下另一侧！\n\n这边好像不能通过呢……\n请试着调查反面！"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "気をつけてください！\nそこ、凄く危険な気配がします！",
+    "translation": "请小心！\n那里感觉非常危险！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n请小心！\n那边有非常危险的气息！\n\n请小心！\n那里，感觉非常危险！\n\n请注意！\n那里，有非常危险的气息！"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かりました。\n十分に気をつけてください！",
+    "translation": "明白了。\n请务必小心！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n我知道了。\n请充分小心！\n\n我明白了。\n请充分注意！\n\n我明白了。请一定要小心！"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "了解です。",
+    "translation": "了解。",
+    "stage": 0,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n了解。\n\n明白了。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あ、危なかったですね…\n皆さん、ご無事ですか？",
+    "translation": "啊啊，刚刚真危险呢……\n大家都没事吧？",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n好、好险呢……\n各位，没事吗？\n\n啊，太危险了……\n大家还好吗？\n\n啊，真危险啊……\n大家都没事吧？"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここ、シャドウの気配がします！\n気をつけてください！",
+    "translation": "这里有暗影的气息！\n请小心！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n这边有暗影的气息！\n请小心！\n\n这里，有暗影的气息！\n请注意！\n\n这里有暗影的迹象！请注意安全！"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "はい！　精一杯サポートします！",
+    "translation": "好的！我会全力支援的！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n是！我会尽全力支援！\n\n是的！全力支持！\n\n是的！我会全力支持的！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "分かりました。",
+    "translation": "我明白了。",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n我知道了。\n\n我明白了。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "皆さん、お疲れ様です！",
+    "translation": "大家，辛苦了！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n各位，辛苦了！\n\n大家辛苦了！"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "そこから映画館に戻れますね。\nどうしますか？",
+    "translation": "可以从这里回电影院呢。\n怎么办？",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n可以从那边回到电影院呢。\n要怎么做呢？\n\n你可以从那里回到电影院。\n怎么办？\n\n从那里可以回到电影院。\n怎么办？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

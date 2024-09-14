@@ -1,0 +1,268 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "このあたり、採取出来るみたいだね。\nどうする？",
+    "translation": "このあたり、採取出来るみたいだね。\nどうする？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そうだね。\n敵に気をつけながら探そう。",
+    "translation": "そうだね。\n敵に気をつけながら探そう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うん。\nじゃあしっかり探そう。",
+    "translation": "うん。\nじゃあしっかり探そう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "分かったよ。\n今は止めておこう。",
+    "translation": "分かったよ。\n今は止めておこう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "もう見つからないみたいだね。",
+    "translation": "もう見つからないみたいだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "よし。",
+    "translation": "よし。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いいね。",
+    "translation": "いいね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん！",
+    "translation": "うん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "危なかったね。\nここでの採取は終わりにしよう。",
+    "translation": "危なかったね。\nここでの採取は終わりにしよう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "凄いね！",
+    "translation": "凄いね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "これは…！",
+    "translation": "これは…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "素晴らしいよ！",
+    "translation": "素晴らしいよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットだよ。\n開通しておくかい？",
+    "translation": "ショートカットだよ。\n開通しておくかい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ショートカットだよ。\n開通しておくかい？",
+    "translation": "ショートカットだよ。\n開通しておくかい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ショートカットだよ。\n開通しておくかい？",
+    "translation": "ショートカットだよ。\n開通しておくかい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こちらからは通れないみたいだね…",
+    "translation": "こちらからは通れないみたいだね…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "こちらからは通れないみたいだね…",
+    "translation": "こちらからは通れないみたいだね…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "こちらからは通れないみたいだね…",
+    "translation": "こちらからは通れないみたいだね…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "これは…\nかなり危険な空気を感じるね…",
+    "translation": "これは…\nかなり危険な空気を感じるね…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "うん。\n気をつけて調べようか。",
+    "translation": "うん。\n気をつけて調べようか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだね。\n迂闊に調べない方が良さそうだ。",
+    "translation": "そうだね。\n迂闊に調べない方が良さそうだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "かなりの強敵だったね。\nみんな、無事かい？",
+    "translation": "かなりの強敵だったね。\nみんな、無事かい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "シャドウの気配がするね。\nどうしようか？",
+    "translation": "シャドウの気配がするね。\nどうしようか？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "よし、調べてみよう。",
+    "translation": "よし、調べてみよう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだね。\n気をつけるに越したことはないよ。",
+    "translation": "そうだね。\n気をつけるに越したことはないよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "フゥ…なんとかなったかな？",
+    "translation": "フゥ…なんとかなったかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ん？　映画館に戻るのかい？",
+    "translation": "ん？　映画館に戻るのかい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

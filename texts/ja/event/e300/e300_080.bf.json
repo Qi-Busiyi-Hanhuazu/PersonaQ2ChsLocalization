@@ -1,0 +1,576 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "うお、マジで映画館じゃねーか！",
+    "translation": "うお、マジで映画館じゃねーか！",
+    "stage": 1,
+    "context": "キャップの少年"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "信じらんないけど…さっきの場所、\n本当に映画の中だったんだ…",
+    "translation": "信じらんないけど…さっきの場所、\n本当に映画の中だったんだ…",
+    "stage": 1,
+    "context": "勝ち気そうな少女"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "全く…どういうことだ。",
+    "translation": "全く…どういうことだ。",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "こんなことをしている時間など\n我々にはないというのに…",
+    "translation": "こんなことをしている時間など\n我々にはないというのに…",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "まーまー、イライラしても仕方ないですよ。",
+    "translation": "まーまー、イライラしても仕方ないですよ。",
+    "stage": 1,
+    "context": "キャップの少年"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "それに今は、行方不明のアイちゃんと\nリーダーを捜さないとですし。",
+    "translation": "それに今は、行方不明のアイちゃんと\nリーダーを捜さないとですし。",
+    "stage": 1,
+    "context": "キャップの少年"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ああ、分かっている…",
+    "translation": "ああ、分かっている…",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "それで、この映画館の支配人とやらは\nどちらに？　挨拶をしておきたい。",
+    "translation": "それで、この映画館の支配人とやらは\nどちらに？　挨拶をしておきたい。",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そうだった、紹介するわね。",
+    "translation": "そうだった、紹介するわね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "支配人のナギさんと、ひかりちゃん。\n二人もここへ閉じ込められてる。",
+    "translation": "支配人のナギさんと、ひかりちゃん。\n二人もここへ閉じ込められてる。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "初めまして、ナギと申します。",
+    "translation": "初めまして、ナギと申します。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "既にご存知かとは思いますが、\nここにいる皆、同じ境遇に置かれた身…",
+    "translation": "既にご存知かとは思いますが、\nここにいる皆、同じ境遇に置かれた身…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_006_2",
+    "original": "私も出来る限りのお手伝いを致しますので、\n遠慮なく仰ってくださいね。",
+    "translation": "私も出来る限りのお手伝いを致しますので、\n遠慮なく仰ってくださいね。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ああ、すまない。\n迷惑をかけるが、よろしく頼む。",
+    "translation": "ああ、すまない。\n迷惑をかけるが、よろしく頼む。",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あなたが、ひかりちゃん？",
+    "translation": "あなたが、ひかりちゃん？",
+    "stage": 1,
+    "context": "大人しそうな少女"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "はい…はじめまして。",
+    "translation": "はい…はじめまして。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "あの…\n皆さんは、[P3P姓]さんの…？",
+    "translation": "あの…\n皆さんは、[P3P姓]さんの…？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "仲間…なんだよね？",
+    "translation": "仲間…なんだよね？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "うん。\nそのはず、なんだけど…",
+    "translation": "うん。\nそのはず、なんだけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "だが、誰一人として彼女を知らない。\n俺にもまったく覚えが無い。",
+    "translation": "だが、誰一人として彼女を知らない。\n俺にもまったく覚えが無い。",
+    "stage": 1,
+    "context": "好戦的な少年"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "逆に、彼女は俺たちのことを\n知っているという…意味が分からん。",
+    "translation": "逆に、彼女は俺たちのことを\n知っているという…意味が分からん。",
+    "stage": 1,
+    "context": "好戦的な少年"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "私、彼女が嘘を言っているとは\n思えません。",
+    "translation": "私、彼女が嘘を言っているとは\n思えません。",
+    "stage": 1,
+    "context": "大人しそうな少女"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "召喚器や腕章も本物のようですし、\nアイギスのことも知ってる…",
+    "translation": "召喚器や腕章も本物のようですし、\nアイギスのことも知ってる…",
+    "stage": 1,
+    "context": "大人しそうな少女"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "みんなが、[P3P名]ちゃんの\n認知存在っていう可能性は？",
+    "translation": "みんなが、[P3P名]ちゃんの\n認知存在っていう可能性は？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "いや、ここはパレスやメメントスとは\n別の世界だ。その可能性は低いよ。",
+    "translation": "いや、ここはパレスやメメントスとは\n別の世界だ。その可能性は低いよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "うう、頭がこんがらがってきた…\nつまりはどういうこと？",
+    "translation": "うう、頭がこんがらがってきた…\nつまりはどういうこと？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "うーん、参っちゃったね。\n順平風に言えば、お手上げ侍！",
+    "translation": "うーん、参っちゃったね。\n順平風に言えば、お手上げ侍！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "おおっ！？\nそれはオレっち渾身のギャグ…！",
+    "translation": "おおっ！？\nそれはオレっち渾身のギャグ…！",
+    "stage": 1,
+    "context": "キャップの少年"
+  },
+  {
+    "key": "SEL_020_0",
+    "original": "どういう意味？",
+    "translation": "どういう意味？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_020_1",
+    "original": "お手上げ侍？",
+    "translation": "お手上げ侍？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_020_2",
+    "original": "つまらない",
+    "translation": "つまらない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "はいはい。時間と記憶の無駄だから、\nべつに知らなくていいよ。",
+    "translation": "はいはい。時間と記憶の無駄だから、\nべつに知らなくていいよ。",
+    "stage": 1,
+    "context": "勝ち気そうな少女"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "…いいか？\nまさしく、こういう時に使うんだよ。",
+    "translation": "…いいか？\nまさしく、こういう時に使うんだよ。",
+    "stage": 1,
+    "context": "キャップの少年"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "イケズなゆかりッチに～…\nお手上げ侍！",
+    "translation": "イケズなゆかりッチに～…\nお手上げ侍！",
+    "stage": 1,
+    "context": "キャップの少年"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ＯＨ…オマエもあれか？\n空気詠み人知らずか！？",
+    "translation": "ＯＨ…オマエもあれか？\n空気詠み人知らずか！？",
+    "stage": 1,
+    "context": "キャップの少年"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "そんなイケズなオマエに～…\nお手上げ侍！",
+    "translation": "そんなイケズなオマエに～…\nお手上げ侍！",
+    "stage": 1,
+    "context": "キャップの少年"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "くっだらな…",
+    "translation": "くっだらな…",
+    "stage": 1,
+    "context": "勝ち気そうな少女"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "しかし、お手上げ侍を習得しているとは…\nマジでオレらのこと知ってるっぽいな。",
+    "translation": "しかし、お手上げ侍を習得しているとは…\nマジでオレらのこと知ってるっぽいな。",
+    "stage": 1,
+    "context": "キャップの少年"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "でもみんなは、オジョーサンのこと、\n忘れちゃったクマ…？",
+    "translation": "でもみんなは、オジョーサンのこと、\n忘れちゃったクマ…？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "すみません…思い出そうとは\nしてるんですけど。",
+    "translation": "すみません…思い出そうとは\nしてるんですけど。",
+    "stage": 1,
+    "context": "大人びた小学生"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "クゥ～ン…",
+    "translation": "クゥ～ン…",
+    "stage": 1,
+    "context": "白い犬"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "なんつーか…悪ィな。\nせっかく助けてくれたのによ…",
+    "translation": "なんつーか…悪ィな。\nせっかく助けてくれたのによ…",
+    "stage": 1,
+    "context": "キャップの少年"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "いいよいいよ、大丈夫！\nここ、よく分かんない場所だし！",
+    "translation": "いいよいいよ、大丈夫！\nここ、よく分かんない場所だし！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "だってほら、謎の人面恐竜とか\n喋るネコがいるくらいだよ？",
+    "translation": "だってほら、謎の人面恐竜とか\n喋るネコがいるくらいだよ？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "いまそれ言います！？",
+    "translation": "いまそれ言います！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "つか、猫じゃねーよ！！",
+    "translation": "つか、猫じゃねーよ！！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "…あ、あの！",
+    "translation": "…あ、あの！",
+    "stage": 1,
+    "context": "大人びた小学生"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "[P3P名]さん、\n僕は悪い人じゃないと思います。",
+    "translation": "[P3P名]さん、\n僕は悪い人じゃないと思います。",
+    "stage": 1,
+    "context": "大人びた小学生"
+  },
+  {
+    "key": "MSG_033_2",
+    "original": "自分でも理由は分からないし、\n会うのは初めてですけど、でも…",
+    "translation": "自分でも理由は分からないし、\n会うのは初めてですけど、でも…",
+    "stage": 1,
+    "context": "大人びた小学生"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ワフッ！",
+    "translation": "ワフッ！",
+    "stage": 1,
+    "context": "白い犬"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "ほら！　コロマルも同意見だって！",
+    "translation": "ほら！　コロマルも同意見だって！",
+    "stage": 1,
+    "context": "大人びた小学生"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "ふふっ…\nありがとう天田くん、コロマル。",
+    "translation": "ふふっ…\nありがとう天田くん、コロマル。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "ま、あんま気負うな。",
+    "translation": "ま、あんま気負うな。",
+    "stage": 1,
+    "context": "ニット帽の少年"
+  },
+  {
+    "key": "MSG_037_1",
+    "original": "無理しても疲れるだけだ。\n急がなくたって、いずれ分かるだろ。",
+    "translation": "無理しても疲れるだけだ。\n急がなくたって、いずれ分かるだろ。",
+    "stage": 1,
+    "context": "ニット帽の少年"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "荒垣先輩…！",
+    "translation": "荒垣先輩…！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "[P3P姓]さん…\nきっと大丈夫だよ…",
+    "translation": "[P3P姓]さん…\nきっと大丈夫だよ…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_039_1",
+    "original": "あ、あの、上手くいえないけど…\n今なら、そんな気がするんだ。",
+    "translation": "あ、あの、上手くいえないけど…\n今なら、そんな気がするんだ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "ありがとう、ひかりちゃん！",
+    "translation": "ありがとう、ひかりちゃん！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_040_1",
+    "original": "うん…きっと何とかなるよね。\nがんばろっ！！",
+    "translation": "うん…きっと何とかなるよね。\nがんばろっ！！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "ところで、君たちはどうやって\nこの世界にやってきたんだ？",
+    "translation": "ところで、君たちはどうやって\nこの世界にやってきたんだ？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "ああ…うん、えっとね…",
+    "translation": "ああ…うん、えっとね…",
+    "stage": 1,
+    "context": "大人しそうな少女"
+  },
+  {
+    "key": "speaker_キャップの少年",
+    "original": "キャップの少年",
+    "translation": "キャップの少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_勝ち気そうな少女",
+    "original": "勝ち気そうな少女",
+    "translation": "勝ち気そうな少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_聡明そうな少女",
+    "original": "聡明そうな少女",
+    "translation": "聡明そうな少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_大人しそうな少女",
+    "original": "大人しそうな少女",
+    "translation": "大人しそうな少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_好戦的な少年",
+    "original": "好戦的な少年",
+    "translation": "好戦的な少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_大人びた小学生",
+    "original": "大人びた小学生",
+    "translation": "大人びた小学生",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白い犬",
+    "original": "白い犬",
+    "translation": "白い犬",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ニット帽の少年",
+    "original": "ニット帽の少年",
+    "translation": "ニット帽の少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

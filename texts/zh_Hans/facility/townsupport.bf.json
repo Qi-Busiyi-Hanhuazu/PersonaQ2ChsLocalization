@@ -1,0 +1,2270 @@
+[
+  {
+    "key": "town_okaeri_HIKARI_mes01_0",
+    "original": "…ケガ…大丈夫…？",
+    "translation": "……伤口……没事吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n……伤势……不要紧……？\n\n……受伤……没关系……？"
+  },
+  {
+    "key": "town_okaeri_HIKARI_mes02_0",
+    "original": "…おつかれさま。",
+    "translation": "辛苦了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n……辛苦了。"
+  },
+  {
+    "key": "town_okaeri_HIKARI_mes03_0",
+    "original": "みんな…おかえりなさい。",
+    "translation": "大家……欢迎回来。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大家……欢迎回来。\n\n大家……你回来了。"
+  },
+  {
+    "key": "town_okaeri_HIKARI_mes04_0",
+    "original": "ちゃんと準備して、また行こうね。",
+    "translation": "好好准备，我们重新出发吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好好准备，下次再出发吧。\n\n好好准备，再去吧。"
+  },
+  {
+    "key": "town_okaeri_HIKARI_mes05_0",
+    "original": "おかえり!みんな！",
+    "translation": "欢迎回来！大家！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家，欢迎回来！\n\n你回来啦！大家好！\n\n你回来啦！大家！"
+  },
+  {
+    "key": "town_okaeri_NAGI_mes01_0",
+    "original": "皆様、ゆっくり休んでいってくださいね。",
+    "translation": "各位，请慢慢休息吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请各位好好休息。\n\n大家好好休息吧。"
+  },
+  {
+    "key": "town_okaeri_NAGI_mes02_0",
+    "original": "ご無事で何よりです",
+    "translation": "平安无事就好。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n平安无事就好。\n\n您没事比什么都好\n\n您没事就好"
+  },
+  {
+    "key": "town_okaeri_RYUJI_mes_0",
+    "original": "ふいー、つっかれたー。",
+    "translation": "嘿，好累啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呼——累死了——\n\n呵呵，被吐槽了。\n\n啊，被戳中了。"
+  },
+  {
+    "key": "town_okaeri_ANN_mes_0",
+    "original": "ふう、みんなお疲れ様！",
+    "translation": "嗯，大家辛苦了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呼，大家辛苦了！\n\n大家辛苦了！\n\n哦，大家辛苦了！"
+  },
+  {
+    "key": "town_okaeri_MONA_mes_0",
+    "original": "オマエら、なかなかいい働きだったぞ！",
+    "translation": "你们做得相当不错啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你们做得很好哦！\n\n你们这些家伙真是干得不错啊！\n\n你们干得真不错！"
+  },
+  {
+    "key": "town_okaeri_YUSUKE_mes_0",
+    "original": "今回もいい刺激が得られたな…",
+    "translation": "这次也得到了很好的刺激……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这次也得到了很棒的刺激呢……\n\n这次也得到了很好的刺激啊……\n\n这次也得到了很好的刺激呢……"
+  },
+  {
+    "key": "town_okaeri_FUTABA_mes_0",
+    "original": "目疲れたー、知恵熱でそー…",
+    "translation": "眼睛好累，感觉脑子要被烧坏了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n眼睛好累——脑袋好烫——\n\n眼睛累了，智慧热……\n\n眼睛累了，智慧热了……"
+  },
+  {
+    "key": "town_okaeri_AKECHI_mes_0",
+    "original": "ちょうど一息入れたかったんだ。",
+    "translation": "我想稍微休息一下。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n正好想喘口气呢。\n\n正好想歇口气。\n\n我正好想喘口气。"
+  },
+  {
+    "key": "town_okaeri_P3HERO2_mes_0",
+    "original": "しっかり準備しておこうね！",
+    "translation": "好好准备一下吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好好准备吧！\n\n好好准备一下吧！"
+  },
+  {
+    "key": "town_okaeri_MAKOTO_mes_0",
+    "original": "疲れはしっかり取っておきましょう。",
+    "translation": "好好休息，把疲劳消除掉。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好好消除疲劳吧。\n\n好好地消除疲劳吧。\n\n一定要消除疲劳。"
+  },
+  {
+    "key": "town_okaeri_HARU_mes_0",
+    "original": "いい運動になったかも！",
+    "translation": "是不错的运动呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n或许是一次不错的运动！\n\n也许是很好的运动！"
+  },
+  {
+    "key": "town_okaeri_P4HERO_mes_0",
+    "original": "みんな、お疲れ！",
+    "translation": "大家，辛苦了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家辛苦了！"
+  },
+  {
+    "key": "town_okaeri_CHIE_mes_0",
+    "original": "腹が減っては戦はできぬのだよ。",
+    "translation": "肚子饿了就无法战斗了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n肚子饿了就无法战斗。\n\n饿着肚子是不能打仗的。\n\n肚子饿了就不能打仗了。"
+  },
+  {
+    "key": "town_okaeri_YUKIKO_mes_0",
+    "original": "休息も大事だよね。",
+    "translation": "休息也很重要呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n休息也很重要呢。\n\n休息也很重要。\n\n休息也很重要吧。"
+  },
+  {
+    "key": "town_okaeri_RISE_mes_0",
+    "original": "みんな、お疲れ様っ！",
+    "translation": "大家，辛苦了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大家，辛苦了！\n\n大家辛苦了！"
+  },
+  {
+    "key": "town_okaeri_KANJI_mes_0",
+    "original": "次に備えて準備しておくっス！",
+    "translation": "为下一次做好准备！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n为了下一次做好准备吧！\n\n准备下一个！\n\n接下来准备好了！"
+  },
+  {
+    "key": "town_okaeri_NAOTO_mes_0",
+    "original": "休めるときに休んでおきましょう。",
+    "translation": "在可以休息的时候就休息吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能休息的时候就休息吧。\n\n休息的时候休息一下吧。"
+  },
+  {
+    "key": "town_okaeri_KUMA_mes_0",
+    "original": "クマは大活躍だったクマね！",
+    "translation": "小熊表现得非常出色吧熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小熊是大活跃的小熊！\n\n小熊是非常活跃的小熊啊！"
+  },
+  {
+    "key": "town_okaeri_YOUSUKE_mes_0",
+    "original": "一休みしたら、また行こうぜ！",
+    "translation": "休息一下，然后再出发吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n休息一下再继续吧！\n\n休息一下再走吧！\n\n休息一下再去吧！"
+  },
+  {
+    "key": "town_okaeri_YUKARI_mes_0",
+    "original": "ヤバッ…もう足パンパン…",
+    "translation": "完蛋……腿都快肿了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n糟糕……脚已经痛得要死……\n\n糟了……已经是脚面包了……\n\n糟糕……脚已经鼓鼓的了……"
+  },
+  {
+    "key": "town_okaeri_JUNPEI_mes_0",
+    "original": "オレッち休憩入りまーす！",
+    "translation": "休息一下！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我要去休息了！\n\n我要休息了！\n\n开始休息了！"
+  },
+  {
+    "key": "town_okaeri_SANADA_mes_0",
+    "original": "よし！　筋肉を冷やしておくか。",
+    "translation": "好！要冷却一下肌肉吗。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好！去冷却一下肌肉吧。\n\n好！把肌肉冷却一下吗。\n\n好！要么让肌肉冷却。"
+  },
+  {
+    "key": "town_okaeri_MITURU_mes_0",
+    "original": "補給も立派な戦術だな。",
+    "translation": "补给也是一种出色的战术。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n补给也是很重要的战术。\n\n补给也是很好的战术啊。\n\n补给也是很好的战术。"
+  },
+  {
+    "key": "town_okaeri_FUKA_mes_0",
+    "original": "みなさん、お疲れ様です！",
+    "translation": "各位，辛苦了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家，辛苦了！\n\n大家辛苦了！"
+  },
+  {
+    "key": "town_okaeri_AMADA_mes_0",
+    "original": "僕はもう少し行けそうでしたが…",
+    "translation": "我觉得我还可以再走一点点，但是……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我好像还能再撑一下……\n\n我好像还能再去一点……\n\n我好像还能再走一点……"
+  },
+  {
+    "key": "town_okaeri_KOROMARU_mes_0",
+    "original": "ワンワン！",
+    "translation": "汪汪！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n汪汪！"
+  },
+  {
+    "key": "town_okaeri_ARAGAKI_mes_0",
+    "original": "少し休憩したら、行くぞ…",
+    "translation": "稍微休息一下再出发……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n休息一下再继续吧……\n\n稍微休息一下就去吧……\n\n稍微休息一下就走……"
+  },
+  {
+    "key": "town_okaeri_P3HERO_mes_0",
+    "original": "休息も大事だからね。",
+    "translation": "休息也是很重要的哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n休息也很重要。"
+  },
+  {
+    "key": "town_okaeri_AEGIS_mes_0",
+    "original": "メンテナンスを所望するであります！",
+    "translation": "希望进行维护！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我需要保养！\n\n希望进行维护！\n\n希望维护！"
+  },
+  {
+    "key": "town_returnitem_RYUJI_me_0",
+    "original": "カエレールきらしてるんじゃねえか？",
+    "translation": "回家轨道怎么在闪闪发光？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你不是讨厌回力镖吗？\n\n铁轨不是很亮吗？\n\n是不是很可爱呢？"
+  },
+  {
+    "key": "town_returnitem_ANN_mes_0",
+    "original": "カエレール、持ってる？",
+    "translation": "回家轨道，有吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你有带回力镖吗？\n\n你有铁轨吗？\n\n你有凯雷尔吗？"
+  },
+  {
+    "key": "town_returnitem_MONA_mes_0",
+    "original": "カエレール、ちゃんと用意しておけよ！",
+    "translation": "回家轨道一定要准备好！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n回力镖要记得带哦！\n\n你可要好好准备哦！\n\n好好准备好扶手！"
+  },
+  {
+    "key": "town_returnitem_YUSUKE_m_0",
+    "original": "カエレールは必須だぞ、忘れるな。",
+    "translation": "回家轨道是必须品，不要忘记。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n回力镖是必需品，别忘了。\n\n铁轨是必须的，不要忘记。\n\n一定要带回家，别忘了。"
+  },
+  {
+    "key": "town_returnitem_FUTABA_m_0",
+    "original": "カエレール買っておかないとな！",
+    "translation": "得买一些回家轨道啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要买回力镖才行！\n\n我得买一条铁轨！\n\n必须买回家！"
+  },
+  {
+    "key": "town_returnitem_AKECHI_m_0",
+    "original": "カエレール、ちゃんと持ってる？",
+    "translation": "回家轨道，你有好好带着吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你有带回力镖吗？\n\n你有好好拿着铁轨吗？\n\n你有带回家吗？"
+  },
+  {
+    "key": "town_returnitem_P3HERO2__0",
+    "original": "カエレール忘れないようにね。",
+    "translation": "记得带上回家轨道哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n别忘了带回力镖哦。\n\n不要忘记扶手哦。\n\n不要忘记回家哦。"
+  },
+  {
+    "key": "town_returnitem_MAKOTO_m_0",
+    "original": "カエレールを忘れちゃダメよ。",
+    "translation": "不能忘记带上回家轨道哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不可以忘记带回力镖。\n\n你别忘了卡伊莱尔。\n\n可别忘了回家哦。"
+  },
+  {
+    "key": "town_returnitem_HARU_mes_0",
+    "original": "カエレールを買っておきましょう？",
+    "translation": "我们买一些回家轨道吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n回力镖要记得买哦。\n\n我给你买条铁轨吧？\n\n买些佳乐吧？"
+  },
+  {
+    "key": "town_returnitem_P4HERO_m_0",
+    "original": "カエレールの補充は任せた。",
+    "translation": "回家轨道的补给就交给你了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n回力镖的补充就交给你了。\n\n凯莱尔的补充交给你了。\n\n补充卡耶列尔的任务交给了他。"
+  },
+  {
+    "key": "town_returnitem_CHIE_mes_0",
+    "original": "カエレールないとヤバくない！？",
+    "translation": "没有回家轨道的话不是很糟糕吗！？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n没有回力镖很不妙吧！\n\n没有铁轨就不会糟糕！？\n\n不回去可不行！？"
+  },
+  {
+    "key": "town_returnitem_YUKIKO_m_0",
+    "original": "カエレール、買っておかない？",
+    "translation": "不去买一下回家轨道吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要去买回力镖？\n\n要不要买一条铁轨？\n\n要不要先买回家？"
+  },
+  {
+    "key": "town_returnitem_RISE_mes_0",
+    "original": "カエレール買いに行こ！",
+    "translation": "去买回家轨道吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n去买回力镖吧！\n\n去买铁轨吧！\n\n去买回家！"
+  },
+  {
+    "key": "town_returnitem_KANJI_me_0",
+    "original": "カエレールなくて大丈夫っスか？",
+    "translation": "不去买点回家轨道没问题吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n没有回力镖没问题吗？\n\n不回家不要紧吗？\n\n没有扶手也没关系吗？"
+  },
+  {
+    "key": "town_returnitem_NAOTO_me_0",
+    "original": "カエレールを\n用意しておくべきでしょう。",
+    "translation": "我们应该准备好回家轨道。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n\n应该要先准备好回力镖吧。\n\n应该准备好扶手吧。\n\n\n应该准备好牛奶杯吧。"
+  },
+  {
+    "key": "town_returnitem_KUMA_mes_0",
+    "original": "カエレール残ってないクマよ？",
+    "translation": "你的回家轨道已经用完了哦熊熊？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小熊，你没有回力镖了吧？\n\n没有剩下的小熊啊？\n\n没有留下痕迹的小熊啊？"
+  },
+  {
+    "key": "town_returnitem_YOUSUKE__0",
+    "original": "カエレール買いに行こうぜー！",
+    "translation": "去买回家轨道吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n去买回力镖吧！\n\n去买卡耶铁轨吧！\n\n去买回家吧！"
+  },
+  {
+    "key": "town_returnitem_YUKARI_m_0",
+    "original": "カエレールは持った？",
+    "translation": "回家轨道有带吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你有带回力镖吗？\n\n你有铁轨吗？\n\n带了卡耶雷吗？"
+  },
+  {
+    "key": "town_returnitem_JUNPEI_m_0",
+    "original": "カエレール買わないとマズいっしょ！",
+    "translation": "不买回家轨道的话会很糟吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不买回力镖很不妙吧！\n\n不买铁轨的话就一起买！\n\n不买回家先一起！"
+  },
+  {
+    "key": "town_returnitem_SANADA_m_0",
+    "original": "カエレールの準備は怠るなよ",
+    "translation": "回家轨道的准备不要懈怠。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n别疏于准备回力镖哦。\n\n不要懈怠准备滑轨\n\n准备卡耶勒可别偷懒啊"
+  },
+  {
+    "key": "town_returnitem_MITURU_m_0",
+    "original": "カエレールは残っているんだろうな？",
+    "translation": "回家轨道还剩有吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n回力镖还有剩吧？\n\n铁轨还残留着吧？\n\n卡耶列尔还在吗？"
+  },
+  {
+    "key": "town_returnitem_FUKA_mes_0",
+    "original": "カエレールの用意は大丈夫ですか？",
+    "translation": "回家轨道的准备没问题了吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n凯耶尔的准备没问题吗？\n\n你可以准备好牛奶杯吗？\n\n准备好扶手了吗？"
+  },
+  {
+    "key": "town_returnitem_AMADA_me_0",
+    "original": "カエレールを買っておきませんか？",
+    "translation": "要不要买一些回家轨道呢？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要买凯耶鲁呢？\n\n要不要先买杯咖啡？\n\n要不要买一条铁轨？"
+  },
+  {
+    "key": "town_returnitem_ARAGAKI__0",
+    "original": "カエレール忘れんなよ。",
+    "translation": "不要忘记回家轨道。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n别忘了凯耶尔。\n\n别忘了凯莱尔。\n\n别忘了回来哦。"
+  },
+  {
+    "key": "town_returnitem_P3HERO_m_0",
+    "original": "カエレールがないけど大丈夫？",
+    "translation": "没有回家轨道了吧，没关系吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n没有凯耶鲁耶，这样没问题吗？\n\n没有扶手没关系吗？\n\n没有回程，不要紧吗？"
+  },
+  {
+    "key": "town_returnitem_AEGIS_me_0",
+    "original": "カエレールを買うであります！",
+    "translation": "买回家轨道！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我要买凯耶勒！\n\n我要买铁轨！\n\n我要买佳乐！"
+  },
+  {
+    "key": "town_new_quest_RYUJI_mes_0",
+    "original": "チケット売り場は\n行かなくていいのかよ？",
+    "translation": "不用去售票处吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n\n　不用去售票处吗？\n\n售票处\n不去也可以吗？\n\n售票处\n不去行吗？"
+  },
+  {
+    "key": "town_new_quest_ANN_mes_0",
+    "original": "チケット売り場も見てみない？",
+    "translation": "不看看售票处吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要也去看看售票处？\n\n要不要也看看售票处？\n\n不看看售票处吗？"
+  },
+  {
+    "key": "town_new_quest_MONA_mes_0",
+    "original": "チケット売り場、こまめに\n確認しておこうぜ。",
+    "translation": "售票处，\n记得经常确认一下。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在售票处，要仔细\n确认哦。\n\n认真确认一下售票处吧。\n\n\n售票处，仔细确认一下吧。"
+  },
+  {
+    "key": "town_new_quest_YUSUKE_me_0",
+    "original": "チケット売り場から\n視線を感じたような…",
+    "translation": "从售票处感受到了视线……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我好像\n感觉到有人从售票处看着我……\n\n从售票处\n感觉到了视线……\n\n从售票处\n好像感觉到视线……"
+  },
+  {
+    "key": "town_new_quest_FUTABA_me_0",
+    "original": "たまにはチケット売り場も\nチェックしとけよ。",
+    "translation": "偶尔也要去检查一下售票处。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n偶尔也\n确认一下售票处吧。\n\n偶尔也要检查一下售票处。\n\n\n偶尔也检查一下售票处。"
+  },
+  {
+    "key": "town_new_quest_AKECHI_me_0",
+    "original": "チケット売り場に\n寄らなくていいのかい？",
+    "translation": "不需要去售票处吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n\n不用去售票处吗？\n\n\n不去售票处可以吗？\n\n不去售票处也可以吗？"
+  },
+  {
+    "key": "town_new_quest_P3HERO2_m_0",
+    "original": "チケット売り場にも行こうよ！",
+    "translation": "去售票处吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n也去售票处看看嘛！\n\n去售票处吧！\n\n也去售票处吧！"
+  },
+  {
+    "key": "town_new_quest_MAKOTO_me_0",
+    "original": "チケット売り場も寄った方が\nいいんじゃない？",
+    "translation": "售票处也去一下怎么样？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n\n也去售票处看看吧？\n\n顺便去一下售票处不是更好吗？\n\n\n去售票处不也很好吗？"
+  },
+  {
+    "key": "town_new_quest_HARU_mes_0",
+    "original": "チケット売り場は行かなくていいの？",
+    "translation": "不需要去售票处吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不用去售票处吗？\n\n不去售票处行吗？\n\n不去售票处也可以吗？"
+  },
+  {
+    "key": "town_new_quest_P4HERO_me_0",
+    "original": "チケット売り場は行かなくていいのか？",
+    "translation": "不需要去售票处吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不用去售票处吗？\n\n售票处不用去吗？\n\n不去售票处行吗？"
+  },
+  {
+    "key": "town_new_quest_CHIE_mes_0",
+    "original": "チケット売り場には行かないの？",
+    "translation": "不去售票处吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不去售票处吗？"
+  },
+  {
+    "key": "town_new_quest_YUKIKO_me_0",
+    "original": "チケット売り場、寄って行かない？",
+    "translation": "不去一趟售票处吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要去售票处看看？\n\n不顺便去一下售票处吗？\n\n要不要顺便去一下售票处？"
+  },
+  {
+    "key": "town_new_quest_RISE_mes_0",
+    "original": "チケット売り場にも寄っていこ！",
+    "translation": "去售票处一趟吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n也去售票处看看吧！\n\n顺便去一下售票处！\n\n顺便去售票处！"
+  },
+  {
+    "key": "town_new_quest_KANJI_mes_0",
+    "original": "チケット売り場、\n行かなくて大丈夫っスか？",
+    "translation": "售票处，\n不去没关系吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n售票处\n不去真的没关系吗？\n\n售票处\n不去也没关系吗？\n\n售票处，\n不去不要紧吗？"
+  },
+  {
+    "key": "town_new_quest_NAOTO_mes_0",
+    "original": "チケット売り場に寄りませんか？",
+    "translation": "不去趟售票处吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要去售票处看看？\n\n顺便去一下售票处吧？\n\n不去售票处吗？"
+  },
+  {
+    "key": "town_new_quest_KUMA_mes_0",
+    "original": "チケット売り場が呼んでるクマ！",
+    "translation": "售票处在呼唤我们熊熊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n票亭在呼唤小熊！\n\n售票处叫的小熊！\n\n售票处呼唤的小熊！"
+  },
+  {
+    "key": "town_new_quest_YOUSUKE_m_0",
+    "original": "チケット売り場も寄っていかね？",
+    "translation": "去售票处也逛逛吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要也去售票处看看？\n\n顺便去一下售票处吧？\n\n售票处也靠近吗？"
+  },
+  {
+    "key": "town_new_quest_YUKARI_me_0",
+    "original": "チケット売り場も行こ？",
+    "translation": "也去下售票处吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要去售票处？\n\n售票处也去？\n\n也去售票处？"
+  },
+  {
+    "key": "town_new_quest_JUNPEI_me_0",
+    "original": "チケット売り場も行こーぜ！",
+    "translation": "去售票处吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n也去售票处看看吧！\n\n售票处也去吧！\n\n也去售票处吧！"
+  },
+  {
+    "key": "town_new_quest_SANADA_me_0",
+    "original": "チケット売り場には寄らないのか？",
+    "translation": "不去趟售票处吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不顺便去售票处吗？\n\n不去售票处吗？"
+  },
+  {
+    "key": "town_new_quest_MITURU_me_0",
+    "original": "チケット売り場にも\n行くべきではないのか？",
+    "translation": "不应该也去下售票处吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n\n是不是该去售票处？\n\n\n难道不应该去售票处吗？\n\n不应该去售票处吗？"
+  },
+  {
+    "key": "town_new_quest_FUKA_mes_0",
+    "original": "チケット売り場は確認しなくて\n大丈夫ですか？",
+    "translation": "不确认一下售票处没关系吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不用去售票处确认\n没关系吗？\n\n不确认售票处\n没关系吗？\n\n不用确认售票处\n没关系吗？"
+  },
+  {
+    "key": "town_new_quest_AMADA_mes_0",
+    "original": "チケット売り場にも行きませんか？",
+    "translation": "要不要去下售票处？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要一起去售票处？\n\n也去售票处吧？\n\n也不去售票处吗？"
+  },
+  {
+    "key": "town_new_quest_ARAGAKI_m_0",
+    "original": "チケット売り場には行かねぇのか？",
+    "translation": "不去下售票处吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不去售票处吗？\n\n你不去售票处吗？"
+  },
+  {
+    "key": "town_new_quest_P3HERO_me_0",
+    "original": "チケット売り場には行かないの？",
+    "translation": "不去下售票处吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不去售票处吗？"
+  },
+  {
+    "key": "town_new_quest_AEGIS_mes_0",
+    "original": "チケット売り場は行かなくて\nいいのでしょうか？",
+    "translation": "不需要去售票处也可以吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不去售票处\n没关系吗？\n\n不去售票处\n可以吗？"
+  },
+  {
+    "key": "town_persona_max_RYUJI_m_0",
+    "original": "これ以上のペルソナは\n持てないみてぇだぜ？",
+    "translation": "好像不能拥有更多的\n人格面具了哦？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像\n不能再拿更多面具了耶？\n\n\n没有比这更好的人格面具了。\n\n没有比这更好的人格面具了？"
+  },
+  {
+    "key": "town_persona_max_ANN_mes_0",
+    "original": "ペルソナの所持数がいっぱいじゃん！",
+    "translation": "人格面具的持有数量已经很满了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量已经满了嘛！\n\n人格面具的持有数很多！\n\n人格面具的持有数不是很多吗！"
+  },
+  {
+    "key": "town_persona_max_MONA_me_0",
+    "original": "ペルソナの所持数が\nいっぱいじゃねーか！",
+    "translation": "人格面具的持有数量满了吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量\n已经满了不是吗！\n\n人格面具的持有数\n不是满吗！\n\n人格面具的持有数\n不是很满吗！"
+  },
+  {
+    "key": "town_persona_max_YUSUKE__0",
+    "original": "もうこれ以上のペルソナは\n持てないのか…",
+    "translation": "已经不能再拥有更多的人格面具了吗……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n已经不能再拿更多\n面具了吗……\n\n再也没有比这更好的人格面具了吗……"
+  },
+  {
+    "key": "town_persona_max_FUTABA__0",
+    "original": "これ以上ペルソナは持てないぞ！",
+    "translation": "不能再拥有更多的人格面具了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n已经不能再拿更多面具了哦！\n\n不能再拥有人格面具了！"
+  },
+  {
+    "key": "town_persona_max_AKECHI__0",
+    "original": "ペルソナの所持数が\nいっぱいのようだね。",
+    "translation": "看起来你的人格面具数量已经满了呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量\n好像满了耶。\n\n人格面具的持有数\n好像满。\n\n好像有很多人格面具。"
+  },
+  {
+    "key": "town_persona_max_P3HERO2_0",
+    "original": "ペルソナの所持数が\nいっぱいになっちゃったね。",
+    "translation": "人格面具的持有数量已经满了呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量\n已经满了呢。\n\n人格面具的持有数\n变得满了。\n\n人格面具的持有数\n已经满了。"
+  },
+  {
+    "key": "town_persona_max_MAKOTO__0",
+    "original": "ペルソナの所持数がいっぱいね。",
+    "translation": "人格面具的持有数量真满呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量已经满了呢。\n\n人格面具的持有数很多呢。\n\n人格面具的持有数量很多呢。"
+  },
+  {
+    "key": "town_persona_max_HARU_me_0",
+    "original": "もうこれ以上ペルソナは\n持てないね…",
+    "translation": "再也无法拥有更多的人格了呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n已经不能再拿更多\n面具了呢……\n\n已经不能再拥有人格面具了……\n\n\n已经不能再拥有人格面具了呢……"
+  },
+  {
+    "key": "town_persona_max_P4HERO__0",
+    "original": "ペルソナの所持数が\nいっぱいになっているな。",
+    "translation": "人格面具的持有数量已经满了呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量\n已经满了啊。\n\n人格面具的持有数已经满了。\n\n\n人格面具的持有量已经满了。"
+  },
+  {
+    "key": "town_persona_max_CHIE_me_0",
+    "original": "ペルソナの所持数がいっぱいだよ！",
+    "translation": "人格面具的持有数量已经满了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量已经满了哦！\n\n人格面具的持有数已经满了！\n\n有很多人格面具哦！"
+  },
+  {
+    "key": "town_persona_max_YUKIKO__0",
+    "original": "ペルソナの所持数がいっぱいだね…",
+    "translation": "人格面具的持有数量好像很满了呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量已经满了呢……\n\n人格面具的持有数很满啊……\n\n人格面具的持有数量很多呢……"
+  },
+  {
+    "key": "town_persona_max_RISE_me_0",
+    "original": "ペルソナの所持数がいっぱいだよ。",
+    "translation": "拥有的人格面具数量已经满了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量已经满了哦。\n\n人格面具的持有数已经满了。\n\n有很多人格面具。"
+  },
+  {
+    "key": "town_persona_max_KANJI_m_0",
+    "original": "ペルソナの所持数が\nいっぱいじゃないっスか？",
+    "translation": "你的人格面具持有数量\n不是已经满了吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量\n不是已经满了咩？\n\n人格面具的持有数\n不是很多吗？\n\n人格面具的持有量不是很多吗？"
+  },
+  {
+    "key": "town_persona_max_NAOTO_m_0",
+    "original": "これ以上ペルソナは持てないようです…",
+    "translation": "似乎是无法再拥有更多的人格面具了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像不能再拿更多面具了耶……\n\n似乎不能再拥有人格面具了……\n\n好像不能再拥有人格面具了……"
+  },
+  {
+    "key": "town_persona_max_KUMA_me_0",
+    "original": "ペルソナの所持数が\nパンパンになったクマ～！",
+    "translation": "拥有的人格面具数量已经爆满了熊熊～！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量\n已经爆满了小熊～！\n\n人格面具的持有数\n变成了面包的小熊～！\n\n人格面具的持有数变成了\n面包的小熊～！"
+  },
+  {
+    "key": "town_persona_max_YOUSUKE_0",
+    "original": "ペルソナの数が溢れそうになってんぞ？",
+    "translation": "人格面具的持有数量好像要溢出来了哦？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的数量快要满出来了耶？\n\n人格面具的数量快要溢出来了。\n\n人格面具的数量快要溢出了哟？"
+  },
+  {
+    "key": "town_persona_max_YUKARI__0",
+    "original": "ペルソナの所持数がいっぱいじゃない？",
+    "translation": "人格面具的持有数量不是已经很满了吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量已经满了不是吗？\n\n人格面具的持有数不是满了吗？\n\n人格面具的持有数量不是很多吗？"
+  },
+  {
+    "key": "town_persona_max_JUNPEI__0",
+    "original": "ペルソナの所持数がいっぱいだぜ？",
+    "translation": "人格面具的持有数量已经很满了哦？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量已经满了耶？\n\n人格面具的持有数已经满了。\n\n人格面具的持有数量很多啊？"
+  },
+  {
+    "key": "town_persona_max_SANADA__0",
+    "original": "ペルソナの所持数が\nいっぱいのようだな…",
+    "translation": "人格面具的持有数量好像已经满了呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量\n好像满了啊……\n\n人格面具的持有数\n好像满……\n\n人格面具的持有数量好像很多……"
+  },
+  {
+    "key": "town_persona_max_MITURU__0",
+    "original": "ペルソナの所持数がいっぱいだぞ。",
+    "translation": "人格面具的持有数量已经满了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量已经满了哦。\n\n人格面具的持有数已经满了。\n\n有很多人格面具。"
+  },
+  {
+    "key": "town_persona_max_FUKA_me_0",
+    "original": "ペルソナの所持数が\nいっぱいみたいです…",
+    "translation": "看起来，人格面具\n的持有数量已经满了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量\n好像已经满了耶……\n\n人格面具的持有数\n好像满……\n\n人格面具的持有数\n好像很多……"
+  },
+  {
+    "key": "town_persona_max_AMADA_m_0",
+    "original": "ペルソナの所持数がいっぱいですね…",
+    "translation": "人格面具的持有数量已经满了呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量已经满了呢……\n\n人格面具的持有数很满啊……\n\n人格面具的持有数量很多呢……"
+  },
+  {
+    "key": "town_persona_max_ARAGAKI_0",
+    "original": "おい、ペルソナの所持数がいっぱいだ。",
+    "translation": "喂，人格面具的持有数量已经满了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n喂，面具的持有数量已经满了。\n\n喂，人格面具的持有数量很多。\n\n喂，人格面具的数量已经够多了。"
+  },
+  {
+    "key": "town_persona_max_P3HERO__0",
+    "original": "ペルソナの所持数がいっぱいだね。",
+    "translation": "人格面具的持有数量已经满了呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n面具的持有数量已经满了呢。\n\n人格面具的持有数很满呢。\n\n人格面具的持有数量很多呢。"
+  },
+  {
+    "key": "town_persona_max_AEGIS_m_0",
+    "original": "ペルソナの所持数が\nマックスであります！",
+    "translation": "拥有的人格面具数量已经达到最大值了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n人格面具持有数已达\nMAX！\n\n人格面具的持有数是\nmax ！\n\n人格面具的持有数是\nMax！"
+  },
+  {
+    "key": "town_item_max_RYUJI_mes_0",
+    "original": "荷物、減らせるモンねーの？",
+    "translation": "行李，能减少点吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n没有可以减少的行李吗？\n\n行李不能减吗？\n\n行李，能减少吗？"
+  },
+  {
+    "key": "town_item_max_ANN_mes_0",
+    "original": "ちょっと手荷物多すぎじゃない？",
+    "translation": "所持物有点太多了吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李会不会有点太多了？\n\n行李有点太多了吧？\n\n随身行李是不是太多了？"
+  },
+  {
+    "key": "town_item_max_MONA_mes_0",
+    "original": "オタカラでも売って\n荷物を減らしておこうぜ。",
+    "translation": "在宝物店卖掉一些东西，\n减轻行李吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n把宝物卖掉\n减少行李吧。\n\n把宝贝卖掉，减少货物吧。\n\n\n把行李减少一些吧。"
+  },
+  {
+    "key": "town_item_max_YUSUKE_mes_0",
+    "original": "手荷物が溢れかえっている。\n美しくないな…",
+    "translation": "所持物满满当当的。\n看起来不太美观啊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李多到满出来了。\n真不美……\n\n行李都溢出来了。\n不美啊……\n\n行李到处都是。\n不美啊……"
+  },
+  {
+    "key": "town_item_max_FUTABA_mes_0",
+    "original": "みんな、荷物詰め込みすぎだろ！",
+    "translation": "大家，行李装得太满了吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家行李都塞太满了啦！\n\n大家，行李塞得太多了吧！\n\n大家行李塞得太多了吧！"
+  },
+  {
+    "key": "town_item_max_AKECHI_mes_0",
+    "original": "荷物を減らすことを提案するよ。",
+    "translation": "建议减少行李哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我提议减少行李。"
+  },
+  {
+    "key": "town_item_max_P3HERO2_me_0",
+    "original": "あはは、ちょっと荷物が多すぎるね！",
+    "translation": "啊哈哈，行李有点太多了呢！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啊哈哈，行李有点太多了呢！\n\n啊哈哈，行李有点太多了！\n\n哈哈，行李有点太多了！"
+  },
+  {
+    "key": "town_item_max_MAKOTO_mes_0",
+    "original": "少し荷物を減らしておきましょう。",
+    "translation": "稍微减少一些行李吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n稍微减少行李吧。\n\n我们稍微减少一下行李吧。"
+  },
+  {
+    "key": "town_item_max_HARU_mes_0",
+    "original": "ちょっと荷物を減らさないとだね。",
+    "translation": "得稍微减少一下行李呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n得减少行李才行呢。\n\n你得减少一下行李。\n\n我得把行李减少一点。"
+  },
+  {
+    "key": "town_item_max_P4HERO_mes_0",
+    "original": "荷物を減らしてから行こう。",
+    "translation": "让我们减少行李然后出发吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n减少行李后再走吧。\n\n把行李减了再走吧。\n\n我们少拿点行李再走吧。"
+  },
+  {
+    "key": "town_item_max_CHIE_mes_0",
+    "original": "あちゃー。\n手荷物がいっぱいだね。",
+    "translation": "哎呀。\n所持物好像很多呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哎呀～\n行李好多哦。\n\n啊。\n随身行李太多了。\n\n阿恰。行李好满啊。"
+  },
+  {
+    "key": "town_item_max_YUKIKO_mes_0",
+    "original": "手荷物減らした方が\n良くないかな？",
+    "translation": "减少所持物会更好吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n减少行李\n比较好吧？\n\n\n减少随身行李不好吗？\n\n减少随身行李不好吗？"
+  },
+  {
+    "key": "town_item_max_RISE_mes_0",
+    "original": "手荷物がいっぱいだよ！",
+    "translation": "所持物太多了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李好多哦！\n\n行李满了！\n\n行李很满哦！"
+  },
+  {
+    "key": "town_item_max_KANJI_mes_0",
+    "original": "手荷物がパンパンっスよ。",
+    "translation": "所持物太满了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李都满了啦。\n\n随身行李是内裤。\n\n随身行李会鼓鼓的。"
+  },
+  {
+    "key": "town_item_max_NAOTO_mes_0",
+    "original": "手荷物がいっぱいのようです。",
+    "translation": "所持物看起来很满。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李好像都满了。\n\n行李好像满了。\n\n好像有很多行李。"
+  },
+  {
+    "key": "town_item_max_KUMA_mes_0",
+    "original": "ぬぬぬ、荷物が多すぎクマ～！",
+    "translation": "哼哼哼，行李太多了啦～！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔唔唔，行李太多啦小熊～！\n\n小熊，行李太多了！\n\n狗狗，行李太多了小熊～！"
+  },
+  {
+    "key": "town_item_max_YOUSUKE_me_0",
+    "original": "荷物減らした方が\nいいんじゃないかー？",
+    "translation": "减少行李可能会更好吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n减少行李\n比较好吧？\n\n\n减少行李不是更好吗？\n\n减少行李不是更好吗？"
+  },
+  {
+    "key": "town_item_max_YUKARI_mes_0",
+    "original": "荷物、減らした方がいいんじゃない？",
+    "translation": "行李，减少一些会更好吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n减少行李比较好吧？\n\n减少行李不是更好吗？\n\n是不是减少行李比较好呢？"
+  },
+  {
+    "key": "town_item_max_JUNPEI_mes_0",
+    "original": "ちょっ、さすがに荷物多すぎっしょ？",
+    "translation": "这，行李实在是太多了吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n喂，行李未免太多了吧？\n\n喂，到底是行李太多了吧？\n\n喂，到底行李太多了吧？"
+  },
+  {
+    "key": "town_item_max_SANADA_mes_0",
+    "original": "荷物がいっぱいで\nプロテインも買えないぞ！",
+    "translation": "行李太多了，\n连蛋白粉也买不了了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李都满了\n连蛋白粉都买不了啦！\n\n行李满了\n蛋白质也买不到！\n\n行李太多\n连蛋白粉都买不到！"
+  },
+  {
+    "key": "town_item_max_MITURU_mes_0",
+    "original": "手荷物を減らしてから\n出発するべきだろうな。",
+    "translation": "应该在减少行李之后再出发。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n应该减少行李后再出发吧。\n\n\n应该减少随身行李后再出发吧。\n\n\n应该先把行李减下来再出发吧。"
+  },
+  {
+    "key": "town_item_max_FUKA_mes_0",
+    "original": "あの、手荷物を減らしておきませんか？",
+    "translation": "那个，要不要减少所持物呢？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那个，要不要减少行李呢？\n\n那个，能把随身行李减一下吗？\n\n请问要减少随身行李吗？"
+  },
+  {
+    "key": "town_item_max_AMADA_mes_0",
+    "original": "ちょっと、荷物が多すぎませんか？",
+    "translation": "请问，行李不会太多了吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n等等，行李会不会太多了？）\n\n行李是不是太多了？\n\n是不是行李太多了？"
+  },
+  {
+    "key": "town_item_max_ARAGAKI_me_0",
+    "original": "荷物を減らした方がいいんじゃねえか？",
+    "translation": "减少行李会更好吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n减少行李比较好吧？\n\n是不是减少行李比较好呢？\n\n减少行李不是更好吗？"
+  },
+  {
+    "key": "town_item_max_P3HERO_mes_0",
+    "original": "うーん…荷物がいっぱいみたい。",
+    "translation": "嗯……看起来行李太多了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯……行李好像都满了。\n\n嗯……行李好像很多。\n\n嗯……好像行李很多。"
+  },
+  {
+    "key": "town_item_max_AEGIS_mes_0",
+    "original": "荷物がいっぱいであります！",
+    "translation": "行李太多了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李满了！\n\n行李很满！"
+  },
+  {
+    "key": "town_bg00_HIKARI_mes01_0",
+    "original": "ナギさん…",
+    "translation": "凪小姐……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n凪同学……\n\n凪小姐……"
+  },
+  {
+    "key": "town_bg00_HIKARI_mes02_0",
+    "original": "うん…",
+    "translation": "嗯……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯……"
+  },
+  {
+    "key": "town_bg00_NAGI_mes01_0",
+    "original": "私たちの出来る範囲で協力しましょう。",
+    "translation": "让我们在我们的能力范围内合作吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在我们能力所及的范围内帮忙吧。\n\n在我们力所能及的范围内合作吧。\n\n在我们力所能及的范围内协助吧。"
+  },
+  {
+    "key": "town_bg00_NAGI_mes02_0",
+    "original": "怖がらなくて大丈夫よ、ひかりさん。",
+    "translation": "不要害怕，光小姐，没关系的。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不用害怕哦，光公子。\n\n不用害怕，光小姐。"
+  },
+  {
+    "key": "town_bg00_DOE_mes01_0",
+    "original": "……。",
+    "translation": "……",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_ANN_mes01_0",
+    "original": "どうなってんだろ、ここ…",
+    "translation": "这里到底怎么了呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这里是怎么回事啊……\n\n怎么回事，这里……\n\n这是怎么回事呢？"
+  },
+  {
+    "key": "town_bg00_ANN_mes02_0",
+    "original": "ショップ行ってみる？",
+    "translation": "要去商店看看吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要去电影院看看？\n\n去商店看看？\n\n要不要去商店看看？"
+  },
+  {
+    "key": "town_bg00_ANN_mes03_0",
+    "original": "あの二人、いつからココにいるのかな？",
+    "translation": "那两个人，从什么时候开始在这里呢？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那两个人是从什么时候开始待在这里的？\n\n那两个人，从什么时候开始在这里呢？\n\n那两个人是从什么时候开始在这里的？"
+  },
+  {
+    "key": "town_bg00_YUSUKE_mes01_0",
+    "original": "まずは腹ごしらえだ。",
+    "translation": "首先要填饱肚子。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n先填饱肚子再说。\n\n先忍一下吧。\n\n首先是填饱肚子。"
+  },
+  {
+    "key": "town_bg00_YUSUKE_mes02_0",
+    "original": "観客は他にいないようだな。",
+    "translation": "观众似乎没有其他人了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像没有其他观众耶。\n\n好像没有其他观众了。\n\n好像没有其他观众。"
+  },
+  {
+    "key": "town_bg00_YUSUKE_mes03_0",
+    "original": "チケット代は払わなくていいのか？\n持ち合わせが…",
+    "translation": "不支付门票费可以吗？\n我没有带够钱……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不用付票钱吗？\n随身携带的东西……\n\n不用付门票钱吗？\n持有……\n\n不用付钱吗？"
+  },
+  {
+    "key": "town_bg00_FUTABA_mes01_0",
+    "original": "おイナリ、腹の虫がうるさいぞ。",
+    "translation": "哎呀，肚子里的虫子真吵。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我身上没带钱……\n\n喂，肚子里的虫子烦死了。\n\n小狐狸，你肚子里的虫子太吵了。"
+  },
+  {
+    "key": "town_bg00_FUTABA_mes02_0",
+    "original": "真と春が心配だな…",
+    "translation": "真和春都让人担心啊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n肚子好饿哦。\n\n真和春真让人担心啊……\n\n真担心春天啊……"
+  },
+  {
+    "key": "town_bg00_FUTABA_mes03_0",
+    "original": "映画館、貸切みたいだな！",
+    "translation": "电影院，感觉像是包场一样！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真和小春好令人担心……\n\n电影院，好像包租！\n\n电影院好像被包租了！"
+  },
+  {
+    "key": "town_bg00_AKECHI_mes01_0",
+    "original": "この現象の謎を究明したいものだね。",
+    "translation": "想要探究这种现象的谜团呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n电影院好像被包场了！\n\n真想查明这个现象的谜团啊。\n\n真想揭开这个现象的谜团。"
+  },
+  {
+    "key": "town_bg00_AKECHI_mes02_0",
+    "original": "早く二人を助けに行こう。",
+    "translation": "快点去帮助那两个人。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真想解开这个现象的谜团。\n\n快去救他们俩吧。\n\n快去救两个人啊。"
+  },
+  {
+    "key": "town_bg00_AKECHI_mes03_0",
+    "original": "興味深い、不思議な世界だね。",
+    "translation": "有趣的，不可思议的世界呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n快去救她们两个吧。\n\n真是有趣、不可思议的世界啊。\n\n真是个有趣、不可思议的世界。"
+  },
+  {
+    "key": "town_bg01_HIKARI_mes01_0",
+    "original": "……。",
+    "translation": "……",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "town_bg01_HIKARI_mes02_0",
+    "original": "あの、ええと…みんな…",
+    "translation": "那个，嗯……大家……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真是个耐人寻味的奇妙世界。\n\n那个，嗯……大家……\n\n那个，那个……大家……"
+  },
+  {
+    "key": "town_bg01_HIKARI_mes03_0",
+    "original": "映画祭…",
+    "translation": "电影节……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那个，呃……各位……\n\n电影节……"
+  },
+  {
+    "key": "town_bg01_RYUJI_mes01_0",
+    "original": "やべっ、食い始めたら止まらねー。",
+    "translation": "哎呀，一开始吃起来就停不下来。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n电影祭……\n\n哎呀，一开始吃就停不下来啊。\n\n哎呀，一开始吃就停不下来。"
+  },
+  {
+    "key": "town_bg01_RYUJI_mes02_0",
+    "original": "おめーら、ちょっと落ち着けって。",
+    "translation": "你们，稍微冷静一点。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n糟糕，一吃就停不下来了。\n\n喂，冷静一下。\n\n你们冷静一下。"
+  },
+  {
+    "key": "town_bg01_RYUJI_mes03_0",
+    "original": "[P5名]と[P3P姓]って\nなんか気が合いそうだよな。",
+    "translation": "[P5名]和[P3P姓]\n不知为何总感觉会合得来。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n[P5名]和[P3P姓]\n好像很合得来呢。\n\n你们冷静一点啦。[P5名][P3P姓]\n\n\n[P5名]和[P3P姓]好像很合得来。\n\n评论：\n\n前半句不太懂怎么回事儿"
+  },
+  {
+    "key": "town_bg01_MONA_mes01_0",
+    "original": "のわっ！　こぼすだろうが！",
+    "translation": "哇！会洒出来吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n他和他感觉会很合得来呢。\n\n哇！会洒出来的吧！"
+  },
+  {
+    "key": "town_bg01_MONA_mes02_0",
+    "original": "このジュース、なかなかウマイな！",
+    "translation": "这个果汁真好喝！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哇！会洒出来啦！\n\n这个果汁很好喝啊！"
+  },
+  {
+    "key": "town_bg01_FUTABA_mes01_0",
+    "original": "へへっ、スキありだ！",
+    "translation": "嘿嘿，有破绽！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这饮料还真好喝！\n\n嘿嘿，有喜欢的！\n\n嘿嘿，真爱蚂蚁！"
+  },
+  {
+    "key": "town_bg01_FUTABA_mes02_0",
+    "original": "にひひひ！",
+    "translation": "嘻嘻嘻！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嘿嘿，有破绽！\n\n嘿嘿！\n\n嘻嘻嘻！"
+  },
+  {
+    "key": "town_bg01_P3HERO2_mes01_0",
+    "original": "近いところは、辰巳ポートアイランドの\n映画館スクリーンショットかな？",
+    "translation": "这附近是辰巳港湾人工岛的\n电影院截屏吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n附近是辰巳港岛的\n电影院截图吗？\n\n咿嘻嘻嘻！\n\n\n最近的地方是辰巳港岛的电影院的屏幕截图吧？"
+  },
+  {
+    "key": "town_bg01_P3HERO2_mes02_0",
+    "original": "スクリーンショットでは、夏休みに\n映画祭をするんだよ！",
+    "translation": "在截屏里，\n要在暑假举办电影节！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n最近的电影院是辰巳港湾人工岛的\n电影屏幕截图吗？\n\n截图是暑假\n电影节哟！\n\n屏幕截图，暑假的时候\n要举行电影节哦！"
+  },
+  {
+    "key": "town_bg01_P3HERO2_mes03_0",
+    "original": "へぇ、喫茶店の２階に住んでるんだ！",
+    "translation": "哇，居然住在咖啡店的二楼！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n电影屏幕截图在暑假会举办电影祭哦！\n\n哎，我住在咖啡店的二楼！\n\n哦，我住在咖啡店的2楼！"
+  },
+  {
+    "key": "town_bg02_HIKARI_mes01_0",
+    "original": "あっ、あの…えっと…",
+    "translation": "啊，那个…… 呃……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦，原来她住在咖啡厅的二楼啊！\n\n啊，那个……嗯……\n\n啊，那个……呃……"
+  },
+  {
+    "key": "town_bg02_HIKARI_mes02_0",
+    "original": "わ、私は…あの…",
+    "translation": "哇，我是……那个……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那、那个……呃……\n\n我、我……那个……\n\n哇，我……那个……"
+  },
+  {
+    "key": "town_bg02_HIKARI_mes03_0",
+    "original": "わっ？　は、はいっ！",
+    "translation": "哇？是、是的！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我、我……那个……\n\n哇？是、是！\n\n哇？好、好！"
+  },
+  {
+    "key": "town_bg02_NAGI_mes01_0",
+    "original": "あらあら…ふふっ。",
+    "translation": "哎呀哎呀…… 呵呵。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哇？是、是的！\n\n哎呀……呵呵。\n\n哎呀呀……呵呵。"
+  },
+  {
+    "key": "town_bg02_NAGI_mes02_0",
+    "original": "ひかりさんったら…うふふ。",
+    "translation": "光小姐………呵呵。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哎呀哎呀……呵呵。\n\n光小姐……呵呵。\n\n光小姐的话……呵呵呵。"
+  },
+  {
+    "key": "town_bg02_MAKOTO_mes01_0",
+    "original": "ひかりちゃん、バウト零時は見た？",
+    "translation": "小光，你看到“巴乌特零时”了吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n光真是的……呵呵呵。\n\n小光，看过零时吗？\n\n阿光，你看到零点了吗？\n\n评论：\n\np5就有的电影名"
+  },
+  {
+    "key": "town_bg02_MAKOTO_mes02_0",
+    "original": "恐竜の楽園…本当にあるのかしら…",
+    "translation": "恐龙的乐园……真的存在吗……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小光，你看过“拳击零时”了吗？\n\n恐龙的乐园……真的有吗……\n\n恐龙乐园……真的有吗……"
+  },
+  {
+    "key": "town_bg02_MAKOTO_mes03_0",
+    "original": "みんな、ちゃんとご飯食べてる？\n過度なダイエットはよくないわよ。",
+    "translation": "大家，都好好吃饭了吗？\n过度节食可不好哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家有好好吃饭吗？\n过度减肥是不好的。\n\n恐龙乐园……真的存在吗……\n\n\n大家都好好吃饭了吗？过度的减肥是不好的。"
+  },
+  {
+    "key": "town_bg02_HARU_mes01_0",
+    "original": "ＺＡＷの公開が待ち遠しいな。",
+    "translation": "ZAW的发布真让人期待啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家有没有好好吃饭？过度减肥不好哦。\n\n期待ZAW的公开。\n\n期待ZAW的公开啊。"
+  },
+  {
+    "key": "town_bg02_HARU_mes02_0",
+    "original": "お野菜もちゃんと摂らないと。",
+    "translation": "要好好吃掉蔬菜哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好期待“ZAW”上映哦。别忘了摄取蔬菜。\n\n蔬菜也要多吃。\n\n蔬菜也要好好吃。"
+  },
+  {
+    "key": "town_bg02_CHIE_mes01_0",
+    "original": "ひかりちゃん、成龍伝説って知ってる？\nカンフー映画なんだけど！",
+    "translation": "小光，你知道“成龙传说”吗？\n是一部功夫电影哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小光，你知道成龙传说吗？\n那可是功夫电影耶！\n\n小光，你知道成龙传说吗？\n虽然是功夫电影！\n\n光仔，你知道成龙传说吗？\n虽然是功夫片！"
+  },
+  {
+    "key": "town_bg02_CHIE_mes02_0",
+    "original": "行ってみれば分かるっしょ！\nね、ひかりちゃん？",
+    "translation": "去了就会明白的嘛！\n对吧，小光？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n去了就知道了吧！\n对吧，小光？\n\n去看看就知道了！\n啊，小光？\n\n去了就知道了！\n喂，小光？"
+  },
+  {
+    "key": "town_bg02_CHIE_mes03_0",
+    "original": "基本はお肉でしょー！\n肉はあなたを裏切らない！",
+    "translation": "基本上就是肉啦！\n肉绝不会背叛你！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n基本上就是吃肉吧！\n肉是不会背叛你的！\n\n基本上是肉吧！\n肉不会背叛你！\n\n基本是肉吧！\n肉不会背叛你！"
+  },
+  {
+    "key": "town_bg02_YUKIKO_mes01_0",
+    "original": "この前、発信アリを見たんだけど\nお腹抱えて笑っちゃった！",
+    "translation": "我之前看了“鬼致电”，\n看得我捧腹大笑！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我之前看到发信蚁了\n笑到肚子都痛了！\n\n前几天，看了发信蚂蚁\n肚子抱笑了！\n\n前几天，看到了发信蚂蚁\n捧腹大笑！\n\n评论：\n\nneta自电影《着信アリ》，译名《鬼来电》"
+  },
+  {
+    "key": "town_bg02_YUKIKO_mes02_0",
+    "original": "はっ、これが噂の女子会…！？",
+    "translation": "哈，这就是传说中的女生聚会吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊，这就是传说中的女生聚会……！？\n\n哈，这就是传说中的女生聚会……！？"
+  },
+  {
+    "key": "town_bg02_RISE_mes01_0",
+    "original": "私はローマの有休が楽しみだなー。",
+    "translation": "我很期待在罗马度过带薪假呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我好期待罗马的有薪假哦～\n\n我很期待罗马的有休。\n\n我很期待罗马的有假。"
+  },
+  {
+    "key": "town_bg02_RISE_mes02_0",
+    "original": "バランスって大事だよね。\n栄養も考えないと。",
+    "translation": "平衡真的很重要呢。\n也要考虑营养。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n均衡是很重要的呢。\n也得注意营养才行。\n\n巴兰斯很重要吧。\n也要考虑营养。\n\n平衡很重要。也要考虑营养。"
+  },
+  {
+    "key": "town_bg02_RISE_mes03_0",
+    "original": "うーん。\n奥の方まではナビが届かないんだ…",
+    "translation": "嗯，\n导航无法到达深处的地方……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯——\n导航没办法到那么里面去呢……\n\n嗯。\n导航无法到达里面……\n\n嗯。\n导航无法到达最里面的地方……"
+  },
+  {
+    "key": "town_bg03_MONA_mes01_0",
+    "original": "やーめーろー！",
+    "translation": "给 我 停！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n住——手——！\n\n喂喂！\n\n呀，梅洛！"
+  },
+  {
+    "key": "town_bg03_MONA_mes02_0",
+    "original": "ったく、ベタベタ触んじゃねーよ。\n毛並みが乱れるだろうが。",
+    "translation": "真是的，粘粘糊糊的别碰我。\n会弄乱我的毛发的。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真是的，不要一直摸啦。\n毛都要乱掉了。\n\n不要碰黏糊糊的。\n毛色乱了吧。\n\n哎呀，别摸黏糊糊的。毛会乱吧。"
+  },
+  {
+    "key": "town_bg03_TEODOA_mes01_0",
+    "original": "私、オブジェと一体化していますが…\nご入用の際は、テオドアショップへ。",
+    "translation": "我已经与工艺品融为一体了……\n如果需要的话，请到西奥多商店。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我整个人和摆设融为一体了……\n有需要时请洽Theodore's。\n\n我和观察员一体化了……\n需要的时候，去西奥多店。\n\n我和这些物件融为一体……您需要的时候，请去西奥多店。"
+  },
+  {
+    "key": "town_bg03_YUSUKE_mes01_0",
+    "original": "素晴らしい…\nなんて前衛的なフォルムなんだ！",
+    "translation": "太棒了……\n这是多么前卫的造型啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太棒了……\n多么前卫的造型啊！"
+  },
+  {
+    "key": "town_bg03_YUSUKE_mes02_0",
+    "original": "待て、動くな！　あと、３時間！",
+    "translation": "等一下，不要动！还有3个小时！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n等等，不准动！还有三个小时！\n\n等等，别动！还有3个小时！\n\n站住，别动！还有3个小时！"
+  },
+  {
+    "key": "town_bg03_AKECHI_mes01_0",
+    "original": "白鐘君、君とはゆっくり話したいと\n思っていたんだ。光栄だな。",
+    "translation": "白钟，我一直想和你慢慢地聊聊。\n我很荣幸哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n白钟，我一直想和你好好聊聊呢\n真是荣幸。光荣之至。\n\n白钟君，我一直想和你慢慢说。真是光荣啊。\n\n\n白钟，我一直想和你好好谈谈。真光荣啊。"
+  },
+  {
+    "key": "town_bg03_AKECHI_mes02_0",
+    "original": "まずは、白鐘君の意見を\n聞かせてくれないか？",
+    "translation": "首先，\n能不能听听白钟君的意见？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n首先，可以\n告诉我你的意见吗？\n\n首先，能让我听听白钟君的意见吗？\n\n\n首先，能让我听听白钟的意见吗？"
+  },
+  {
+    "key": "town_bg03_KANJI_mes01_0",
+    "original": "あの…ちょっとだけいいか？\nちょっとだけだからよ！",
+    "translation": "那个……可以稍微借我一下吗？\n只是一下下哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那个……可以摸一下吗？\n一下下就好！\n\n那个……稍微可以吗？\n只是一点点而已！\n\n那个……可以稍微等一下吗？\n就那么一点点啊！"
+  },
+  {
+    "key": "town_bg03_KANJI_mes02_0",
+    "original": "も、もふ…もっふもふ天国…",
+    "translation": "毛、毛茸……毛茸茸天堂……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n毛、毛茸茸……毛茸茸天国……\n\n莫、莫夫……天堂……\n\n不、不……不、不，不、不，不、不，不、不……"
+  },
+  {
+    "key": "town_bg03_NAOTO_mes01_0",
+    "original": "ええと…\n僕でよければ、いくらでも。",
+    "translation": "嗯……我的话，\n多少都可以。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呃……\n不嫌弃的话，要摸多久都行。\n\n如果我可以的话，多少都可以。\n\n\n嗯……如果我可以的话，多少都行。"
+  },
+  {
+    "key": "town_bg03_NAOTO_mes02_0",
+    "original": "この不思議な事態について\n色んな推理が出来そうですね。",
+    "translation": "这种不可思议的情况似乎\n可以进行各种推理。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n关于这个不可思议的事态\n似乎可以做出各种推理呢。\n\n关于这个不可思议的事态\n好像能做出各种各样的推理呢。"
+  },
+  {
+    "key": "town_bg03_KUMA_mes01_0",
+    "original": "オヨヨヨ…\nあ、足がしびれてきたクマ…",
+    "translation": "哦呦呦……\n啊，我的脚麻了熊熊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦哟哟哟……\n啊，脚麻了小熊……\n\n啊，脚麻了的小熊……\n\n\n终于……啊，小熊腿麻了……"
+  },
+  {
+    "key": "town_bg03_KUMA_mes02_0",
+    "original": "そんなに見つめられると…\n体が痒くなってくるクマ…",
+    "translation": "被这样盯着看的话……\n会觉得身体发痒熊熊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n被你这样盯着看……\n身体痒起来了小熊……\n\n被那样凝视的话……\n身体发痒的小熊……\n\n被那样盯着的话……\n小熊身体开始发痒……"
+  },
+  {
+    "key": "town_bg04_DOE_mes01_0",
+    "original": "……。",
+    "translation": "……",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "town_bg04_ZABES_mes01_0",
+    "original": "……。",
+    "translation": "……",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "town_bg04_ANN_mes01_0",
+    "original": "編み物できるの？\nすっご！　めっちゃ器用！",
+    "translation": "会织毛衣吗？\n太厉害了！真能干！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你会打毛线吗？\n好厉害！手好巧！\n\n你会编织吗？\n真厉害！非常灵巧！\n\n你会织毛衣吗？\n真厉害！超级灵巧！"
+  },
+  {
+    "key": "town_bg04_ANN_mes02_0",
+    "original": "へー、すごーい！\nそれでそれで？",
+    "translation": "诶，太厉害了！\n然后呢然后呢？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦～好厉害～！\n然后呢然后呢？\n\n哇，好厉害！\n然后呢？\n\n啊，好厉害！\n然后呢？"
+  },
+  {
+    "key": "town_bg04_ANN_mes03_0",
+    "original": "完二くんもジュース飲む？\n炭酸のがいいかな？",
+    "translation": "完二也要喝果汁吗？\n还是想要碳酸饮料？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n完二也要喝果汁吗？\n碳酸的好吗？\n\n完二也喝果汁吗？\n碳酸的好吗？"
+  },
+  {
+    "key": "town_bg04_P3HERO2_mes01_0",
+    "original": "うん、協力してガンバろ！",
+    "translation": "好的，一起合作加油吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯，一起加油吧！\n\n嗯，合作加油！\n\n嗯，协力加油！"
+  },
+  {
+    "key": "town_bg04_P3HERO2_mes02_0",
+    "original": "少し休憩したら、また映画に行こう！",
+    "translation": "稍微休息一下，然后再去看电影吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n休息一会儿后，再去看电影吧！\n\n稍微休息一下，再去看电影吧！"
+  },
+  {
+    "key": "town_bg04_P4HERO_mes01_0",
+    "original": "仲間が増えて心強いな。",
+    "translation": "伙伴增加了，感觉真令人放心。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n伙伴变多了，心里踏实多了。\n\n同伴增加了，好坚强啊。\n\n朋友多了，心里踏实多了。"
+  },
+  {
+    "key": "town_bg04_P4HERO_mes02_0",
+    "original": "そうだな。\nこの先も気を引き締めて行こう。",
+    "translation": "也是啊。\n让我们继续保持警惕。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是啊。\n今后也要绷紧神经。\n\n是啊。\n今后也要振作精神。\n\n是啊。今后也打起精神去吧。"
+  },
+  {
+    "key": "town_bg04_KANJI_mes01_0",
+    "original": "あ…あんまジロジロ見んなコラ！\nメリヤス編みにすっぞ！",
+    "translation": "啊……不要一直盯着看啊！\n我会编织针织衫的！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n喂……别盯着我看啊！\n小心我把你弄成麻花辫！\n\n啊……别盯着我看！\n针织！\n\n啊……不要盯着我看！\n编织针织衫！"
+  },
+  {
+    "key": "town_bg04_KANJI_mes02_0",
+    "original": "編み方にも色々種類があるんスけど…\nここをこう引っ掛けて…",
+    "translation": "编织的方法也有很多种……\n要这样钩住这里……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n编发也有很多种……\n像这样挂在这里……\n\n织法也有各种各样的种类……\n把这里这样挂起来……\n\n编织方法也有各种各样的种类……"
+  },
+  {
+    "key": "town_bg04_KANJI_mes03_0",
+    "original": "あ、炭酸むせるんで\nフツーのがいいっス。",
+    "translation": "啊，因为碳酸会噎到\n所以普通的就好了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊，碳酸的会呛到的\n普通果汁就行了。\n\n啊，碳酸汽水\n普通的也可以。\n\n啊，碳酸呛到了。"
+  },
+  {
+    "key": "town_bg05_HIKARI_mes01_0",
+    "original": "パンフレット…\n後で私も読んでみようかな？",
+    "translation": "宣传册……\n之后让我也看看呗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n手册……\n我之后也看看吧？\n\n小册子……\n以后我也读一下吧？\n\n宣传册……\n之后我也看看吧？"
+  },
+  {
+    "key": "town_bg05_HIKARI_mes02_0",
+    "original": "う、うん…楽しみにしてる。",
+    "translation": "嗯、嗯……我期待着。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯，好……我很期待。\n\n嗯、嗯……我很期待。"
+  },
+  {
+    "key": "town_bg05_TEO_mes01_0",
+    "original": "は、はい！　お待ちください！",
+    "translation": "好、好的！请等着！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好、好的！请稍等！\n\n是、是！请稍等！\n\n好、好！请稍等！"
+  },
+  {
+    "key": "town_bg05_RYUJI_mes01_0",
+    "original": "スゲー走り回るから、\nしっかり糖分摂っとかねーとな。",
+    "translation": "我看你各种跑来跑去的，\n要好好补充糖分啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要到处跑，\n得补充糖分才行。\n\n跑来跑去，\n要好好摄取糖分。\n\n因为跑得很厉害，所以要好好摄取糖分。"
+  },
+  {
+    "key": "town_bg05_RYUJI_mes02_0",
+    "original": "ホットドック３コに、ポテト山盛りで！\nあとコーラも追加な。",
+    "translation": "三个热狗，一份盛满的薯条！\n再加一杯可乐。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n三个热狗，土豆堆成山！\n还要加可乐。\n\n热狗3个，土豆堆积如山！\n还有可乐也要追加。\n\n3个热水袋，一堆薯条！再来点可乐吧。"
+  },
+  {
+    "key": "town_bg05_MAKOTO_mes01_0",
+    "original": "竜司ってば、さっきからジュース\n何杯飲んでるのかしら？",
+    "translation": "龙司啊，你刚才到底\n喝了多少杯果汁啊？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n龙司，你从刚才开始就\n喝了几杯果汁了？\n\n龙司从刚才开始就喝果汁\n喝了几杯呢？\n\n龙司，你刚才喝了几杯果汁啊？"
+  },
+  {
+    "key": "town_bg05_MAKOTO_mes02_0",
+    "original": "そうね、それが第１シアターの\nカモシダーマンの映画よ。",
+    "translation": "嗯，那是第一剧场的\n鸭志田超人的电影。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是啊，那是第一影厅的\n鸭志田超人的电影。\n\n是啊，那就是第一剧场\n鸭志田超人的电影。\n\n是啊，那就是第一影院的鸭志田超人的电影。"
+  },
+  {
+    "key": "town_bg05_MAKOTO_mes03_0",
+    "original": "少し休憩したら、\nまた映画の世界に行きましょう。",
+    "translation": "稍作休息后，\n再次去电影的世界吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n休息一会儿后\n再进入电影的世界吧。\n\n稍微休息一下，\n再去电影世界吧。\n\n稍微休息一下，\n再去电影的世界吧。"
+  },
+  {
+    "key": "town_bg05_YOUSUKE_mes01_0",
+    "original": "へー、パンフレットまでちゃんと\n用意してあるのな。",
+    "translation": "诶，连宣传册都\n好好准备了呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嚯，连手册都\n准备好了啊。\n\n哦，连小册子都准备好了。\n\n\n啊，连小册子都准备好了。"
+  },
+  {
+    "key": "town_bg05_YOUSUKE_mes02_0",
+    "original": "おーい、竜司！　\n俺にも飲み物おかわり！",
+    "translation": "喂，龙司！\n给我也续一杯饮料！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n喂，龙司！\n我也要续杯！\n\n喂，龙司！\n我也要再来一杯饮料！\n\n喂，龙司！\n我也再来一杯饮料！"
+  },
+  {
+    "key": "town_bg05_YOUSUKE_mes03_0",
+    "original": "なぁ、ひかりちゃん！\n映画の結末、楽しみにしててくれな。",
+    "translation": "呐，小光！\n电影的结局，你就好好期待吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我说，小光！\n好好期待电影的结局吧。\n\n啊，小光！\n期待电影的结局吧。\n\n喂，阿光！请期待电影的结局。"
+  },
+  {
+    "key": "town_bg06_HIKARI_mes01_0",
+    "original": "うん。双葉ちゃん、頑張ってね。",
+    "translation": "嗯。小双叶，加油哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯。双叶，加油。\n\n嗯。双叶，加油哦。"
+  },
+  {
+    "key": "town_bg06_HIKARI_mes02_0",
+    "original": "サポートの力か…スゴイな…",
+    "translation": "支援的力量吗……太厉害了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n辅助之力吗……好厉害啊……\n\n支持的力量吗……好厉害啊……\n\n支援的力量吗……好厉害啊……"
+  },
+  {
+    "key": "town_bg06_HIKARI_mes03_0",
+    "original": "双葉ちゃん、パソコン得意なんだ。\n尊敬しちゃうな…",
+    "translation": "小双叶很擅长用电脑。\n我都尊敬起来了呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n双叶擅长电脑。\n真令人尊敬……\n\n双叶，我很擅长电脑。\n真让人尊敬啊……\n\n双叶很擅长电脑。\n真让人尊敬啊……"
+  },
+  {
+    "key": "town_bg06_YUSUKE_mes01_0",
+    "original": "ポップコーンもいいが、たまには\n別の食べ物も欲しくなるな…",
+    "translation": "爆米花也不错，\n但也想要点别的食物呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n爆米花是不错，但偶尔\n也想吃点别的食物啊……\n\n爆米花也不错，但偶尔也会想要别的食物……\n\n\n爆米花固然好，但偶尔也会想要别的食物……"
+  },
+  {
+    "key": "town_bg06_YUSUKE_mes02_0",
+    "original": "な、なんだこれは！　美味い！",
+    "translation": "这、这是什么啊！好好吃！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这、这是什么！好好吃！\n\n啊，这是什么！好吃！\n\n这、这是什么啊！好吃！"
+  },
+  {
+    "key": "town_bg06_YUSUKE_mes03_0",
+    "original": "プロテインバー…テオドアさんも\n販売をしてくれないだろうか…",
+    "translation": "蛋白棒……西奥多先生也\n不能卖给我吗……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n蛋白棒……不知道西奥多先生愿不愿意\n卖给我！\n\n蛋白质酒吧……西奥多先生也能为我们做销售吗……\n\n\n蛋白质棒……theodore先生也能帮我销售吗……"
+  },
+  {
+    "key": "town_bg06_FUTABA_mes01_0",
+    "original": "映画を変えてくるから、ちゃんと\n見ててくれよな、ひかり！",
+    "translation": "电影要换了，光，\n记得好好看哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我要换片了，光\n要帮忙顾哦！\n\n我要换电影了，你给我好好看吧，光！\n\n\n我去换电影，你好好看看吧，光！"
+  },
+  {
+    "key": "town_bg06_FUTABA_mes02_0",
+    "original": "おう、任せとけ！",
+    "translation": "哦，交给我吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好，包在我身上！\n\n喂，交给我吧！"
+  },
+  {
+    "key": "town_bg06_FUTABA_mes03_0",
+    "original": "これをこーして…あー、ここも対策を…\nよしよし、にしし…",
+    "translation": "这样做……啊，这里也要采取对策……\n好了好了，嘻嘻嘻……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n像这样……啊～～这里也要做对策……\n很好很好，嘻嘻嘻……\n\n这个……啊，这里也要采取对策……\n好的好的，但是……\n\n把这个盘起来……啊，这里也要有对策……\n好，好，西……"
+  },
+  {
+    "key": "town_bg06_RISE_mes01_0",
+    "original": "風花ちゃんも来たし、\nサポートはバッチリだね！",
+    "translation": "风花也来了，\n这样支援就完美了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n风花也来了，\n支援万无一失！\n\n风花酱也来了，\n支持很棒呢！\n\n风小花也来了，\n支持很到位呢！"
+  },
+  {
+    "key": "town_bg06_RISE_mes02_0",
+    "original": "サポートしながら、気づいたことは\n担当以外でも情報交換しようね！",
+    "translation": "在提供支持的同时，察觉到的事情\n就算在负责的事情之外，也来进行情报交换吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n一边支援，一边\n也要跟其他组员交换情报哦！\n\n一边支援，注意到的事\n担当以外也交换信息吧！\n\n支援的同时，注意到的事\n担当以外也交换信息吧！"
+  },
+  {
+    "key": "town_bg06_SANADA_mes01_0",
+    "original": "虎の子のプロテインバーだが、食うか？",
+    "translation": "这是我很宝贝的蛋白棒，要吃吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要吃我珍藏的蛋白棒？\n\n是虎子的蛋白质棒，吃吗？\n\n这是小老虎的蛋白棒，你吃吗？"
+  },
+  {
+    "key": "town_bg06_ZABES_mes01_0",
+    "original": "なるほど…",
+    "translation": "原来如此……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n原来如此……"
+  },
+  {
+    "key": "town_bg06_FUKA_mes01_0",
+    "original": "バトルとフィールドで分担もできるし、\n現場には双葉ちゃんがいるものね。",
+    "translation": "战斗和野外任务都可以分工，\n而且现场还有小双叶在呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n战斗和探索可以分工，\n而且现场有双叶在。\n\n战斗和场上也可以分担，\n现场有双叶呢。\n\n战斗和场上也可以分担，\n现场有双叶。"
+  },
+  {
+    "key": "town_bg06_FUKA_mes02_0",
+    "original": "そうですね、\n全力でバックアップしましょう！",
+    "translation": "是呢，\n我们全力辅助你！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n说得也是，\n全力支援吧！\n\n是啊，\n全力支持吧！\n\n是啊，\n全力支援吧！"
+  },
+  {
+    "key": "town_bg07_DOE_mes01_0",
+    "original": "………。",
+    "translation": "………",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "town_bg07_P3HERO2_mes01_0",
+    "original": "よーしよし。\nコロマルは本当に賢いね！",
+    "translation": "乖哦乖，\n虎狼丸真的很聪明呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n很好很好。\n虎狼丸真的很聪明呢！\n\n好了好了。\n虎狼丸真聪明！\n\n好、好。虎狼丸真聪明啊！"
+  },
+  {
+    "key": "town_bg07_P3HERO2_mes02_0",
+    "original": "あはは、くすぐったい！\nもーコロマルってば！",
+    "translation": "哈哈，好痒！\n虎狼丸别这样！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊哈哈，好痒！\n虎狼丸真是的！\n\n啊哈哈，好痒！\n虎狼丸！\n\n哈哈，好痒！\n虎狼丸！"
+  },
+  {
+    "key": "town_bg07_HARU_mes01_0",
+    "original": "コロちゃん、ふわふわだね！\nかわいい～！",
+    "translation": "小虎，好蓬松啊！\n好可爱～！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n可洛，你好软哦！\n好可爱～～！\n\n小圆，好松软啊！\n好可爱～！\n\n葫芦丝，你真轻飘飘的！\n好可爱～！"
+  },
+  {
+    "key": "town_bg07_HARU_mes02_0",
+    "original": "うふふ、コロちゃん。\n尻尾ふさふさだね。",
+    "translation": "嘻嘻，小虎。\n尾巴好蓬松呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呵呵呵，可洛。\n尾巴毛茸茸的。\n\n呵呵，小洛。\n尾巴好乱啊。\n\n呵呵，可罗。真是虎头虎脑啊。"
+  },
+  {
+    "key": "town_bg07_YUKIKO_mes01_0",
+    "original": "カネツグ、お座り！",
+    "translation": "兼续，坐下！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n钱次，坐下！\n\n金热子，坐下！\n\n坐好！"
+  },
+  {
+    "key": "town_bg07_ZABES_mes01_0",
+    "original": "おやおや、おクマ様…\nジェラシーの炎がメラメラと…",
+    "translation": "哎呀哎呀，小熊大人……\n嫉妒之火在熊熊燃烧……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哎呀哎呀，小熊大人……\n嫉妒之火熊熊燃烧……\n\n哎呀哎呀哎呀，小熊大人……\n杰拉西的火焰和梅拉梅拉……\n\n哎呀哎呀，小熊大人……杰拉西的火焰嘎吱嘎吱响……"
+  },
+  {
+    "key": "town_bg07_KUMA_mes01_0",
+    "original": "ムムム…\nみんな、クマという者がありながら…",
+    "translation": "嗯嗯嗯……大家都知道有\n一个叫做小熊的人……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔唔唔……\n大家明明都有小熊了……\n\n呵呵……大家，虽然有小熊这个人……\n\n\n大家都有小熊……"
+  },
+  {
+    "key": "town_bg07_KUMA_mes02_0",
+    "original": "グググ…ワンコめ…",
+    "translation": "呜呜呜……这只狗……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n咕咕咕……臭狗……\n\n咕咕……狗狗……\n\n咕咕咕……你这只汪……"
+  },
+  {
+    "key": "town_bg07_YUKARI_mes01_0",
+    "original": "コロちゃんって癒し系だよね。\nそれに賢いし、いい子だし。",
+    "translation": "小虎真是个治愈系的存在呢。\n而且聪明又乖巧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n可洛是疗愈系的呢。\n而且它很聪明，又乖巧。\n\n骰子是治愈系的吧。\n而且又聪明又乖。\n\n葫芦丝是治愈系的。而且又聪明，是个好孩子。"
+  },
+  {
+    "key": "town_bg07_KOROMARU_mes01_0",
+    "original": "ワンワン！",
+    "translation": "汪汪！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n汪汪！"
+  },
+  {
+    "key": "town_bg07_KOROMARU_mes02_0",
+    "original": "ワンッ！",
+    "translation": "汪！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n汪！\n\n哇！"
+  },
+  {
+    "key": "town_bg07_KOROMARU_mes03_0",
+    "original": "ハフッハフッ…",
+    "translation": "啊呜啊呜……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呼呼呼……\n\n哈哈哈……"
+  },
+  {
+    "key": "town_bg08_FUTABA_mes01_0",
+    "original": "うおおおおお！　カッケええええ！",
+    "translation": "呜哦哦哦！太帅了啊啊啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔哦哦哦哦哦！帅呆了～～～～！\n\n哦哦哦哦哦！好帅啊！\n\n喔喔喔喔！好棒好棒！"
+  },
+  {
+    "key": "town_bg08_FUTABA_mes02_0",
+    "original": "おう、直斗。\nリボンのデータと照合して検証中だ！",
+    "translation": "嘿，直斗。\n正在与蝴蝶结的数据进行核对和验证中！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦，直斗。\n我正在对照蝴蝶结的资料做验证！\n\n啊，直斗。\n正在与功能区的数据进行对照验证！\n\n哦，直斗。\n和蝴蝶结的数据对照验证中！"
+  },
+  {
+    "key": "town_bg08_HARU_mes01_0",
+    "original": "風花ちゃん、いつも的確なサポート\nどうもありがとう。",
+    "translation": "小风花，\n谢谢你一直以来的精确支援。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n风花，谢谢你\n总是提供精准的支援。\n\n风花，总是正确的支持\n谢谢。\n\n风花，谢谢你一直以来正确的支持。"
+  },
+  {
+    "key": "town_bg08_HARU_mes02_0",
+    "original": "このコーヒー、深みがあって\nとっても美味しいな。",
+    "translation": "这咖啡，\n浓郁而且非常好喝呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这咖啡\n好香好美味啊。\n\n这杯咖啡有深度\n非常好喝啊。\n\n这个咖啡有深度，非常好喝。"
+  },
+  {
+    "key": "town_bg08_HARU_mes03_0",
+    "original": "双葉も直斗くんも、\nアイギスさんに興味津々だね。",
+    "translation": "双叶和直斗都对\n埃癸斯小姐很感兴趣呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n双叶和直斗\n都对埃癸斯小姐很有兴趣呢。\n\n双叶和直斗都对埃癸斯小姐很感兴趣呢。\n\n\n双叶和直斗都对埃癸斯很感兴趣呢。"
+  },
+  {
+    "key": "town_bg08_NAOTO_mes01_0",
+    "original": "あの、アイギスさん…その腕はいったい\nどのように使うのでしょう？",
+    "translation": "那个，埃癸斯小姐……\n那只手臂到底要怎么使用呢？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那个，埃癸斯小姐……您的手臂\n到底有什么用途呢？\n\n那个，埃癸斯小姐……那个手臂到底是怎么使用的呢？\n\n\n那个，埃癸斯小姐……那手臂到底是如何使用的呢？"
+  },
+  {
+    "key": "town_bg08_NAOTO_mes02_0",
+    "original": "佐倉さんは、アイギスさんの\nデータ収集ですか？",
+    "translation": "佐仓小姐，您是在收集\n埃癸斯小姐的数据吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n佐仓同学\n是在收集埃癸斯小姐的资料吗？\n\n佐仓先生，是埃癸斯小姐的\n数据收集吗？"
+  },
+  {
+    "key": "town_bg08_ZABES_mes01_0",
+    "original": "フフフ…ドキがムネムネするような\n出来事が沢山ございますね。",
+    "translation": "呵呵呵……发生了很多心跳加速的事情呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呵呵呵……发生了很多\n让人小鹿乱撞的事呢。\n\n呵呵……\n有很多让人心跳加速的事情呢。\n\n呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦呼啦。"
+  },
+  {
+    "key": "town_bg08_FUKA_mes01_0",
+    "original": "そんな、奥村さんこそ凄い斧捌きです！\nいつも鮮やかで、見とれちゃいます。",
+    "translation": "哪有，奥村小姐的斧头技巧才厉害！\n每次都那么精彩，让人看得入迷。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n奥村小姐的斧法才厉害呢！\n总是那么精彩，看得入迷了。\n\n那样的，奥村小姐才是厉害的斧头处理！\n总是很鲜艳，让人看得入迷。\n\n奥村小姐才是厉害的斧头处理手法！总是那么鲜艳，让人看得入迷。"
+  },
+  {
+    "key": "town_bg08_FUKA_mes02_0",
+    "original": "そうなんですね！\nこのお茶も、とっても美味しいですよ。",
+    "translation": "是的呢！\n这茶也非常好喝哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是啊！\n这茶也很好喝呢。\n\n是这样啊！这个茶也很好喝。\n\n\n是啊！这茶也很好喝。"
+  },
+  {
+    "key": "town_bg08_FUKA_mes03_0",
+    "original": "二人とも、触りたくて堪らないって\n感じですね。",
+    "translation": "两个人都有一种\n忍不住想要触碰的感觉呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n他们两个\n都一副很想摸的样子。\n\n两个人都有种忍不住想摸的感觉。\n\n\n感觉两个人都很想摸。"
+  },
+  {
+    "key": "town_bg08_AEGIS_mes01_0",
+    "original": "この腕は…\nこう使うであります！",
+    "translation": "这只手臂……\n是这样用的！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这只手臂……\n是这样用的！\n\n这手臂……\n是这样使用的！\n\n这个手臂是这样使用的！"
+  },
+  {
+    "key": "town_bg08_AEGIS_mes02_0",
+    "original": "腕が終わったら、\nポロリの実験だそうです。",
+    "translation": "好像是在进行手臂不行了\n就直接扔掉的实验。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n手臂结束后\n好像是要实验走光。\n\n手臂结束后，\n据说是做一个小实验。\n\n听说这是波罗里的实验。"
+  },
+  {
+    "key": "town_bg09_ZABES_mes01_0",
+    "original": "まぁ、コロマル様のおやつを盗み食い\nしたのがついにバレてしまったご様子…",
+    "translation": "嗯，看来偷吃虎狼丸大人的零食\n终于被发现了呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哎，偷吃虎狼丸大人的点心\n终于被发现了的样子……\n\n嘛，偷吃虎狼丸大人的点心\n终于暴露了的样子……\n\n嘛，偷吃虎狼丸大人的零食终于被发现的样子……"
+  },
+  {
+    "key": "town_bg09_MONA_mes01_0",
+    "original": "あんまり騒ぐんじゃねーよ。\n休めねーだろ。",
+    "translation": "不要那么吵闹。\n也休息不了吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不要吵啦。\n这样会睡不着吧。\n\n别太吵了。\n不能休息吧。\n\n别太吵了。不能休息吧。"
+  },
+  {
+    "key": "town_bg09_MONA_mes02_0",
+    "original": "ムニャムニャ…\nワガハイの高級寿司…マグロもっと…",
+    "translation": "呜喵呜喵……\n吾辈的高级寿司……金枪鱼再来点……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嚼嚼嚼……\n本座的高级寿司……金枪鱼再多来一点……\n\n姆涅姆涅……\n吾辈的高级寿司……金枪鱼更多……\n\n吾辈的高级寿司……金枪鱼……"
+  },
+  {
+    "key": "town_bg09_MONA_mes03_0",
+    "original": "今日はもう寝ようぜ。",
+    "translation": "今天就先睡吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n今天就先睡了吧。\n\n今天就睡吧。\n\n今天就睡觉吧。"
+  },
+  {
+    "key": "town_bg09_MAKOTO_mes01_0",
+    "original": "色々なパーティの組み合わせを\n試すのもいいかもしれないわね。",
+    "translation": "试试不同的队伍组合也许也不错哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n\n试试各种队伍组合或许也不错呢。\n\n\n尝试各种各样的队伍组合也许也不错呢。\n\n尝试各种各样的队伍的组合也许也不错呢。"
+  },
+  {
+    "key": "town_bg09_MAKOTO_mes02_0",
+    "original": "いよいよ最後になったわね。\n集中して挑みましょう。",
+    "translation": "终于到最后了呢。\n让我们集中精神挑战吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n终于到最后了呢。\n集中精神挑战吧。\n\n终于到最后了。\n集中精神挑战吧。"
+  },
+  {
+    "key": "town_bg09_MAKOTO_mes03_0",
+    "original": "仕方ないわ、映画館にいる時くらい\n大目に見てあげましょう。",
+    "translation": "没办法，至少在电影院的时候\n就睁一只眼闭一只眼吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n没办法，至少在电影院\n就睁一只眼闭一只眼吧。\n\n没办法，在电影院的时候就宽容一下吧。\n\n\n没办法，在电影院的时候，我就原谅你吧。"
+  },
+  {
+    "key": "town_bg09_KUMA_mes01_0",
+    "original": "ンギャー！\nスマンかったクマアァァ～！",
+    "translation": "呜啊！\n对不起啊熊熊～！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯嘎——！\n对不起小熊啊啊啊～！\n\n加油！\n超好笑的小熊啊～！\n\n哇！\n对不起的小熊啊～！"
+  },
+  {
+    "key": "town_bg09_KUMA_mes02_0",
+    "original": "クマは美味しくないクマよ～～！",
+    "translation": "小熊才不好吃呢熊熊～～！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小熊不好吃的小熊啊～～！\n\n小熊是不好吃的小熊哟～～！"
+  },
+  {
+    "key": "town_bg09_MITURU_mes01_0",
+    "original": "大所帯になったことだし、\nもっと互いのことを知る必要があるな。",
+    "translation": "已经是这么大的大家庭了，\n我们需要更多地了解彼此呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n既然大家住在一起\n就有必要多了解彼此。\n\n又成了大家庭，有必要进一步了解彼此。\n\n\n毕竟是大户人家了，有必要进一步了解彼此。"
+  },
+  {
+    "key": "town_bg09_MITURU_mes02_0",
+    "original": "そうだな。\nさらに気を引き締めて行こう。",
+    "translation": "是的呢。\n更加小心谨慎地前进吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是啊，\n让我们更谨慎地行动吧。\n\n是啊。\n要更加集中精神。\n\n是啊。更加打起精神去吧。"
+  },
+  {
+    "key": "town_bg09_MITURU_mes03_0",
+    "original": "まったく、騒がしい連中だな。\nコロマルまではしゃいで…",
+    "translation": "真是一群吵闹的家伙啊。\n连虎狼丸都这么闹腾……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真是的，这群人真吵。\n虎狼丸兴奋得……\n\n真是一群吵闹的家伙啊。\n连虎狼丸都要打……\n\n真是一群吵闹的家伙。\n连虎狼丸都闹腾起来……"
+  },
+  {
+    "key": "town_bg09_KOROMARU_mes01_0",
+    "original": "ガウッ！",
+    "translation": "嘎呜！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n吼！\n\n哇！"
+  },
+  {
+    "key": "town_bg09_KOROMARU_mes02_0",
+    "original": "ガルルル…",
+    "translation": "咕噜噜……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n吼噜噜噜……\n\n露露……\n\n加尔鲁……"
+  },
+  {
+    "key": "town_bg10_ZABES_mes01_0",
+    "original": "ベルベルベ～ルベルベット～。\n我が～あ～るじ～長い鼻～。",
+    "translation": "天鹅天鹅天～鹅天鹅绒房间～\n我们的～主～人有长长的鼻子～",
+    "stage": 1,
+    "context": "机翻辅助：\n\n贝贝贝～尔～贝～尔～贝特～\n吾～的～鼻子～很长～\n\n贝尔贝贝～露贝尔贝特～\n我～啊～长鼻子～\n\n咳咳～咳咳～\n吾～阿～露西～长鼻子～"
+  },
+  {
+    "key": "town_bg10_RYUJI_mes01_0",
+    "original": "へー、これで召喚すんの？",
+    "translation": "哦，用这个来召唤吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦～用这个召唤吗？\n\n哦，这样就能传唤吗？\n\n啊，这样召唤吗？"
+  },
+  {
+    "key": "town_bg10_RYUJI_mes02_0",
+    "original": "わりー、わりー。\nついテンション上がっちゃってさ。",
+    "translation": "抱歉，抱歉。\n不小心情绪太激动了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n抱歉抱歉。\n不小心太兴奋了。\n\n哇、哇。\n不知不觉情绪高涨了。\n\n哇、哇。不知不觉就情绪高涨了。"
+  },
+  {
+    "key": "town_bg10_AKECHI_mes01_0",
+    "original": "そうだな、そう言われると\n難しいんだけど…",
+    "translation": "是呢，被这样一说\n确实是有点难……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是啊，你这么说\n虽然很难……\n\n是啊，这么说的话\n很难……\n\n是啊，这样说的话\n虽然很难……"
+  },
+  {
+    "key": "town_bg10_AKECHI_mes02_0",
+    "original": "もちろん。でも、探偵っていうのは\nテレビドラマなんかより地味な仕事さ。",
+    "translation": "当然。但是，侦探这个工作比起\n电视剧上演的的要朴素得多。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n当然。不过，所谓的侦探\n是比电视剧更朴素的工作。\n\n当然。但是，侦探是比电视剧更朴素的工作。\n\n\n当然。不过，侦探这个工作比电视剧还朴素。"
+  },
+  {
+    "key": "town_bg10_AKECHI_mes03_0",
+    "original": "天田君は、将来の夢とかあるのかい？",
+    "translation": "天田，你有什么将来的梦想吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n天田同学，你有将来的梦想吗？\n\n天田君，有将来的梦想吗？\n\n天田，你对将来有什么梦想吗？"
+  },
+  {
+    "key": "town_bg10_YOUSUKE_mes01_0",
+    "original": "召喚器すげーな！\nかっけーけど、ちょっと怖えー…",
+    "translation": "召唤器好厉害啊！\n很帅，就是有点吓人……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n召唤器好厉害！\n虽然很帅，但有点可怕……\n\n召唤器好厉害啊！\n虽然很帅，但是有点害怕……\n\n召唤器真厉害！\n虽然有点可怕，但是……"
+  },
+  {
+    "key": "town_bg10_YOUSUKE_mes02_0",
+    "original": "わー、バカバカ！\n銃口こっち向けんなって！",
+    "translation": "哇，笨蛋笨蛋！\n不要把枪口对准这边！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哇～笨蛋笨蛋！\n不要把枪口对着我！\n\n哇，笨蛋！\n枪口别对着这边！\n\n哇，笨蛋笨蛋！枪口别对着我！"
+  },
+  {
+    "key": "town_bg10_JUNPEI_mes01_0",
+    "original": "そーそー。そいつを頭にあてて、\nバーンってペルソナ召喚ってわけ！",
+    "translation": "对对。把那东西抵在脑袋上，\n砰的一下就可以召唤出人格面具！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n对对对。把那玩意儿抵在头上，\n砰地一声召唤出人格面具！\n\nso so。把那家伙顶在头上，\n叫burn人格面具召唤！\n\n是啊。把那家伙放在头上，\n巴恩是人格面具召唤！"
+  },
+  {
+    "key": "town_bg10_JUNPEI_mes02_0",
+    "original": "召喚器って知っててもビビっちゃう\nよなー。オレも最初そうだったわー。",
+    "translation": "召唤器即使已经知道了也会吓一跳呢。\n我刚开始也是这样的。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n就算知道是召唤器也会吓到\n吧。我一开始也是那样。\n\n知道召唤器也会吓一跳的\n哟。我一开始也是这样。\n\n即使知道召唤器也会害怕。\n我一开始也是这样啊。"
+  },
+  {
+    "key": "town_bg10_AMADA_mes01_0",
+    "original": "明智さんって探偵なんですよね？\nどうしたらなれるんですか？",
+    "translation": "明智先生是侦探吧？\n要怎样才能成为侦探呢？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n明智同学是侦探对吧？\n要怎样才能当侦探呢？\n\n明智先生是侦探吧？\n怎样才能成为人才呢？\n\n明智先生是侦探吧？\n怎样才能适应呢？"
+  },
+  {
+    "key": "town_bg10_AMADA_mes02_0",
+    "original": "今度、僕に探偵のことを\n教えてくれませんか？",
+    "translation": "下次能教我一下侦探的事情吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n下次，可以\n教我一些侦探的事吗？\n\n下次，能告诉我侦探的事吗？\n\n\n这次能告诉我侦探的事情吗？"
+  },
+  {
+    "key": "town_bg10_AMADA_mes03_0",
+    "original": "夢っていうか…\n僕は、強くなりたいんです。",
+    "translation": "梦想吗……\n我想变得更强。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n与其说是梦想……\n我想要变强。\n\n说是梦吧……我想变强。\n\n\n我想变得坚强。"
+  },
+  {
+    "key": "town_bg11_HIKARI_mes01_0",
+    "original": "みんなスゴイね！\n頑張って！",
+    "translation": "大家都很厉害！\n加油！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家好厉害！\n加油！\n\n大家好厉害啊！\n加油！\n\n大家都很厉害呢！\n加油！"
+  },
+  {
+    "key": "town_bg11_HIKARI_mes02_0",
+    "original": "里中さん、ファイトー！",
+    "translation": "里中小姐，加油！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n里中同学，加油！\n\n里中小姐，加油！\n\n里中，加油！"
+  },
+  {
+    "key": "town_bg11_HIKARI_mes03_0",
+    "original": "真田さんリードだよ！\n荒垣さんもファイト！",
+    "translation": "真田先生领先！\n荒垣先生也加油！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真田同学领先了！\n荒垣同学也加油！\n\n真田桑领先！\n荒垣也要加油！\n\n真田领衔了！荒垣先生也加油！"
+  },
+  {
+    "key": "town_bg11_YUSUKE_mes01_0",
+    "original": "実に美味いな…\n止められぬ、止まらぬ！",
+    "translation": "实在是美味啊……\n停不下来，根本停不下来！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n实在美味……\n停不下来，停不住！\n\n真好吃啊……\n停不下来，停不下来！"
+  },
+  {
+    "key": "town_bg11_YUSUKE_mes02_0",
+    "original": "プロテイン味もなかなか…",
+    "translation": "蛋白粉的味道也挺那个的……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n乳清蛋白口味也很棒……\n\n蛋白质味也很不错……"
+  },
+  {
+    "key": "town_bg11_TEO_mes01_0",
+    "original": "皆様の食欲、お見それしました。\nポップコーンの生産が追いつきません！",
+    "translation": "大家的食欲，实在是让我惊讶。\n爆米花的生产要跟不上了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家的食欲，我见识到了。\n爆米花的生产跟不上！\n\n我看到了大家的胃口。\n爆米花的生产跟不上！\n\n我错过了大家的食欲。\n爆米花的生产跟不上！"
+  },
+  {
+    "key": "town_bg11_HARU_mes01_0",
+    "original": "うふふ、最後だもんね。\n体力つけなきゃ。",
+    "translation": "嘻嘻，因为是最后了嘛。\n得增强体力才行。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呼呼，这是最后一场了呢。\n得好好锻炼体力才行。\n\n呵呵，是最后一次了。\n要增强体力。\n\n呵呵，这是最后一次了。必须增强体力。"
+  },
+  {
+    "key": "town_bg11_HARU_mes02_0",
+    "original": "テオドアさん、紅茶を１杯もらえる？\nアールグレイがいいな。",
+    "translation": "西奥多先生，可以给我一杯红茶吗？\n我想要伯爵茶。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能给我一杯红茶吗，西奥多？\n格雷伯爵茶吧。\n\n西奥多先生，能给我一杯红茶吗？\n格雷伯爵茶好啊。\n\n能给我一杯红茶吗？\n格雷伯爵酒真好啊。"
+  },
+  {
+    "key": "town_bg11_CHIE_mes01_0",
+    "original": "すごっ！\nポップコーンが飲み物のように…！",
+    "translation": "好厉害！\n爆米花像饮料一样……！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好厉害！\n居然把爆米花当饮料……！\n\n好厉害！\n爆米花就像饮料一样……！\n\n好厉害！\n爆米花像饮料一样……！"
+  },
+  {
+    "key": "town_bg11_CHIE_mes02_0",
+    "original": "うおーーー！\n唸れ！　あたしの女子力！！",
+    "translation": "呜哦——！\n呻吟吧！我的女子力！！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔噢——！\n我的女子力！嘶吼吧！\n\n哇——！\n轰鸣！我的女子力！！\n\n呜————！\n吼叫！我的女子力！！"
+  },
+  {
+    "key": "town_bg11_CHIE_mes03_0",
+    "original": "うう、口の中がカラカラ…\nお肉なら絶対負けないのにー！",
+    "translation": "唔唔，嘴巴好渴……\n明明肉类的话我绝对有自信不会输的！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呜呜，嘴里好干……\n如果是肉的话，我绝对不会输的说！\n\n嗯，嘴里干巴巴的……\n肉的话绝对不会输的！\n\n呜呜，嘴里干巴巴的……\n肉的话绝对不会输的！"
+  },
+  {
+    "key": "town_bg11_YUKARI_mes01_0",
+    "original": "うわ、よくあんな食べれるなー…",
+    "translation": "呜哇，真亏你能吃得下那个啊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呜哇，真亏她能吃下那么多……\n\n哇，经常吃那样的东西啊……\n\n哇，居然能吃成那样……"
+  },
+  {
+    "key": "town_bg11_YUKARI_mes02_0",
+    "original": "あ、私はローズヒップティーで！",
+    "translation": "啊，我要玫瑰果茶！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊，我要喝洛赫碧茶！\n\n啊，我是玫瑰臀围茶！\n\n啊，我是玫瑰臀蒂！"
+  },
+  {
+    "key": "town_bg11_SANADA_mes01_0",
+    "original": "勝者は俺だ、シンジ！",
+    "translation": "胜利者是我，真次！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n胜利者是我，小丁！\n\n胜者是我，真次！\n\n胜者是我，我相信！"
+  },
+  {
+    "key": "town_bg11_SANADA_mes02_0",
+    "original": "何だシンジ、それがお前の本気か？",
+    "translation": "怎么了真次，那就是你的真本事吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n什么啊，小丁，这就是你的真本事吗？\n\n真次，这是你的真心话吗？"
+  },
+  {
+    "key": "town_bg11_ARAGAKI_mes01_0",
+    "original": "チッ、負けられねえ…",
+    "translation": "啧，不能输啊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啧，我可不会输给你……\n\n嘁，不能输……\n\n哇，不能输……"
+  },
+  {
+    "key": "town_bg11_ARAGAKI_mes02_0",
+    "original": "チッ、頭ん中コーン粒の\nウルトラ馬鹿には負けねぇ！",
+    "translation": "啧，我怎么可能会输给\n满脑子都是玉米粒的超级笨蛋！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啧，我才不会输给\n脑袋里都是爆米花的笨蛋！\n\n智，头脑中的玉米粒\n不会输给超级笨蛋！\n\n不要输给脑子里圆圆的\n超级笨蛋！"
+  },
+  {
+    "key": "town_bg12_ANN_mes01_0",
+    "original": "オッケー！　気合入れていこう！",
+    "translation": "OK！打起精神来吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nOK！鼓起干劲上吧！\n\n好！鼓起干劲吧！\n\nOK ！加油吧！"
+  },
+  {
+    "key": "town_bg12_ANN_mes03_0",
+    "original": "覚悟なら決まってるよ、行こう。",
+    "translation": "觉悟什么的早就做好了，我们走吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我已经做好觉悟了，上吧。\n\n觉悟的话已经决定了，走吧。\n\n我已经下定决心了，走吧。"
+  },
+  {
+    "key": "town_bg12_P4HERO_mes01_0",
+    "original": "俺たちならやれるさ…必ず。",
+    "translation": "我们能做到的……一定。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我们一定能做到……\n\n我们一定能做到的。\n\n我们能做到的……一定。"
+  },
+  {
+    "key": "town_bg12_P4HERO_mes02_0",
+    "original": "いよいよだな…負けられない。",
+    "translation": "终于啊……不能输啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n终于要开始了……我可不能输。\n\n终于到了……不能输。\n\n终于到了啊……不能输。"
+  },
+  {
+    "key": "town_bg12_P4HERO_mes03_0",
+    "original": "俺たちの可能性を見せよう。",
+    "translation": "让你看看我们的可能性。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n让大家见识一下我们的可能性吧。\n\n让我们看看我们的可能性吧。"
+  },
+  {
+    "key": "town_bg12_YOUSUKE_mes01_0",
+    "original": "円陣とか組んじゃう？",
+    "translation": "要不要组成圆阵？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要来个战前誓师？\n\n要组成圆阵吗？\n\n组成圆阵吧？"
+  },
+  {
+    "key": "town_bg12_YOUSUKE_mes02_0",
+    "original": "やってやろうぜ、相棒！",
+    "translation": "一起上吧，搭档！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n上吧，伙伴！\n\n来吧，伙伴！\n\n来吧，伙计！"
+  },
+  {
+    "key": "town_bg12_YOUSUKE_mes03_0",
+    "original": "よし、行こうぜお前ら！",
+    "translation": "好，走了哦大伙儿！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好，你们几个，上吧！\n\n好，走吧你们！\n\n好，走吧，你们！"
+  },
+  {
+    "key": "town_bg12_MITURU_mes01_0",
+    "original": "準備は万全に整えておこう。",
+    "translation": "准备要做得万无一失。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n做好万全的准备吧。\n\n一切准备就绪。"
+  },
+  {
+    "key": "town_bg12_MITURU_mes02_0",
+    "original": "フッ…決着をつけてこようじゃないか。",
+    "translation": "呼……就让我们来决一胜负吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呼……去分出个胜负吧。\n\n来个了结吧。\n\n噗……我们来做个了断吧。"
+  },
+  {
+    "key": "town_bg12_MITURU_mes03_0",
+    "original": "行こう、私たちの意思を示す時だ。",
+    "translation": "走吧，是时候展示我们的意志了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n走吧，是时候展现我们的意志了。\n\n走吧，是时候表明我们的意思了。\n\n走吧，是时候表明我们的意志了。"
+  },
+  {
+    "key": "town_bg12_P3HERO_mes01_0",
+    "original": "みんなの力を１つにしよう。",
+    "translation": "让我们把大家的力量汇聚在一起。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n将大家的力量合而为一。\n\n把大家的力量团结在一起吧。\n\n大家齐心协力啊。"
+  },
+  {
+    "key": "town_bg12_P3HERO_mes02_0",
+    "original": "僕たちにしか、出来ないことがある。",
+    "translation": "只有我们能做的事情。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有些事情，只有我们能做到。\n\n有只有我们才能做的事。\n\n有些事情只有我们才能做到。"
+  },
+  {
+    "key": "town_bg12_P3HERO_mes03_0",
+    "original": "みんな、準備はいい？",
+    "translation": "大家，准备好了吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大家，准备好了吗？\n\n大家准备好了吗？"
+  },
+  {
+    "key": "town_bg12_AEGIS_mes01_0",
+    "original": "行きましょう、みなさん。\n共に戦うであります。",
+    "translation": "让我们一起走吧，大家。\n共同战斗。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n走吧，各位。\n让我们并肩作战。\n\n走吧，各位。\n一起战斗。\n\n走吧，各位。共同战斗。"
+  },
+  {
+    "key": "town_bg12_AEGIS_mes02_0",
+    "original": "全力全開であります、負けません。",
+    "translation": "全力以赴，绝不会输。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我会全力以赴，不会输的。\n\n我会全力全开的，不会输的。\n\n全力全开，不输。"
+  },
+  {
+    "key": "town_bg12_AEGIS_mes03_0",
+    "original": "全リミッター、解放準備は\nとっくに完了しています。",
+    "translation": "解除全部限制器的准备，\n早早就完成了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n所有限制，早已做好了\n解除的准备。\n\n所有限制器，释放准备\n早就完成了。\n\n全部限制，解放的准备\n早就完成了。"
+  }
+]

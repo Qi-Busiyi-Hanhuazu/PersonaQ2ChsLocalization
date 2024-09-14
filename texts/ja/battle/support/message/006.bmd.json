@@ -1,0 +1,1255 @@
+[
+  {
+    "key": "BTL_MES_006_001_0",
+    "original": "うわ、強そうな敵だね…\n注意して！",
+    "translation": "うわ、強そうな敵だね…\n注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_002_0",
+    "original": "うん！\nみんな、気をつけてね！",
+    "translation": "うん！\nみんな、気をつけてね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_003_0",
+    "original": "やだ、Ｆ．Ｏ．Ｅ…！？\n今は、退くべきだよ！",
+    "translation": "やだ、Ｆ．Ｏ．Ｅ…！？\n今は、退くべきだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_004_0",
+    "original": "Ｆ．Ｏ．Ｅ出現！\n戦いは避けて！",
+    "translation": "Ｆ．Ｏ．Ｅ出現！\n戦いは避けて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_005_0",
+    "original": "うん、みんな無茶はダメだよ。\nここは逃げて！",
+    "translation": "うん、みんな無茶はダメだよ。\nここは逃げて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_006_0",
+    "original": "うん、撤退しよ！\n気をつけてね！",
+    "translation": "うん、撤退しよ！\n気をつけてね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_007_0",
+    "original": "そいつ固いよ！\nダメージ与えられるように工夫してね！",
+    "translation": "そいつ固いよ！\nダメージ与えられるように工夫してね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_008_0",
+    "original": "そいつ強力な技使うから注意ね！\n無理は禁物だよ！",
+    "translation": "そいつ強力な技使うから注意ね！\n無理は禁物だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_009_0",
+    "original": "そのＦ．Ｏ．Ｅ、\n物理攻撃が強いから注意してね！",
+    "translation": "そのＦ．Ｏ．Ｅ、\n物理攻撃が強いから注意してね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_010_0",
+    "original": "そのＦ．Ｏ．Ｅ、\n魔法攻撃がやっかいだよ、注意っ！",
+    "translation": "そのＦ．Ｏ．Ｅ、\n魔法攻撃がやっかいだよ、注意っ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_011_0",
+    "original": "弱ると暴れるタイプだからね。\n倒せるなら一気にやっちゃおう！",
+    "translation": "弱ると暴れるタイプだからね。\n倒せるなら一気にやっちゃおう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_012_0",
+    "original": "レアシャドウ発見！\n逃がしちゃダメだからね！",
+    "translation": "レアシャドウ発見！\n逃がしちゃダメだからね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_013_0",
+    "original": "珍しいシャドウがいるよ！\n一気にたたいちゃお！",
+    "translation": "珍しいシャドウがいるよ！\n一気にたたいちゃお！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_014_0",
+    "original": "お願い！\n逃がさないでね！？",
+    "translation": "お願い！\n逃がさないでね！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_015_0",
+    "original": "逃したくないよね！\n狙っていこ！",
+    "translation": "逃したくないよね！\n狙っていこ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_016_0",
+    "original": "全体攻撃使うシャドウがいるよ。\n予兆があったらしっかり守ってね。",
+    "translation": "全体攻撃使うシャドウがいるよ。\n予兆があったらしっかり守ってね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_017_0",
+    "original": "範囲攻撃使うヤツがいる…\n防御スキルもしっかり使ってね！",
+    "translation": "範囲攻撃使うヤツがいる…\n防御スキルもしっかり使ってね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_018_0",
+    "original": "即死攻撃つかうヤツがいるよ。\n危険なのは先に倒しちゃえ！",
+    "translation": "即死攻撃つかうヤツがいるよ。\n危険なのは先に倒しちゃえ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_019_0",
+    "original": "今は魔法攻撃が効きにくいよ。\n他の方法で攻めてみよう！",
+    "translation": "今は魔法攻撃が効きにくいよ。\n他の方法で攻めてみよう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_020_0",
+    "original": "次、大技くるよ！　注意してっ！",
+    "translation": "次、大技くるよ！　注意してっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_021_0",
+    "original": "あいつ、かなり強いよ…！\n気をつけてね！",
+    "translation": "あいつ、かなり強いよ…！\n気をつけてね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_022_0",
+    "original": "やばっ…\n向こうの方が優勢かも…",
+    "translation": "やばっ…\n向こうの方が優勢かも…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_023_0",
+    "original": "全力でいけば、なんとかなるかも！\nどうしよっか…",
+    "translation": "全力でいけば、なんとかなるかも！\nどうしよっか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_024_0",
+    "original": "ヤバそうだったら、逃げるが勝ち！\n無理は禁物だよ！",
+    "translation": "ヤバそうだったら、逃げるが勝ち！\n無理は禁物だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_025_0",
+    "original": "あっ、データの無いシャドウだよ！\n弱点探すのがいいかも。",
+    "translation": "あっ、データの無いシャドウだよ！\n弱点探すのがいいかも。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_026_0",
+    "original": "初めて見る敵だよ。\n弱点わからないから気をつけて！",
+    "translation": "初めて見る敵だよ。\n弱点わからないから気をつけて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_027_0",
+    "original": "先輩、がんばってー！",
+    "translation": "先輩、がんばってー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_028_0",
+    "original": "いけるよ！頑張って！",
+    "translation": "いけるよ！頑張って！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_029_0",
+    "original": "花村先輩、注意してね！",
+    "translation": "花村先輩、注意してね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_030_0",
+    "original": "千枝先輩、ファイトです！",
+    "translation": "千枝先輩、ファイトです！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_031_0",
+    "original": "雪子先輩、\n遠慮なくやっちゃえ！",
+    "translation": "雪子先輩、\n遠慮なくやっちゃえ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_033_0",
+    "original": "完二ー！\nさっさとやっつけちゃえ！",
+    "translation": "完二ー！\nさっさとやっつけちゃえ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_034_0",
+    "original": "直斗くんなら出来るよ！",
+    "translation": "直斗くんなら出来るよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_035_0",
+    "original": "クマ、がんばって！",
+    "translation": "クマ、がんばって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_036_0",
+    "original": "がんばって、ゆかりちゃん！",
+    "translation": "がんばって、ゆかりちゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_037_0",
+    "original": "順平さん、落ち着いて\n弱点を探しましょ！",
+    "translation": "順平さん、落ち着いて\n弱点を探しましょ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_038_0",
+    "original": "さ、真田さん！？\n落ち着いてくださいね…？",
+    "translation": "さ、真田さん！？\n落ち着いてくださいね…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_039_0",
+    "original": "美鶴さん、超クール…",
+    "translation": "美鶴さん、超クール…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_041_0",
+    "original": "アイギス、お願いっ！",
+    "translation": "アイギス、お願いっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_042_0",
+    "original": "天田くん、冷静だね！　頼りになるー！",
+    "translation": "天田くん、冷静だね！　頼りになるー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_043_0",
+    "original": "コロちゃん、頑張れー！",
+    "translation": "コロちゃん、頑張れー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_044_0",
+    "original": "荒垣さん、頼りにしてまっす！",
+    "translation": "荒垣さん、頼りにしてまっす！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_045_0",
+    "original": "頑張って！\nフォローなら任せてね！",
+    "translation": "頑張って！\nフォローなら任せてね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_046_0",
+    "original": "ジョーカー、さっすが！",
+    "translation": "ジョーカー、さっすが！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_047_0",
+    "original": "スカル、よろしくねっ！",
+    "translation": "スカル、よろしくねっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_048_0",
+    "original": "落ち着いて狙って、パンサー！",
+    "translation": "落ち着いて狙って、パンサー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_049_0",
+    "original": "モナ、ナイスアイディア！",
+    "translation": "モナ、ナイスアイディア！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_050_0",
+    "original": "フォックス、いっちゃって！",
+    "translation": "フォックス、いっちゃって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_051_0",
+    "original": "クイーン、お願い！\n私もサポートするからね！",
+    "translation": "クイーン、お願い！\n私もサポートするからね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_053_0",
+    "original": "いいね、ノワール！　やっちゃえ！",
+    "translation": "いいね、ノワール！　やっちゃえ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_054_0",
+    "original": "クロウ、がんばって！",
+    "translation": "クロウ、がんばって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_055_0",
+    "original": "倒せる相手だけど\n気を抜かないで！",
+    "translation": "倒せる相手だけど\n気を抜かないで！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_056_0",
+    "original": "油断しすぎないように\n気をつけてね！",
+    "translation": "油断しすぎないように\n気をつけてね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_057_0",
+    "original": "この敵なら楽勝だろうけど\n油断はしちゃダメだよ。",
+    "translation": "この敵なら楽勝だろうけど\n油断はしちゃダメだよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_058_0",
+    "original": "これなら余裕だね！\nパパっとやっつけちゃえ！",
+    "translation": "これなら余裕だね！\nパパっとやっつけちゃえ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_059_0",
+    "original": "みんな、かっこよく\nキメちゃって！",
+    "translation": "みんな、かっこよく\nキメちゃって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_060_0",
+    "original": "やっちゃえ、やっちゃえー！",
+    "translation": "やっちゃえ、やっちゃえー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_061_0",
+    "original": "弱点を狙えるよ！\n逃さないでね！",
+    "translation": "弱点を狙えるよ！\n逃さないでね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_062_0",
+    "original": "チャーンス！\n弱点、狙っちゃお！",
+    "translation": "チャーンス！\n弱点、狙っちゃお！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_063_0",
+    "original": "やばっ、どうしよう…！\nこれじゃ逃げられない！",
+    "translation": "やばっ、どうしよう…！\nこれじゃ逃げられない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_064_0",
+    "original": "逃走失敗！\n気をつけて！",
+    "translation": "逃走失敗！\n気をつけて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_065_0",
+    "original": "う、うそ…！\nＦ．Ｏ．Ｅきちゃった！",
+    "translation": "う、うそ…！\nＦ．Ｏ．Ｅきちゃった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_066_0",
+    "original": "ちょっと、もー！\n乱入とか、やめてよ！",
+    "translation": "ちょっと、もー！\n乱入とか、やめてよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_067_0",
+    "original": "あっ、先輩が危険な状態だよ！\n大丈夫！？",
+    "translation": "あっ、先輩が危険な状態だよ！\n大丈夫！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_068_0",
+    "original": "危険な状態の人がいるよ。\n注意してね！",
+    "translation": "危険な状態の人がいるよ。\n注意してね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_069_0",
+    "original": "花村先輩が危ないよ！\n注意して！",
+    "translation": "花村先輩が危ないよ！\n注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_070_0",
+    "original": "千枝先輩が危険な状態だよ！",
+    "translation": "千枝先輩が危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_071_0",
+    "original": "雪子先輩が危険な状態だよ！",
+    "translation": "雪子先輩が危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_073_0",
+    "original": "完二が危ないよ！\n注意して！",
+    "translation": "完二が危ないよ！\n注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_074_0",
+    "original": "直斗くんが危険な状態だよ！",
+    "translation": "直斗くんが危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_075_0",
+    "original": "クマが危険な状態だよ！",
+    "translation": "クマが危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_076_0",
+    "original": "ゆかりちゃんが危険な状態だよ！",
+    "translation": "ゆかりちゃんが危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_077_0",
+    "original": "順平さんが危ないよ！\n注意して！",
+    "translation": "順平さんが危ないよ！\n注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_078_0",
+    "original": "真田さんが危険な状態だよ！",
+    "translation": "真田さんが危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_079_0",
+    "original": "美鶴さんが危険な状態だよ！",
+    "translation": "美鶴さんが危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_081_0",
+    "original": "アイギスが危険な状態だよ！",
+    "translation": "アイギスが危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_082_0",
+    "original": "天田くんが危ないよ！\n注意して！",
+    "translation": "天田くんが危ないよ！\n注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_083_0",
+    "original": "コロちゃんが危険な状態だよ！",
+    "translation": "コロちゃんが危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_084_0",
+    "original": "荒垣さんが危険な状態だよ！",
+    "translation": "荒垣さんが危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_085_0",
+    "original": "このままじゃ危ないよ！\n注意して！",
+    "translation": "このままじゃ危ないよ！\n注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_086_0",
+    "original": "ジョーカーが危険な状態だよ！",
+    "translation": "ジョーカーが危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_087_0",
+    "original": "スカルが危ないよ！\n注意して！",
+    "translation": "スカルが危ないよ！\n注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_088_0",
+    "original": "パンサーが危険な状態だよ！",
+    "translation": "パンサーが危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_089_0",
+    "original": "モナが危険な状態だよ！",
+    "translation": "モナが危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_090_0",
+    "original": "フォックスが危ないよ！\n注意して！",
+    "translation": "フォックスが危ないよ！\n注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_091_0",
+    "original": "クイーンが危険な状態だよ！",
+    "translation": "クイーンが危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_093_0",
+    "original": "ノワールが危険な状態だよ！",
+    "translation": "ノワールが危険な状態だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_094_0",
+    "original": "クロウが危ないよ！\n注意して！",
+    "translation": "クロウが危ないよ！\n注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_095_0",
+    "original": "これはヤバイかも…\n逃げるのも手だよ！",
+    "translation": "これはヤバイかも…\n逃げるのも手だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_096_0",
+    "original": "大丈夫！？\nはやく、回復しなきゃ！",
+    "translation": "大丈夫！？\nはやく、回復しなきゃ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_097_0",
+    "original": "たいへん。\n石になっちゃってるよ！？",
+    "translation": "たいへん。\n石になっちゃってるよ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_098_0",
+    "original": "うわっ、攻撃すると\n自分にもダメージがきちゃうよ！",
+    "translation": "うわっ、攻撃すると\n自分にもダメージがきちゃうよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_099_0",
+    "original": "はやく解毒しなくっちゃ！",
+    "translation": "はやく解毒しなくっちゃ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_100_0",
+    "original": "睡眠状態の人がいるよ！\n起こしてー！",
+    "translation": "睡眠状態の人がいるよ！\n起こしてー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_101_0",
+    "original": "混乱してる人がいるよ！\n助けてあげて！",
+    "translation": "混乱してる人がいるよ！\n助けてあげて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_102_0",
+    "original": "わっ、痺れて動けないみたい…！",
+    "translation": "わっ、痺れて動けないみたい…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_103_0",
+    "original": "大丈夫！？\nしっかりして！",
+    "translation": "大丈夫！？\nしっかりして！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_104_0",
+    "original": "ダメ！\nペルソナが封じられてる！",
+    "translation": "ダメ！\nペルソナが封じられてる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_105_0",
+    "original": "今は、物理攻撃が\nできなくなっちゃってるみたい！",
+    "translation": "今は、物理攻撃が\nできなくなっちゃってるみたい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_106_0",
+    "original": "動きが鈍くなってるよ！\n狙われると危ないから、注意して！",
+    "translation": "動きが鈍くなってるよ！\n狙われると危ないから、注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_107_0",
+    "original": "物理属性が弱点みたい！\n叩いちゃえー！",
+    "translation": "物理属性が弱点みたい！\n叩いちゃえー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_108_0",
+    "original": "アイツ、火炎属性に弱いよ\n燃やせる？",
+    "translation": "アイツ、火炎属性に弱いよ\n燃やせる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_109_0",
+    "original": "氷結に弱いみたいだね！\n凍らせちゃお！",
+    "translation": "氷結に弱いみたいだね！\n凍らせちゃお！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_110_0",
+    "original": "疾風属性を狙ってみて！\nやっちゃえ！",
+    "translation": "疾風属性を狙ってみて！\nやっちゃえ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_111_0",
+    "original": "弱点は電撃属性だよ。\n狙える？",
+    "translation": "弱点は電撃属性だよ。\n狙える？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_112_0",
+    "original": "核熱属性の攻撃に弱いみたい！\n狙ってみて！",
+    "translation": "核熱属性の攻撃に弱いみたい！\n狙ってみて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_113_0",
+    "original": "念動属性が弱点！\n狙っていこう！",
+    "translation": "念動属性が弱点！\n狙っていこう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_114_0",
+    "original": "祝福属性に弱いよ！\nやっちゃえやっちゃえ！",
+    "translation": "祝福属性に弱いよ！\nやっちゃえやっちゃえ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_115_0",
+    "original": "呪怨属性が弱点だね！\n狙えそう？",
+    "translation": "呪怨属性が弱点だね！\n狙えそう？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_116_0",
+    "original": "物理攻撃が狙い目だね！\nいけいけゴーゴー！",
+    "translation": "物理攻撃が狙い目だね！\nいけいけゴーゴー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_117_0",
+    "original": "火炎攻撃が有効！\n全部燃やしちゃえ！",
+    "translation": "火炎攻撃が有効！\n全部燃やしちゃえ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_118_0",
+    "original": "寒いのが苦手みたい！\n氷結属性で攻撃してみて！",
+    "translation": "寒いのが苦手みたい！\n氷結属性で攻撃してみて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_119_0",
+    "original": "風に弱いよ！\n狙えるかな？",
+    "translation": "風に弱いよ！\n狙えるかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_120_0",
+    "original": "電撃が有効だよ！\n弱点、狙っちゃおう～！",
+    "translation": "電撃が有効だよ！\n弱点、狙っちゃおう～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_121_0",
+    "original": "核熱属性がウィークポイント！\nいっけぇ～！",
+    "translation": "核熱属性がウィークポイント！\nいっけぇ～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_122_0",
+    "original": "念動攻撃が有利だね。\nやっちゃえ！",
+    "translation": "念動攻撃が有利だね。\nやっちゃえ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_123_0",
+    "original": "祝福属性の攻撃が\n有効だよ！",
+    "translation": "祝福属性の攻撃が\n有効だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_124_0",
+    "original": "呪怨属性が有利みたい！\nやっちゃえー！",
+    "translation": "呪怨属性が有利みたい！\nやっちゃえー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_125_0",
+    "original": "いい感じ！\nみんな、がんばってー！",
+    "translation": "いい感じ！\nみんな、がんばってー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_126_0",
+    "original": "いけいけ！\nそのまま、ぜーんぶ倒しちゃえ！",
+    "translation": "いけいけ！\nそのまま、ぜーんぶ倒しちゃえ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_127_0",
+    "original": "うん、みんなー！\n頑張ってねー！",
+    "translation": "うん、みんなー！\n頑張ってねー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_128_0",
+    "original": "みんな、すごい…！\nやっちゃえー！",
+    "translation": "みんな、すごい…！\nやっちゃえー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_129_0",
+    "original": "ここはバトンタッチもアリだよっ！",
+    "translation": "ここはバトンタッチもアリだよっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_130_0",
+    "original": "バトンタッチ使えば大チャーンス！",
+    "translation": "バトンタッチ使えば大チャーンス！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_131_0",
+    "original": "サポート、いけるよ！\nいつでも言ってね。",
+    "translation": "サポート、いけるよ！\nいつでも言ってね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_132_0",
+    "original": "手伝えることがあれば\nいつでも言ってね！",
+    "translation": "手伝えることがあれば\nいつでも言ってね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_133_0",
+    "original": "みんながんばって！",
+    "translation": "みんながんばって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_134_0",
+    "original": "一気に決めちゃえ！",
+    "translation": "一気に決めちゃえ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_135_0",
+    "original": "きゃー！　先輩サイコー！",
+    "translation": "きゃー！　先輩サイコー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_136_0",
+    "original": "いいぞー！",
+    "translation": "いいぞー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_137_0",
+    "original": "花村先輩やるぅ！",
+    "translation": "花村先輩やるぅ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_138_0",
+    "original": "千枝先輩いいぞー！",
+    "translation": "千枝先輩いいぞー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_139_0",
+    "original": "雪子先輩さっすがー！",
+    "translation": "雪子先輩さっすがー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_141_0",
+    "original": "やるじゃん、完二！",
+    "translation": "やるじゃん、完二！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_142_0",
+    "original": "直斗くんさっすがー！",
+    "translation": "直斗くんさっすがー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_143_0",
+    "original": "クマいいぞー！",
+    "translation": "クマいいぞー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_144_0",
+    "original": "ゆかりちゃん、やるねっ！",
+    "translation": "ゆかりちゃん、やるねっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_145_0",
+    "original": "順平さんやるぅ！",
+    "translation": "順平さんやるぅ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_146_0",
+    "original": "真田さん、ナーイス！",
+    "translation": "真田さん、ナーイス！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_147_0",
+    "original": "美鶴さんかっこいー！",
+    "translation": "美鶴さんかっこいー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_149_0",
+    "original": "いいぞーアイギス！",
+    "translation": "いいぞーアイギス！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_150_0",
+    "original": "やったね、天田くん！",
+    "translation": "やったね、天田くん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_151_0",
+    "original": "コロちゃんいいぞー！",
+    "translation": "コロちゃんいいぞー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_152_0",
+    "original": "荒垣さんさっすがー！",
+    "translation": "荒垣さんさっすがー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_153_0",
+    "original": "ナイス！　やるねっ！",
+    "translation": "ナイス！　やるねっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_154_0",
+    "original": "ジョーカー、見事にきまったよ！",
+    "translation": "ジョーカー、見事にきまったよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_155_0",
+    "original": "スカルいい感じー！",
+    "translation": "スカルいい感じー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_156_0",
+    "original": "パンサーきまってるー！",
+    "translation": "パンサーきまってるー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_157_0",
+    "original": "モナ、バッチリきまったよー！",
+    "translation": "モナ、バッチリきまったよー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_158_0",
+    "original": "きまったね、フォックス！",
+    "translation": "きまったね、フォックス！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_159_0",
+    "original": "クイーンさっすがー！",
+    "translation": "クイーンさっすがー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_161_0",
+    "original": "ノワール、かっこいー！",
+    "translation": "ノワール、かっこいー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_162_0",
+    "original": "きめたね、クロウ！",
+    "translation": "きめたね、クロウ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_165_0",
+    "original": "今はこのシャドウを倒すのが先だね。\nサポートは任せてね！",
+    "translation": "今はこのシャドウを倒すのが先だね。\nサポートは任せてね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_166_0",
+    "original": "こんなのおかしいって、教えてあげなきゃ…\nみんな、頑張って！",
+    "translation": "こんなのおかしいって、教えてあげなきゃ…\nみんな、頑張って！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_167_0",
+    "original": "なにアイツ！\nなんか変だよ、みんな気をつけて！",
+    "translation": "なにアイツ！\nなんか変だよ、みんな気をつけて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_168_0",
+    "original": "後ろの奴らに気をつけて！\n先に、あっちをどうにかしないとマズいよ！",
+    "translation": "後ろの奴らに気をつけて！\n先に、あっちをどうにかしないとマズいよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_169_0",
+    "original": "今倒すのは、後ろの奴らだよ！",
+    "translation": "今倒すのは、後ろの奴らだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_170_0",
+    "original": "今ならなんとかなるかも…\nみんな頑張って！",
+    "translation": "今ならなんとかなるかも…\nみんな頑張って！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_171_0",
+    "original": "リボンちゃんのためにも\n負けられないよ。みんな頑張って！",
+    "translation": "リボンちゃんのためにも\n負けられないよ。みんな頑張って！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_172_0",
+    "original": "こんな世界、間違ってるよね…\nみんな、頑張って！",
+    "translation": "こんな世界、間違ってるよね…\nみんな、頑張って！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_173_0",
+    "original": "ナビとリボンちゃんのおかげで\n修復できないはず、チャンスだよ！",
+    "translation": "ナビとリボンちゃんのおかげで\n修復できないはず、チャンスだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_174_0",
+    "original": "修復機能停止してるよ！\n一気に倒しちゃおう！",
+    "translation": "修復機能停止してるよ！\n一気に倒しちゃおう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_175_0",
+    "original": "えっ、なにそれ！",
+    "translation": "えっ、なにそれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_176_0",
+    "original": "完全に暴走しちゃってる…\nみんな、気をつけてね！",
+    "translation": "完全に暴走しちゃってる…\nみんな、気をつけてね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_177_0",
+    "original": "みんな、移動する目を狙ってみて！",
+    "translation": "みんな、移動する目を狙ってみて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_178_0",
+    "original": "あれ、弱点かな？\nみんな、あそこを攻撃してみよう！",
+    "translation": "あれ、弱点かな？\nみんな、あそこを攻撃してみよう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_179_0",
+    "original": "そんな…！\n弱点じゃなかったってこと？",
+    "translation": "そんな…！\n弱点じゃなかったってこと？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_180_0",
+    "original": "どうしよう…このままだと…",
+    "translation": "どうしよう…このままだと…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_181_0",
+    "original": "ひかりちゃんの応援の力…\nこれならなんとかなるかも！",
+    "translation": "ひかりちゃんの応援の力…\nこれならなんとかなるかも！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_182_0",
+    "original": "いいよ、効いてる！",
+    "translation": "いいよ、効いてる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_183_0",
+    "original": "すごい威圧感を感じる…\nみんな、注意してね！",
+    "translation": "すごい威圧感を感じる…\nみんな、注意してね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_184_0",
+    "original": "ここまできたらやるしかないよね！\nみんな、頑張って！",
+    "translation": "ここまできたらやるしかないよね！\nみんな、頑張って！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_185_0",
+    "original": "敵の属性が変化したよ！\n注意して！",
+    "translation": "敵の属性が変化したよ！\n注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_186_0",
+    "original": "凄いエネルギーが溜まってきてる…\nアレを使われると危ないよ！",
+    "translation": "凄いエネルギーが溜まってきてる…\nアレを使われると危ないよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_187_0",
+    "original": "えっ！？\n時間が、飛んでる！？",
+    "translation": "えっ！？\n時間が、飛んでる！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_188_0",
+    "original": "飛んだ時間を利用して\n一気に攻撃してくるなんて…",
+    "translation": "飛んだ時間を利用して\n一気に攻撃してくるなんて…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_189_0",
+    "original": "えっ…！\n大変だよ、時間が戻ってる！",
+    "translation": "えっ…！\n大変だよ、時間が戻ってる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_006_190_0",
+    "original": "戻る前の、こっちの行動を利用してる…！？\nこんな事してくるなんて…",
+    "translation": "戻る前の、こっちの行動を利用してる…！？\nこんな事してくるなんて…",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おっし、かかってこい！",
+    "translation": "好，放马过来吧！",
+    "stage": 0,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好，放马过来吧！\n\n喂，上来！\n\n喂，快来！"
+  },
+  {
+    "key": "MSG_000_5_0",
+    "original": "…って、アレ？　なんもいねーぞ？",
+    "translation": "……啊嘞，什么都没有啊？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n……呃，奇怪？什么都没有啊？\n\n……那个？什么都没有啊？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "…何か様子がおかしい。\nやけに静かすぎると思わないかい？",
+    "translation": "……情况不太对啊。\n不觉得这里有点太安静了吗？",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n……感觉不太对劲。\n不觉得太安静了吗？\n\n……样子有点奇怪。\n你不觉得太安静了吗？\n\n……有些不对劲。\n你不觉得太安静了吗？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "わっ！　敵！？",
+    "translation": "哇！有敌人！？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n哇！敌人！？"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "いや、狙いはこっちじゃない！\nこの反応は…！？",
+    "translation": "不对，它们的目标不是我们！\n这个反应是……！？",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n不对，目标不是我们！\n这个反应是……！？\n\n不，目标不是这边！\n这个反应是……！？\n\n不，目标不是我！\n这个反应……！？"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おい、あれを見ろ！",
+    "translation": "喂，看那个！",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n喂，快看那边！\n\n喂，看那个！\n\n喂，你看那个！"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

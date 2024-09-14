@@ -1,0 +1,149 @@
+[
+  {
+    "key": "NOFFICE_HELLO_ELIZABETH__0",
+    "original": "どちらのチケットをお求めでしょう？",
+    "translation": "どちらのチケットをお求めでしょう？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NOFFICE_HELLO_ELIZABETH__2_0",
+    "original": "お待ちしておりました。",
+    "translation": "お待ちしておりました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NOFFICE_HELLO_ELIZABETH__3_0",
+    "original": "ようこそ、チケット売り場へ。",
+    "translation": "ようこそ、チケット売り場へ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NOFFICE_EXP_ELIZABETH_0",
+    "original": "何でございましょう？",
+    "translation": "何でございましょう？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NOFFICE_OUT_ELIZABETH_NU_0",
+    "original": "ご利用ありがとうございました。",
+    "translation": "ご利用ありがとうございました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NOFFICE_OUT_ELIZABETH_NU_2_0",
+    "original": "またのご利用をお待ちしております。",
+    "translation": "またのご利用をお待ちしております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NOFFICE_OUT_ELIZABETH_NU_3_0",
+    "original": "それではまた。",
+    "translation": "それではまた。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NOFFICE_ACCEPT_OUT_ELIZA_0",
+    "original": "いってらっしゃいませ。",
+    "translation": "いってらっしゃいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NOFFICE_ACCEPT_OUT_ELIZA_2_0",
+    "original": "お気をつけて。",
+    "translation": "お気をつけて。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NOFFICE_ACCEPT_OUT_ELIZA_3_0",
+    "original": "皆様のご健闘をお祈りしております。",
+    "translation": "皆様のご健闘をお祈りしております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "BBOARD_BATTLE_BEFORE_THE_0",
+    "original": "テオドア戦闘前",
+    "translation": "テオドア戦闘前",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "BBOARD_BATTLE_BEFORE_MAR_0",
+    "original": "マーガレット戦闘前",
+    "translation": "マーガレット戦闘前",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "BBOARD_BATTLE_BEFORE_TWI_0",
+    "original": "双子戦闘前",
+    "translation": "双子戦闘前",
+    "stage": 1,
+    "context": "双子"
+  },
+  {
+    "key": "BBOARD_BATTLE_BEFORE_ELI_0",
+    "original": "エリザベス戦闘前",
+    "translation": "エリザベス戦闘前",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "BBOARD_BATTLE_BEFORE_ALL_0",
+    "original": "五人全員戦闘前",
+    "translation": "五人全員戦闘前",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_BBOARD_BATTLE_BEFORE_0",
+    "original": "バッチリだ",
+    "translation": "バッチリだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_BBOARD_BATTLE_BEFORE_1",
+    "original": "少し待って",
+    "translation": "少し待って",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_双子",
+    "original": "双子",
+    "translation": "双子",
+    "stage": 1,
+    "context": ""
+  }
+]

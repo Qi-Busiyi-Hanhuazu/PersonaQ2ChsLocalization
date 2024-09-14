@@ -1,0 +1,107 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "そこを抜ければ、\n目的のマンホールだよ。",
+    "translation": "只要穿过那里，\n就到我们要找的下水道了。",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n只要穿过那里，\n就是我们要找的井盖了。\n\n穿过那里就是目的的检修孔。\n\n\n只要把那里拔出来，就是我们要去的那个窨井。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "つっても、目の前の広場から\nシャドウの気配がビンビンすんだけど…",
+    "translation": "话虽如此，\n从眼前的广场里一直有暗影的气息传来……",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n话虽如此，\n从眼前的广场就一直有暗影的气息传来……\n\n但是，从眼前的广场传来了暗影的气息……\n\n\n不过，从眼前的广场传来暗影的动静……"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "残念なお知らせだが、他に道はない。",
+    "translation": "很遗憾，已经没有其他路了。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n很遗憾，没有其他路了。\n\n虽然是遗憾的通知，但是没有其他的路了。\n\n虽然是令人遗憾的消息，但是没有其他的路。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "えーっと、こういう時、\n怪盗としての正解は？",
+    "translation": "呃——这种时候，\n身为怪盗该选择什么啊？",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n呃——这种时候，\n怪盗的正确答案是？\n\n嗯，这种时候，\n作为怪盗的正确答案是？"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "戦おう",
+    "translation": "战斗吧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n战斗吧"
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "正面突破だ",
+    "translation": "正面突破",
+    "stage": 0,
+    "context": "机翻辅助：\n\n正面突破"
+  },
+  {
+    "key": "SEL_004_2",
+    "original": "準備はいいな？",
+    "translation": "准备好了吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n准备好了吗？"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "慎重かつ大胆に…\nそれが怪盗の流儀ってモンだぜ。",
+    "translation": "慎重却又大胆……\n这就是怪盗的作风。",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n慎重且大胆地……\n这就是怪盗的作风。\n\n慎重而大胆地……这就是怪盗的作风。\n\n\n这就是所谓的怪盗流派。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "私たちなら、やれる！\n行くよ！",
+    "translation": "我们一定办得到！\n上吧！",
+    "stage": 0,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n我们一定办得到！\n上吧！\n\n我们能做到！\n去吧！\n\n我们能做到！\n我去！"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

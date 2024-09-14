@@ -1,0 +1,366 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "……あれ？\n私、寝てた…？",
+    "translation": "……あれ？\n私、寝てた…？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "…あ、そうだ、\n勉強してて、途中で寝ちゃったんだ…",
+    "translation": "…あ、そうだ、\n勉強してて、途中で寝ちゃったんだ…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "なんか…夢を見てた気がするんだけど…\nうーん？",
+    "translation": "なんか…夢を見てた気がするんだけど…\nうーん？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "[P3P名]、いるー？",
+    "translation": "[P3P名]、いるー？",
+    "stage": 1,
+    "context": "ゆかりの声"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あ、う、うん！\n何？",
+    "translation": "あ、う、うん！\n何？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おー、いたいた！\nよかったー！",
+    "translation": "おー、いたいた！\nよかったー！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "[P3P名]、ヨダレついてるぞ？",
+    "translation": "[P3P名]、ヨダレついてるぞ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "はっはっは。\nお主、うっかり侍だな！",
+    "translation": "はっはっは。\nお主、うっかり侍だな！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うそ！？",
+    "translation": "うそ！？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うっそー。",
+    "translation": "うっそー。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "バカじゃないの？",
+    "translation": "バカじゃないの？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "…てか、バッッッカじゃないの？",
+    "translation": "…てか、バッッッカじゃないの？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "いやー、ゆかりッチ。\n今日もキレがいいですなぁ！",
+    "translation": "いやー、ゆかりッチ。\n今日もキレがいいですなぁ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ひょっとして、本当に居眠りしてたとか…？\nちょっと意外ですね。",
+    "translation": "ひょっとして、本当に居眠りしてたとか…？\nちょっと意外ですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "お前ら、遅いぞ。",
+    "translation": "お前ら、遅いぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "コイツが早く[P3P姓]を呼べって\nキャンキャンうるさくてよ…迎えに来たぞ。",
+    "translation": "コイツが早く[P3P姓]を呼べって\nキャンキャンうるさくてよ…迎えに来たぞ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "皆さん、\n飲み物、冷めちゃいますよ？",
+    "translation": "皆さん、\n飲み物、冷めちゃいますよ？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "岳羽、菓子は調達できたのか？",
+    "translation": "岳羽、菓子は調達できたのか？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "あ、はい。それはばっちり！",
+    "translation": "あ、はい。それはばっちり！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "クッキーもチョコもありますし、\nあとポップコーンも。",
+    "translation": "クッキーもチョコもありますし、\nあとポップコーンも。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ゆかりッチ、ポップコーンってガラ？",
+    "translation": "ゆかりッチ、ポップコーンってガラ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "うるさいなー。\nたまーに無性に食べたくなんの！",
+    "translation": "うるさいなー。\nたまーに無性に食べたくなんの！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "みなさん、準備は万端でありますね。",
+    "translation": "みなさん、準備は万端でありますね。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "[P3P名]ちゃん？\nどうしたの？",
+    "translation": "[P3P名]ちゃん？\nどうしたの？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "なんか、ぼーっとしてんな。\n熱でもあんのか？",
+    "translation": "なんか、ぼーっとしてんな。\n熱でもあんのか？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ううん…\nただ、なんだか…懐かしい気がして…",
+    "translation": "ううん…\nただ、なんだか…懐かしい気がして…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "……？\nどういうことでありますか？",
+    "translation": "……？\nどういうことでありますか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "あはは、私もわかんない。",
+    "translation": "あはは、私もわかんない。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "でも、どうしてだろ。\nずっとみんなに会いたかった気がする。",
+    "translation": "でも、どうしてだろ。\nずっとみんなに会いたかった気がする。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "嫌な夢でも見た…？",
+    "translation": "嫌な夢でも見た…？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "うーん、そういうわけじゃないんだけど…",
+    "translation": "うーん、そういうわけじゃないんだけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "それより、みんなどうしたの？\n私になにか用があった？",
+    "translation": "それより、みんなどうしたの？\n私になにか用があった？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "うん。実は今、みんなで映画でも\n見ようかって話になってて…",
+    "translation": "うん。実は今、みんなで映画でも\n見ようかって話になってて…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "会長が許してくれたであります。\nヨッ、太っ腹！",
+    "translation": "会長が許してくれたであります。\nヨッ、太っ腹！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "…前々から思ってたんだが、\n君はそういう言葉をどこで覚えてくるんだ？",
+    "translation": "…前々から思ってたんだが、\n君はそういう言葉をどこで覚えてくるんだ？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "見ますよね？　ＳＦ映画なんですけど。",
+    "translation": "見ますよね？　ＳＦ映画なんですけど。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "映画…？\nＳＦ映画…？",
+    "translation": "映画…？\nＳＦ映画…？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "そ、ほら！　行こ！",
+    "translation": "そ、ほら！　行こ！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "…うん！",
+    "translation": "…うん！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ゆかりの声",
+    "original": "ゆかりの声",
+    "translation": "ゆかりの声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  }
+]

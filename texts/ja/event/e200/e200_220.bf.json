@@ -1,0 +1,163 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "どうだ、俺の言ったとおりだろ？\nこれからも分かんないことありゃ、俺に…",
+    "translation": "どうだ、俺の言ったとおりだろ？\nこれからも分かんないことありゃ、俺に…",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ヒイィィィッ！？",
+    "translation": "ヒイィィィッ！？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "むっ？　何者だ！",
+    "translation": "むっ？　何者だ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "まってまって、クマクマ！",
+    "translation": "まってまって、クマクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なんだ…もう、ビックリした。",
+    "translation": "なんだ…もう、ビックリした。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "草むらで何してたの？",
+    "translation": "草むらで何してたの？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ヨースケが落ちてないかと思って、\n探してたクマ…見つからんかったけど。",
+    "translation": "ヨースケが落ちてないかと思って、\n探してたクマ…見つからんかったけど。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "お、驚かせんなよっ！\n肉食恐竜かと思っただろ！！",
+    "translation": "お、驚かせんなよっ！\n肉食恐竜かと思っただろ！！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ごめんなさいクマ…\nでも、どうしてもヨースケが心配で…",
+    "translation": "ごめんなさいクマ…\nでも、どうしてもヨースケが心配で…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "マジ、勘弁してくれって。",
+    "translation": "マジ、勘弁してくれって。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "いつあいつらが現れるかと思うと、\n俺ら草食恐竜は、いつも気が気じゃねぇんだ。",
+    "translation": "いつあいつらが現れるかと思うと、\n俺ら草食恐竜は、いつも気が気じゃねぇんだ。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "クマも悪気はなかったんだ。\n謝ってるし、許してやってくれ。",
+    "translation": "クマも悪気はなかったんだ。\n謝ってるし、許してやってくれ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "お…おう。\nでもホント、驚かすのは止めてくれよな？",
+    "translation": "お…おう。\nでもホント、驚かすのは止めてくれよな？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "今回はアイボウもこう言ってるし、\n別にいいけどさ…次からは頼むぜ？",
+    "translation": "今回はアイボウもこう言ってるし、\n別にいいけどさ…次からは頼むぜ？",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "相棒ってのは、もう決定なんだ…？",
+    "translation": "相棒ってのは、もう決定なんだ…？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "へへっ、アイボウっていい響きだよな！",
+    "translation": "へへっ、アイボウっていい響きだよな！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "そんじゃ、先に行こうぜ！\nアイボウ！！",
+    "translation": "そんじゃ、先に行こうぜ！\nアイボウ！！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "speaker_ヨウスケサウルス",
+    "original": "ヨウスケサウルス",
+    "translation": "ヨウスケサウルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  }
+]

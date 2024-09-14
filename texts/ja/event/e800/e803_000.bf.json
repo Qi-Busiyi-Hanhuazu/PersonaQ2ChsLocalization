@@ -1,0 +1,191 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おっと、ここは行き止まりか。",
+    "translation": "おっと、ここは行き止まりか。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "少し休まない？\nここ暑いし、ノド乾いちゃった。",
+    "translation": "少し休まない？\nここ暑いし、ノド乾いちゃった。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "恐竜たちが生活するのに適した\nジャングルだけに、気温は高めだね。",
+    "translation": "恐竜たちが生活するのに適した\nジャングルだけに、気温は高めだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "モナちゃん、大丈夫？\nそれ脱いだ方がいいんじゃない？",
+    "translation": "モナちゃん、大丈夫？\nそれ脱いだ方がいいんじゃない？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "着ぐるみじゃねーし！",
+    "translation": "着ぐるみじゃねーし！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "…………。",
+    "translation": "…………。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "……？",
+    "translation": "……？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "完二がジッと\nモルガナを見つめている…",
+    "translation": "完二がジッと\nモルガナを見つめている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "おーい、ジョーカー！",
+    "translation": "おーい、ジョーカー！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "……！",
+    "translation": "……！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "なんだ、アイツ？",
+    "translation": "なんだ、アイツ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "モルガナのことジロジロ\n見てやがったよな…？",
+    "translation": "モルガナのことジロジロ\n見てやがったよな…？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "リュージ、どうした？",
+    "translation": "リュージ、どうした？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "あーいや、なんでもねえ。",
+    "translation": "あーいや、なんでもねえ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "つか、休憩バッチリ取ったし、\nそろそろ出発しようぜ。",
+    "translation": "つか、休憩バッチリ取ったし、\nそろそろ出発しようぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "まだ見てやがる…\nアイツ、どういうつもりだ？",
+    "translation": "まだ見てやがる…\nアイツ、どういうつもりだ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "おいリュージ、置いてかれるぞ！",
+    "translation": "おいリュージ、置いてかれるぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ワリい、いま行くわ。",
+    "translation": "ワリい、いま行くわ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "特別上映『ヤンキー戦争勃発…？』が\nチケットカウンターに追加されました。",
+    "translation": "特別上映『ヤンキー戦争勃発…？』が\nチケットカウンターに追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

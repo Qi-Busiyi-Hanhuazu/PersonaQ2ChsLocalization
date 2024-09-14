@@ -1,0 +1,142 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ジョーカー！\n待て！　止まれ！　ストーップ！！",
+    "translation": "ジョーカー！\n待て！　止まれ！　ストーップ！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ど、どうしたの急に！？",
+    "translation": "ど、どうしたの急に！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "この先に罠でもあるのか？",
+    "translation": "この先に罠でもあるのか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "違う、こっちの…\n映画館の話だ！",
+    "translation": "違う、こっちの…\n映画館の話だ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "関係者以外立ち入り禁止、って\n書いてあった扉を覚えてるか？",
+    "translation": "関係者以外立ち入り禁止、って\n書いてあった扉を覚えてるか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あー、鍵がかかってたトコだっけ。\nそれがどうかしたのか？",
+    "translation": "あー、鍵がかかってたトコだっけ。\nそれがどうかしたのか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "その扉の中から、いきなり\n正体不明のすげー強い反応が出た。",
+    "translation": "その扉の中から、いきなり\n正体不明のすげー強い反応が出た。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "反応？　敵ってこと？",
+    "translation": "反応？　敵ってこと？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ううん、謎だ…謎の気配…\nナギも分からないっぽい…",
+    "translation": "ううん、謎だ…謎の気配…\nナギも分からないっぽい…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "クイーンたちの可能性は低そうだけど、\n調べた方が良いと思う。",
+    "translation": "クイーンたちの可能性は低そうだけど、\n調べた方が良いと思う。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "となると、いったん帰還か…\nどうするかは君に任せるよ。",
+    "translation": "となると、いったん帰還か…\nどうするかは君に任せるよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "戻ろう",
+    "translation": "戻ろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "確認してみよう",
+    "translation": "確認してみよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "よし、すぐ来てくれ！\n待ってるからな！",
+    "translation": "よし、すぐ来てくれ！\n待ってるからな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "謎の気配、か…\nいったい何なのか、気になるな。",
+    "translation": "謎の気配、か…\nいったい何なのか、気になるな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "みんな、ちょっと待って！\n扉の向こう、今までと違う気配がする…",
+    "translation": "みんな、ちょっと待って！\n扉の向こう、今までと違う気配がする…",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "何かあっても大丈夫なように、\nちゃんと準備していった方がいいかも…",
+    "translation": "何かあっても大丈夫なように、\nちゃんと準備していった方がいいかも…",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "この先、正体不明の何かがいるって…\n怖すぎんだけど…だ、大丈夫かな？",
+    "translation": "この先、正体不明の何かがいるって…\n怖すぎんだけど…だ、大丈夫かな？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "行こう",
+    "translation": "行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "じゃ、じゃあ、先頭はジョーカーに任せた！\nよろしく！",
+    "translation": "じゃ、じゃあ、先頭はジョーカーに任せた！\nよろしく！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…だってさ、ジョーカー。\n女性からの頼みだ。",
+    "translation": "…だってさ、ジョーカー。\n女性からの頼みだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "勿論、断るわけないよね？\nさ、あとは頼んだよ。",
+    "translation": "勿論、断るわけないよね？\nさ、あとは頼んだよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "慎重なのは悪いことじゃない。\n不安なら、しっかり準備してから行こう。",
+    "translation": "慎重なのは悪いことじゃない。\n不安なら、しっかり準備してから行こう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

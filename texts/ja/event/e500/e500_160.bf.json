@@ -1,0 +1,338 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ひかりの映画館、映写室…",
+    "translation": "ひかりの映画館、映写室…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ええと、ここで流れてたフィルムは…",
+    "translation": "ええと、ここで流れてたフィルムは…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "あっ、あった。\nこれかな？",
+    "translation": "あっ、あった。\nこれかな？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "こっちも見つけたっスよ！",
+    "translation": "こっちも見つけたっスよ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "１、２、３、４…\n間違いない。これで揃ったな。",
+    "translation": "１、２、３、４…\n間違いない。これで揃ったな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "このフィルムを、あの４つの\n映写機にセットすればいいんだな？",
+    "translation": "このフィルムを、あの４つの\n映写機にセットすればいいんだな？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うん…！",
+    "translation": "うん…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "こっから先は、クマたちに任せんしゃい！",
+    "translation": "こっから先は、クマたちに任せんしゃい！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "ヒカリンは、オーブネに乗ったつもりで\n待ってるクマ！",
+    "translation": "ヒカリンは、オーブネに乗ったつもりで\n待ってるクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_007_5_0",
+    "original": "ねえ、私も一緒に行っちゃダメかな？",
+    "translation": "ねえ、私も一緒に行っちゃダメかな？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "え、でも…危ないよ？",
+    "translation": "え、でも…危ないよ？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ま、まさか、クマのオーブネじゃ\n安心できんですとー！？",
+    "translation": "ま、まさか、クマのオーブネじゃ\n安心できんですとー！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "まあ、お前が言うと泥船感あるけどな…",
+    "translation": "まあ、お前が言うと泥船感あるけどな…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "けど、冗談抜きで、\nここにいた方が安心だと思うぜ？",
+    "translation": "けど、冗談抜きで、\nここにいた方が安心だと思うぜ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "そ、そうだ！\nこっから先は敵の本拠地に乗りこむんだ。",
+    "translation": "そ、そうだ！\nこっから先は敵の本拠地に乗りこむんだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "もしアイツに会ったら、\nひかりだって、無事じゃすまないかも…",
+    "translation": "もしアイツに会ったら、\nひかりだって、無事じゃすまないかも…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "だからこそだよ。\nあの人に会って、伝えたいことがあるの。",
+    "translation": "だからこそだよ。\nあの人に会って、伝えたいことがあるの。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "あの人って…エンリルだよね？",
+    "translation": "あの人って…エンリルだよね？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "うん…危険なのは分かってる。\nみんなの邪魔になるかもしれない。",
+    "translation": "うん…危険なのは分かってる。\nみんなの邪魔になるかもしれない。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "でも、どうしても、エンリルの所に\n私も一緒に行きたい…ダメ？",
+    "translation": "でも、どうしても、エンリルの所に\n私も一緒に行きたい…ダメ？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "SEL_015_0",
+    "original": "一緒に行こう",
+    "translation": "一緒に行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_015_1",
+    "original": "危険だ",
+    "translation": "危険だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "…ひかりがそこまで言うなら、\nわたしも全力でサポートする。",
+    "translation": "…ひかりがそこまで言うなら、\nわたしも全力でサポートする。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_016_5_0",
+    "original": "で、でも、無茶だけはするなよ！？\n危なくなったら、すぐ逃げるんだぞ！",
+    "translation": "で、でも、無茶だけはするなよ！？\n危なくなったら、すぐ逃げるんだぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "…本当は、わたしも同じ意見だ。",
+    "translation": "…本当は、わたしも同じ意見だ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "でも、それがひかりの願いなら…\nその気持ちを、尊重したい。",
+    "translation": "でも、それがひかりの願いなら…\nその気持ちを、尊重したい。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_5_0",
+    "original": "頼む！　ひかりを連れてってくれ！\nわたしも全力でサポートするから！",
+    "translation": "頼む！　ひかりを連れてってくれ！\nわたしも全力でサポートするから！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "仕方がない。フタバもこう言ってるし、\n連れてってやろうぜ。",
+    "translation": "仕方がない。フタバもこう言ってるし、\n連れてってやろうぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "何があったって、ワガハイたちなら\n守りぬけるさ。",
+    "translation": "何があったって、ワガハイたちなら\n守りぬけるさ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "よし、オレっちたちに任せな。\n敵が来ても、ペルソナでぶっ飛ばすからよ！",
+    "translation": "よし、オレっちたちに任せな。\n敵が来ても、ペルソナでぶっ飛ばすからよ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうやって、すーぐ調子のって…\n真っ先にダウンしないでよ？",
+    "translation": "そうやって、すーぐ調子のって…\n真っ先にダウンしないでよ？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "みんな…ありがとう！",
+    "translation": "みんな…ありがとう！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "それでは、ロビーに戻ろう。\n作戦決行に備えて準備をせねばな。",
+    "translation": "それでは、ロビーに戻ろう。\n作戦決行に備えて準備をせねばな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

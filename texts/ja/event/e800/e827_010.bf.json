@@ -1,0 +1,128 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ついにこのときがやってきたのですね…",
+    "translation": "ついにこのときがやってきたのですね…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "お二方の雌雄を決しつつドーナツも\n食べられる…",
+    "translation": "お二方の雌雄を決しつつドーナツも\n食べられる…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "これはもう、一石八十鳥ぐらいの\n勢いでございます。",
+    "translation": "これはもう、一石八十鳥ぐらいの\n勢いでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "大食いはともかく、\nドーナツ食べ放題は普通に嬉しいかも。",
+    "translation": "大食いはともかく、\nドーナツ食べ放題は普通に嬉しいかも。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "だよね。\nむしろ食べ過ぎちゃわないか心配。",
+    "translation": "だよね。\nむしろ食べ過ぎちゃわないか心配。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…行こうか。",
+    "translation": "…行こうか。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "大変だな",
+    "translation": "大変だな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "同情する",
+    "translation": "同情する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ここまできたらしょうがないよ。\nみんなも乗り気みたいだし。",
+    "translation": "ここまできたらしょうがないよ。\nみんなも乗り気みたいだし。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ああ。やるしかないのなら全力でやろう。",
+    "translation": "ああ。やるしかないのなら全力でやろう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "さすが先輩…漢っス！",
+    "translation": "さすが先輩…漢っス！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_TUTORIAL_QUEST_TREAS_0",
+    "original": "迷宮内には[颜色 03]特定の特別上映の間のみ\n出現する宝箱[颜色 01]があります。",
+    "translation": "迷宮内には[颜色 03]特定の特別上映の間のみ\n出現する宝箱[颜色 01]があります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_TREAS_1",
+    "original": "中には[颜色 03]探索に役立つアイテム[颜色 01]などが\n入っているので、見逃さずに手に入れましょう。",
+    "translation": "中には[颜色 03]探索に役立つアイテム[颜色 01]などが\n入っているので、見逃さずに手に入れましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_TREAS_2",
+    "original": "なお、特別上映は、[颜色 03]目的を達成した後は\n再び挑戦することができません。[颜色 01]",
+    "translation": "なお、特別上映は、[颜色 03]目的を達成した後は\n再び挑戦することができません。[颜色 01]",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_TREAS_3",
+    "original": "目的を達成する前に、\n迷宮内を隅々まで探索してみましょう。",
+    "translation": "目的を達成する前に、\n迷宮内を隅々まで探索してみましょう。",
+    "stage": 1,
+    "context": ""
+  }
+]

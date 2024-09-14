@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_DENKISAKU_SWITCH_SET_0",
+    "original": "＞電気柵のスイッチについて説明する",
+    "translation": "＞说明一下电网栅栏开关",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞说明电栅栏的开关。\n\n＞对电栅栏的开关进行说明"
+  },
+  {
+    "key": "MSG_DENKISAKU_SWITCH_SET_1",
+    "original": "「スイッチONで対象の電気柵を解除できること。\n 解除後、１０歩以上歩くと閉じてしまうこと。」\nをユーザーに説明。",
+    "translation": "对使用者说明一下，\n“开关打开之后，就可以解除目标的电网栅栏。\n解除后，走10步以上就会关闭。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“开关ON后，可以解除目标的电栅栏。\n解除后，走10步以上就会关闭。”\n向使用者说明。\n\n“打开开关就能解除电栅。\n解除后，走10步以上就会关闭。”向用户说明。\n\n\n向用户说明“通过打开开关可以解除对象的电栅栏。\n解除后，走10步以上就会关闭。”。"
+  },
+  {
+    "key": "MSG_FIRST_DENKISAKU_CLEA_0",
+    "original": "＞「電気柵を無事に突破したこと。」\nを伝えるイベント。",
+    "translation": "＞传达一下“顺利突破电网栅栏”\n　事件。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞告知“顺利突破电栅栏”\n　的事件。\n\n＞“平安地突破了电栅栏。”传达\n　的活动。\n\n＞\n　传达“顺利突破电栅栏”的活动。"
+  },
+  {
+    "key": "MSG_TIRANO_SETUMEI_01_0",
+    "original": "＞ティラノFOEについて説明する（1）",
+    "translation": "＞关于暴龙FOE进行一下说明（1）",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞说明暴龙FOE（1）\n\n＞对蒂拉诺FOE进行说明（1）\n\n＞对霸王龙的FOE进行说明（1）"
+  },
+  {
+    "key": "MSG_TIRANO_SETUMEI_01_1",
+    "original": "「ティラノFOEはプレイヤーを発見すると\n 見失うまで、追尾しつづけてくること。」\nをユーザーに説明。",
+    "translation": "向使用者说明一下，\n“暴龙FOE发现玩家后\n会持续追踪，直到看不见为止。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“暴龙FOE发现玩家后\n会持续追踪，直到看不见为止。”\n向使用者说明。\n\n\n蒂拉诺FOE一旦发现玩家，就会一直跟踪到迷失为止。\n向用户说明。\n\n“霸王龙FOE一旦发现播放机，就会一直跟踪直到与之失去踪影。”向用户说明。"
+  },
+  {
+    "key": "MSG_TIRANO_SETUMEI_02_0",
+    "original": "＞ティラノFOEについて説明する（2）",
+    "translation": "＞关于暴龙FOE进行一下说明2）",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞说明暴龙FOE（2）\n\n＞对Tirano FOE进行说明（2）\n\n＞对霸王龙的FOE进行说明（2）"
+  },
+  {
+    "key": "MSG_TIRANO_SETUMEI_02_1",
+    "original": "「ティラノFOEと電気柵の関係性について」\n　ユーザーに説明。",
+    "translation": "向使用者说明一下，\n“暴龙FOE与电网栅栏的关系。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“暴龙FOE与电栅栏的关系。”\n向使用者说明。\n\n“关于霸王龙与电栅栏的关系”\n向用户说明。\n\n向用户说明Tirano FOE和电栅栏的关系。"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ああ、来たのか…",
+    "translation": "ああ、来たのか…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "……？",
+    "translation": "……？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "またマリーの姿が見当たらない…",
+    "translation": "またマリーの姿が見当たらない…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "…マリーですか？\n彼女なら、マーガレットのお使いで…",
+    "translation": "…マリーですか？\n彼女なら、マーガレットのお使いで…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "……？",
+    "translation": "……？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "また床に便せんが落ちている。",
+    "translation": "また床に便せんが落ちている。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "力強い文字で\n何か書かれているのが見える…",
+    "translation": "力強い文字で\n何か書かれているのが見える…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "『ザ・セブン・デッドリィ・シンズ』",
+    "translation": "『ザ・セブン・デッドリィ・シンズ』",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "天使（エンジェル）ハ墜チタ　\n七ツノ罪ニ溺レテ",
+    "translation": "天使（エンジェル）ハ墜チタ　\n七ツノ罪ニ溺レテ",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "第一ノ罪ハ暴食（グルットニー）　\n甘イ罪ノ果実（フルゥツ）ヲ貪ッテ",
+    "translation": "第一ノ罪ハ暴食（グルットニー）　\n甘イ罪ノ果実（フルゥツ）ヲ貪ッテ",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "第二ノ罪ハ怠惰（スロウス）　\n寝台ハ聖域　誰ニモ侵セナイ",
+    "translation": "第二ノ罪ハ怠惰（スロウス）　\n寝台ハ聖域　誰ニモ侵セナイ",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_005_3",
+    "original": "第三ノ罪ハ強欲（グリード）　\n靴モ鞄モ飽キタラ捨テルノ",
+    "translation": "第三ノ罪ハ強欲（グリード）　\n靴モ鞄モ飽キタラ捨テルノ",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_005_4",
+    "original": "第四ノ罪ハ嫉妬（ジェラシィ）　\n貴方ト喋ルアノ子ガ嫌イ",
+    "translation": "第四ノ罪ハ嫉妬（ジェラシィ）　\n貴方ト喋ルアノ子ガ嫌イ",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_005_5",
+    "original": "第五ノ罪ハ憤怒（ウロウス）　\nコノ気持チ早ク気付イテヨ",
+    "translation": "第五ノ罪ハ憤怒（ウロウス）　\nコノ気持チ早ク気付イテヨ",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_005_6",
+    "original": "第六ノ罪ハ虚飾（プライド）　\nデモ貴方ノ前ダト天使ノ顔",
+    "translation": "第六ノ罪ハ虚飾（プライド）　\nデモ貴方ノ前ダト天使ノ顔",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_005_7",
+    "original": "第七ノ罪ハ色欲（ルウスト）　\nダッテ私ハ…",
+    "translation": "第七ノ罪ハ色欲（ルウスト）　\nダッテ私ハ…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_005_8",
+    "original": "恋ニ墜チタ堕天使（ロンリールシフェル）",
+    "translation": "恋ニ墜チタ堕天使（ロンリールシフェル）",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "これも、マリーの書いた詩だろうか…",
+    "translation": "これも、マリーの書いた詩だろうか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "…ぎにゃああああっ！",
+    "translation": "…ぎにゃああああっ！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "な、な、なんで…ホントあり得ないッ！\nこれ、できたてのホヤホヤなのに…！",
+    "translation": "な、な、なんで…ホントあり得ないッ！\nこれ、できたてのホヤホヤなのに…！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "てゆーか何でスッと読んじゃうの！？\nそれがユーの大罪！",
+    "translation": "てゆーか何でスッと読んじゃうの！？\nそれがユーの大罪！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "…そのくらいにしておきなさい。\n天使の顔が台無しよ、ロンリールシフェル。",
+    "translation": "…そのくらいにしておきなさい。\n天使の顔が台無しよ、ロンリールシフェル。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "だ、だって…ッ！",
+    "translation": "だ、だって…ッ！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "って…\nろんりー…るしふぇる？",
+    "translation": "って…\nろんりー…るしふぇる？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_010_2",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_010_3",
+    "original": "とにかくばかきらいさいてー！\n恋に墜ちちゃえ堕天使メガネ！",
+    "translation": "とにかくばかきらいさいてー！\n恋に墜ちちゃえ堕天使メガネ！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "マリーは頬を赤らめている…",
+    "translation": "マリーは頬を赤らめている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "もう…\n私の心…盗まないで…",
+    "translation": "もう…\n私の心…盗まないで…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "……ッ！\nな、なんでもないから！",
+    "translation": "……ッ！\nな、なんでもないから！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "マリーは落ち着かない様子で、\nいつもの場所に戻った…",
+    "translation": "マリーは落ち着かない様子で、\nいつもの場所に戻った…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "…囚人、ちょっといいですか？",
+    "translation": "…囚人、ちょっといいですか？",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "マリーのポエムのことなんだが…\n実は…見てしまったんだ…",
+    "translation": "マリーのポエムのことなんだが…\n実は…見てしまったんだ…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "SEL_017_0",
+    "original": "何のこと？",
+    "translation": "何のこと？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_017_1",
+    "original": "なんで小声？",
+    "translation": "なんで小声？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "い、いいから聞け！",
+    "translation": "い、いいから聞け！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "あ、あの便せんだが…\nあれをいつも置いていたのは…",
+    "translation": "あ、あの便せんだが…\nあれをいつも置いていたのは…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "あら、どうしたの？\n秘密のお話かしら。",
+    "translation": "あら、どうしたの？\n秘密のお話かしら。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ひぃっ！",
+    "translation": "ひぃっ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "気にしなくていいわ。\n続けて頂戴？",
+    "translation": "気にしなくていいわ。\n続けて頂戴？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "い、いや…なんでもない。\nなんでもないんだ。",
+    "translation": "い、いや…なんでもない。\nなんでもないんだ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "なあ、ジュスティーヌ？",
+    "translation": "なあ、ジュスティーヌ？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "え、ええ…",
+    "translation": "え、ええ…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "囚人！\n今の話は忘れろ、いいな！",
+    "translation": "囚人！\n今の話は忘れろ、いいな！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "カロリーヌとジュスティーヌは\n慌てた様子で離れていった…",
+    "translation": "カロリーヌとジュスティーヌは\n慌てた様子で離れていった…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ふふ…本当に可愛らしい子たち。\nこれからも彼女たちを、よろしくお願いね。",
+    "translation": "ふふ…本当に可愛らしい子たち。\nこれからも彼女たちを、よろしくお願いね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  }
+]

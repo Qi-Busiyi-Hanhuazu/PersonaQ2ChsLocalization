@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ストーップ！\n扉の先にまたシャドウの反応があるぞ！",
+    "translation": "停下！\n门的那边又有暗影的反应！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n停！\n门后又有暗影的反应！\n\n跟踪！\n门前还有暗影的反应哦！\n\n跟踪！\n门的尽头又有暗影的反应！"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "皆のもの！　戦闘の準備はいいか？",
+    "translation": "诸位！准备好战斗了吗？",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n各位！战斗准备好了吗？\n\n大家的东西！战斗准备好了吗？\n\n属于大家！战斗准备好了吗？"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "行こう",
+    "translation": "我们走吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n上吧\n\n走吧"
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "待ってくれ",
+    "translation": "先等一下",
+    "stage": 1,
+    "context": "机翻辅助：\n\n等一下"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おう！\nワガハイ達の力、見せてやろうぜ！",
+    "translation": "嗯！\n让它们见识下吾辈们的力量吧！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n好！\n让他见识见识吾辈们的力量吧！\n\n哦！\n让吾辈看看吾辈们的力量吧！\n\n喔！让吾辈看看吾辈的力量吧！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うん、そうだね。\nちゃんと準備してからにしよ？",
+    "translation": "嗯，也是呢。\n先做好准备再进去吧？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n嗯，是啊。\n做好准备再来吧？\n\n嗯，是啊。\n好好准备之后再说？\n\n嗯，是啊。\n准备好了再说？"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "ここは採取できるようだな。\n手がうずく…",
+    "translation": "这里看起来可以采集。\n手有点痒……",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n这里好像可以采集。\n手好痒……\n\n这里好像可以采集啊。\n手很难受……\n\n这里好像可以采集。\n手好疼……"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そうだな。\n敵に気をつけて探すか。",
+    "translation": "好吧。\n小心敌人，继续探索吧。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n说得也是。\n一边注意敌人一边找吧。\n\n是啊。\n要小心寻找敌人吗。\n\n是啊。\n要小心寻找敌人吗？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うむ。\nでは、専念して探すとしよう！",
+    "translation": "嗯。\n那么，就专心探索吧！",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n嗯。\n那么，就专心找吧！\n\n嗯。\n那么，专心寻找吧！\n\n嗯。\n那么，就专心寻找吧！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "む、今は止めておくのか？\n分かった。",
+    "translation": "嗯，现在先停下来吗？\n知道了。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n唔，现在先别找吗？\n知道了。\n\n嗯，现在停下来吗？\n明白了。\n\n嗯，现在就停止吗？我知道了。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これ以上は見つからないようだな。\nなかなかいい採取だった。",
+    "translation": "看来找不到更多东西了。\n这次采集相当不错。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n看来是找不到更多了。\n采集成果相当不错。\n\n好像再也找不到了。\n这是一次非常好的采集。\n\n好像再也找不到了。采得相当不错。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いただくぞ。",
+    "translation": "收下了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我收下啦。\n\n我收下了。\n\n我要吃了。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ほう、これは…",
+    "translation": "哦，这是……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦，这是……"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うむ。",
+    "translation": "嗯。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "敵に勘付かれたようだな…\n採取はここまでにしよう。",
+    "translation": "敌人好像察觉到了我们……\n采集到此为止吧。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n好像被敌人发现了……\n采集就到此为止吧。\n\n好像被敌人察觉了……\n采集就到此为止吧。\n\n好像被敌人察觉到了……采集到此为止吧。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "おおっ！",
+    "translation": "哇！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦哦！\n\n哦！\n\n哇！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "素晴らしい！",
+    "translation": "太棒了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n棒的！\n\n太棒了！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "貴重だな。",
+    "translation": "是值钱的东西啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真贵重啊。\n\n很珍贵啊。\n\n真珍贵啊。"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットか。\nどうする？　通っておくか？",
+    "translation": "是捷径啊。怎么办？\n要通过吗？",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n捷径吗？\n怎么办？要走过去吗？\n\n快捷方式吗。\n怎么办？通过吗？\n\n是短发吗？\n怎么办？要提前通过吗？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こちらからは通れんようだな。",
+    "translation": "好像无法从这里过去。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n这边好像过不去。\n\n从这里好像不能通过啊。\n\n我这边好像通不过。"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "む？　これは…\n嫌な気配を感じるな。",
+    "translation": "嗯？这是……\n感觉有不好的气息。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n唔？这是……\n有种讨厌的气息。\n\n嗯？这是……\n不要感到讨厌。\n\n？这是……感觉到了讨厌的气息。"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "よし。\nでは見極めるとしよう。",
+    "translation": "好的。\n那么让我们睁大眼睛来看吧。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n好。\n那就来确认一下吧。\n\n好啊。\n那么就看清吧。\n\n好吧。那么，让我们来看看吧。"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうか…\n今は止めておくんだな。",
+    "translation": "是啊，\n现在就先停下来吧。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n这样啊……\n现在先别找吧。\n\n是吗……现在就先停下来吧。\n\n\n这样啊……现在就停下来吧。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "危険な敵だったな。\nなんとか危機からは逃れたか…",
+    "translation": "真是危险的敌人啊。\n还好躲过危机了吗……",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n是危险的敌人呢。\n总算逃过危机了吗……\n\n真是个危险的敌人。\n总算从危机中逃脱了吗……\n\n真是危险的敌人啊。\n有没有摆脱危机……"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここは…\nシャドウの気配が多いな。",
+    "translation": "这里……暗影的气息很多啊。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n这里是……\n暗影的气息很多呢。\n\n这里……暗影的动静真多啊。\n\n\n这里有很多暗影。"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "よし。調べてみるか。",
+    "translation": "好的。去调查一下吧。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n好，来调查一下吧。\n\n好吧。要不要调查一下？\n\n好啊。调查一下吧。"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだな。止めておこう。",
+    "translation": "那样啊。那就算了。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n说得也是，先别找吧。\n\n是啊。让它停下来吧。\n\n是啊。停止吧。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "危なかったな。\nこれで終わりか？",
+    "translation": "真是危险。\n这就结束了吗？",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n好险啊。\n这样就结束了吗？\n\n真危险啊。\n这样就结束了吗？\n\n太危险了。\n这就结束了吗？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ふむ。\nここから映画館に戻れるようだな。",
+    "translation": "嗯。\n应该可以从这回到电影院。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n嗯。\n似乎可以从这里回到电影院。\n\n嗯。\n好像可以从这里回到电影院。\n\n嗯。看来可以从这里回到电影院了。"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

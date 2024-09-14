@@ -1,0 +1,212 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "次のとこ、まだ？\n…ちょと疲れた。",
+    "translation": "次のとこ、まだ？\n…ちょと疲れた。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "帰る？",
+    "translation": "帰る？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "頑張れ",
+    "translation": "頑張れ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "帰らない！　全然まだいける！",
+    "translation": "帰らない！　全然まだいける！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "ただちょっとお腹すいただけだし。\nあとちょっと喉も渇いてるけど…",
+    "translation": "ただちょっとお腹すいただけだし。\nあとちょっと喉も渇いてるけど…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "…うん。",
+    "translation": "…うん。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "無理はするな。",
+    "translation": "無理はするな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "わかってる。ホントに駄目そうだったら、\nちゃんと言うから。",
+    "translation": "わかってる。ホントに駄目そうだったら、\nちゃんと言うから。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "じゃあ、がんばり屋のマリチャンには…",
+    "translation": "じゃあ、がんばり屋のマリチャンには…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "じゃーん！　クマのへそくりポップコーンを\n進呈するクマ。ジュースもあるクマよ～！",
+    "translation": "じゃーん！　クマのへそくりポップコーンを\n進呈するクマ。ジュースもあるクマよ～！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うげ！　まだ隠し持ってたのか！？\nおい、中でこぼしてねーだろーな！？",
+    "translation": "うげ！　まだ隠し持ってたのか！？\nおい、中でこぼしてねーだろーな！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "後で洗うのは俺なんだぞ！",
+    "translation": "後で洗うのは俺なんだぞ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ぴゅーるる～…し、知らないクマ～？",
+    "translation": "ぴゅーるる～…し、知らないクマ～？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "そんなことより、目的の花は\nまだクマか～？",
+    "translation": "そんなことより、目的の花は\nまだクマか～？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "この先、道が二手に分かれてるね。\nどっちの先にも花はあるみたい。",
+    "translation": "この先、道が二手に分かれてるね。\nどっちの先にも花はあるみたい。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "確か…右の方に咲いていた花は\n明るい歌を口ずさんでいたと思うよ。",
+    "translation": "確か…右の方に咲いていた花は\n明るい歌を口ずさんでいたと思うよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "左の方は、不思議というか、\nちょっと独特な感じの歌だったかな。",
+    "translation": "左の方は、不思議というか、\nちょっと独特な感じの歌だったかな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_010_2",
+    "original": "右の明るい花か、左の不思議な花か、\nさあ、どっちに行く？",
+    "translation": "右の明るい花か、左の不思議な花か、\nさあ、どっちに行く？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "右に行こう",
+    "translation": "右に行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "左に行こう",
+    "translation": "左に行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_2",
+    "original": "マリーはどうする？",
+    "translation": "マリーはどうする？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "堕天使に必要なのは光じゃなくて闇。\nでも光の中に真の闇があるかもだし…",
+    "translation": "堕天使に必要なのは光じゃなくて闇。\nでも光の中に真の闇があるかもだし…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "あー…ジョーカー、すまない。",
+    "translation": "あー…ジョーカー、すまない。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "どちらに行くかは任せるよ。\nマリーの好みに合った方に向かってくれ。",
+    "translation": "どちらに行くかは任せるよ。\nマリーの好みに合った方に向かってくれ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

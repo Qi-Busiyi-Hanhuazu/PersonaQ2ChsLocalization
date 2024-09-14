@@ -1,0 +1,212 @@
+[
+  {
+    "key": "usercmm_sel_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "usercmm_sel_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "usercmm_conf_0",
+    "original": "メッセージを変更するけど、いい？",
+    "translation": "メッセージを変更するけど、いい？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_can_conf_0",
+    "original": "メッセージは変更しないけど、いい？",
+    "translation": "メッセージは変更しないけど、いい？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_tutorial_0",
+    "original": "じゃあ“救援要請”の事、説明するね。",
+    "translation": "じゃあ“救援要請”の事、説明するね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_tutorial_1",
+    "original": "えっとね、世界ってここだけじゃなくて、\nここに似た世界が、他にもいっぱいあるんだって。",
+    "translation": "えっとね、世界ってここだけじゃなくて、\nここに似た世界が、他にもいっぱいあるんだって。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_tutorial_2",
+    "original": "で、その世界にも“キミじゃないキミ”が\nいるんだってさ…良くわかんないけど。",
+    "translation": "で、その世界にも“キミじゃないキミ”が\nいるんだってさ…良くわかんないけど。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_tutorial_3",
+    "original": "だから、テレビの中でピンチになった時、\n“ここではない世界”のキミに向かって、\nキミから救援要請を送れるの。",
+    "translation": "だから、テレビの中でピンチになった時、\n“ここではない世界”のキミに向かって、\nキミから救援要請を送れるの。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_tutorial_4",
+    "original": "でね、“ここではない世界”のキミがそれに\n応えてくれると、この世界のキミに\n応援が届くんだって。",
+    "translation": "でね、“ここではない世界”のキミがそれに\n応えてくれると、この世界のキミに\n応援が届くんだって。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_tutorial_5",
+    "original": "ちなみに救援要請って、出すのにお金とか\n要らないから、とりあえず使ってみれば？",
+    "translation": "ちなみに救援要請って、出すのにお金とか\n要らないから、とりあえず使ってみれば？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_tutorial_6",
+    "original": "もっと詳しい説明が欲しかったら、\nまた聞いてくれれば教えるよ。",
+    "translation": "もっと詳しい説明が欲しかったら、\nまた聞いてくれれば教えるよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_conf_m_0",
+    "original": "メッセージを変更いたします。\n宜しいですか？",
+    "translation": "メッセージを変更いたします。\n宜しいですか？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "usercmm_can_conf_m_0",
+    "original": "メッセージは変更されませんが、宜しいですか？",
+    "translation": "メッセージは変更されませんが、宜しいですか？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "usercmm_tutorial_m_0",
+    "original": "畏まりました、では“救援要請”について\nご説明申し上げます。",
+    "translation": "畏まりました、では“救援要請”について\nご説明申し上げます。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "usercmm_tutorial_m_1",
+    "original": "救援要請は、“ここではない世界”に、\n貴方の声をお届けする為の機能です。",
+    "translation": "救援要請は、“ここではない世界”に、\n貴方の声をお届けする為の機能です。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "usercmm_tutorial_m_2",
+    "original": "“ここではない世界”とは、\nあなたが今存在するこの世界と並行に存在する\n“もうひとつの世界”の事…",
+    "translation": "“ここではない世界”とは、\nあなたが今存在するこの世界と並行に存在する\n“もうひとつの世界”の事…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "usercmm_tutorial_m_3",
+    "original": "貴方が発した救援要請は世界の壁を越え、\n数多ある“ここではない世界”に暮らす、\n“もうひとりの貴方”のもとへ届けられるのです。",
+    "translation": "貴方が発した救援要請は世界の壁を越え、\n数多ある“ここではない世界”に暮らす、\n“もうひとりの貴方”のもとへ届けられるのです。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "usercmm_tutorial_m_4",
+    "original": "救援要請は無償ですので、テレビの中で\n危機に陥った際は、是非お試しください。",
+    "translation": "救援要請は無償ですので、テレビの中で\n危機に陥った際は、是非お試しください。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "usercmm_tutorial_m_5",
+    "original": "更なる説明がご入用の際は、\nどうぞご遠慮なくお申し付け下さい。",
+    "translation": "更なる説明がご入用の際は、\nどうぞご遠慮なくお申し付け下さい。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "usercmm_conf2_0",
+    "original": "メッセージを変更するけど…いいよね。",
+    "translation": "メッセージを変更するけど…いいよね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_can_conf2_0",
+    "original": "メッセージは変更しないけど…いい？",
+    "translation": "メッセージは変更しないけど…いい？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_tutorial2_0",
+    "original": "あ…“救援要請”の事、説明するね。",
+    "translation": "あ…“救援要請”の事、説明するね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_tutorial2_1",
+    "original": "えっと…世界ってここだけじゃなくて、\nここに似た世界が、他にもいっぱいあるの。",
+    "translation": "えっと…世界ってここだけじゃなくて、\nここに似た世界が、他にもいっぱいあるの。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_tutorial2_2",
+    "original": "その世界にも“キミじゃないキミ”がいて…\nキミみたいに、普通に生きてる。",
+    "translation": "その世界にも“キミじゃないキミ”がいて…\nキミみたいに、普通に生きてる。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_tutorial2_3",
+    "original": "だから、テレビの中でピンチになった時、\n“ここではない世界”のキミに向かって、\nキミから救援要請を送れるよ…",
+    "translation": "だから、テレビの中でピンチになった時、\n“ここではない世界”のキミに向かって、\nキミから救援要請を送れるよ…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_tutorial2_4",
+    "original": "でね…“ここではない世界”のキミがそれに\n応えてくれれば、この世界のキミに\n応援が届くんだって…",
+    "translation": "でね…“ここではない世界”のキミがそれに\n応えてくれれば、この世界のキミに\n応援が届くんだって…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_tutorial2_5",
+    "original": "…救援要請は、出すのにお金とか\n要らないから、とりあえず使ってみて。",
+    "translation": "…救援要請は、出すのにお金とか\n要らないから、とりあえず使ってみて。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "usercmm_tutorial2_6",
+    "original": "もっと詳しい説明が欲しかったら、\nまた聞いてくれれば教えるから…",
+    "translation": "もっと詳しい説明が欲しかったら、\nまた聞いてくれれば教えるから…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  }
+]

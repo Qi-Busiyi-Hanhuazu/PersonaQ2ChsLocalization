@@ -1,0 +1,163 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "それじゃ、さっそく素材を集めようか。",
+    "translation": "それじゃ、さっそく素材を集めようか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "必要なのは『痺れるコーン豆』が\n１つだったよね？",
+    "translation": "必要なのは『痺れるコーン豆』が\n１つだったよね？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ええ、でもやみくもに探すのは\n得策ではありません。",
+    "translation": "ええ、でもやみくもに探すのは\n得策ではありません。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "テオドアさんの話では、確か\n『痺れるコーン豆』がある場所は…",
+    "translation": "テオドアさんの話では、確か\n『痺れるコーン豆』がある場所は…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "明るい所",
+    "translation": "明るい所",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "風通しのいい所",
+    "translation": "風通しのいい所",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_2",
+    "original": "ジメジメした所",
+    "translation": "ジメジメした所",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "およ？　そうだったクマ？",
+    "translation": "およ？　そうだったクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "違うよ。ジメジメした所って話だ。",
+    "translation": "違うよ。ジメジメした所って話だ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "とすると、水辺の近くを重点的に\n探すべきかな。",
+    "translation": "とすると、水辺の近くを重点的に\n探すべきかな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ええ、ジメジメした所という話でした。",
+    "translation": "ええ、ジメジメした所という話でした。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "とすると、水辺の近くを重点的に\n探すべきですね。",
+    "translation": "とすると、水辺の近くを重点的に\n探すべきですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ところで、どうして『新作ポップコーン』が\n必要クマ？",
+    "translation": "ところで、どうして『新作ポップコーン』が\n必要クマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "状況証拠しかないなら、\n現場を取り押さえるしかない。",
+    "translation": "状況証拠しかないなら、\n現場を取り押さえるしかない。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "テオドアさんにもう一度\n新作ポップコーンを作ってもらい…",
+    "translation": "テオドアさんにもう一度\n新作ポップコーンを作ってもらい…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "それをエサに、\n犯人をおびき寄せるんですね？",
+    "translation": "それをエサに、\n犯人をおびき寄せるんですね？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "皆には、単にテオドアさんに協力するため\nってごまかしてあるよ。",
+    "translation": "皆には、単にテオドアさんに協力するため\nってごまかしてあるよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ヌヌ…手際がいいクマ～。",
+    "translation": "ヌヌ…手際がいいクマ～。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ふふ。お褒め頂きありがとう。",
+    "translation": "ふふ。お褒め頂きありがとう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "『痺れるコーン豆』は水辺の近くです。\n探してみましょう。",
+    "translation": "『痺れるコーン豆』は水辺の近くです。\n探してみましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  }
+]

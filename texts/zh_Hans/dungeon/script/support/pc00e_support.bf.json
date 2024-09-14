@@ -1,0 +1,737 @@
+[
+  {
+    "key": "FUKA_FOE_FOLLOW_START_1_0",
+    "original": "Ｆ．Ｏ．Ｅが接近してきています！",
+    "translation": "F.O.E正在接近！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E正在接近！\n\nF.O.E接近了！"
+  },
+  {
+    "key": "FUKA_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅに見つかったみたいです！",
+    "translation": "好像被F.O.E找到了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看来被F.O.E发现了！\n\n好像被F.O.E发现了！"
+  },
+  {
+    "key": "FUKA_FOE_FOLLOW_START_3_0",
+    "original": "Ｆ．Ｏ．Ｅに追尾されています！",
+    "translation": "F.O.E正在追着我们！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n被F.O.E追上了！\n\n被F.O.E跟踪着！\n\n被F.O.E跟踪了！"
+  },
+  {
+    "key": "FUKA_FOE_NEAR_1_0",
+    "original": "近くにＦ．Ｏ．Ｅ…警戒してください！",
+    "translation": "附近有F.O.E……请小心一点！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n附近有F.O.E……请提高警觉！\n\n附近有F.O.E……请警戒！\n\n附近有F.O.E……请提高警惕！"
+  },
+  {
+    "key": "FUKA_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅがすぐ傍にいますよ！",
+    "translation": "F.O.E就在附近！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E就在旁边哦！\n\nF.O.E就在身边哦！\n\nF.O.E就在你身边！"
+  },
+  {
+    "key": "FUKA_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅがいます。\n気をつけてください！",
+    "translation": "F.O.E在那里，\n请小心！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有F.O.E。\n请小心！\n\n有F.O.E。\n请注意！\n\n有F.O.E。请注意安全！"
+  },
+  {
+    "key": "FUKA_FOE_FOLLOW_END_1_0",
+    "original": "よかった…\nＦ．Ｏ．Ｅを撒けたようですね。",
+    "translation": "太好了……\nF.O.E看起来好像走开了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太好了……看来甩掉\nF.O.E了。\n\n太好了……\n好像撒了F.O.E。\n\n太好了……好像撒了F.O.E。"
+  },
+  {
+    "key": "FUKA_FOE_FOLLOW_END_2_0",
+    "original": "あのＦ．Ｏ．Ｅ、\n諦めてくれたみたいですね…",
+    "translation": "那个F.O.E，\n似乎已经放弃了呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那个F.O.E\n好像放弃了呢……\n\n那个F.O.E，\n好像放弃了……\n\n那个F.O.E，\n好像放弃了呢……"
+  },
+  {
+    "key": "FUKA_FOE_FOLLOW_END_3_0",
+    "original": "Ｆ．Ｏ．Ｅの追尾から\n逃げ切れたようです。",
+    "translation": "看来已经成功从F.O.E的追赶中逃脱了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看来\n我们成功摆脱了F.O.E的追踪。\n\n好像从F.O.E的跟踪中逃脱了。\n\n\n似乎从F.O.E的追踪中逃脱了。"
+  },
+  {
+    "key": "FUKA_KANSI_REACTION_1_0",
+    "original": "気をつけて進んでください！",
+    "translation": "请小心前进！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n请小心前进！"
+  },
+  {
+    "key": "FUKA_KANSI_REACTION_2_0",
+    "original": "見つかると厄介です。\n注意してください！",
+    "translation": "被发现了就麻烦了。\n请小心注意一些！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n被发现就麻烦了。\n请注意！\n\n找到的话会很麻烦。\n请注意！\n\n一旦被发现就麻烦了。请注意！"
+  },
+  {
+    "key": "FUKA_KANSI_REACTION_3_0",
+    "original": "そこ、慎重に進んでくださいね。",
+    "translation": "那边，请小心谨慎地前进。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那边请小心前进哦。\n\n在那里，请慎重地前进。\n\n在这里，请慎重地前进。"
+  },
+  {
+    "key": "FUKA_DENKISAKU_REACTION__0",
+    "original": "電気柵ですね…\n電流を止められないかな？",
+    "translation": "电网吗……\n能让电流停下来吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是电栅栏呢……\n有没有办法停止电流呢？\n\n是电栅栏啊……\n不能停止电流吗？\n\n是电栅栏吧……\n能不能关掉电流？"
+  },
+  {
+    "key": "FUKA_DENKISAKU_REACTION__2_0",
+    "original": "電気柵の電流、\n止めないと進めないですね。",
+    "translation": "电网的电流，\n如果不停下来就无法前进了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n\n不关掉电栅栏的电流就无法前进呢。\n\n电栅栏的电流，如果不停止的话就不能前进。\n\n\n电栅栏的电流，不关掉的话就无法前进。"
+  },
+  {
+    "key": "FUKA_DENKISAKU_REACTION__3_0",
+    "original": "電気柵…\nスイッチを切れればいいのですが…",
+    "translation": "电网……\n要是能关掉开关就好了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n电围篱……\n只要关掉开关就好了……\n\n电栅栏……\n关掉开关就好了……\n\n电栅栏……\n如果能关掉开关就好了……"
+  },
+  {
+    "key": "FUKA_KYOUHU_REACTION_1_0",
+    "original": "ああっ、みんなー！",
+    "translation": "啊啊，大家！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啊啊，大家！\n\n啊，大家！"
+  },
+  {
+    "key": "FUKA_KYOUHU_REACTION_2_0",
+    "original": "気をつけて！",
+    "translation": "请小心一点！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小心！\n\n小心点！"
+  },
+  {
+    "key": "FUKA_KYOUHU_REACTION_3_0",
+    "original": "あっ、飛ばされます！",
+    "translation": "啊，被吹走了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊，要被撞飞了！\n\n啊，被打飞了！\n\n啊，要飞了！"
+  },
+  {
+    "key": "FUKA_STAIR_FIND_1_0",
+    "original": "階段が前方にあるみたいです！",
+    "translation": "楼梯好像就在前面了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n楼梯好像就在前方！\n\n楼梯好像在前面！\n\n前面好像有楼梯！"
+  },
+  {
+    "key": "FUKA_STAIR_FIND_2_0",
+    "original": "階段がありますよ。先に進みますか？",
+    "translation": "前面有楼梯的样子。要继续前进吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有楼梯耶。要继续前进吗？\n\n有楼梯哦。要往前走吗？\n\n有楼梯哦。继续前进吗？"
+  },
+  {
+    "key": "FUKA_STAIR_FIND_3_0",
+    "original": "あれ？\n前にあるの…階段みたいですよ！",
+    "translation": "那是什么？\n前面好像……有楼梯的样子！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n咦？\n前面……好像有楼梯！\n\n咦？\n前面有……像楼梯一样哦！\n\n咦？\n前面有……就像楼梯一样！"
+  },
+  {
+    "key": "FUKA_TREASURE_FIND_1_0",
+    "original": "近くに宝箱があります！",
+    "translation": "附近有宝箱！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n附近有宝箱！"
+  },
+  {
+    "key": "FUKA_TREASURE_FIND_2_0",
+    "original": "宝箱…開けてみませんか？",
+    "translation": "宝箱……要不要打开看看？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n宝箱……要不要打开来看看？\n\n宝箱……要不要打开看看？"
+  },
+  {
+    "key": "FUKA_TREASURE_FIND_3_0",
+    "original": "何が入ってるんだろう…\nワクワクしますね！",
+    "translation": "里面会有什么呢……\n真让人兴奋！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n里面到底装了什么呢……\n真教人兴奋期待呢！\n\n里面有什么呢……\n好兴奋啊！\n\n里面装的是什么呢……\n好兴奋啊！"
+  },
+  {
+    "key": "FUKA_CHECK_WALL_1_0",
+    "original": "その壁なんか…変ですね。",
+    "translation": "那面墙好像有点奇怪呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这面墙壁……有点奇怪。\n\n那堵墙什么的……很奇怪啊。\n\n那堵墙什么的……好奇怪啊。"
+  },
+  {
+    "key": "FUKA_CHECK_WALL_2_0",
+    "original": "あれ？　その壁…調べられますか？",
+    "translation": "诶？那边的墙壁……要稍微调查一下嘛？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n咦？那面墙壁……可以调查吗？\n\n咦？那堵墙……能查到吗？"
+  },
+  {
+    "key": "FUKA_CHECK_WALL_3_0",
+    "original": "その壁、何か…\nよく見てみてもらえますか？",
+    "translation": "那个墙壁，好像有什么……\n可以再仔细看看嘛？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那面墙壁，好像有什么……\n可以请各位仔细看看吗？\n\n那堵墙是什么……\n你能仔细看看吗？\n\n那堵墙，好像是什么……\n能仔细看看吗？"
+  },
+  {
+    "key": "FUKA_SWITCH_FIND_1_0",
+    "original": "近くにスイッチがあるみたいです。",
+    "translation": "好像附近有开关。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n附近似乎有开关。\n\n附近好像有开关。"
+  },
+  {
+    "key": "FUKA_SWITCH_FIND_2_0",
+    "original": "近くにスイッチがあります。\n押してみますか？",
+    "translation": "附近好像有开关。\n要按一下吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n附近有开关。\n要按按看吗？\n\n附近有开关。\n要按一下吗？\n\n附近有开关。\n试着按一下吗？"
+  },
+  {
+    "key": "FUKA_SWITCH_FIND_3_0",
+    "original": "スイッチがあるようです。\n探してみてください！",
+    "translation": "看起来附近好像有开关。\n请试着找找看！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n似乎有开关。\n请找找看！\n\n好像有开关。\n请找找看！"
+  },
+  {
+    "key": "FUKA_SHORTCUT_FIND_1_0",
+    "original": "そこから通り抜けられそうですよ。",
+    "translation": "从那里似乎可以穿过去。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像可以从那里通过。\n\n好像可以从那里穿过去哦。"
+  },
+  {
+    "key": "FUKA_SHORTCUT_FIND_2_0",
+    "original": "見てください、近道になりそうですよ。",
+    "translation": "请看，这边好像是条捷径。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请看，似乎可以成为捷径。\n\n请看，这似乎是一条近路。\n\n你看，好像是捷径。"
+  },
+  {
+    "key": "FUKA_SHORTCUT_FIND_3_0",
+    "original": "近道がありそうです。\n探してみてください。",
+    "translation": "这附近好像有捷径的样子，\n请试着找找看。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像有捷径。\n请找找看。\n\n好像有近路。\n请找找看。\n\n好像有捷径。请找找看。"
+  },
+  {
+    "key": "FUKA_PARTY_DEAD_1_0",
+    "original": "状態を確認してください！\n非常に危険な状況です！",
+    "translation": "请确认状态！\n这是非常危险的情况！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请确认状态！\n状况非常危险！\n\n请确认状态！\n非常危险的状况！"
+  },
+  {
+    "key": "FUKA_PARTY_DEAD_2_0",
+    "original": "今戦うのは危険です！\nどなたか回復できませんか？",
+    "translation": "现在战斗很危险！\n有人能治疗吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n现在战斗很危险！\n有没有人可以帮忙回复？\n\n现在战斗是危险的！\n有谁不能恢复吗？\n\n现在战斗很危险！\n有谁不能恢复吗？"
+  },
+  {
+    "key": "FUKA_PARTY_DEAD_3_0",
+    "original": "このままでは危険です！\n一度戻りましょう！",
+    "translation": "现在这样很危险！\n我们赶快回去吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这样下去很危险！\n先回去吧！\n\n这样下去很危险！\n回去一次吧！\n\n这样下去很危险！\n让我们回去一次吧！"
+  },
+  {
+    "key": "FUKA_FOE_WARNING_NEAR_1_0",
+    "original": "まだＦ．Ｏ．Ｅが追ってきてます！",
+    "translation": "F.O.E还在追过来！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E还在追过来！\n\nF.O.E还在追！\n\nF.O.E还在追来！"
+  },
+  {
+    "key": "FUKA_FOE_WARNING_NEAR_2_0",
+    "original": "さっきのＦ．Ｏ．Ｅがまだいます！",
+    "translation": "刚才的F.O.E还在！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n刚才的F.O.E还在！"
+  },
+  {
+    "key": "FUKA_FOE_WARNING_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅが…\n迎撃するなら態勢を整えましょう！",
+    "translation": "F.O.E……\n如果要迎击的话就要做好准备！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E……\n要迎击的话，先重整态势吧！\n\n如果F.O.E……\n迎击的话，就做好准备吧！\n\nF.O.E……\n如果要迎击的话，做好准备吧！"
+  },
+  {
+    "key": "FUKA_PARTY_HPTP10_1_0",
+    "original": "みなさん、これ以上は危険です！",
+    "translation": "各位，再继续下去就很危险了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n各位，再这样下去很危险！\n\n各位，再这样下去就危险了！"
+  },
+  {
+    "key": "FUKA_PARTY_HPTP10_2_0",
+    "original": "みなさん、\n体力・気力ともに危険な状態です！",
+    "translation": "各位，\n身体和精神状态都很危险！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n各位，\n体力、气力都处于危险状态！\n\n各位，\n体力和精力都处于危险状态！\n\n大家，\n体力和精力都处于危险状态！"
+  },
+  {
+    "key": "FUKA_PARTY_HPTP10_3_0",
+    "original": "このままでは…態勢を立て直せますか？",
+    "translation": "这样继续下去的话……可以重新调整状态嘛？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这样下去……可以重整态势吗？\n\n这样下去……能重整态势吗？\n\n这样下去……能重整旗鼓吗？"
+  },
+  {
+    "key": "FUKA_PARTY_HP10_1_0",
+    "original": "みなさん、体力を回復してください！",
+    "translation": "各位，请恢复体力！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n各位，请回复体力！\n\n各位，请恢复体力！\n\n大家，请恢复体力！"
+  },
+  {
+    "key": "FUKA_PARTY_HP10_2_0",
+    "original": "危険です！　体力を回復してください！",
+    "translation": "危险！请恢复体力！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n很危险！请回复体力！\n\n危险！请恢复体力！"
+  },
+  {
+    "key": "FUKA_PARTY_HP10_3_0",
+    "original": "体力の回復を推奨します！",
+    "translation": "建议您恢复体力！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n建议回复体力！\n\n建议恢复体力！\n\n推荐恢复体力！"
+  },
+  {
+    "key": "FUKA_1PERSON_HPTP10_1_0",
+    "original": "大丈夫ですか？　ケアをお願いします！",
+    "translation": "没事吧？治疗就拜托了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n没事吧？请照顾一下！\n\n没关系吗？请进行护理！\n\n没事吧？请照顾我！"
+  },
+  {
+    "key": "FUKA_1PERSON_HPTP10_2_0",
+    "original": "気力・体力が低下してます！\n気をつけて！",
+    "translation": "精力和体力都在下降！\n请小心一些！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n气力、体力降低！\n小心！\n\n精力·体力降低着！\n小心！\n\n精力、体力下降！\n小心！"
+  },
+  {
+    "key": "FUKA_1PERSON_HPTP10_3_0",
+    "original": "危険な状態です、回復してください！",
+    "translation": "危险的状态，请尽快恢复！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n状态很危险，请回复！\n\n是危险的状态，请恢复！\n\n情况很危险，请恢复！"
+  },
+  {
+    "key": "FUKA_PARTY_TP10_1_0",
+    "original": "みなさんお疲れですね。\n回復できそうですか？",
+    "translation": "各位辛苦了，\n感觉能恢复过来吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n各位辛苦了。\n可以回复吗？\n\n大家辛苦了。\n能恢复吗？\n\n大家都累了吧。\n能恢复吗？"
+  },
+  {
+    "key": "FUKA_PARTY_TP10_2_0",
+    "original": "みなさん、もう戦う気力が…",
+    "translation": "各位，你们还有战斗的力量吗……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n各位，已经没有战斗的气力……\n\n各位，已经有战斗的力气了……\n\n大家，已经有战斗的气力了……"
+  },
+  {
+    "key": "FUKA_PARTY_TP10_3_0",
+    "original": "そろそろ拠点に戻るのも、手ですよ。",
+    "translation": "感觉是时候回基地了，是吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n差不多该回据点了哦。\n\n差不多该回据点了。\n\n差不多该回到据点了。"
+  },
+  {
+    "key": "FUKA_1PERSON_HP10_1_0",
+    "original": "体力、回復できそうですか？",
+    "translation": "体力，还能回复一下嘛？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n体力，可以回复吗？\n\n体力能恢复吗？"
+  },
+  {
+    "key": "FUKA_1PERSON_HP10_2_0",
+    "original": "体力が…無理は禁物です！",
+    "translation": "体力撑不下去的话……不要勉强了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n体力……不要勉强！\n\n体力……不能勉强！\n\n体力……切忌勉强！"
+  },
+  {
+    "key": "FUKA_1PERSON_HP10_3_0",
+    "original": "体力に気をつけてください！",
+    "translation": "请注意保存体力！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请留意体力！\n\n请注意体力！"
+  },
+  {
+    "key": "FUKA_1PERSON_TP10_1_0",
+    "original": "気力が尽きそうですね…\n少し休みませんか？",
+    "translation": "好像快要精疲力尽了，\n要不要休息一下呢？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n感觉快没力了呢……\n要不要稍微休息一下？\n\n精力快要耗尽了……\n不稍微休息一下吗？\n\n气力快要耗尽了呢……\n休息一下怎么样？"
+  },
+  {
+    "key": "FUKA_1PERSON_TP10_2_0",
+    "original": "お疲れのようですが、大丈夫ですか？",
+    "translation": "看起来有点累了，没事吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你看起来很累呢，没事吧？\n\n您好像很累，不要紧吧？\n\n您好像很累，没关系吗？"
+  },
+  {
+    "key": "FUKA_1PERSON_TP10_3_0",
+    "original": "かなり疲れているみたいですが…\n無理しないでください。",
+    "translation": "看起来已经相当累了的样子……\n请不要勉强自己。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你好像很累耶……\n请不要勉强自己。\n\n好像很累……\n请不要勉强。\n\n好像相当累了……请不要勉强。"
+  },
+  {
+    "key": "FUKA_ITEM_90_BATTLE_1_0",
+    "original": "荷物、重くないですか？",
+    "translation": "所持物不重吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李会不会很重？\n\n行李不重吗？"
+  },
+  {
+    "key": "FUKA_ITEM_90_BATTLE_2_0",
+    "original": "荷物がパンパンみたいですよ。",
+    "translation": "所持物看起来好像已经很满了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李好像很重哦。\n\n行李好像鼓鼓的。\n\n行李像面包面包一样。"
+  },
+  {
+    "key": "FUKA_ITEM_90_BATTLE_3_0",
+    "original": "荷物、少し預けるのはどうでしょう？",
+    "translation": "所持物，要寄存一些吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要稍微寄放一下行李呢？\n\n行李寄存一下怎么样？\n\n把行李稍微寄存一下怎么样？"
+  },
+  {
+    "key": "FUKA_1PERSON_HP80_1_0",
+    "original": "とっても素敵でした！",
+    "translation": "非常漂亮！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n非常棒！"
+  },
+  {
+    "key": "FUKA_1PERSON_HP80_2_0",
+    "original": "この調子で進みたいですね！",
+    "translation": "希望能保持这样的状态前进！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真想照这个步调继续前进呢！\n\n想以这样的状态前进呢！\n\n想以这个状态前进！"
+  },
+  {
+    "key": "FUKA_1PERSON_HP80_3_0",
+    "original": "みなさんとってもかっこよかったです！",
+    "translation": "大家都非常帅气！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家表现得非常帅气！\n\n大家都很帅气！\n\n大家都非常帅气！"
+  },
+  {
+    "key": "RISE_FUKA_MAKASETA_1_0",
+    "original": "風花ちゃん、あとよろしくね！",
+    "translation": "风花小姐，之后也请多多关照！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n风花，接下来就拜托你喽！\n\n风花，以后请多关照！\n\n风小花，以后请多关照！"
+  },
+  {
+    "key": "RISE_FUKA_MAKASETA_2_0",
+    "original": "風花ちゃんにバトンタッチしまーす！",
+    "translation": "风花小姐，我要把接力棒交给你了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要交给风花了～！\n\n给风花接棒！\n\n把接力棒交给风花！"
+  },
+  {
+    "key": "RISE_FUKA_MAKASETA_3_0",
+    "original": "風花ちゃんのナビ、\n私も楽しみにしてるね！",
+    "translation": "风花小姐的导航，\n我也很期待呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n风小花的导航，\n我也很期待呢！\n\n风花的导航，\n我也很期待呢！\n\n我也很期待风花的导航哦！"
+  },
+  {
+    "key": "RISE_FUKA_ANSWER_1_0",
+    "original": "任されました！\nみなさん、よろしくお願いします！",
+    "translation": "我会好好负责的！\n大家，请多多关照！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n交给我吧！\n各位，拜托你们了！\n\n被委托了！\n请大家多多关照！\n\n被委以重任！请大家多多关照！"
+  },
+  {
+    "key": "RISE_FUKA_ANSWER_2_0",
+    "original": "りせちゃん、後は任せて！\n…みなさん、行きましょう！",
+    "translation": "理世，剩下的就交给我吧！\n..……大家，走吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n理世，接下来交给你了！\n……各位，我们走吧！\n\n理世，以后就交给我吧！\n……大家一起去吧！\n\n理世，剩下的就交给我了！\n……大家，走吧！"
+  },
+  {
+    "key": "RISE_FUKA_ANSWER_3_0",
+    "original": "思わず聞き入っちゃいました。\n…私も頑張ります！",
+    "translation": "我不由自主地听进去了。\n..……我也会加油的！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我忍不住听得入迷了。\n……我也会加油的！\n\n不由得听进去了。\n……我也会加油的！\n\n我不由得听进去了。\n……我也会努力的！"
+  },
+  {
+    "key": "FUTABA_FUKA_MAKASETA_1_0",
+    "original": "風花、ここからは頼んだぞ！",
+    "translation": "风花，从这里开始就拜托你了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n风花，接下来就拜托你喽！\n\n风花，从这里就拜托你了！"
+  },
+  {
+    "key": "FUTABA_FUKA_MAKASETA_2_0",
+    "original": "ここからは、\n風花の癒し系ナビがお送りするぞ！",
+    "translation": "从这里开始，\n风花的治愈系导航将为您播报！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n接下来\n就由风花的疗愈系导航来为各位服务喽！\n\n从这里，\n风花的治愈系导航发送哟！\n\n从这里开始，风花的治愈系导航送出哦！"
+  },
+  {
+    "key": "FUTABA_FUKA_MAKASETA_3_0",
+    "original": "ここから先は、風花にナビ交代だ！",
+    "translation": "从这里开始，交给风花导航吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n接下来要跟风花换手导航喽！\n\n从这里开始，风花导航交替！\n\n从这里开始，就轮到风花领航员了！"
+  },
+  {
+    "key": "FUTABA_FUKA_ANSWER_1_0",
+    "original": "ありがとう、ゆっくり休んでね。\n…みなさん、行きましょう！",
+    "translation": "谢谢，好好休息吧。\n..……大家，我们走吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n谢谢你，好好休息吧。\n……各位，我们走吧！\n\n谢谢，好好休息。\n……大家一起去吧！\n\n谢谢，好好休息。\n……大家，走吧！"
+  },
+  {
+    "key": "FUTABA_FUKA_ANSWER_2_0",
+    "original": "ここからは私がサポートします！\nよろしくお願いします！",
+    "translation": "从现在开始就交给我来给大家支援了！\n请多多关照！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n接下来由我来支援！\n请多指教！\n\n从这里我支持！\n请多关照！\n\n从这里开始由我来支持！\n请多关照！"
+  },
+  {
+    "key": "FUTABA_FUKA_ANSWER_3_0",
+    "original": "ナビ、さすがです！\nここからは私に任せてください！",
+    "translation": "导航，真是厉害！\n从这里开始就交给我吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真不愧是导航！\n接下来就交给我吧！\n\n导航，真不愧是！\n从这里开始就交给我吧！\n\n导航仪，不愧是！\n接下来就交给我吧！"
+  },
+  {
+    "key": "FUKA_ITEM_90_DUNGEON_1_0",
+    "original": "荷物、重くないですか？",
+    "translation": "所持物不重吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李会不会很重？\n\n行李不重吗？"
+  },
+  {
+    "key": "FUKA_ITEM_90_DUNGEON_2_0",
+    "original": "荷物がパンパンみたいですよ。",
+    "translation": "所持物看起来好像已经很满了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李好像很重哦。\n\n行李好像鼓鼓的。\n\n行李像面包面包一样。"
+  },
+  {
+    "key": "FUKA_ITEM_90_DUNGEON_3_0",
+    "original": "荷物、少し預けるのはどうでしょう？",
+    "translation": "所持物，要寄存一些吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要稍微寄放一下行李呢？\n\n行李寄存一下怎么样？\n\n把行李稍微寄存一下怎么样？"
+  },
+  {
+    "key": "FUKA_DUNGEON_START_1_0",
+    "original": "みなさん、頑張りましょう！",
+    "translation": "大家，加油！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n各位，加油吧！\n\n大家，加油吧！"
+  },
+  {
+    "key": "FUKA_DUNGEON_START_2_0",
+    "original": "無理はしないでくださいね！",
+    "translation": "请不要勉强自己哦！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n请不要勉强自己哦！\n\n请不要勉强哦！"
+  },
+  {
+    "key": "FUKA_DUNGEON_START_3_0",
+    "original": "精一杯サポートします！",
+    "translation": "我会尽力支持你的！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我会尽全力支援！\n\n全力支持！\n\n我会全力支持的！"
+  },
+  {
+    "key": "FUKA_QUEST_START_1_0",
+    "original": "みんなで頑張りましょう！",
+    "translation": "让我们一起努力吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家一起加油吧！\n\n大家一起努力吧！"
+  },
+  {
+    "key": "FUKA_QUEST_START_2_0",
+    "original": "私も精一杯サポートします！",
+    "translation": "我也会尽全力支持你的！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我也会尽全力支援！\n\n我也会全力支持的！"
+  },
+  {
+    "key": "FUKA_QUEST_START_3_0",
+    "original": "みなさん、頑張ってくださいね！",
+    "translation": "各位，加油哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n各位，请加油哦！\n\n大家，请加油哦！\n\n大家，加油吧！"
+  },
+  {
+    "key": "FUKA_TOUHA_25_1_0",
+    "original": "まだ先は長そうです。\n無理しないでください。",
+    "translation": "还有很长的路要走，\n不要勉强自己。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看来还有很长一段路要走。\n请不要勉强。\n\n前面好像还很长。\n请不要勉强。\n\n看来路还很长。请不要勉强。"
+  },
+  {
+    "key": "FUKA_TOUHA_25_2_0",
+    "original": "体力には気をつけて進みましょう。",
+    "translation": "注意保存好体力，继续前进吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n注意体力，继续前进吧。\n\n注意体力前进吧。"
+  },
+  {
+    "key": "FUKA_TOUHA_50_1_0",
+    "original": "半分くらいでしょうか？\nまだまだ頑張りましょうね。",
+    "translation": "大概走了一半了吧？\n我们还要继续努力哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大概有一半吧？\n我们继续加油吧。\n\n大概一半吧？\n继续努力吧。\n\n大概是一半吧？还是继续努力吧。"
+  },
+  {
+    "key": "FUKA_TOUHA_50_2_0",
+    "original": "地図、埋まってきましたね！\nこの調子で行きましょう！",
+    "translation": "地图，已经探索完了！\n让我们继续这样下去吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n地图逐渐填满了呢！\n照这个步调前进吧！\n\n地图，填好了呢！\n照这样下去吧！\n\n地图被埋了呢！\n就这样走吧！"
+  },
+  {
+    "key": "FUKA_TOUHA_75_1_0",
+    "original": "もう少しで全部回りきれますね！\n頑張りましょう！",
+    "translation": "再坚持一下就能全部探索完了呢！\n加油！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n再一下下就可以全部绕完喽！\n加油吧！\n\n再过一会儿全部都能转完呢！\n加油吧！\n\n差一点就全部转完了呢！\n加油吧！"
+  },
+  {
+    "key": "FUKA_TOUHA_75_2_0",
+    "original": "わあ、かなり埋まってきましたね。\nあと一息です！",
+    "translation": "哇，已经探索得相当多了呢。\n就差一口气了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哇啊，填了好多字哦。\n只差一点点了！\n\n哇，被埋了很多呢。\n还有一口气！\n\n哇，填了很多呢。\n只差一口气了！"
+  },
+  {
+    "key": "FUKA_TOUHA_100_1_0",
+    "original": "お疲れ様です！\nフロアを全部回れたみたいです！",
+    "translation": "辛苦了！\n好像已经探索完整个楼层了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n辛苦了！\n好像把所有楼层都逛完了！\n\n辛苦了！\n好像把楼层都转过去了！\n\n您辛苦了！\n好像把楼层都转了！"
+  },
+  {
+    "key": "FUKA_TOUHA_100_2_0",
+    "original": "地図が埋まりましたね！\nおめでとうございます！",
+    "translation": "地图探索完了呢！\n恭喜恭喜！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n地图填满了呢！\n恭喜您！\n\n地图被填满了呢！\n恭喜！"
+  },
+  {
+    "key": "FUKA_MAPPING_ICON_ALL_1_0",
+    "original": "わぁ、上手に描けてますね！",
+    "translation": "哇，画得真好！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哇啊，画得真好！\n\n哇，画得真好啊！"
+  },
+  {
+    "key": "FUKA_MAPPING_ICON_ALL_2_0",
+    "original": "すっごく見やすいですね！",
+    "translation": "非常好看！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真的很好懂呢！\n\n非常容易看！\n\n很好看呢！"
+  },
+  {
+    "key": "FUKA_MAPPING_ICON_KAIDAN_0",
+    "original": "階段の情報は大事ですね。",
+    "translation": "楼梯的信息很重要。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n楼梯的情报很重要呢。\n\n楼梯的信息很重要啊。\n\n楼梯的信息很重要。"
+  },
+  {
+    "key": "FUKA_MAPPING_ICON_KAIDAN_2_0",
+    "original": "これで、迷わず階段に行けますね！",
+    "translation": "这样就可以毫不犹豫地走向楼梯了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这样就能毫不犹豫地前往楼梯了！\n\n这样就可以毫不犹豫地走上楼梯了呢！\n\n这样就可以毫不犹豫地走上楼梯了！"
+  },
+  {
+    "key": "FUKA_MAPPING_CHANGE_COLO_0",
+    "original": "すごい、凝ってますね！",
+    "translation": "太厉害了，很用心呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好厉害，做得好精细！\n\n好厉害，好讲究啊！\n\n好厉害，很讲究呢！"
+  },
+  {
+    "key": "FUKA_MAPPING_CHANGE_COLO_2_0",
+    "original": "カラフルで楽しい地図に\nなりそうですね。",
+    "translation": "看起来会变成一张色彩丰富、\n有趣的地图呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n\n好像能成为色彩缤纷又有趣的地图呢。\n\n感觉会变成一张色彩缤纷又有趣的地图呢。\n\n\n这是一张五彩缤纷的有趣地图。"
+  },
+  {
+    "key": "FUKA_MAPPING_ICON_DEL_1_0",
+    "original": "整理整頓は大事ですね！",
+    "translation": "整理整顿很重要呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n整理环境很重要呢！\n\n整理整顿很重要啊！"
+  },
+  {
+    "key": "FUKA_MAPPING_ICON_DEL_2_0",
+    "original": "なんだかお掃除も上手そうですね。",
+    "translation": "看起来你打扫卫生也很在行呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n感觉她也很擅长打扫呢。\n\n总觉得打扫得也很好呢。\n\n总觉得打扫也很好呢。"
+  },
+  {
+    "key": "FUKA_MAPPING_MEMO_1_0",
+    "original": "私もメモしておこうかと思ってました。",
+    "translation": "我也想记下来。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我也想记下来。"
+  },
+  {
+    "key": "FUKA_MAPPING_MEMO_2_0",
+    "original": "メモすれば忘れないですね！",
+    "translation": "记下来就不会忘记了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n写下来就不会忘记了呢！\n\n如果记笔记的话就不会忘记了！\n\n记下来就不会忘记了呢！"
+  },
+  {
+    "key": "FUKA_KARITORU_ENCOUNT_1_0",
+    "original": "”刈り取るもの”の反応！\n気をつけて下さい！",
+    "translation": "是“猎杀者”的反应！\n请小心！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是“收割者”的反应！\n请小心！\n\n“收割的东西”的反应！\n请注意！\n\n“收割的东西”的反应！请当心！"
+  },
+  {
+    "key": "FUKA_KARITORU_ENCOUNT_2_0",
+    "original": "”刈り取るもの”が接近してます！\n注意して！",
+    "translation": "“猎杀者”正在接近！\n请小心！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“收割者”正在接近！\n小心！\n\n“收割的东西”接近着！\n注意！\n\n“收割的东西”正在接近！\n注意！"
+  },
+  {
+    "key": "FUKA_KARITORU_ENCOUNT_3_0",
+    "original": "この反応は…”刈り取るもの”です！\n気をつけて！",
+    "translation": "这个反应是……“猎杀者”！\n请小心！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这种反应是……“要被收割了”！\n小心！\n\n这个反应是……“收割的东西”！\n小心！\n\n这个反应……”收割的东西”！\n小心！"
+  }
+]

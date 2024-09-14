@@ -1,0 +1,394 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "暗い顔の女子生徒"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "気にしちゃダメだよ。\n消すの手伝うよ。",
+    "translation": "気にしちゃダメだよ。\n消すの手伝うよ。",
+    "stage": 1,
+    "context": "あどけない少女"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "…え？",
+    "translation": "…え？",
+    "stage": 1,
+    "context": "暗い顔の女子生徒"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "…ありがとう。",
+    "translation": "…ありがとう。",
+    "stage": 1,
+    "context": "暗い顔の女子生徒"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "えっと…",
+    "translation": "えっと…",
+    "stage": 1,
+    "context": "暗い顔の女子生徒"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "私はひかり。\nミユキちゃん…だよね？",
+    "translation": "私はひかり。\nミユキちゃん…だよね？",
+    "stage": 1,
+    "context": "中学生時代のひかり"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "よろしくね。",
+    "translation": "よろしくね。",
+    "stage": 1,
+    "context": "中学生時代のひかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ひかりちゃん…\nえっと、よろしく…",
+    "translation": "ひかりちゃん…\nえっと、よろしく…",
+    "stage": 1,
+    "context": "ミユキという女子生徒"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ひかりちゃん、映画好きなんだね。",
+    "translation": "ひかりちゃん、映画好きなんだね。",
+    "stage": 1,
+    "context": "ミユキ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うん！\n同じ映画でも、何回も見ちゃうんだ。",
+    "translation": "うん！\n同じ映画でも、何回も見ちゃうんだ。",
+    "stage": 1,
+    "context": "中学生時代のひかり"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "この前見たのは、恐竜の出てくるやつ！\n今度、一緒に見ようよ。",
+    "translation": "この前見たのは、恐竜の出てくるやつ！\n今度、一緒に見ようよ。",
+    "stage": 1,
+    "context": "中学生時代のひかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "えっ、いいの？　行きたい！",
+    "translation": "えっ、いいの？　行きたい！",
+    "stage": 1,
+    "context": "ミユキ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "そうだ、せっかくだし\nみんなも一緒に行かない？",
+    "translation": "そうだ、せっかくだし\nみんなも一緒に行かない？",
+    "stage": 1,
+    "context": "中学生時代のひかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "…え？　あ、私はちょっと…",
+    "translation": "…え？　あ、私はちょっと…",
+    "stage": 1,
+    "context": "おどおどした女子生徒"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "私も塾あるし。",
+    "translation": "私も塾あるし。",
+    "stage": 1,
+    "context": "声が大きい女子生徒"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ごめ～ん！　また今度！",
+    "translation": "ごめ～ん！　また今度！",
+    "stage": 1,
+    "context": "口を尖らせた女子生徒"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そっか…残念だけど、またね！",
+    "translation": "そっか…残念だけど、またね！",
+    "stage": 1,
+    "context": "中学生時代のひかり"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ミユキ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "なんで、私の机にゴミが…",
+    "translation": "なんで、私の机にゴミが…",
+    "stage": 1,
+    "context": "中学生時代のひかり"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "おどおどした女子生徒"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ねえ、何か知らない？",
+    "translation": "ねえ、何か知らない？",
+    "stage": 1,
+    "context": "中学生時代のひかり"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "あーあ。ひかりが悪いんだよ。",
+    "translation": "あーあ。ひかりが悪いんだよ。",
+    "stage": 1,
+    "context": "声が大きい女子生徒"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "え…？",
+    "translation": "え…？",
+    "stage": 1,
+    "context": "中学生時代のひかり"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ミユキ、クラスの目立つ\nグループに目つけられてたじゃん。",
+    "translation": "ミユキ、クラスの目立つ\nグループに目つけられてたじゃん。",
+    "stage": 1,
+    "context": "口を尖らせた女子生徒"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ミユキと一緒にいたから、\nひかりに嫌がらせが始まったんだよ…",
+    "translation": "ミユキと一緒にいたから、\nひかりに嫌がらせが始まったんだよ…",
+    "stage": 1,
+    "context": "おどおどした女子生徒"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ミユキ、グループから外れてくれない？\n私たちまで巻き込まれるし。",
+    "translation": "ミユキ、グループから外れてくれない？\n私たちまで巻き込まれるし。",
+    "stage": 1,
+    "context": "声が大きい女子生徒"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "えっ…",
+    "translation": "えっ…",
+    "stage": 1,
+    "context": "ミユキ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ミユキが出ていけば、ひかりも嫌がらせ\n受けなくなると思うよ。",
+    "translation": "ミユキが出ていけば、ひかりも嫌がらせ\n受けなくなると思うよ。",
+    "stage": 1,
+    "context": "口を尖らせた女子生徒"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "私、そんなの気にしないし。\nみんなで仲良くしようよ！！",
+    "translation": "私、そんなの気にしないし。\nみんなで仲良くしようよ！！",
+    "stage": 1,
+    "context": "中学生時代のひかり"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "声が大きい女子生徒"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "どうしてアンタはそうなわけ？",
+    "translation": "どうしてアンタはそうなわけ？",
+    "stage": 1,
+    "context": "声が大きい女子生徒"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "そう言うなら、ひかりがミユキの\n代わりになればいいじゃん。",
+    "translation": "そう言うなら、ひかりがミユキの\n代わりになればいいじゃん。",
+    "stage": 1,
+    "context": "口を尖らせた女子生徒"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "どうしてそうなるの！？",
+    "translation": "どうしてそうなるの！？",
+    "stage": 1,
+    "context": "中学生時代のひかり"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "目立つ子たちは、からかえる相手が\n欲しいだけだし…",
+    "translation": "目立つ子たちは、からかえる相手が\n欲しいだけだし…",
+    "stage": 1,
+    "context": "おどおどした女子生徒"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "一緒にいたら、私たちも攻撃される。\n迷惑なんだよね。",
+    "translation": "一緒にいたら、私たちも攻撃される。\n迷惑なんだよね。",
+    "stage": 1,
+    "context": "声が大きい女子生徒"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ミユキ"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "みんなもそう思うよね？\nひかりが出てけばいいと思う人！",
+    "translation": "みんなもそう思うよね？\nひかりが出てけばいいと思う人！",
+    "stage": 1,
+    "context": "声が大きい女子生徒"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ハイ！",
+    "translation": "ハイ！",
+    "stage": 1,
+    "context": "口を尖らせた女子生徒"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "私も…",
+    "translation": "私も…",
+    "stage": 1,
+    "context": "おどおどした女子生徒"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "そんな…どうして？",
+    "translation": "そんな…どうして？",
+    "stage": 1,
+    "context": "中学生時代のひかり"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "だって、みんなそう言ってるし…",
+    "translation": "だって、みんなそう言ってるし…",
+    "stage": 1,
+    "context": "おどおどした女子生徒"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "そうだよ、みんな言ってる。\nミユキもそう思うでしょ？",
+    "translation": "そうだよ、みんな言ってる。\nミユキもそう思うでしょ？",
+    "stage": 1,
+    "context": "口を尖らせた女子生徒"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "わ、私は…",
+    "translation": "わ、私は…",
+    "stage": 1,
+    "context": "ミユキ"
+  },
+  {
+    "key": "MSG_037_1",
+    "original": "…………。",
+    "translation": "…………。",
+    "stage": 1,
+    "context": "ミユキ"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "じゃあ、やっぱり出てくのは\nミユキだね。",
+    "translation": "じゃあ、やっぱり出てくのは\nミユキだね。",
+    "stage": 1,
+    "context": "声が大きい女子生徒"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "ま、待って！",
+    "translation": "ま、待って！",
+    "stage": 1,
+    "context": "ミユキ"
+  },
+  {
+    "key": "MSG_039_1",
+    "original": "わ、私も…ひかりちゃんが\n出ていけばいいと…思う…",
+    "translation": "わ、私も…ひかりちゃんが\n出ていけばいいと…思う…",
+    "stage": 1,
+    "context": "ミユキ"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "みんなこう言ってるよ、決まりだね。",
+    "translation": "みんなこう言ってるよ、決まりだね。",
+    "stage": 1,
+    "context": "声が大きい女子生徒"
+  },
+  {
+    "key": "speaker_暗い顔の女子生徒",
+    "original": "暗い顔の女子生徒",
+    "translation": "暗い顔の女子生徒",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_あどけない少女",
+    "original": "あどけない少女",
+    "translation": "あどけない少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_中学生時代のひかり",
+    "original": "中学生時代のひかり",
+    "translation": "中学生時代のひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ミユキという女子生徒",
+    "original": "ミユキという女子生徒",
+    "translation": "ミユキという女子生徒",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ミユキ",
+    "original": "ミユキ",
+    "translation": "ミユキ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_おどおどした女子生徒",
+    "original": "おどおどした女子生徒",
+    "translation": "おどおどした女子生徒",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_声が大きい女子生徒",
+    "original": "声が大きい女子生徒",
+    "translation": "声が大きい女子生徒",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_口を尖らせた女子生徒",
+    "original": "口を尖らせた女子生徒",
+    "translation": "口を尖らせた女子生徒",
+    "stage": 1,
+    "context": ""
+  }
+]

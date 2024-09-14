@@ -1,0 +1,282 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "皆様には、『特別上映』にて\n名作を次々とご披露頂く今日この頃。",
+    "translation": "皆様には、『特別上映』にて\n名作を次々とご披露頂く今日この頃。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そういや、結構やったな。\nまあまあいいペースじゃね？",
+    "translation": "そういや、結構やったな。\nまあまあいいペースじゃね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "特別上映も新鮮で楽しいよね。\nいろいろ報酬も貰えるし。",
+    "translation": "特別上映も新鮮で楽しいよね。\nいろいろ報酬も貰えるし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そんな皆様に、新たなチケットが\n発行されております。",
+    "translation": "そんな皆様に、新たなチケットが\n発行されております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "皆様の活躍により、大団円へと姿を変えた\n映画『カモシダーマン』…",
+    "translation": "皆様の活躍により、大団円へと姿を変えた\n映画『カモシダーマン』…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "その最奥に、まだ見ぬ新たな強敵シャドウが\n出現した気配がございます。",
+    "translation": "その最奥に、まだ見ぬ新たな強敵シャドウが\n出現した気配がございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_1_0",
+    "original": "今回の特別上映は、\nこちらを討ち果たせ、というもの。",
+    "translation": "今回の特別上映は、\nこちらを討ち果たせ、というもの。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "強敵？",
+    "translation": "強敵？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "簡単そうだ",
+    "translation": "簡単そうだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "はい、かつての宿敵『カモシダーマン』に\n引けを取らぬ凶悪な相手であるとか。",
+    "translation": "はい、かつての宿敵『カモシダーマン』に\n引けを取らぬ凶悪な相手であるとか。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "フン、それなら心配ないぜ。",
+    "translation": "フン、それなら心配ないぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "ワガハイたちだって、\nあの時より強くなってるからな！",
+    "translation": "ワガハイたちだって、\nあの時より強くなってるからな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "だな！　ただ倒すだけなら\n速攻でハッピーエンドだって。",
+    "translation": "だな！　ただ倒すだけなら\n速攻でハッピーエンドだって。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ああ、ワガハイたちだって、\nだいぶ力をつけてきてる。",
+    "translation": "ああ、ワガハイたちだって、\nだいぶ力をつけてきてる。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "たいへんに頼もしいお言葉。\nですが今回は、殊更に目を引く点がひとつ。",
+    "translation": "たいへんに頼もしいお言葉。\nですが今回は、殊更に目を引く点がひとつ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_1_0",
+    "original": "こちらの上映、チケットに\n出演・[P5姓]様との記載がございます。",
+    "translation": "こちらの上映、チケットに\n出演・[P5姓]様との記載がございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "それ、どういうこと？",
+    "translation": "それ、どういうこと？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "詳しくはわかりませんが、\nこちらの上映は、いわば『対決もの』。",
+    "translation": "詳しくはわかりませんが、\nこちらの上映は、いわば『対決もの』。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_011_1_0",
+    "original": "つまり[P5姓]様が\n必ず戦う必要がある、との暗示かと。",
+    "translation": "つまり[P5姓]様が\n必ず戦う必要がある、との暗示かと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あらかじめ、キャストが決められた作品…\n何か理由があるのかしら。",
+    "translation": "あらかじめ、キャストが決められた作品…\n何か理由があるのかしら。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "[P5名]への挑戦…？\nそれとも、何かの罠か…？",
+    "translation": "[P5名]への挑戦…？\nそれとも、何かの罠か…？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ま、考えてもしょうがねえじゃん。\n[P5名]ならラクショーだろ。",
+    "translation": "ま、考えてもしょうがねえじゃん。\n[P5名]ならラクショーだろ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_015_0",
+    "original": "任せておけ",
+    "translation": "任せておけ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_015_1",
+    "original": "ちょっと不安",
+    "translation": "ちょっと不安",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "さっすがリーダー、\n主役張るのはお手のもんだな。",
+    "translation": "さっすがリーダー、\n主役張るのはお手のもんだな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "だーいじょうぶだって。\n俺らがガッチリフォローすっからさ。",
+    "translation": "だーいじょうぶだって。\n俺らがガッチリフォローすっからさ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "では、まとまりましたでしょうか。\nここで改めてご説明を。",
+    "translation": "では、まとまりましたでしょうか。\nここで改めてご説明を。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_018_1_0",
+    "original": "カモシティの最奥に現れた、\n強力なシャドウを撃破なさって下さい。",
+    "translation": "カモシティの最奥に現れた、\n強力なシャドウを撃破なさって下さい。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_018_1_1",
+    "original": "その際は[P5姓]様を\n戦闘に参加させること。",
+    "translation": "その際は[P5姓]様を\n戦闘に参加させること。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "承知した。\n準備ができたら集まろう。",
+    "translation": "承知した。\n準備ができたら集まろう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "[P5姓]様のご活躍、期待しております。\nそれでは、ご武運を。",
+    "translation": "[P5姓]様のご活躍、期待しております。\nそれでは、ご武運を。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

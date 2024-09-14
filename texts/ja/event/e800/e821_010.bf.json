@@ -1,0 +1,156 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さて、今回の特別上映は…",
+    "translation": "さて、今回の特別上映は…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "『調理できる食材を探せ！』というもの。\nいわゆるグルメな作品でしょうか。",
+    "translation": "『調理できる食材を探せ！』というもの。\nいわゆるグルメな作品でしょうか。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "来たか…！",
+    "translation": "来たか…！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "場所は『ジュネシック・ランド』と\nなっております。",
+    "translation": "場所は『ジュネシック・ランド』と\nなっております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "ああ皆様、ついに恐竜を…？\n禁断のグルメ、存分にご賞味下さいませ。",
+    "translation": "ああ皆様、ついに恐竜を…？\n禁断のグルメ、存分にご賞味下さいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "いやいや、どんだけ腹減っても\nアレは食わねーからな！？",
+    "translation": "いやいや、どんだけ腹減っても\nアレは食わねーからな！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "フッ、食材探しとは願ったりだ。",
+    "translation": "フッ、食材探しとは願ったりだ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "シンジ、約束は守ってもらうぞ。\n材料を揃えたら、とびきりの料理を頼む。",
+    "translation": "シンジ、約束は守ってもらうぞ。\n材料を揃えたら、とびきりの料理を頼む。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "えっ、荒垣先輩のご飯つき！？\nやったー！　これは頑張らないとね！",
+    "translation": "えっ、荒垣先輩のご飯つき！？\nやったー！　これは頑張らないとね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ほほう、シンジローの手料理か。\nワガハイも興味あるぞ。",
+    "translation": "ほほう、シンジローの手料理か。\nワガハイも興味あるぞ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "やれやれ…\n約束した覚えはねえんだがな…",
+    "translation": "やれやれ…\n約束した覚えはねえんだがな…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "よし、今すぐに出発だ！",
+    "translation": "よし、今すぐに出発だ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "さあ急ぐぞ、[P5名]！\n豊かな自然の恵みが、俺を呼んでいるッ！",
+    "translation": "さあ急ぐぞ、[P5名]！\n豊かな自然の恵みが、俺を呼んでいるッ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  }
+]

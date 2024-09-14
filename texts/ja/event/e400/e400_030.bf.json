@@ -1,0 +1,429 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なんだ、ここは…？",
+    "translation": "なんだ、ここは…？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "雰囲気がまたガラッと変わったね。",
+    "translation": "雰囲気がまたガラッと変わったね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "ミュージカル映画なだけあって、\n音符が飛んでたりして華やかだけど…",
+    "translation": "ミュージカル映画なだけあって、\n音符が飛んでたりして華やかだけど…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "でもさ、パッと見は楽しげな雰囲気だけど、\nどこか違和感がない？",
+    "translation": "でもさ、パッと見は楽しげな雰囲気だけど、\nどこか違和感がない？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "テーマパークみたいな場所なのに、\nなんか不気味っていうか…",
+    "translation": "テーマパークみたいな場所なのに、\nなんか不気味っていうか…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "私も、ゆかりちゃんと同じです。",
+    "translation": "私も、ゆかりちゃんと同じです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "こんなに明るいのに、寒々と薄気味悪い\nような…禍々しいものすら感じる…",
+    "translation": "こんなに明るいのに、寒々と薄気味悪い\nような…禍々しいものすら感じる…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "俺も引っ掛かっていた。\nこの世界は居心地がよくない。",
+    "translation": "俺も引っ掛かっていた。\nこの世界は居心地がよくない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "お前も何か感じないか？\nジョーカー。",
+    "translation": "お前も何か感じないか？\nジョーカー。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "息苦しい",
+    "translation": "息苦しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "目に痛い",
+    "translation": "目に痛い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_2",
+    "original": "何も感じない",
+    "translation": "何も感じない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ああ。歪だと思っても、気持ちを押し殺して\nこの世界を受け入れなければならない。",
+    "translation": "ああ。歪だと思っても、気持ちを押し殺して\nこの世界を受け入れなければならない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "俺も、そんな押し付けがましさと\n強迫観念のようなものを感じる…",
+    "translation": "俺も、そんな押し付けがましさと\n強迫観念のようなものを感じる…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "確かに、ちょっと明るすぎというか\n目がチカチカするかもしれない…",
+    "translation": "確かに、ちょっと明るすぎというか\n目がチカチカするかもしれない…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "この毒々しいまでの極彩色…\nなんとも押し付けがましい。",
+    "translation": "この毒々しいまでの極彩色…\nなんとも押し付けがましい。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "歪だと思っても、この世界を受け入れろ\nという強迫観念すら感じるな。",
+    "translation": "歪だと思っても、この世界を受け入れろ\nという強迫観念すら感じるな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "そうか。俺は、どこか強迫観念の\nようなものを感じるが…",
+    "translation": "そうか。俺は、どこか強迫観念の\nようなものを感じるが…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "歪だと思っても、気持ちを押し殺して\nこの世界を受け入れなければならない。",
+    "translation": "歪だと思っても、気持ちを押し殺して\nこの世界を受け入れなければならない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_2",
+    "original": "俺の目には、そんな押し付けがましい\n舞台演出に映る。",
+    "translation": "俺の目には、そんな押し付けがましい\n舞台演出に映る。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "よく見てみると、周りの花たちも\nどこか歪んでいますね。ゾッとします。",
+    "translation": "よく見てみると、周りの花たちも\nどこか歪んでいますね。ゾッとします。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "作られた楽しさの象徴…\nということでしょうか？",
+    "translation": "作られた楽しさの象徴…\nということでしょうか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "予告でも言ってたね。『個性をなくせ。\n自分を殺し、数に従え』って。",
+    "translation": "予告でも言ってたね。『個性をなくせ。\n自分を殺し、数に従え』って。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "やっぱり、ここも今までと同じ…\nなら、この映画も…",
+    "translation": "やっぱり、ここも今までと同じ…\nなら、この映画も…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "お？　この映画もなに？",
+    "translation": "お？　この映画もなに？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "ていうか、今までの予告はオレら\n見たことねーからさ。どうすりゃいいの？",
+    "translation": "ていうか、今までの予告はオレら\n見たことねーからさ。どうすりゃいいの？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "いや…まだ確証はないんだ。",
+    "translation": "いや…まだ確証はないんだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "下手に混乱させるのも申し訳ないから、\nもう少し情報を集めようか。",
+    "translation": "下手に混乱させるのも申し訳ないから、\nもう少し情報を集めようか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "おおお～ん！\nクロウってば、頼りになるクマー！",
+    "translation": "おおお～ん！\nクロウってば、頼りになるクマー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "うっ…く、苦しいから、\n急に抱きつくのは、ホントやめ…",
+    "translation": "うっ…く、苦しいから、\n急に抱きつくのは、ホントやめ…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "とにかく、明智さんの言うとおり\n現状の把握と情報収集に努めましょう。",
+    "translation": "とにかく、明智さんの言うとおり\n現状の把握と情報収集に努めましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "その方がよさそうだ。\nこの映画、見た目で判断しない方がいい。",
+    "translation": "その方がよさそうだ。\nこの映画、見た目で判断しない方がいい。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "こりゃ、思った以上にヤバイぞ。",
+    "translation": "こりゃ、思った以上にヤバイぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "シャドウも今までとは比べ物に\nならないくらい凶暴だよ。",
+    "translation": "シャドウも今までとは比べ物に\nならないくらい凶暴だよ。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "みんな、気をつけてね！",
+    "translation": "みんな、気をつけてね！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "SEL_020_0",
+    "original": "急ぐぞ！",
+    "translation": "急ぐぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_020_1",
+    "original": "慎重に行こう",
+    "translation": "慎重に行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_020_2",
+    "original": "ひかりが心配だ",
+    "translation": "ひかりが心配だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "うん！\n早くひかりちゃんを捜しに行こう！",
+    "translation": "うん！\n早くひかりちゃんを捜しに行こう！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "さすが冷静だな。確かに、俺たちが\nやられては元も子もない。",
+    "translation": "さすが冷静だな。確かに、俺たちが\nやられては元も子もない。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "でも、ひかりちゃん…大丈夫かな？\n心配だよ…",
+    "translation": "でも、ひかりちゃん…大丈夫かな？\n心配だよ…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだね。\n彼女は僕らとは違って、戦う術がない…",
+    "translation": "そうだね。\n彼女は僕らとは違って、戦う術がない…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "急いで捜しに行こう。",
+    "translation": "急いで捜しに行こう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "オマエら、くれぐれも油断はするなよ？\n万全の状態で進め！",
+    "translation": "オマエら、くれぐれも油断はするなよ？\n万全の状態で進め！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "key": "YESNO_SEL_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "SWITCH_SCR_MSG_01_0",
+    "original": "＞！！ああっと！！",
+    "translation": "＞！！哎呀！！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞！！啊啊！！\n\n＞！！啊啊啊！！\n\n＞！！啊！！"
+  },
+  {
+    "key": "SWITCH_SCR_MSG_02_0",
+    "original": "＞危なかった！！",
+    "translation": "＞好险啊！！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞好险！！\n\n＞太危险了！！\n\n＞危险！！"
+  },
+  {
+    "key": "MSG_KANSI_CAMERA_MOVE_0",
+    "original": "＞！？",
+    "translation": "＞！？",
+    "stage": 0,
+    "context": ""
+  }
+]

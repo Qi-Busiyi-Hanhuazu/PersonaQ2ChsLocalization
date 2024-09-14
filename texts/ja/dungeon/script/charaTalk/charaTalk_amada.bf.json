@@ -1,0 +1,268 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "なにか採れそうですよ。\nどうしますか？",
+    "translation": "なにか採れそうですよ。\nどうしますか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "わかりました。\n気を抜かないようにします。",
+    "translation": "わかりました。\n気を抜かないようにします。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "はい！　集中して探しましょう！",
+    "translation": "はい！　集中して探しましょう！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あ、止めておくんですね。\n分かりました。",
+    "translation": "あ、止めておくんですね。\n分かりました。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これでよし…っと。\n全て採取できたみたいですね。",
+    "translation": "これでよし…っと。\n全て採取できたみたいですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "やった！",
+    "translation": "やった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "へえー。",
+    "translation": "へえー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "わぁ！",
+    "translation": "わぁ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "少し驚いちゃいました…そろそろ\n止めておいた方が良さそうですね。",
+    "translation": "少し驚いちゃいました…そろそろ\n止めておいた方が良さそうですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "やった！",
+    "translation": "やった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "すごいなぁ！",
+    "translation": "すごいなぁ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "おめでとうございます！",
+    "translation": "おめでとうございます！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットみたいです！\n通りますか？",
+    "translation": "ショートカットみたいです！\n通りますか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ショートカットみたいです！\n通りますか？",
+    "translation": "ショートカットみたいです！\n通りますか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ショートカットみたいです！\n通りますか？",
+    "translation": "ショートカットみたいです！\n通りますか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "あっ…\nこっちは通れないんですね…",
+    "translation": "あっ…\nこっちは通れないんですね…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "あっ…\nこっちは通れないんですね…",
+    "translation": "あっ…\nこっちは通れないんですね…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "あっ…\nこっちは通れないんですね…",
+    "translation": "あっ…\nこっちは通れないんですね…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "あの、ここ…\n凄く危険な気配がしませんか？",
+    "translation": "あの、ここ…\n凄く危険な気配がしませんか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かりました。\n気をつけて調べましょう！",
+    "translation": "分かりました。\n気をつけて調べましょう！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "分かりました。\nちゃんと態勢を立て直しましょう！",
+    "translation": "分かりました。\nちゃんと態勢を立て直しましょう！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "信じられないほど強かったですね。\n全滅にならなくて良かったです…",
+    "translation": "信じられないほど強かったですね。\n全滅にならなくて良かったです…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "これは…\nシャドウの気配が多い気がします。",
+    "translation": "これは…\nシャドウの気配が多い気がします。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "はい。\n気をつけましょう！",
+    "translation": "はい。\n気をつけましょう！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "了解です。",
+    "translation": "了解です。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "予想はしてましたが、\nやっぱりシャドウがいましたね。",
+    "translation": "予想はしてましたが、\nやっぱりシャドウがいましたね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "あ、映画館に戻るんですか？",
+    "translation": "あ、映画館に戻るんですか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "うぉ…マジかよ…！？\nマジで入っちまった…",
+    "translation": "うぉ…マジかよ…！？\nマジで入っちまった…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "どこをどう進めばいいものか。\n闇雲に動き回るのもな…",
+    "translation": "どこをどう進めばいいものか。\n闇雲に動き回るのもな…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "これ、何の音？",
+    "translation": "これ、何の音？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "…い……おーい！",
+    "translation": "…い……おーい！",
+    "stage": 1,
+    "context": "ノイズ混じりの声"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ん？　この声…双葉か？",
+    "translation": "ん？　この声…双葉か？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "双葉！　聞こえる！？",
+    "translation": "双葉！　聞こえる！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "お！　よかったよかった、繋がった。\nみんな、大丈夫そうだな！",
+    "translation": "お！　よかったよかった、繋がった。\nみんな、大丈夫そうだな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "って、あれ！？\nなんで、双葉まで怪盗服…？",
+    "translation": "って、あれ！？\nなんで、双葉まで怪盗服…？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_1_0",
+    "original": "それな。わたしも不思議なんだが\nお前たちが映画に入ったとたんに変わった。",
+    "translation": "それな。わたしも不思議なんだが\nお前たちが映画に入ったとたんに変わった。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_1_1",
+    "original": "どーいう仕組みなんだコレ…",
+    "translation": "どーいう仕組みなんだコレ…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_007_2_0",
+    "original": "異世界だから",
+    "translation": "異世界だから",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_2_1",
+    "original": "分からない",
+    "translation": "分からない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_3_0",
+    "original": "ま、深く考えてもしょうがないか。\n今は分からないことだらけだし。",
+    "translation": "ま、深く考えてもしょうがないか。\n今は分からないことだらけだし。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_3_1",
+    "original": "とにかく！　こっちは異常なしだ。\n問題なくナビできるぞ！",
+    "translation": "とにかく！　こっちは異常なしだ。\n問題なくナビできるぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_4_0",
+    "original": "ならば、さっそくで悪いが…",
+    "translation": "ならば、さっそくで悪いが…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_4_1",
+    "original": "ナビ、ペルソナの力で\n映画の中をざっと調べられないか？",
+    "translation": "ナビ、ペルソナの力で\n映画の中をざっと調べられないか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "既に試したけど、ムリ。",
+    "translation": "既に試したけど、ムリ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "今は、みんなの位置がある程度分かってる\nからナビできてるけど、これが限界。",
+    "translation": "今は、みんなの位置がある程度分かってる\nからナビできてるけど、これが限界。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "クイーンもノワールも、\nどこにいるか全くつかめない…すまん。",
+    "translation": "クイーンもノワールも、\nどこにいるか全くつかめない…すまん。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "なるほどな。\nんじゃ、足で捜すっきゃねぇか。",
+    "translation": "なるほどな。\nんじゃ、足で捜すっきゃねぇか。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "とはいえ、戦闘なんかのサポートは、\nいつも通りできそうだ。",
+    "translation": "とはいえ、戦闘なんかのサポートは、\nいつも通りできそうだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "そっちは期待しててくれ。",
+    "translation": "そっちは期待しててくれ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "オッケー！　捜すのは私たちに任せて！",
+    "translation": "オッケー！　捜すのは私たちに任せて！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "よし、そんじゃ迷わないように、\n道を描きながら進むんだぞ。",
+    "translation": "よし、そんじゃ迷わないように、\n道を描きながら進むんだぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "さっきもらったノート、中でも使えるか？",
+    "translation": "さっきもらったノート、中でも使えるか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ああ、問題ない。\nでは、探索を開始するとしよう。",
+    "translation": "ああ、問題ない。\nでは、探索を開始するとしよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ノイズ混じりの声",
+    "original": "ノイズ混じりの声",
+    "translation": "ノイズ混じりの声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

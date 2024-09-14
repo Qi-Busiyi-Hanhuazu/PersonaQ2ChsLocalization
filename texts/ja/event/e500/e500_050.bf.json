@@ -1,0 +1,366 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…ねえ、何気なく戻ってきたけど\nまた閉じ込められたりしないかな？",
+    "translation": "…ねえ、何気なく戻ってきたけど\nまた閉じ込められたりしないかな？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "エンリルの口ぶりからして、\nそれはないと思うが…",
+    "translation": "エンリルの口ぶりからして、\nそれはないと思うが…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_5_0",
+    "original": "ここの鍵は、ひかりの外に出たくない\nという心そのもの…",
+    "translation": "ここの鍵は、ひかりの外に出たくない\nという心そのもの…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_5_1",
+    "original": "ひかりが出ると決めた以上、\nエンリルも、止める気はないのだろう。",
+    "translation": "ひかりが出ると決めた以上、\nエンリルも、止める気はないのだろう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ふむ。ここは大丈夫だとして…\n問題は他の映画館だな。",
+    "translation": "ふむ。ここは大丈夫だとして…\n問題は他の映画館だな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "鍵が各個人の心なら、彼らに出る意志が\nない限り、扉は閉じたままということか…",
+    "translation": "鍵が各個人の心なら、彼らに出る意志が\nない限り、扉は閉じたままということか…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ずっとここにいたら、あの人たち、\nどうなっちゃうんだろう…",
+    "translation": "ずっとここにいたら、あの人たち、\nどうなっちゃうんだろう…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "エンリルは安全って言ってたけど…",
+    "translation": "エンリルは安全って言ってたけど…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "でも、何も考えず、抗うこともない。\nそんなのって…",
+    "translation": "でも、何も考えず、抗うこともない。\nそんなのって…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "無気力だな",
+    "translation": "無気力だな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "廃人か…",
+    "translation": "廃人か…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "結局、人として死んでるのと\n変わらないじゃない！",
+    "translation": "結局、人として死んでるのと\n変わらないじゃない！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そんな人間が、今も無数に\nこの映画館街へ集まっているのか…",
+    "translation": "そんな人間が、今も無数に\nこの映画館街へ集まっているのか…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ええ。生きる欲望を失った、\nまるで廃人ね…",
+    "translation": "ええ。生きる欲望を失った、\nまるで廃人ね…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "そんな人たちが、あんなに！？\nしかも、どんどん増えてるし！",
+    "translation": "そんな人たちが、あんなに！？\nしかも、どんどん増えてるし！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ギャー！　一大事クマ！\nこのままじゃ…えっと、えっと…",
+    "translation": "ギャー！　一大事クマ！\nこのままじゃ…えっと、えっと…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "とどのつまり、どういうことクマ？",
+    "translation": "とどのつまり、どういうことクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "落ち着けっての！\nこういう時は、情報の取捨しぇんしゃ…",
+    "translation": "落ち着けっての！\nこういう時は、情報の取捨しぇんしゃ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_011_5_0",
+    "original": "情報の取捨選択が大事だからな！",
+    "translation": "情報の取捨選択が大事だからな！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "自分が落ち着けっての。",
+    "translation": "自分が落ち着けっての。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "さすが花村くん。\nガッカリ王子の名を死守してるよね。",
+    "translation": "さすが花村くん。\nガッカリ王子の名を死守してるよね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "お前ら、こういう時はさらっと流せよ！",
+    "translation": "お前ら、こういう時はさらっと流せよ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "…それで、マーガレットたちは\n何か知らないのか？",
+    "translation": "…それで、マーガレットたちは\n何か知らないのか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "…そうね。現実世界への影響は\nまず避けられないでしょう。",
+    "translation": "…そうね。現実世界への影響は\nまず避けられないでしょう。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "具体的には？",
+    "translation": "具体的には？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "いずれ、現実世界にもこの映画館が\n侵食してしまう…",
+    "translation": "いずれ、現実世界にもこの映画館が\n侵食してしまう…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_018_5_0",
+    "original": "…なーんてことも、あるかもしれません。",
+    "translation": "…なーんてことも、あるかもしれません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "あの得体の知れねぇ映画館が、\n現実にも現れるってことか…？",
+    "translation": "あの得体の知れねぇ映画館が、\n現実にも現れるってことか…？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "死んだ目のまま閉じこもった奴が、\n世の中に溢れるのか…",
+    "translation": "死んだ目のまま閉じこもった奴が、\n世の中に溢れるのか…",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "想像しただけで、ロクな話じゃないな。",
+    "translation": "想像しただけで、ロクな話じゃないな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "私と同じ思いをする人なんて、\nこれ以上、もう出したくない…",
+    "translation": "私と同じ思いをする人なんて、\nこれ以上、もう出したくない…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "うん…絶対、そんなことさせない！\n私たちで止めよう！",
+    "translation": "うん…絶対、そんなことさせない！\n私たちで止めよう！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "最後の戦いに向けて、態勢を整えよう。\n準備ができ次第、出発だ。",
+    "translation": "最後の戦いに向けて、態勢を整えよう。\n準備ができ次第、出発だ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

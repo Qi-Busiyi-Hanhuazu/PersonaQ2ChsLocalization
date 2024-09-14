@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なあ、お祭りの『イースターエッグ』って\nマジで普通のタマゴなの？",
+    "translation": "なあ、お祭りの『イースターエッグ』って\nマジで普通のタマゴなの？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "本物のゆで卵だったり、卵型の入れ物に\nお菓子が入ってたり、色々かな。",
+    "translation": "本物のゆで卵だったり、卵型の入れ物に\nお菓子が入ってたり、色々かな。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "確か、皇帝に献上されたっていう\nすごい有名なものもあるよね。",
+    "translation": "確か、皇帝に献上されたっていう\nすごい有名なものもあるよね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "聞いたことがあります。\nインペリアル・イースターエッグですね。",
+    "translation": "聞いたことがあります。\nインペリアル・イースターエッグですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "色とりどりの装飾が施され、\n最低でも数億の値がつくとか。",
+    "translation": "色とりどりの装飾が施され、\n最低でも数億の値がつくとか。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "オク！？　それマジ！？",
+    "translation": "オク！？　それマジ！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あるいはそのうちの１つがここに…\nなんて夢がありますね、フフ。",
+    "translation": "あるいはそのうちの１つがここに…\nなんて夢がありますね、フフ。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うおおお！\nタマゴ探してオレっちミリオネア侍！",
+    "translation": "うおおお！\nタマゴ探してオレっちミリオネア侍！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "でもここＳＦ世界だぞ？\n関係なさそうだけどな～。",
+    "translation": "でもここＳＦ世界だぞ？\n関係なさそうだけどな～。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "…って、もう聞こえてないか。",
+    "translation": "…って、もう聞こえてないか。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "待っててエッグちゃん！\n矢印たどって、いま行くぜ！",
+    "translation": "待っててエッグちゃん！\n矢印たどって、いま行くぜ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

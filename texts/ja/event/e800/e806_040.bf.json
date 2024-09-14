@@ -1,0 +1,429 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ここだね。",
+    "translation": "ここだね。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "よし、早速探すとしよう。",
+    "translation": "よし、早速探すとしよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "見つからないわね…",
+    "translation": "見つからないわね…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ちょっと休憩にしねぇ？\n腰痛くなってきたわ。",
+    "translation": "ちょっと休憩にしねぇ？\n腰痛くなってきたわ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "スカル、じじくせー。",
+    "translation": "スカル、じじくせー。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うるせー！\nそれぐらい気合入れて探してたんだっての！",
+    "translation": "うるせー！\nそれぐらい気合入れて探してたんだっての！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "だが、やみくもに探しても\n仕方ないしな。",
+    "translation": "だが、やみくもに探しても\n仕方ないしな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "ワガハイも手が冷たくなってきたぜ。",
+    "translation": "ワガハイも手が冷たくなってきたぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "休憩にしよう",
+    "translation": "休憩にしよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "気合いが足りない",
+    "translation": "気合いが足りない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_2",
+    "original": "ちょっと泳いでくる",
+    "translation": "ちょっと泳いでくる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "急にスパルタになったな！",
+    "translation": "急にスパルタになったな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "気合だけでは、アンモナイトは\n見つけられないと思いますけど…",
+    "translation": "気合だけでは、アンモナイトは\n見つけられないと思いますけど…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "じゃ、ここは素直に休憩ってことで！",
+    "translation": "じゃ、ここは素直に休憩ってことで！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ちょ、どういう休憩方法！？",
+    "translation": "ちょ、どういう休憩方法！？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "落ち着け。",
+    "translation": "落ち着け。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ここは、素直に体を休めたほうが\nいいと思うよ。",
+    "translation": "ここは、素直に体を休めたほうが\nいいと思うよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "休憩か…",
+    "translation": "休憩か…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "俺はもう少しここを探してみる。\nみんなは先に休んでいてくれ。",
+    "translation": "俺はもう少しここを探してみる。\nみんなは先に休んでいてくれ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "おっと、無理はいかんですよ？",
+    "translation": "おっと、無理はいかんですよ？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "この程度、無理のうちにも入らんさ。",
+    "translation": "この程度、無理のうちにも入らんさ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "三日間、食料をもやしと野草だけで\n過ごしたあのときのほうがよほど…",
+    "translation": "三日間、食料をもやしと野草だけで\n過ごしたあのときのほうがよほど…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "どんな状況だよ！？　無人島か！",
+    "translation": "どんな状況だよ！？　無人島か！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "私も、もう少し探してみてもいいかな？",
+    "translation": "私も、もう少し探してみてもいいかな？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "およ！？　ユキチャンもやる気クマ！",
+    "translation": "およ！？　ユキチャンもやる気クマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "まー、この辺りはシャドウもいない\nみたいだけど、ほどほどになー。",
+    "translation": "まー、この辺りはシャドウもいない\nみたいだけど、ほどほどになー。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "やっぱり、なかなか見つからないね。\nそっちは…フォックス？",
+    "translation": "やっぱり、なかなか見つからないね。\nそっちは…フォックス？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "こちらも、ダメだ…",
+    "translation": "こちらも、ダメだ…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "二人とも、一旦休憩しましょう。\nさすがに体力がもたないわよ。",
+    "translation": "二人とも、一旦休憩しましょう。\nさすがに体力がもたないわよ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ここら辺にはいないようですね。\nとなると、別の水場を探してみましょうか。",
+    "translation": "ここら辺にはいないようですね。\nとなると、別の水場を探してみましょうか。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "だな。\nま、二人をちょっと休ませてからな。",
+    "translation": "だな。\nま、二人をちょっと休ませてからな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "俺のワガママに\n皆を付き合わせてしまって…申し訳ない。",
+    "translation": "俺のワガママに\n皆を付き合わせてしまって…申し訳ない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_027_0",
+    "original": "気にするな",
+    "translation": "気にするな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_027_1",
+    "original": "慣れてる",
+    "translation": "慣れてる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_027_2",
+    "original": "お返しを期待してる",
+    "translation": "お返しを期待してる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "そうだよ。フォックスがそこまで言う\n天城さんの絵、私も見たいし。",
+    "translation": "そうだよ。フォックスがそこまで言う\n天城さんの絵、私も見たいし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "だな。むしろそんな風に言われると\n調子狂うぞ。",
+    "translation": "だな。むしろそんな風に言われると\n調子狂うぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "そうね。その分、しっかり働きで\n返してもらおうかしら…なんてね。",
+    "translation": "そうね。その分、しっかり働きで\n返してもらおうかしら…なんてね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "フッ、俺は良い仲間を持ったようだな…",
+    "translation": "フッ、俺は良い仲間を持ったようだな…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ん？　何か言ったか？",
+    "translation": "ん？　何か言ったか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "いや…それで、次の水場のアテは？",
+    "translation": "いや…それで、次の水場のアテは？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ここから近いのは北西だな。",
+    "translation": "ここから近いのは北西だな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "よし、行くぞ！",
+    "translation": "よし、行くぞ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "…と思ったが空腹で力が入らん。",
+    "translation": "…と思ったが空腹で力が入らん。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "ほら、クッキーとか持って来たから、\nちょっと休んで。天城さんもね？",
+    "translation": "ほら、クッキーとか持って来たから、\nちょっと休んで。天城さんもね？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "あ、うん。ありがとう。",
+    "translation": "あ、うん。ありがとう。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "んじゃ、一休みしたら、\n北西の水場に行くぞ！",
+    "translation": "んじゃ、一休みしたら、\n北西の水場に行くぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

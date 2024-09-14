@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "この辺り、採取できそうね。\nどうする？",
+    "translation": "この辺り、採取できそうね。\nどうする？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そうね。\n周りに気をつけていきましょう。",
+    "translation": "そうね。\n周りに気をつけていきましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "了解。\nじゃあ、始めましょうか。",
+    "translation": "了解。\nじゃあ、始めましょうか。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そう？\nじゃあ、後にしましょうか。",
+    "translation": "そう？\nじゃあ、後にしましょうか。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全部かしら？",
+    "translation": "これで全部かしら？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うん！",
+    "translation": "うん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いいわね。",
+    "translation": "いいわね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うんうん。",
+    "translation": "うんうん。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ふぅ…油断大敵ね。\n採取はここまでにしましょうか。",
+    "translation": "ふぅ…油断大敵ね。\n採取はここまでにしましょうか。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "やったわ！",
+    "translation": "やったわ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "凄いわ！",
+    "translation": "凄いわ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "レアものよ！",
+    "translation": "レアものよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットね。\nどうする？",
+    "translation": "ショートカットね。\nどうする？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないのね。\n反対側を調べましょう。",
+    "translation": "こっちは通れないのね。\n反対側を調べましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "とてつもなく危険な気配がするわ…\nどうする？　ジョーカー？",
+    "translation": "とてつもなく危険な気配がするわ…\nどうする？　ジョーカー？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かったわ。\n気を抜かずに調べましょう。",
+    "translation": "分かったわ。\n気を抜かずに調べましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうね。\n止めておきましょう。",
+    "translation": "そうね。\n止めておきましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "かなり強い敵だったわね…",
+    "translation": "かなり強い敵だったわね…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "なんだかシャドウの気配が多いわね。\n大丈夫かしら？",
+    "translation": "なんだかシャドウの気配が多いわね。\n大丈夫かしら？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "分かったわ。\n調べてみましょう。",
+    "translation": "分かったわ。\n調べてみましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうね。\n止めておきましょう。",
+    "translation": "そうね。\n止めておきましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "本当にシャドウが出たわね…\nこれで終わりかしら？",
+    "translation": "本当にシャドウが出たわね…\nこれで終わりかしら？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから映画館に戻れるわね。\nどうする？",
+    "translation": "ここから映画館に戻れるわね。\nどうする？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  }
+]

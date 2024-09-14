@@ -1,0 +1,527 @@
+[
+  {
+    "key": "JUNPEI_FOE_FOLLOW_START__0",
+    "original": "げげっ、Ｆ．Ｏ．Ｅじゃん！",
+    "translation": "げげっ、Ｆ．Ｏ．Ｅじゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_FOE_FOLLOW_START__2_0",
+    "original": "Ｆ．Ｏ．Ｅが追ってきてんぞ！？",
+    "translation": "Ｆ．Ｏ．Ｅが追ってきてんぞ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_FOE_FOLLOW_START__3_0",
+    "original": "まじかよ！\nＦ．Ｏ．Ｅこっち来てんじゃん！",
+    "translation": "まじかよ！\nＦ．Ｏ．Ｅこっち来てんじゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_FOE_NEAR_1_0",
+    "original": "やべっ、Ｆ．Ｏ．Ｅいるじゃん！",
+    "translation": "やべっ、Ｆ．Ｏ．Ｅいるじゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_FOE_NEAR_2_0",
+    "original": "見るなよ～こっち見るなよ～。",
+    "translation": "見るなよ～こっち見るなよ～。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_FOE_NEAR_3_0",
+    "original": "見つからないように、コッソリな。",
+    "translation": "見つからないように、コッソリな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_FOE_FOLLOW_END_1_0",
+    "original": "よっしゃ、なんとか撒いたみてーだな。",
+    "translation": "よっしゃ、なんとか撒いたみてーだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_FOE_FOLLOW_END_2_0",
+    "original": "あんなのと律儀に\nやりあえるかってーの。",
+    "translation": "あんなのと律儀に\nやりあえるかってーの。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_FOE_FOLLOW_END_3_0",
+    "original": "伊織順平はＦ．Ｏ．Ｅから逃げ切った！",
+    "translation": "伊織順平はＦ．Ｏ．Ｅから逃げ切った！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_KANSI_REACTION_1_0",
+    "original": "しーっ！　慎重にな。",
+    "translation": "しーっ！　慎重にな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_KANSI_REACTION_2_0",
+    "original": "ニンジャ伊織順平、参る！",
+    "translation": "ニンジャ伊織順平、参る！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_KANSI_REACTION_3_0",
+    "original": "うへ、なんかキンチョーするな…",
+    "translation": "うへ、なんかキンチョーするな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_DENKISAKU_REACTIO_0",
+    "original": "さすがに通れなさそうだなー…",
+    "translation": "さすがに通れなさそうだなー…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_DENKISAKU_REACTIO_2_0",
+    "original": "電流止めるスイッチ、\nどっかにあるかも？",
+    "translation": "電流止めるスイッチ、\nどっかにあるかも？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_DENKISAKU_REACTIO_3_0",
+    "original": "新手の健康療法？　お先にどーぞ！",
+    "translation": "新手の健康療法？　お先にどーぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_KYOUHU_REACTION_1_0",
+    "original": "飛びます飛びまーす。",
+    "translation": "飛びます飛びまーす。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_KYOUHU_REACTION_2_0",
+    "original": "うぉい！？",
+    "translation": "うぉい！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_KYOUHU_REACTION_3_0",
+    "original": "うそぉ～ん！？",
+    "translation": "うそぉ～ん！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_STAIR_FIND_1_0",
+    "original": "お、あそこにあるの階段じゃね？",
+    "translation": "お、あそこにあるの階段じゃね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_STAIR_FIND_2_0",
+    "original": "次のエリア行けそうだな。どーすんの？",
+    "translation": "次のエリア行けそうだな。どーすんの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_STAIR_FIND_3_0",
+    "original": "前方に見えますのは、\n階段でございまぁす♪",
+    "translation": "前方に見えますのは、\n階段でございまぁす♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_TREASURE_FIND_1_0",
+    "original": "宝箱発見～！",
+    "translation": "宝箱発見～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_TREASURE_FIND_2_0",
+    "original": "ん？　あれ、宝箱じゃね？",
+    "translation": "ん？　あれ、宝箱じゃね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_TREASURE_FIND_3_0",
+    "original": "オタカラー、だっけ？",
+    "translation": "オタカラー、だっけ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_CHECK_WALL_1_0",
+    "original": "な～んかあの辺り匂うよな～。",
+    "translation": "な～んかあの辺り匂うよな～。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_CHECK_WALL_2_0",
+    "original": "オイ、ちょっと調べてみよーぜ。",
+    "translation": "オイ、ちょっと調べてみよーぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_CHECK_WALL_3_0",
+    "original": "あそこ、何かない？　あるよな？",
+    "translation": "あそこ、何かない？　あるよな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_SWITCH_FIND_1_0",
+    "original": "テッテテーン！　スイッチ発見！",
+    "translation": "テッテテーン！　スイッチ発見！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_SWITCH_FIND_2_0",
+    "original": "スイッチ、はっけ～ん！",
+    "translation": "スイッチ、はっけ～ん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_SWITCH_FIND_3_0",
+    "original": "お、スイッチ発見！",
+    "translation": "お、スイッチ発見！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_SHORTCUT_FIND_1_0",
+    "original": "おっ、通れそうなトコ、はっけ～ん！",
+    "translation": "おっ、通れそうなトコ、はっけ～ん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_SHORTCUT_FIND_2_0",
+    "original": "なあ、あそこ近道できそうだぜ。",
+    "translation": "なあ、あそこ近道できそうだぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_SHORTCUT_FIND_3_0",
+    "original": "おい、そこ通れそうだぜ！",
+    "translation": "おい、そこ通れそうだぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_FOE_WARNING_NEAR__0",
+    "original": "げっ、\nあのＦ．Ｏ．Ｅまだ追ってきてる！",
+    "translation": "げっ、\nあのＦ．Ｏ．Ｅまだ追ってきてる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_FOE_WARNING_NEAR__2_0",
+    "original": "まだ来んのかよ！？\nしつこいヤローはもてねーぞ！",
+    "translation": "まだ来んのかよ！？\nしつこいヤローはもてねーぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_FOE_WARNING_NEAR__3_0",
+    "original": "Ｆ．Ｏ．Ｅが仲間になりたそうに…\nって、こっち見んな！",
+    "translation": "Ｆ．Ｏ．Ｅが仲間になりたそうに…\nって、こっち見んな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_1PERSON_HPTP10_1_0",
+    "original": "もー無理…",
+    "translation": "もー無理…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_1PERSON_HPTP10_2_0",
+    "original": "体力も気力もない。\n順平は大ピンチである！",
+    "translation": "体力も気力もない。\n順平は大ピンチである！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_1PERSON_HPTP10_3_0",
+    "original": "わりー、もう動けない。\n助けてくれー。",
+    "translation": "わりー、もう動けない。\n助けてくれー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_1PERSON_HP10_1_0",
+    "original": "体力やべー…",
+    "translation": "体力やべー…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_1PERSON_HP10_2_0",
+    "original": "一生のお願い！　回復して！",
+    "translation": "一生のお願い！　回復して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_1PERSON_HP10_3_0",
+    "original": "体力赤ゲージって感じ…\n回復してくれー。",
+    "translation": "体力赤ゲージって感じ…\n回復してくれー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_1PERSON_TP10_1_0",
+    "original": "うおー…気力やべーかも。",
+    "translation": "うおー…気力やべーかも。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_1PERSON_TP10_2_0",
+    "original": "やっべ、気力もたなくなってきたわ…",
+    "translation": "やっべ、気力もたなくなってきたわ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_1PERSON_TP10_3_0",
+    "original": "わり、ガス欠だわ…\nつっかれた…",
+    "translation": "わり、ガス欠だわ…\nつっかれた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_1PERSON_HP80_1_0",
+    "original": "うーん。　楽勝って感じ？",
+    "translation": "うーん。　楽勝って感じ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_1PERSON_HP80_2_0",
+    "original": "ヒーローは必ず勝ーつ！",
+    "translation": "ヒーローは必ず勝ーつ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_1PERSON_HP80_3_0",
+    "original": "さっすがオレ！\nやったぜオレ！",
+    "translation": "さっすがオレ！\nやったぜオレ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_DUNGEON_START_1_0",
+    "original": "いっちょやりますかー。",
+    "translation": "いっちょやりますかー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_DUNGEON_START_2_0",
+    "original": "よーし、行くか。",
+    "translation": "よーし、行くか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_DUNGEON_START_3_0",
+    "original": "行くぜ、オレっち！",
+    "translation": "行くぜ、オレっち！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_QUEST_START_1_0",
+    "original": "パパッと片付けちまおうぜ。",
+    "translation": "パパッと片付けちまおうぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_QUEST_START_2_0",
+    "original": "ヒーローに任せなさい！",
+    "translation": "ヒーローに任せなさい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_QUEST_START_3_0",
+    "original": "オレっちにかかれば楽勝だぜ！",
+    "translation": "オレっちにかかれば楽勝だぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_TOUHA_25_1_0",
+    "original": "まだ先は長いなー。\n体力には気をつけろよ？",
+    "translation": "まだ先は長いなー。\n体力には気をつけろよ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_TOUHA_25_2_0",
+    "original": "うっへ、まだこんなあんのか…",
+    "translation": "うっへ、まだこんなあんのか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_TOUHA_50_1_0",
+    "original": "ちょうど半分って感じ？",
+    "translation": "ちょうど半分って感じ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_TOUHA_50_2_0",
+    "original": "お、いい感じに埋まってきてるじゃん！",
+    "translation": "お、いい感じに埋まってきてるじゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_TOUHA_75_1_0",
+    "original": "お、けっこー埋まってきたじゃん！",
+    "translation": "お、けっこー埋まってきたじゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_TOUHA_75_2_0",
+    "original": "残りの場所、\n全部安地でありますよーにっ！",
+    "translation": "残りの場所、\n全部安地でありますよーにっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_TOUHA_100_1_0",
+    "original": "ジャジャーン！　地図が完成した！\nお疲れ！",
+    "translation": "ジャジャーン！　地図が完成した！\nお疲れ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_TOUHA_100_2_0",
+    "original": "マッピング、お疲れさん！",
+    "translation": "マッピング、お疲れさん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_MAPPING_ICON_ALL__0",
+    "original": "お、正解！",
+    "translation": "お、正解！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_MAPPING_ICON_ALL__2_0",
+    "original": "記憶力いいねぇ～感心、感心。",
+    "translation": "記憶力いいねぇ～感心、感心。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_MAPPING_ICON_KAID_0",
+    "original": "そうそう、そんな感じ！",
+    "translation": "そうそう、そんな感じ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_MAPPING_ICON_KAID_2_0",
+    "original": "ぴんぽーん！　当ったりー。",
+    "translation": "ぴんぽーん！　当ったりー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_MAPPING_CHANGE_CO_0",
+    "original": "気分変わっていいじゃん。",
+    "translation": "気分変わっていいじゃん。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_MAPPING_CHANGE_CO_2_0",
+    "original": "お前、けっこーマメなんだな。",
+    "translation": "お前、けっこーマメなんだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_MAPPING_ICON_DEL__0",
+    "original": "潔く捨てるその姿…惚れちまうぜ。",
+    "translation": "潔く捨てるその姿…惚れちまうぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_MAPPING_ICON_DEL__2_0",
+    "original": "それを捨てるなんてとんでもない！\nな～んてな。",
+    "translation": "それを捨てるなんてとんでもない！\nな～んてな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_MAPPING_MEMO_1_0",
+    "original": "オレっちのサインも…え？　いらない？",
+    "translation": "オレっちのサインも…え？　いらない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_MAPPING_MEMO_2_0",
+    "original": "はー、便利だねぇ～。",
+    "translation": "はー、便利だねぇ～。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_DOOR_OPEN_1_0",
+    "original": "おっさきー。",
+    "translation": "おっさきー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_DOOR_OPEN_2_0",
+    "original": "行くぜー！",
+    "translation": "行くぜー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "JUNPEI_DOOR_OPEN_3_0",
+    "original": "よっしゃ、行こうぜ！",
+    "translation": "よっしゃ、行こうぜ！",
+    "stage": 1,
+    "context": ""
+  }
+]

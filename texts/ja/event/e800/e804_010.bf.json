@@ -1,0 +1,289 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "今回の特別上映では皆さんに\nあるミッションを遂行して頂きます。",
+    "translation": "今回の特別上映では皆さんに\nあるミッションを遂行して頂きます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ミッション？",
+    "translation": "ミッション？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "私が指定する場所に到達して\n頂きたいのです。",
+    "translation": "私が指定する場所に到達して\n頂きたいのです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "…およ？　それだけ？\nなんだメッチャ簡単じゃん。",
+    "translation": "…およ？　それだけ？\nなんだメッチャ簡単じゃん。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ところがどっこい、そうは問屋が\n卸さないのが世の常でございます。",
+    "translation": "ところがどっこい、そうは問屋が\n卸さないのが世の常でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "何だって！？",
+    "translation": "何だって！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "知ってた",
+    "translation": "知ってた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_2",
+    "original": "問題ない",
+    "translation": "問題ない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いや、何となく予想できただろ。",
+    "translation": "いや、何となく予想できただろ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "だからって落ちつきすぎだろ…",
+    "translation": "だからって落ちつきすぎだろ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "さっすが…\n落ちついてんな…",
+    "translation": "さっすが…\n落ちついてんな…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "どういうわけか、むこうの組織に\nこちらの計画が漏れていたらしく…",
+    "translation": "どういうわけか、むこうの組織に\nこちらの計画が漏れていたらしく…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "セキュリティレベルはＭＡＸ。",
+    "translation": "セキュリティレベルはＭＡＸ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_2",
+    "original": "サーチライトも警備の体制も\n気合メガ盛りでございます。",
+    "translation": "サーチライトも警備の体制も\n気合メガ盛りでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "うへぇ…聞くからにメンドそう…",
+    "translation": "うへぇ…聞くからにメンドそう…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "これって…",
+    "translation": "これって…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "うん！　ピッタシだよ！",
+    "translation": "うん！　ピッタシだよ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "サーチライトをかいくぐるとか、\nめっちゃ怪盗してる！",
+    "translation": "サーチライトをかいくぐるとか、\nめっちゃ怪盗してる！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "アイツら盛り上がってるっぽいけど…\nどうかしたのか？",
+    "translation": "アイツら盛り上がってるっぽいけど…\nどうかしたのか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_014_0",
+    "original": "やる気がある",
+    "translation": "やる気がある",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_1",
+    "original": "仲がいいんだ",
+    "translation": "仲がいいんだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_2",
+    "original": "こっちも負けてらんないな",
+    "translation": "こっちも負けてらんないな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "まあ、それならいいけどよ。",
+    "translation": "まあ、それならいいけどよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "つか、あの二人ってなんか\n珍しい組み合わせだな。",
+    "translation": "つか、あの二人ってなんか\n珍しい組み合わせだな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "まあ、それならいいけどよ。\nあの二人って、あんなに近かったっけ？",
+    "translation": "まあ、それならいいけどよ。\nあの二人って、あんなに近かったっけ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "なんで張り合うんだよ！",
+    "translation": "なんで張り合うんだよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "そうじゃなくて、あの二人ってなんか\n珍しい組み合わせだと思わねえ？",
+    "translation": "そうじゃなくて、あの二人ってなんか\n珍しい組み合わせだと思わねえ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "たしかに、二人とも接点ないっつーか、\n別タイプに見えるモンな。",
+    "translation": "たしかに、二人とも接点ないっつーか、\n別タイプに見えるモンな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "かたや都会のスイーツガール、\nかたや田舎のミートガール…",
+    "translation": "かたや都会のスイーツガール、\nかたや田舎のミートガール…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "みんな違ってみんなぷりちー！\nどっちもたまらんクマ！",
+    "translation": "みんな違ってみんなぷりちー！\nどっちもたまらんクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "おーい、何ぐずぐずしてんの？",
+    "translation": "おーい、何ぐずぐずしてんの？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "置いてくぞよ！",
+    "translation": "置いてくぞよ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "すげーやる気っスね…\n俺たちも行きましょう。",
+    "translation": "すげーやる気っスね…\n俺たちも行きましょう。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  }
+]

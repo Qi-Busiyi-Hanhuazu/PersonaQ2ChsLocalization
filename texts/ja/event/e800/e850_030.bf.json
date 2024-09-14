@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふー、やった…",
+    "translation": "ふー、やった…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "見事だ、[P3P姓]。\n皆に勇気を与える戦いぶりだった。",
+    "translation": "見事だ、[P3P姓]。\n皆に勇気を与える戦いぶりだった。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ありがとうございます、美鶴先輩！\n夢中だっただけなんですけど。",
+    "translation": "ありがとうございます、美鶴先輩！\n夢中だっただけなんですけど。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_1_0",
+    "original": "ジョーカーもありがとう。\n普段どおりの力が出せたよ。",
+    "translation": "ジョーカーもありがとう。\n普段どおりの力が出せたよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あっ、これ…",
+    "translation": "あっ、これ…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "足元に何かが落ちている…",
+    "translation": "足元に何かが落ちている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "よかった、私のときだけ無かったら\nどうしようかと思っちゃった。",
+    "translation": "よかった、私のときだけ無かったら\nどうしようかと思っちゃった。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_1_0",
+    "original": "やっぱり不思議な雰囲気…\n君に渡しておくね。",
+    "translation": "やっぱり不思議な雰囲気…\n君に渡しておくね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "『煤けたフィルム』を手に入れた！",
+    "translation": "『煤けたフィルム』を手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "それじゃ、帰ろうか。\nエリザベスがきっと待ってるから。",
+    "translation": "それじゃ、帰ろうか。\nエリザベスがきっと待ってるから。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

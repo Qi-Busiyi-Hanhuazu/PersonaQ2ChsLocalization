@@ -1,0 +1,247 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "オタカラスポットだよ！\n採っていく？",
+    "translation": "是藏宝地点呢！\n要挖吗？",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n是宝物地点啊！\n要采吗？\n\n是宝物景点哦！\n采摘？\n\n是藏宝地哦！\n采走？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん！\n気をつけて探そっか！",
+    "translation": "嗯！\n小心点采集吧！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n嗯！\n小心地找吧！\n\n嗯！\n小心寻找吧！\n\n嗯！要小心找啊！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そうと決まったら、\nいっぱい採っちゃお！",
+    "translation": "既然决定了，\n接下来就专心采集吧！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n既然决定了，\n就采个够吧！\n\n如果那样决定了，\n大量采！\n\n既然决定了，就多采些！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "止めとくんだね、了解！",
+    "translation": "先暂停吗，知道了！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n还是别采吧，了解！\n\n停止吧，了解！\n\n你阻止我了，明白了！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あるものは全部、採れたみたい！",
+    "translation": "能采的好像已经全部采集完了！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n有的东西好像都采完了！\n\n有的东西全部，好像被采了！\n\n有的好像全部被采了下来！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "アイテムゲット！",
+    "translation": "获得物品！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n获得道具！\n\n道具入手！\n\n单品入手！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いい感じだね。",
+    "translation": "感觉不错呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n感觉不错呢。\n\n感觉不错。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "イエイ！",
+    "translation": "耶！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n耶！\n\n不！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "戦闘終了！\nこれで終わりかな？",
+    "translation": "战斗结束！\n这样就结束了？",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n战斗结束！\n这样就结束了吗？\n\n战斗结束！\n这就结束了吗？"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "レアだよ！",
+    "translation": "是稀有物品呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好稀有哦！\n\n很稀有哦！\n\n是稀有的！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "すごーい！",
+    "translation": "好厉害——！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好厉害——！\n\n好厉害！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "やった！",
+    "translation": "太好了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太棒了！\n\n太好了！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカット発見！\n通っておく？",
+    "translation": "发现捷径喽！\n要走吗？",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n发现捷径了！\n要走吗？\n\n发现快捷方式！\n通过？\n\n发现快捷方式！\n事先通过？"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ショートカット発見！\n通っておく？",
+    "translation": "发现捷径喽！\n要走吗？",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n发现捷径了！\n要走吗？\n\n发现快捷方式！\n通过？\n\n发现快捷方式！\n事先通过？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないんだね。\n反対側を調べてみよ！",
+    "translation": "这边过不去呢。\n去对面看看吧！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n这边过不去呢。\n调查一下另一边吧！\n\n这边过不去啊。\n调查一下另一侧吧！\n\n这边不能通过啊。\n试着调查反面！"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ちょ、ちょっと！\nヤバい気配がするよ、気をつけて！",
+    "translation": "等、等一下！\n感觉有点危险，小心点！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n等、等一下！\n有很危险的气息，小心点！\n\n等、等一下！\n有危险的迹象，小心！\n\n喂、喂！\n感觉很糟糕，小心！"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かった。\n精一杯、サポートするね！",
+    "translation": "知道了。\n我会全力支援的！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n知道了。\n我会尽全力支援你的！\n\n我知道了。\n我会竭尽全力支持你的！"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだね。\n止めておいたほうが良いかも…",
+    "translation": "说得对呢。\n也许还是停下来比较好……",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n是啊。\n还是别采比较好……\n\n是啊。\n也许还是停止比较好……\n\n是啊。\n也许阻止比较好……"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "だ、大丈夫だった！？\nかなり強かったね…お疲れさま！",
+    "translation": "没、没事吧！？\n真是个强敌呢……辛苦了！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n没、没问题吗！？\n相当强呢……辛苦了！\n\n没关系！？\n很强呢……辛苦了！\n\n没关系的！？\n相当厉害呢……辛苦了！"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "シャドウの気配、多数アリだよ！\n調べるなら気をつけてね！",
+    "translation": "暗影的气息，而且有很多！\n要调查的话一定要小心哦！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n有好几个暗影的气息！\n调查的时候要小心哦！\n\n暗影的气息，多数是蚂蚁哟！\n要查的话要注意哦！\n\n暗影的气息，有很多哟！\n要查的话要小心哦！"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "分かった、気をつけてね！",
+    "translation": "知道了，注意安全哦！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n知道了，小心点哦！\n\n知道了，要小心哦！\n\n好的，小心点！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "了解！",
+    "translation": "知道了！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n了解！\n\n明白！"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "みんな、お疲れ様！",
+    "translation": "大家，辛苦了！",
+    "stage": 0,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n大家，辛苦了！\n\n大家辛苦了！"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "そこから映画館に戻れるよ！\n戻ってくる？",
+    "translation": "可以从那里回电影院哦！\n要回来吗？",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n可以从那边回到电影院哦！\n要回来吗？\n\n从那里可以回到电影院！\n回来？\n\n从那里可以回到电影院哦！\n会回来吗？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

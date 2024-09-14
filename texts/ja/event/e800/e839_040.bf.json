@@ -1,0 +1,429 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "えーっと、印ってこの辺り…だよな？",
+    "translation": "えーっと、印ってこの辺り…だよな？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "つか、お花ちゃんいるじゃん。\n野郎ども、突撃取材開始だ！",
+    "translation": "つか、お花ちゃんいるじゃん。\n野郎ども、突撃取材開始だ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "なあ、俺ら『黒い何か』っての探してんだ。\nこの辺で見かけなかったか？",
+    "translation": "なあ、俺ら『黒い何か』っての探してんだ。\nこの辺で見かけなかったか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おやおやみなさま、お揃いで。\n『黒い何か』をお探しで？",
+    "translation": "おやおやみなさま、お揃いで。\n『黒い何か』をお探しで？",
+    "stage": 1,
+    "context": "甲高い声の花"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "それならよーく知ってるわ。\n『黒い何か』は家の中。",
+    "translation": "それならよーく知ってるわ。\n『黒い何か』は家の中。",
+    "stage": 1,
+    "context": "微笑んでいる花"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "ルルル…扉の向こうの家の中。\nラララ…塞がれた道にたたずむ家の中。",
+    "translation": "ルルル…扉の向こうの家の中。\nラララ…塞がれた道にたたずむ家の中。",
+    "stage": 1,
+    "context": "微笑んでいる花"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おお、扉の向こうにある『家』か。\nで、『塞がれた道』…？",
+    "translation": "おお、扉の向こうにある『家』か。\nで、『塞がれた道』…？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "もしかして、特別上映んときにできる\n行き止まりのことじゃね？",
+    "translation": "もしかして、特別上映んときにできる\n行き止まりのことじゃね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "おし、そこまで分かりゃ楽勝だ！\nソッコー行ってみようぜ！",
+    "translation": "おし、そこまで分かりゃ楽勝だ！\nソッコー行ってみようぜ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "…けれど、けれどね、気をつけて。",
+    "translation": "…けれど、けれどね、気をつけて。",
+    "stage": 1,
+    "context": "甲高い声の花"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "『黒い何か』を独り占め。\n家にはアイツが待ってるわ。",
+    "translation": "『黒い何か』を独り占め。\n家にはアイツが待ってるわ。",
+    "stage": 1,
+    "context": "甲高い声の花"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "『黒い何か』は渡さない。\n怖～いアイツが待ってるわ。",
+    "translation": "『黒い何か』は渡さない。\n怖～いアイツが待ってるわ。",
+    "stage": 1,
+    "context": "微笑んでいる花"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "えっ…！？",
+    "translation": "えっ…！？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "どうやら、その『黒い何か』を\n手に入れるには危険が伴うようだな。",
+    "translation": "どうやら、その『黒い何か』を\n手に入れるには危険が伴うようだな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "シャドウが待ち構えてる…とか？\n戦いは避けられないかもね。",
+    "translation": "シャドウが待ち構えてる…とか？\n戦いは避けられないかもね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そっか…\nやっぱり、やめた方が…",
+    "translation": "そっか…\nやっぱり、やめた方が…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "SEL_013_0",
+    "original": "諦めるのか？",
+    "translation": "諦めるのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_013_1",
+    "original": "怖いのか？",
+    "translation": "怖いのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "うん…私なんかのために\nみんなを危ない目に遭わせられないよ。",
+    "translation": "うん…私なんかのために\nみんなを危ない目に遭わせられないよ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ううん…みんながいるから平気だよ。",
+    "translation": "ううん…みんながいるから平気だよ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "でも、私なんかのために\nみんなを危ない目に遭わせられないよ。",
+    "translation": "でも、私なんかのために\nみんなを危ない目に遭わせられないよ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ラーラララー、オレっちが～♪\nひかりんのために、エンヤコラ～♪",
+    "translation": "ラーラララー、オレっちが～♪\nひかりんのために、エンヤコラ～♪",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "なーに下向いてんだ、ひかりん！\n伊織順平ウィズ特別課外活動部に任せとけ！",
+    "translation": "なーに下向いてんだ、ひかりん！\n伊織順平ウィズ特別課外活動部に任せとけ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "そうそう、探してやるって約束したろ？",
+    "translation": "そうそう、探してやるって約束したろ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "全てはお客様の笑顔のために！\nジュネスで鍛えたおもてなし、ってな！",
+    "translation": "全てはお客様の笑顔のために！\nジュネスで鍛えたおもてなし、ってな！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "伊織くん、花村くん…",
+    "translation": "伊織くん、花村くん…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "へへ、こんだけのメンツ揃ってるし、\nシャドウとか一発でブッ飛ばせるって。",
+    "translation": "へへ、こんだけのメンツ揃ってるし、\nシャドウとか一発でブッ飛ばせるって。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "怪盗団は困ってるヤツ放っとけねえんだ。\nだよな、ジョーカー？",
+    "translation": "怪盗団は困ってるヤツ放っとけねえんだ。\nだよな、ジョーカー？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_020_0",
+    "original": "その通りだ",
+    "translation": "その通りだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_020_1",
+    "original": "任せたぞ",
+    "translation": "任せたぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "おう、張り切ってこうぜ。\n何っつっても、仲間からの『依頼』だからな。",
+    "translation": "おう、張り切ってこうぜ。\n何っつっても、仲間からの『依頼』だからな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "おうよ、張り切ってくぜ。\n何つっても、仲間からの『依頼』だからな。",
+    "translation": "おうよ、張り切ってくぜ。\n何つっても、仲間からの『依頼』だからな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "仲間…",
+    "translation": "仲間…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "ありがとう、すごく嬉しい。\nそれじゃあ、よろしくお願いします。",
+    "translation": "ありがとう、すごく嬉しい。\nそれじゃあ、よろしくお願いします。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ルールルー、それでは出発よ～♪",
+    "translation": "ルールルー、それでは出発よ～♪",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "オレっちに続け！\n頭が太陽くんとダメバイトくん！",
+    "translation": "オレっちに続け！\n頭が太陽くんとダメバイトくん！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "へっ、仕切ってんじゃねーぞ、\n怪しいヒゲのオッサン。",
+    "translation": "へっ、仕切ってんじゃねーぞ、\n怪しいヒゲのオッサン。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "華麗なトークスキル炸裂で、\n瞬殺だったもんな、自分が。",
+    "translation": "華麗なトークスキル炸裂で、\n瞬殺だったもんな、自分が。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "それは忘れてくれたまえ、諸君！\nオレっちここから本気だーす！",
+    "translation": "それは忘れてくれたまえ、諸君！\nオレっちここから本気だーす！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "ほらほら行くぜ、ひかりん！",
+    "translation": "ほらほら行くぜ、ひかりん！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "うん！",
+    "translation": "うん！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "まったく、調子いいんだから。\nてかあの三人、あんなに仲良かったっけ？",
+    "translation": "まったく、調子いいんだから。\nてかあの三人、あんなに仲良かったっけ？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "あはは、お調子者同士、\nなんか波長が合うのかもね。",
+    "translation": "あはは、お調子者同士、\nなんか波長が合うのかもね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "でもいいんじゃない？\nヤル気になってるのは間違いないし。",
+    "translation": "でもいいんじゃない？\nヤル気になってるのは間違いないし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "チョーシに乗りすぎて、\nズッコケ王子にならなきゃいいけど。",
+    "translation": "チョーシに乗りすぎて、\nズッコケ王子にならなきゃいいけど。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "大丈夫、陽介はやるときはやる男だ。\nここは任せよう。",
+    "translation": "大丈夫、陽介はやるときはやる男だ。\nここは任せよう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "うん、順平も何だかんだで頼りになる。\nきっと上手くいくよ。",
+    "translation": "うん、順平も何だかんだで頼りになる。\nきっと上手くいくよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "それじゃあ、僕らも行こう。\n探し物は『家』の中にあるんだったね。",
+    "translation": "それじゃあ、僕らも行こう。\n探し物は『家』の中にあるんだったね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "そう、『扉』の向こうにある『家』だ！\n頑張って探せー！",
+    "translation": "そう、『扉』の向こうにある『家』だ！\n頑張って探せー！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_甲高い声の花",
+    "original": "甲高い声の花",
+    "translation": "甲高い声の花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_微笑んでいる花",
+    "original": "微笑んでいる花",
+    "translation": "微笑んでいる花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

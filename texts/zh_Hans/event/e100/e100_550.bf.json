@@ -1,0 +1,156 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "わっ、すごい鍵の量。",
+    "translation": "哇，好多锁。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n哇，好大量的锁。\n\n哇，钥匙的量真大。\n\n哇，钥匙的量很大。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "話には聞いてたけど、\n厳重を通り越して異様ね…",
+    "translation": "虽然已经听说过了，\n但这已经过了严重的程度了，真奇怪啊……",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n虽然已经听说过了，\n但这也太严密到诡异了……\n\n虽然听说了，但是已经过了严重的程度了，真是奇怪啊……\n\n\n虽然听说过，但是太过严格了，很奇怪啊……"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああ、ワガハイのピッキングテクでも\nビクともしねえ。",
+    "translation": "啊啊，就算以吾辈的开锁技术\n也纹丝不动啊。",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n啊啊，就算用吾辈的开锁技术\n也完全没用。\n\n啊，吾辈的拣货技巧也丝毫没有动摇。\n\n\n啊，吾辈的挑球技巧也不错。"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "だが、これを開けられれば\n外に出られると踏んでいる。",
+    "translation": "不过，只要能打开这个\n应该就能出去了。",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n不过，只要能打开这个\n应该就能出去了。\n\n但是，如果能打开这个\n踩着能出去。\n\n但是，只要能打开这个就能出去。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "本当に試されるのですか？\nもし、万が一のことがあったら…",
+    "translation": "真的要试吗？\n万一出了什么事……",
+    "stage": 1,
+    "context": "说话人：ナギ\n\n机翻辅助：\n\n真的要试吗？\n万一出了什么万一……\n\n真的能接受考验吗？\n如果有万一的话……\n\n真的要尝试吗？\n如果发生万一……"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "その時はその時だ。\nさあ鍵を試してくれ、[P5名]。",
+    "translation": "到时候再说吧。\n快试试钥匙吧，[P5名]。",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n到时候再说吧。\n来，快试试钥匙吧，[P5名]。\n\n那时候就是那个时候。\n来试试钥匙吧，[P5名]。\n\n到时候再说。来试试钥匙吧，[P5名]。"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "了解だ",
+    "translation": "了解",
+    "stage": 0,
+    "context": "机翻辅助：\n\n了解\n\n明白了"
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "怖いな…",
+    "translation": "好可怕啊……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好可怕啊……"
+  },
+  {
+    "key": "SEL_005_2",
+    "original": "誰か開けたい人？",
+    "translation": "有人想开吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有人想开吗？\n\n想打开谁的人？\n\n谁想打开？"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "その潔さ、さすがリーダーだ。",
+    "translation": "这种干脆的态度，不愧是队长。",
+    "stage": 0,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n这种干脆的态度，不愧是队长。\n\n那个纯洁，不愧是领导。\n\n那份干脆，不愧是领导。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "死なばもろともだ。",
+    "translation": "要死大家都会死。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n要死就一起死。\n\n死了就算了。\n\n死也是死路一条。"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "えっ…まさか挙手制？",
+    "translation": "咦……难道是举手制？",
+    "stage": 0,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n咦……难道是举手制？\n\n啊……难道是举手制？\n\n诶……难道是举手制？"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "いやいやいやいや！\nここはリーダーって流れだろ！",
+    "translation": "不不不不！\n这种情况应该是队长优先吧！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n不不不不！\n照流程应该是队长先吧！\n\n不不不不不！\n这里是领导的潮流吧！\n\n不、不，不！\n这里是领导的潮流吧！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "安心しろ。死なばもろともだ。",
+    "translation": "放心吧，要死会一起死的。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n放心吧，要死就一起死。\n\n放心吧。死了就算了。\n\n放心吧。死也是死路一条。"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "鍵を差してみよう…",
+    "translation": "把钥匙插进去看看吧……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n把钥匙插进去看看吧……\n\n试着插钥匙吧……\n\n把钥匙插进去看看……"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "凪",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

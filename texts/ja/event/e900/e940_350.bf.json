@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "そこのキミたち、止まりなさい。",
+    "translation": "そこのキミたち、止まりなさい。",
+    "stage": 1,
+    "context": "警察官"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "私たちはベルト泥棒を探していてね、\nここは持ち物を見せないと通れないよ。",
+    "translation": "私たちはベルト泥棒を探していてね、\nここは持ち物を見せないと通れないよ。",
+    "stage": 1,
+    "context": "警察官"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "嫌だ、と言ったら？",
+    "translation": "嫌だ、と言ったら？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "逆らうつもりかね！？\n無理にでも見せてもらうよ！",
+    "translation": "逆らうつもりかね！？\n無理にでも見せてもらうよ！",
+    "stage": 1,
+    "context": "警察官"
+  },
+  {
+    "key": "speaker_警察官",
+    "original": "警察官",
+    "translation": "警察官",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

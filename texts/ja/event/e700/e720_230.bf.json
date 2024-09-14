@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なぁ。回転する柵とは別に、電気柵にも\nしるしあった方がよくね？",
+    "translation": "なぁ。回転する柵とは別に、電気柵にも\nしるしあった方がよくね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "確かに",
+    "translation": "確かに",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "フォックスに頼もう",
+    "translation": "フォックスに頼もう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ふむ、ならば…\nこんな感じはどうだろうか？",
+    "translation": "ふむ、ならば…\nこんな感じはどうだろうか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うん、いいと思う！\nこれでもっと地図が分かりやすくなるね！",
+    "translation": "うん、いいと思う！\nこれでもっと地図が分かりやすくなるね！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_ICON_DENKISAKU_OPEN_0",
+    "original": "下画面の地図に[颜色 03]『電気柵』[颜色 01]の\nアイコンが追加されました。",
+    "translation": "下画面の地図に[颜色 03]『電気柵』[颜色 01]の\nアイコンが追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ICON_DENKISAKU_OPEN_1",
+    "original": "アイコンの使用用途をもう一度\n確認したい場合は",
+    "translation": "アイコンの使用用途をもう一度\n確認したい場合は",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ICON_DENKISAKU_OPEN_2",
+    "original": "地図の右下にある[颜色 03]ＨＥＬＰ[颜色 01]の[颜色 03]アイコンの種類[颜色 01]\nから、確認する事が出来ます。",
+    "translation": "地図の右下にある[颜色 03]ＨＥＬＰ[颜色 01]の[颜色 03]アイコンの種類[颜色 01]\nから、確認する事が出来ます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

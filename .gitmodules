@@ -1,0 +1,6 @@
+[submodule "bin/PersonaQ2ChsLocalizationHelper"]
+	path = bin/PersonaQ2ChsLocalizationHelper
+	url = https://github.com/Xzonn/PersonaQ2ChsLocalizationHelper.git
+[submodule "bin/3dstools"]
+	path = bin/3dstools
+	url = https://github.com/Xzonn/3dstools.git

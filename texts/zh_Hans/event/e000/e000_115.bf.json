@@ -1,0 +1,170 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "行き止まりか！？",
+    "translation": "死胡同吗！？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n是死路吗！？\n\n走不通了吗？？\n\n死胡同！？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "別の道はないの！？",
+    "translation": "没有其他的路了吗！？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n没有其他路了吗！？\n\n没有别的路吗！？\n\n没有别的路了吗？？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おい、見ろ！　なんだあれは？",
+    "translation": "喂，快看！那是什么？",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n喂，你看！那是什么？\n\n喂，看！那是什么？"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "えっ！？\n光ってるけど…な、なに！？",
+    "translation": "诶？！\n好像在发光……什、什么东西！？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n咦？！\n在发光……怎、怎么回事！？\n\n啊！？\n虽然闪闪发光……啊，什么！？\n\n诶！？\n虽然在发光……什、什么！？"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "オイ、そこ！　行けそうだぞ！\n先にも敵はいないっぽい！",
+    "translation": "喂，那边！好像走得通！\n而且好像也没有敌人！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n喂，那边！好像可以过去！\n前面好像也没有敌人！\n\n喂，那里！好像能去！\n前面好像也没有敌人！\n\n喂，那里！好像可以去！\n前面好像也没有敌人！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "マジで！？",
+    "translation": "真的吗！？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n真的假的！？\n\n真的！？"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "…たぶん！",
+    "translation": "……大概！",
+    "stage": 0,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n……大概！\n\n……大概吧！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "たぶんかよっ！",
+    "translation": "只是大概啊！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n居然只是大概！\n\n大概吧！\n\n大概是吧！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "どうするジョーカー！？\nほかに道はない。入るか？",
+    "translation": "怎么办JOKER！？\n已经无路可走了。要进去吗？",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n怎么办JOKER！？\n没有其他路了，要进去吗？\n\n怎么办JOKER！？\n没有别的路可走。能进去吗？\n\n怎么办JOKER ！？没有别的路可走。要不要进去？"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "行くぞ",
+    "translation": "走吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要进去喽\n\n走吧\n\n我走了"
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "どうしようか…",
+    "translation": "怎么办呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要做什么呢……\n\n怎么办呢……"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "おい、悩んでる時間ない！\nヤバいシャドウの気配が来てる！",
+    "translation": "喂，现在不是犹豫的时候！\n很强大的暗影的气息过来了！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n喂，没时间犹豫了！\n很不妙的暗影气息过来了！\n\n喂，没有烦恼的时间！\n糟糕的暗影的气息来了！\n\n喂，没时间烦恼了！\n危险的暗影来了！"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "…すぐそこ！",
+    "translation": "……就在这附近！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n……就在附近！\n\n……就在那里！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "なんだありゃあああ！？",
+    "translation": "那是什么东西啊啊啊！？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n那是什么啊啊啊！？\n\n什么啊啊啊啊！？\n\n这是怎么回事啊！？"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あんなやつ見たことないぞ！",
+    "translation": "我从来没有见过这样的家伙！",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n我从来没看过那种家伙！\n\n我没见过那样的家伙！\n\n那种家伙我没见过！"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "あいつからはものすごい力を感じる…\n危険だ！",
+    "translation": "能感觉到那家伙身上强大的力量……\n很危险！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n那家伙身上有股很强大的力量……\n危险！\n\n从那家伙身上感受到了巨大的力量……\n危险！\n\n从那家伙身上能感觉到巨大的力量……\n危险！"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "考えてる暇はねえ！\n戦略的テッタイってやつだ！",
+    "translation": "已经没时间思考了！\n这就是所谓的战略性撤退！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n没时间思考了！\n这就是所谓的战略性撤退！\n\n没有时间考虑！\n战略上的泰泰！\n\n没时间考虑了！这就是所谓的战略性撤退！"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "チッ、行くっきゃねえな！",
+    "translation": "啧，看来只能走了！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n啧，看来只能上了！\n\n嘁，不要去啊！\n\n啊，不去不行啊！"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "飛び込め！！",
+    "translation": "跳进去！！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n冲进去！！\n\n跳进去！！"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

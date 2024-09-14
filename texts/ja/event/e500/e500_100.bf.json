@@ -1,0 +1,415 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なんだ、この部屋は…",
+    "translation": "なんだ、この部屋は…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あの大きい機械…\nもしかして映写機ですか？",
+    "translation": "あの大きい機械…\nもしかして映写機ですか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そのようです。\n目視で４つほど確認しました。",
+    "translation": "そのようです。\n目視で４つほど確認しました。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あの映写機から出てる光、\nなんかおかしくねっスか？",
+    "translation": "あの映写機から出てる光、\nなんかおかしくねっスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "色が気持ち悪ぃってか…\nフィルムが変なんスかね？",
+    "translation": "色が気持ち悪ぃってか…\nフィルムが変なんスかね？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "まるでネガだね。",
+    "translation": "まるでネガだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そう。ネガが気持ち悪く見えるのは、\n明暗が反転してるからでね…",
+    "translation": "そう。ネガが気持ち悪く見えるのは、\n明暗が反転してるからでね…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "プリントする時に再反転させることで、\n普通の色に見えるようになるの。",
+    "translation": "プリントする時に再反転させることで、\n普通の色に見えるようになるの。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "ふむふむ",
+    "translation": "ふむふむ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "まだ続くの？",
+    "translation": "まだ続くの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_2",
+    "original": "ぐー…",
+    "translation": "ぐー…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "オタクのサガだ。\nもうちょい付き合ってやってくれ…",
+    "translation": "オタクのサガだ。\nもうちょい付き合ってやってくれ…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "おい寝るな！\nちゃんと最後まで聞いてやってくれ。",
+    "translation": "おい寝るな！\nちゃんと最後まで聞いてやってくれ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "反転したままなのが『ネガ』画像、\n再反転させたのが『ポジ』画像って言って…",
+    "translation": "反転したままなのが『ネガ』画像、\n再反転させたのが『ポジ』画像って言って…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "リバーサルフィルムっていう、そのまま\nポジ画像になるフィルムもあるけど…",
+    "translation": "リバーサルフィルムっていう、そのまま\nポジ画像になるフィルムもあるけど…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_009_2",
+    "original": "レタッチとか複製が楽だから、\n映画はネガで撮影する方が多いかな。",
+    "translation": "レタッチとか複製が楽だから、\n映画はネガで撮影する方が多いかな。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "お、おう…\nなるほど、さっぱり分かんねぇ。",
+    "translation": "お、おう…\nなるほど、さっぱり分かんねぇ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "あ…",
+    "translation": "あ…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ひかりさん、お詳しいですね。",
+    "translation": "ひかりさん、お詳しいですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "え…あ、えっと…映画のことになると\n夢中になっちゃうみたいで…",
+    "translation": "え…あ、えっと…映画のことになると\n夢中になっちゃうみたいで…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "かまわねえよ。好きなモンに熱くなるのは\nおかしなことじゃねえ。",
+    "translation": "かまわねえよ。好きなモンに熱くなるのは\nおかしなことじゃねえ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ふむ…ネガとポジか。\nどっかで聞いたことないか、ジョーカー？",
+    "translation": "ふむ…ネガとポジか。\nどっかで聞いたことないか、ジョーカー？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_016_0",
+    "original": "ネガティブ",
+    "translation": "ネガティブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_016_1",
+    "original": "ポジティブ",
+    "translation": "ポジティブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_016_2",
+    "original": "聞いたことない",
+    "translation": "聞いたことない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "おお、それだ！\nネガティブとポジティブだな！",
+    "translation": "おお、それだ！\nネガティブとポジティブだな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "その通り。\nまあ、略したのを戻しただけだけど。",
+    "translation": "その通り。\nまあ、略したのを戻しただけだけど。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ネガティブとポジティブだね。\nまあ、略したのを戻しただけだけど。",
+    "translation": "ネガティブとポジティブだね。\nまあ、略したのを戻しただけだけど。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "あ、あたしは最初から分かってたし。\nネギタンと…ミスジだっけ？",
+    "translation": "あ、あたしは最初から分かってたし。\nネギタンと…ミスジだっけ？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "里中語変換かよ！\nてか、ぜってー分かってなかっただろ。",
+    "translation": "里中語変換かよ！\nてか、ぜってー分かってなかっただろ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "前向きで明るい人はポジティブ、後ろ向きで\n暗い人はネガティブ、って言うしね。",
+    "translation": "前向きで明るい人はポジティブ、後ろ向きで\n暗い人はネガティブ、って言うしね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "おお、なるほどな。\nなんとなく分かってきた。",
+    "translation": "おお、なるほどな。\nなんとなく分かってきた。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "しかし問題は、そんなものが、\n何故ここにあるのか、ということだ。",
+    "translation": "しかし問題は、そんなものが、\n何故ここにあるのか、ということだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "うーん、私たちが気になってるのは\n地面のフィルムかな？",
+    "translation": "うーん、私たちが気になってるのは\n地面のフィルムかな？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "あ、確かに…この地面を這ってる\nフィルムも『ネガ』なのかな？",
+    "translation": "あ、確かに…この地面を這ってる\nフィルムも『ネガ』なのかな？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "色んな場所に繋がってるみたい…\nちょっとこっちでも調べてみますね。",
+    "translation": "色んな場所に繋がってるみたい…\nちょっとこっちでも調べてみますね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "なにか分かったら、\nすぐにお知らせします。",
+    "translation": "なにか分かったら、\nすぐにお知らせします。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ああ、頼んだぞ。",
+    "translation": "ああ、頼んだぞ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "気になるところはナビたちに任せて、\n我々は先に進もう。",
+    "translation": "気になるところはナビたちに任せて、\n我々は先に進もう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ええ、行きましょう！",
+    "translation": "ええ、行きましょう！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "key": "AKECHI_FOE_FOLLOW_START__0",
+    "original": "来てるよ、気を付けて。",
+    "translation": "来てるよ、気を付けて。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_FOE_FOLLOW_START__2_0",
+    "original": "Ｆ．Ｏ．Ｅだ、落ち着いて。",
+    "translation": "Ｆ．Ｏ．Ｅだ、落ち着いて。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_FOE_FOLLOW_START__3_0",
+    "original": "来てるよ…Ｆ．Ｏ．Ｅだ！",
+    "translation": "来てるよ…Ｆ．Ｏ．Ｅだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_FOE_NEAR_1_0",
+    "original": "大丈夫、焦らずに行こう。",
+    "translation": "大丈夫、焦らずに行こう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_FOE_NEAR_2_0",
+    "original": "目の前だ、注意して。",
+    "translation": "目の前だ、注意して。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_FOE_NEAR_3_0",
+    "original": "くっ…こんな近くに…！",
+    "translation": "くっ…こんな近くに…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_FOE_FOLLOW_END_1_0",
+    "original": "ふぅ…撒けたかな？",
+    "translation": "ふぅ…撒けたかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_FOE_FOLLOW_END_2_0",
+    "original": "僕らの逃げ切り勝ちだね。",
+    "translation": "僕らの逃げ切り勝ちだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_FOE_FOLLOW_END_3_0",
+    "original": "もう追ってこないみたいだよ。",
+    "translation": "もう追ってこないみたいだよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_KANSI_REACTION_1_0",
+    "original": "大丈夫、君ならできる。",
+    "translation": "大丈夫、君ならできる。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_KANSI_REACTION_2_0",
+    "original": "案外、単純な仕掛けさ。",
+    "translation": "案外、単純な仕掛けさ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_KANSI_REACTION_3_0",
+    "original": "慎重に行こう。",
+    "translation": "慎重に行こう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_DENKISAKU_REACTIO_0",
+    "original": "止める方法を探そう。",
+    "translation": "止める方法を探そう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_DENKISAKU_REACTIO_2_0",
+    "original": "電気柵か…参ったね…",
+    "translation": "電気柵か…参ったね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_DENKISAKU_REACTIO_3_0",
+    "original": "迂回するルートがあるかもね。",
+    "translation": "迂回するルートがあるかもね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_KYOUHU_REACTION_1_0",
+    "original": "くっ…！",
+    "translation": "くっ…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_KYOUHU_REACTION_2_0",
+    "original": "うわ…っ！",
+    "translation": "うわ…っ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_KYOUHU_REACTION_3_0",
+    "original": "風が…っ！",
+    "translation": "風が…っ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_STAIR_FIND_1_0",
+    "original": "次に進めるようだよ。",
+    "translation": "次に進めるようだよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_STAIR_FIND_2_0",
+    "original": "やったね、次のエリアだ。",
+    "translation": "やったね、次のエリアだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_STAIR_FIND_3_0",
+    "original": "どうする？　先へ進むかい？",
+    "translation": "どうする？　先へ進むかい？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_TREASURE_FIND_1_0",
+    "original": "宝箱だ、君に譲るよ。",
+    "translation": "宝箱だ、君に譲るよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_TREASURE_FIND_2_0",
+    "original": "宝箱か…開けてみたらどうだい？",
+    "translation": "宝箱か…開けてみたらどうだい？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_TREASURE_FIND_3_0",
+    "original": "みんな！　宝箱だ！",
+    "translation": "みんな！　宝箱だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_CHECK_WALL_1_0",
+    "original": "おや？　あれは…？",
+    "translation": "おや？　あれは…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_CHECK_WALL_2_0",
+    "original": "僕の目は誤魔化せないよ。",
+    "translation": "僕の目は誤魔化せないよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_CHECK_WALL_3_0",
+    "original": "少し調べないかい？",
+    "translation": "少し調べないかい？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_SWITCH_FIND_1_0",
+    "original": "スイッチか、なるほどね。",
+    "translation": "スイッチか、なるほどね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_SWITCH_FIND_2_0",
+    "original": "ここ、スイッチがあるね。",
+    "translation": "ここ、スイッチがあるね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_SWITCH_FIND_3_0",
+    "original": "スイッチがあるよ、どうする？",
+    "translation": "スイッチがあるよ、どうする？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_SHORTCUT_FIND_1_0",
+    "original": "ここ、通り抜けられそうだね。",
+    "translation": "ここ、通り抜けられそうだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_SHORTCUT_FIND_2_0",
+    "original": "近道とはありがたいな。",
+    "translation": "近道とはありがたいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_SHORTCUT_FIND_3_0",
+    "original": "抜けられそうだ、行ってみるかい？",
+    "translation": "抜けられそうだ、行ってみるかい？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_FOE_WARNING_NEAR__0",
+    "original": "まだ来るのか、しつこいな。",
+    "translation": "まだ来るのか、しつこいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_FOE_WARNING_NEAR__2_0",
+    "original": "休ませてはくれないようだね。",
+    "translation": "休ませてはくれないようだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_FOE_WARNING_NEAR__3_0",
+    "original": "Ｆ．Ｏ．Ｅの追尾が続いているね。",
+    "translation": "Ｆ．Ｏ．Ｅの追尾が続いているね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_1PERSON_HPTP10_1_0",
+    "original": "ダメージが大きいな。\n立て直しを頼む。",
+    "translation": "ダメージが大きいな。\n立て直しを頼む。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_1PERSON_HPTP10_2_0",
+    "original": "危険な状況だ、回復を。",
+    "translation": "危険な状況だ、回復を。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_1PERSON_HPTP10_3_0",
+    "original": "これ以上は無謀じゃないかな…？",
+    "translation": "これ以上は無謀じゃないかな…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_1PERSON_HP10_1_0",
+    "original": "回復のメドはたつかい…？",
+    "translation": "回復のメドはたつかい…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_1PERSON_HP10_2_0",
+    "original": "思ったより削られたね…",
+    "translation": "思ったより削られたね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_1PERSON_HP10_3_0",
+    "original": "なんの…まだまだ…",
+    "translation": "なんの…まだまだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_1PERSON_TP10_1_0",
+    "original": "参ったな、倒れそうだ。",
+    "translation": "参ったな、倒れそうだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_1PERSON_TP10_2_0",
+    "original": "いまは休むべきなのかもしれない…",
+    "translation": "いまは休むべきなのかもしれない…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_1PERSON_TP10_3_0",
+    "original": "気力の勝負になりそうだね…",
+    "translation": "気力の勝負になりそうだね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_1PERSON_HP80_1_0",
+    "original": "みんな、調子はいいみたいだね。",
+    "translation": "みんな、調子はいいみたいだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_1PERSON_HP80_2_0",
+    "original": "順調に進めているよ！",
+    "translation": "順調に進めているよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_1PERSON_HP80_3_0",
+    "original": "いつでも僕を頼ってくれ。",
+    "translation": "いつでも僕を頼ってくれ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_DUNGEON_START_1_0",
+    "original": "さあ、始めようか！",
+    "translation": "さあ、始めようか！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_DUNGEON_START_2_0",
+    "original": "僕達ならやれるさ。",
+    "translation": "僕達ならやれるさ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_DUNGEON_START_3_0",
+    "original": "油断は禁物、いいね？",
+    "translation": "油断は禁物、いいね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_QUEST_START_1_0",
+    "original": "ミッション、スタートだ。",
+    "translation": "ミッション、スタートだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_QUEST_START_2_0",
+    "original": "お手並み拝見と行こうかな。",
+    "translation": "お手並み拝見と行こうかな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_QUEST_START_3_0",
+    "original": "さあ、はじめようか。",
+    "translation": "さあ、はじめようか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_TOUHA_25_1_0",
+    "original": "じっくりいこうか。",
+    "translation": "じっくりいこうか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_TOUHA_25_2_0",
+    "original": "千里の道も一歩からだよ。",
+    "translation": "千里の道も一歩からだよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_TOUHA_50_1_0",
+    "original": "残りあと半分だ。",
+    "translation": "残りあと半分だ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_TOUHA_50_2_0",
+    "original": "ここまでは順調だね！",
+    "translation": "ここまでは順調だね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_TOUHA_75_1_0",
+    "original": "焦らず、じっくり進もう。",
+    "translation": "焦らず、じっくり進もう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_TOUHA_75_2_0",
+    "original": "完成目前だね！",
+    "translation": "完成目前だね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_TOUHA_100_1_0",
+    "original": "完成だ！　上出来だよ！",
+    "translation": "完成だ！　上出来だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_TOUHA_100_2_0",
+    "original": "おめでとう、出来上がったんだね！",
+    "translation": "おめでとう、出来上がったんだね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_MAPPING_ICON_ALL__0",
+    "original": "ああ、間違いない。",
+    "translation": "ああ、間違いない。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_MAPPING_ICON_ALL__2_0",
+    "original": "うん、いいね。",
+    "translation": "うん、いいね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_MAPPING_ICON_KAID_0",
+    "original": "さすが、やるね。",
+    "translation": "さすが、やるね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_MAPPING_ICON_KAID_2_0",
+    "original": "完璧だ！",
+    "translation": "完璧だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_MAPPING_CHANGE_CO_0",
+    "original": "色分けか、なるほど。",
+    "translation": "色分けか、なるほど。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_MAPPING_CHANGE_CO_2_0",
+    "original": "こだわるんだね。",
+    "translation": "こだわるんだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_MAPPING_ICON_DEL__0",
+    "original": "僕も不要だと思うよ。",
+    "translation": "僕も不要だと思うよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_MAPPING_ICON_DEL__2_0",
+    "original": "はは、思い切ったね。",
+    "translation": "はは、思い切ったね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_MAPPING_MEMO_1_0",
+    "original": "なるほど、いい案だ。",
+    "translation": "なるほど、いい案だ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_MAPPING_MEMO_2_0",
+    "original": "さすが冷静だね。",
+    "translation": "さすが冷静だね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_DOOR_OPEN_1_0",
+    "original": "こっちだよ！",
+    "translation": "こっちだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_DOOR_OPEN_2_0",
+    "original": "行こうか。",
+    "translation": "行こうか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AKECHI_DOOR_OPEN_3_0",
+    "original": "早くおいでよ。",
+    "translation": "早くおいでよ。",
+    "stage": 1,
+    "context": ""
+  }
+]

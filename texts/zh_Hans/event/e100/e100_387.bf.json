@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おっしゃ！　制服ゲットだぜ！",
+    "translation": "好耶！制服到手啦！",
+    "stage": 0,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好耶！制服到手啦！\n\n喂！制服入手啦！\n\n你说！制服到手了！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "よし、マンホールの中へ乗り込むぞ！",
+    "translation": "好，我们进下水道吧！",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n好，我们进下水道吧！\n\n好，我们钻进窨井里去！\n\n好啊，我要进入检修孔！"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

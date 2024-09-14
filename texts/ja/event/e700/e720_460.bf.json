@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "はあ、回り道はしたけど\nやっと元の道に戻れたようね。",
+    "translation": "はあ、回り道はしたけど\nやっと元の道に戻れたようね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "…思ったんだけど、こちら側から\nあの木をどうにかできないかな？",
+    "translation": "…思ったんだけど、こちら側から\nあの木をどうにかできないかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "何かあったとき、逃走経路が簡略化されて\nいる方が、後々楽になるかもしれないし。",
+    "translation": "何かあったとき、逃走経路が簡略化されて\nいる方が、後々楽になるかもしれないし。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そうはいってもよ…\nあんなのどーすんだよ。",
+    "translation": "そうはいってもよ…\nあんなのどーすんだよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "いや、僕の考えが正しければ…",
+    "translation": "いや、僕の考えが正しければ…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "ねえ、ちょっと近づいて調べてみないかい？\n勿論、判断はジョーカーに任せるけれど…",
+    "translation": "ねえ、ちょっと近づいて調べてみないかい？\n勿論、判断はジョーカーに任せるけれど…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

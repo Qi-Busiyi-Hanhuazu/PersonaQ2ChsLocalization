@@ -1,0 +1,107 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふー、エサになるのは免れたか。\nこれでひと安心だな。",
+    "translation": "呼——看来我不会变成诱饵了。\n这样就能放心了。",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n呼——看来我不会变成诱饵了。\n这样就能放心了。\n\n嗯，避免成为食物了吗。\n这样就放心了。\n\n哼，避免成为诱饵了吗？这下放心了。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "お疲れさま。\nこれで僕はお役御免かな。",
+    "translation": "辛苦了。\n这样我就功成身退了。",
+    "stage": 0,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n辛苦了。\n这样我就功成身退了。\n\n辛苦了。\n这样的话我就不能帮你了吧。\n\n辛苦了。这样我就没机会了吧。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ワン、ワン！",
+    "translation": "汪、汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪、汪！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "クロウさん、大丈夫だったかって。",
+    "translation": "CROW，你还好吗？",
+    "stage": 0,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\nCROW，你还好吗？\n\nCROW先生，听说你没事。\n\nCROW，你没事吧？"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "はは、心配してくれたのかい。\n君は本当に賢いね。",
+    "translation": "哈哈，你在担心我吗？\n你真的很聪明呢。",
+    "stage": 0,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n哈哈，你在担心我吗？\n你真的很聪明呢。\n\n哈哈，你担心我了吗。\n你真聪明。\n\n哈哈，你在担心我吗？你真聪明。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "……。",
+    "translation": "……",
+    "stage": 0,
+    "context": "说话人：天田 乾"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "どうかした？",
+    "translation": "怎么了？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n怎么了？"
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "大丈夫か？",
+    "translation": "没事吧？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没事吧？"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ああいえ、何でもありません。",
+    "translation": "啊，没事，没什么。",
+    "stage": 0,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n啊，没事，没什么。\n\n啊，没什么。\n\n不，没什么。"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "クロウさんもすごかったし、\nコロマルも頑張ったなって思って。",
+    "translation": "我只是觉得CROW也很厉害，\n虎狼丸也很努力。",
+    "stage": 0,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n我只是觉得CROW也很厉害，\n虎狼丸也很努力。\n\n我想CROW先生也厉害，\n虎狼丸也努力了。\n\nCROW也很厉害，\n虎狼丸也很努力。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "さあ、あとは報告だね。\nそろそろ戻ろうか。",
+    "translation": "好了，接下来就是报告了。\n差不多该回去了。",
+    "stage": 0,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n好了，接下来就是报告了。\n差不多该回去了。\n\n那么，剩下的就是报告了。\n差不多该回去了吧。\n\n好了，接下来就是报告了。差不多该回去了吧。"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "虎狼丸",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

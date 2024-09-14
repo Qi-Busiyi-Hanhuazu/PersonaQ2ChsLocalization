@@ -1,0 +1,37 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "アンモナイトを探し出せ！",
+    "translation": "找出菊石！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n找出菊石！\n\n找到菊石！\n\n找到安息香！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "東の水場へ向かえ",
+    "translation": "前往东边的水池。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往东边的水池\n\n去东边的水场\n\n去东边的水厂"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "南の水場へ向かえ",
+    "translation": "前往南边的水池",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前往南边的水池\n\n去南方的水场\n\n到南边的水厂去。"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "北の水場へ向かえ",
+    "translation": "前往北边的水池",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前往北边的水池\n\n去北方的水场\n\n去北边的水厂。"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_4_0",
+    "original": "西の水場へ向かえ",
+    "translation": "前往西边的水池",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前往西边的水池\n\n去西边的水场\n\n到西边的水厂去"
+  }
+]

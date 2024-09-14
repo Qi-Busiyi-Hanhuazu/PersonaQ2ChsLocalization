@@ -1,0 +1,219 @@
+[
+  {
+    "key": "FCL_PERSONA_YN_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_YN_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_LVUP_0",
+    "original": "＞ペルソナ『[颜色 02][占位A 01][颜色 01]』の\n　レベルが上がった！",
+    "translation": "＞ペルソナ『[颜色 02][占位A 01][颜色 01]』の\n　レベルが上がった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_PARAMUP_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』が『[颜色 02][占位A 02][颜色 01]』上がった！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』が『[颜色 02][占位A 02][颜色 01]』上がった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_GETSKILL_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を覚えた！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を覚えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_RMSKILL_0",
+    "original": "＞スキルが一杯です。\n　消すスキルを選んでください。",
+    "translation": "＞スキルが一杯です。\n　消すスキルを選んでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_RMSKILL_Q_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』を消しますか？",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』を消しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_RMSKILL0_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を忘れた。",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を忘れた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_RMSKILL1_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』を\n　『[颜色 02][占位A 02][颜色 01]』に入れ替えた。",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』を\n　『[颜色 02][占位A 02][颜色 01]』に入れ替えた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_RMSKILL2_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』が\n　『[颜色 02][占位A 02][颜色 01]』にグレードアップした！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』が\n　『[颜色 02][占位A 02][颜色 01]』にグレードアップした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_SKILLSHIFT_0",
+    "original": "＞…？",
+    "translation": "＞…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_SKILLSHIFT_1",
+    "original": "＞『[颜色 02][占位A 02][颜色 01]』に\n　何かが起こりそうだ……",
+    "translation": "＞『[颜色 02][占位A 02][颜色 01]』に\n　何かが起こりそうだ……",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_SKILLSHIFT_2",
+    "original": "＞やらせてみますか？",
+    "translation": "＞やらせてみますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_SKILLSHIFTCA_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』の泣き声を聞いた…",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』の泣き声を聞いた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_SKILLSHIFTCH_0",
+    "original": "＞なんと、『[颜色 02][占位A 01][颜色 01]』が\n　『[颜色 02][占位A 02][颜色 01]』にパワーアップした！",
+    "translation": "＞なんと、『[颜色 02][占位A 01][颜色 01]』が\n　『[颜色 02][占位A 02][颜色 01]』にパワーアップした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_SKILLSHIFTUP_0",
+    "original": "＞なんと、『[颜色 02][占位A 01][颜色 01]』が\n　『[颜色 02][占位A 02][颜色 01]』に変わった！",
+    "translation": "＞なんと、『[颜色 02][占位A 01][颜色 01]』が\n　『[颜色 02][占位A 02][颜色 01]』に変わった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_SHIFT_0",
+    "original": "＞ペルソナ『[颜色 02][占位A 01][颜色 01]』から\n　何かが産み落とされようとしている…",
+    "translation": "＞ペルソナ『[颜色 02][占位A 01][颜色 01]』から\n　何かが産み落とされようとしている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_SHIFT_1",
+    "original": "＞見届けますか？",
+    "translation": "＞見届けますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_SHIFTCANCEL_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』から\n　『受胎の兆候』が消えた…",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』から\n　『受胎の兆候』が消えた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_SHIFT1_0",
+    "original": "＞なんと、『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を生んだ！",
+    "translation": "＞なんと、『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を生んだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_GET_SKILLCARD0_0",
+    "original": "＞…？",
+    "translation": "＞…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_GET_SKILLCARD0_1",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』は\n　何かを差し出した・・・",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』は\n　何かを差し出した・・・",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_GET_SKILLCARD1_0",
+    "original": "＞なんと、『[颜色 02][占位A 01][颜色 01]』から\n　スキルカード『[颜色 02][占位A 02][颜色 01]』を手に入れた！",
+    "translation": "＞なんと、『[颜色 02][占位A 01][颜色 01]』から\n　スキルカード『[颜色 02][占位A 02][颜色 01]』を手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_SKILLCARD_TUTORIAL_0",
+    "original": "『スキルカード』は、\nあなたのペルソナに使えるアイテムです。\nカードに封じられたスキルを、\nペルソナが覚えます。",
+    "translation": "『スキルカード』は、\nあなたのペルソナに使えるアイテムです。\nカードに封じられたスキルを、\nペルソナが覚えます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_SKILLCARD_TUTORIAL_1",
+    "original": "スキルカードは使用すると無くなりますが、\n覚えたスキルは、\n合体で継承させることができます。",
+    "translation": "スキルカードは使用すると無くなりますが、\n覚えたスキルは、\n合体で継承させることができます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_SKILL_FRAME_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』の\n　スキル枠が増加した！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』の\n　スキル枠が増加した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_MOVIE_BONUS_0",
+    "original": "＞映画を見たことで各種能力にボーナス値が付いた！",
+    "translation": "＞映画を見たことで各種能力にボーナス値が付いた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_EVOLUTION_FI_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』に転生した！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』に転生した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_EVOLUTION_PR_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』に秘められた\n　可能性が芽生えたようだ…！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』に秘められた\n　可能性が芽生えたようだ…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_EVOLUTION_NO_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』はその姿のまま、\n　より強い力を身に付けた！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』はその姿のまま、\n　より強い力を身に付けた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FCL_PERSONA_EVOLUTION_SK_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』は\n　グレードアップした！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』は\n　グレードアップした！",
+    "stage": 1,
+    "context": ""
+  }
+]

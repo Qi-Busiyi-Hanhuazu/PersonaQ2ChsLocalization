@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お疲れ様です、皆さん。\n調査はここで終了みたいですよ。",
+    "translation": "お疲れ様です、皆さん。\n調査はここで終了みたいですよ。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "これで終わり…ってこと？",
+    "translation": "これで終わり…ってこと？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "はー、良かったぁ～…\n何か出たらどうしようかと思った…",
+    "translation": "はー、良かったぁ～…\n何か出たらどうしようかと思った…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  }
+]

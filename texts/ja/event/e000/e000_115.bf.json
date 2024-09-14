@@ -1,0 +1,170 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "行き止まりか！？",
+    "translation": "行き止まりか！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "別の道はないの！？",
+    "translation": "別の道はないの！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おい、見ろ！　なんだあれは？",
+    "translation": "おい、見ろ！　なんだあれは？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "えっ！？\n光ってるけど…な、なに！？",
+    "translation": "えっ！？\n光ってるけど…な、なに！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "オイ、そこ！　行けそうだぞ！\n先にも敵はいないっぽい！",
+    "translation": "オイ、そこ！　行けそうだぞ！\n先にも敵はいないっぽい！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "マジで！？",
+    "translation": "マジで！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "…たぶん！",
+    "translation": "…たぶん！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "たぶんかよっ！",
+    "translation": "たぶんかよっ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "どうするジョーカー！？\nほかに道はない。入るか？",
+    "translation": "どうするジョーカー！？\nほかに道はない。入るか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "行くぞ",
+    "translation": "行くぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "どうしようか…",
+    "translation": "どうしようか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "おい、悩んでる時間ない！\nヤバいシャドウの気配が来てる！",
+    "translation": "おい、悩んでる時間ない！\nヤバいシャドウの気配が来てる！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "…すぐそこ！",
+    "translation": "…すぐそこ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "なんだありゃあああ！？",
+    "translation": "なんだありゃあああ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あんなやつ見たことないぞ！",
+    "translation": "あんなやつ見たことないぞ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "あいつからはものすごい力を感じる…\n危険だ！",
+    "translation": "あいつからはものすごい力を感じる…\n危険だ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "考えてる暇はねえ！\n戦略的テッタイってやつだ！",
+    "translation": "考えてる暇はねえ！\n戦略的テッタイってやつだ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "チッ、行くっきゃねえな！",
+    "translation": "チッ、行くっきゃねえな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "飛び込め！！",
+    "translation": "飛び込め！！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

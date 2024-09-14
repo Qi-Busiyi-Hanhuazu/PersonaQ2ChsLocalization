@@ -1,0 +1,275 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "この島、かなり広いみたいだね。",
+    "translation": "この島、かなり広いみたいだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そうね…恐竜のサイズを考えれば、\nこれくらい必要なのかも。",
+    "translation": "そうね…恐竜のサイズを考えれば、\nこれくらい必要なのかも。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "…ん？　んんー？",
+    "translation": "…ん？　んんー？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ナビ、どうしたの？\nなにか見つけた？",
+    "translation": "ナビ、どうしたの？\nなにか見つけた？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なんか、ここ…さっきよりも\n強い力を持ったヤツがウヨウヨいるぞ。",
+    "translation": "なんか、ここ…さっきよりも\n強い力を持ったヤツがウヨウヨいるぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "Ｆ．Ｏ．Ｅか？",
+    "translation": "Ｆ．Ｏ．Ｅか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "まさか、さっき話してたティラノサウルスが\n本当にそうだったりして！？",
+    "translation": "まさか、さっき話してたティラノサウルスが\n本当にそうだったりして！？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "マジかよ…ティラノってだけでアレなのに、\nＦ．Ｏ．Ｅとかヤバくね？",
+    "translation": "マジかよ…ティラノってだけでアレなのに、\nＦ．Ｏ．Ｅとかヤバくね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "ヤバい",
+    "translation": "ヤバい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "大丈夫だ",
+    "translation": "大丈夫だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_2",
+    "original": "逃げよう",
+    "translation": "逃げよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "だよな。映画でも定番だし。",
+    "translation": "だよな。映画でも定番だし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "凶暴なティラノが、逃げる奴らを\n頭からバリバリいくとかさ…",
+    "translation": "凶暴なティラノが、逃げる奴らを\n頭からバリバリいくとかさ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ったく、揃いも揃って\nビビってんのか？",
+    "translation": "ったく、揃いも揃って\nビビってんのか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "あ、でもここにウマそうなネコいるし。\n食われんなら、まずはソッチかもな。",
+    "translation": "あ、でもここにウマそうなネコいるし。\n食われんなら、まずはソッチかもな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そ、そんなワケ…\nてか、ウマくねーし！　猫でもねーし！",
+    "translation": "そ、そんなワケ…\nてか、ウマくねーし！　猫でもねーし！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "そうは言ってもよ…\n映画でも定番じゃん？",
+    "translation": "そうは言ってもよ…\n映画でも定番じゃん？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "凶暴なティラノが、逃げる奴らを\n頭からバリバリいくとかさ…",
+    "translation": "凶暴なティラノが、逃げる奴らを\n頭からバリバリいくとかさ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "なんだスカル、ビビってんのか？",
+    "translation": "なんだスカル、ビビってんのか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "あ、でもここにウマそうなネコいるし。\n食われんなら、まずはソッチかもな。",
+    "translation": "あ、でもここにウマそうなネコいるし。\n食われんなら、まずはソッチかもな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "そ、そんなワケ…\nてか、ウマくねーし！　猫でもねーし！",
+    "translation": "そ、そんなワケ…\nてか、ウマくねーし！　猫でもねーし！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ちょ、待てって！",
+    "translation": "ちょ、待てって！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "こういうの、真っ先に逃げたヤツのが\n危ねえんだよ！",
+    "translation": "こういうの、真っ先に逃げたヤツのが\n危ねえんだよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "頭から食べられるパターンだね。\nバリバリっと。",
+    "translation": "頭から食べられるパターンだね。\nバリバリっと。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "たしかに、肉食恐竜はヤバいけど…\nみんな離れずにいれば、きっと大丈夫！",
+    "translation": "たしかに、肉食恐竜はヤバいけど…\nみんな離れずにいれば、きっと大丈夫！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "うん！　私もいざとなったら、\n斧で真っ二つにするよ！",
+    "translation": "うん！　私もいざとなったら、\n斧で真っ二つにするよ！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あはは。じゃあ私も、火力最大で\n丸焼きにしてみせるよ！",
+    "translation": "あはは。じゃあ私も、火力最大で\n丸焼きにしてみせるよ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "目潰しは効くのかしら？\n試しに叩き込んでみるのもアリね。",
+    "translation": "目潰しは効くのかしら？\n試しに叩き込んでみるのもアリね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "な、なんだか、女子のほうが\nしっかりしてるな…",
+    "translation": "な、なんだか、女子のほうが\nしっかりしてるな…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "あんま情けねえトコみせらんねえし…\n俺らもやってやろうぜ、ジョーカー！",
+    "translation": "あんま情けねえトコみせらんねえし…\n俺らもやってやろうぜ、ジョーカー！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

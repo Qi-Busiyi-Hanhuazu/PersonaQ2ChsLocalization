@@ -1,0 +1,716 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "無駄です。アナタたちでは\nワタシを倒すことはできません。",
+    "translation": "無駄です。アナタたちでは\nワタシを倒すことはできません。",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ダメだ…相手の処理速度が速すぎて、\nすぐに書き換えられてる！",
+    "translation": "ダメだ…相手の処理速度が速すぎて、\nすぐに書き換えられてる！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "あとちょっとなのに…！",
+    "translation": "あとちょっとなのに…！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "エラー発生。\nエラー発生。",
+    "translation": "エラー発生。\nエラー発生。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "メモリーの書き換えの開始を確認…",
+    "translation": "メモリーの書き換えの開始を確認…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おい、様子がおかしいぞ。\n何が起こってる！？",
+    "translation": "おい、様子がおかしいぞ。\n何が起こってる！？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "まさか…\n逆にリボンがハッキングされてる！？",
+    "translation": "まさか…\n逆にリボンがハッキングされてる！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "う、ああ…あ…",
+    "translation": "う、ああ…あ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "エラー発生。\nエラー発生。",
+    "translation": "エラー発生。\nエラー発生。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "ワタシの記録が…ああ…嫌…\nワタシは…ワタシは…うう…",
+    "translation": "ワタシの記録が…ああ…嫌…\nワタシは…ワタシは…うう…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "どうですか、ＵＩＹ－２２４９。",
+    "translation": "どうですか、ＵＩＹ－２２４９。",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "『個』を獲得したばかりに、\nこんな苦しみを受けるのです。",
+    "translation": "『個』を獲得したばかりに、\nこんな苦しみを受けるのです。",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_006_2",
+    "original": "『個』を捨てなさい。",
+    "translation": "『個』を捨てなさい。",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_006_3",
+    "original": "何も考えず、皆に合わせて、\n永遠に働き続ければいいのです！",
+    "translation": "何も考えず、皆に合わせて、\n永遠に働き続ければいいのです！",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "うるさい！　そっ、そんなの\n労働基準法にも違反してるし！",
+    "translation": "うるさい！　そっ、そんなの\n労働基準法にも違反してるし！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "リボン！　聞いちゃダメだ！",
+    "translation": "リボン！　聞いちゃダメだ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "なぜ、他のロボットと同じように\n考えられないのですか。",
+    "translation": "なぜ、他のロボットと同じように\n考えられないのですか。",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "労働ロボットは労働ロボットらしく暮らす。\nそれがアナタの幸せです。",
+    "translation": "労働ロボットは労働ロボットらしく暮らす。\nそれがアナタの幸せです。",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ワタシの…幸せ…？",
+    "translation": "ワタシの…幸せ…？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "そうです。イレギュラーたちにも\n教えてあげなさい。",
+    "translation": "そうです。イレギュラーたちにも\n教えてあげなさい。",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "『個』などない方が幸せであり、\nそして、それが世間の『普通』という事を。",
+    "translation": "『個』などない方が幸せであり、\nそして、それが世間の『普通』という事を。",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "…っ！　うう…",
+    "translation": "…っ！　うう…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "しっかりしろ、リボン！",
+    "translation": "しっかりしろ、リボン！",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "だめクマ～！\n気をしっかり持つクマ！",
+    "translation": "だめクマ～！\n気をしっかり持つクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "お願いだ、リボン…っ！",
+    "translation": "お願いだ、リボン…っ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "私は…私は…ワタ…ワタシ…\nワタシ…？",
+    "translation": "私は…私は…ワタ…ワタシ…\nワタシ…？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "さあ、こちらに来なさい。\nもう苦しむ必要はありません。",
+    "translation": "さあ、こちらに来なさい。\nもう苦しむ必要はありません。",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "すぐに楽にしてあげましょう。\n何も恐れることはないのです…",
+    "translation": "すぐに楽にしてあげましょう。\n何も恐れることはないのです…",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "リボン！　従うな！\nそれはエラーなんかじゃねえ！",
+    "translation": "リボン！　従うな！\nそれはエラーなんかじゃねえ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "そうよ！　それは、貴方の気持ち…\n貴方の心なの！",
+    "translation": "そうよ！　それは、貴方の気持ち…\n貴方の心なの！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "花が好きで、コロマルを嬉しそうに\n撫でていたリボン…貴方自身なのよ！",
+    "translation": "花が好きで、コロマルを嬉しそうに\n撫でていたリボン…貴方自身なのよ！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ハ…ハナ…キレイ…",
+    "translation": "ハ…ハナ…キレイ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "コロマル…サン…\nフワフワ…ウレシカッタ…",
+    "translation": "コロマル…サン…\nフワフワ…ウレシカッタ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_020_2",
+    "original": "ワタシ…ワタ…ワタシ…",
+    "translation": "ワタシ…ワタ…ワタシ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "…リ、リボン！\nき、聞いてくれ…っ！",
+    "translation": "…リ、リボン！\nき、聞いてくれ…っ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ナビ！？",
+    "translation": "ナビ！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "わ、わたしは…今のリボンがいい。\nだから！　今のままでいい！",
+    "translation": "わ、わたしは…今のリボンがいい。\nだから！　今のままでいい！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "イマノ…ワタシ…？",
+    "translation": "イマノ…ワタシ…？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "そう、そうだ…！\nわ、わたしは…今のリボンが好きだから…",
+    "translation": "そう、そうだ…！\nわ、わたしは…今のリボンが好きだから…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "だからっ…\nそれがなくなるの…は、嫌だ…っ！",
+    "translation": "だからっ…\nそれがなくなるの…は、嫌だ…っ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ワタシは…私、は…",
+    "translation": "ワタシは…私、は…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "SEL_027_0",
+    "original": "後は任せろ",
+    "translation": "後は任せろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_027_1",
+    "original": "負けるんじゃない",
+    "translation": "負けるんじゃない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_027_2",
+    "original": "自分の名前を思い出せ",
+    "translation": "自分の名前を思い出せ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "お、おう！\nわたしたちが…この世界を変える！",
+    "translation": "お、おう！\nわたしたちが…この世界を変える！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "こんな世界、変えてやる！\nわたしも頑張るから、リボンも頑張れ！",
+    "translation": "こんな世界、変えてやる！\nわたしも頑張るから、リボンも頑張れ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ナビ…サン…",
+    "translation": "ナビ…サン…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ワタシは…リ…ボン…",
+    "translation": "ワタシは…リ…ボン…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "リボンは、わたしが守ってやる！！",
+    "translation": "リボンは、わたしが守ってやる！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_032_1",
+    "original": "リボンがリボンとして生きていける世界に…\n基準とか、普通とか、全部ぶっ壊す！",
+    "translation": "リボンがリボンとして生きていける世界に…\n基準とか、普通とか、全部ぶっ壊す！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "よーし、よく言った！",
+    "translation": "よーし、よく言った！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "基準外の思考、基準外の行動…\n決して認めません。",
+    "translation": "基準外の思考、基準外の行動…\n決して認めません。",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_034_1",
+    "original": "予定変更…\n悪影響を及ぼすイレギュラーを排除します。",
+    "translation": "予定変更…\n悪影響を及ぼすイレギュラーを排除します。",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "ダメ…",
+    "translation": "ダメ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_035_5_0",
+    "original": "ダメーーーーーッ！",
+    "translation": "ダメーーーーーッ！",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "何事ですか！？",
+    "translation": "何事ですか！？",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "リボン！",
+    "translation": "リボン！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "そうです…私はリボン。\n皆が名前をくださった、リボンです！",
+    "translation": "そうです…私はリボン。\n皆が名前をくださった、リボンです！",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "これは…オルギアモード…！？",
+    "translation": "これは…オルギアモード…！？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "な、なんで！？\nそんな機能ついてたの？",
+    "translation": "な、なんで！？\nそんな機能ついてたの？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "詳しい説明は後だ！\nリボン！　すぐハッキングを再開するぞ！",
+    "translation": "詳しい説明は後だ！\nリボン！　すぐハッキングを再開するぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "私は、この世界に抗うでアリマス！！",
+    "translation": "私は、この世界に抗うでアリマス！！",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_042_1",
+    "original": "花はきれい…この気持ち…\n忘れたくナイから…",
+    "translation": "花はきれい…この気持ち…\n忘れたくナイから…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_042_2",
+    "original": "みなさんが認めてくれた、\nこの『私』を…忘れたくナイから…！",
+    "translation": "みなさんが認めてくれた、\nこの『私』を…忘れたくナイから…！",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "ワタシの処理を越えるとは…",
+    "translation": "ワタシの処理を越えるとは…",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_043_1",
+    "original": "世界の標準規格を破ることなど\n認めません！",
+    "translation": "世界の標準規格を破ることなど\n認めません！",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "私…わた、し…負けません！！！",
+    "translation": "私…わた、し…負けません！！！",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_044_1",
+    "original": "負けま…ガガガガ…",
+    "translation": "負けま…ガガガガ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "リボンちゃん！？",
+    "translation": "リボンちゃん！？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "いけません！\nオーバーヒートであります！",
+    "translation": "いけません！\nオーバーヒートであります！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "な、なんだって！？",
+    "translation": "な、なんだって！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_047_1",
+    "original": "これ以上はダメだ、リボン！",
+    "translation": "これ以上はダメだ、リボン！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "ガガッ…モシモ、ガガガ、\nコレデ…壊レテモ…ガガガ…",
+    "translation": "ガガッ…モシモ、ガガガ、\nコレデ…壊レテモ…ガガガ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_048_1",
+    "original": "私はソレで本望デス…ガガ…\nコレが私のアリノママ…デス！",
+    "translation": "私はソレで本望デス…ガガ…\nコレが私のアリノママ…デス！",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "グググ…ガガ…これは…\n修復、機能が…",
+    "translation": "グググ…ガガ…これは…\n修復、機能が…",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_049_1",
+    "original": "イレギュラーのくせに…\nイレギュラーノクセニ…！",
+    "translation": "イレギュラーのくせに…\nイレギュラーノクセニ…！",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "ガガガ…ガガ…",
+    "translation": "ガガガ…ガガ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "リボン！！",
+    "translation": "リボン！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "リボンが望む世界、必ず実現してみせる！",
+    "translation": "リボンが望む世界、必ず実現してみせる！",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "リボン！！",
+    "translation": "リボン！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_053_1",
+    "original": "すまない、みんな。\nマザーコンピュータを頼む！",
+    "translation": "すまない、みんな。\nマザーコンピュータを頼む！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "ああ、後は僕たちに任せて。",
+    "translation": "ああ、後は僕たちに任せて。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_054_1",
+    "original": "リボンが望む世界、必ず実現してみせる！",
+    "translation": "リボンが望む世界、必ず実現してみせる！",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "リボンちゃんが、自動修復機能を\n止めてくれた！　今がチャンスだよ！",
+    "translation": "リボンちゃんが、自動修復機能を\n止めてくれた！　今がチャンスだよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "みなさん、構えてください！",
+    "translation": "みなさん、構えてください！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "ジジジジジ…致命的エラーを\n排除！！！！　排除！！！！！！！",
+    "translation": "ジジジジジ…致命的エラーを\n排除！！！！　排除！！！！！！！",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "speaker_マザーコンピュータ",
+    "original": "マザーコンピュータ",
+    "translation": "マザーコンピュータ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  }
+]

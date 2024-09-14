@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なんだよ、この巨大なツタ！？",
+    "translation": "なんだよ、この巨大なツタ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ただのツタじゃない。",
+    "translation": "ただのツタじゃない。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "どうやらソイツも、さっきの切り株の鼻と\n関係がありそうだ。",
+    "translation": "どうやらソイツも、さっきの切り株の鼻と\n関係がありそうだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "切り株の鼻…ってことは、\nじゃあ、これもせりなのか？",
+    "translation": "切り株の鼻…ってことは、\nじゃあ、これもせりなのか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うん。\nこれは上に上がってる状態だね。",
+    "translation": "うん。\nこれは上に上がってる状態だね。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "では、切り株の鼻を操作すれば、\nツタに変化が起きるということですね。",
+    "translation": "では、切り株の鼻を操作すれば、\nツタに変化が起きるということですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "このせりを動かしたい時は、切り株の鼻の\nスイッチを操作するんだぞ！",
+    "translation": "このせりを動かしたい時は、切り株の鼻の\nスイッチを操作するんだぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

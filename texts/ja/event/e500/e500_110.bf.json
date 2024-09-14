@@ -1,0 +1,107 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なぜ、残る？　なぜ、戦う？",
+    "translation": "なぜ、残る？　なぜ、戦う？",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あら…\nまだ何か御用でしょうか？",
+    "translation": "あら…\nまだ何か御用でしょうか？",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああ、やり残したことがあるんでな。",
+    "translation": "ああ、やり残したことがあるんでな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "すみませんが、ここにいる人たち全員\n解放していただきます。",
+    "translation": "すみませんが、ここにいる人たち全員\n解放していただきます。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "帰っていいと言われても、他の人たちを\n見過ごすなんて出来ないわ。",
+    "translation": "帰っていいと言われても、他の人たちを\n見過ごすなんて出来ないわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "…ひかりさん。\nまさか貴女まで、同じことを言うつもり？",
+    "translation": "…ひかりさん。\nまさか貴女まで、同じことを言うつもり？",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "周りに流されて、本心ではないのに\nまた無理をしているのではないかしら？",
+    "translation": "周りに流されて、本心ではないのに\nまた無理をしているのではないかしら？",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "違う。\n私は、私の意志でここにいる。",
+    "translation": "違う。\n私は、私の意志でここにいる。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ハァ…せっかく、帰ってよろしいですよと\n言ってあげましたのに。",
+    "translation": "ハァ…せっかく、帰ってよろしいですよと\n言ってあげましたのに。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "なら、仕方がありませんね。\n世界の一端をお見せしましょうか。",
+    "translation": "なら、仕方がありませんね。\n世界の一端をお見せしましょうか。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "speaker_エンリル",
+    "original": "エンリル",
+    "translation": "エンリル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  }
+]

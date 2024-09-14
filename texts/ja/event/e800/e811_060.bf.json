@@ -1,0 +1,107 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "オタカラゲットー！\nこれで２つ揃ったね！",
+    "translation": "オタカラゲットー！\nこれで２つ揃ったね！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ウム、見事な手際だった。\nあとは届けるだけだな。",
+    "translation": "ウム、見事な手際だった。\nあとは届けるだけだな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "むほほーい！\n怪盗クマクマ仮面、ミッション達成クマ！",
+    "translation": "むほほーい！\n怪盗クマクマ仮面、ミッション達成クマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "バッ…声が大きい！",
+    "translation": "バッ…声が大きい！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "いいか、まだ仕事は終わってない。\nお家に帰るまでが怪盗だ。",
+    "translation": "いいか、まだ仕事は終わってない。\nお家に帰るまでが怪盗だ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おお、遠足と一緒っスね。",
+    "translation": "おお、遠足と一緒っスね。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "こっちは命がけだけどな…",
+    "translation": "こっちは命がけだけどな…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "でも、上手くいってよかったぜ。\nバッチリ怪盗してたんじゃねーの？",
+    "translation": "でも、上手くいってよかったぜ。\nバッチリ怪盗してたんじゃねーの？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "よくやったぞ、みんな！\n早くお家帰ってこーい！",
+    "translation": "よくやったぞ、みんな！\n早くお家帰ってこーい！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

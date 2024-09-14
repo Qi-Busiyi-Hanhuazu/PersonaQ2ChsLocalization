@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ん？　この機械、なにやら\nレバーがついてるな。",
+    "translation": "ん？　この機械、なにやら\nレバーがついてるな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "これは…\nさっきの柵と関係ありそうだね。",
+    "translation": "これは…\nさっきの柵と関係ありそうだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "もし、そうなら助かるわ。\nあの柵を動かせれば、奥へ進めるし。",
+    "translation": "もし、そうなら助かるわ。\nあの柵を動かせれば、奥へ進めるし。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "判断はジョーカーに任せるけれど…",
+    "translation": "判断はジョーカーに任せるけれど…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "他に道が無いなら\nこのスイッチを操作してみるのも手ね。",
+    "translation": "他に道が無いなら\nこのスイッチを操作してみるのも手ね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  }
+]

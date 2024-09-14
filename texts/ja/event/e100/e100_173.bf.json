@@ -1,0 +1,751 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ここはベルベットルームだろうか…",
+    "translation": "ここはベルベットルームだろうか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "妙に青い部屋だな…\n何とも不思議な居心地だ。",
+    "translation": "妙に青い部屋だな…\n何とも不思議な居心地だ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "これも、異変によるものなのかな？",
+    "translation": "これも、異変によるものなのかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ねえ、[P5名]。\nまずは二人を紹介してよ。",
+    "translation": "ねえ、[P5名]。\nまずは二人を紹介してよ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "同じく、この映画館について話しなさい。",
+    "translation": "同じく、この映画館について話しなさい。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "知っていることを伝えよう…",
+    "translation": "知っていることを伝えよう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "なるほど…\n嘘じゃないんだろうな？",
+    "translation": "なるほど…\n嘘じゃないんだろうな？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "…とりあえず、ベルベットルームってのと、\n双子がお前の看守ってのは理解した。",
+    "translation": "…とりあえず、ベルベットルームってのと、\n双子がお前の看守ってのは理解した。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "囚人。要するに、\nここからは出られないのですね？",
+    "translation": "囚人。要するに、\nここからは出られないのですね？",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "そうだ",
+    "translation": "そうだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "残念だが…",
+    "translation": "残念だが…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "看守が囚われの身になるとは…",
+    "translation": "看守が囚われの身になるとは…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ジュスティーヌ。考えても仕方なさそうだ。\nこれも更生の一環ということにしておこう。",
+    "translation": "ジュスティーヌ。考えても仕方なさそうだ。\nこれも更生の一環ということにしておこう。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ええ。それで今は納得するしかないですね。",
+    "translation": "ええ。それで今は納得するしかないですね。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "幸いにして、ここはベルベットルーム…",
+    "translation": "幸いにして、ここはベルベットルーム…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "喜びなさい、[P5名]。\nペルソナの合体を引き受けましょう。",
+    "translation": "喜びなさい、[P5名]。\nペルソナの合体を引き受けましょう。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "SEL_016_0",
+    "original": "ありがたい",
+    "translation": "ありがたい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_016_1",
+    "original": "できるのか？",
+    "translation": "できるのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "感謝しろよ。",
+    "translation": "感謝しろよ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "愚問です。",
+    "translation": "愚問です。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "生意気な口を叩くなら、お前を処刑するぞ。",
+    "translation": "生意気な口を叩くなら、お前を処刑するぞ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ただ、準備が整うまで\nいましばらくお待ちなさい。",
+    "translation": "ただ、準備が整うまで\nいましばらくお待ちなさい。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "どうも、この場所では、\nいつもと勝手が違うようです。",
+    "translation": "どうも、この場所では、\nいつもと勝手が違うようです。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "囚人は、数多のペルソナを、\n自在に使いこなしていたよな。",
+    "translation": "囚人は、数多のペルソナを、\n自在に使いこなしていたよな。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "私たちはその能力を、\n『ワイルド』と呼んでいます。",
+    "translation": "私たちはその能力を、\n『ワイルド』と呼んでいます。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "ですが、ここでは\n本来の力は形を変えている様子…",
+    "translation": "ですが、ここでは\n本来の力は形を変えている様子…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "SEL_023_0",
+    "original": "どういう意味だ？",
+    "translation": "どういう意味だ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_023_1",
+    "original": "そんな気はしてた",
+    "translation": "そんな気はしてた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ひと言で言えば、\nお前の『アルセーヌ』は外せない。",
+    "translation": "ひと言で言えば、\nお前の『アルセーヌ』は外せない。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ペルソナの付け替えができないようだ…",
+    "translation": "ペルソナの付け替えができないようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_025_5_0",
+    "original": "皆さま…ご無事でしょうか？",
+    "translation": "皆さま…ご無事でしょうか？",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "まあ…！\nこの部屋は、試写室だったはずなのに…",
+    "translation": "まあ…！\nこの部屋は、試写室だったはずなのに…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "…誰だ？",
+    "translation": "…誰だ？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ああ…申し訳ございません。\n皆さまの様子が気になってしまって…",
+    "translation": "ああ…申し訳ございません。\n皆さまの様子が気になってしまって…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "…双子…？",
+    "translation": "…双子…？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "貴方たちのことは、先ほど聞きました。\n私たちのことは構わなくて結構です。",
+    "translation": "貴方たちのことは、先ほど聞きました。\n私たちのことは構わなくて結構です。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "え、ええと…？",
+    "translation": "え、ええと…？",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "んー…\nもっかい、紹介と説明が必要みたいだね。",
+    "translation": "んー…\nもっかい、紹介と説明が必要みたいだね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "なるほど…\n次々と、色んなことが起こりますね。",
+    "translation": "なるほど…\n次々と、色んなことが起こりますね。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "脱出への近道になるのでしたら、\n施設はどうぞご自由にお使いください。",
+    "translation": "脱出への近道になるのでしたら、\n施設はどうぞご自由にお使いください。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "二人も…仲間なの？",
+    "translation": "二人も…仲間なの？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "仲間という言葉は不適切です。",
+    "translation": "仲間という言葉は不適切です。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "更生を担当している。",
+    "translation": "更生を担当している。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "……？",
+    "translation": "……？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "それでは[P5名]。\nこの場所でも更生に励むのです。",
+    "translation": "それでは[P5名]。\nこの場所でも更生に励むのです。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_038_1",
+    "original": "ワイルドの能力が発揮できないのも、\n試練のひとつでしょう。",
+    "translation": "ワイルドの能力が発揮できないのも、\n試練のひとつでしょう。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "ペルソナが変えられないのか…\n戦力ダウンだけど、しょうがないね。",
+    "translation": "ペルソナが変えられないのか…\n戦力ダウンだけど、しょうがないね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_040_0",
+    "original": "なんとかなる",
+    "translation": "なんとかなる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_040_1",
+    "original": "皆を頼りにしてる",
+    "translation": "皆を頼りにしてる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_040_2",
+    "original": "不安だ",
+    "translation": "不安だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "そうだ、安心しろ！\nワガハイたちもついてるからな！",
+    "translation": "そうだ、安心しろ！\nワガハイたちもついてるからな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "ああ、それでいい。",
+    "translation": "ああ、それでいい。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "心配すんなよ。\n俺らだって１体だし、なんとかなるって！",
+    "translation": "心配すんなよ。\n俺らだって１体だし、なんとかなるって！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "ん…？\n待て、囚人…お前、何を持ってる？",
+    "translation": "ん…？\n待て、囚人…お前、何を持ってる？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "その懐に入れている『光るもの』を\n見せなさい。",
+    "translation": "その懐に入れている『光るもの』を\n見せなさい。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "光る…？\n拾ったフィルムのことじゃないか？",
+    "translation": "光る…？\n拾ったフィルムのことじゃないか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "光るフィルムを渡した…",
+    "translation": "光るフィルムを渡した…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "これは…",
+    "translation": "これは…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "たまたま拾ったんだけど、\nこれが何か知ってるの？",
+    "translation": "たまたま拾ったんだけど、\nこれが何か知ってるの？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "この『光るフィルム』…\n無限の可能性を秘めている。",
+    "translation": "この『光るフィルム』…\n無限の可能性を秘めている。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "心の中にある無限の可能性…\nすなわちペルソナ。",
+    "translation": "心の中にある無限の可能性…\nすなわちペルソナ。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_051_1",
+    "original": "これがあれば、『アルセーヌ』以外にも\n『もう１体』ペルソナを付けられるはず…",
+    "translation": "これがあれば、『アルセーヌ』以外にも\n『もう１体』ペルソナを付けられるはず…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "マジ？　ペルソナが、もう１体…！？\n戦力２倍とか強すぎだろ！",
+    "translation": "マジ？　ペルソナが、もう１体…！？\n戦力２倍とか強すぎだろ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "いえ、付け替え出来るペルソナは\n本来の力ではありません。",
+    "translation": "いえ、付け替え出来るペルソナは\n本来の力ではありません。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_053_1",
+    "original": "『アルセーヌ』が『メイン』とすると、\n付け替え可能なペルソナは『サブ』…",
+    "translation": "『アルセーヌ』が『メイン』とすると、\n付け替え可能なペルソナは『サブ』…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_053_2",
+    "original": "あくまで補助と考えてください。",
+    "translation": "あくまで補助と考えてください。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "それでも、同時に２体か…\nさすが[P5名]だね。恐れ入るよ。",
+    "translation": "それでも、同時に２体か…\nさすが[P5名]だね。恐れ入るよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "さあ、囚人よ。これを見なさい。",
+    "translation": "さあ、囚人よ。これを見なさい。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "光るフィルムを見つめてみた…",
+    "translation": "光るフィルムを見つめてみた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_056_05_0",
+    "original": "『光るフィルム』に\n『ピクシー』が映った…！",
+    "translation": "『光るフィルム』に\n『ピクシー』が映った…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "『光るフィルム』が変化し、\n新たなペルソナ『ピクシー』を手に入れました。",
+    "translation": "『光るフィルム』が変化し、\n新たなペルソナ『ピクシー』を手に入れました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_057_05_0",
+    "original": "よく分かんねえけど、\nワイルド、つえー！",
+    "translation": "よく分かんねえけど、\nワイルド、つえー！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_057_05_1",
+    "original": "いいよなー、[P5名]ばっか。\n俺だって違うペルソナ使ってみてーし。",
+    "translation": "いいよなー、[P5名]ばっか。\n俺だって違うペルソナ使ってみてーし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "…カロリーヌ。",
+    "translation": "…カロリーヌ。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "ああ、そのようだジュスティーヌ…",
+    "translation": "ああ、そのようだジュスティーヌ…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "どした？",
+    "translation": "どした？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "今ならお前たちも同時に\n２体のペルソナをつけられる。",
+    "translation": "今ならお前たちも同時に\n２体のペルソナをつけられる。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_062_0",
+    "original": "マジで！？\n[P5名]だけじゃねえの！？",
+    "translation": "マジで！？\n[P5名]だけじゃねえの！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_063_0",
+    "original": "当然、本来ならそのはずです。",
+    "translation": "当然、本来ならそのはずです。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_063_1",
+    "original": "ですが今なら、囚人の心に宿った\nペルソナを借り受けることができる。",
+    "translation": "ですが今なら、囚人の心に宿った\nペルソナを借り受けることができる。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_063_2",
+    "original": "しかし何故でしょう…\nワイルドの力が変化したから…？",
+    "translation": "しかし何故でしょう…\nワイルドの力が変化したから…？",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "SEL_064_0",
+    "original": "分からないのか？",
+    "translation": "分からないのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_064_1",
+    "original": "変化？",
+    "translation": "変化？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_065_0",
+    "original": "口を慎め、囚人！",
+    "translation": "口を慎め、囚人！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_065_1",
+    "original": "貴様らはただ黙ってその力を\n享受してればいい！",
+    "translation": "貴様らはただ黙ってその力を\n享受してればいい！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_066_0",
+    "original": "ええ、そうです。",
+    "translation": "ええ、そうです。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_066_1",
+    "original": "それにしても、この感じ…\nまるで、ワイルドが他にもいるような…",
+    "translation": "それにしても、この感じ…\nまるで、ワイルドが他にもいるような…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_067_0",
+    "original": "この感じ…まるで、\nワイルドが他にもいるような…",
+    "translation": "この感じ…まるで、\nワイルドが他にもいるような…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_068_0",
+    "original": "いいか！　余計な詮索は無用だ！",
+    "translation": "いいか！　余計な詮索は無用だ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_068_1",
+    "original": "貴様らはただ黙ってその力を\n享受してればいい！",
+    "translation": "貴様らはただ黙ってその力を\n享受してればいい！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_069_0",
+    "original": "つまり、俺たちもいつものペルソナ以外に\nもう１体召喚できるというわけだな。",
+    "translation": "つまり、俺たちもいつものペルソナ以外に\nもう１体召喚できるというわけだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_070_0",
+    "original": "やべー、ワクワクすっぞ！！",
+    "translation": "やべー、ワクワクすっぞ！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_071_0",
+    "original": "『メイン』と『サブ』か…\n上手く使いこなせるかな？",
+    "translation": "『メイン』と『サブ』か…\n上手く使いこなせるかな？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_072_0",
+    "original": "そこんとこは[P5名]もいるしな。",
+    "translation": "そこんとこは[P5名]もいるしな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_072_1",
+    "original": "なんせペルソナ複数持ちの\nスペシャリストだ。",
+    "translation": "なんせペルソナ複数持ちの\nスペシャリストだ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_072_2",
+    "original": "むしろ戦略も広がって、\nますます怖いものナシだぜ！　な？",
+    "translation": "むしろ戦略も広がって、\nますます怖いものナシだぜ！　な？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_073_0",
+    "original": "いつもと違うとはいえ、貴方は囚われの身。\nくれぐれも更生を怠らないように…",
+    "translation": "いつもと違うとはいえ、貴方は囚われの身。\nくれぐれも更生を怠らないように…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

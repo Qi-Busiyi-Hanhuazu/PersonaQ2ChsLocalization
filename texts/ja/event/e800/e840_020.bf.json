@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "けっこう広いですね。\nしかも、２フロアに渡っています。",
+    "translation": "けっこう広いですね。\nしかも、２フロアに渡っています。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "果物のありそうなところか…\nごめん、ちょっと見当もつかないや。",
+    "translation": "果物のありそうなところか…\nごめん、ちょっと見当もつかないや。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "急ぐことねーよ、\nまったり行きゃいーんだって。",
+    "translation": "急ぐことねーよ、\nまったり行きゃいーんだって。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "歩いて探すしかなさそうだね。",
+    "translation": "歩いて探すしかなさそうだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "シャドウはいるみたいだから、\n油断せず行こう。",
+    "translation": "シャドウはいるみたいだから、\n油断せず行こう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

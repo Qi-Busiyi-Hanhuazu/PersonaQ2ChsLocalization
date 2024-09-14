@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ジョーカー！\n階段の下、敵の気配がする。",
+    "translation": "JOKER！\n楼梯下面有敌人的气息。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\nJOKER！\n楼梯下方有敌人的气息。\n\nJOKER！\n楼梯下面有敌人的迹象。\n\nJOKER ！楼梯下面有敌人的动静。"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "降りるなら、ちゃんと\n準備しておいた方がよさそうだ。",
+    "translation": "如果要下去的话，\n最好提前做好准备。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n如果要下去的话，\n还是先做好准备比较好。\n\n如果要下车的话，看来还是做好准备比较好。\n\n\n要下车的话，最好做好准备。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おい、ジョーカー。\nどうする？　行くか？",
+    "translation": "喂，JOKER。\n怎么办？要去吗？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n喂，JOKER。\n怎么办？要下去吗？\n\n喂，JOKER。\n怎么办？去吗？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あ！　この先に敵がいるんだったな…\nジョーカー、大丈夫か？",
+    "translation": "啊！前方有敌人……\nJOKER，没关系吗？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n啊！敌人就在前面了呢……\nJOKER，没问题吧？\n\n啊！前面有敌人啊……\nJOKER，没事吧？\n\n啊！前面有敌人啊……\nJOKER，你没事吧？"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "行こう",
+    "translation": "我们上吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n上吧\n\n走吧"
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "待ってくれ",
+    "translation": "再等一下",
+    "stage": 1,
+    "context": "机翻辅助：\n\n等一下"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おっしゃ！　いっちょ暴れてやろうぜ。",
+    "translation": "好嘞！让我们来闹一番吧。",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好！就让我们大闹一场吧。\n\n你说！一起胡闹吧。\n\n喂！让他大闹一场吧。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おう、タイミングは任せるぜ。\nもいっちょストレッチでもしとくか…",
+    "translation": "嗯，那时机就交给你把控了。\n先再做个伸展运动吧……",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n哦，时机就交给你了。\n先再做一下伸展运动吧……\n\n喂，时机就交给你了。\n也做一下伸展运动吧……\n\n嗯，时机就交给你了。\n也做一点伸展运动吧……"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

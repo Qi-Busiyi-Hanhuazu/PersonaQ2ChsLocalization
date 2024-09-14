@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "目的は、『シダシナモン』を手に入れる！",
+    "translation": "目的は、『シダシナモン』を手に入れる！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "地図に目印があるよね？\nそこまで行って、採取してきて。",
+    "translation": "地図に目印があるよね？\nそこまで行って、採取してきて。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ここからだと…けっこう歩きそう。\n回転柵も動かさないと。",
+    "translation": "ここからだと…けっこう歩きそう。\n回転柵も動かさないと。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "３ヶ所あるみたいだね。\nまずは近くまで行ってみよっか。",
+    "translation": "３ヶ所あるみたいだね。\nまずは近くまで行ってみよっか。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

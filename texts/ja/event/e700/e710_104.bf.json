@@ -1,0 +1,37 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "やっぱ、疲れやすくなってんな…\nちょっと休んでくのもアリだぜ？",
+    "translation": "やっぱ、疲れやすくなってんな…\nちょっと休んでくのもアリだぜ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、体力に注意しろよ。",
+    "translation": "ああ、体力に注意しろよ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "慣れない環境での戦いなんだ。\nちゃんと様子見て、回復しとくんだぞ！",
+    "translation": "慣れない環境での戦いなんだ。\nちゃんと様子見て、回復しとくんだぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

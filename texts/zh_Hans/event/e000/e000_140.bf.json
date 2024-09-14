@@ -1,0 +1,23 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "＞ここまでの物語をセーブしますか？",
+    "translation": "＞要保存到目前为止的故事吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞要储存目前为止的故事吗？\n\n＞要保存到此为止的故事吗？\n\n＞保留到这里为止的故事吗？"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "対象の殲滅を確認。\nざっとこんなもんであります！",
+    "translation": "対象の殲滅を確認。\nざっとこんなもんであります！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "へへっ、今回はラクショーだったな。\nボーナスステージってとこか？",
+    "translation": "へへっ、今回はラクショーだったな。\nボーナスステージってとこか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "まあ、こっちにはロボ子がいるからな！\n白いロボは最強と相場が決まってる！",
+    "translation": "まあ、こっちにはロボ子がいるからな！\n白いロボは最強と相場が決まってる！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ナビさんの世界ではそうなのですか？\nなるほどな～。",
+    "translation": "ナビさんの世界ではそうなのですか？\nなるほどな～。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "アイギスもみんなも、お疲れさま。\nじゃあ、戻って報告しようか。",
+    "translation": "アイギスもみんなも、お疲れさま。\nじゃあ、戻って報告しようか。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

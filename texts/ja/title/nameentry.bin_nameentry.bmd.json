@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_NAME_ENTRY_HERO_0",
+    "original": "＞この物語の主人公の名前を入力してください。",
+    "translation": "＞この物語の主人公の名前を入力してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NAME_ENTRY_GUEST_0",
+    "original": "彼の名前を入力してください。",
+    "translation": "彼の名前を入力してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NAME_ENTRY_HELP_0",
+    "original": "主人公の名前を入力してください。\n下画面をタッチで文字を選択できます。",
+    "translation": "主人公の名前を入力してください。\n下画面をタッチで文字を選択できます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NAME_ENTRY_GUEST_HEL_0",
+    "original": "彼の名前を入力してください。\n下画面をタッチで文字を選択できます。",
+    "translation": "彼の名前を入力してください。\n下画面をタッチで文字を選択できます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NOTEBOOKINPUT_NAME_H_0",
+    "original": "すれちがいネームを入力してください。\n下画面をタッチで文字を選択できます。",
+    "translation": "すれちがいネームを入力してください。\n下画面をタッチで文字を選択できます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NOTEBOOKINPUT_WORD_H_0",
+    "original": "文章を入力してください。\n下画面をタッチで文字を選択できます。",
+    "translation": "文章を入力してください。\n下画面をタッチで文字を選択できます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NAME_ENTRY_GUEST_P3_0",
+    "original": "＞彼の名前を入力してください。",
+    "translation": "＞彼の名前を入力してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NAME_ENTRY_GUEST_P4_0",
+    "original": "＞彼の名前を入力してください。",
+    "translation": "＞彼の名前を入力してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NAME_ENTRY_GUEST_P3G_0",
+    "original": "＞彼女の名前を入力してください。",
+    "translation": "＞彼女の名前を入力してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NAME_ENTRY_GUEST_HEL_2_0",
+    "original": "彼の名前を入力してください。\n下画面をタッチで文字を選択できます。",
+    "translation": "彼の名前を入力してください。\n下画面をタッチで文字を選択できます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NAME_ENTRY_GUEST_HEL_3_0",
+    "original": "彼の名前を入力してください。\n下画面をタッチで文字を選択できます。",
+    "translation": "彼の名前を入力してください。\n下画面をタッチで文字を選択できます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NAME_ENTRY_GUEST_HEL_4_0",
+    "original": "彼女の名前を入力してください。\n下画面をタッチで文字を選択できます。",
+    "translation": "彼女の名前を入力してください。\n下画面をタッチで文字を選択できます。",
+    "stage": 1,
+    "context": ""
+  }
+]

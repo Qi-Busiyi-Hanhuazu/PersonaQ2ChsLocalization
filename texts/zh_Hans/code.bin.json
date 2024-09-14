@@ -1,0 +1,2732 @@
+[
+  {
+    "key": "offset_0017c5fc_0",
+    "original": "ひかり",
+    "translation": "光",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_001aef58_0",
+    "original": "プロローグ",
+    "translation": "序章",
+    "stage": 0,
+    "context": "机翻辅助：\n\n序章"
+  },
+  {
+    "key": "offset_001aef68_0",
+    "original": "ひかり",
+    "translation": "光",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00260088_0",
+    "original": "研究所 第%dフロア",
+    "translation": "研究所 第%d区域",
+    "stage": 0,
+    "context": "机翻辅助：\n\n研究所 第%d区域"
+  },
+  {
+    "key": "offset_00293a80_0",
+    "original": "複数ターゲット",
+    "translation": "多个目标",
+    "stage": 0,
+    "context": "机翻辅助：\n\n多个目标"
+  },
+  {
+    "key": "offset_00293a90_0",
+    "original": "味方全体",
+    "translation": "我方全体",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我方全体"
+  },
+  {
+    "key": "offset_00293a9c_0",
+    "original": "前列",
+    "translation": "前排",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前排"
+  },
+  {
+    "key": "offset_00293aa4_0",
+    "original": "後列",
+    "translation": "后排",
+    "stage": 0,
+    "context": "机翻辅助：\n\n后排"
+  },
+  {
+    "key": "offset_00293aac_0",
+    "original": "みんな",
+    "translation": "大家",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大家"
+  },
+  {
+    "key": "offset_00297104_0",
+    "original": "パーティ編成",
+    "translation": "编辑队伍",
+    "stage": 0,
+    "context": "机翻辅助：\n\n编辑队伍"
+  },
+  {
+    "key": "offset_00297118_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "offset_002a63e0_0",
+    "original": "ひかり",
+    "translation": "光",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_002a63e8_0",
+    "original": "%s%s",
+    "translation": "%s%s",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "offset_002b62d4_0",
+    "original": "L or R で10個ずつ飛ばせますー",
+    "translation": "用L或R各飞10个",
+    "stage": 0,
+    "context": "机翻辅助：\n\n用L或R各飞10个"
+  },
+  {
+    "key": "offset_0033b960_0",
+    "original": "よろしくおねがいします",
+    "translation": "请多关照。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n请多关照。"
+  },
+  {
+    "key": "offset_0033eed0_0",
+    "original": "味方",
+    "translation": "我方",
+    "stage": 1,
+    "context": "机翻辅助：\n\n自己人\n\n我方\n\n伙伴"
+  },
+  {
+    "key": "offset_0033eef4_0",
+    "original": "敵方",
+    "translation": "敌方",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0034e4f0_0",
+    "original": "ブランクカード",
+    "translation": "空白卡片",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0038c118_0",
+    "original": "戦闘ナビを%sにまかせる。",
+    "translation": "将战斗导航交给%s。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n将战斗导航交给%s。"
+  },
+  {
+    "key": "offset_0038c15c_0",
+    "original": "探索ナビを%sにまかせる。",
+    "translation": "将搜索导航交给%s。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n将搜索导航交给%s。"
+  },
+  {
+    "key": "offset_003f7e70_0",
+    "original": "システムエラー。",
+    "translation": "系统错误。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n系统错误。"
+  },
+  {
+    "key": "offset_003f7e88_0",
+    "original": "モード指示子が不正です。",
+    "translation": "模式指示符无效。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n模式指示符无效。"
+  },
+  {
+    "key": "offset_003f7ea4_0",
+    "original": "バージョンが不正です。",
+    "translation": "版本无效。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n版本无效。"
+  },
+  {
+    "key": "offset_003f7ebc_0",
+    "original": "指定されたバージョンではデータを格納できません。",
+    "translation": "无法在指定的版本中存储数据。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n无法在指定的版本中存储数据。"
+  },
+  {
+    "key": "offset_003f820c_0",
+    "original": "データを入力してください。",
+    "translation": "请输入数据。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n请输入数据。"
+  },
+  {
+    "key": "offset_003f8228_0",
+    "original": "分割方法が不正です。",
+    "translation": "分割方法无效。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n分割方法无效。"
+  },
+  {
+    "key": "offset_0045377c_0",
+    "original": "月亮",
+    "translation": "月亮",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e1c_0",
+    "original": "剛毅",
+    "translation": "力量",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454e24_0",
+    "original": "世界",
+    "translation": "世界",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454e38_0",
+    "original": "死神",
+    "translation": "死神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454e40_0",
+    "original": "正義",
+    "translation": "正义",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454e48_0",
+    "original": "女教皇",
+    "translation": "女教皇",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454e50_0",
+    "original": "魔術師",
+    "translation": "魔术师",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454e64_0",
+    "original": "太陽",
+    "translation": "太阳",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454e6c_0",
+    "original": "悪魔",
+    "translation": "恶魔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454e74_0",
+    "original": "塔",
+    "translation": "塔",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454e7c_0",
+    "original": "恋愛",
+    "translation": "恋爱",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454e84_0",
+    "original": "法王",
+    "translation": "教皇",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454e8c_0",
+    "original": "節制",
+    "translation": "节制",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454e94_0",
+    "original": "星",
+    "translation": "星",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454e98_0",
+    "original": "審判",
+    "translation": "审判",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454ea0_0",
+    "original": "運命",
+    "translation": "命运",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454ea8_0",
+    "original": "隠者",
+    "translation": "隐者",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454eb0_0",
+    "original": "刑死者",
+    "translation": "倒悬者",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454eb8_0",
+    "original": "愚者",
+    "translation": "愚者",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454ec0_0",
+    "original": "戦車",
+    "translation": "战车",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454ec8_0",
+    "original": "皇帝",
+    "translation": "皇帝",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_00454ed0_0",
+    "original": "女帝",
+    "translation": "女皇",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045649c_0",
+    "original": "Aチーム",
+    "translation": "A队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nA队"
+  },
+  {
+    "key": "offset_004564a4_0",
+    "original": "Bチーム",
+    "translation": "B队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nB队\n\nB组"
+  },
+  {
+    "key": "offset_004564ac_0",
+    "original": "Cチーム",
+    "translation": "C队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nC队\n\nC组"
+  },
+  {
+    "key": "offset_004564b4_0",
+    "original": "Dチーム",
+    "translation": "D队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nD队\n\nD组"
+  },
+  {
+    "key": "offset_004564bc_0",
+    "original": "Eチーム",
+    "translation": "E队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nE队\n\nE组"
+  },
+  {
+    "key": "offset_004564c4_0",
+    "original": "Fチーム",
+    "translation": "F队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF队\n\nF组"
+  },
+  {
+    "key": "offset_004564cc_0",
+    "original": "Gチーム",
+    "translation": "G队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nG队\n\nG组"
+  },
+  {
+    "key": "offset_004564d4_0",
+    "original": "Hチーム",
+    "translation": "H队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nH队\n\nH组"
+  },
+  {
+    "key": "offset_004564dc_0",
+    "original": "Iチーム",
+    "translation": "I队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nI队\n\nI组"
+  },
+  {
+    "key": "offset_004564e4_0",
+    "original": "Jチーム",
+    "translation": "J队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nJ队"
+  },
+  {
+    "key": "offset_004564ec_0",
+    "original": "Lチーム",
+    "translation": "L队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nL队\n\nL组"
+  },
+  {
+    "key": "offset_004564f4_0",
+    "original": "Mチーム",
+    "translation": "M队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nM队\n\n中队"
+  },
+  {
+    "key": "offset_004564fc_0",
+    "original": "Nチーム",
+    "translation": "N队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nN队\n\nN组"
+  },
+  {
+    "key": "offset_00456504_0",
+    "original": "Oチーム",
+    "translation": "O队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nO队\n\nO组"
+  },
+  {
+    "key": "offset_0045650c_0",
+    "original": "Pチーム",
+    "translation": "P队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP队\n\nP组"
+  },
+  {
+    "key": "offset_00456514_0",
+    "original": "Qチーム",
+    "translation": "Q队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nQ队\n\nQ组"
+  },
+  {
+    "key": "offset_0045651c_0",
+    "original": "Rチーム",
+    "translation": "R队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nR队\n\nR组"
+  },
+  {
+    "key": "offset_00456524_0",
+    "original": "Sチーム",
+    "translation": "S队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nS队\n\nS组"
+  },
+  {
+    "key": "offset_0045652c_0",
+    "original": "Tチーム",
+    "translation": "T队",
+    "stage": 0,
+    "context": "机翻辅助：\n\nT队\n\nT组"
+  },
+  {
+    "key": "offset_0045653c_0",
+    "original": "伊織",
+    "translation": "伊织",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456544_0",
+    "original": "巽",
+    "translation": "巽",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456548_0",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456554_0",
+    "original": "明彦",
+    "translation": "明彦",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_0045655c_0",
+    "original": "岳羽",
+    "translation": "岳羽",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456564_0",
+    "original": "アイギス",
+    "translation": "埃癸斯",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456570_0",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_0045657c_0",
+    "original": "真次郎",
+    "translation": "真次郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456584_0",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456590_0",
+    "original": "吾郎",
+    "translation": "吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004565a0_0",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004565a8_0",
+    "original": "真",
+    "translation": "真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004565ac_0",
+    "original": "荒垣",
+    "translation": "荒垣",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004565b4_0",
+    "original": "天田",
+    "translation": "天田",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004565bc_0",
+    "original": "真田",
+    "translation": "真田",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004565c4_0",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004565d0_0",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004565dc_0",
+    "original": "竜司",
+    "translation": "龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004565e4_0",
+    "original": "白鐘 直斗",
+    "translation": "白钟 直斗",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004565f0_0",
+    "original": "直斗",
+    "translation": "直斗",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004565f8_0",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456604_0",
+    "original": "雪子",
+    "translation": "雪子",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_0045660c_0",
+    "original": "佐倉",
+    "translation": "佐仓",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456614_0",
+    "original": "明智",
+    "translation": "明智",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_0045661c_0",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456624_0",
+    "original": "春",
+    "translation": "春",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456628_0",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456634_0",
+    "original": "双葉",
+    "translation": "双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_0045663c_0",
+    "original": "坂本",
+    "translation": "坂本",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456644_0",
+    "original": "クマ",
+    "translation": "小熊",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_0045664c_0",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456658_0",
+    "original": "千枝",
+    "translation": "千枝",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456660_0",
+    "original": "里中",
+    "translation": "里中",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456668_0",
+    "original": "新島",
+    "translation": "新岛",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456670_0",
+    "original": "コロマル",
+    "translation": "虎狼丸",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_0045667c_0",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456684_0",
+    "original": "乾",
+    "translation": "乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456688_0",
+    "original": "高巻",
+    "translation": "高卷",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456690_0",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_0045669c_0",
+    "original": "りせ",
+    "translation": "理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004566a4_0",
+    "original": "奥村",
+    "translation": "奥村",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004566ac_0",
+    "original": "花村",
+    "translation": "花村",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004566b4_0",
+    "original": "伊織 順平",
+    "translation": "伊织 顺平",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004566c0_0",
+    "original": "順平",
+    "translation": "顺平",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004566c8_0",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004566d0_0",
+    "original": "杏",
+    "translation": "杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004566d4_0",
+    "original": "山岸 風花",
+    "translation": "山岸 风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004566e0_0",
+    "original": "風花",
+    "translation": "风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004566e8_0",
+    "original": "山岸",
+    "translation": "山岸",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004566f0_0",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鹤",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004566fc_0",
+    "original": "美鶴",
+    "translation": "美鹤",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456704_0",
+    "original": "白鐘",
+    "translation": "白钟",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_0045670c_0",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 由加莉",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456718_0",
+    "original": "ゆかり",
+    "translation": "由加莉",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456720_0",
+    "original": "天城",
+    "translation": "天城",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456728_0",
+    "original": "久慈川",
+    "translation": "久慈川",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456730_0",
+    "original": "喜多川",
+    "translation": "喜多川",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456738_0",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456744_0",
+    "original": "祐介",
+    "translation": "佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_0045674c_0",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456758_0",
+    "original": "陽介",
+    "translation": "阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456760_0",
+    "original": "桐条",
+    "translation": "桐条",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456768_0",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456770_0",
+    "original": "完二",
+    "translation": "完二",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456778_0",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456784_0",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_00456790_0",
+    "original": "Ｐ５主人公",
+    "translation": "Ｐ５主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_0045679c_0",
+    "original": "Ｐ３女主人公",
+    "translation": "Ｐ３女主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_004581cc_0",
+    "original": "扉",
+    "translation": "门",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "offset_00458208_0",
+    "original": "電気柵",
+    "translation": "电栅栏",
+    "stage": 1,
+    "context": "机翻辅助：\n\n电栅栏。\n\n电栅栏"
+  },
+  {
+    "key": "offset_00459b60_0",
+    "original": "謎解き",
+    "translation": "解谜",
+    "stage": 0,
+    "context": "机翻辅助：\n\n解谜"
+  },
+  {
+    "key": "offset_00459b68_0",
+    "original": "討伐",
+    "translation": "讨伐",
+    "stage": 0,
+    "context": "机翻辅助：\n\n讨伐"
+  },
+  {
+    "key": "offset_00459b70_0",
+    "original": "調査",
+    "translation": "调查",
+    "stage": 0,
+    "context": "机翻辅助：\n\n调查"
+  },
+  {
+    "key": "offset_00459b78_0",
+    "original": "その他",
+    "translation": "其他",
+    "stage": 0,
+    "context": "机翻辅助：\n\n其他"
+  },
+  {
+    "key": "offset_00459b80_0",
+    "original": "採取",
+    "translation": "采集",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "offset_0045a068_0",
+    "original": "第%dエリア",
+    "translation": "第%d区域",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第%d区域\n\n第%d区"
+  },
+  {
+    "key": "offset_0045a07c_0",
+    "original": "A.I.G.I.S",
+    "translation": "A.I.G.I.S",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a088_0",
+    "original": "%d番街",
+    "translation": "%d号街",
+    "stage": 0,
+    "context": "机翻辅助：\n\n%d号街\n\n第%d街\n\n%d大道"
+  },
+  {
+    "key": "offset_0045a090_0",
+    "original": "大衆の映画館街",
+    "translation": "大众电影院街",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大众电影院街\n\n大众的电影院街"
+  },
+  {
+    "key": "offset_0045a420_0",
+    "original": "ジュネシック・ランド",
+    "translation": "朱尼纪乐园",
+    "stage": 0,
+    "context": "机翻辅助：\n\n朱尼纪乐园"
+  },
+  {
+    "key": "offset_0045a498_0",
+    "original": "中央集積所",
+    "translation": "中央集成所",
+    "stage": 1,
+    "context": "机翻辅助：\n\n中央储积所\n\n中央集中营\n\n中央集成站"
+  },
+  {
+    "key": "offset_0045a4a4_0",
+    "original": "第%d幕",
+    "translation": "第%d幕",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a4ac_0",
+    "original": "第%dゾーン",
+    "translation": "第%d区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第%d区"
+  },
+  {
+    "key": "offset_0045a4b8_0",
+    "original": "カモシダーマン",
+    "translation": "鸭志田超人",
+    "stage": 0,
+    "context": "机翻辅助：\n\n鸭志田超人"
+  },
+  {
+    "key": "offset_0045a4c8_0",
+    "original": "大衆の映画館街・最奥部",
+    "translation": "大众电影院街·最深处",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大众电影院街·最深处\n\n大众的电影院街·最深处"
+  },
+  {
+    "key": "offset_0045a4e0_0",
+    "original": "島の最果て",
+    "translation": "岛屿尽头",
+    "stage": 0,
+    "context": "机翻辅助：\n\n岛屿尽头\n\n岛的尽头"
+  },
+  {
+    "key": "offset_0045a4ec_0",
+    "original": "無限の幕間",
+    "translation": "无限幕间",
+    "stage": 0,
+    "context": "机翻辅助：\n\n无限幕间\n\n无限的幕间"
+  },
+  {
+    "key": "offset_0045a4f8_0",
+    "original": "第%d区画",
+    "translation": "第%d区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第%d区\n\n第%d窗格"
+  },
+  {
+    "key": "offset_0045a504_0",
+    "original": "ひかり",
+    "translation": "光",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "offset_0045a50c_0",
+    "original": "カモシダ記念広場",
+    "translation": "鸭志田纪念广场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n鸭志田纪念广场"
+  },
+  {
+    "key": "offset_0045b154_0",
+    "original": "エリザベス＆テオドア",
+    "translation": "伊莉莎白＆西奥多",
+    "stage": 0,
+    "context": "机翻辅助：\n\n伊莉莎白＆西奥多\n\n伊莉莎白与西奥多"
+  },
+  {
+    "key": "offset_0045b16c_0",
+    "original": "マガツイザナギ",
+    "translation": "祸津伊邪那岐",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045b17c_0",
+    "original": "アステリオス",
+    "translation": "阿斯忒里俄斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045b18c_0",
+    "original": "タナトス",
+    "translation": "塔纳托斯",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045b198_0",
+    "original": "メサイア・賊神",
+    "translation": "弥赛亚·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045b1a8_0",
+    "original": "イザナギ・賊神",
+    "translation": "伊邪那岐·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045b1b8_0",
+    "original": "オルフェウス・賊神",
+    "translation": "俄耳甫斯·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045b1cc_0",
+    "original": "アステリオス・賊神",
+    "translation": "阿斯忒里俄斯·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045b1e0_0",
+    "original": "タナトス・賊神",
+    "translation": "塔纳托斯·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045b1f0_0",
+    "original": "アリアドネ・賊神",
+    "translation": "阿里阿德涅·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045b204_0",
+    "original": "ツキヨミ・賊神",
+    "translation": "月读·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045b214_0",
+    "original": "カグヤ・賊神",
+    "translation": "辉夜·贼神",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045b224_0",
+    "original": "マガツイザナギ賊神",
+    "translation": "祸津伊邪那岐贼神",
+    "stage": 1,
+    "context": "机翻辅助：\n\n野鸭蛹贼神\n\n怪盗神"
+  },
+  {
+    "key": "offset_0045b238_0",
+    "original": "ご当地グルメ３食セット",
+    "translation": "当地美食三餐套餐",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在地美食3餐套餐\n\n当地美食三餐套餐\n\n当地美食3餐套餐"
+  },
+  {
+    "key": "offset_0045b250_0",
+    "original": "ペルソナ３セット",
+    "translation": "女神异闻录3",
+    "stage": 1,
+    "context": "机翻辅助：\n\n女神异闻录3套组\n\n女神异闻录3套\n\n女神异闻录3组"
+  },
+  {
+    "key": "offset_0045b264_0",
+    "original": "ペルソナ４セット",
+    "translation": "女神异闻录4",
+    "stage": 1,
+    "context": "机翻辅助：\n\n女神异闻录4套组\n\n女神异闻录4套\n\n女神异闻录4组"
+  },
+  {
+    "key": "offset_0045b278_0",
+    "original": "ペルソナ５セット",
+    "translation": "女神异闻录5",
+    "stage": 1,
+    "context": "机翻辅助：\n\n女神异闻录5套组\n\n女神异闻录5套"
+  },
+  {
+    "key": "offset_0045b28c_0",
+    "original": "レベルアップセット",
+    "translation": "升级套组",
+    "stage": 0,
+    "context": "机翻辅助：\n\n升级套组\n\n升级集\n\n升级套装"
+  },
+  {
+    "key": "offset_0045b2a0_0",
+    "original": "映画鑑賞用回復セット",
+    "translation": "电影鉴赏用回复套组",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电影鉴赏用回复套组\n\n电影欣赏用恢复套装\n\n电影鉴赏用恢复装置"
+  },
+  {
+    "key": "offset_0045b2b8_0",
+    "original": "戦闘確率制御セット",
+    "translation": "战斗概率控制套组",
+    "stage": 0,
+    "context": "机翻辅助：\n\n战斗概率控制套组\n\n战斗概率控制集\n\n战斗概率控制组"
+  },
+  {
+    "key": "offset_0045b2cc_0",
+    "original": "ジュスティーヌ＆カロリーヌ",
+    "translation": "芮丝汀娜＆卡萝莉娜",
+    "stage": 0,
+    "context": "机翻辅助：\n\n芮丝汀娜＆卡萝莉娜"
+  },
+  {
+    "key": "offset_0045b2e8_0",
+    "original": "アリアドネ",
+    "translation": "阿里阿德涅",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045b34c_0",
+    "original": "マーガレット＆菜々子",
+    "translation": "玛格丽特＆菜菜子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n玛格丽特＆菜菜子\n\n玛格丽特与菜菜子"
+  },
+  {
+    "key": "offset_0045b364_0",
+    "original": "ツキヨミ",
+    "translation": "月读",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045b370_0",
+    "original": "カグヤ",
+    "translation": "辉夜",
+    "stage": 9,
+    "context": "翻译匹配：P5R"
+  },
+  {
+    "key": "offset_0045b378_0",
+    "original": "経験値上昇アクセサリ",
+    "translation": "经验值上升饰品",
+    "stage": 0,
+    "context": "机翻辅助：\n\n经验值上升饰品\n\n经验值上升附件"
+  },
+  {
+    "key": "offset_0045b390_0",
+    "original": "入手金上昇アクセサリ",
+    "translation": "提升悬赏金饰品",
+    "stage": 0,
+    "context": "机翻辅助：\n\n提升悬赏金饰品\n\n入手金上升饰品\n\n提高入手金的饰品"
+  },
+  {
+    "key": "offset_0045fd08_0",
+    "original": " 第１エリア",
+    "translation": " 第1区",
+    "stage": 1,
+    "context": "机翻辅助：\n\n 第1区域"
+  },
+  {
+    "key": "offset_0045fd14_0",
+    "original": " 第２エリア",
+    "translation": " 第2区",
+    "stage": 1,
+    "context": "机翻辅助：\n\n 第2区域"
+  },
+  {
+    "key": "offset_0045fd20_0",
+    "original": " 第３エリア",
+    "translation": " 第3区",
+    "stage": 1,
+    "context": "机翻辅助：\n\n 第3区域"
+  },
+  {
+    "key": "offset_0045fd2c_0",
+    "original": " 第４エリア",
+    "translation": " 第4区",
+    "stage": 1,
+    "context": "机翻辅助：\n\n 第4区域"
+  },
+  {
+    "key": "offset_0045fd38_0",
+    "original": "研究所 第１フロア",
+    "translation": "研究所 1楼",
+    "stage": 0,
+    "context": "机翻辅助：\n\n研究所 1楼"
+  },
+  {
+    "key": "offset_0045fd4c_0",
+    "original": "研究所 第２フロア",
+    "translation": "研究所 2楼",
+    "stage": 0,
+    "context": "机翻辅助：\n\n研究所 2楼"
+  },
+  {
+    "key": "offset_0045fd60_0",
+    "original": "ブロックマーク",
+    "translation": "方块标记",
+    "stage": 0,
+    "context": "机翻辅助：\n\n方块标记"
+  },
+  {
+    "key": "offset_0045fd70_0",
+    "original": "星マーク",
+    "translation": "星形标记",
+    "stage": 0,
+    "context": "机翻辅助：\n\n星形标记"
+  },
+  {
+    "key": "offset_0045fd7c_0",
+    "original": "はてなマーク",
+    "translation": "问号标记",
+    "stage": 0,
+    "context": "机翻辅助：\n\n问号标记"
+  },
+  {
+    "key": "offset_0045fd8c_0",
+    "original": "丸マーク",
+    "translation": "圆形标记",
+    "stage": 0,
+    "context": "机翻辅助：\n\n圆形标记"
+  },
+  {
+    "key": "offset_0045fd98_0",
+    "original": "びっくりマーク",
+    "translation": "叹号标记",
+    "stage": 0,
+    "context": "机翻辅助：\n\n叹号标记"
+  },
+  {
+    "key": "offset_0045fda8_0",
+    "original": "数字０",
+    "translation": "数字0",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数字0"
+  },
+  {
+    "key": "offset_0045fdb0_0",
+    "original": "数字１",
+    "translation": "数字1",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数字1"
+  },
+  {
+    "key": "offset_0045fdb8_0",
+    "original": "数字２",
+    "translation": "数字2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数字2"
+  },
+  {
+    "key": "offset_0045fdc0_0",
+    "original": "数字３",
+    "translation": "数字3",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数字3"
+  },
+  {
+    "key": "offset_0045fdc8_0",
+    "original": "数字４",
+    "translation": "数字4",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数字4"
+  },
+  {
+    "key": "offset_0045fdd0_0",
+    "original": "数字５",
+    "translation": "数字5",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数字5"
+  },
+  {
+    "key": "offset_0045fdd8_0",
+    "original": "数字６",
+    "translation": "数字6",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数字6"
+  },
+  {
+    "key": "offset_0045fde0_0",
+    "original": "数字７",
+    "translation": "数字7",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数字7"
+  },
+  {
+    "key": "offset_0045fde8_0",
+    "original": "数字８",
+    "translation": "数字8",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数字8"
+  },
+  {
+    "key": "offset_0045fdf0_0",
+    "original": "数字９",
+    "translation": "数字9",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数字9"
+  },
+  {
+    "key": "offset_0045fdf8_0",
+    "original": "１番街",
+    "translation": "第1区",
+    "stage": 1,
+    "context": "机翻辅助：\n\n第1大道"
+  },
+  {
+    "key": "offset_0045fe00_0",
+    "original": "２番街",
+    "translation": "第2区",
+    "stage": 1,
+    "context": "机翻辅助：\n\n第2大道"
+  },
+  {
+    "key": "offset_0045fe08_0",
+    "original": "３番街",
+    "translation": "第3区",
+    "stage": 1,
+    "context": "机翻辅助：\n\n第3大道"
+  },
+  {
+    "key": "offset_0045fe10_0",
+    "original": "スタート地点",
+    "translation": "起点",
+    "stage": 0,
+    "context": "机翻辅助：\n\n起点"
+  },
+  {
+    "key": "offset_0045fe20_0",
+    "original": "スイッチ",
+    "translation": "开关",
+    "stage": 0,
+    "context": "机翻辅助：\n\n开关"
+  },
+  {
+    "key": "offset_0045fe2c_0",
+    "original": "Ｆ．Ｏ．Ｅ",
+    "translation": "F.O.E",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E"
+  },
+  {
+    "key": "offset_0045fe38_0",
+    "original": "セキュリティゲート",
+    "translation": "安全门",
+    "stage": 0,
+    "context": "机翻辅助：\n\n安全门"
+  },
+  {
+    "key": "offset_0045fe4c_0",
+    "original": "オタカラスポット",
+    "translation": "藏宝地点",
+    "stage": 0,
+    "context": "机翻辅助：\n\n藏宝地点\n\n珍宝景点\n\n宝藏地点"
+  },
+  {
+    "key": "offset_0045fe60_0",
+    "original": "イベント",
+    "translation": "事件",
+    "stage": 0,
+    "context": "机翻辅助：\n\n事件"
+  },
+  {
+    "key": "offset_0045fe6c_0",
+    "original": "下り階段",
+    "translation": "通往下层",
+    "stage": 0,
+    "context": "机翻辅助：\n\n通往下层"
+  },
+  {
+    "key": "offset_0045fe78_0",
+    "original": "上り階段",
+    "translation": "通往上层",
+    "stage": 0,
+    "context": "机翻辅助：\n\n通往上层"
+  },
+  {
+    "key": "offset_0045fee0_0",
+    "original": "メモ",
+    "translation": "备忘录",
+    "stage": 0,
+    "context": "机翻辅助：\n\n备忘录"
+  },
+  {
+    "key": "offset_0045fee8_0",
+    "original": "第１幕",
+    "translation": "第1幕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第1幕\n\n第一幕"
+  },
+  {
+    "key": "offset_0045fef0_0",
+    "original": "第２幕",
+    "translation": "第2幕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第2幕\n\n第二幕"
+  },
+  {
+    "key": "offset_0045fef8_0",
+    "original": "第３幕",
+    "translation": "第3幕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第3幕\n\n第三幕"
+  },
+  {
+    "key": "offset_0045ff00_0",
+    "original": "第４幕",
+    "translation": "第4幕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第4幕\n\n第四幕"
+  },
+  {
+    "key": "offset_0045ff08_0",
+    "original": "第５幕",
+    "translation": "第5幕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第5幕\n\n第五幕"
+  },
+  {
+    "key": "offset_0045ff10_0",
+    "original": "第６幕",
+    "translation": "第6幕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第6幕\n\n第六幕"
+  },
+  {
+    "key": "offset_0045ff18_0",
+    "original": "第７幕",
+    "translation": "第7幕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第7幕\n\n第七幕"
+  },
+  {
+    "key": "offset_0045ff20_0",
+    "original": "第１ゾーン",
+    "translation": "第1区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第1区\n\n第一区"
+  },
+  {
+    "key": "offset_0045ff2c_0",
+    "original": "第２ゾーン",
+    "translation": "第2区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第2区\n\n第二区域\n\n第二区"
+  },
+  {
+    "key": "offset_0045ff38_0",
+    "original": "・最奥部",
+    "translation": "·最深处",
+    "stage": 0,
+    "context": "机翻辅助：\n\n·最深处\n\n·最里面"
+  },
+  {
+    "key": "offset_0045ff44_0",
+    "original": "抜け道",
+    "translation": "密道",
+    "stage": 0,
+    "context": "机翻辅助：\n\n密道\n\n近道"
+  },
+  {
+    "key": "offset_0045ff4c_0",
+    "original": "ギミック壁",
+    "translation": "机关墙",
+    "stage": 0,
+    "context": "机翻辅助：\n\n机关墙\n\n吉米克墙\n\n噱头墙"
+  },
+  {
+    "key": "offset_0045ff58_0",
+    "original": "防風壁",
+    "translation": "防壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n防壁\n\n防风墙"
+  },
+  {
+    "key": "offset_0045ff60_0",
+    "original": "破壊壁",
+    "translation": "破坏之壁",
+    "stage": 0,
+    "context": "机翻辅助：\n\n破坏之壁\n\n破坏墙\n\n破坏壁"
+  },
+  {
+    "key": "offset_0045ff68_0",
+    "original": "閉じた扉",
+    "translation": "关上的门",
+    "stage": 0,
+    "context": "机翻辅助：\n\n关上的门\n\n关闭的门"
+  },
+  {
+    "key": "offset_0045ff74_0",
+    "original": "てすと映画",
+    "translation": "电影测验",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电影测验\n\n手绘电影\n\n测试电影"
+  },
+  {
+    "key": "offset_0045ff80_0",
+    "original": "第１区画",
+    "translation": "第1区域",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第1区域\n\n第一区划\n\n第一区"
+  },
+  {
+    "key": "offset_0045ff8c_0",
+    "original": "第２区画",
+    "translation": "第2区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第2区\n\n第二区划\n\n第二区"
+  },
+  {
+    "key": "offset_0045ff98_0",
+    "original": "第３区画",
+    "translation": "第3区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第3区\n\n第三区划\n\n第三分区"
+  },
+  {
+    "key": "offset_0045ffa4_0",
+    "original": "第４区画",
+    "translation": "第4区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第4区\n\n第四区划\n\n第四分区"
+  },
+  {
+    "key": "offset_0045ffb0_0",
+    "original": "せり",
+    "translation": "升降台",
+    "stage": 1,
+    "context": "机翻辅助：\n\n芹菜\n\n拱顶"
+  },
+  {
+    "key": "offset_0045ffb8_0",
+    "original": "最終テスト場",
+    "translation": "最终测考场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n最终测考场\n\n最终试验场\n\n最终测试场"
+  },
+  {
+    "key": "offset_0045ffc8_0",
+    "original": "第１テスト場",
+    "translation": "第1考场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第1考场\n\n第一考场\n\n第一测试场"
+  },
+  {
+    "key": "offset_0045ffd8_0",
+    "original": "第２テスト場",
+    "translation": "第二考场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第二考场\n\n第二测试场"
+  },
+  {
+    "key": "offset_0045ffe8_0",
+    "original": "第３テスト場",
+    "translation": "第3考场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第3考场\n\n第三考场\n\n第三测试场"
+  },
+  {
+    "key": "offset_0045fff8_0",
+    "original": "第４テスト場",
+    "translation": "第4考场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第4考场\n\n第四考场\n\n第四测试场"
+  },
+  {
+    "key": "offset_00460008_0",
+    "original": "第５テスト場",
+    "translation": "第5考场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第5考场\n\n第五考场\n\n第5测试场"
+  },
+  {
+    "key": "offset_00460018_0",
+    "original": "第６テスト場",
+    "translation": "第6考场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第6考场\n\n第六考场\n\n第六测试场"
+  },
+  {
+    "key": "offset_00460028_0",
+    "original": "第７テスト場",
+    "translation": "第7考场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第7考场\n\n第七考场\n\n第7测试场"
+  },
+  {
+    "key": "offset_00460038_0",
+    "original": "第８テスト場",
+    "translation": "第8考场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第8考场\n\n第八考场\n\n第8测试场"
+  },
+  {
+    "key": "offset_00460048_0",
+    "original": "第９テスト場",
+    "translation": "第9考场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n第9考场\n\n第九考场\n\n第九测试场"
+  },
+  {
+    "key": "offset_00460058_0",
+    "original": "回転柵",
+    "translation": "转栅栏",
+    "stage": 1,
+    "context": "机翻辅助：\n\n旋转栅栏\n\n旋转栏"
+  },
+  {
+    "key": "offset_00460060_0",
+    "original": "矢印",
+    "translation": "箭头",
+    "stage": 0,
+    "context": "机翻辅助：\n\n箭头"
+  },
+  {
+    "key": "offset_004602b8_0",
+    "original": "大衆の映画館街 第１エリア",
+    "translation": "大众电影院街 第1区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大众电影院街 第1区\n\n大众电影院街第一区\n\n大众电影院街1区"
+  },
+  {
+    "key": "offset_004602d4_0",
+    "original": "大衆の映画館街 第２エリア",
+    "translation": "大众电影院街 第2区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大众电影院街 第2区\n\n大众电影院街第二区"
+  },
+  {
+    "key": "offset_004602f0_0",
+    "original": "大衆の映画館街 第３エリア",
+    "translation": "大众电影院街 第3区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大众电影院街 第3区\n\n大众电影院街第三区"
+  },
+  {
+    "key": "offset_0046030c_0",
+    "original": "大衆の映画館街 第４エリア",
+    "translation": "大众电影院街 第4区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大众电影院街 第4区\n\n大众电影院街第四区域\n\n大众电影院街第四区"
+  },
+  {
+    "key": "offset_00460328_0",
+    "original": "A.I.G.I.S 研究所 第１フロア",
+    "translation": "A.I.G.I.S 研究所 1楼",
+    "stage": 1,
+    "context": "机翻辅助：\n\nA.I.G.I.S研究所　第一楼\n\nA.I.G.I.S研究所第1层\n\nA.I.G.I.S研究所第一层"
+  },
+  {
+    "key": "offset_00460344_0",
+    "original": "A.I.G.I.S 研究所 第２フロア",
+    "translation": "A.I.G.I.S 研究所 2楼",
+    "stage": 1,
+    "context": "机翻辅助：\n\nA.I.G.I.S研究所第二层楼\n\nA.I.G.I.S研究所第2层"
+  },
+  {
+    "key": "offset_00460368_0",
+    "original": "ヤソガミコウコウ",
+    "translation": "八十神高中",
+    "stage": 1,
+    "context": "机翻辅助：\n\n邪神镜光\n\n杜鹃花\n\n八上高中"
+  },
+  {
+    "key": "offset_0046037c_0",
+    "original": "カモシダーマン １番街",
+    "translation": "鸭志田超人 第1大道",
+    "stage": 1,
+    "context": "机翻辅助：\n\n鸭志田超人第1大道\n\n鸭志田超人1番街"
+  },
+  {
+    "key": "offset_00460394_0",
+    "original": "カモシダーマン ２番街",
+    "translation": "鸭志田超人 第2大道",
+    "stage": 0,
+    "context": "机翻辅助：\n\n鸭志田超人 第2大道\n\n鸭志田超人第2大道"
+  },
+  {
+    "key": "offset_004603ac_0",
+    "original": "カモシダーマン ３番街",
+    "translation": "鸭志田超人 第3大道",
+    "stage": 0,
+    "context": "机翻辅助：\n\n鸭志田超人 第3大道\n\n鸭志田超人第3大道"
+  },
+  {
+    "key": "offset_004603c4_0",
+    "original": "A.I.G.I.S 中央集積所",
+    "translation": "A.I.G.I.S 中央集成所",
+    "stage": 1,
+    "context": "机翻辅助：\n\nA.I.G.I.S中央集聚所\n\nA.I.G.I.S中央集积所\n\nA.I.G.I.S中央集成所"
+  },
+  {
+    "key": "offset_004603dc_0",
+    "original": "ひかり 第１幕",
+    "translation": "光 第1幕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n光 第1幕\n\n光第一幕"
+  },
+  {
+    "key": "offset_004603ec_0",
+    "original": "ひかり 第２幕",
+    "translation": "光 第2幕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n光 第2幕\n\n光第二幕"
+  },
+  {
+    "key": "offset_004603fc_0",
+    "original": "ひかり 第３幕",
+    "translation": "光 第3幕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n光 第3幕\n\n光第三幕"
+  },
+  {
+    "key": "offset_0046040c_0",
+    "original": "ひかり 第４幕",
+    "translation": "光 第4幕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n光 第4幕\n\n光第4幕\n\n光第四幕"
+  },
+  {
+    "key": "offset_0046041c_0",
+    "original": "ひかり 第５幕",
+    "translation": "光 第5幕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n光 第5幕\n\n光第五幕\n\n光之第五幕"
+  },
+  {
+    "key": "offset_0046042c_0",
+    "original": "ひかり 第６幕",
+    "translation": "光 第6幕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n光 第6幕\n\n光第6幕\n\n光之第六幕"
+  },
+  {
+    "key": "offset_0046043c_0",
+    "original": "ひかり 第７幕",
+    "translation": "光 第7幕",
+    "stage": 0,
+    "context": "机翻辅助：\n\n光 第7幕\n\n光第7幕\n\n光之第七幕"
+  },
+  {
+    "key": "offset_0046044c_0",
+    "original": "A.I.G.I.S 第１ゾーン",
+    "translation": "A.I.G.I.S 第1区",
+    "stage": 1,
+    "context": "机翻辅助：\n\nA.I.G.I.S第1区\n\nA.I.G.I.S第一区"
+  },
+  {
+    "key": "offset_00460464_0",
+    "original": "A.I.G.I.S 第２ゾーン",
+    "translation": "A.I.G.I.S 第2区",
+    "stage": 1,
+    "context": "机翻辅助：\n\nA.I.G.I.S第2区\n\nA.I.G.I.S第二区"
+  },
+  {
+    "key": "offset_0046047c_0",
+    "original": "ジュネシック・ランド 島の最果て",
+    "translation": "朱尼纪乐园 岛的尽头",
+    "stage": 0,
+    "context": "机翻辅助：\n\n朱尼纪乐园 岛的尽头\n\n朱尼纪乐园岛的尽头"
+  },
+  {
+    "key": "offset_0046049c_0",
+    "original": "ひかり 無限の幕間",
+    "translation": "光 无限的中场休息",
+    "stage": 0,
+    "context": "机翻辅助：\n\n光 无限的中场休息\n\n光无限的幕间\n\n光芒无限的幕间"
+  },
+  {
+    "key": "offset_004604b0_0",
+    "original": "ジュネシック・ランド 第１区画",
+    "translation": "朱尼纪乐园 第1区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n朱尼纪乐园 第1区\n\n朱尼纪乐园第一区\n\n朱尼西克区"
+  },
+  {
+    "key": "offset_004604d0_0",
+    "original": "ジュネシック・ランド 第２区画",
+    "translation": "朱尼纪乐园 第2区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n朱尼纪乐园 第2区\n\n朱尼纪乐园第二区"
+  },
+  {
+    "key": "offset_004604f0_0",
+    "original": "ジュネシック・ランド 第３区画",
+    "translation": "朱尼纪乐园 第3区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n朱尼纪乐园 第3区\n\n朱尼纪乐园第三区"
+  },
+  {
+    "key": "offset_00460510_0",
+    "original": "ジュネシック・ランド 第４区画",
+    "translation": "朱尼纪乐园 第4区",
+    "stage": 0,
+    "context": "机翻辅助：\n\n朱尼纪乐园 第4区\n\n朱尼纪乐园第四区\n\n朱尼西克区"
+  },
+  {
+    "key": "offset_00460530_0",
+    "original": "カモシダーマン 記念広場",
+    "translation": "鸭志田超人 纪念广场",
+    "stage": 0,
+    "context": "机翻辅助：\n\n鸭志田超人 纪念广场\n\n鸭志田超人纪念广场"
+  },
+  {
+    "key": "offset_004b7720_0",
+    "original": "クリアデータを保存しますか？",
+    "translation": "要保存通关存档吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要储存破关纪录吗？\n\n要保存清晰的数据吗？\n\n是否保存清除数据？"
+  },
+  {
+    "key": "offset_004b7744_0",
+    "original": "ここで保存したデータを、\nＮＥＷＧＡＭＥ時に引き継ぐ事で、\nクリア時の状態を一部だけ引き継いで、\n最初からプレイする事ができます。\n　\nまた、ここで保存したデータを\nロードすれば、クリア時の状態のまま、\nクリア前に戻ってプレイする事ができます。",
+    "translation": "将在此储存的档案继承到\nNEWGAME时，可以继承一部分\n破关时的状态，从\n一开始玩起。\n　\n另外，只要\nLOAD在此储存的档案，就可以维持破关时的状态，\n回到破关前继续玩。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n将在此储存的档案继承到\nNEWGAME时，可以继承一部分\n破关时的状态，从\n一开始玩起。\n　\n另外，只要\nLOAD在此储存的档案，就可以维持破关时的状态，\n回到破关前继续玩。\n\n因为在这里保存了的数据，\nNEWGAME时继承的事，只继承了一部分\n通关时的状态，能从最初开始玩儿。\n\n另外，如果\n载入在这里保存了的数据，通关时的状态的原样，能回到\n通关前玩儿。\n\n\n在这里保存的数据，\n在NEWGAME时继承，\n只继承一部分通关时的状态\n从一开始就可以玩。\n\n\n另外，如果在这里保存的数据\n加载的话，可以保持清除时的状态，回到清除前进行游戏。"
+  },
+  {
+    "key": "offset_004b7839_0",
+    "original": "クリアデータを保存せず、\nタイトル画面に戻ります。\nよろしいですか？",
+    "translation": "不储存破关档案，\n回到标题画面。\n确定吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不储存破关档案，\n回到标题画面。\n确定吗？\n\n不保存清除数据，返回\n标题画面。\n可以吗？\n\n不保存清晰数据，返回\n标题画面。\n可以吗？"
+  },
+  {
+    "key": "offset_004b7883_0",
+    "original": "既にセーブされたデータがあります。\n上書きしてよろしいですか？ ",
+    "translation": "已有储存的档案。\n要覆盖吗？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n已有储存的档案。\n要覆盖吗？ \n\n已经有保存的数据了。\n可以重写吗？ \n\n已保存的数据。\n是否要覆盖？"
+  },
+  {
+    "key": "offset_004b78c9_0",
+    "original": "セーブ中です。",
+    "translation": "正在储存。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n正在储存。\n\n保存中。\n\n正在保存。"
+  },
+  {
+    "key": "offset_004b78df_0",
+    "original": "セーブが終了しました。",
+    "translation": "储存结束。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n储存结束。\n\n救球结束了。\n\n保存已完成。"
+  },
+  {
+    "key": "offset_004b78fd_0",
+    "original": "セーブが終了しましたが、\n地図データの保存に失敗しました。",
+    "translation": "储存结束，\n地图档案储存失败。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n储存结束，\n地图档案储存失败。\n\n保存结束，\n地图数据保存失败。\n\n保存结束了，但是地图数据的保存失败了。"
+  },
+  {
+    "key": "offset_004b793e_0",
+    "original": "セーブが終了しました。\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "translation": "储存结束。\n储存档案已初始化，\n建议尽早储存。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n储存结束。\n储存档案已初始化，\n建议尽早储存。\n\n救球结束了。\n因为初始化了保存数据\n建议尽早保存。\n\n保存已完成。\n因为初始化了存档数据\n建议尽早保存。"
+  },
+  {
+    "key": "offset_004b7996_0",
+    "original": "セーブが終了しましたが、\n地図データの保存に失敗しました。\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "translation": "储存结束，\n地图档案储存失败。\n储存档案已初始化，\n建议尽早储存。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n储存结束，\n地图档案储存失败。\n储存档案已初始化，\n建议尽早储存。\n\n保存结束，\n地图数据保存失败。\n因为初始化了存档数据\n建议尽早保存。\n\n保存结束了，但是地图数据的保存失败了。\n因为初始化了保存数据\n建议尽早保存。"
+  },
+  {
+    "key": "offset_004b7a11_0",
+    "original": "セーブに失敗しました。",
+    "translation": "储存失败。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n储存失败。\n\n保存失败。\n\n救援失败了。"
+  },
+  {
+    "key": "offset_004b7a2f_0",
+    "original": "ロードします。\nよろしいですか？",
+    "translation": "要读取吗？\n确定吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要读取吗？\n确定吗？\n\n加载。\n可以吗？"
+  },
+  {
+    "key": "offset_004b7a56_0",
+    "original": "ロード中です。",
+    "translation": "正在读取。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n正在读取。\n\n正在加载。\n\n在路上。"
+  },
+  {
+    "key": "offset_004b7a6c_0",
+    "original": "ロードが終了しました。",
+    "translation": "读取结束。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n读取结束。\n\n加载已完成。\n\n装载结束了。"
+  },
+  {
+    "key": "offset_004b7a8a_0",
+    "original": "ロードが終了しましたが、\nＳＤカードを認識できなかった為、\n地図データが読み込めませんでした。",
+    "translation": "读取结束，\n无法辨识SD卡，\n地图档案读取失败。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n读取结束，\n无法辨识SD卡，\n地图档案读取失败。\n\n载入结束了，但是因为\nSD卡不能识别，所以\n地图数据不能读取。\n\n加载已结束，但由于无法识别SD卡，无法读取地图数据。"
+  },
+  {
+    "key": "offset_004b7aee_0",
+    "original": "ロードが終了しましたが、\nデータが見つからなかった為、\n地図データが読み込めませんでした。",
+    "translation": "读取结束，\n找不到档案，\n地图档案读取失败。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n读取结束，\n找不到档案，\n地图档案读取失败。\n\n虽然载入结束了，但是因为没有找到\n数据，所以没有读取到\n地图数据。\n\n加载已完成，但由于找不到数据，无法读取地图数据。"
+  },
+  {
+    "key": "offset_004b7b4e_0",
+    "original": "ロードが終了しました。\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "translation": "装载结束了。\n因为初始化了保存数据\n建议尽早保存。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n装载结束了。\n因为初始化了保存数据\n建议尽早保存。\n\n加载已完成。\n因为初始化了存档数据\n建议尽早保存。\n\n读取完毕。\n由于储存资料已初始化\n建议您尽早储存。"
+  },
+  {
+    "key": "offset_004b7ba6_0",
+    "original": "ロードが終了しましたが、\nＳＤカードを認識できなかった為、\n地図データが読み込めませんでした。\n　\nセーブデータを初期化したので\n早めのセーブをお勧めします",
+    "translation": "读取完毕，\n由于无法辨识SD卡\n地图资料未能读取。\n　\n由于储存资料已初始化\n建议您尽早储存。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n读取完毕，\n由于无法辨识SD卡\n地图资料未能读取。\n　\n由于储存资料已初始化\n建议您尽早储存。\n\n加载已结束，但由于无法识别SD卡，无法读取地图数据。\n\n因为初始化了保存数据\n建议尽早保存\n\n\n\n载入结束了，但是因为\nSD卡不能识别，所以\n地图数据不能读取。\n\n我已经初始化了保存数据，所以建议您尽早保存。"
+  },
+  {
+    "key": "offset_004b7c45_0",
+    "original": "ロードが終了しましたが、\nデータが見つからなかった為、\n地図データが読み込めませんでした。\n　\nセーブデータを初期化したので\n早めのセーブをお勧めします",
+    "translation": "读取完毕，\n由于未能找到资料\n地图资料未能读取。\n　\n由于储存资料已初始化\n建议您尽早储存。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n读取完毕，\n由于未能找到资料\n地图资料未能读取。\n　\n由于储存资料已初始化\n建议您尽早储存。\n\n虽然载入结束了，但是因为没有找到\n数据，所以没有读取到\n地图数据。\n\n我已经初始化了保存数据，所以建议您尽早保存。\n\n\n加载已完成，但由于找不到数据，无法读取地图数据。\n\n因为初始化了保存数据\n建议尽早保存"
+  },
+  {
+    "key": "offset_004b7ce0_0",
+    "original": "ロードに失敗しました。",
+    "translation": "读取失败。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n读取失败。\n\n加载失败。\n\n路上失败了。"
+  },
+  {
+    "key": "offset_004b7cfe_0",
+    "original": "全てのセーブデータを削除します。\nよろしいですか？\n　\n[颜色 03]ＳＤカードに保存されている追加データは\n削除されません。[颜色 01]",
+    "translation": "是否要删除所有储存资料\n确定要删除吗？\n　\n[颜色 03]SD卡中保存的追加资料\n不会被删除。[颜色 01]",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是否要删除所有储存资料\n确定要删除吗？\n　\n[颜色 03]SD卡中保存的追加资料\n不会被删除。[颜色 01]\n\n删除所有保存数据。\n可以吗？\n\n[颜色 03]存储在SD卡中的附加数据\n不会被删除。[颜色 01]\n\n删除所有保存数据。\n可以吗？\n\n[颜色 03]SD卡中保存的追加数据\n不会被删除。[颜色 01]"
+  },
+  {
+    "key": "offset_004b7d7a_0",
+    "original": "ＳＤカードに保存されている\n全ての追加データを削除します。\nよろしいですか？",
+    "translation": "是否要删除SD卡中保存的\n所有追加资料\n确定要删除吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是否要删除SD卡中保存的\n所有追加资料\n确定要删除吗？\n\n删除SD卡中保存的\n所有追加数据。\n可以吗？\n\n删除存储在SD卡中的所有附加数据。\n可以吗？"
+  },
+  {
+    "key": "offset_004b7dcc_0",
+    "original": "本当によろしいですか？",
+    "translation": "真的确定要删除吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真的确定要删除吗？\n\n真的可以吗？"
+  },
+  {
+    "key": "offset_004b7dea_0",
+    "original": "削除中です。",
+    "translation": "删除中。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n删除中。\n\n正在删除。"
+  },
+  {
+    "key": "offset_004b7dfe_0",
+    "original": "削除が終了しました。",
+    "translation": "删除完毕。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n删除完毕。\n\n删除结束了。\n\n删除已完成。"
+  },
+  {
+    "key": "offset_004b7e1a_0",
+    "original": "削除に失敗しました。",
+    "translation": "删除失败。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n删除失败。\n\n删除失败了。"
+  },
+  {
+    "key": "offset_004b7e36_0",
+    "original": "クリアデータを引き継ぎますか？",
+    "translation": "要继承通关存档吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要继承破关资料吗？\n\n是否继承清除数据？\n\n交接透明数据吗？"
+  },
+  {
+    "key": "offset_004b7e5c_0",
+    "original": "クリアデータを引き継がずに、\nゲームを始めてよろしいですか？",
+    "translation": "不继承通关存档，\n直接开始游戏吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不继承破关资料，\n要开始游戏吗？\n\n不继承通关数据，\n可以开始游戏吗？\n\n不继承透明数据，\n可以开始游戏吗？"
+  },
+  {
+    "key": "offset_004b7e9f_0",
+    "original": "引き継ぎするデータを選んでください。\nクリアしたことのあるデータであれば\n進行中のデータであっても\n引き継ぐことができます。",
+    "translation": "请选择要继承的存档。\n只要是已经通关的存档，\n即使仍然在进行游戏，\n也可以继承。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请选择要继承的资料。\n只要是破关过的资料\n即使是进行中的资料\n都可以继承。\n\n请选择要继承的数据。\n如果是清除过的数据\n即使是进行中的数据\n也可以继承。\n\n请选择交接的数据。\n如果是已经清除过的数据\n即使是正在进行的数据\n也可以继承。"
+  },
+  {
+    "key": "offset_004b7f20_0",
+    "original": "クリアデータではありません。",
+    "translation": "这不是通关存档。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不是破关资料。\n\n不是清除数据。\n\n不是清晰的数据。"
+  },
+  {
+    "key": "offset_004b7f44_0",
+    "original": "クリアデータからペルソナフィルム、\n主人公と仲間たちのステータス、\n所持金やアイテムなど、\n一部のデータを引き継ぎます。\n　\nよろしいですか？",
+    "translation": "将会从存档中继承\n人格面具胶片、\n主角与伙伴的能力值、\n金钱与道具等部分资料。\n　\n确定要继承吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n从存档中继承人格面具胶片、\n主角与伙伴的能力值、\n金钱与道具等\n部分资料。\n　\n确定要继承吗？\n\n从透明数据继承人格面具胶片，\n主人公和朋友们的地位，\n所持金和条款等，\n一部分的数据。\n\n可以吗？\n\n从清晰的数据人格面具胶片，\n主人公和伙伴们的身份，\n携带金和道具等，\n一部分的数据继承。\n\n可以吗？"
+  },
+  {
+    "key": "offset_004b7fd5_0",
+    "original": "クリアデータから地図を引き継ぎます。\n　\nよろしいですか？",
+    "translation": "将会从存档中继承地图。\n　\n确定要继承吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n从存档中继承地图。\n　\n确定要继承吗？\n\n从清除数据中继承地图。\n\n可以吗？\n\n从清晰的数据接管地图。\n\n可以吗？"
+  },
+  {
+    "key": "offset_004b8015_0",
+    "original": "中断データは削除されます。\nよろしいですか？",
+    "translation": "中断存档将会被删除。\n可以吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n中断存档将会被删除。\n确定要继承吗？\n\n中断数据将被删除。\n可以吗？\n\n中断数据会被删除。\n可以吗？"
+  },
+  {
+    "key": "offset_004b8048_0",
+    "original": "中断セーブを行います。\nよろしいですか？",
+    "translation": "将会进行中断存档。\n可以吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n进行中断存档。\n确定要继承吗？\n\n进行中断保存。\n可以吗？\n\n执行中断保存。\n可以吗？"
+  },
+  {
+    "key": "offset_004b8077_0",
+    "original": "中断データをセーブしています。",
+    "translation": "正在保存中断存档。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n正在保存中断存档。\n\n正在保存中断数据。\n\n保存中断数据。"
+  },
+  {
+    "key": "offset_004b809d_0",
+    "original": "中断セーブが終了しました。\nタイトル画面に戻ります。",
+    "translation": "中断存档结束。\n将会回到标题画面。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n中断存档结束。\n回到标题画面。\n\n中断救球结束了。\n回到标题画面。\n\n暂停保存已完成。\n返回标题画面。"
+  },
+  {
+    "key": "offset_004b80d8_0",
+    "original": "中断セーブが終了しましたが、\n地図データの保存に失敗しました。\nタイトル画面に戻りますか？",
+    "translation": "中断存档结束，\n但地图资料保存失败。\n要返回标题画面吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n中断存档结束，\n地图资料保存失败。\n要回到标题画面吗？\n\n中断保存结束了，不过，\n地图数据的保存失败了。\n回到标题画面吗？\n\n中断保存结束，\n地图数据保存失败。\n返回标题画面吗？"
+  },
+  {
+    "key": "offset_004b8138_0",
+    "original": "中断セーブに失敗しました。",
+    "translation": "中断存档失败。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n中断存档失败。\n\n中断保存失败。\n\n中断救援失败了。"
+  },
+  {
+    "key": "offset_004b815a_0",
+    "original": "中断データから再開すると、\n中断データは破棄されます。",
+    "translation": "从中断存档继续游戏时，\n中断存档将会被删除。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n从中断存档继续游戏时，\n中断存档将会被删除。\n\n从中断数据重新开始的话，\n中断数据会被丢弃。\n\n如果从中断数据恢复，\n中断数据将被丢弃。"
+  },
+  {
+    "key": "offset_004b8197_0",
+    "original": "中断データをロードしています。",
+    "translation": "正在读取中断存档。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n正在读取中断存档。\n\n正在加载中断数据。"
+  },
+  {
+    "key": "offset_004b81bd_0",
+    "original": "[颜色 04][占位A 01][颜色 01]　\nから再開します。\nこちらでよろしいですか？",
+    "translation": "[颜色 04][占位A 01][颜色 01]　\n从中断存档继续游戏。\n确定要继续吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n[颜色 04][占位A 01][颜色 01]　\n从中断存档继续游戏。\n确定要继续吗？\n\n[颜色 04][占位A 01][颜色 01]　\n开始重新开始。\n这边可以吗？\n\n[颜色 04][占位A 01][颜色 01]　\n重新启动交互渲染。\n这边可以吗？"
+  },
+  {
+    "key": "offset_004b81fd_0",
+    "original": "中断データをロードしました。",
+    "translation": "读取中断存档成功。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n读取中断存档成功。\n\n加载了中断数据。\n\n已加载中断数据。"
+  },
+  {
+    "key": "offset_004b8221_0",
+    "original": "中断データをロードしましたが、\nＳＤカードを認識できなかった為、\n地図データが読み込めませんでした。\nよろしいですか？",
+    "translation": "读取中断存档成功，\n但由于SD卡无法识别，\n无法读取地图资料。\n确定要继续吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n读取中断存档成功，\n由于无法辨识SD卡，\n地图资料无法读取。\n确定要继续吗？\n\n虽然加载了中断数据，但是因为\nSD卡不能识别，所以\n地图数据不能读取。\n可以吗？\n\n虽然加载了中断数据，但由于无法识别SD卡，\n无法读取地图数据。\n可以吗？"
+  },
+  {
+    "key": "offset_004b829c_0",
+    "original": "中断データをロードしましたが、\nデータが見つからなかった為、\n地図データが読み込めませんでした。\nよろしいですか？",
+    "translation": "读取中断存档成功，\n由于找不到资料，\n地图资料无法读取。\n确定要继续吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n读取中断存档成功，\n由于找不到资料，\n地图资料无法读取。\n确定要继续吗？\n\n虽然加载了中断数据，但是因为没有找到\n数据，所以没有读取到\n地图数据。\n可以吗？\n\n虽然加载了中断数据，但由于找不到数据，所以无法读取地图数据。\n可以吗？"
+  },
+  {
+    "key": "offset_004b8313_0",
+    "original": "中断データをロードしました。\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "translation": "读取中断存档成功。\n存档数据已初始化，\n建议尽早存档。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n读取中断存档成功。\n存档资料已初始化，\n建议尽早存档。\n\n加载了中断数据。\n因为初始化了保存数据\n建议尽早保存。\n\n已加载中断数据。\n因为初始化了存档数据\n建议尽早保存。"
+  },
+  {
+    "key": "offset_004b8371_0",
+    "original": "中断データをロードしましたが、\nＳＤカードを認識できなかった為、\n地図データが読み込めませんでした。\n　\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "translation": "读取中断存档成功，\n但由于SD卡无法识别，\n无法读取地图资料。\n　\n存档资料已初始化，\n建议尽早存档。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n已读取中断档案，但\n无法辨识SD卡，\n地图档案无法读取。\n　\n已将存档资料初始化\n建议尽早存档。\n\n虽然加载了中断数据，但是因为\nSD卡不能识别，所以\n地图数据不能读取。\n\n保存数据已经初始化了，所以建议尽早保存。\n\n\n虽然加载了中断数据，但由于无法识别SD卡，\n无法读取地图数据。\n\n因为初始化了保存数据\n建议尽早保存。"
+  },
+  {
+    "key": "offset_004b8418_0",
+    "original": "中断データをロードしましたが、\nデータが見つからなかった為、\n地図データが読み込めませんでした。\n　\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "translation": "读取中断存档成功，\n但由于未发现数据，\n无法读取地图资料。\n　\n存档数据已初始化，\n建议尽早存档。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n已读取中断档案，但\n找不到档案，\n地图档案无法读取。\n　\n已将存档资料初始化\n建议尽早存档。\n\n虽然加载了中断数据，但是因为没有找到\n数据，所以没有读取到\n地图数据。\n\n保存数据已经初始化了，所以建议尽早保存。\n\n\n虽然加载了中断数据，但由于找不到数据，所以无法读取地图数据。\n\n因为初始化了保存数据\n建议尽早保存。"
+  },
+  {
+    "key": "offset_004b84bb_0",
+    "original": "中断データのロードに失敗しました。",
+    "translation": "中断存档读取失败。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n读取中断档案失败。\n\n中断数据加载失败了。\n\n无法加载中断数据。"
+  },
+  {
+    "key": "offset_004b84e5_0",
+    "original": "データが破損しています。",
+    "translation": "数据已损坏。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n档案已损坏。\n\n数据损坏。\n\n数据损坏了。"
+  },
+  {
+    "key": "offset_004b8505_0",
+    "original": "すれちがい通信に登録することで、\nすれちがった相手と\n『すれちがい手帳の交換』が行えます。\n　\nニンテンドー３ＤＳ本体に\nペルソナＱ２のすれちがい通信を\n登録しますか？",
+    "translation": "登录瞬缘连接后，\n即可与瞬缘到的对方\n进行“交换瞬缘笔记”。\n　\n要将女神异闻录Q2的\n瞬缘连接登录至\n任天堂3DS主机吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n登录瞬缘连接后，\n即可与交错的对手\n进行“交换瞬缘笔记”。\n　\n要登录\n女神异闻录Q2的瞬缘连接\n至任天堂3DS主机吗？\n\n通过登录瞬缘连接，就可以和擦身而过的对方进行“瞬缘笔记的交换”。\n\n在任天堂3DS主机上\n登录女神异闻录Q2的瞬缘连接吗？\n\n\n\n\n通过注册瞬缘连接，可以与交错的对方进行“瞬缘笔记的交换”。\n\n\n任天堂3DS主机\n注册女神异闻录Q2瞬缘连接？"
+  },
+  {
+    "key": "offset_004b85af_0",
+    "original": "ペルソナＱ２のすれちがい通信を\nニンテンドー３ＤＳ本体に登録しました。",
+    "translation": "已将女神异闻录Q2的瞬缘连接\n登录至任天堂3DS主机。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n已将女神异闻录Q2的瞬缘连接\n登录至任天堂3DS主机。\n\n女神异闻录Q2的瞬缘连接\n登录到了任天堂3DS主机上。\n\n女神异闻录Q2的瞬缘连接\n任天堂3DS实体登记了。"
+  },
+  {
+    "key": "offset_004b85fc_0",
+    "original": "このゲームを終了しても\nすれちがい通信は自動で行われます。\n　\nＨＯＭＥメニューから『本体設定』を選び\n『データ管理』の『すれちがい通信管理』で\nすれちがい通信を停止する事ができます。",
+    "translation": "即使结束游戏，\n瞬缘连接仍会自动进行。\n　\n可从HOME菜单选择“主机设定”，\n从“数据管理”的“瞬缘连接管理”中\n停止瞬缘连接。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n即使结束游戏，\n瞬缘连接仍会自动进行。\n　\n可从主选单选择“主机设定”\n于“资料管理”的“瞬缘连接管理”\n停止瞬缘连接。\n\n即使这个游戏结束\n擦身而过也会自动进行通信。\n\n从HOME菜单中选择“主体设定”\n在“数据管理”的“瞬缘连接管理”中\n可以停止瞬缘连接。\n\n即使结束了这个游戏\n瞬缘连接也会自动进行。\n\n从HOME菜单中选择“主机设定”\n在“数据管理”的“瞬缘连接管理”中\n可以停止瞬缘连接。"
+  },
+  {
+    "key": "offset_004b86b7_0",
+    "original": "ペルソナＱ２のすれちがい通信は\nすでに登録されています。\n　\nすれちがい通信をやめるときは\nＨＯＭＥメニューから『本体設定』を選び\n『データ管理』の『すれちがい通信管理』で\n中止することができます。",
+    "translation": "女神异闻录Q2的瞬缘连接\n已登录。\n　\n要取消瞬缘连接时，\n请从HOME菜单选择“主机设定”，\n从“数据管理”的\n“瞬缘连接管理”中停止。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n女神异闻录Q2的瞬缘连接\n已登录。\n　\n要取消瞬缘连接时\n请从HOME选“主机设定”\n在“资料管理”的“瞬缘连接管理”\n中中止。　　。\n\n女神异闻录Q2的瞬缘连接\n已经登记了。\n\n停止瞬缘连接时，从HOME菜单中选择“主体设定”\n在“数据管理”的“瞬缘连接管理”中可以停止。\n\n\n\n女神异闻录Q2的瞬缘连接\n已经被登记。\n\n\n停止瞬缘连接时\n从HOME菜单中选择“本体设定”\n可以在“数据管理”的“瞬缘连接管理”中中止。"
+  },
+  {
+    "key": "offset_004b877f_0",
+    "original": "ニンテンドー３ＤＳ本体にこれ以上\nすれちがい通信を登録できません。\n　\n『本体設定』の『すれちがい通信管理』で\nほかのソフトのすれちがい通信を\nやめてください。",
+    "translation": "任天堂3DS主机\n无法再登录更多瞬缘连接。\n　\n请在“主机设定”的\n“瞬缘连接管理”中\n取消其他软件的瞬缘连接。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n任天堂3DS主机\n无法再登录更多瞬缘连接。\n　\n请在“主机设定”的“瞬缘连接管理”\n中取消\n其他软件的瞬缘连接。　　。\n\n任天堂3DS主机不能再登记\n瞬缘连接。\n\n在“主体设定”的“瞬缘连接管理”中\n请停止其他软件的瞬缘连接。\n\n\n无法在任天堂3DS主机上注册更多\n瞬缘连接。\n\n请在“主机设定”的“瞬缘连接管理”中\n停止其他软件的瞬缘连接。"
+  },
+  {
+    "key": "offset_004b8822_0",
+    "original": "すれちがい通信を利用するには\n最新の利用規約に同意する必要があります。\n　\n本体設定で『インターネット設定』⇒\n『その他の情報』⇒『利用規約の確認』を\n選び最新の利用規約に同意してください。",
+    "translation": "要利用瞬缘连接，\n需要同意最新的服务条款。\n\n请从主机设定的“互联网设置”⇒\n“其他信息”⇒“确认服务条款”中\n同意最新的服务条款。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n利用瞬缘连接\n有必要同意最新的使用规章。\n\n主体设定请选择\n“因特网设定”⇒\n“其他信息”⇒“利用规章的确认”同意最新的利用规章。\n\n要使用瞬缘连接\n必须同意最新的使用规约。\n　\n请在主机设定选“网络设定”⇒\n“其他资讯”⇒\n选“确认使用规约”同意最新的使用规约。　　。\n\n要使用瞬缘连接\n必须同意最新的使用条款。\n\n在主机设定中选择“网络设定”⇒\n\n“其他信息”⇒“使用规章的确认”请同意最新的使用规章。"
+  },
+  {
+    "key": "offset_004b88e3_0",
+    "original": "『他のユーザーとのすれちがい通信』が、\n保護者により制限されているため\nすれちがい通信を利用できません。",
+    "translation": "“和其他用户瞬缘连接”，因为\n受监护人的限制\n不能使用瞬缘连接。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n“和其他用户瞬缘连接”，因为\n受监护人的限制\n不能使用瞬缘连接。\n\n“与其他用户的瞬缘连接”\n由于受到监护人的限制\n不能使用瞬缘连接。\n\n“与其他使用者的瞬缘连接”\n受到监护人限制\n无法使用瞬缘连接。　　。"
+  },
+  {
+    "key": "offset_004b8951_0",
+    "original": "自分のすれちがい手帳の\nＱＲコードをＳＤカードに出力します。\n　\nＳＤカードに出力してよろしいですか？",
+    "translation": "将自己的瞬缘笔记\n输出成SD卡上的QR码。\n　\n要输出成SD卡吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n将自己的瞬缘笔记\n输出成SD卡上的QR码。\n　\n要输出成SD卡吗？\n\n将自己瞬缘笔记的\nQR码输出到SD卡上。\n\n可以输出到SD卡上吗？\n\n将自己的瞬缘笔记的\n二维码输出到SD卡。\n\n可以输出到SD卡吗？"
+  },
+  {
+    "key": "offset_004b89bc_0",
+    "original": "ＳＤカードに書き込んでいます。",
+    "translation": "正在写入SD卡。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n正在写入SD卡。\n\n写在SD卡上。"
+  },
+  {
+    "key": "offset_004b89e2_0",
+    "original": "ＳＤカードが差し込まれていません。",
+    "translation": "没有SD卡插入。　　。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没有SD卡插入。　　。\n\n没有插SD卡。\n\n没有插入SD卡。"
+  },
+  {
+    "key": "offset_004b8a0c_0",
+    "original": "ＳＤカードの空き容量が足りません。",
+    "translation": "SD卡的剩余容量不足。　　。",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSD卡的剩余容量不足。　　。\n\nSD卡的空余容量不够。\n\nSD卡空间不足。"
+  },
+  {
+    "key": "offset_004b8a36_0",
+    "original": "ＳＤカードの写真がいっぱいなので\n保存できません。",
+    "translation": "因为SD卡的照片太多了\n不能保存。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n因为SD卡的照片太多了\n不能保存。\n\nSD卡的照片太多了\n无法保存。\n\nSD卡的照片已满\n无法保存。　　。"
+  },
+  {
+    "key": "offset_004b8a6f_0",
+    "original": "ＳＤカードを認識できませんでした。",
+    "translation": "无法辨识SD卡。　　。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n无法辨识SD卡。　　。\n\n我没能识别SD卡。\n\n无法识别SD卡。"
+  },
+  {
+    "key": "offset_004b8a99_0",
+    "original": "ＱＲコードの画像データを出力しました。",
+    "translation": "输出了QR码的影像资料。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n输出了QR码的影像资料。\n\n输出了QR码的图像数据。\n\n输出了二维码的图像数据。"
+  },
+  {
+    "key": "offset_004b8ace_0",
+    "original": "すれちがい通信のデータを確認しています。",
+    "translation": "正在确认瞬缘连接的档案。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n正在确认瞬缘连接的档案。\n\n正在确认瞬缘连接数据。\n\n正在确认瞬缘连接的数据。"
+  },
+  {
+    "key": "offset_004b8afe_0",
+    "original": "すれちがい手帳の内容が、\n更新されています。\n　\nすれちがい通信に反映しますか？",
+    "translation": "瞬缘笔记的内容\n更新中\n　\n要反映在瞬缘连接上吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n瞬缘笔记的内容\n更新中\n　\n要反映在瞬缘连接上吗？\n\n瞬缘笔记的内容\n被更新了。\n\n会反映在瞬缘连接中吗？\n\n瞬缘笔记内容，更新了。\n\n会反映在瞬缘连接上吗？"
+  },
+  {
+    "key": "offset_004b8b53_0",
+    "original": "更新内容を破棄して編集を終了します。\nよろしいですか？",
+    "translation": "更新内容已废弃，编辑结束。\n确定吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n更新内容已废弃，编辑结束。\n确定吗？\n\n丢弃更新内容并结束编辑。\n可以吗？\n\n放弃更新并结束编辑。\n可以吗？"
+  },
+  {
+    "key": "offset_004b8b90_0",
+    "original": "ゲームコインを[占位A 01]枚使用します。\nよろしいですか？\n　\n[颜色 03]セーブせずにゲームを終了しても\n使用したゲームコインは戻りません。[颜色 01]",
+    "translation": "使用[占位A 01]枚游戏币。\n可以吗？\n\n[颜色 03]即使不保存就结束游戏，\n使用的游戏币也不会返还。[颜色 01]",
+    "stage": 1,
+    "context": "机翻辅助：\n\n使用[占位A 01]枚游戏币。\n可以吗？\n\n[颜色 03]即使不救局结束游戏\n使用的游戏币也不会返还。[颜色 01]\n\n[占位A 01]使用游戏金币\n枚。\n确定吗？\n　[颜色 03]\n即使不存档就结束游戏[颜色 01]使用的游戏金币也不会恢复。\n\n使用[占位A 01]枚游戏币。\n可以吗？\n\n[颜色 03]\n即使不保存游戏结束[颜色 01]使用的游戏币也不会返回。"
+  },
+  {
+    "key": "offset_004b8c16_0",
+    "original": "ゲームコインが足りません。",
+    "translation": "游戏金币不足。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n游戏金币不足。\n\n游戏币不够。"
+  },
+  {
+    "key": "offset_004b8c38_0",
+    "original": "主人公の名前は通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利\nを侵害する内容、個人情報などは\n含めないでください。",
+    "translation": "主角的名字\n有可能被通讯对象公开。\n　\n请不要包含\n会令对方不快的内容、侵害他人权利的内容、个人情报等。\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n主角的名字\n有可能被通讯对象公开。\n　\n请不要包含\n会令对方不快的内容、侵害他人权利的内容、个人情报等。\n\n\n主人公的名字有可能向通信对象公开。\n\n不要包含让对方不愉快的内容、侵害他人权利的内容、个人信息等。\n\n\n\n\n主人公的名字有可能被通信对象公开。\n\n请不要包含让对方不快的内容、侵犯他人权利的内容、个人信息等。"
+  },
+  {
+    "key": "offset_004b8ccd_0",
+    "original": "彼の名前は通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利を\n侵害する内容、個人情報などは\n含めないでください。",
+    "translation": "他的名字\n有可能被通讯对象公开。\n　\n请不要包含\n会令对方不快的内容、侵害他人权利的内容、个人情报等。\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n他的名字\n有可能被通讯对象公开。\n　\n请不要包含\n会令对方不快的内容、侵害他人权利的内容、个人情报等。\n\n\n他的名字可能会向通信对象公开。\n\n不要包含让对方不愉快的内容、侵犯他人权利的内容、个人信息等。\n\n\n\n\n他的名字有被通信对象公开的可能性。\n\n请不要包含让对方不快的内容、侵犯他人权利的内容、个人信息等。"
+  },
+  {
+    "key": "offset_004b8d5e_0",
+    "original": "彼女の名前は通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利を\n侵害する内容、個人情報などは\n含めないでください。",
+    "translation": "她的名字\n有可能被通讯对象公开。\n　\n请不要包含\n会令对方不快的内容、侵害他人权利的内容、个人情报等。\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n她的名字\n有可能被通讯对象公开。\n　\n请不要包含\n会令对方不快的内容、侵害他人权利的内容、个人情报等。\n\n\n她的名字可能会公开给通信对象。\n\n不要包含让对方不愉快的内容、侵犯他人权利的内容、个人信息等。\n\n\n\n\n她的名字有被通信对象公开的可能性。\n\n请不要包含让对方不快的内容、侵犯他人权利的内容、个人信息等。"
+  },
+  {
+    "key": "offset_004b8df1_0",
+    "original": "この名前でよろしいですか？",
+    "translation": "确定就是这个名字吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n确定就是这个名字吗？"
+  },
+  {
+    "key": "offset_004b8e13_0",
+    "original": "地図データを上書きしますか？",
+    "translation": "要覆盖地图档案吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要覆盖地图档案吗？\n\n覆盖地图数据吗？\n\n要重写地图数据吗？"
+  },
+  {
+    "key": "offset_004b8e37_0",
+    "original": "これでよろしいですか？",
+    "translation": "是否确定要继续？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是否确定要继续？"
+  },
+  {
+    "key": "offset_004b8e55_0",
+    "original": "『[F5 C1 2A 01 01 01 01 01 01 01]』\nこれでよろしいですか？",
+    "translation": "“[F5 C1 2A 01 01 01 01 01 01 01]”\n这样可以吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n“[F5 C1 2A 01 01 01 01 01 01 01]”\n这样可以吗？\n\n这样可以吗？[F5 C1 2A 01 01 01 01 01 01 01]"
+  },
+  {
+    "key": "offset_004b8e82_0",
+    "original": "不適切な内容です。\nもう一度、入力してください。",
+    "translation": "内容不适当。\n请重新输入。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n内容不适当。\n请重新输入。\n\n不恰当的内容。\n请再次输入。\n\n是不合适的内容。请再输入一次。"
+  },
+  {
+    "key": "offset_004b8eb9_0",
+    "original": "数字は５文字までしか入力できません。\nもう一度、入力してください。",
+    "translation": "数字最多只能输入5个字。\n请重新输入。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数字最多只能输入5个字。\n请重新输入。\n\n数字只能输入5个字符。\n请再次输入。\n\n最多只能输入5个数字。请再输入一次。"
+  },
+  {
+    "key": "offset_004b8f02_0",
+    "original": "このスロットにセーブすると、\nセーブデータがＳＤカードに保存されます。\nご注意ください。",
+    "translation": "将游戏纪录存档于此槽后，\n游戏纪录将会保存于SD卡。\n请注意。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n将游戏纪录存档于此槽后，\n游戏纪录将会保存于SD卡。\n请注意。\n\n保存到此插槽后，\n保存数据将保存在SD卡中。\n请注意。\n\n在这个插槽保存的话，\n保存数据被SD卡保存。请注意。"
+  },
+  {
+    "key": "offset_004b8f60_0",
+    "original": "ここではＳＤカードに保存されている\nセーブデータをロードできます。",
+    "translation": "可以在此读取保存于SD卡的\n游戏纪录。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n可以在此读取保存于SD卡的\n游戏纪录。\n\n在这里可以加载存储在SD卡中的\n保存数据。\n\n这里可以加载SD卡中保存的\n保存数据。"
+  },
+  {
+    "key": "offset_004b8fa9_0",
+    "original": "他者を不快にしたり、その権利を侵害する\n文章や自身や他人のプライベートな情報は\n他人に渡したり公開しないでください。",
+    "translation": "请勿传送\n会令他人不快、侵害他人权利\n的文章，以及自身或他人的个人隐私。请勿泄漏。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n请勿传送\n会令他人不快、侵害他人权利\n的文章，以及自身或他人的个人隐私。请勿泄漏。\n\n使他人不愉快或侵害其权利\n文章或自己或他人的私人信息\n请勿传递或公开给他人。\n\n让他人不快或侵犯其权利的\n文章、自己或他人的私人信息\n请不要传递或公开给他人。"
+  },
+  {
+    "key": "offset_004b9023_0",
+    "original": "メッセージは通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利\nを侵害する内容、個人情報などは\n含めないでください。",
+    "translation": "信息可能会\n被通讯对象看见。\n　\n请勿传送会令他人不快、侵害他人权利\n的内容，以及个人隐私等\n私人资讯。请勿泄漏。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n信息可能会\n被通讯对象看见。\n　\n请勿传送会令他人不快、侵害他人权利\n的内容，以及个人隐私等\n私人资讯。请勿泄漏。\n\n信息有可能向通信对方\n公开。\n\n不要包含让对方不愉快的内容、侵害他人权利的内容、个人信息等。\n\n\n\n短信有被通信对方公开的可能性。\n\n请不要包含让对方不快的内容、侵犯他人权利的内容、个人信息等。"
+  },
+  {
+    "key": "offset_004b90b6_0",
+    "original": "すれちがいネームは通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利\nを侵害する内容、個人情報などは\n含めないでください。",
+    "translation": "擦身而过名称可能会\n被通讯对象看见。\n　\n请勿传送会令他人不快、侵害他人权利\n的内容，以及个人隐私等\n私人资讯。请勿泄漏。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n擦身而过名称可能会\n被通讯对象看见。\n　\n请勿传送会令他人不快、侵害他人权利\n的内容，以及个人隐私等\n私人资讯。请勿泄漏。\n\n交错的名字有可能向通信对方公开。\n\n不要包含让对方不愉快的内容、侵害他人权利的内容、个人信息等。\n\n\n\n\n擦身而过的姓名有被通信对方\n公开的可能性。\n\n请不要包含让对方不快的内容、侵犯他人权利的内容、个人信息等。"
+  },
+  {
+    "key": "offset_004b914f_0",
+    "original": "更新データの確認と受信を行います。\nよろしいですか？",
+    "translation": "确认更新档并接收。\n确定要继续吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n确认更新档并接收。\n确定要继续吗？\n\n进行更新数据的确认和接收。\n可以吗？\n\n确认并接收更新数据。\n可以吗？"
+  },
+  {
+    "key": "offset_004b918a_0",
+    "original": "更新しました。\n再起動します。",
+    "translation": "更新完毕。\n即将重新启动。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n更新完毕。\n即将重新启动。\n\n更新了。\n重新启动。\n\n已更新。\n重新启动。"
+  },
+  {
+    "key": "offset_004b91af_0",
+    "original": "更新データは最新です。",
+    "translation": "更新档为最新版本。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n更新档为最新版本。\n\n更新数据是最新的。"
+  },
+  {
+    "key": "offset_004b91cd_0",
+    "original": "ペルソナＱ２では地図データを\nＳＤカードに保存します。\n　\nＳＤカードが差し込まれていない場合、\n地図データを保存できません。",
+    "translation": "女神异闻录Q2将地图档案\n保存于SD卡。\n　\n若未插入SD卡，\n将无法保存地图档案。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n女神异闻录Q2将地图档案\n保存于SD卡。\n　\n若未插入SD卡，\n将无法保存地图档案。\n\n女神异闻录Q2将地图数据保存在\nSD卡中。\n\n未插入SD卡时，\n无法保存地图数据。\n\n在女神异闻录Q2中地图数据\nSD卡保存。\n\nSD卡没有插入的情况下，\n不能保存地图数据。"
+  },
+  {
+    "key": "offset_004b924f_0",
+    "original": "セーブデータを初期化しています。",
+    "translation": "游戏纪录已初始化。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n游戏纪录已初始化。\n\n正在初始化保存数据。"
+  },
+  {
+    "key": "offset_004b9277_0",
+    "original": "ファイルの破損を検出したため\nセーブデータを初期化しました。",
+    "translation": "因为检测到文件的损坏\n初始化了保存数据。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n因为检测到文件的损坏\n初始化了保存数据。\n\n由于检测到文件损坏\n初始化了存档数据。\n\n检测到档案损坏，\n已将游戏纪录初始化。　正在将游戏纪录初始化。"
+  },
+  {
+    "key": "offset_004b92ba_0",
+    "original": "ファイルの破損を検出したため\nセーブデータを初期化しています。",
+    "translation": "检测到档案损坏，\n已将游戏纪录初始化。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n检测到档案损坏，\n已将游戏纪录初始化。\n\n由于检测到文件损坏\n正在初始化存档数据。\n\n因为检测到了文件的损坏\n正在初始化保存数据。"
+  },
+  {
+    "key": "offset_004b92ff_0",
+    "original": "ファイルの破損を検出したため\n追加データを初期化しました。",
+    "translation": "由于检测到档案损坏\n已将追加资料格式化。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n由于检测到档案损坏\n已将追加资料格式化。\n\n因为检测到文件的损坏\n追加数据初始化了。\n\n由于检测到文件损坏\n已初始化附加数据。"
+  },
+  {
+    "key": "offset_004b9340_0",
+    "original": "ファイルの破損を検出したため\n該当する追加データを作り直します。",
+    "translation": "由于检测到档案损坏\n将重新制作该档案的追加资料。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n由于检测到档案损坏\n将重新制作该档案的追加资料。\n\n检测到文件损坏\n重新制作相应的追加数据。\n\n因为检测到了文件的损坏\n重新制作相应的追加数据。"
+  },
+  {
+    "key": "offset_004b9387_0",
+    "original": "ファイルの復旧に失敗しました。\nＳＤカードに保存された追加データが\n破損しています。\n　\n『コンフィグ』のデータ削除から\n追加データを初期化してください。",
+    "translation": "档案复原失败。\n保存于SD存储卡的追加资料\n损坏。\n　\n请从“设定”的资料删除\n将追加资料格式化。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n档案复原失败。\n保存于SD存储卡的追加资料\n损坏。\n　\n请从“设定”的资料删除\n将追加资料格式化。\n\n文件恢复失败。\n存储在SD卡中的附加数据\n损坏。\n\n请从“配置”的数据删除中\n初始化追加数据。\n\n文件的恢复失败了。\nSD卡保存的追加数据\n损坏了。\n\n请从“自信”的数据删除开始\n初始化追加数据。"
+  },
+  {
+    "key": "offset_004b9424_0",
+    "original": "ファイルの破損を検出したため\n該当する追加データを削除しました。",
+    "translation": "由于检测到档案损坏\n已删除该档案的追加资料。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n由于检测到档案损坏\n已删除该档案的追加资料。\n\n由于检测到文件损坏\n删除了相应的附加数据。\n\n因为检测到文件的损坏，所以删除了相应的追加数据。"
+  },
+  {
+    "key": "offset_004b946b_0",
+    "original": "ＳＤカードを認識できませんでした。",
+    "translation": "无法辨识SD卡。　　。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n无法辨识SD卡。　　。\n\n我没能识别SD卡。\n\n无法识别SD卡。"
+  },
+  {
+    "key": "offset_004b9495_0",
+    "original": "ＳＤカードが書き込み禁止になっています。",
+    "translation": "SD存储卡禁止写入资料。",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSD存储卡禁止写入资料。\n\nSD卡被禁止写入。"
+  },
+  {
+    "key": "offset_004b94c5_0",
+    "original": "ＳＤカードの空き容量が足りません。",
+    "translation": "SD卡的剩余容量不足。　　。",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSD卡的剩余容量不足。　　。\n\nSD卡的空余容量不够。\n\nSD卡空间不足。"
+  },
+  {
+    "key": "offset_004b94ef_0",
+    "original": "追加データを新規に作成しています。",
+    "translation": "正在制作新的追加资料。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n正在制作新的追加资料。\n\n正在新建附加数据。\n\n正在制作新的追加数据。"
+  },
+  {
+    "key": "offset_004b9519_0",
+    "original": "追加データを新規に作成しました。",
+    "translation": "已制作新的追加资料。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n已制作新的追加资料。\n\n我新制作了追加数据。\n\n已创建新的附加数据。"
+  },
+  {
+    "key": "offset_004b9541_0",
+    "original": "ＳＤカードを認識できませんでした。\n電源を切って差し直してください。",
+    "translation": "无法辨识SD存储卡。\n请关闭电源后重新插入。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n无法辨识SD存储卡。\n请关闭电源后重新插入。\n\n无法识别SD卡。\n请切断电源重新接通。\n\n我没能识别SD卡。请关掉电源重新打开。"
+  },
+  {
+    "key": "offset_004b958c_0",
+    "original": "追加コンテンツを確認しています。",
+    "translation": "正在确认追加内容。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n正在确认追加内容。\n\n正在确认追加的内容。\n\n正在检查其他内容。"
+  },
+  {
+    "key": "offset_004b95b4_0",
+    "original": "追加コンテンツ情報を受信しています。",
+    "translation": "正在接收追加内容资讯。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n正在接收追加内容资讯。\n\n正在接收附加内容信息。\n\n正在接收追加内容信息。"
+  },
+  {
+    "key": "offset_004b95e0_0",
+    "original": "購入できる追加コンテンツがありませんでした。",
+    "translation": "没有可购买的追加内容。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没有可购买的追加内容。\n\n没有可购买的其他内容。\n\n没有可以购买的追加内容。"
+  },
+  {
+    "key": "offset_004b9614_0",
+    "original": "追加コンテンツを削除します。\nよろしいですか？",
+    "translation": "将删除追加内容。\n确定吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n将删除追加内容。\n确定吗？\n\n删除其他内容。\n可以吗？\n\n删除追加内容。\n可以吗？"
+  },
+  {
+    "key": "offset_004b9649_0",
+    "original": "削除が終了しました。",
+    "translation": "删除完毕。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n删除完毕。\n\n删除结束了。\n\n删除已完成。"
+  },
+  {
+    "key": "offset_004b9665_0",
+    "original": "追加コンテンツとして\nサブペルソナ[颜色 03]『[占位A 01]』[颜色 01]が\nペルソナフィルムに追加されました。",
+    "translation": "作为追加内容的\n附属人格面具[颜色 03]“[占位A 01]”[颜色 01]\n已追加至人格面具胶片。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n作为追加内容的\n附属人格面具[颜色 03]“[占位A 01]”[颜色 01]已\n追加至人格面具胶片。\n\n作为追加内容\n副人格面具[颜色 03]“[占位A 01]”[颜色 01]被\n人格面具胶片追加了。\n\n添加了\n[颜色 03][占位A 01][颜色 01]。"
+  },
+  {
+    "key": "offset_004b96c3_0",
+    "original": "ナビ設定に\n[颜色 03]『[占位A 01]』[颜色 01]ボイスが\n追加されました。",
+    "translation": "导航设定\n已追加“[颜色 03][占位A 01][颜色 01]”\n语音。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n导航设定\n[颜色 03]已追加[占位A 01][颜色 01]“”\n语音。\n\n导航设定追加了\n[颜色 03]“[占位A 01]”[颜色 01]语音。\n\n\n\n[颜色 03][占位A 01][颜色 01]。"
+  },
+  {
+    "key": "offset_004b96ff_0",
+    "original": "追加コンテンツのサブペルソナを\n引き出すことができるようになりました。\n　\n最初の１回だけは\n無料でペルソナフィルムから\n引き出すことができます。",
+    "translation": "能引出追加内容的副人格面具\n了。\n\n最初的一次\n可以免费从人格面具胶片\n引出。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n能引出追加内容的副人格面具\n了。\n\n最初的一次\n可以免费从人格面具胶片\n引出。\n\n现在可以提取附加内容的子人格面具。\n\n\n只有第一次\n可以免费从人格面具胶片中拉出。\n\n\n已可以\n\n取出\n追加内容的附属人格面具。\n　\n仅限最初的一次可免费从人格面具胶片取出附属人格面具。"
+  },
+  {
+    "key": "offset_004b9794_0",
+    "original": "ナビボイスを設定出来るようになりました。\n　\nＸボタンでナビボイスを選ぶことが出来ます。",
+    "translation": "可以设定导航语音了。\n\n可以用X键选择导航语音。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n可以设定导航语音了。\n\n可以用X键选择导航语音。\n\n可以设定导航语音了。\n按下X键可以设定导航语音。"
+  },
+  {
+    "key": "offset_004b97f2_0",
+    "original": "ナビボイスは、\nタイトル画面の[颜色 03]追加コンテンツ[颜色 01]より\n追加する事が出来ます。",
+    "translation": "导航语音可以从\n标题画面的[颜色 03]追加内容[颜色 01]中\n追加。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n导航语音可以从\n标题画面的[颜色 03]追加内容[颜色 01]中\n追加。\n\n导航语音，比\n标题画面的[颜色 03]追加内容[颜色 01]能追加。\n\n\n导航语音可以添加\n[颜色 03][颜色 01]\n更多的内容标题屏幕。"
+  },
+  {
+    "key": "offset_004b9848_0",
+    "original": "追加コンテンツとして\nバトルＢＧＭ[颜色 03]『[占位A 01]』[颜色 01]が\n追加されました。",
+    "translation": "追加了对战BGM“[颜色 03][占位A 01][颜色 01]”。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n追加内容中\n战斗BGM[颜色 03]追加了[占位A 01]。[颜色 01]\n\n\n作为追加内容\n战斗背景音乐[颜色 03]“[占位A 01]”[颜色 01]被追加了。\n\n\n作为追加内容\n战斗BGM[颜色 03]“[占位A 01]”[颜色 01]被追加了。"
+  },
+  {
+    "key": "offset_004b9894_0",
+    "original": "追加コンテンツとして\nアイテムセット[颜色 03]『[占位A 01]』[颜色 01]が\n追加されました。",
+    "translation": "追加了道具组合“[颜色 03][占位A 01][颜色 01]”。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“”\n[颜色 03][占位A 01][颜色 01]项目集\n追加为追加内容。\n\n追加内容中\n道具组合[颜色 03]追加了[占位A 01]。[颜色 01]\n\n\n作为追加内容\n项目组合[颜色 03]“[占位A 01]”[颜色 01]被追加了。"
+  },
+  {
+    "key": "offset_004b98e2_0",
+    "original": "はい\nいいえ",
+    "translation": "是\n否",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是\n否"
+  },
+  {
+    "key": "offset_004b98f5_0",
+    "original": "これにする\nやめる",
+    "translation": "选这个\n不选。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n选这个\n不选。\n\n就这个\n放弃\n\n到此为止"
+  },
+  {
+    "key": "offset_004b990e_0",
+    "original": "上書きする\nやめる",
+    "translation": "要覆盖\n不选。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要覆盖\n不选。\n\n不要重写\n\n\n覆盖，覆盖"
+  }
+]

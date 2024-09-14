@@ -1,0 +1,23 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "『くまさん』を討伐せよ！",
+    "translation": "讨伐“熊先生”！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n讨伐“熊熊”！\n\n讨伐“熊先生”！\n\n讨伐“熊”！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "回り込める道を探せ",
+    "translation": "寻找能够绕过去的路",
+    "stage": 0,
+    "context": "机翻辅助：\n\n寻找能够绕过去的路\n\n寻找可以绕过去的路\n\n寻找可以绕行的道路"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "『くまさん』にバトルを挑み勝利しろ",
+    "translation": "挑战“熊先生”并取得胜利",
+    "stage": 1,
+    "context": "机翻辅助：\n\n挑战“熊熊”并取得胜利\n\n挑战“熊先生”战斗胜利\n\n挑战“熊先生”并取得胜利"
+  }
+]

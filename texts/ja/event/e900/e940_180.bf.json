@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あ、帰ってきた。",
+    "translation": "あ、帰ってきた。",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おお、みんなおかえりー！\n待ってたぞ！",
+    "translation": "おお、みんなおかえりー！\n待ってたぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "持って来たベルト、\n早く見せてくれ！",
+    "translation": "持って来たベルト、\n早く見せてくれ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うおっ！？",
+    "translation": "うおっ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "こら、落ち着けって！\nちゃんと持って帰ってきたっつーの！\nほら、これだよ。",
+    "translation": "こら、落ち着けって！\nちゃんと持って帰ってきたっつーの！\nほら、これだよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おお、これが…！",
+    "translation": "おお、これが…！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "よくできてるぜ、そのベルト。\n横のボタン押すと光るんだよ。",
+    "translation": "よくできてるぜ、そのベルト。\n横のボタン押すと光るんだよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おお、ホントだ！\nこのごちゃっとした機能…まさに、\nわたしが求めていたヒーローベルト！",
+    "translation": "おお、ホントだ！\nこのごちゃっとした機能…まさに、\nわたしが求めていたヒーローベルト！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "…の、オモチャ。",
+    "translation": "…の、オモチャ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "まあ、うん…そうだよなー…\n本物のヒーローベルトが、\nこんなとこにあるはずないよなー…",
+    "translation": "まあ、うん…そうだよなー…\n本物のヒーローベルトが、\nこんなとこにあるはずないよなー…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ま、まあまあ、\nそう落ち込まないで…",
+    "translation": "ま、まあまあ、\nそう落ち込まないで…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "双葉のサーチのおかげで\n目的は無事達成できたんだからさ。",
+    "translation": "双葉のサーチのおかげで\n目的は無事達成できたんだからさ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "うう、いいやつだなアケチ…\nイケメンだし、頭もきれるし…",
+    "translation": "うう、いいやつだなアケチ…\nイケメンだし、頭もきれるし…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "何だオマエ、ずるいな！\nイケメン補正かかりすぎだぞ！",
+    "translation": "何だオマエ、ずるいな！\nイケメン補正かかりすぎだぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ええっ！？\n急にそんなこと言われても…！",
+    "translation": "ええっ！？\n急にそんなこと言われても…！",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "確かに、明智くんホントすごいよね。\nさっきも簡単に敵を騙しちゃったし。",
+    "translation": "確かに、明智くんホントすごいよね。\nさっきも簡単に敵を騙しちゃったし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ああ。\nびっくりするくらい鮮やかだったぜ。",
+    "translation": "ああ。\nびっくりするくらい鮮やかだったぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あはは、ありがとう。\n無事にベルトも見つかったし、\n役に立てたならよかったよ。",
+    "translation": "あはは、ありがとう。\n無事にベルトも見つかったし、\n役に立てたならよかったよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ベルトか…\n変なルールだったよな。\nヒーロー以外はベルト禁止なんてよ。",
+    "translation": "ベルトか…\n変なルールだったよな。\nヒーロー以外はベルト禁止なんてよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "カモシダーマンが決めたんだから\nそういうもんじゃない？",
+    "translation": "カモシダーマンが決めたんだから\nそういうもんじゃない？",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "え、でもベルトだよ？\n大人から子供まで、\n誰だって使うものでしょ。",
+    "translation": "え、でもベルトだよ？\n大人から子供まで、\n誰だって使うものでしょ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "だよなぁ。\n使っていいとか悪いとか、\nそーいうモンじゃねえだろ。",
+    "translation": "だよなぁ。\n使っていいとか悪いとか、\nそーいうモンじゃねえだろ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "…………。",
+    "translation": "…………。",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "よくぞ戻った、\n選ばれしペルソナ使いたちよ！",
+    "translation": "よくぞ戻った、\n選ばれしペルソナ使いたちよ！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "うわっ、びっくりした！？",
+    "translation": "うわっ、びっくりした！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "と、突然なんなんだよ！？",
+    "translation": "と、突然なんなんだよ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "お客様方の活躍によって\n新しいクエストが解放されましたので\nお知らせにあがりました。",
+    "translation": "お客様方の活躍によって\n新しいクエストが解放されましたので\nお知らせにあがりました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "それならフツーに出てきてくれよ…",
+    "translation": "それならフツーに出てきてくれよ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "何をおっしゃいます。\n鮮やかな人生には、驚きが不可欠では\nありませんか。",
+    "translation": "何をおっしゃいます。\n鮮やかな人生には、驚きが不可欠では\nありませんか。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "それは時と場合にもよりますよ…",
+    "translation": "それは時と場合にもよりますよ…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "ところで今、新しいクエストと\n言ってましたけど…",
+    "translation": "ところで今、新しいクエストと\n言ってましたけど…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "はい。\n話せば長くなるのですが…",
+    "translation": "はい。\n話せば長くなるのですが…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "皆様が今のクエストを達成した後、\n新しいクエストが登録されたのです",
+    "translation": "皆様が今のクエストを達成した後、\n新しいクエストが登録されたのです",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "短っ！",
+    "translation": "短っ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ともかく、\nこれで一歩前進でございますね。",
+    "translation": "ともかく、\nこれで一歩前進でございますね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "今後もパパッと受注して、\nスパッと映画の歪みを\n壊してくださいませ。",
+    "translation": "今後もパパッと受注して、\nスパッと映画の歪みを\n壊してくださいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "か、簡単に言うなぁ…",
+    "translation": "か、簡単に言うなぁ…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "でも、クエストやることで\n先に進めるなら、\nやるしかないよね。",
+    "translation": "でも、クエストやることで\n先に進めるなら、\nやるしかないよね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_028_2",
+    "original": "それで、\n早く真と春を助けてあげなきゃ！",
+    "translation": "それで、\n早く真と春を助けてあげなきゃ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "だな。\n二人が心配だし、\nこの調子でガンガン進もうぜ。",
+    "translation": "だな。\n二人が心配だし、\nこの調子でガンガン進もうぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "それと、こちらは\n今回のクエストを達成した\n報酬でございます。",
+    "translation": "それと、こちらは\n今回のクエストを達成した\n報酬でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "おっ、マジかよ！\nそんなの貰えるなら\nヤル気も出るってもんだよな！",
+    "translation": "おっ、マジかよ！\nそんなの貰えるなら\nヤル気も出るってもんだよな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "今後もクエストをこなせば\n報酬をお渡しいたします。\n皆様、頑張ってくださいませ。",
+    "translation": "今後もクエストをこなせば\n報酬をお渡しいたします。\n皆様、頑張ってくださいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_マヨイ",
+    "original": "マヨイ",
+    "translation": "マヨイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  }
+]

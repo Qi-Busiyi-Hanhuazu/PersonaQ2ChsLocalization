@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ようこそ、ベルベットルームへ…",
+    "translation": "ようこそ、ベルベットルームへ…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "どうやら、更なる強力なカードを\n手に入れたようですね。",
+    "translation": "どうやら、更なる強力なカードを\n手に入れたようですね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "SEL_000_0",
+    "original": "カードって？",
+    "translation": "カードって？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_000_1",
+    "original": "強力って？",
+    "translation": "強力って？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "[P5姓]様がお持ちになられている、\n『ワイルドカード』…",
+    "translation": "[P5姓]様がお持ちになられている、\n『ワイルドカード』…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "それは、ブランクカードよりも\n強力な力を秘めております。",
+    "translation": "それは、ブランクカードよりも\n強力な力を秘めております。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_001_2",
+    "original": "これを使えば、イケニエ合体で\nメインペルソナに力を写せるはず。",
+    "translation": "これを使えば、イケニエ合体で\nメインペルソナに力を写せるはず。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "なんかよく分かんねーけど、\nそれってスゲーことなのか？",
+    "translation": "なんかよく分かんねーけど、\nそれってスゲーことなのか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ええ、まさにワイルドだからこそ出来る\n力の片鱗ともいえるでしょうね。",
+    "translation": "ええ、まさにワイルドだからこそ出来る\n力の片鱗ともいえるでしょうね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "こちらも、すぐに使えるように\n準備をしておきます。",
+    "translation": "こちらも、すぐに使えるように\n準備をしておきます。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "試したくなった際は、いつでも\nベルベットルームまでお越し下さい。",
+    "translation": "試したくなった際は、いつでも\nベルベットルームまでお越し下さい。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

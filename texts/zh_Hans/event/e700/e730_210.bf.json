@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あ！　その先、敵の反応があります。\n気をつけて進んでください！",
+    "translation": "啊！前方有敌人的反应。\n前进的时候请小心！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n啊！前方有敌人的反应。\n请小心前进！\n\n啊！在那之前，有敌人的反应。\n请小心前进！\n\n啊！再往前，就会有敌人的反应。请小心前进！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "なら、一度戻って準備を整えるのも\n手かもしれないな。",
+    "translation": "那么，\n也许回去重整一下状态也是个好主意。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n既然如此，先回去做好准备\n或许也是个办法。\n\n那么，回去做一次准备也不失为一种方法。\n\n\n那么，回去做一次准备也是一种方法吧。"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "どうする？　大丈夫か？",
+    "translation": "要怎么做？还行吗？",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n要怎么做？没问题吗？\n\n怎么办？没事吧？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "この先に敵の反応があります。\n大丈夫ですか？",
+    "translation": "这前面有敌人的反应。\n准备好了吗？",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n前方有敌人的反应。\n没问题吗？\n\n前面有敌人的反应。\n没事吧？"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "準備万端だ",
+    "translation": "准备万全",
+    "stage": 0,
+    "context": "机翻辅助：\n\n准备万全\n\n万事俱备\n\n一切准备就绪"
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "引き返そう",
+    "translation": "掉头回去",
+    "stage": 1,
+    "context": "机翻辅助：\n\n回头吧\n\n回去吧"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "アイアイサー！\nいっちょ、やっちゃいますか！",
+    "translation": "遵命长官！\n看我一把定胜负！",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\nAye Aye Sir！\n就来大干一场吧！\n\n偶像！\n喂，要做吗！\n\n我爱你！\n你做了吗？"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ええ、何があるか分かりませんし。\n念には念を入れておきましょう。",
+    "translation": "嗯，不知道会发生什么。\n还是做好万全的准备吧。",
+    "stage": 1,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n嗯，毕竟不知道会发生什么事。\n还是小心为上吧。\n\n嗯，我也不知道有什么。\n慎重起见。\n\n嗯，不知道有什么。慎重起见还是慎重起见吧。"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊织 顺平",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

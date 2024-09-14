@@ -1,0 +1,170 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MARGA_MSG_005_0",
+    "original": "その調子よ。",
+    "translation": "その調子よ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "NANAKO_MSG_005_0",
+    "original": "えへへ、やったね！",
+    "translation": "えへへ、やったね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MARGA_MSG_006_0",
+    "original": "まずまずね。",
+    "translation": "まずまずね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "NANAKO_MSG_006_0",
+    "original": "とれたー！",
+    "translation": "とれたー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MARGA_MSG_007_0",
+    "original": "悪くないわね。",
+    "translation": "悪くないわね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "NANAKO_MSG_007_0",
+    "original": "オタカラ！",
+    "translation": "オタカラ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MARGA_MSG_009_0",
+    "original": "賞賛に値するわ。",
+    "translation": "賞賛に値するわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "NANAKO_MSG_009_0",
+    "original": "いいのとれた！",
+    "translation": "いいのとれた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MARGA_MSG_010_0",
+    "original": "いいものだわ。",
+    "translation": "いいものだわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "NANAKO_MSG_010_0",
+    "original": "やったやったー！",
+    "translation": "やったやったー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MARGA_MSG_011_0",
+    "original": "素晴らしい結果ね。",
+    "translation": "素晴らしい結果ね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "NANAKO_MSG_011_0",
+    "original": "やったー！すごいね！",
+    "translation": "やったー！すごいね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MARGA_MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "NANAKO_MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_菜々子",
+    "original": "菜々子",
+    "translation": "菜々子",
+    "stage": 1,
+    "context": ""
+  }
+]

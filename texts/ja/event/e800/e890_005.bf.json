@@ -1,0 +1,576 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "皆様、大変お見事でした。\n私の完敗です。",
+    "translation": "皆様、大変お見事でした。\n私の完敗です。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "手ごわかった",
+    "translation": "手ごわかった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "楽勝だった",
+    "translation": "楽勝だった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おや、それは嬉しいお言葉。\nまたいつか、お手合わせ致しましょう。",
+    "translation": "おや、それは嬉しいお言葉。\nまたいつか、お手合わせ致しましょう。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "それは素晴らしい。\n私の想像以上に成長されている様子。",
+    "translation": "それは素晴らしい。\n私の想像以上に成長されている様子。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "それで、満足いただけましたか、姉上。\nなぜこのような手合わせを…",
+    "translation": "それで、満足いただけましたか、姉上。\nなぜこのような手合わせを…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "…おや？",
+    "translation": "…おや？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "煤けていたフィルムが、\nぼんやりと光を放っている…",
+    "translation": "煤けていたフィルムが、\nぼんやりと光を放っている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "おお、フィルム光ってる！",
+    "translation": "おお、フィルム光ってる！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "儚げだが…美しいな。",
+    "translation": "儚げだが…美しいな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "思った通りでございます。",
+    "translation": "思った通りでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_1_0",
+    "original": "そちらのフィルム、入手しただけでは\n何の変哲もないガラクタですが…",
+    "translation": "そちらのフィルム、入手しただけでは\n何の変哲もないガラクタですが…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_1_1",
+    "original": "持ち主が充分な『力』を示すことで、\n本来の輝きを取り戻すものかと。",
+    "translation": "持ち主が充分な『力』を示すことで、\n本来の輝きを取り戻すものかと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "なるほど、そういうことでしたか。",
+    "translation": "なるほど、そういうことでしたか。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "[P5姓]様は私との戦いに勝ち、\nその『力』を示した、と。",
+    "translation": "[P5姓]様は私との戦いに勝ち、\nその『力』を示した、と。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "えっと、このフィルムって、ジョーカーの\n『ワイルド』の力に関係あるんだよね。",
+    "translation": "えっと、このフィルムって、ジョーカーの\n『ワイルド』の力に関係あるんだよね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_010_1_0",
+    "original": "ジョーカー、どう？\n何か変わった？",
+    "translation": "ジョーカー、どう？\n何か変わった？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "特に変わってない",
+    "translation": "特に変わってない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "みなぎって来た",
+    "translation": "みなぎって来た",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "うーん、僕らから見ても\n変化があったようには見えないね。",
+    "translation": "うーん、僕らから見ても\n変化があったようには見えないね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "本当かい？\nそんな風には見えないけど。",
+    "translation": "本当かい？\nそんな風には見えないけど。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ぐぬぬ…でございます。",
+    "translation": "ぐぬぬ…でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "私の見立てが間違っていたのでしょうか。\n嗚呼、そんなはずは…",
+    "translation": "私の見立てが間違っていたのでしょうか。\n嗚呼、そんなはずは…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "気を落とすことはありません、姉上。",
+    "translation": "気を落とすことはありません、姉上。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "そのフィルムは『力を司る者』である\n私との戦いを経て、明確な変化を見せた。",
+    "translation": "そのフィルムは『力を司る者』である\n私との戦いを経て、明確な変化を見せた。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_015_2",
+    "original": "少なくとも、姉上の考えは\n当たらずとも遠からず、ということでは？",
+    "translation": "少なくとも、姉上の考えは\n当たらずとも遠からず、ということでは？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "そうだね、いろいろ可能性はありそうだ。",
+    "translation": "そうだね、いろいろ可能性はありそうだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "例えば、他にも同じ『フィルム』が存在して\nそれを揃える必要があるとか。",
+    "translation": "例えば、他にも同じ『フィルム』が存在して\nそれを揃える必要があるとか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "……！",
+    "translation": "……！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "フィルムはジョーカーの名が書かれた\n特別な『特別上映』で手に入った。",
+    "translation": "フィルムはジョーカーの名が書かれた\n特別な『特別上映』で手に入った。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "また同じような上映があっても\nおかしくはないわね。",
+    "translation": "また同じような上映があっても\nおかしくはないわね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "一度はガッカリいたしましたが、\n新たな可能性が拓けて参りました。",
+    "translation": "一度はガッカリいたしましたが、\n新たな可能性が拓けて参りました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "では、その時を待つことに致しましょう。\n可能性は無限大でございます。",
+    "translation": "では、その時を待つことに致しましょう。\n可能性は無限大でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "あはは…立ち直り早いなー。",
+    "translation": "あはは…立ち直り早いなー。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "兎にも角にも[P5姓]様、皆様には\n大変素晴らしい『力』を見せて頂きました。",
+    "translation": "兎にも角にも[P5姓]様、皆様には\n大変素晴らしい『力』を見せて頂きました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "テオとの対決、特別上映とは異なりますが\nささやかな報酬をご用意しております。",
+    "translation": "テオとの対決、特別上映とは異なりますが\nささやかな報酬をご用意しております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_021_2",
+    "original": "『力を司る者』からの感謝と期待の印として\n後ほど、お受け取り下さいませ。",
+    "translation": "『力を司る者』からの感謝と期待の印として\n後ほど、お受け取り下さいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "おっ、マジか！\nサンキューな、めっちゃ太っ腹じゃん。",
+    "translation": "おっ、マジか！\nサンキューな、めっちゃ太っ腹じゃん。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "フフ…礼には及びません。",
+    "translation": "フフ…礼には及びません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "我々は、皆様の成長を見守ることこそ\n何よりの愉しみでもございます。",
+    "translation": "我々は、皆様の成長を見守ることこそ\n何よりの愉しみでもございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうですね、私からも感謝を。",
+    "translation": "そうですね、私からも感謝を。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "それで、テオ。\nあなたは何を用意してきたのですか？",
+    "translation": "それで、テオ。\nあなたは何を用意してきたのですか？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "は…？",
+    "translation": "は…？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "あなたも『力を司る者』の端くれならば、\n皆様に何か差し上げなさい。",
+    "translation": "あなたも『力を司る者』の端くれならば、\n皆様に何か差し上げなさい。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ええ！？　急に言われましても…",
+    "translation": "ええ！？　急に言われましても…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "姉に恥をかかせる気でしょうか。\nさあ、さあ！",
+    "translation": "姉に恥をかかせる気でしょうか。\nさあ、さあ！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "そ、そうだ、アレはいかがでしょう？",
+    "translation": "そ、そうだ、アレはいかがでしょう？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "私が丹精こめて作りました、\nとっておきをお渡しするということで。",
+    "translation": "私が丹精こめて作りました、\nとっておきをお渡しするということで。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "おおっ、職人テオが言うなら期待大だな！\n何くれるんだ？",
+    "translation": "おおっ、職人テオが言うなら期待大だな！\n何くれるんだ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "はい、私テオドア、渾身の自信作。\nその名も…",
+    "translation": "はい、私テオドア、渾身の自信作。\nその名も…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_032_1",
+    "original": "ベルベット式・手作りホットドッグ！！",
+    "translation": "ベルベット式・手作りホットドッグ！！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "…えーと？",
+    "translation": "…えーと？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "…ホットドッグって、\nあのパンにソーセージを挟んだ…？",
+    "translation": "…ホットドッグって、\nあのパンにソーセージを挟んだ…？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "ええ、映画のお供にもなりますし。\nぜひご賞味下さい。",
+    "translation": "ええ、映画のお供にもなりますし。\nぜひご賞味下さい。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "SEL_036_0",
+    "original": "宣伝か？",
+    "translation": "宣伝か？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_036_1",
+    "original": "楽しみだ",
+    "translation": "楽しみだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "うーん、商魂たくましいってか、\n商人が板についてきたな？",
+    "translation": "うーん、商魂たくましいってか、\n商人が板についてきたな？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "はい、そう言って頂けて光栄です。",
+    "translation": "はい、そう言って頂けて光栄です。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "肉の配合からパンの焼き加減、\nケチャップの分量までこだわりました。",
+    "translation": "肉の配合からパンの焼き加減、\nケチャップの分量までこだわりました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_039_1",
+    "original": "姉上たちにも好評です。\n決して期待は裏切りませんよ？",
+    "translation": "姉上たちにも好評です。\n決して期待は裏切りませんよ？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "どこ向かってるんだ、テオドア…",
+    "translation": "どこ向かってるんだ、テオドア…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "姉上、つい先ほど焼き立てのものを\n根こそぎ奪い去っていかれたはずです。",
+    "translation": "姉上、つい先ほど焼き立てのものを\n根こそぎ奪い去っていかれたはずです。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_041_1",
+    "original": "そのいくつかを、報酬と一緒に\n皆様へお渡し願えますか？",
+    "translation": "そのいくつかを、報酬と一緒に\n皆様へお渡し願えますか？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_042_1",
+    "original": "それはたいへん危ういところ。\nギリギリセーフでございました。",
+    "translation": "それはたいへん危ういところ。\nギリギリセーフでございました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_042_2",
+    "original": "運良く１つほど、手持ちがございますので\n皆様に贈呈いたしましょう。",
+    "translation": "運良く１つほど、手持ちがございますので\n皆様に贈呈いたしましょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "ひ、ひとつですか！？\nまさか残りはすでに召し上がったと…？",
+    "translation": "ひ、ひとつですか！？\nまさか残りはすでに召し上がったと…？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "それでは、まとまりましたところで\nいったんお開きと致しましょう。",
+    "translation": "それでは、まとまりましたところで\nいったんお開きと致しましょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_044_1",
+    "original": "そちらのフィルムにつきましては\n引き続きお調べしておきます。",
+    "translation": "そちらのフィルムにつきましては\n引き続きお調べしておきます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_044_2",
+    "original": "殊に、『キャストの指定がある特別上映』\nについては、特に注意して参ります。",
+    "translation": "殊に、『キャストの指定がある特別上映』\nについては、特に注意して参ります。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_044_3",
+    "original": "それでは、また。",
+    "translation": "それでは、また。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SYS_MES_000_0",
+    "original": "[道具 073A]の効果で、\nペルソナストック数が[颜色 03][占位A 01]体[颜色 01]に増加しました。",
+    "translation": "[道具 073A]の効果で、\nペルソナストック数が[颜色 03][占位A 01]体[颜色 01]に増加しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  }
+]

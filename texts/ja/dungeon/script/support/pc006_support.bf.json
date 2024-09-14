@@ -1,0 +1,737 @@
+[
+  {
+    "key": "RISE_FOE_FOLLOW_START_1_0",
+    "original": "Ｆ．Ｏ．Ｅが気づいたみたい！ ",
+    "translation": "Ｆ．Ｏ．Ｅが気づいたみたい！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FOE_FOLLOW_START_2_0",
+    "original": "あのＦ．Ｏ．Ｅ、気づいてるよ！ ",
+    "translation": "あのＦ．Ｏ．Ｅ、気づいてるよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FOE_FOLLOW_START_3_0",
+    "original": "Ｆ．Ｏ．Ｅに注意して！ ",
+    "translation": "Ｆ．Ｏ．Ｅに注意して！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅに気をつけて！ ",
+    "translation": "Ｆ．Ｏ．Ｅに気をつけて！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FOE_NEAR_2_0",
+    "original": "敵Ｆ．Ｏ．Ｅを発見！　注意して！ ",
+    "translation": "敵Ｆ．Ｏ．Ｅを発見！　注意して！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅ、接近中だよ！ ",
+    "translation": "Ｆ．Ｏ．Ｅ、接近中だよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FOE_FOLLOW_END_1_0",
+    "original": "Ｆ．Ｏ．Ｅを振り切ったよ！ ",
+    "translation": "Ｆ．Ｏ．Ｅを振り切ったよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FOE_FOLLOW_END_2_0",
+    "original": "Ｆ．Ｏ．Ｅから逃げ切れたみたい！ ",
+    "translation": "Ｆ．Ｏ．Ｅから逃げ切れたみたい！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FOE_FOLLOW_END_3_0",
+    "original": "よかった、もう追ってこないね。 ",
+    "translation": "よかった、もう追ってこないね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_KANSI_REACTION_1_0",
+    "original": "気をつけて進んでね！ ",
+    "translation": "気をつけて進んでね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_KANSI_REACTION_2_0",
+    "original": "見つからないように、そーっとね。 ",
+    "translation": "見つからないように、そーっとね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_KANSI_REACTION_3_0",
+    "original": "慌てずに、慎重に行こう？ ",
+    "translation": "慌てずに、慎重に行こう？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_DENKISAKU_REACTION__0",
+    "original": "そこ電気を止めないと通れないよ！ ",
+    "translation": "そこ電気を止めないと通れないよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_DENKISAKU_REACTION__2_0",
+    "original": "電気柵には注意して！ ",
+    "translation": "電気柵には注意して！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_DENKISAKU_REACTION__3_0",
+    "original": "止めるスイッチがあるはずだよ！ \n探してみて！ ",
+    "translation": "止めるスイッチがあるはずだよ！ \n探してみて！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_KYOUHU_REACTION_1_0",
+    "original": "あっ、すごい風！ ",
+    "translation": "あっ、すごい風！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_KYOUHU_REACTION_2_0",
+    "original": "ああっ、みんなー！ ",
+    "translation": "ああっ、みんなー！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_KYOUHU_REACTION_3_0",
+    "original": "うっそ、流されてる！？ ",
+    "translation": "うっそ、流されてる！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_STAIR_FIND_1_0",
+    "original": "先に進めそうだよ！ ",
+    "translation": "先に進めそうだよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_STAIR_FIND_2_0",
+    "original": "次のエリアに行けそうだね、どうする？ ",
+    "translation": "次のエリアに行けそうだね、どうする？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_STAIR_FIND_3_0",
+    "original": "階段、発見！　行ってみる？ ",
+    "translation": "階段、発見！　行ってみる？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_TREASURE_FIND_1_0",
+    "original": "宝箱はっけーん！ ",
+    "translation": "宝箱はっけーん！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_TREASURE_FIND_2_0",
+    "original": "ラッキー。宝箱、見ーっけ！ ",
+    "translation": "ラッキー。宝箱、見ーっけ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_TREASURE_FIND_3_0",
+    "original": "あっ、宝箱だよ！　開けてみる？ ",
+    "translation": "あっ、宝箱だよ！　開けてみる？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_CHECK_WALL_1_0",
+    "original": "前に何かあるみたい。 ",
+    "translation": "前に何かあるみたい。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_CHECK_WALL_2_0",
+    "original": "その辺り、ちょっと気になるかも… ",
+    "translation": "その辺り、ちょっと気になるかも… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_CHECK_WALL_3_0",
+    "original": "前方、調べてみない？ ",
+    "translation": "前方、調べてみない？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_SWITCH_FIND_1_0",
+    "original": "近くにスイッチがありそうだよ。 ",
+    "translation": "近くにスイッチがありそうだよ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_SWITCH_FIND_2_0",
+    "original": "この辺にスイッチがありそうだね。 ",
+    "translation": "この辺にスイッチがありそうだね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_SWITCH_FIND_3_0",
+    "original": "スイッチがありそうな気配！ ",
+    "translation": "スイッチがありそうな気配！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_SHORTCUT_FIND_1_0",
+    "original": "そこ、ショートカットできそうだよ！ ",
+    "translation": "そこ、ショートカットできそうだよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_SHORTCUT_FIND_2_0",
+    "original": "近道になりそうなとこ、発見！ ",
+    "translation": "近道になりそうなとこ、発見！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_SHORTCUT_FIND_3_0",
+    "original": "見て！　そこ通れそうだよ！ ",
+    "translation": "見て！　そこ通れそうだよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_PARTY_DEAD_1_0",
+    "original": "負傷者多数だよ！ \n戻ったほうがいいかも！ ",
+    "translation": "負傷者多数だよ！ \n戻ったほうがいいかも！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_PARTY_DEAD_2_0",
+    "original": "大ピーンチ！　態勢を立て直して！ ",
+    "translation": "大ピーンチ！　態勢を立て直して！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_PARTY_DEAD_3_0",
+    "original": "うわわ！　このまま進むのは超危険だよ！ ",
+    "translation": "うわわ！　このまま進むのは超危険だよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FOE_WARNING_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅ、まだ追ってきてるよ！ ",
+    "translation": "Ｆ．Ｏ．Ｅ、まだ追ってきてるよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FOE_WARNING_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅに追われてる、注意して！ ",
+    "translation": "Ｆ．Ｏ．Ｅに追われてる、注意して！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FOE_WARNING_NEAR_3_0",
+    "original": "まだ追われてるよ、油断しないで！ ",
+    "translation": "まだ追われてるよ、油断しないで！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_PARTY_HPTP10_1_0",
+    "original": "マズいよ！　いったん戻ってきて！ ",
+    "translation": "マズいよ！　いったん戻ってきて！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_PARTY_HPTP10_2_0",
+    "original": "ピンチ、ピンチ！　無理しちゃダメ！ ",
+    "translation": "ピンチ、ピンチ！　無理しちゃダメ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_PARTY_HPTP10_3_0",
+    "original": "全滅しちゃう！　体勢立て直せる？ ",
+    "translation": "全滅しちゃう！　体勢立て直せる？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_PARTY_HP10_1_0",
+    "original": "みんなの体力がピンチ！ ",
+    "translation": "みんなの体力がピンチ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_PARTY_HP10_2_0",
+    "original": "みんな、体力が減ってるよ！ ",
+    "translation": "みんな、体力が減ってるよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_PARTY_HP10_3_0",
+    "original": "みんな、体力回復して！ ",
+    "translation": "みんな、体力回復して！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_1PERSON_HPTP10_1_0",
+    "original": "危険な状態だよ！ ",
+    "translation": "危険な状態だよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_1PERSON_HPTP10_2_0",
+    "original": "このままじゃ倒れちゃう、回復して！ ",
+    "translation": "このままじゃ倒れちゃう、回復して！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_1PERSON_HPTP10_3_0",
+    "original": "体力・気力ピンチだよ！ ",
+    "translation": "体力・気力ピンチだよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_PARTY_TP10_1_0",
+    "original": "みんなの気力に注意して！ ",
+    "translation": "みんなの気力に注意して！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_PARTY_TP10_2_0",
+    "original": "みんな、疲れてるよ！　大丈夫？ ",
+    "translation": "みんな、疲れてるよ！　大丈夫？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_PARTY_TP10_3_0",
+    "original": "気力に注意して、みんな！ ",
+    "translation": "気力に注意して、みんな！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_1PERSON_HP10_1_0",
+    "original": "体力回復できる？ ",
+    "translation": "体力回復できる？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_1PERSON_HP10_2_0",
+    "original": "誰か、回復してあげて！ ",
+    "translation": "誰か、回復してあげて！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_1PERSON_HP10_3_0",
+    "original": "体力に注意して！ ",
+    "translation": "体力に注意して！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_1PERSON_TP10_1_0",
+    "original": "疲れてない？　大丈夫？ ",
+    "translation": "疲れてない？　大丈夫？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_1PERSON_TP10_2_0",
+    "original": "気力がヤバいよ！ ",
+    "translation": "気力がヤバいよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_1PERSON_TP10_3_0",
+    "original": "ガス欠になってない？ ",
+    "translation": "ガス欠になってない？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_ITEM_90_BATTLE_1_0",
+    "original": "荷物の整理整頓も大事だよ？ ",
+    "translation": "荷物の整理整頓も大事だよ？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_ITEM_90_BATTLE_2_0",
+    "original": "持ち物はマメに整理してね！ ",
+    "translation": "持ち物はマメに整理してね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_ITEM_90_BATTLE_3_0",
+    "original": "整理しないと、荷物が溢れそうだよ。 ",
+    "translation": "整理しないと、荷物が溢れそうだよ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_1PERSON_HP80_1_0",
+    "original": "すごい、まだ余裕ありそうだね！ ",
+    "translation": "すごい、まだ余裕ありそうだね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_1PERSON_HP80_2_0",
+    "original": "この調子でどんどん行こ！ ",
+    "translation": "この調子でどんどん行こ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_1PERSON_HP80_3_0",
+    "original": "まだまだ元気そうだね！ ",
+    "translation": "まだまだ元気そうだね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_RISE_MAKASETA_1_0",
+    "original": "りせちゃん、\nあとはよろしくお願いします！",
+    "translation": "りせちゃん、\nあとはよろしくお願いします！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_RISE_MAKASETA_2_0",
+    "original": "りせちゃんのナビ、楽しみです！",
+    "translation": "りせちゃんのナビ、楽しみです！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_RISE_MAKASETA_3_0",
+    "original": "ここからはりせちゃんに代わりますね！",
+    "translation": "ここからはりせちゃんに代わりますね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_RISE_ANSWER_1_0",
+    "original": "風花ちゃんに代わりまして、 \nりせ、いきまーす！ ",
+    "translation": "風花ちゃんに代わりまして、 \nりせ、いきまーす！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_RISE_ANSWER_2_0",
+    "original": "お疲れ様、風花ちゃん！\n次は任せてっ！ ",
+    "translation": "お疲れ様、風花ちゃん！\n次は任せてっ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_RISE_ANSWER_3_0",
+    "original": "風花ちゃんの次は、 \nりせちーがナビをするよ！ ",
+    "translation": "風花ちゃんの次は、 \nりせちーがナビをするよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_RISE_MAKASETA_1_0",
+    "original": "ナビ、りせに交代するぞ！\nよろしく頼んだ！",
+    "translation": "ナビ、りせに交代するぞ！\nよろしく頼んだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_RISE_MAKASETA_2_0",
+    "original": "りせ、ナビの交代よろしくな！\n期待してるぞ！",
+    "translation": "りせ、ナビの交代よろしくな！\n期待してるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_RISE_MAKASETA_3_0",
+    "original": "よしっ！\nここからはりせにバトンタッチするぞ！",
+    "translation": "よしっ！\nここからはりせにバトンタッチするぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_RISE_ANSWER_1_0",
+    "original": "オッケー！　任せて、ナビ！ ",
+    "translation": "オッケー！　任せて、ナビ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_RISE_ANSWER_2_0",
+    "original": "ナビに代わって、 \nここからは私が支援するよ！ ",
+    "translation": "ナビに代わって、 \nここからは私が支援するよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_RISE_ANSWER_3_0",
+    "original": "ナビ、お疲れ！ \n私も頑張るからね！ ",
+    "translation": "ナビ、お疲れ！ \n私も頑張るからね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_ITEM_90_DUNGEON_1_0",
+    "original": "荷物の整理整頓も大事だよ？ ",
+    "translation": "荷物の整理整頓も大事だよ？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_ITEM_90_DUNGEON_2_0",
+    "original": "持ち物はマメに整理してね！ ",
+    "translation": "持ち物はマメに整理してね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_ITEM_90_DUNGEON_3_0",
+    "original": "整理しないと、荷物が溢れそうだよ。 ",
+    "translation": "整理しないと、荷物が溢れそうだよ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_DUNGEON_START_1_0",
+    "original": "頑張ってサポートするね！ ",
+    "translation": "頑張ってサポートするね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_DUNGEON_START_2_0",
+    "original": "危なくなったら、すぐに退避してね？ ",
+    "translation": "危なくなったら、すぐに退避してね？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_DUNGEON_START_3_0",
+    "original": "みんな、準備はいい？ \n張り切ってこー！ ",
+    "translation": "みんな、準備はいい？ \n張り切ってこー！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_QUEST_START_1_0",
+    "original": "無事に達成できるよう、ガンバろー！ ",
+    "translation": "無事に達成できるよう、ガンバろー！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_QUEST_START_2_0",
+    "original": "それじゃ、特別上映始まるよー！ ",
+    "translation": "それじゃ、特別上映始まるよー！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_QUEST_START_3_0",
+    "original": "特別上映、スタート！ ",
+    "translation": "特別上映、スタート！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_TOUHA_25_1_0",
+    "original": "先は長そうだよ、気をつけて！ ",
+    "translation": "先は長そうだよ、気をつけて！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_TOUHA_25_2_0",
+    "original": "まだ道のりは長そうだよ！ \n油断しないでね！ ",
+    "translation": "まだ道のりは長そうだよ！ \n油断しないでね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_TOUHA_50_1_0",
+    "original": "半分くらいは来たかな。頑張って！ ",
+    "translation": "半分くらいは来たかな。頑張って！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_TOUHA_50_2_0",
+    "original": "順調だね！　この調子で行っちゃおー！ ",
+    "translation": "順調だね！　この調子で行っちゃおー！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_TOUHA_75_1_0",
+    "original": "このフロアもあと少しだよ、頑張ろ！ ",
+    "translation": "このフロアもあと少しだよ、頑張ろ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_TOUHA_75_2_0",
+    "original": "けっこう歩いたね。みんないい調子！ ",
+    "translation": "けっこう歩いたね。みんないい調子！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_TOUHA_100_1_0",
+    "original": "行けそうな場所は回れたね！ \nおめでとう！ ",
+    "translation": "行けそうな場所は回れたね！ \nおめでとう！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_TOUHA_100_2_0",
+    "original": "回ってない場所はなさそうだね！ \nやった！ ",
+    "translation": "回ってない場所はなさそうだね！ \nやった！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_MAPPING_ICON_ALL_1_0",
+    "original": "いい感じに描けてるね！ ",
+    "translation": "いい感じに描けてるね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_MAPPING_ICON_ALL_2_0",
+    "original": "しるし、ばっちりだね！ ",
+    "translation": "しるし、ばっちりだね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_MAPPING_ICON_KAIDAN_0",
+    "original": "フロア移動できる場所は大切だもんね！ ",
+    "translation": "フロア移動できる場所は大切だもんね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_MAPPING_ICON_KAIDAN_2_0",
+    "original": "この地図があれば迷わないね！ ",
+    "translation": "この地図があれば迷わないね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_MAPPING_CHANGE_COLO_0",
+    "original": "色変えるんだ、オシャレだね！ ",
+    "translation": "色変えるんだ、オシャレだね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_MAPPING_CHANGE_COLO_2_0",
+    "original": "どんな地図になるのか、楽しみ！ ",
+    "translation": "どんな地図になるのか、楽しみ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_MAPPING_ICON_DEL_1_0",
+    "original": "うん、見やすくなるね！ ",
+    "translation": "うん、見やすくなるね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_MAPPING_ICON_DEL_2_0",
+    "original": "迷わないよう、ちゃんと整頓だね！ ",
+    "translation": "迷わないよう、ちゃんと整頓だね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_MAPPING_MEMO_1_0",
+    "original": "マメだね、さっすがー！ ",
+    "translation": "マメだね、さっすがー！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_MAPPING_MEMO_2_0",
+    "original": "大事なことはメモメモ、だね！ ",
+    "translation": "大事なことはメモメモ、だね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_KARITORU_ENCOUNT_1_0",
+    "original": "ヤバッ、“刈り取るもの”の気配！ \n気をつけて！ ",
+    "translation": "ヤバッ、“刈り取るもの”の気配！ \n気をつけて！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_KARITORU_ENCOUNT_2_0",
+    "original": "“刈り取るもの”の気配を察知！ \n注意して！ ",
+    "translation": "“刈り取るもの”の気配を察知！ \n注意して！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_KARITORU_ENCOUNT_3_0",
+    "original": "“刈り取るもの”の反応！ \n来るよ！ ",
+    "translation": "“刈り取るもの”の反応！ \n来るよ！ ",
+    "stage": 1,
+    "context": ""
+  }
+]

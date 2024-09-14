@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "あ、オタカラスポット。\n採取してみる？",
+    "translation": "啊，是藏宝地点。\n要去采集一下嘛？",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n啊，是宝物地点。\n要采集看看吗？\n\n啊，宝物景点。\n试着采集？\n\n啊，宝贝地点。\n要不要采集一下？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "周りを警戒しながら…だね。\n了解！",
+    "translation": "也要注意观察四周……是吧。\n明白！",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n要一边警戒周围……对吧？\n了解！\n\n一边警戒周围……是啊。\n了解！\n\n一边警戒着周围……是啊。\n明白！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "分かった、目の前に集中して\n探してみるね。",
+    "translation": "明白了，那就专心搜索眼前吧。",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n知道了，我会集中精神在眼前的\n找找看。\n\n好吧，集中在眼前\n找找看。\n\n知道了，集中在眼前\n试着寻找吧。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あ、止めとくの？",
+    "translation": "啊，要停下来吗？",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n啊，要停手吗？\n\n啊，要停下来吗？\n\n啊，你要阻止我吗？"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全部…かな？",
+    "translation": "这样就全部……了吧？",
+    "stage": 0,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n这样就全部……了吧？\n\n这就全部……是吗？\n\n这就是全部了吧？"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いいんじゃない？",
+    "translation": "还不错吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这样就行了吧？\n\n不是很好吗？\n\n不是挺好的吗？"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "よし！",
+    "translation": "好嘞！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うんうん。",
+    "translation": "嗯嗯。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯嗯。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ふぅー…ちょっと危なかったね。",
+    "translation": "呼……有点危险呢。",
+    "stage": 0,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n呼……有点危险呢。\n\n嗯……有点危险啊。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "えっ、やば！",
+    "translation": "哎呀，糟糕！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n咦，糟糕！\n\n啊，哎呀！\n\n啊、啊呀！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "うわっ、レア！",
+    "translation": "哇，这个不常见吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哇，稀有！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "やったじゃん！",
+    "translation": "干得好！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太棒啦！\n\n太好了！\n\n太棒了！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "これショートカット？\n通ってみる？",
+    "translation": "这是捷径吧？\n要试试吗？",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n这是捷径吗？\n要走吗？\n\n这是快捷方式吗？\n去看看？\n\n这是快捷方式？\n去看看？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "あー、こっちからは通れないんだ？",
+    "translation": "啊，这边过不去吗？",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n啊～～原来这边不能走啊？\n\n啊，从这边过不去吗？\n\n啊，不能从这里通过吗？"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "なんかここ、超ヤバくない？\nどうする？",
+    "translation": "感觉这里会很危险吧？\n要怎么办？",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n这里是不是超危险的？\n怎么办？\n\n总觉得这里超糟糕的吧？\n怎么办？\n\n这里是不是超可怕的？\n怎么办？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "マジ？\n分かった…気を抜かないようにね。",
+    "translation": "真的吗？\n知道了……还不能松懈下来哦。",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n真的假的？\n知道了……不要掉以轻心哦。\n\n真的吗？\n知道了……不要放松哦。\n\n真的？\n知道了……不要松懈哦。"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "うん、私もそれが良いと思う。",
+    "translation": "嗯，我也觉得那样不错。",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n嗯，我也觉得这样比较好。\n\n嗯，我也觉得那个好。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ウソでしょ？　あんな強敵が\n出てくるなんて…ビックリした。",
+    "translation": "骗人的吧？居然出现了那么强大的敌人\n……吓了我一跳。",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n不会吧？\n居然有那种强敌……吓我一跳。\n\n骗人的吧？那样的强敌\n竟然出现……我吓了一跳。\n\n是骗人的吧？竟然出现了那样的强敌……真让人吃惊。"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここ、シャドウの気配するかも。\nどうする？",
+    "translation": "这里可能会有暗影在呢。\n要怎么办？",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n这里或许有暗影的气息。\n怎么办？\n\n这里可能有暗影的迹象。\n怎么办？\n\n这里可能有暗影的动静。\n怎么办？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "オッケー。\n気をつけて調べよっか。",
+    "translation": "OK。\n小心地进行调查吧。",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\nOK。\n小心地调查吧。\n\n好的。\n要小心调查吗。\n\nOK。要小心调查吗？"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "あ、止めとくの？\nオッケー。",
+    "translation": "啊，要停下来吗？\nOK。",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n啊，要停手吗？\nOK。\n\n啊，要停下来吗？\n可以。\n\n啊，你要阻止我吗？\nOK。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ハァ…ホントに敵が出たね。\n採取はこれで終わりかな？",
+    "translation": "哎呀……敌人真的出现了呢。\n采集到这里就结束了吗？",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n唉……真的有敌人出现耶。\n采集要结束了吗？\n\n啊……真的敌人出来了呢。\n采集到此结束吗？\n\n哈……敌人真的来了。\n采集到此结束了吗？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから映画館に戻れるんだよね。\n戻るの？",
+    "translation": "从这里可以回到电影院呢。\n要回去吗？",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n从这里可以回到电影院吧？\n要回去吗？\n\n从这里可以回到电影院吧。\n回去吗？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 由加莉",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

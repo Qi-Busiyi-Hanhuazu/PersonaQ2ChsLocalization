@@ -1,0 +1,37 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "『くまさん』を討伐せよ！",
+    "translation": "讨伐“熊先生”！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n讨伐“熊熊”！\n\n讨伐“熊先生”！\n\n讨伐“熊”！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "地図を確認し、対象を探せ",
+    "translation": "确认地图，寻找目标",
+    "stage": 1,
+    "context": "机翻辅助：\n\n确认地图，寻找对象"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "『くまさん』を２体討伐しろ",
+    "translation": "讨伐2只“熊先生”",
+    "stage": 1,
+    "context": "机翻辅助：\n\n讨伐2只“熊熊”\n\n讨伐两个“熊先生”\n\n讨伐两个熊先生"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "『くまさん』を残り１体討伐しろ",
+    "translation": "讨伐剩余的1只“熊先生”",
+    "stage": 1,
+    "context": "机翻辅助：\n\n讨伐剩余的1只“熊熊”\n\n讨伐剩下的一只“熊”\n\n剩下一只熊来讨伐"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_4_0",
+    "original": "迷宮の奥へ向かおう",
+    "translation": "前往迷宫深处",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前往迷宫深处\n\n向着迷宫的深处\n\n走向迷宫的深处"
+  }
+]

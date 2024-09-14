@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よし、ツタの垂れてる扉だな。\nノワール、よろしく頼む。",
+    "translation": "よし、ツタの垂れてる扉だな。\nノワール、よろしく頼む。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん、待ってて。",
+    "translation": "うん、待ってて。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あ！　あったよ、薬草！",
+    "translation": "あ！　あったよ、薬草！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "やったっスね！\nで、これで足りるんスか？",
+    "translation": "やったっスね！\nで、これで足りるんスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うーん…\nもう少し必要そうかな。",
+    "translation": "うーん…\nもう少し必要そうかな。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そっか、分かった。\nじゃあ他の場所も探しに行こう。",
+    "translation": "そっか、分かった。\nじゃあ他の場所も探しに行こう。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  }
+]

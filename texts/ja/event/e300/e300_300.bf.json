@@ -1,0 +1,177 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "リーダー！　アイギス！",
+    "translation": "リーダー！　アイギス！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やっと見つけたぜ、お二人さん！",
+    "translation": "やっと見つけたぜ、お二人さん！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "みんな…！",
+    "translation": "みんな…！",
+    "stage": 1,
+    "context": "イヤフォンの少年"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ゆかり！\nこの召喚器を、彼に！",
+    "translation": "ゆかり！\nこの召喚器を、彼に！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "了解！",
+    "translation": "了解！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_004_5_0",
+    "original": "これ、受け取って！",
+    "translation": "これ、受け取って！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "これは、僕の…ありがとう。",
+    "translation": "これは、僕の…ありがとう。",
+    "stage": 1,
+    "context": "イヤフォンの少年"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "チッ、またワラワラと\n湧いてきやがったな…！",
+    "translation": "チッ、またワラワラと\n湧いてきやがったな…！",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "えらーを排除。えらーを排除。",
+    "translation": "えらーを排除。えらーを排除。",
+    "stage": 1,
+    "context": "量産型ロボット"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "二人とも下がってて！\nここは私たちで片付けるから！",
+    "translation": "二人とも下がってて！\nここは私たちで片付けるから！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あなた、は…",
+    "translation": "あなた、は…",
+    "stage": 1,
+    "context": "青い目の少女"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "アイギスは彼に任せる。\n我々は、ロボットどもの討伐だ！",
+    "translation": "アイギスは彼に任せる。\n我々は、ロボットどもの討伐だ！",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "ジョーカー、みんな！\n手を貸してくれ！",
+    "translation": "ジョーカー、みんな！\n手を貸してくれ！",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "もちろんだ",
+    "translation": "もちろんだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "やってやろう",
+    "translation": "やってやろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ああ。さっさと蹴散らして、\n二人を救出しよう。",
+    "translation": "ああ。さっさと蹴散らして、\n二人を救出しよう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_イヤフォンの少年",
+    "original": "イヤフォンの少年",
+    "translation": "イヤフォンの少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_量産型ロボット",
+    "original": "量産型ロボット",
+    "translation": "量産型ロボット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_青い目の少女",
+    "original": "青い目の少女",
+    "translation": "青い目の少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

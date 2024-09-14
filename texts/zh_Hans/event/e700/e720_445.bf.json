@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "早く、花村先輩を迎えに行こ！",
+    "translation": "快出发去接花村学长吧！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n快点，去接花村学长！\n\n快去接花村学长！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、急ごう！",
+    "translation": "是啊，赶紧吧！",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n嗯，快点！\n\n啊，快点！"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

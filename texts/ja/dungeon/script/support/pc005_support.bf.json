@@ -1,0 +1,527 @@
+[
+  {
+    "key": "YUKIKO_FOE_FOLLOW_START__0",
+    "original": "Ｆ．Ｏ．Ｅに追われてるみたい！",
+    "translation": "Ｆ．Ｏ．Ｅに追われてるみたい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_FOE_FOLLOW_START__2_0",
+    "original": "注意して、Ｆ．Ｏ．Ｅだよ！",
+    "translation": "注意して、Ｆ．Ｏ．Ｅだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_FOE_FOLLOW_START__3_0",
+    "original": "Ｆ．Ｏ．Ｅがこっちに来てるよ！",
+    "translation": "Ｆ．Ｏ．Ｅがこっちに来てるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅだよ！　みんな注意して！",
+    "translation": "Ｆ．Ｏ．Ｅだよ！　みんな注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅが近いよ、気をつけて！",
+    "translation": "Ｆ．Ｏ．Ｅが近いよ、気をつけて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_FOE_NEAR_3_0",
+    "original": "あれ、Ｆ．Ｏ．Ｅだよね？",
+    "translation": "あれ、Ｆ．Ｏ．Ｅだよね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_FOE_FOLLOW_END_1_0",
+    "original": "Ｆ．Ｏ．Ｅ、諦めたみたいだね。",
+    "translation": "Ｆ．Ｏ．Ｅ、諦めたみたいだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_FOE_FOLLOW_END_2_0",
+    "original": "よかった、逃げられたみたい。",
+    "translation": "よかった、逃げられたみたい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_FOE_FOLLOW_END_3_0",
+    "original": "ふう…あっちに行ったね。",
+    "translation": "ふう…あっちに行ったね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_KANSI_REACTION_1_0",
+    "original": "そーっと、そーっと…",
+    "translation": "そーっと、そーっと…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_KANSI_REACTION_2_0",
+    "original": "さすがに緊張するね。",
+    "translation": "さすがに緊張するね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_KANSI_REACTION_3_0",
+    "original": "見つからないように、注意しなきゃ。",
+    "translation": "見つからないように、注意しなきゃ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_DENKISAKU_REACTIO_0",
+    "original": "厄介なトラップだね。",
+    "translation": "厄介なトラップだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_DENKISAKU_REACTIO_2_0",
+    "original": "この柵、物理的に壊せないかな。",
+    "translation": "この柵、物理的に壊せないかな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_DENKISAKU_REACTIO_3_0",
+    "original": "燃やせたら楽なんだけど、これ…",
+    "translation": "燃やせたら楽なんだけど、これ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_KYOUHU_REACTION_1_0",
+    "original": "あははははっ！",
+    "translation": "あははははっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_KYOUHU_REACTION_2_0",
+    "original": "えっ！？",
+    "translation": "えっ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_KYOUHU_REACTION_3_0",
+    "original": "うわっ！？",
+    "translation": "うわっ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_STAIR_FIND_1_0",
+    "original": "あそこから進めそうじゃない？",
+    "translation": "あそこから進めそうじゃない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_STAIR_FIND_2_0",
+    "original": "次のエリアに行けそうだね。",
+    "translation": "次のエリアに行けそうだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_STAIR_FIND_3_0",
+    "original": "進めそうだよ。行ってみよう？",
+    "translation": "進めそうだよ。行ってみよう？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_TREASURE_FIND_1_0",
+    "original": "見て、宝箱があるよ！",
+    "translation": "見て、宝箱があるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_TREASURE_FIND_2_0",
+    "original": "宝箱だね。開けてみる？",
+    "translation": "宝箱だね。開けてみる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_TREASURE_FIND_3_0",
+    "original": "何が入ってるのかな？",
+    "translation": "何が入ってるのかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_CHECK_WALL_1_0",
+    "original": "あっ、あそこ見てみて！",
+    "translation": "あっ、あそこ見てみて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_CHECK_WALL_2_0",
+    "original": "うーん…何かありそうだね。",
+    "translation": "うーん…何かありそうだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_CHECK_WALL_3_0",
+    "original": "この辺、ちょっと調べてみない？",
+    "translation": "この辺、ちょっと調べてみない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_SWITCH_FIND_1_0",
+    "original": "あっ、スイッチがあるよ。",
+    "translation": "あっ、スイッチがあるよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_SWITCH_FIND_2_0",
+    "original": "あ、スイッチ押す？　押しちゃう？",
+    "translation": "あ、スイッチ押す？　押しちゃう？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_SWITCH_FIND_3_0",
+    "original": "そこ、スイッチ見えない？",
+    "translation": "そこ、スイッチ見えない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_SHORTCUT_FIND_1_0",
+    "original": "そこ、通れそうだね。",
+    "translation": "そこ、通れそうだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_SHORTCUT_FIND_2_0",
+    "original": "そこ、近道にできそうじゃない？",
+    "translation": "そこ、近道にできそうじゃない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_SHORTCUT_FIND_3_0",
+    "original": "ねえ、通れそうな場所があるよ。",
+    "translation": "ねえ、通れそうな場所があるよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_FOE_WARNING_NEAR__0",
+    "original": "Ｆ．Ｏ．Ｅがまだ来てるよ。",
+    "translation": "Ｆ．Ｏ．Ｅがまだ来てるよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_FOE_WARNING_NEAR__2_0",
+    "original": "追われてるよ、気をつけて。",
+    "translation": "追われてるよ、気をつけて。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_FOE_WARNING_NEAR__3_0",
+    "original": "Ｆ．Ｏ．Ｅ、まだつけられてるね。",
+    "translation": "Ｆ．Ｏ．Ｅ、まだつけられてるね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_1PERSON_HPTP10_1_0",
+    "original": "ごめんなさい、これ以上は…",
+    "translation": "ごめんなさい、これ以上は…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_1PERSON_HPTP10_2_0",
+    "original": "だめ、そろそろ限界かも…",
+    "translation": "だめ、そろそろ限界かも…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_1PERSON_HPTP10_3_0",
+    "original": "ちょっと休んでもいいかな…？",
+    "translation": "ちょっと休んでもいいかな…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_1PERSON_HP10_1_0",
+    "original": "誰か、回復をお願い…",
+    "translation": "誰か、回復をお願い…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_1PERSON_HP10_2_0",
+    "original": "体力、もう尽きそう…",
+    "translation": "体力、もう尽きそう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_1PERSON_HP10_3_0",
+    "original": "お願い、誰か回復を…",
+    "translation": "お願い、誰か回復を…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_1PERSON_TP10_1_0",
+    "original": "うう…これ以上は、気力が…",
+    "translation": "うう…これ以上は、気力が…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_1PERSON_TP10_2_0",
+    "original": "はぁ…疲れてきちゃった…",
+    "translation": "はぁ…疲れてきちゃった…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_1PERSON_TP10_3_0",
+    "original": "だめ…もう動けないかも…",
+    "translation": "だめ…もう動けないかも…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_1PERSON_HP80_1_0",
+    "original": "ふふっ、ぜんぜん余裕！",
+    "translation": "ふふっ、ぜんぜん余裕！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_1PERSON_HP80_2_0",
+    "original": "まだまだいけるよ、任せて。",
+    "translation": "まだまだいけるよ、任せて。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_1PERSON_HP80_3_0",
+    "original": "これならもっと先へ進めそうだね。",
+    "translation": "これならもっと先へ進めそうだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_DUNGEON_START_1_0",
+    "original": "みんな、無理せず行こうね。",
+    "translation": "みんな、無理せず行こうね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_DUNGEON_START_2_0",
+    "original": "忘れ物は無いよね？",
+    "translation": "忘れ物は無いよね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_DUNGEON_START_3_0",
+    "original": "気を引き締めていかないとね。",
+    "translation": "気を引き締めていかないとね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_QUEST_START_1_0",
+    "original": "達成に向けて、がんばろうね。",
+    "translation": "達成に向けて、がんばろうね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_QUEST_START_2_0",
+    "original": "慎重にこなしていこう！",
+    "translation": "慎重にこなしていこう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_QUEST_START_3_0",
+    "original": "大丈夫、きっと上手くいくよ。",
+    "translation": "大丈夫、きっと上手くいくよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_TOUHA_25_1_0",
+    "original": "このフロア、まだ先がありそう…",
+    "translation": "このフロア、まだ先がありそう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_TOUHA_25_2_0",
+    "original": "まだ先は長そうだけど、頑張ろう。",
+    "translation": "まだ先は長そうだけど、頑張ろう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_TOUHA_50_1_0",
+    "original": "だいたい半分くらいは進めたかな。",
+    "translation": "だいたい半分くらいは進めたかな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_TOUHA_50_2_0",
+    "original": "うん、順調だね。この調子！",
+    "translation": "うん、順調だね。この調子！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_TOUHA_75_1_0",
+    "original": "ふう…かなり歩いたね。",
+    "translation": "ふう…かなり歩いたね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_TOUHA_75_2_0",
+    "original": "フロア踏破まで、あとちょっとだね。",
+    "translation": "フロア踏破まで、あとちょっとだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_TOUHA_100_1_0",
+    "original": "隅々まで歩いたね、お疲れさま。",
+    "translation": "隅々まで歩いたね、お疲れさま。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_TOUHA_100_2_0",
+    "original": "このフロアは全部歩けたね！",
+    "translation": "このフロアは全部歩けたね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_MAPPING_ICON_ALL__0",
+    "original": "地図、きっちり描けてるね。",
+    "translation": "地図、きっちり描けてるね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_MAPPING_ICON_ALL__2_0",
+    "original": "すごいね、正確な地図！",
+    "translation": "すごいね、正確な地図！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_MAPPING_ICON_KAID_0",
+    "original": "移動場所は大切だよね。",
+    "translation": "移動場所は大切だよね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_MAPPING_ICON_KAID_2_0",
+    "original": "大事な所はマークしとかないとね。",
+    "translation": "大事な所はマークしとかないとね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_MAPPING_CHANGE_CO_0",
+    "original": "へえ、その色を使うんだ！",
+    "translation": "へえ、その色を使うんだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_MAPPING_CHANGE_CO_2_0",
+    "original": "センスいいね。\n私も真似しちゃおうかな。",
+    "translation": "センスいいね。\n私も真似しちゃおうかな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_MAPPING_ICON_DEL__0",
+    "original": "要らないものはどんどん捨てよう。",
+    "translation": "要らないものはどんどん捨てよう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_MAPPING_ICON_DEL__2_0",
+    "original": "うん、すっきり。",
+    "translation": "うん、すっきり。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_MAPPING_MEMO_1_0",
+    "original": "メモは大事だよね。",
+    "translation": "メモは大事だよね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_MAPPING_MEMO_2_0",
+    "original": "忘れないよう、しっかりね。",
+    "translation": "忘れないよう、しっかりね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_DOOR_OPEN_1_0",
+    "original": "こっちみたいだね。",
+    "translation": "こっちみたいだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_DOOR_OPEN_2_0",
+    "original": "先に進めるね。",
+    "translation": "先に進めるね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKIKO_DOOR_OPEN_3_0",
+    "original": "何が出るかな？",
+    "translation": "何が出るかな？",
+    "stage": 1,
+    "context": ""
+  }
+]

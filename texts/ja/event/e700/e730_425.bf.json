@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "この先に、強い反応があります！\n例の指導者ロボットかもしれません！",
+    "translation": "この先に、強い反応があります！\n例の指導者ロボットかもしれません！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "相手はかなり手強いと思われます。\n一度戻って態勢を整えるのも手かと。",
+    "translation": "相手はかなり手強いと思われます。\n一度戻って態勢を整えるのも手かと。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "確かにな。\nジョーカー、どうする？",
+    "translation": "確かにな。\nジョーカー、どうする？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "この先は指導者ロボットがいるようだな。\n用意は大丈夫か？",
+    "translation": "この先は指導者ロボットがいるようだな。\n用意は大丈夫か？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "行くぞ！",
+    "translation": "行くぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "やめておこう",
+    "translation": "やめておこう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ああ、気を引き締めて行こう。",
+    "translation": "ああ、気を引き締めて行こう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ああ、そうだな。\n準備は怠らないようにしよう。",
+    "translation": "ああ、そうだな。\n準備は怠らないようにしよう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ムムッ！　ホネを発見したクマ！",
+    "translation": "唔唔！小熊发现骨头了！",
+    "stage": 0,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n唔唔！小熊发现骨头了！\n\n哼哼！发现骨头的熊熊！\n\n嗯！发现了hone的熊熊！"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "まったくお行儀悪いクマね。\nあっちこっちつまみ食いしてからに。",
+    "translation": "真是没规矩的小熊。\n到处乱吃东西。",
+    "stage": 0,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n真是没规矩的小熊。\n到处乱吃东西。\n\n真是个没礼貌的小熊。\n到处吃了之后。\n\n真是个没礼貌的小熊。到处抓着吃之后。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "どんなケダモノも、お前に行儀のことは\n言われたくねえだろうな…",
+    "translation": "不管是什么样的野兽，\n都不该被你批评没规矩吧……",
+    "stage": 0,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n不管是什么样的野兽，\n都不该被你批评没规矩吧……\n\n不管是什么样的野兽，都不想被你说有礼貌的事吧……\n\n\n不管是什么样的野兽，都不想被你说有礼貌吧……"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "クロウ、骨を調べてもらえる？",
+    "translation": "CROW，可以请你调查一下骨头吗？",
+    "stage": 0,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\nCROW，可以请你调查一下骨头吗？\n\nCROW、能帮我查一下骨头吗？\n\nCROW，能帮我检查骨头吗？"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ああ、いま見ている。",
+    "translation": "啊，我正在看。",
+    "stage": 0,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n啊，我正在看。\n\n啊，现在正在看。\n\n啊，现在在看。"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "風化が始まっているね。\nこれはかなり古いものだ。",
+    "translation": "已经开始风化了呢。\n这骨头相当古老。",
+    "stage": 0,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n已经开始风化了呢。\n这骨头相当古老。\n\n风化开始了呢。\n这是相当古老的东西。\n\n风化开始了。这是相当古老的东西。"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "ハズレか",
+    "translation": "没中奖啊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没中奖啊\n\n错了吗\n\n偏离"
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "別の場所へ行こう",
+    "translation": "去别的地方吧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去别的地方吧\n\n到别的地方去吧"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ワン！",
+    "translation": "汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "はは、コロマル君も\n同じ意見みたいだね。",
+    "translation": "哈哈，虎狼丸\n好像也是相同的意见。",
+    "stage": 0,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n哈哈，虎狼丸\n好像也是相同的意见。\n\n哈哈，虎狼丸君好像也有同样的意见。\n\n\n哈哈，虎狼丸君也是一样的意见。"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "手掛かりになるのは、もっと新しい骨だ。\n注意して探してみよう。",
+    "translation": "要找能成为线索的，是更新的骨头。\n注意找找看吧。",
+    "stage": 0,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n要找能成为线索的，是更新的骨头。\n注意找找看吧。\n\n成为线索的是更新的骨头。\n注意寻找吧。\n\n成为线索的，是更新的骨头。注意找找看。"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "小熊",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "虎狼丸",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

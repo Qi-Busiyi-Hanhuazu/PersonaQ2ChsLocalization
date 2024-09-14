@@ -1,0 +1,401 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なによこれ！？",
+    "translation": "なによこれ！？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "フィルムが巻き付いてる…？",
+    "translation": "フィルムが巻き付いてる…？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おい。ひかりが作った存在と言っていたが、\n攻撃しても平気なのか？",
+    "translation": "おい。ひかりが作った存在と言っていたが、\n攻撃しても平気なのか？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "このままにしたら、ひかりが危ない！\nとにかく守れ！",
+    "translation": "このままにしたら、ひかりが危ない！\nとにかく守れ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ひかり…ひかり…",
+    "translation": "ひかり…ひかり…",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ひかりちゃん、\nここは私たちに任せて！",
+    "translation": "ひかりちゃん、\nここは私たちに任せて！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ひかり…\nひかりひかりひかり！",
+    "translation": "ひかり…\nひかりひかりひかり！",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "チッ、手ぇ出させるかよ！\n行くぞコラァァァァ！",
+    "translation": "チッ、手ぇ出させるかよ！\n行くぞコラァァァァ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_008_00_0",
+    "original": "オオウ…アアア…",
+    "translation": "オオウ…アアア…",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ねえ、あの目って、もしかして…",
+    "translation": "ねえ、あの目って、もしかして…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ええ、あれが弱点のようね。",
+    "translation": "ええ、あれが弱点のようね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ってことは、目のあるトコを\nぶっ叩けばいいんだな。",
+    "translation": "ってことは、目のあるトコを\nぶっ叩けばいいんだな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "了解です。\n一気に決めるであります！",
+    "translation": "了解です。\n一気に決めるであります！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "…やったか？",
+    "translation": "…やったか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "待て…様子がおかしい。\nなんだ、これ…",
+    "translation": "待て…様子がおかしい。\nなんだ、これ…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "何があったんですか？",
+    "translation": "何があったんですか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "うそ！？　敵の反応…\nさっきよりも強くなってる！？",
+    "translation": "うそ！？　敵の反応…\nさっきよりも強くなってる！？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "うっそ、マジかよ！？",
+    "translation": "うっそ、マジかよ！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "き、来ます！　皆さん！",
+    "translation": "き、来ます！　皆さん！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "か、体が…！？",
+    "translation": "か、体が…！？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "動かない…！？",
+    "translation": "動かない…！？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "くっ！　このままじゃ…",
+    "translation": "くっ！　このままじゃ…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "みんな…！",
+    "translation": "みんな…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "このぐらい…っく！\n何故、動かん！",
+    "translation": "このぐらい…っく！\n何故、動かん！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ぐ、ぐるじぃ…けど、ヒカリン…\n今、ぜったい助けるクマ…",
+    "translation": "ぐ、ぐるじぃ…けど、ヒカリン…\n今、ぜったい助けるクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "みんな、このままじゃ…！",
+    "translation": "みんな、このままじゃ…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ひかり…ドウシテ…\nオマエハ…",
+    "translation": "ひかり…ドウシテ…\nオマエハ…",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "違う、こんなの…",
+    "translation": "違う、こんなの…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "待ってて、みんな…\n私が…何とかしてみせるから！",
+    "translation": "待ってて、みんな…\n私が…何とかしてみせるから！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "だめ！　危ない！",
+    "translation": "だめ！　危ない！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "おい！　ひかり！？",
+    "translation": "おい！　ひかり！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "私、みんなに助けてもらった…\nだから…今度こそ、私が助ける番！",
+    "translation": "私、みんなに助けてもらった…\nだから…今度こそ、私が助ける番！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_029_05_0",
+    "original": "サポートスキルに\n[颜色 03]『ひかりの応援』[颜色 01]が追加されました。",
+    "translation": "サポートスキルに\n[颜色 03]『ひかりの応援』[颜色 01]が追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ちょ、またフィルムが！",
+    "translation": "ちょ、またフィルムが！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "チッ、もっぺんブッ壊す！\nやるぞコラァァァァ！",
+    "translation": "チッ、もっぺんブッ壊す！\nやるぞコラァァァァ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ドー",
+    "original": "ドー",
+    "translation": "ドー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  }
+]

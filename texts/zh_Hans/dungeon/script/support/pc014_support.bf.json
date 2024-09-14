@@ -1,0 +1,23 @@
+[
+  {
+    "key": "P5_HERO_DOOR_OPEN_1_0",
+    "original": "行こう。",
+    "translation": "走吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n走吧。"
+  },
+  {
+    "key": "P5_HERO_DOOR_OPEN_2_0",
+    "original": "こっちだ。",
+    "translation": "在这边。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n在这边。\n\n这边。"
+  },
+  {
+    "key": "P5_HERO_DOOR_OPEN_3_0",
+    "original": "進もう。",
+    "translation": "前进吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前进吧。"
+  }
+]

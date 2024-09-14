@@ -1,0 +1,142 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "シャドウ撃破！　あと１体だよ！",
+    "translation": "シャドウ撃破！　あと１体だよ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "へっ、オタカラ盗るのに比べれば\n朝飯前だな！",
+    "translation": "へっ、オタカラ盗るのに比べれば\n朝飯前だな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そういえば、オタカラを盗られた人って\n結局どうなるんですか？",
+    "translation": "そういえば、オタカラを盗られた人って\n結局どうなるんですか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "改心する",
+    "translation": "改心する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "自首する",
+    "translation": "自首する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_2",
+    "original": "号泣する",
+    "translation": "号泣する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "それは結果的にそうなる人が多いって\nだけでしょ。",
+    "translation": "それは結果的にそうなる人が多いって\nだけでしょ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "パレスもろとも歪んだ欲望が\nなくなるからな。",
+    "translation": "パレスもろとも歪んだ欲望が\nなくなるからな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "それまでの悪事に良心が堪えられなく\nなって、全部自白するんだ。",
+    "translation": "それまでの悪事に良心が堪えられなく\nなって、全部自白するんだ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "それが、改心…\nある意味おそろしい力ですよね。",
+    "translation": "それが、改心…\nある意味おそろしい力ですよね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "だからターゲットは全会一致で決める。\n間違った使い方は出来ねえからな。",
+    "translation": "だからターゲットは全会一致で決める。\n間違った使い方は出来ねえからな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "間違った使い方…",
+    "translation": "間違った使い方…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "…乾くん？",
+    "translation": "…乾くん？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "あ、いえ、すごく勉強になると思って。",
+    "translation": "あ、いえ、すごく勉強になると思って。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "勉強の続きはまたあとだ。\nほら、次行くぞ？",
+    "translation": "勉強の続きはまたあとだ。\nほら、次行くぞ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "は、はい！",
+    "translation": "は、はい！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

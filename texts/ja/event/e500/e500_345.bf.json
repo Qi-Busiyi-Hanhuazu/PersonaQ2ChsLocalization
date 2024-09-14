@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "私は…今まで思い上がっていた。",
+    "translation": "私は…今まで思い上がっていた。",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "権力を行使し、人々を抑圧することが\n皆のためにもなるのだと。",
+    "translation": "権力を行使し、人々を抑圧することが\n皆のためにもなるのだと。",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "だが、権力があるからこそ！\n力の使い方を間違ってはいけない！！",
+    "translation": "だが、権力があるからこそ！\n力の使い方を間違ってはいけない！！",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ＨＡＨＡＨＡ…！",
+    "translation": "ＨＡＨＡＨＡ…！",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "困っている人を\nニューカモシダーマンは見捨てない！",
+    "translation": "困っている人を\nニューカモシダーマンは見捨てない！",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "色んな意見があってもいいだろ？\nまずは、話し合おうぜ。本音でさ。",
+    "translation": "色んな意見があってもいいだろ？\nまずは、話し合おうぜ。本音でさ。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ったく、みんな好き勝手言いやがって…\n話がまとまらねーっての。",
+    "translation": "ったく、みんな好き勝手言いやがって…\n話がまとまらねーっての。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "…ま、でもこうやって\n決めてくのが楽しいんだけどな。",
+    "translation": "…ま、でもこうやって\n決めてくのが楽しいんだけどな。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "いいもんだな…\n腹割って話せる仲間、ってのは。",
+    "translation": "いいもんだな…\n腹割って話せる仲間、ってのは。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ワタシは…私。",
+    "translation": "ワタシは…私。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "花が好きで、皆さんのことが\nとても大切な、リボンです…",
+    "translation": "花が好きで、皆さんのことが\nとても大切な、リボンです…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "花は美しい…花はカワイイ…\n感じ方は、ソレゾレで違う…",
+    "translation": "花は美しい…花はカワイイ…\n感じ方は、ソレゾレで違う…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "違うのは、変なことではアリマセン。\n私が私である、アカシですから…",
+    "translation": "違うのは、変なことではアリマセン。\n私が私である、アカシですから…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "私は、こんな自分になるのは仕方ないって\n納得させるために…",
+    "translation": "私は、こんな自分になるのは仕方ないって\n納得させるために…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "自分を諦めさせるために、\n歪んだ映画をずっと見続けてた…",
+    "translation": "自分を諦めさせるために、\n歪んだ映画をずっと見続けてた…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_006_2",
+    "original": "でも、もう逃げない！\nこの映画を変えて、外に出る！",
+    "translation": "でも、もう逃げない！\nこの映画を変えて、外に出る！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "お父さん…\n私、必ず招待状を出すから…！",
+    "translation": "お父さん…\n私、必ず招待状を出すから…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_カモシダーマン",
+    "original": "カモシダーマン",
+    "translation": "カモシダーマン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ヨウスケサウルス",
+    "original": "ヨウスケサウルス",
+    "translation": "ヨウスケサウルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  }
+]

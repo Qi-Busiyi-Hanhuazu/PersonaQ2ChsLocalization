@@ -1,0 +1,240 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ここはまだ残っているみたいだな。",
+    "translation": "ここはまだ残っているみたいだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ええ。\nですが、それも時間の問題でしょう。",
+    "translation": "ええ。\nですが、それも時間の問題でしょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "皆様、おめでとうございます。",
+    "translation": "皆様、おめでとうございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "いやはや、実に美しいフィナーレで\nございました。ブラ～ヴォ！",
+    "translation": "いやはや、実に美しいフィナーレで\nございました。ブラ～ヴォ！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "エ、エリザベス殿！？\nお召し物が…元通りに…？",
+    "translation": "エ、エリザベス殿！？\nお召し物が…元通りに…？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "私たちのここでの役割も、\n間もなく終わりを迎えますので。",
+    "translation": "私たちのここでの役割も、\n間もなく終わりを迎えますので。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "それにしても、さすがは皆様。\n無事、全ての演目を紐解かれましたね。",
+    "translation": "それにしても、さすがは皆様。\n無事、全ての演目を紐解かれましたね。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "まったく。これでようやく、\n我々も元の職務に戻れるということか。",
+    "translation": "まったく。これでようやく、\n我々も元の職務に戻れるということか。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そうですね。\n遅れた分を取り戻さなければ…",
+    "translation": "そうですね。\n遅れた分を取り戻さなければ…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "ですが、今は特別に褒めてさしあげます。\nよくやりましたね、囚人。",
+    "translation": "ですが、今は特別に褒めてさしあげます。\nよくやりましたね、囚人。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "それほどでもない",
+    "translation": "それほどでもない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "それほどでもある",
+    "translation": "それほどでもある",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_2",
+    "original": "もっと褒めてくれ",
+    "translation": "もっと褒めてくれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ふん、殊勝だな。\nその調子で更生に励めよ、囚人！",
+    "translation": "ふん、殊勝だな。\nその調子で更生に励めよ、囚人！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ふん、調子にのるな！\n自分の立場を弁えろよ、囚人！",
+    "translation": "ふん、調子にのるな！\n自分の立場を弁えろよ、囚人！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "図に乗るな、囚人！\n豚も茹でればのぼせる、だな！",
+    "translation": "図に乗るな、囚人！\n豚も茹でればのぼせる、だな！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ぶ、豚を茹で…？\nそういう罵り文句っスかね？",
+    "translation": "ぶ、豚を茹で…？\nそういう罵り文句っスかね？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "豚肉はビタミンＢ１が豊富なタンパク源だ。\nむしろ、褒め言葉じゃないのか？",
+    "translation": "豚肉はビタミンＢ１が豊富なタンパク源だ。\nむしろ、褒め言葉じゃないのか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "カロリーヌ、それを言うなら\n『豚もおだてれば木に登る』では…",
+    "translation": "カロリーヌ、それを言うなら\n『豚もおだてれば木に登る』では…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "う、うるさい！\n少し言い間違えただけだっ！",
+    "translation": "う、うるさい！\n少し言い間違えただけだっ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "それで、今度こそホントのホントに\n帰れるってこと？",
+    "translation": "それで、今度こそホントのホントに\n帰れるってこと？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "つか、こっからどうやって帰るんだ？\n出口なんて他になかっただろ。",
+    "translation": "つか、こっからどうやって帰るんだ？\n出口なんて他になかっただろ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ご心配は無用です。\nこちらをご覧ください。",
+    "translation": "ご心配は無用です。\nこちらをご覧ください。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  }
+]

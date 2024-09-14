@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "いよっしゃー！　やってやったクマ～！",
+    "translation": "いよっしゃー！　やってやったクマ～！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おめでとうございます、クマさん。",
+    "translation": "おめでとうございます、クマさん。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_001_1_0",
+    "original": "これでクマさんはクマ界のトップに\nなったクマでありますね。",
+    "translation": "これでクマさんはクマ界のトップに\nなったクマでありますね。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ありがとアイチャン！\nみんなが協力してくれたおかげクマ！",
+    "translation": "ありがとアイチャン！\nみんなが協力してくれたおかげクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "いい戦いだった。\nこれで目的は達成だな。",
+    "translation": "いい戦いだった。\nこれで目的は達成だな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "センセイ～、クマやりました！\n伝説の誕生に涙が止まらないクマ…",
+    "translation": "センセイ～、クマやりました！\n伝説の誕生に涙が止まらないクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あはは、クマもよく頑張った！\nそれじゃ、みんな戻ってきて！",
+    "translation": "あはは、クマもよく頑張った！\nそれじゃ、みんな戻ってきて！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  }
+]

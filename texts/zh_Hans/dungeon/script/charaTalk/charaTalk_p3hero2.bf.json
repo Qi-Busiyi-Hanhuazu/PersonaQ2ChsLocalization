@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "あ！　オタカラスポットだよ！\nどうする？",
+    "translation": "啊！是宝藏地点！\n要怎么办？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n啊！是宝物地点耶！\n怎么办？\n\n啊！是宝物景点哦！\n怎么办？\n\n啊！是藏宝地哦！\n怎么办？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "周囲の警戒は任せて！",
+    "translation": "周围的警戒就交给我吧！",
+    "stage": 0,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n周围的警戒就交给我吧！\n\n周围的警戒就交给我了！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "よーし！　採るぞー！",
+    "translation": "好的！开始采集啰！",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n好！我要采喽！\n\n好！采吧！\n\n好啊！采！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うん。\nじゃあ、また今度にしておこっか！",
+    "translation": "好的，\n那就下次再说吧！",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n嗯。\n那我们下次再来吧！\n\n嗯。\n那么，下次再拍马屁！\n\n嗯。那么，下次再闹吧！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "よーし！　根こそぎ終了！",
+    "translation": "好了！彻底结束了！",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n好！全部采光光！\n\n好！连根拔起结束！\n\n好啊！彻底结束！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "やったね！",
+    "translation": "太棒了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n太棒了！\n\n太好了！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うんうん。",
+    "translation": "嗯嗯。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯嗯。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "おおー！",
+    "translation": "噢噢！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n噢噢！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あっぶなかったー…\nとりあえず、全部採れたね！",
+    "translation": "好险啊……\n总之是全部都采集到了呢！",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n好险啊……\n总之，全部都采到了呢！\n\n信天游……\n总之，全部采到了！\n\n总之，全部都采到了呢！"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ゲットだぜー！",
+    "translation": "有了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n到手啦！\n\n拿到了！\n\n得到啦～！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "スゴイの出た！",
+    "translation": "厉害的东西出来了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有好东西耶！\n\n厉害的出来了！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "オタカラだー！",
+    "translation": "是宝物啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是宝物！\n\n宝贝！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "抜け道だー！\n通っておく？",
+    "translation": "是近路！\n要走吗？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n是捷径！\n要走吗？\n\n这是近道！\n通过？\n\n近道！\n事先通过？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "あれれ？\nこっちは通れないんだね。",
+    "translation": "哎呀呀？\n这边是过不去的呢。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n奇怪？\n这边走不过去呢。\n\n那个？\n这边过不去啊。\n\n哎哟？这边不能通过啊。"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "すごく危険な気配がするんだけど…\nどうする？",
+    "translation": "感觉有很危险的气息……\n怎么办？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n感觉好像很危险耶……\n怎么办？\n\n感觉很危险……\n怎么办？\n\n感觉非常危险……\n怎么办？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かった。\n気をつけて調べよう！",
+    "translation": "明白了。\n提高警惕，进行探索吧！",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n知道了。\n小心地调查吧！\n\n我知道了。\n小心调查！"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだね、何が飛び出してくるか\n分からないもんね。",
+    "translation": "是呢，不知道会有什么东西\n突然冒出来。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n是啊，不晓得\n会有什么东西跳出来呢。\n\n是啊，不知道会蹦出什么。\n\n\n是啊，不知道会飞出什么来。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "び、びっくりした～…\nみんな無事？",
+    "translation": "哇，吓我一跳……\n……大家都没事吗？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n吓、吓死我了～……\n大家都没事吧？\n\n吓了一跳～……\n大家没事吧？\n\n大家都没事吧？"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここ、シャドウの気配が多いね。\nどうする？",
+    "translation": "这里，暗影的气息很多呢。\n怎么办？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n这里，\n暗影的气息很多呢。怎么办？\n\n这里有很多暗影的气息呢。\n怎么办？\n\n这里有很多暗影。\n怎么办？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "了解！\n気を抜かずに探そー！",
+    "translation": "了解！\n保持警惕继续探索！",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n了解！\n小心地找吧！\n\n明白！\n不要松懈寻找吧！\n\n明白！\n不放松地寻找吧！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだね。\n止めておこっか！",
+    "translation": "是呢。\n停下来吧！",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n是啊。\n还是别采了吧！\n\n是啊。\n停下来拍马屁！\n\n是啊。\n住手！"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "これで終わり？　かな？",
+    "translation": "这就是结束了？应该吧？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n这样就结束了吧？应该吧？\n\n到此结束？是吗？\n\n这就结束了？是吗？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "あ！　ここから戻れるね！\nどうしよっか？",
+    "translation": "哦！可以从这里回去！\n要怎么做？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n啊！可以从这里回去呢！\n怎么办？\n\n啊！从这里能回来！\n怎么办？\n\n啊！能从这里回来呢！\n怎么办？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

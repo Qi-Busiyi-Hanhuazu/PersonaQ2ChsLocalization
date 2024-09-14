@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あ…",
+    "translation": "あ…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "それが人間の意志と言うならば、\nその可能性、見せてごらんなさい。",
+    "translation": "それが人間の意志と言うならば、\nその可能性、見せてごらんなさい。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ですが、忘れてはいけませんよ。",
+    "translation": "ですが、忘れてはいけませんよ。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "私は、人間たちの望みにより、\nこの姿となりて出でし者。",
+    "translation": "私は、人間たちの望みにより、\nこの姿となりて出でし者。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "人間たちが求め続ける限り、\n私は何度でも現れるということを。",
+    "translation": "人間たちが求め続ける限り、\n私は何度でも現れるということを。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "これで本当に…\n全部、終わったんだね。",
+    "translation": "これで本当に…\n全部、終わったんだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うん…",
+    "translation": "うん…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "えっ！？　この音って…！",
+    "translation": "えっ！？　この音って…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エンリル",
+    "original": "エンリル",
+    "translation": "エンリル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

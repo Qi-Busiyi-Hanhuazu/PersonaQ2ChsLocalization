@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なぜそのヒーローベルトを…\nもしや、お前たちがベルト泥棒だな！？",
+    "translation": "なぜそのヒーローベルトを…\nもしや、お前たちがベルト泥棒だな！？",
+    "stage": 1,
+    "context": "警察官"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "泥棒もなにも、\nカモシダーマンが奪ったもんだろうが！",
+    "translation": "泥棒もなにも、\nカモシダーマンが奪ったもんだろうが！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "な、なんだと…？\nお前たち、歯向かう気か？",
+    "translation": "な、なんだと…？\nお前たち、歯向かう気か？",
+    "stage": 1,
+    "context": "警察官"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "反逆者どもめ、\n罰を与えてやる！",
+    "translation": "反逆者どもめ、\n罰を与えてやる！",
+    "stage": 1,
+    "context": "警察官"
+  },
+  {
+    "key": "speaker_警察官",
+    "original": "警察官",
+    "translation": "警察官",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

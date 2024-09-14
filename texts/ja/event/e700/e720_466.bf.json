@@ -1,0 +1,205 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なあ、クマの姿が見えないようだが…",
+    "translation": "なあ、クマの姿が見えないようだが…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "迷子か？",
+    "translation": "迷子か？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "失踪？",
+    "translation": "失踪？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "またまたー！　そんなわけ…",
+    "translation": "またまたー！　そんなわけ…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "って、マジだ。\n前にも後ろにもいないじゃん！？",
+    "translation": "って、マジだ。\n前にも後ろにもいないじゃん！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そういえば、しばらく静かだったもんね。\nクマくんがいなかったからかな。",
+    "translation": "そういえば、しばらく静かだったもんね。\nクマくんがいなかったからかな。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ったく、あのバカ！　どこに……",
+    "translation": "ったく、あのバカ！　どこに……",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "…って、あー！",
+    "translation": "…って、あー！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "クマ、お前そんなとこで何やってんだ！？\n心配するだろーが！",
+    "translation": "クマ、お前そんなとこで何やってんだ！？\n心配するだろーが！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ほえ？　ヨースケってば\n大声出して、なにごとクマか？",
+    "translation": "ほえ？　ヨースケってば\n大声出して、なにごとクマか？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "…いや、お前こそ\n何でコンテナに擦り寄ってんだよ。",
+    "translation": "…いや、お前こそ\n何でコンテナに擦り寄ってんだよ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "このセカイ、あっつくて\nクマ溶けちゃいそうだったのよね。",
+    "translation": "このセカイ、あっつくて\nクマ溶けちゃいそうだったのよね。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "そしたら、ヒエヒエでキモチイー場所を\n見つけたクマ。あーゴクラクゴクラク…",
+    "translation": "そしたら、ヒエヒエでキモチイー場所を\n見つけたクマ。あーゴクラクゴクラク…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "クマくんがくっついているのは\n冷凍コンテナかな？",
+    "translation": "クマくんがくっついているのは\n冷凍コンテナかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "こんなものまで残っているのか。",
+    "translation": "こんなものまで残っているのか。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "中から漏れる冷気が気持ちいいのかもね。\nこの暑さは、キグルミにはきついだろうし…",
+    "translation": "中から漏れる冷気が気持ちいいのかもね。\nこの暑さは、キグルミにはきついだろうし…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "クロウも、その長いハナ暑そうクマねー。\n一緒にヒエヒエになるクマ？",
+    "translation": "クロウも、その長いハナ暑そうクマねー。\n一緒にヒエヒエになるクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "い、いや…案外、通気性は悪くないんだ。\n僕は遠慮しとくよ。",
+    "translation": "い、いや…案外、通気性は悪くないんだ。\n僕は遠慮しとくよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "クマさん、そんなに暑いなら\nいっそ燃やしてあげようか？",
+    "translation": "クマさん、そんなに暑いなら\nいっそ燃やしてあげようか？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "心頭滅却すれば火もまた涼し…って言うし。",
+    "translation": "心頭滅却すれば火もまた涼し…って言うし。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ぎょえー！\n丸焼きはカンベンしまクマ！",
+    "translation": "ぎょえー！\n丸焼きはカンベンしまクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "もー、ほら！　バカやってないで\nはやく先に進むかんね！？",
+    "translation": "もー、ほら！　バカやってないで\nはやく先に進むかんね！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  }
+]

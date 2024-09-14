@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "オタカラスポット発見クマ！\n採取するクマ？",
+    "translation": "オタカラスポット発見クマ！\n採取するクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "クマレーダーに任せんしゃい！",
+    "translation": "クマレーダーに任せんしゃい！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "クマが一番見つけるクマー！",
+    "translation": "クマが一番見つけるクマー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "およ、止めとくの？\n分かったクマ～！",
+    "translation": "およ、止めとくの？\n分かったクマ～！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ぜーんぶ採ったクマ！",
+    "translation": "ぜーんぶ採ったクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ここ掘れクマクマ。",
+    "translation": "ここ掘れクマクマ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ざっくざく～！",
+    "translation": "ざっくざく～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ゲッチュー！",
+    "translation": "ゲッチュー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ふぃ～…なんとか乗りきったクマ。\n採取もバッチリできたクマね！",
+    "translation": "ふぃ～…なんとか乗りきったクマ。\n採取もバッチリできたクマね！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ひょーい！",
+    "translation": "ひょーい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "うほ～！",
+    "translation": "うほ～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "当たりクマ～！",
+    "translation": "当たりクマ～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカット発見クマ！\n通るクマ？",
+    "translation": "ショートカット発見クマ！\n通るクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないクマー…",
+    "translation": "こっちは通れないクマー…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ココはマズイって\nクマの鼻が言ってるクマ！",
+    "translation": "ココはマズイって\nクマの鼻が言ってるクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "よーし！\nやっちゃるクマー！",
+    "translation": "よーし！\nやっちゃるクマー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "さんせー！\nクマもそう思いまクマ！",
+    "translation": "さんせー！\nクマもそう思いまクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ゼェ…ハァ…\n危険なヤツだったクマ～…",
+    "translation": "ゼェ…ハァ…\n危険なヤツだったクマ～…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ふんふん…\nここはシャドウの気配が多いクマね…",
+    "translation": "ふんふん…\nここはシャドウの気配が多いクマね…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "オッケー！　やるクマ～！",
+    "translation": "オッケー！　やるクマ～！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "止めておくのね。\n了解しまクマ！",
+    "translation": "止めておくのね。\n了解しまクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "これで終わりクマ？",
+    "translation": "これで終わりクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "およ？　映画館に戻るクマ？",
+    "translation": "およ？　映画館に戻るクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  }
+]

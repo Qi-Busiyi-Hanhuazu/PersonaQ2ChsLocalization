@@ -1,0 +1,485 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふう…そこらじゅう敵がいるね。\nなかなか思うように進めないな。",
+    "translation": "ふう…そこらじゅう敵がいるね。\nなかなか思うように進めないな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ったく、骨が折れる。\n身体を休めている暇もねえな。",
+    "translation": "ったく、骨が折れる。\n身体を休めている暇もねえな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そういえば、\nアイチャンはもう元気になったクマ？",
+    "translation": "そういえば、\nアイチャンはもう元気になったクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "はい。\nすっかりいつも通りであります。",
+    "translation": "はい。\nすっかりいつも通りであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ええと…オルギアモードって言ったかしら？\nあれは少し驚いたわ。",
+    "translation": "ええと…オルギアモードって言ったかしら？\nあれは少し驚いたわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "オルギアモードって？",
+    "translation": "オルギアモードって？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "カッコよかった",
+    "translation": "カッコよかった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_2",
+    "original": "また見たい",
+    "translation": "また見たい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あれは、わたしの身体に搭載されている\n戦闘特化の特殊機能であります。",
+    "translation": "あれは、わたしの身体に搭載されている\n戦闘特化の特殊機能であります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "スゲー。あんなんで敵をバシバシやっつけ\nてたら、かなり気持ちよさそうだよな！",
+    "translation": "スゲー。あんなんで敵をバシバシやっつけ\nてたら、かなり気持ちよさそうだよな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "んー、そうもいかないよ。\n使った後は、しばらく動けなくなるし。",
+    "translation": "んー、そうもいかないよ。\n使った後は、しばらく動けなくなるし。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "分かる！　ああいうモードチェンジ、\nまさにロマンだ！",
+    "translation": "分かる！　ああいうモードチェンジ、\nまさにロマンだ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "あれは、わたしの身体に搭載されている\n戦闘特化の特殊機能であります。",
+    "translation": "あれは、わたしの身体に搭載されている\n戦闘特化の特殊機能であります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "スゲー。あんなんで敵をバシバシやっつけ\nてたら、かなり気持ちよさそうだよな！",
+    "translation": "スゲー。あんなんで敵をバシバシやっつけ\nてたら、かなり気持ちよさそうだよな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "んー、そうもいかないよ。\n使った後は、しばらく動けなくなるし。",
+    "translation": "んー、そうもいかないよ。\n使った後は、しばらく動けなくなるし。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "あはは、それはちょっと難しいかな。\n使うとしばらく動けなくなっちゃうから。",
+    "translation": "あはは、それはちょっと難しいかな。\n使うとしばらく動けなくなっちゃうから。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "あれは、わたしの身体に搭載されている\n戦闘特化の特殊機能であります。",
+    "translation": "あれは、わたしの身体に搭載されている\n戦闘特化の特殊機能であります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "捨て身の攻撃…\n諸刃の剣といったところか。",
+    "translation": "捨て身の攻撃…\n諸刃の剣といったところか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "しばらく動けなくなるとか、\n双葉のバッテリー切れに似てんな。",
+    "translation": "しばらく動けなくなるとか、\n双葉のバッテリー切れに似てんな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "え？\n双葉ちゃんってバッテリーで動いてたの？",
+    "translation": "え？\n双葉ちゃんってバッテリーで動いてたの？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "いやいや、んなわけねーだろ！",
+    "translation": "いやいや、んなわけねーだろ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "…ねーよな？",
+    "translation": "…ねーよな？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "本当のバッテリーじゃないぞ。\n疲れたらこう、バッターンってなるアレだ。",
+    "translation": "本当のバッテリーじゃないぞ。\n疲れたらこう、バッターンってなるアレだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "もしかシテ、ワタシにも\n『オルギアモード』がアルのでしょうカ？",
+    "translation": "もしかシテ、ワタシにも\n『オルギアモード』がアルのでしょうカ？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "どうでしょう…？　見た限り、標準で\n搭載されるような機能ではなさそうですが…",
+    "translation": "どうでしょう…？　見た限り、標準で\n搭載されるような機能ではなさそうですが…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "そうデスカ…少し、残念デス。",
+    "translation": "そうデスカ…少し、残念デス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "あれ、残念なんだ？\nリボンもオルギアモードが使いたいの？",
+    "translation": "あれ、残念なんだ？\nリボンもオルギアモードが使いたいの？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "積極的に使イタイとは思イマセンが、\nワタシには戦闘機能がナイので…",
+    "translation": "積極的に使イタイとは思イマセンが、\nワタシには戦闘機能がナイので…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "もし、アレが使エタラ\n皆さんのお役に立テル…ソウ思イマシタ。",
+    "translation": "もし、アレが使エタラ\n皆さんのお役に立テル…ソウ思イマシタ。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "リボンちゃん…\nそんなこと思ってたんだ。",
+    "translation": "リボンちゃん…\nそんなこと思ってたんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "でも、もしリボンさんにオルギアモードが\nあったら、どんな感じなんでしょう？",
+    "translation": "でも、もしリボンさんにオルギアモードが\nあったら、どんな感じなんでしょう？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_027_0",
+    "original": "ロケットパンチが使える",
+    "translation": "ロケットパンチが使える",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_027_1",
+    "original": "目からビーム光線",
+    "translation": "目からビーム光線",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_027_2",
+    "original": "全身が発光する",
+    "translation": "全身が発光する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "なんつーか、ベタっスね。",
+    "translation": "なんつーか、ベタっスね。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "いやいや、ベタな方が熱いっしょ！\nロケットパンチは少年のロマンですから！",
+    "translation": "いやいや、ベタな方が熱いっしょ！\nロケットパンチは少年のロマンですから！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "でも、パンチだけじゃ物足りなくない？",
+    "translation": "でも、パンチだけじゃ物足りなくない？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "更に光ったり、音楽が流れたり、\n踊り狂うのがいいと思う！",
+    "translation": "更に光ったり、音楽が流れたり、\n踊り狂うのがいいと思う！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "あー、ロボットあるあるだけど、\n光線とかちょっと子供っぽくね？",
+    "translation": "あー、ロボットあるあるだけど、\n光線とかちょっと子供っぽくね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "そう？\n十分、実用にも足る装備だと思うけど。",
+    "translation": "そう？\n十分、実用にも足る装備だと思うけど。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "うーん…\nでも、それだけだと物足りなくない？",
+    "translation": "うーん…\nでも、それだけだと物足りなくない？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "更に光ったり、音楽が流れたり、\n踊り狂うのがいいと思う！",
+    "translation": "更に光ったり、音楽が流れたり、\n踊り狂うのがいいと思う！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "あ、私もそれがいいと思う。",
+    "translation": "あ、私もそれがいいと思う。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_034_1",
+    "original": "どうせなら、音楽が流れたり、\n踊り狂ったりすると、もっといいかも。",
+    "translation": "どうせなら、音楽が流れたり、\n踊り狂ったりすると、もっといいかも。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "いや、踊るってなんだよ！？\nパレードか！",
+    "translation": "いや、踊るってなんだよ！？\nパレードか！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "パレードなら、クマも参戦するクマ！\nあ、もちろん王子役で！",
+    "translation": "パレードなら、クマも参戦するクマ！\nあ、もちろん王子役で！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "ふむ。\nならば、山車は俺が担当しよう。",
+    "translation": "ふむ。\nならば、山車は俺が担当しよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "あ、お出汁なら私もやるよ。\nやっぱり海鮮ベースだよね。",
+    "translation": "あ、お出汁なら私もやるよ。\nやっぱり海鮮ベースだよね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "そっちの出汁じゃねーよ！\nていうか、山車でもねーよ！",
+    "translation": "そっちの出汁じゃねーよ！\nていうか、山車でもねーよ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "やれやれ、収集がつかなくなってきたな。\nそろそろ先へ行くぞ。",
+    "translation": "やれやれ、収集がつかなくなってきたな。\nそろそろ先へ行くぞ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "ハイ、了解しまシタ。\n先へ進みまショウ。",
+    "translation": "ハイ、了解しまシタ。\n先へ進みまショウ。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

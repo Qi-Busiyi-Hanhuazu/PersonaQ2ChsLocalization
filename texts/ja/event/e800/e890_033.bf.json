@@ -1,0 +1,170 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ようこそ、ベルベットルームへ。",
+    "translation": "ようこそ、ベルベットルームへ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "フフ、やはりこの服に袖を通しますと、\n身が引き締まる想いが致します。",
+    "translation": "フフ、やはりこの服に袖を通しますと、\n身が引き締まる想いが致します。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "エリザベス…本気だね。",
+    "translation": "エリザベス…本気だね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "はい、もちろんでございます。",
+    "translation": "はい、もちろんでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "ここで皆様と出会えた幸運に感謝し、\n私の全てを懸け、お相手致しましょう。",
+    "translation": "ここで皆様と出会えた幸運に感謝し、\n私の全てを懸け、お相手致しましょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "すごい気迫…\n今まで見たことない…！",
+    "translation": "すごい気迫…\n今まで見たことない…！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "私は、『力を司る者』。",
+    "translation": "私は、『力を司る者』。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "その私を打ち破ることで、\n皆様の『力』をお示し下さい。",
+    "translation": "その私を打ち破ることで、\n皆様の『力』をお示し下さい。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ああ、必ず見せてやる。",
+    "translation": "ああ、必ず見せてやる。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "その結果は必ずや、新たな可能性の\n扉を開いてくれるに違いありません。",
+    "translation": "その結果は必ずや、新たな可能性の\n扉を開いてくれるに違いありません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "全力で行くぞ",
+    "translation": "全力で行くぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "お手柔らかに",
+    "translation": "お手柔らかに",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "フフ、そうして頂けるのが\n私の本懐でございます。",
+    "translation": "フフ、そうして頂けるのが\n私の本懐でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "フフ、手加減できるほどの\n器量は持ち合わせておりません。",
+    "translation": "フフ、手加減できるほどの\n器量は持ち合わせておりません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "我が主に仕えて以来、これほどまでに昂ぶる\nことがありましたでしょうか。",
+    "translation": "我が主に仕えて以来、これほどまでに昂ぶる\nことがありましたでしょうか。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "時と場所を超え、奇しくも肩を並べた\n特別な素養の持ち主たち…",
+    "translation": "時と場所を超え、奇しくも肩を並べた\n特別な素養の持ち主たち…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_1_0",
+    "original": "私も『力を司る者』の名に恥じぬ、\n誇り高き戦いをお見せ致しましょう。",
+    "translation": "私も『力を司る者』の名に恥じぬ、\n誇り高き戦いをお見せ致しましょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_2_0",
+    "original": "いざ…参ります！",
+    "translation": "いざ…参ります！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ようこそいらっしゃいました。\nそれでは、再戦のゴングと参りましょう。",
+    "translation": "ようこそいらっしゃいました。\nそれでは、再戦のゴングと参りましょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_011_1_0",
+    "original": "[P5姓]様の、もっといいトコ見てみたい！\nリベンジマッチ、開幕でございます！",
+    "translation": "[P5姓]様の、もっといいトコ見てみたい！\nリベンジマッチ、開幕でございます！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

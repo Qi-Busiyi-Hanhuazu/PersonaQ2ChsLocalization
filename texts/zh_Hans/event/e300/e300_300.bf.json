@@ -1,0 +1,177 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "リーダー！　アイギス！",
+    "translation": "队长！埃癸斯！",
+    "stage": 0,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n队长！埃癸斯！\n\n领导！埃癸斯！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やっと見つけたぜ、お二人さん！",
+    "translation": "总算找到你们了！",
+    "stage": 0,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n总算找到你们了！\n\n终于找到了，两位！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "みんな…！",
+    "translation": "各位……！",
+    "stage": 1,
+    "context": "说话人：イヤフォンの少年\n\n机翻辅助：\n\n大家……！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ゆかり！\nこの召喚器を、彼に！",
+    "translation": "由加莉！\n把这个召唤器给他！",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n由加莉！\n把这个召唤器，给他！\n\n由加莉！\n把这个召唤器给他！\n\n由加莉！\n把这个召唤器，送给他！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "了解！",
+    "translation": "了解！",
+    "stage": 0,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n了解！\n\n明白！"
+  },
+  {
+    "key": "MSG_004_5_0",
+    "original": "これ、受け取って！",
+    "translation": "拿着吧！",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n这个，收下吧！\n\n收下这个！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "これは、僕の…ありがとう。",
+    "translation": "这是，我的……谢谢。",
+    "stage": 1,
+    "context": "说话人：イヤフォンの少年\n\n机翻辅助：\n\n这是，我的……谢意。\n\n这是我的……谢谢。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "チッ、またワラワラと\n湧いてきやがったな…！",
+    "translation": "啧，又接连不断地\n涌出来了啊……！",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n啧，又\n乱七八糟地涌出来了啊……！\n\n啧，又哇哇地涌了出来啊……！\n\n\n哇，又是哇啦哇啦地涌出来了啊……！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "えらーを排除。えらーを排除。",
+    "translation": "排除故障。排除故障。",
+    "stage": 1,
+    "context": "说话人：量産型ロボット\n\n机翻辅助：\n\n排除敌人。排除敌人。\n\n排除错误。排除错误。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "二人とも下がってて！\nここは私たちで片付けるから！",
+    "translation": "你们两个都退下！\n这里由我们来解决！",
+    "stage": 0,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n你们两个都退下！\n这里由我们来解决！\n\n两个人都退后了！\n这里由我们来收拾！\n\n两个人都退下！\n这里由我们来收拾！"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あなた、は…",
+    "translation": "你是……",
+    "stage": 1,
+    "context": "说话人：青い目の少女\n\n机翻辅助：\n\n你，是……\n\n你，哈……"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "アイギスは彼に任せる。\n我々は、ロボットどもの討伐だ！",
+    "translation": "埃癸斯就交给他。\n我们去讨伐那些机器人！",
+    "stage": 0,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n埃癸斯就交给他。\n我们去讨伐那些机器人！\n\n埃癸斯交给他。\n我们是机器人们的讨伐！\n\n埃癸斯交给他。我们，是机器人们的讨伐！"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "ジョーカー、みんな！\n手を貸してくれ！",
+    "translation": "JOKER，各位！\n请助我们一臂之力！",
+    "stage": 0,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\nJOKER，各位！\n请助我们一臂之力！\n\nJOKER、大家好！\n帮帮我！\n\nJOKER，大家！请帮我一把！"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "もちろんだ",
+    "translation": "没问题",
+    "stage": 1,
+    "context": "机翻辅助：\n\n当然了\n\n当然可以\n\n当然"
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "やってやろう",
+    "translation": "干掉它们吧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n干掉它们吧\n\n干吧\n\n我会的"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ああ。さっさと蹴散らして、\n二人を救出しよう。",
+    "translation": "嗯，赶快把它们打跑，\n去救出那两个人吧。",
+    "stage": 0,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n嗯，赶快把它们打跑，\n去救出那两个人吧。\n\n啊。赶紧把他们踢散，救出他们吧。\n\n\n啊。赶快把他们踢开，救出他们。"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 由加莉",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊织 顺平",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_イヤフォンの少年",
+    "original": "イヤフォンの少年",
+    "translation": "耳机少年",
+    "stage": 0,
+    "context": "机翻辅助：\n\n耳机少年\n\n戴耳机的少年"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_量産型ロボット",
+    "original": "量産型ロボット",
+    "translation": "量产型机器人",
+    "stage": 0,
+    "context": "机翻辅助：\n\n量产型机器人\n\n批量生产型机器人"
+  },
+  {
+    "key": "speaker_青い目の少女",
+    "original": "青い目の少女",
+    "translation": "蓝眼少女",
+    "stage": 0,
+    "context": "机翻辅助：\n\n蓝眼少女\n\n蓝眼睛的少女"
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鹤",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

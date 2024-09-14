@@ -1,0 +1,205 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あの人たち、頼もしいね。\n最初は、独特のオーラにビックリしたけど…",
+    "translation": "あの人たち、頼もしいね。\n最初は、独特のオーラにビックリしたけど…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ええ、戦力増加に繋がるサポートを\nしてくれるなんて有り難いわ。",
+    "translation": "ええ、戦力増加に繋がるサポートを\nしてくれるなんて有り難いわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "よっしゃ、これで探索が\n進むってことっスよね！",
+    "translation": "よっしゃ、これで探索が\n進むってことっスよね！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うん！　花村も捜しやすくなるし、\nいっちょ、乗り込んでやりますか！",
+    "translation": "うん！　花村も捜しやすくなるし、\nいっちょ、乗り込んでやりますか！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…待ってくれ。\nひとつ、提案がある。",
+    "translation": "…待ってくれ。\nひとつ、提案がある。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ん？　どうした？",
+    "translation": "ん？　どうした？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "この世界のことは、俺たちよりも\n君たちの方が詳しいようだ。",
+    "translation": "この世界のことは、俺たちよりも\n君たちの方が詳しいようだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "君たちのリーダーの[P5姓]に、\n俺たちへの指示も頼めないだろうか？",
+    "translation": "君たちのリーダーの[P5姓]に、\n俺たちへの指示も頼めないだろうか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "指揮系統の混乱は、よくある敗因の一つ。\nバラバラに行動するよりいいと思います。",
+    "translation": "指揮系統の混乱は、よくある敗因の一つ。\nバラバラに行動するよりいいと思います。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "どうだろう？\nリーダーを引き受けてもらえるか？",
+    "translation": "どうだろう？\nリーダーを引き受けてもらえるか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "分かった",
+    "translation": "分かった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "任せろ",
+    "translation": "任せろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_2",
+    "original": "どうしよう",
+    "translation": "どうしよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ありがとう、引き受けてくれて。\n俺たちも精いっぱい頑張らせてもらう。",
+    "translation": "ありがとう、引き受けてくれて。\n俺たちも精いっぱい頑張らせてもらう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "おお～。\nウチのリーダーと同じく、頼もしい！",
+    "translation": "おお～。\nウチのリーダーと同じく、頼もしい！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "悩むとこか？\nお前なら、絶対やれるって。",
+    "translation": "悩むとこか？\nお前なら、絶対やれるって。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "私も、適任だと思う。\n心配する必要はないわ。",
+    "translation": "私も、適任だと思う。\n心配する必要はないわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "では、決まりですね。",
+    "translation": "では、決まりですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "今後、僕たちの指揮権も\n[P5姓]さんに委ねましょう。",
+    "translation": "今後、僕たちの指揮権も\n[P5姓]さんに委ねましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "そうと決まれば、映画の中へいざゆかん！\nレッツらゴオオー！",
+    "translation": "そうと決まれば、映画の中へいざゆかん！\nレッツらゴオオー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  }
+]

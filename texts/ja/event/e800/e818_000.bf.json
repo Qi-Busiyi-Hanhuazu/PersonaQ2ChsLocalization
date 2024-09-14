@@ -1,0 +1,233 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あ、行き止まりだね。\nちょっと休憩しようか。",
+    "translation": "あ、行き止まりだね。\nちょっと休憩しようか。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "周囲に敵の反応もないようですし、\nどうしますか？",
+    "translation": "周囲に敵の反応もないようですし、\nどうしますか？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "休もう",
+    "translation": "休もう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "まだ行ける",
+    "translation": "まだ行ける",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "賛成！　ちょうど私も\n一息つきたかったとこだし。",
+    "translation": "賛成！　ちょうど私も\n一息つきたかったとこだし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "お、ナイス判断！",
+    "translation": "お、ナイス判断！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "[P3P名]とジョーカーには\n空気読み達人の称号を進ぜよう。",
+    "translation": "[P3P名]とジョーカーには\n空気読み達人の称号を進ぜよう。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うーん、でもみんな疲れてるみたいだし、\nちょっと休まない？",
+    "translation": "うーん、でもみんな疲れてるみたいだし、\nちょっと休まない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ほらほら、ここは素直に休まないと、\nお前も空気読み人知らずってか。",
+    "translation": "ほらほら、ここは素直に休まないと、\nお前も空気読み人知らずってか。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "あはは、順平はホント順平と言うか、\nいつも通り変わんないね。",
+    "translation": "あはは、順平はホント順平と言うか、\nいつも通り変わんないね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "いつも？",
+    "translation": "いつも？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あっ、ごめん…その…",
+    "translation": "あっ、ごめん…その…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "つまり[P3P名]の知ってるオレっちも\nカッコいいムードメーカーってコトっしょ。",
+    "translation": "つまり[P3P名]の知ってるオレっちも\nカッコいいムードメーカーってコトっしょ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "うーん、ちょっと違うような…",
+    "translation": "うーん、ちょっと違うような…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "何がムードメーカーよ。\nただのうるさいお調子者でしょ。",
+    "translation": "何がムードメーカーよ。\nただのうるさいお調子者でしょ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "言い方！　もうゆかりッチってば、\nホントいけずなんだから…",
+    "translation": "言い方！　もうゆかりッチってば、\nホントいけずなんだから…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "[P3P名]ちゃん…？",
+    "translation": "[P3P名]ちゃん…？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "…あ、私、ほかの人にも声かけてくるね！\nみんなは休憩してて！",
+    "translation": "…あ、私、ほかの人にも声かけてくるね！\nみんなは休憩してて！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "[P3P名]…",
+    "translation": "[P3P名]…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "なんかやっぱ、壁あるよな…",
+    "translation": "なんかやっぱ、壁あるよな…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "まざりたいけど、まざれない…\nそんな感じでしたね。",
+    "translation": "まざりたいけど、まざれない…\nそんな感じでしたね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "自分はみんなを知ってるのに、\nみんなは自分のこと知らない、か…",
+    "translation": "自分はみんなを知ってるのに、\nみんなは自分のこと知らない、か…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "私だったら耐えられないかも。",
+    "translation": "私だったら耐えられないかも。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ですよね…[P3P名]ちゃんは\n明るいからそんな素振り見せないですけど。",
+    "translation": "ですよね…[P3P名]ちゃんは\n明るいからそんな素振り見せないですけど。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "もう少し、お互い打ち解けた感じに\nなれればな…",
+    "translation": "もう少し、お互い打ち解けた感じに\nなれればな…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "つっても何も浮かばねえし、\n今は様子見かねえ…",
+    "translation": "つっても何も浮かばねえし、\n今は様子見かねえ…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "特別上映『世界を越えた絆』が\nチケットカウンターに追加されました。",
+    "translation": "特別上映『世界を越えた絆』が\nチケットカウンターに追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  }
+]

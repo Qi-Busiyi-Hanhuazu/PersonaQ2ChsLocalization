@@ -1,0 +1,282 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よーし！　これでフルコンプだ！\n必要なパーツが全て揃ったぞ！！",
+    "translation": "よーし！　これでフルコンプだ！\n必要なパーツが全て揃ったぞ！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "これを持って帰ればいいんだな。\nすぐに帰還する、待っててくれ。",
+    "translation": "これを持って帰ればいいんだな。\nすぐに帰還する、待っててくれ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ふふっ、組み立てるのが楽しみですね。",
+    "translation": "ふふっ、組み立てるのが楽しみですね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "こっちに来てから、機械をいじれる時が\nなかったので楽しみです。",
+    "translation": "こっちに来てから、機械をいじれる時が\nなかったので楽しみです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ぬっふっふ…パワーアップの時は\n近いようだな。",
+    "translation": "ぬっふっふ…パワーアップの時は\n近いようだな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "そういえば、機械の構造で\nさっき思いついたんですけど…",
+    "translation": "そういえば、機械の構造で\nさっき思いついたんですけど…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "お、なんだなんだ！\n聞かせてくれ！",
+    "translation": "お、なんだなんだ！\n聞かせてくれ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ホント、二人ともメカニック女子だよな。\n休みの日も機械いじってんのか？",
+    "translation": "ホント、二人ともメカニック女子だよな。\n休みの日も機械いじってんのか？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "女子って、休日は甘いもん食いに行ったり、\n流行りの店とか行ってそうだけど。",
+    "translation": "女子って、休日は甘いもん食いに行ったり、\n流行りの店とか行ってそうだけど。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "少なくとも、里中はやってなさそうだな。",
+    "translation": "少なくとも、里中はやってなさそうだな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "は？　や、やってるっての！",
+    "translation": "は？　や、やってるっての！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "肉を食べに行ったり、流行りの型を調べて\n河原で修行とかしてますし！",
+    "translation": "肉を食べに行ったり、流行りの型を調べて\n河原で修行とかしてますし！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あー…振った俺が悪かった。",
+    "translation": "あー…振った俺が悪かった。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "さて、おしゃべりは終わりだ。\nそろそろ映画館に戻ってこい…",
+    "translation": "さて、おしゃべりは終わりだ。\nそろそろ映画館に戻ってこい…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "…って、んんん！？",
+    "translation": "…って、んんん！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "どうしたナビ？　何か問題か？",
+    "translation": "どうしたナビ？　何か問題か？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "不審者発見、不審者発見。",
+    "translation": "不審者発見、不審者発見。",
+    "stage": 1,
+    "context": "研究所セキュリティ"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "ただちに現場へ急行せよ。\n繰り返します、不審者発見。",
+    "translation": "ただちに現場へ急行せよ。\n繰り返します、不審者発見。",
+    "stage": 1,
+    "context": "研究所セキュリティ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "みんな、ヤバいよ。\n急に多数の敵反応アリ、囲まれてる！",
+    "translation": "みんな、ヤバいよ。\n急に多数の敵反応アリ、囲まれてる！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "えええええ、マジで！？\n囲まれてるとかピンチじゃん！",
+    "translation": "えええええ、マジで！？\n囲まれてるとかピンチじゃん！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "落ち着いてください。\nすぐに状況を解析します。",
+    "translation": "落ち着いてください。\nすぐに状況を解析します。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "りせちゃんは安全ルートのサーチを\nお願いします。",
+    "translation": "りせちゃんは安全ルートのサーチを\nお願いします。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "任せて！",
+    "translation": "任せて！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "わたしは他にシャドウ反応がないか探る！",
+    "translation": "わたしは他にシャドウ反応がないか探る！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "お前たちはヘタにそこを動くな。\nすぐにわたし達が指示する。",
+    "translation": "お前たちはヘタにそこを動くな。\nすぐにわたし達が指示する。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_2",
+    "original": "それまで、なんとか持ちこたえてくれ！",
+    "translation": "それまで、なんとか持ちこたえてくれ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "くっ…やるしかないようだな。",
+    "translation": "くっ…やるしかないようだな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "フッ、いくらでも返り討ちにしてやる。\nちょうど拳が疼いていたところだ！",
+    "translation": "フッ、いくらでも返り討ちにしてやる。\nちょうど拳が疼いていたところだ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "敵、きます！\n気をつけてください！",
+    "translation": "敵、きます！\n気をつけてください！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_研究所セキュリティ",
+    "original": "研究所セキュリティ",
+    "translation": "研究所セキュリティ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "世界の秩序を乱し、\n人の心に不安を与える悪党ども！",
+    "translation": "世界の秩序を乱し、\n人の心に不安を与える悪党ども！",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_000_5_0",
+    "original": "私という正義の前に散るがいい！",
+    "translation": "私という正義の前に散るがいい！",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "盲目的な正義なんて、\n自分勝手に過ぎないわ。",
+    "translation": "盲目的な正義なんて、\n自分勝手に過ぎないわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あなたは所詮、偽物のヒーロー…\n目を覚ましなさい！",
+    "translation": "あなたは所詮、偽物のヒーロー…\n目を覚ましなさい！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "目を覚ますのは貴様らだ！\nＨＡＨＡＨＡ！",
+    "translation": "目を覚ますのは貴様らだ！\nＨＡＨＡＨＡ！",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "speaker_カモシダーマン",
+    "original": "カモシダーマン",
+    "translation": "カモシダーマン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

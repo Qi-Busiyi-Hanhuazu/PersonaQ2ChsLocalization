@@ -1,0 +1,79 @@
+[
+  {
+    "key": "BR_RISE_GETSKILL_TRDEYE_0",
+    "original": "＞対象を選択した際に\n　その攻撃が有効かどうか、分かるようになった。",
+    "translation": "＞対象を選択した際に\n　その攻撃が有効かどうか、分かるようになった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BR_RISE_GETSKILL_ENMY_S_0",
+    "original": "＞フロアマップの未踏破領域に\n　敵の位置が表示されるようになった。",
+    "translation": "＞フロアマップの未踏破領域に\n　敵の位置が表示されるようになった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BR_RISE_GETSKILL_TRSR_S_0",
+    "original": "＞フロアマップの未踏破領域に\n　宝箱の位置が表示されるようになった。",
+    "translation": "＞フロアマップの未踏破領域に\n　宝箱の位置が表示されるようになった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BR_RISE_GETSKILL_W_SACH_0",
+    "original": "＞戦闘開始時に、敵の属性を教えてくれるようになった。",
+    "translation": "＞戦闘開始時に、敵の属性を教えてくれるようになった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BR_RISE_GETSKILL_IYA_HP_0",
+    "original": "＞戦闘終了時にメンバー全員のＨＰを\n　少しだけ回復してくれるようになった。",
+    "translation": "＞戦闘終了時にメンバー全員のＨＰを\n　少しだけ回復してくれるようになった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BR_RISE_GETSKILL_Z_ESCP_0",
+    "original": "＞確実に戦闘から即時撤退できるようになった。",
+    "translation": "＞確実に戦闘から即時撤退できるようになった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BR_RISE_GETSKILL_IYA_SP_0",
+    "original": "＞戦闘終了時にメンバー全員のＳＰを\n　少しだけ回復してくれるようになった。",
+    "translation": "＞戦闘終了時にメンバー全員のＳＰを\n　少しだけ回復してくれるようになった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BR_RISE_GETSKILL_HPSONG_0",
+    "original": "＞戦闘終了時のＨＰ回復効果がパワーアップした。",
+    "translation": "＞戦闘終了時のＨＰ回復効果がパワーアップした。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BR_RISE_GETSKILL_SPSONG_0",
+    "original": "＞戦闘終了時のＳＰ回復効果がパワーアップした。",
+    "translation": "＞戦闘終了時のＳＰ回復効果がパワーアップした。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BR_RISE_GETSKILL_H_ANYZ_0",
+    "original": "＞“過去に攻撃した属性”に加え、“敵の所持スキル”も\n　アナライズで分かるようになった。",
+    "translation": "＞“過去に攻撃した属性”に加え、“敵の所持スキル”も\n　アナライズで分かるようになった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BR_RISE_GETSKILL_F_ANYZ_0",
+    "original": "＞“敵の所持スキル”に加え、“過去に攻撃してない属性”も\n　アナライズで分かるようになった。",
+    "translation": "＞“敵の所持スキル”に加え、“過去に攻撃してない属性”も\n　アナライズで分かるようになった。",
+    "stage": 1,
+    "context": ""
+  }
+]

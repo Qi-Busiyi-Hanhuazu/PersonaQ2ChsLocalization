@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "俺一人でも、足止めくらいなら…",
+    "translation": "俺一人でも、足止めくらいなら…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ジョーカー！\n君も来てくれたのか…",
+    "translation": "ジョーカー！\n君も来てくれたのか…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "すまない、力を貸してくれ！",
+    "translation": "すまない、力を貸してくれ！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "呼吸を合わせろ",
+    "translation": "呼吸を合わせろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "任せろ",
+    "translation": "任せろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ああ、わかった！\n二人同時に攻めてみよう！",
+    "translation": "ああ、わかった！\n二人同時に攻めてみよう！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ここは、二人同時に行こう！\n頼んだぞ！",
+    "translation": "ここは、二人同時に行こう！\n頼んだぞ！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "よし、怯んだぞ…！",
+    "translation": "よし、怯んだぞ…！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "これで足止めは十分なはずだ、戻ろう！",
+    "translation": "これで足止めは十分なはずだ、戻ろう！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

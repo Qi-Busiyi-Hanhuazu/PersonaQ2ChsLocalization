@@ -1,0 +1,310 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よし、無事に到着だな！\nオサカナ天国の始まりだぜ！",
+    "translation": "よし、無事に到着だな！\nオサカナ天国の始まりだぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あっ、あそこ！\nいま光ったよ、大きい！",
+    "translation": "あっ、あそこ！\nいま光ったよ、大きい！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おい、こっちにもいるぜ！\nそこら中ウヨウヨしてんぞ！",
+    "translation": "おい、こっちにもいるぜ！\nそこら中ウヨウヨしてんぞ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ていうか、肝心なこと忘れてたんだけど\nどうやって魚捕まえんだ？",
+    "translation": "ていうか、肝心なこと忘れてたんだけど\nどうやって魚捕まえんだ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "釣竿なんか持ってねーし…\nつかみ取りするか？　なんつって。",
+    "translation": "釣竿なんか持ってねーし…\nつかみ取りするか？　なんつって。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "だな、この拳を使えばいい。",
+    "translation": "だな、この拳を使えばいい。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "ジャブで動きを止め、\nアッパーでつかみ上げる！",
+    "translation": "ジャブで動きを止め、\nアッパーでつかみ上げる！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_2",
+    "original": "シャドウとの戦いに比べれば\n造作もないだろう。",
+    "translation": "シャドウとの戦いに比べれば\n造作もないだろう。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いやいやいや、ねーでしょ！？",
+    "translation": "いやいやいや、ねーでしょ！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "釣竿を作るか、モリみたいに突く方が\nよっぽど現実的…",
+    "translation": "釣竿を作るか、モリみたいに突く方が\nよっぽど現実的…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "え、なんの音？",
+    "translation": "え、なんの音？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "みんな、気を付けて！\nＦ．Ｏ．Ｅが近づいてきてる！",
+    "translation": "みんな、気を付けて！\nＦ．Ｏ．Ｅが近づいてきてる！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ちょ、ちょっと！　うちらがご飯に\nなるとかカンベンしてよ！！",
+    "translation": "ちょ、ちょっと！　うちらがご飯に\nなるとかカンベンしてよ！！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "近くの巣から出て来たみたいです！\n真っ直ぐこちらへ向かってます！",
+    "translation": "近くの巣から出て来たみたいです！\n真っ直ぐこちらへ向かってます！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ど、どうしよ？　諦める！？",
+    "translation": "ど、どうしよ？　諦める！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "うおおおおおおおああっ！！",
+    "translation": "うおおおおおおおああっ！！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "もう限界だ！\nこれ以上の空腹、耐えられんッ！",
+    "translation": "もう限界だ！\nこれ以上の空腹、耐えられんッ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "俺の飯を邪魔する輩は許さん！\n刀のサビにしてやるッ！！",
+    "translation": "俺の飯を邪魔する輩は許さん！\n刀のサビにしてやるッ！！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "やべー、おイナリがキレた。",
+    "translation": "やべー、おイナリがキレた。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "フォックスに同意だ。\nここまで来ておいて、引き下がるのは癪だ。",
+    "translation": "フォックスに同意だ。\nここまで来ておいて、引き下がるのは癪だ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "おい待て。ここで暴れられたんじゃ、\nせっかくの魚が逃げちまうぞ。",
+    "translation": "おい待て。ここで暴れられたんじゃ、\nせっかくの魚が逃げちまうぞ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "水場から退いて戦うか、ここで迎え撃つか…\nどうすんだ、ジョーカー？",
+    "translation": "水場から退いて戦うか、ここで迎え撃つか…\nどうすんだ、ジョーカー？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "SEL_016_0",
+    "original": "水場から離れよう",
+    "translation": "水場から離れよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_016_1",
+    "original": "近場で戦おう",
+    "translation": "近場で戦おう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "らじゃーだ！\n上手く動いておびき寄せろ！",
+    "translation": "らじゃーだ！\n上手く動いておびき寄せろ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "ヤツとの距離を上手く保って、\nいい感じのトコまで誘導して叩け！",
+    "translation": "ヤツとの距離を上手く保って、\nいい感じのトコまで誘導して叩け！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "とにかく倒すってことか？\nでもなるべく離れた方が…",
+    "translation": "とにかく倒すってことか？\nでもなるべく離れた方が…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "ヤツとの距離を上手く保てば、\nある程度誘導できるはず！",
+    "translation": "ヤツとの距離を上手く保てば、\nある程度誘導できるはず！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ＧＹＡＡＡＡＡＯＯＯ！",
+    "translation": "ＧＹＡＡＡＡＡＯＯＯ！",
+    "stage": 1,
+    "context": "派手な肉食恐竜"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "来た！　みんな、頼んだぞ！",
+    "translation": "来た！　みんな、頼んだぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_派手な肉食恐竜",
+    "original": "派手な肉食恐竜",
+    "translation": "派手な肉食恐竜",
+    "stage": 1,
+    "context": ""
+  }
+]

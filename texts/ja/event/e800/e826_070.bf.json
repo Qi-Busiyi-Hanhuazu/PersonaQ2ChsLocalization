@@ -1,0 +1,464 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ドキドキのアドベンチャーかと思いきや、\nまさかの切ないロマンス…",
+    "translation": "ドキドキのアドベンチャーかと思いきや、\nまさかの切ないロマンス…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "最後の５分は私、涙が止まりませんでした。",
+    "translation": "最後の５分は私、涙が止まりませんでした。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "では、こちらが今回の報酬になります。",
+    "translation": "では、こちらが今回の報酬になります。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ングマアアアアア…",
+    "translation": "ングマアアアアア…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ニャオオオオオオ…",
+    "translation": "ニャオオオオオオ…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "戻って来てからずっと\nあの調子っスよね。",
+    "translation": "戻って来てからずっと\nあの調子っスよね。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "大丈夫っスか？\nなんかシャドウ化しそうなんスけど。",
+    "translation": "大丈夫っスか？\nなんかシャドウ化しそうなんスけど。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "よくあることだ",
+    "translation": "よくあることだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "そっとしておこう",
+    "translation": "そっとしておこう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_2",
+    "original": "嫉妬はみっともない",
+    "translation": "嫉妬はみっともない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いや、相当キテるだろ、アレ。",
+    "translation": "いや、相当キテるだろ、アレ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ああ、こうなっては俺たちに\n出来ることはもうない。",
+    "translation": "ああ、こうなっては俺たちに\n出来ることはもうない。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ちょ、トドメ刺さないの！",
+    "translation": "ちょ、トドメ刺さないの！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "くっ…\nワガハイは認めん、認めんぞ。",
+    "translation": "くっ…\nワガハイは認めん、認めんぞ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "勝ちはあのイヌに持ってかれちまったが、\nアン殿の隣に座る男はワガハイだー！",
+    "translation": "勝ちはあのイヌに持ってかれちまったが、\nアン殿の隣に座る男はワガハイだー！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "なにをー！　ナンバーワンマスコットの\n座はクマのものクマー！",
+    "translation": "なにをー！　ナンバーワンマスコットの\n座はクマのものクマー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "SEL_012_0",
+    "original": "喧嘩はよせ",
+    "translation": "喧嘩はよせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_012_1",
+    "original": "拳で決めるしかない",
+    "translation": "拳で決めるしかない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "止めてくれるな！\nこうなったら、拳で語り合うまでだ！",
+    "translation": "止めてくれるな！\nこうなったら、拳で語り合うまでだ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ちょっと、煽るようなこと言わないの！",
+    "translation": "ちょっと、煽るようなこと言わないの！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "すまん、アン殿。\nしかし、止めてくれるな！",
+    "translation": "すまん、アン殿。\nしかし、止めてくれるな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "行くぞ、クマ公！",
+    "translation": "行くぞ、クマ公！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "望むところクマ！　喰らえ！\nダイナマイトアニマルチョーップ！！",
+    "translation": "望むところクマ！　喰らえ！\nダイナマイトアニマルチョーップ！！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "にゃにゃにゃにゃにゃ！",
+    "translation": "にゃにゃにゃにゃにゃ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "クママママママママ！",
+    "translation": "クママママママママ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "どちらもリーチが\n足りていないようであります。",
+    "translation": "どちらもリーチが\n足りていないようであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "不毛な戦いね…",
+    "translation": "不毛な戦いね…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "本人たちにとっては真剣な戦いだ。\n気の済むまでやらせてやろう。",
+    "translation": "本人たちにとっては真剣な戦いだ。\n気の済むまでやらせてやろう。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ああ、殴り合いの末に\n生まれる友情もある。",
+    "translation": "ああ、殴り合いの末に\n生まれる友情もある。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "クマぁ！",
+    "translation": "クマぁ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ウニャぁ！",
+    "translation": "ウニャぁ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ハァハァ…\nクマのクセになかなかやるじゃねーか…",
+    "translation": "ハァハァ…\nクマのクセになかなかやるじゃねーか…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "そっちこそ、\nいい拳持ってるクマね…",
+    "translation": "そっちこそ、\nいい拳持ってるクマね…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "コロマル？",
+    "translation": "コロマル？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "最後にお宝を見つけたのは自分だが、\nそこまで行けたのはみんなの力だ。",
+    "translation": "最後にお宝を見つけたのは自分だが、\nそこまで行けたのはみんなの力だ。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "と言っているであります。",
+    "translation": "と言っているであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "もう、わかったでしょ？\n一番なんて決めなくていいんだって。",
+    "translation": "もう、わかったでしょ？\n一番なんて決めなくていいんだって。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_031_1",
+    "original": "モルガナもクマくんも、\n大切な仲間なんだから。",
+    "translation": "モルガナもクマくんも、\n大切な仲間なんだから。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_031_2",
+    "original": "もちろん、コロマルもね。",
+    "translation": "もちろん、コロマルもね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "アン殿…",
+    "translation": "アン殿…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "すまねえ、ワガハイとしたことが\n熱くなりすぎちまったみたいだな…",
+    "translation": "すまねえ、ワガハイとしたことが\n熱くなりすぎちまったみたいだな…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "クマも、冷静になるクマー…\nごめんなさいクマ。",
+    "translation": "クマも、冷静になるクマー…\nごめんなさいクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "SEL_035_0",
+    "original": "仲直りだな",
+    "translation": "仲直りだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_035_1",
+    "original": "これからに期待だ",
+    "translation": "これからに期待だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "迷惑かけたぶんの借りは\n今後の活躍でキッチリ返すぜ。",
+    "translation": "迷惑かけたぶんの借りは\n今後の活躍でキッチリ返すぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "クマももっとがんばるクマー！",
+    "translation": "クマももっとがんばるクマー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_037_1",
+    "original": "何より、ぷりちーなクマたちが\n協力すれば無敵っちゅーワケで…",
+    "translation": "何より、ぷりちーなクマたちが\n協力すれば無敵っちゅーワケで…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_037_2",
+    "original": "マスコット同盟、ここに誕生クマー！",
+    "translation": "マスコット同盟、ここに誕生クマー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "アオーン！",
+    "translation": "アオーン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "おう！\nって、だからマスコットじゃねえよ！",
+    "translation": "おう！\nって、だからマスコットじゃねえよ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  }
+]

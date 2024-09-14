@@ -1,0 +1,191 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ターゲット、発見しました。\nこのロボットで間違いありません。",
+    "translation": "ターゲット、発見しました。\nこのロボットで間違いありません。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "えっと、外れた部品があるんでしたっけ？\nどれだろう…",
+    "translation": "えっと、外れた部品があるんでしたっけ？\nどれだろう…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "わたしが見てみます、お待ちください。",
+    "translation": "わたしが見てみます、お待ちください。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "どうやら、モータドライバが外れている\nようですね。それさえあれば修復可能です。",
+    "translation": "どうやら、モータドライバが外れている\nようですね。それさえあれば修復可能です。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "オッケー、それがあればいいんだね！\nみんなで捜してあげよ！",
+    "translation": "オッケー、それがあればいいんだね！\nみんなで捜してあげよ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "捜しものなら、コロマルの出番ですね。",
+    "translation": "捜しものなら、コロマルの出番ですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "自慢の嗅覚で必ず見つけてみせる、と\nコロマルさんが張り切っています。",
+    "translation": "自慢の嗅覚で必ず見つけてみせる、と\nコロマルさんが張り切っています。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ちょっとちょっと～！\n嗅覚ならクマも負けてないクマよ？",
+    "translation": "ちょっとちょっと～！\n嗅覚ならクマも負けてないクマよ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "クマの自慢のクマ鼻、見てみんしゃい！\nあーどれどれ、クンクン…",
+    "translation": "クマの自慢のクマ鼻、見てみんしゃい！\nあーどれどれ、クンクン…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_009_2",
+    "original": "…はっ、このニオイ！\nヨースケのポケットから匂うクマー！",
+    "translation": "…はっ、このニオイ！\nヨースケのポケットから匂うクマー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "バカ、それは俺のガムだっつーの！",
+    "translation": "バカ、それは俺のガムだっつーの！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "つうか、今回はコロマルに任せて\nお前は大人しくしてろ！",
+    "translation": "つうか、今回はコロマルに任せて\nお前は大人しくしてろ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ガビーン！！",
+    "translation": "ガビーン！！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "クンクン…",
+    "translation": "クンクン…",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "ワンッ！　ワンワン！",
+    "translation": "ワンッ！　ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "匂いを覚えたそうです。\nついて来い、と言ってるであります。",
+    "translation": "匂いを覚えたそうです。\nついて来い、と言ってるであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "さっすがコロマル！\n頼りになるね！",
+    "translation": "さっすがコロマル！\n頼りになるね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "行きましょう！",
+    "translation": "行きましょう！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  }
+]

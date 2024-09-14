@@ -1,0 +1,247 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よっし、アイツがニセモノ野郎か！\nさっさとやっちまおうぜ！",
+    "translation": "よっし、アイツがニセモノ野郎か！\nさっさとやっちまおうぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "いえ、慎重に行きましょう。\n騒ぎになると面倒です。",
+    "translation": "いえ、慎重に行きましょう。\n騒ぎになると面倒です。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "僕が行ってもう一度確かめてきます。\nここで待っていてください。",
+    "translation": "僕が行ってもう一度確かめてきます。\nここで待っていてください。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "残念ですが、ハズレですね。\n彼は本物の警官のようです。",
+    "translation": "残念ですが、ハズレですね。\n彼は本物の警官のようです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "それに、彼の証言がウソだと仮定すると\n『一人がウソ』という条件を外れてしまう。",
+    "translation": "それに、彼の証言がウソだと仮定すると\n『一人がウソ』という条件を外れてしまう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うーん、手強いな。\n名探偵への道は険しいのである。",
+    "translation": "うーん、手強いな。\n名探偵への道は険しいのである。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "どうするジョーカー。\nも一回、情報の整理してみるか？",
+    "translation": "どうするジョーカー。\nも一回、情報の整理してみるか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "もう一度頼む",
+    "translation": "もう一度頼む",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "必要ない",
+    "translation": "必要ない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "了解！　じゃあいくぞ。",
+    "translation": "了解！　じゃあいくぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そっか、次こそ本気出すんだな？",
+    "translation": "そっか、次こそ本気出すんだな？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "では、行きましょうか。\n怪しいと思う警官の元へお願いします。",
+    "translation": "では、行きましょうか。\n怪しいと思う警官の元へお願いします。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "まずは一人目の警官。",
+    "translation": "まずは一人目の警官。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "『ニセモノは１のゾロ目のナンバーの\n　パトカーに乗っている』",
+    "translation": "『ニセモノは１のゾロ目のナンバーの\n　パトカーに乗っている』",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "コイツの車のナンバーは、\n『７７－５５』だ。",
+    "translation": "コイツの車のナンバーは、\n『７７－５５』だ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "で、二人目の警官。",
+    "translation": "で、二人目の警官。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "『「７７―５５」のナンバーの警官は\n　本物の警官だ』",
+    "translation": "『「７７―５５」のナンバーの警官は\n　本物の警官だ』",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_2",
+    "original": "この警官のパトカーのナンバーは\n『１１－１０』だ。",
+    "translation": "この警官のパトカーのナンバーは\n『１１－１０』だ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "そんで次は、三人目。",
+    "translation": "そんで次は、三人目。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "『４のゾロ目のナンバーのパトカーに\n　乗っているのは本物の警官だ』",
+    "translation": "『４のゾロ目のナンバーのパトカーに\n　乗っているのは本物の警官だ』",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_010_2",
+    "original": "で、コイツの車のナンバーは、\n『１１－２２』だったな。",
+    "translation": "で、コイツの車のナンバーは、\n『１１－２２』だったな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "四人目いくぞ。",
+    "translation": "四人目いくぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "『７のゾロ目のナンバーのパトカーに\n　乗っている警官が怪しい』",
+    "translation": "『７のゾロ目のナンバーのパトカーに\n　乗っている警官が怪しい』",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_011_2",
+    "original": "パトカーのナンバーは、\n『４４－１１』だったぞ。",
+    "translation": "パトカーのナンバーは、\n『４４－１１』だったぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "じゃ五人目な。",
+    "translation": "じゃ五人目な。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "『ナンバー「１１－１０」のパトカーに\n　乗っている警官が怪しい』",
+    "translation": "『ナンバー「１１－１０」のパトカーに\n　乗っている警官が怪しい』",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_2",
+    "original": "そんでナンバーは『１１－７７』だ。\nいいななな。",
+    "translation": "そんでナンバーは『１１－７７』だ。\nいいななな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "以上である！　もう一回聞くか？",
+    "translation": "以上である！　もう一回聞くか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_014_0",
+    "original": "お願いします",
+    "translation": "お願いします",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_1",
+    "original": "もう大丈夫",
+    "translation": "もう大丈夫",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "らじゃーだ、よく聞けよ？",
+    "translation": "らじゃーだ、よく聞けよ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "よっく考えろ～。\n『一人だけがウソ』だぞ？",
+    "translation": "よっく考えろ～。\n『一人だけがウソ』だぞ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_NONE_0",
+    "original": "TEST NONE",
+    "translation": "TEST NONE",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_NEWGAME_0",
+    "original": "TEST NEWGAME",
+    "translation": "TEST NEWGAME",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_CONTINUE_0",
+    "original": "＞セーブデータをロードしました。",
+    "translation": "＞セーブデータをロードしました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_GAMEOVER_0",
+    "original": "TEST GAMEOVER",
+    "translation": "TEST GAMEOVER",
+    "stage": 1,
+    "context": ""
+  }
+]

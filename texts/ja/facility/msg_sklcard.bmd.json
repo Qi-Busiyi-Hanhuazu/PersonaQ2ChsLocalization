@@ -1,0 +1,240 @@
+[
+  {
+    "key": "sklcard_sel_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "sklcard_sel_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "sklcard_conf_0",
+    "original": "を買うの？",
+    "translation": "を買うの？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_sell_conf_0",
+    "original": "を貰っていいの？",
+    "translation": "を貰っていいの？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_sell_all_0",
+    "original": "持ってるスキルカード、\n全部貰っていいの？",
+    "translation": "持ってるスキルカード、\n全部貰っていいの？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_all_registered_0",
+    "original": "…うん、大丈夫。",
+    "translation": "…うん、大丈夫。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_all_registered_1",
+    "original": "複製できるスキルカードは、\n全部リストに載っけといたから。",
+    "translation": "複製できるスキルカードは、\n全部リストに載っけといたから。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_tutorial_0",
+    "original": "じゃあ“スキルカードの複製”の事、\n簡単に説明するね。",
+    "translation": "じゃあ“スキルカードの複製”の事、\n簡単に説明するね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_tutorial_1",
+    "original": "キミの持ってるカードを渡してくれれば、\nこっちでたくさん複製できるんだよね。",
+    "translation": "キミの持ってるカードを渡してくれれば、\nこっちでたくさん複製できるんだよね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_tutorial_2",
+    "original": "キミのスキルカードは１枚なくなるけど、\nそれからは何枚でも買えるようになるから。",
+    "translation": "キミのスキルカードは１枚なくなるけど、\nそれからは何枚でも買えるようになるから。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_tutorial_3",
+    "original": "あ、でもスキルカードの効果によって、\n値段とか違うから覚えといて。",
+    "translation": "あ、でもスキルカードの効果によって、\n値段とか違うから覚えといて。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_tutorial_4",
+    "original": "ペルソナ、強くしたかったら、\n色んなカードを複製しておいた方がいいよ。",
+    "translation": "ペルソナ、強くしたかったら、\n色んなカードを複製しておいた方がいいよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_conf_m_0",
+    "original": "をお求めになりますか？",
+    "translation": "をお求めになりますか？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "sklcard_sell_conf_m_0",
+    "original": "を頂戴して宜しいですか？",
+    "translation": "を頂戴して宜しいですか？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "sklcard_sell_all_m_0",
+    "original": "お持ちのスキルカードを、\n全て頂戴して宜しいですか？",
+    "translation": "お持ちのスキルカードを、\n全て頂戴して宜しいですか？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "sklcard_all_registered_m_0",
+    "original": "…完了でございます。",
+    "translation": "…完了でございます。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "sklcard_all_registered_m_1",
+    "original": "複製可能なスキルカードを、\n全て購入リストに登録致しました。",
+    "translation": "複製可能なスキルカードを、\n全て購入リストに登録致しました。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "skilcard_tutorial_m_0",
+    "original": "では、“スキルカードの複製”について\n簡単にご説明させていただきます。",
+    "translation": "では、“スキルカードの複製”について\n簡単にご説明させていただきます。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "skilcard_tutorial_m_1",
+    "original": "お持ちのスキルカードをお渡し頂ければ、\nこちらで複製して差し上げる事ができます。",
+    "translation": "お持ちのスキルカードをお渡し頂ければ、\nこちらで複製して差し上げる事ができます。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "skilcard_tutorial_m_2",
+    "original": "渡されたカードをお返しする事は出来ませんが、\n以後は何枚でもお求め頂けるようになります。",
+    "translation": "渡されたカードをお返しする事は出来ませんが、\n以後は何枚でもお求め頂けるようになります。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "skilcard_tutorial_m_3",
+    "original": "但し、その際はスキルカードの効果に応じた\n料金を頂戴しておりますので、ご了承下さい。",
+    "translation": "但し、その際はスキルカードの効果に応じた\n料金を頂戴しておりますので、ご了承下さい。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "skilcard_tutorial_m_4",
+    "original": "ペルソナを強化するため、様々なスキルカードを\n複製なさる事をお勧め致します。",
+    "translation": "ペルソナを強化するため、様々なスキルカードを\n複製なさる事をお勧め致します。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "sklcard_conf2_0",
+    "original": "あ…[占位B 01]を買うの？",
+    "translation": "あ…[占位B 01]を買うの？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_sell_conf2_0",
+    "original": "…[占位B 01]を貰っていいの？",
+    "translation": "…[占位B 01]を貰っていいの？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_sell_all2_0",
+    "original": "…キミの持ってるカード、\n全部、貰っていいんだよね？",
+    "translation": "…キミの持ってるカード、\n全部、貰っていいんだよね？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_all_registered2_0",
+    "original": "…終わったよ。",
+    "translation": "…終わったよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_all_registered2_1",
+    "original": "複製できるスキルカードは、\n全部リストに載っけといたから…",
+    "translation": "複製できるスキルカードは、\n全部リストに載っけといたから…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_tutorial2_0",
+    "original": "…“スキルカードの複製”の事、\n簡単に説明するね。",
+    "translation": "…“スキルカードの複製”の事、\n簡単に説明するね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_tutorial2_1",
+    "original": "キミの持ってるカード、渡してくれると、\nこっちでたくさん複製できるの。",
+    "translation": "キミの持ってるカード、渡してくれると、\nこっちでたくさん複製できるの。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_tutorial2_2",
+    "original": "…キミのスキルカードは１枚なくなるけど、\nそれからは何枚でも買えるようになるよ。",
+    "translation": "…キミのスキルカードは１枚なくなるけど、\nそれからは何枚でも買えるようになるよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_tutorial2_3",
+    "original": "後は…スキルカードの効果によって、\n買う時の値段とか違うからね。",
+    "translation": "後は…スキルカードの効果によって、\n買う時の値段とか違うからね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "sklcard_tutorial2_4",
+    "original": "…それだけ。",
+    "translation": "…それだけ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  }
+]

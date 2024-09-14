@@ -1,0 +1,205 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "上映達成でございます。\nお疲れ様でした。",
+    "translation": "上映達成でございます。\nお疲れ様でした。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "こちら報酬でございます。",
+    "translation": "こちら報酬でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "マリーのわがままに付き合ってくれて\nありがとう。私からもお礼を言うわ。",
+    "translation": "マリーのわがままに付き合ってくれて\nありがとう。私からもお礼を言うわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "ほら貴方も、\n渡すものがあるんでしょう？",
+    "translation": "ほら貴方も、\n渡すものがあるんでしょう？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あ、あのさ…これ、その…",
+    "translation": "あ、あのさ…これ、その…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "どうした？",
+    "translation": "どうした？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "何かくれるの？",
+    "translation": "何かくれるの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "べ、べべべべ別に！？",
+    "translation": "べ、べべべべ別に！？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "本当は映画の中に行ってみたかったとか\nそのお礼がしたいとかじゃないから！",
+    "translation": "本当は映画の中に行ってみたかったとか\nそのお礼がしたいとかじゃないから！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "へ！？　あ、こ、これは…その…",
+    "translation": "へ！？　あ、こ、これは…その…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "べ、別に映画の中に連れて行ってくれて\n嬉しかったお礼とかじゃないし！",
+    "translation": "べ、別に映画の中に連れて行ってくれて\n嬉しかったお礼とかじゃないし！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "…でも、付き合ってくれてありがと。\nこれ、あげる。",
+    "translation": "…でも、付き合ってくれてありがと。\nこれ、あげる。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "おお、相変わらずの見事なテンプレ…",
+    "translation": "おお、相変わらずの見事なテンプレ…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ところで、マリー。\nポエムは完成しそうか？",
+    "translation": "ところで、マリー。\nポエムは完成しそうか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "うん、もうすぐ出来そう…",
+    "translation": "うん、もうすぐ出来そう…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "って、違う！　ポエムじゃないから！\nただパトスが溢れた結果であって…",
+    "translation": "って、違う！　ポエムじゃないから！\nただパトスが溢れた結果であって…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "それを詩というんじゃないかな？",
+    "translation": "それを詩というんじゃないかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "だから違うって言ってるじゃん！\nばかきらいさいてー！",
+    "translation": "だから違うって言ってるじゃん！\nばかきらいさいてー！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "その内、完成したものがみられるかもな。",
+    "translation": "その内、完成したものがみられるかもな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_013_0",
+    "original": "楽しみだ",
+    "translation": "楽しみだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_013_1",
+    "original": "公開処刑か",
+    "translation": "公開処刑か",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ああ。",
+    "translation": "ああ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "…言ってやるな。",
+    "translation": "…言ってやるな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

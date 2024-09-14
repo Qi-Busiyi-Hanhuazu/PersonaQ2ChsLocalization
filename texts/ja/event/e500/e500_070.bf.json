@@ -1,0 +1,506 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふう…まだ先は長そうだね。\nひかりちゃん、大丈夫？　疲れてない？",
+    "translation": "ふう…まだ先は長そうだね。\nひかりちゃん、大丈夫？　疲れてない？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ありがとう、平気だよ。",
+    "translation": "ありがとう、平気だよ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "このフィルム、上を歩けば歩くほど\n気持ちが滅入りそうになってくるな。",
+    "translation": "このフィルム、上を歩けば歩くほど\n気持ちが滅入りそうになってくるな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "こんな世界が、エンリルの言っていた\n『救済』なんてな。",
+    "translation": "こんな世界が、エンリルの言っていた\n『救済』なんてな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "現実が辛いなら逃げ場を与える、か…\nそういう『救済』もあるのかもしれません。",
+    "translation": "現実が辛いなら逃げ場を与える、か…\nそういう『救済』もあるのかもしれません。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "でも、僕はそんなのお断りです。\n逃げ回ったって、結局何も解決しません。",
+    "translation": "でも、僕はそんなのお断りです。\n逃げ回ったって、結局何も解決しません。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "私も、今ならそう思える。\nみんなと同じ気持ちだよ。",
+    "translation": "私も、今ならそう思える。\nみんなと同じ気持ちだよ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "にしても、まさかナギさんがなあ～…",
+    "translation": "にしても、まさかナギさんがなあ～…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "優しくてキレーで面倒見がよくて、\nこれぞ理想のお姉様、って思ってたのに。",
+    "translation": "優しくてキレーで面倒見がよくて、\nこれぞ理想のお姉様、って思ってたのに。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うわ…そういう発言、引くんですけど。",
+    "translation": "うわ…そういう発言、引くんですけど。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "いやいや、男のロマンよ！？\n[P3名]だって分かるだろ？",
+    "translation": "いやいや、男のロマンよ！？\n[P3名]だって分かるだろ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "…え？　ごめん、聞いてなかった。",
+    "translation": "…え？　ごめん、聞いてなかった。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ちょっとちょっと、スルー！？\n発令するよ？　オレ様憐れみの令。",
+    "translation": "ちょっとちょっと、スルー！？\n発令するよ？　オレ様憐れみの令。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "オレ様憐れみの令…って？",
+    "translation": "オレ様憐れみの令…って？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "以前、順平さんから\n教わったことがあります。",
+    "translation": "以前、順平さんから\n教わったことがあります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "順平さんに対し、バッタ以下の扱いを\nしてはならない…というものです。",
+    "translation": "順平さんに対し、バッタ以下の扱いを\nしてはならない…というものです。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "あ、こっちでもそうなんだ？\n私のいる世界の順平も、同じ発令してたよ。",
+    "translation": "あ、こっちでもそうなんだ？\n私のいる世界の順平も、同じ発令してたよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "はっはっは。\nさすがはもう一人のオレっち！",
+    "translation": "はっはっは。\nさすがはもう一人のオレっち！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "いやそれ、どこでもバッタ以下の扱い\nされてるってことだろ…",
+    "translation": "いやそれ、どこでもバッタ以下の扱い\nされてるってことだろ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ヒエラルキーが垣間見えるね。",
+    "translation": "ヒエラルキーが垣間見えるね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "バッタはともかく、我々と共にいた\nナギという女性は極めて親切だった。",
+    "translation": "バッタはともかく、我々と共にいた\nナギという女性は極めて親切だった。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "あれも我々を欺くため…ということか？\nしかし、かなり回りくどい方法だが。",
+    "translation": "あれも我々を欺くため…ということか？\nしかし、かなり回りくどい方法だが。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "対峙した時も、敵意を剥き出して\nきたわけではなかったですよね。",
+    "translation": "対峙した時も、敵意を剥き出して\nきたわけではなかったですよね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "私たちのことは、見逃そうと\nしてたぐらいですし…",
+    "translation": "私たちのことは、見逃そうと\nしてたぐらいですし…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "…たぶん、あの人にはあの人なりの\n思いがあるんだと思う。",
+    "translation": "…たぶん、あの人にはあの人なりの\n思いがあるんだと思う。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだね。ひかりちゃんを救おうと\nしていたのも、嘘じゃないと思うよ。",
+    "translation": "そうだね。ひかりちゃんを救おうと\nしていたのも、嘘じゃないと思うよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "なんにせよ、俺たちは俺たちに\n出来ることをするまでだ。",
+    "translation": "なんにせよ、俺たちは俺たちに\n出来ることをするまでだ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "悪いが、『救済』とやらは\nブッ潰させてもらうぜ。",
+    "translation": "悪いが、『救済』とやらは\nブッ潰させてもらうぜ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "なら、僕らがやるべきは一つだね。",
+    "translation": "なら、僕らがやるべきは一つだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "SEL_023_0",
+    "original": "エンリルを止めよう",
+    "translation": "エンリルを止めよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_023_1",
+    "original": "人々を解放しよう",
+    "translation": "人々を解放しよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "おうよ！　怪盗団に任しとけ！",
+    "translation": "おうよ！　怪盗団に任しとけ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "特別捜査隊だって頑張るクマ！",
+    "translation": "特別捜査隊だって頑張るクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ワン、ワンッ！",
+    "translation": "ワン、ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "『Ｓ．Ｅ．Ｅ．Ｓ．もいる』と、\nコロマルさんが言っているであります。",
+    "translation": "『Ｓ．Ｅ．Ｅ．Ｓ．もいる』と、\nコロマルさんが言っているであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "…私、やっと分かったんだ。\n『仲間』ってなんなのか。",
+    "translation": "…私、やっと分かったんだ。\n『仲間』ってなんなのか。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "ただ気が合うとか、何となく楽しいとか、\nそれだけじゃないんだね。",
+    "translation": "ただ気が合うとか、何となく楽しいとか、\nそれだけじゃないんだね。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_028_2",
+    "original": "みんな、自分が目指すストーリーの結末を\nちゃんと心に描いていて…",
+    "translation": "みんな、自分が目指すストーリーの結末を\nちゃんと心に描いていて…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_028_3",
+    "original": "隣を見たら、肩を並べて\n同じ場所へ向かって歩いている人がいる。",
+    "translation": "隣を見たら、肩を並べて\n同じ場所へ向かって歩いている人がいる。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_028_4",
+    "original": "ぶつかったり、すれ違うことがあっても、\n支え合いながら一緒に前に進んでる。",
+    "translation": "ぶつかったり、すれ違うことがあっても、\n支え合いながら一緒に前に進んでる。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_028_5",
+    "original": "それが『仲間』なんだね。",
+    "translation": "それが『仲間』なんだね。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ああ、共に最後まで戦おう。",
+    "translation": "ああ、共に最後まで戦おう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "君に譲れないものがあるように、\n僕らも僕らの信念があるしね。",
+    "translation": "君に譲れないものがあるように、\n僕らも僕らの信念があるしね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "そうです。\n一緒に頑張りましょう！",
+    "translation": "そうです。\n一緒に頑張りましょう！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "なんせ『特別捜査隊』に『心の怪盗団』、\n『特別課外活動部』だぜ？",
+    "translation": "なんせ『特別捜査隊』に『心の怪盗団』、\n『特別課外活動部』だぜ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_031_1",
+    "original": "何が何だか分からない謎の集団すぎて、\n逆にスゲーよ。オールスターの感謝祭か？",
+    "translation": "何が何だか分からない謎の集団すぎて、\n逆にスゲーよ。オールスターの感謝祭か？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "…ふふっ。\nクロスオーバー映画みたいだね。",
+    "translation": "…ふふっ。\nクロスオーバー映画みたいだね。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "バッタと人間のクロスオーバー作品で\nありますか。なるほどなー。",
+    "translation": "バッタと人間のクロスオーバー作品で\nありますか。なるほどなー。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ちょっと待て！\nオレは人間サイドだよな？　な！？",
+    "translation": "ちょっと待て！\nオレは人間サイドだよな？　な！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "あーもー、うるさい。\nバッタは置いて、さっさと行こ。",
+    "translation": "あーもー、うるさい。\nバッタは置いて、さっさと行こ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "そう落ち込まないで、バッ…",
+    "translation": "そう落ち込まないで、バッ…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_036_1",
+    "original": "…伊織君。\n置いていかれないように、早く行こう？",
+    "translation": "…伊織君。\n置いていかれないように、早く行こう？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "今、言いかけちゃいました！？",
+    "translation": "今、言いかけちゃいました！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "まったく…\nいつまでやってるんだ。",
+    "translation": "まったく…\nいつまでやってるんだ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_038_1",
+    "original": "そろそろ休憩は終わりだ。\n気を引き締めなおして、出発するぞ！",
+    "translation": "そろそろ休憩は終わりだ。\n気を引き締めなおして、出発するぞ！",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  }
+]

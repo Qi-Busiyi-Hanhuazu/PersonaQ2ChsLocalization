@@ -1,0 +1,205 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ハァ？　お仕置き！？\n俺たちが何したってんだ！",
+    "translation": "啊？惩罚！？\n我们做了什么啊！",
+    "stage": 0,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n啊？惩罚！？\n我们做了什么啊！\n\n哈？惩罚！？\n我们做了什么！\n\n是吗？惩罚！？我们到底做了什么！\n\n评论：\n\n换行修改"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "こうなると、ますます\nクイーンとノワールが心配だ。",
+    "translation": "这下，我越来越\n担心QUEEN和NOIR了。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n这么一来，\n我更担心QUEEN和NOIR了。\n\n这样一来，越来越担心QUEEN和NOIR。\n\n\n这样一来，更让人担心QUEEN和NOIR。"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "ナビの呼びかけに応えなかったのも、\n恐らく捕まっていたからだろうな。",
+    "translation": "她们之所以没有回应NAVI的\n呼叫，恐怕也是因为被抓住了吧。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n她们之所以没有回应导航的呼唤，\n恐怕是因为被抓住了吧。\n\n没有回应导航的呼吁，恐怕是因为被抓住了吧。\n\n\n没有回应导航的呼唤，恐怕也是因为被抓住了吧。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "このままじゃ、二人が何されるか\n分からないよ。早く助けないと！",
+    "translation": "这样下去不知道会发生什么，\n得赶快去救她们！",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n这样下去，\n不知道她们会被怎样。得快点救出她们！\n\n这样下去的话，不知道两个人会做什么。我得快点救你！\n\n\n这样下去，不知道两个人会被干什么。还不赶快救他！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "先の話だと、『カモシダ記念広場』という\n場所にいるみたいだが…",
+    "translation": "听刚才的话，她们似乎在“鸭志田\n纪念广场”这个地方……",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n根据刚才的说明，他似乎在\n鸭志田纪念广场。\n\n刚才的话，好像在“鸭志田纪念广场”这个\n的地方……\n\n刚才说的话，好像在一个叫“鸭志田纪念广场”的地方……"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "待って。\n僕たちを誘き寄せる、罠の可能性もある。",
+    "translation": "等等。也有可能是引诱\n我们的陷阱。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n等等。\n也有可能是引诱我们过去的陷阱。\n\n等等。\n也有可能是引诱我们的陷阱。\n\n等等。也有可能是引诱我们的陷阱。"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "どうする、ジョーカー？",
+    "translation": "怎么办，JOKER？",
+    "stage": 0,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n怎么办，JOKER？\n\n怎么办，JOKER ？"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "当然行く",
+    "translation": "当然要去",
+    "stage": 0,
+    "context": "机翻辅助：\n\n当然要去\n\n当然去"
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "気をつけて行く",
+    "translation": "小心谨慎地过去",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小心地去\n\n小心去"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "訊くまでもなかったね。",
+    "translation": "看来是不用问了呢。",
+    "stage": 0,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n看来是不用问了呢。\n\n不用问了。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ナビ、記念広場の場所わからない？",
+    "translation": "NAVI，你知道纪念广场\n的位置吗？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n导航，你知道纪念广场的位置吗？\n\n导航，不知道纪念广场的位置吗？\n\n导航，你知道纪念广场在哪里吗？"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "うーん…やっぱムリっぽい…\n進んでみるしかなさそうだ。",
+    "translation": "嗯……貌似不行的样子……\n看来只能前进看看了。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n嗯……果然还是不行……\n看来只能试着前进了。\n\n嗯……果然还是不行……看来只能试着前进了。\n\n\n嗯……看来还是勉强……看来只能往前走了。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "さっきの手配書のこともある。\nワガハイたちはすでにマークされた身だ。",
+    "translation": "刚才还有通缉令，\n吾辈们已经被盯上了。",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n刚才的通缉令也说\n吾辈们已经被盯上了。\n\n还有刚才的通缉令。\n吾辈们已经是被盯梢的人了。\n\n还有刚才的安排书。\n吾辈们已经被标记了。"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "こっからは慎重に進む必要がある。\n頼むぞ、ジョーカー！",
+    "translation": "接下来必须慎重地前进。\n拜托了，JOKER！",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n接下来必须慎重地前进。\n拜托了，JOKER！\n\n今后有必要慎重地进行。\n拜托了，JOKER！\n\n从现在开始必须慎重地前进。拜托了，JOKER ！"
+  },
+  {
+    "key": "SEL_010_0",
+    "original": "わかった",
+    "translation": "知道了",
+    "stage": 0,
+    "context": "机翻辅助：\n\n知道了\n\n明白了\n\n我知道了"
+  },
+  {
+    "key": "SEL_010_1",
+    "original": "任せろ",
+    "translation": "交给我吧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n交给我吧"
+  },
+  {
+    "key": "SEL_010_2",
+    "original": "自信ない…",
+    "translation": "没自信呐……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我没自信……\n\n没有自信……"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ああ、頼りにしてるぜ。",
+    "translation": "嗯，靠你了。",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n嗯，我很信赖你哦。\n\n啊，我很依赖你。\n\n啊，我靠你了。"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "おお、頼もしいな！",
+    "translation": "哦哦，真靠得住啊！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n哦哦，真可靠啊！\n\n哦，真可靠！\n\n哦，好可靠啊！"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "弱気か！\nクイーンとノワールが待ってんだぞ！",
+    "translation": "真没用！\nQUEEN和NOIR在等着呢！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n太懦弱了吧！\nQUEEN和NOIR在等你哦！\n\n懦弱吗！\nQUEEN和NOIR在等着你哦！\n\n软弱吗！QUEEN和NOIR等着你呢！"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "心配するな。\n俺たちもついている。",
+    "translation": "别担心。\n我们也在。",
+    "stage": 0,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n别担心。\n我们也在。\n\n别担心。\n我们也跟着。\n\n别担心。我们也跟着。"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "うん、私たちなら絶対やれる。\n行こう！　二人を助けに！",
+    "translation": "嗯，我们绝对能成功。\n走吧！去救她们俩！",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n嗯，我们绝对能成功。\n走吧！去救那两个人！\n\n嗯，我们绝对能做到。\n走吧！救救两个人！\n\n嗯，我们绝对能做到。\n走吧！来救他们俩！"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "よし、怪盗団出発だ！",
+    "translation": "好，怪盗团出发！",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n好，怪盗团出发！"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

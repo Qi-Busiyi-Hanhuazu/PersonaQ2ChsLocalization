@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_DENKISAKU_SWITCH_SET_0",
+    "original": "＞電気柵のスイッチについて説明する",
+    "translation": "＞電気柵のスイッチについて説明する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_DENKISAKU_SWITCH_SET_1",
+    "original": "「スイッチONで対象の電気柵を解除できること。\n 解除後、１０歩以上歩くと閉じてしまうこと。」\nをユーザーに説明。",
+    "translation": "「スイッチONで対象の電気柵を解除できること。\n 解除後、１０歩以上歩くと閉じてしまうこと。」\nをユーザーに説明。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_FIRST_DENKISAKU_CLEA_0",
+    "original": "＞「電気柵を無事に突破したこと。」\nを伝えるイベント。",
+    "translation": "＞「電気柵を無事に突破したこと。」\nを伝えるイベント。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TIRANO_SETUMEI_01_0",
+    "original": "＞ティラノFOEについて説明する（1）",
+    "translation": "＞ティラノFOEについて説明する（1）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TIRANO_SETUMEI_01_1",
+    "original": "「ティラノFOEはプレイヤーを発見すると\n 見失うまで、追尾しつづけてくること。」\nをユーザーに説明。",
+    "translation": "「ティラノFOEはプレイヤーを発見すると\n 見失うまで、追尾しつづけてくること。」\nをユーザーに説明。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TIRANO_SETUMEI_02_0",
+    "original": "＞ティラノFOEについて説明する（2）",
+    "translation": "＞ティラノFOEについて説明する（2）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TIRANO_SETUMEI_02_1",
+    "original": "「ティラノFOEと電気柵の関係性について」\n　ユーザーに説明。",
+    "translation": "「ティラノFOEと電気柵の関係性について」\n　ユーザーに説明。",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "わっ、すごい鍵の量。",
+    "translation": "わっ、すごい鍵の量。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "話には聞いてたけど、\n厳重を通り越して異様ね…",
+    "translation": "話には聞いてたけど、\n厳重を通り越して異様ね…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああ、ワガハイのピッキングテクでも\nビクともしねえ。",
+    "translation": "ああ、ワガハイのピッキングテクでも\nビクともしねえ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "だが、これを開けられれば\n外に出られると踏んでいる。",
+    "translation": "だが、これを開けられれば\n外に出られると踏んでいる。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "本当に試されるのですか？\nもし、万が一のことがあったら…",
+    "translation": "本当に試されるのですか？\nもし、万が一のことがあったら…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "その時はその時だ。\nさあ鍵を試してくれ、[P5名]。",
+    "translation": "その時はその時だ。\nさあ鍵を試してくれ、[P5名]。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "了解だ",
+    "translation": "了解だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "怖いな…",
+    "translation": "怖いな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_2",
+    "original": "誰か開けたい人？",
+    "translation": "誰か開けたい人？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "その潔さ、さすがリーダーだ。",
+    "translation": "その潔さ、さすがリーダーだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "死なばもろともだ。",
+    "translation": "死なばもろともだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "えっ…まさか挙手制？",
+    "translation": "えっ…まさか挙手制？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "いやいやいやいや！\nここはリーダーって流れだろ！",
+    "translation": "いやいやいやいや！\nここはリーダーって流れだろ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "安心しろ。死なばもろともだ。",
+    "translation": "安心しろ。死なばもろともだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "鍵を差してみよう…",
+    "translation": "鍵を差してみよう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

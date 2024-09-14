@@ -1,0 +1,2116 @@
+[
+  {
+    "key": "BTL_MES_026_001_0",
+    "original": "この敵、手強そうですわ…",
+    "translation": "この敵、手強そうですわ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_002_0",
+    "original": "皆様のご健闘をお祈りしています。",
+    "translation": "皆様のご健闘をお祈りしています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_003_0",
+    "original": "Ｆ．Ｏ．Ｅ…\nこれは危ないわね…",
+    "translation": "Ｆ．Ｏ．Ｅ…\nこれは危ないわね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_004_0",
+    "original": "そうね、即時撤退をお勧めしますわ。",
+    "translation": "そうね、即時撤退をお勧めしますわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_005_0",
+    "original": "このＦ．Ｏ．Ｅなら…\nもう勝てるかも知れませんね。",
+    "translation": "このＦ．Ｏ．Ｅなら…\nもう勝てるかも知れませんね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_006_0",
+    "original": "敵の防御は強固です。\n何か手段を考えるのが良いかと。",
+    "translation": "敵の防御は強固です。\n何か手段を考えるのが良いかと。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_007_0",
+    "original": "大きな技を使ってきますよ。\n注意してくださいね。",
+    "translation": "大きな技を使ってきますよ。\n注意してくださいね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_008_0",
+    "original": "敵の使う物理攻撃が問題ですね…\n注意を怠りなく。",
+    "translation": "敵の使う物理攻撃が問題ですね…\n注意を怠りなく。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_009_0",
+    "original": "敵の使う魔法攻撃は厄介ですね。\nこちらの体力にご注意を。",
+    "translation": "敵の使う魔法攻撃は厄介ですね。\nこちらの体力にご注意を。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_010_0",
+    "original": "弱ると暴れるタイプですね。\n倒せるなら一息にいきましょう。",
+    "translation": "弱ると暴れるタイプですね。\n倒せるなら一息にいきましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_011_0",
+    "original": "あら…珍しい敵がいますね。",
+    "translation": "あら…珍しい敵がいますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_012_0",
+    "original": "珍しい敵に会えましたね。\nこれは逃す手はないでしょう。",
+    "translation": "珍しい敵に会えましたね。\nこれは逃す手はないでしょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_013_0",
+    "original": "全体攻撃を持つ敵のようね…",
+    "translation": "全体攻撃を持つ敵のようね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_014_0",
+    "original": "全体攻撃を使いそうですね…",
+    "translation": "全体攻撃を使いそうですね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_015_0",
+    "original": "この敵は範囲攻撃を持っています。\n防御をお忘れなく。",
+    "translation": "この敵は範囲攻撃を持っています。\n防御をお忘れなく。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_016_0",
+    "original": "範囲攻撃を使うようね…\n皆様、防御もお忘れなきよう。",
+    "translation": "範囲攻撃を使うようね…\n皆様、防御もお忘れなきよう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_017_0",
+    "original": "この敵…\n即死攻撃を使うようですわ…",
+    "translation": "この敵…\n即死攻撃を使うようですわ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_018_0",
+    "original": "即死攻撃を使うようね…\n確かに恐ろしい敵だわ。",
+    "translation": "即死攻撃を使うようね…\n確かに恐ろしい敵だわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_019_0",
+    "original": "今は属性攻撃は無意味です。\n物理攻撃に集中してください。",
+    "translation": "今は属性攻撃は無意味です。\n物理攻撃に集中してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_020_0",
+    "original": "その通りです。\n属性攻撃は効果がありませんわ。",
+    "translation": "その通りです。\n属性攻撃は効果がありませんわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_021_0",
+    "original": "次、大きな攻撃きますよ。",
+    "translation": "次、大きな攻撃きますよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_022_0",
+    "original": "しっかり防御したほうが良いかと。",
+    "translation": "しっかり防御したほうが良いかと。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_023_0",
+    "original": "これは…強敵ですね…\n皆様、ご注意下さい。",
+    "translation": "これは…強敵ですね…\n皆様、ご注意下さい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_024_0",
+    "original": "強敵のようですね…\n皆様、ご注意ください。",
+    "translation": "強敵のようですね…\n皆様、ご注意ください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_025_0",
+    "original": "データに無い敵です…\nまずは探って情報を集めるのが得策かと。",
+    "translation": "データに無い敵です…\nまずは探って情報を集めるのが得策かと。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_026_0",
+    "original": "まずは情報収集ですね。\n色々と試してみるのがよろしいかと。",
+    "translation": "まずは情報収集ですね。\n色々と試してみるのがよろしいかと。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_027_0",
+    "original": "どうやら、皆様とほぼ同格の\n敵のようですね。",
+    "translation": "どうやら、皆様とほぼ同格の\n敵のようですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_028_0",
+    "original": "ほぼ同格の相手ですね。\nとは言え、油断は禁物です。",
+    "translation": "ほぼ同格の相手ですね。\nとは言え、油断は禁物です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_029_0",
+    "original": "どうやら格下の相手…\n皆様なら楽に倒せますわ。",
+    "translation": "どうやら格下の相手…\n皆様なら楽に倒せますわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_030_0",
+    "original": "格下の相手…\n危険は少ないと存じます。",
+    "translation": "格下の相手…\n危険は少ないと存じます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_031_0",
+    "original": "敵の様子が変わりました。\n今なら弱点も突けるかと。",
+    "translation": "敵の様子が変わりました。\n今なら弱点も突けるかと。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_032_0",
+    "original": "今なら弱点を突くことも\n可能かと存じます。",
+    "translation": "今なら弱点を突くことも\n可能かと存じます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_033_0",
+    "original": "脱出ルートが見つかりません。\nここは耐えていただく他無いかと…",
+    "translation": "脱出ルートが見つかりません。\nここは耐えていただく他無いかと…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_034_0",
+    "original": "…だとすれば、今は耐えていただく他\nございません。",
+    "translation": "…だとすれば、今は耐えていただく他\nございません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_035_0",
+    "original": "Ｆ．Ｏ．Ｅが来るなんて…",
+    "translation": "Ｆ．Ｏ．Ｅが来るなんて…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_036_0",
+    "original": "戦況が変わりました。\n作戦の変更をお願いいたします！",
+    "translation": "戦況が変わりました。\n作戦の変更をお願いいたします！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_037_0",
+    "original": "残り体力にご注意くださいませ。",
+    "translation": "残り体力にご注意くださいませ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_038_0",
+    "original": "体力の消耗が激しい方がいます。\nご注意を。",
+    "translation": "体力の消耗が激しい方がいます。\nご注意を。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_039_0",
+    "original": "花村様のダメージが深刻ですね。",
+    "translation": "花村様のダメージが深刻ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_040_0",
+    "original": "里中様の体力が危険域よ。\n注意して。",
+    "translation": "里中様の体力が危険域よ。\n注意して。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_041_0",
+    "original": "天城様の残り体力に、ご注意を。",
+    "translation": "天城様の残り体力に、ご注意を。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_043_0",
+    "original": "巽様の体力が、残りわずかの様子…",
+    "translation": "巽様の体力が、残りわずかの様子…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_044_0",
+    "original": "白鐘様…体力が減りすぎていますね…",
+    "translation": "白鐘様…体力が減りすぎていますね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_045_0",
+    "original": "クマ様がボロボロだわ…\nこのままは危険ね。",
+    "translation": "クマ様がボロボロだわ…\nこのままは危険ね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_046_0",
+    "original": "岳羽様は、このままで宜しいのですか？\nかなりまずそうよ。",
+    "translation": "岳羽様は、このままで宜しいのですか？\nかなりまずそうよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_047_0",
+    "original": "このままでは、伊織様が\nやられてしまうわよ。",
+    "translation": "このままでは、伊織様が\nやられてしまうわよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_048_0",
+    "original": "真田様、相当消耗していますね…\nかなりきつそうな様子だわ。",
+    "translation": "真田様、相当消耗していますね…\nかなりきつそうな様子だわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_049_0",
+    "original": "ご注意下さいませ。\n桐条様の残り体力が僅かです。",
+    "translation": "ご注意下さいませ。\n桐条様の残り体力が僅かです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_051_0",
+    "original": "アイギス様にご注意下さい。\nこのままでは倒れてしまうわよ。",
+    "translation": "アイギス様にご注意下さい。\nこのままでは倒れてしまうわよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_052_0",
+    "original": "天田様、このままでは危険ですわ。",
+    "translation": "天田様、このままでは危険ですわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_053_0",
+    "original": "コロマル様の体力にご注意を。",
+    "translation": "コロマル様の体力にご注意を。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_054_0",
+    "original": "荒垣様の体力、心配ですね。",
+    "translation": "荒垣様の体力、心配ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_055_0",
+    "original": "体力が残りわずかの方が\nいらっしゃいます。",
+    "translation": "体力が残りわずかの方が\nいらっしゃいます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_056_0",
+    "original": "ご注意下さい！\nダメージの深刻な方がいらっしゃいます。",
+    "translation": "ご注意下さい！\nダメージの深刻な方がいらっしゃいます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_057_0",
+    "original": "坂本様…このままでは危険ですね…",
+    "translation": "坂本様…このままでは危険ですね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_058_0",
+    "original": "高巻様の体力に、ご注意を\nこのままでは危険かと。",
+    "translation": "高巻様の体力に、ご注意を\nこのままでは危険かと。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_059_0",
+    "original": "モルガナは、\nこのままで大丈夫でしょうか…",
+    "translation": "モルガナは、\nこのままで大丈夫でしょうか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_060_0",
+    "original": "喜多川様のダメージが深刻そうね。",
+    "translation": "喜多川様のダメージが深刻そうね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_061_0",
+    "original": "新島様が危険な状態かと…",
+    "translation": "新島様が危険な状態かと…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_063_0",
+    "original": "奥村様の体力にお気をつけ下さい。",
+    "translation": "奥村様の体力にお気をつけ下さい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_064_0",
+    "original": "明智様が倒れそうですが…\nどうされるのかしら？",
+    "translation": "明智様が倒れそうですが…\nどうされるのかしら？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_065_0",
+    "original": "そうね…まずは体力の回復を\n優先されるべきかと存じます。",
+    "translation": "そうね…まずは体力の回復を\n優先されるべきかと存じます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_066_0",
+    "original": "あら…石になってる方がいますわ…",
+    "translation": "あら…石になってる方がいますわ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_067_0",
+    "original": "呪いを受けた方がおられます…",
+    "translation": "呪いを受けた方がおられます…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_068_0",
+    "original": "毒を受けた方がおられます…",
+    "translation": "毒を受けた方がおられます…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_069_0",
+    "original": "眠りについてしまったのね…\nこのままでは危険だわ。",
+    "translation": "眠りについてしまったのね…\nこのままでは危険だわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_070_0",
+    "original": "混乱してる方がいらっしゃいます。\nご注意下さい。",
+    "translation": "混乱してる方がいらっしゃいます。\nご注意下さい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_071_0",
+    "original": "麻痺してる方がおられます…\nちゃんと動けるかしら…",
+    "translation": "麻痺してる方がおられます…\nちゃんと動けるかしら…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_072_0",
+    "original": "気絶してる方がおられます…",
+    "translation": "気絶してる方がおられます…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_073_0",
+    "original": "魔封じを受けている方がおられます…",
+    "translation": "魔封じを受けている方がおられます…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_074_0",
+    "original": "力を封じられている方がおられます…",
+    "translation": "力を封じられている方がおられます…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_075_0",
+    "original": "素早さを封じられた方がおられます…",
+    "translation": "素早さを封じられた方がおられます…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_076_0",
+    "original": "回復手段をお持ちの方はいますか？\n放っておいては危険です。",
+    "translation": "回復手段をお持ちの方はいますか？\n放っておいては危険です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_077_0",
+    "original": "物理に弱い敵がいますわ。",
+    "translation": "物理に弱い敵がいますわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_078_0",
+    "original": "火炎が弱点の敵がいますわ。",
+    "translation": "火炎が弱点の敵がいますわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_079_0",
+    "original": "あの敵は氷結が弱点のようですわ。",
+    "translation": "あの敵は氷結が弱点のようですわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_080_0",
+    "original": "疾風属性が弱点の敵がいますわ。",
+    "translation": "疾風属性が弱点の敵がいますわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_081_0",
+    "original": "あの敵は電撃属性が弱点ですわ。",
+    "translation": "あの敵は電撃属性が弱点ですわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_082_0",
+    "original": "弱点を狙うならば\n核熱属性が有効かと…",
+    "translation": "弱点を狙うならば\n核熱属性が有効かと…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_083_0",
+    "original": "あの敵は念動に弱いようですわ。",
+    "translation": "あの敵は念動に弱いようですわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_084_0",
+    "original": "祝福属性が弱点の敵がいますわ。",
+    "translation": "祝福属性が弱点の敵がいますわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_085_0",
+    "original": "呪怨属性を弱点とする敵がいますわ。",
+    "translation": "呪怨属性を弱点とする敵がいますわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_086_0",
+    "original": "あの敵は物理属性が苦手のようですわ…",
+    "translation": "あの敵は物理属性が苦手のようですわ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_087_0",
+    "original": "あの敵は火炎属性が弱点のようですわ。",
+    "translation": "あの敵は火炎属性が弱点のようですわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_088_0",
+    "original": "氷結属性なら弱点が突けそうですわ。",
+    "translation": "氷結属性なら弱点が突けそうですわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_089_0",
+    "original": "この相手なら疾風属性が有利かと。",
+    "translation": "この相手なら疾風属性が有利かと。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_090_0",
+    "original": "電撃が弱点の敵がいますわ。",
+    "translation": "電撃が弱点の敵がいますわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_091_0",
+    "original": "弱点を突くならば、\n核熱属性の技をお勧めいたします。",
+    "translation": "弱点を突くならば、\n核熱属性の技をお勧めいたします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_092_0",
+    "original": "念動属性が弱点の敵がいますわ…",
+    "translation": "念動属性が弱点の敵がいますわ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_093_0",
+    "original": "祝福属性の技はお持ちでしょうか？\nそれに弱い敵がおります。",
+    "translation": "祝福属性の技はお持ちでしょうか？\nそれに弱い敵がおります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_094_0",
+    "original": "あの敵は呪怨属性が弱点のようですわ。",
+    "translation": "あの敵は呪怨属性が弱点のようですわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_095_0",
+    "original": "ではここは、おにいちゃんの出番…\n…という事でよろしいかしら？",
+    "translation": "ではここは、おにいちゃんの出番…\n…という事でよろしいかしら？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_096_0",
+    "original": "フフ…それが分かれば\n勝ったも同然だわ。",
+    "translation": "フフ…それが分かれば\n勝ったも同然だわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_097_0",
+    "original": "…というわけです。花村様、\nいい所を見せてみては？",
+    "translation": "…というわけです。花村様、\nいい所を見せてみては？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_098_0",
+    "original": "…なるほど。\n里中様、聞こえましたかしら？",
+    "translation": "…なるほど。\n里中様、聞こえましたかしら？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_099_0",
+    "original": "つまり…天城様に打ってつけのお相手…\nということかしら？",
+    "translation": "つまり…天城様に打ってつけのお相手…\nということかしら？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_101_0",
+    "original": "あら…だったら巽様には\nちょうど良いお相手かも知れませんわ。",
+    "translation": "あら…だったら巽様には\nちょうど良いお相手かも知れませんわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_102_0",
+    "original": "もしかしたら白鐘様の大活躍が\n見られるかもしれませんね。",
+    "translation": "もしかしたら白鐘様の大活躍が\n見られるかもしれませんね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_103_0",
+    "original": "では、クマ様に頑張って頂こうかしら？\nフフフ…",
+    "translation": "では、クマ様に頑張って頂こうかしら？\nフフフ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_104_0",
+    "original": "どうやらここは、岳羽様の\n出番かと存じます。",
+    "translation": "どうやらここは、岳羽様の\n出番かと存じます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_105_0",
+    "original": "きっと、伊織様なら\n皆さまの期待に応えて下さるはず…",
+    "translation": "きっと、伊織様なら\n皆さまの期待に応えて下さるはず…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_106_0",
+    "original": "だとすれば…\nここは真田様でしょうか？",
+    "translation": "だとすれば…\nここは真田様でしょうか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_107_0",
+    "original": "桐条様のご活躍\n心より期待しております。",
+    "translation": "桐条様のご活躍\n心より期待しております。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_109_0",
+    "original": "そういう相手なら、アイギス様が\n適任かと存じます。",
+    "translation": "そういう相手なら、アイギス様が\n適任かと存じます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_110_0",
+    "original": "是非、天田様のお力を\n拝見したく存じます。",
+    "translation": "是非、天田様のお力を\n拝見したく存じます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_111_0",
+    "original": "つまり…コロマル様には\nピッタリのお相手という事かしら。",
+    "translation": "つまり…コロマル様には\nピッタリのお相手という事かしら。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_112_0",
+    "original": "荒垣様、いかがでしょうか？\n出番かと思いますが。",
+    "translation": "荒垣様、いかがでしょうか？\n出番かと思いますが。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_113_0",
+    "original": "では、そこを突くのが定石かしらね\n皆様、よろしくお願いしますわ。",
+    "translation": "では、そこを突くのが定石かしらね\n皆様、よろしくお願いしますわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_114_0",
+    "original": "…となると、狙うはそこね。",
+    "translation": "…となると、狙うはそこね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_115_0",
+    "original": "…だそうですわ。\n坂本様、いかがでしょう？",
+    "translation": "…だそうですわ。\n坂本様、いかがでしょう？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_116_0",
+    "original": "なるほど…となれば、\nここは高巻様の出番かしら。",
+    "translation": "なるほど…となれば、\nここは高巻様の出番かしら。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_117_0",
+    "original": "…だそうです。\nモルガナ、いかがかしら？",
+    "translation": "…だそうです。\nモルガナ、いかがかしら？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_118_0",
+    "original": "大丈夫。喜多川様ならきっと、\nバッチリ決めるはずです。",
+    "translation": "大丈夫。喜多川様ならきっと、\nバッチリ決めるはずです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_119_0",
+    "original": "ここはひとつ、新島様に\nなんとかしていただけないかしら…",
+    "translation": "ここはひとつ、新島様に\nなんとかしていただけないかしら…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_121_0",
+    "original": "あら偶然ね。それって奥村様の\n得意分野ではなかったかしら…",
+    "translation": "あら偶然ね。それって奥村様の\n得意分野ではなかったかしら…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_122_0",
+    "original": "では、ここは満を持して…\n明智様の出番ですわね。",
+    "translation": "では、ここは満を持して…\n明智様の出番ですわね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_123_0",
+    "original": "順調なようですわ…",
+    "translation": "順調なようですわ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_124_0",
+    "original": "まだ敵が残っているわね…",
+    "translation": "まだ敵が残っているわね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_125_0",
+    "original": "少しは動揺したらどうよー？\n…今のは１０点かしら。",
+    "translation": "少しは動揺したらどうよー？\n…今のは１０点かしら。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_126_0",
+    "original": "まだ心配ないわ、\nでも油断しないことね。",
+    "translation": "まだ心配ないわ、\nでも油断しないことね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_127_0",
+    "original": "バトンタッチしてはいかがでしょう？\n弱点も狙えるのでは？",
+    "translation": "バトンタッチしてはいかがでしょう？\n弱点も狙えるのでは？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_128_0",
+    "original": "バトンタッチすれば\n弱点も狙えそうですわ。",
+    "translation": "バトンタッチすれば\n弱点も狙えそうですわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_129_0",
+    "original": "どうやら、ブーストが\nかかったようですね…",
+    "translation": "どうやら、ブーストが\nかかったようですね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_130_0",
+    "original": "ブーストがかかっている方が\nいらっしゃいますね…",
+    "translation": "ブーストがかかっている方が\nいらっしゃいますね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_131_0",
+    "original": "花村様、ブーストがかかってますわね。",
+    "translation": "花村様、ブーストがかかってますわね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_132_0",
+    "original": "里中様にブーストがかかったようですわ。",
+    "translation": "里中様にブーストがかかったようですわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_133_0",
+    "original": "天城様がブースト状態ですわ。",
+    "translation": "天城様がブースト状態ですわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_135_0",
+    "original": "巽様、ブーストがかかってますわね。",
+    "translation": "巽様、ブーストがかかってますわね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_136_0",
+    "original": "白鐘様がブースト状態ですわ。",
+    "translation": "白鐘様がブースト状態ですわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_137_0",
+    "original": "クマ様にブーストがかかったようね。",
+    "translation": "クマ様にブーストがかかったようね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_138_0",
+    "original": "岳羽様にブーストがかかってますわ。",
+    "translation": "岳羽様にブーストがかかってますわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_139_0",
+    "original": "伊織様がブーストですね。",
+    "translation": "伊織様がブーストですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_140_0",
+    "original": "フフ…真田様はブーストで\nさらにみなぎっていらっしゃる様子…",
+    "translation": "フフ…真田様はブーストで\nさらにみなぎっていらっしゃる様子…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_141_0",
+    "original": "あら…桐条様、ブーストですね。",
+    "translation": "あら…桐条様、ブーストですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_143_0",
+    "original": "あら、アイギス様が\nブースト状態ですわ。",
+    "translation": "あら、アイギス様が\nブースト状態ですわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_144_0",
+    "original": "天田様にブーストがかかってます\n期待いたしましょう。",
+    "translation": "天田様にブーストがかかってます\n期待いたしましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_145_0",
+    "original": "コロマル様がブーストしてますわ。",
+    "translation": "コロマル様がブーストしてますわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_146_0",
+    "original": "荒垣様がブースト状態ですね\nフフ…どうなるかしら？",
+    "translation": "荒垣様がブースト状態ですね\nフフ…どうなるかしら？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_147_0",
+    "original": "あら、ブースト状態の方がいる様子…\n更なる力に期待しましょう。",
+    "translation": "あら、ブースト状態の方がいる様子…\n更なる力に期待しましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_148_0",
+    "original": "あら…ブーストしてる方が\nいらっしゃいますね。",
+    "translation": "あら…ブーストしてる方が\nいらっしゃいますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_149_0",
+    "original": "坂本様がブーストしてますわね。",
+    "translation": "坂本様がブーストしてますわね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_150_0",
+    "original": "高巻様、ブーストがかかりましたわね。",
+    "translation": "高巻様、ブーストがかかりましたわね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_151_0",
+    "original": "モルガナにブーストがかかってますわ。\nフフ…やっておしまいなさい。",
+    "translation": "モルガナにブーストがかかってますわ。\nフフ…やっておしまいなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_152_0",
+    "original": "喜多川様がブースト状態です。\n期待できそうですわ。",
+    "translation": "喜多川様がブースト状態です。\n期待できそうですわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_153_0",
+    "original": "新島様がブースト状態です。",
+    "translation": "新島様がブースト状態です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_155_0",
+    "original": "奥村様がブーストですね。",
+    "translation": "奥村様がブーストですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_156_0",
+    "original": "明智様がブーストですね。\n思う存分、ふるってください。",
+    "translation": "明智様がブーストですね。\n思う存分、ふるってください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_157_0",
+    "original": "そのまま弱点も狙えそうですわ。\nこのチャンス、逃す手はないかと。",
+    "translation": "そのまま弱点も狙えそうですわ。\nこのチャンス、逃す手はないかと。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_158_0",
+    "original": "今なら弱点も狙えそうですわ。\nどういたしますか？",
+    "translation": "今なら弱点も狙えそうですわ。\nどういたしますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_159_0",
+    "original": "サポート準備が整いましたわ。\nいつでもご利用頂けます。",
+    "translation": "サポート準備が整いましたわ。\nいつでもご利用頂けます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_160_0",
+    "original": "サポートの準備はできています。\nご利用されるのも良いかと。",
+    "translation": "サポートの準備はできています。\nご利用されるのも良いかと。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_161_0",
+    "original": "うう…菜々子…このてきこわいよ…",
+    "translation": "うう…菜々子…このてきこわいよ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_162_0",
+    "original": "みんなー！　がんばってー！",
+    "translation": "みんなー！　がんばってー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_163_0",
+    "original": "あぁっ、エフ…なんとかだ！",
+    "translation": "あぁっ、エフ…なんとかだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_164_0",
+    "original": "みんなー！　にげてー！",
+    "translation": "みんなー！　にげてー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_165_0",
+    "original": "あっ、エフ…\nえへへ…忘れちゃった。",
+    "translation": "あっ、エフ…\nえへへ…忘れちゃった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_166_0",
+    "original": "あのてき固そうだね。\nちゃんとたたかえるかな？",
+    "translation": "あのてき固そうだね。\nちゃんとたたかえるかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_167_0",
+    "original": "すごいこうげきしてきそう。\n気をつけてね。",
+    "translation": "すごいこうげきしてきそう。\n気をつけてね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_168_0",
+    "original": "ぶつり…こうげきがとくいなんだって。\n気をつけてね。",
+    "translation": "ぶつり…こうげきがとくいなんだって。\n気をつけてね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_169_0",
+    "original": "まほうつかうみたいだよ。\nへんなまほうだとこわいよね？",
+    "translation": "まほうつかうみたいだよ。\nへんなまほうだとこわいよね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_170_0",
+    "original": "よわったらあばれるんだって。\nあばれる前になんとかしないと…",
+    "translation": "よわったらあばれるんだって。\nあばれる前になんとかしないと…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_171_0",
+    "original": "あ、キラキラしてるよ。\nキレイだね！",
+    "translation": "あ、キラキラしてるよ。\nキレイだね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_172_0",
+    "original": "すごい！　キラキラしてる！",
+    "translation": "すごい！　キラキラしてる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_173_0",
+    "original": "な、なんだか、\nこのてきつよそうだよ…",
+    "translation": "な、なんだか、\nこのてきつよそうだよ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_174_0",
+    "original": "それって、あぶないの…？",
+    "translation": "それって、あぶないの…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_175_0",
+    "original": "な、なんだかつよそうだよ…\nみんな、だいじょうぶ？",
+    "translation": "な、なんだかつよそうだよ…\nみんな、だいじょうぶ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_176_0",
+    "original": "うん！　菜々子も忘れない！",
+    "translation": "うん！　菜々子も忘れない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_177_0",
+    "original": "菜々子…なんだかこわいよ…",
+    "translation": "菜々子…なんだかこわいよ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_178_0",
+    "original": "ええと…それってどういうこと？",
+    "translation": "ええと…それってどういうこと？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_179_0",
+    "original": "えっとね…今はぶつり？\nじゃないとダメだって！",
+    "translation": "えっとね…今はぶつり？\nじゃないとダメだって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_180_0",
+    "original": "えっとね…菜々子、\nよくわかんないけどおうえんする！",
+    "translation": "えっとね…菜々子、\nよくわかんないけどおうえんする！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_181_0",
+    "original": "つぎ、すごいのくるみたい！",
+    "translation": "つぎ、すごいのくるみたい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_182_0",
+    "original": "ちゃんとまもってね！　絶対だよ！",
+    "translation": "ちゃんとまもってね！　絶対だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_183_0",
+    "original": "わわ…つよそうだよ！",
+    "translation": "わわ…つよそうだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_184_0",
+    "original": "あ、あのね！\nあぶなかったら、にげなきゃダメだよ！",
+    "translation": "あ、あのね！\nあぶなかったら、にげなきゃダメだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_185_0",
+    "original": "えっと…このてき、はじめて見るね。",
+    "translation": "えっと…このてき、はじめて見るね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_186_0",
+    "original": "いろいろ、ためすといいんだって！",
+    "translation": "いろいろ、ためすといいんだって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_187_0",
+    "original": "あ！　てきが来たよ！",
+    "translation": "あ！　てきが来たよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_188_0",
+    "original": "で、でも、気をつけてね！",
+    "translation": "で、でも、気をつけてね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_189_0",
+    "original": "このてきは、もうへーきだね！",
+    "translation": "このてきは、もうへーきだね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_190_0",
+    "original": "でもね、気をつけなきゃダメだよ！",
+    "translation": "でもね、気をつけなきゃダメだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_191_0",
+    "original": "えっと、あのてき…\nさっきとちがう感じがする…",
+    "translation": "えっと、あのてき…\nさっきとちがう感じがする…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_192_0",
+    "original": "うん！　今ならだいじょうぶだよ！",
+    "translation": "うん！　今ならだいじょうぶだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_193_0",
+    "original": "ダメ…にげ道、どこにもないよ！",
+    "translation": "ダメ…にげ道、どこにもないよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_194_0",
+    "original": "えっ！？　ど、どうしよう…",
+    "translation": "えっ！？　ど、どうしよう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_195_0",
+    "original": "わ！　こわいのが来ちゃったよ！",
+    "translation": "わ！　こわいのが来ちゃったよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_196_0",
+    "original": "うう…どうしたらいいの？",
+    "translation": "うう…どうしたらいいの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_197_0",
+    "original": "あっ！\nおにいちゃんのケガ、たいへんだよ！",
+    "translation": "あっ！\nおにいちゃんのケガ、たいへんだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_198_0",
+    "original": "ケガしてる人いるよ！　どうしよう！",
+    "translation": "ケガしてる人いるよ！　どうしよう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_199_0",
+    "original": "陽介おにいちゃん、どうしたの？",
+    "translation": "陽介おにいちゃん、どうしたの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_200_0",
+    "original": "千枝おねえちゃん、すごくつらそう…",
+    "translation": "千枝おねえちゃん、すごくつらそう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_201_0",
+    "original": "雪子おねえちゃん、フラフラしてるよ！",
+    "translation": "雪子おねえちゃん、フラフラしてるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_203_0",
+    "original": "完二おにいちゃん、くるしそうだよ！",
+    "translation": "完二おにいちゃん、くるしそうだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_204_0",
+    "original": "直斗おねえちゃん、くるしそうだよ…",
+    "translation": "直斗おねえちゃん、くるしそうだよ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_205_0",
+    "original": "クマさん！　だいじょうぶ！？",
+    "translation": "クマさん！　だいじょうぶ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_206_0",
+    "original": "ゆかりおねえちゃん、元気ないよ。",
+    "translation": "ゆかりおねえちゃん、元気ないよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_207_0",
+    "original": "順平おにいちゃん、だいじょうぶ？",
+    "translation": "順平おにいちゃん、だいじょうぶ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_208_0",
+    "original": "真田おにいちゃん、くるしそうだよ！",
+    "translation": "真田おにいちゃん、くるしそうだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_209_0",
+    "original": "美鶴おねえちゃん、つらそうにしてる…",
+    "translation": "美鶴おねえちゃん、つらそうにしてる…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_211_0",
+    "original": "アイギスおねえちゃん、\nぐったりしてる…",
+    "translation": "アイギスおねえちゃん、\nぐったりしてる…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_212_0",
+    "original": "乾くん、いたいの…？",
+    "translation": "乾くん、いたいの…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_213_0",
+    "original": "ああ！　コロちゃんが！！",
+    "translation": "ああ！　コロちゃんが！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_214_0",
+    "original": "荒垣おにいちゃん、ケガしてる…",
+    "translation": "荒垣おにいちゃん、ケガしてる…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_215_0",
+    "original": "たいへん！　フラフラの人がいるよ！",
+    "translation": "たいへん！　フラフラの人がいるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_216_0",
+    "original": "うわっ、ケガひどい人がいるよ！\nあぶないよ！",
+    "translation": "うわっ、ケガひどい人がいるよ！\nあぶないよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_217_0",
+    "original": "竜司おにいちゃん、いたそうだよ…",
+    "translation": "竜司おにいちゃん、いたそうだよ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_218_0",
+    "original": "杏おねえちゃん、だいじょうぶ！？",
+    "translation": "杏おねえちゃん、だいじょうぶ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_219_0",
+    "original": "あ！　モナちゃんのケガひどいよ！",
+    "translation": "あ！　モナちゃんのケガひどいよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_220_0",
+    "original": "祐介おにいちゃん、フラフラしてるよ！",
+    "translation": "祐介おにいちゃん、フラフラしてるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_221_0",
+    "original": "真おねえちゃん、すごくいたそう…",
+    "translation": "真おねえちゃん、すごくいたそう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_223_0",
+    "original": "春おねえちゃん、しっかり！",
+    "translation": "春おねえちゃん、しっかり！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_224_0",
+    "original": "吾郎おにいちゃん、くるしそうだよ…",
+    "translation": "吾郎おにいちゃん、くるしそうだよ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_225_0",
+    "original": "おねがい、はやくたすけてあげて！",
+    "translation": "おねがい、はやくたすけてあげて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_226_0",
+    "original": "あっ、石になっちゃったよ！",
+    "translation": "あっ、石になっちゃったよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_227_0",
+    "original": "のろわれちゃったの？\nどうすれば、たすかるの？",
+    "translation": "のろわれちゃったの？\nどうすれば、たすかるの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_228_0",
+    "original": "あ！　毒でいたい人がいるよ！",
+    "translation": "あ！　毒でいたい人がいるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_229_0",
+    "original": "寝ちゃだめだよ！　おきてー！",
+    "translation": "寝ちゃだめだよ！　おきてー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_230_0",
+    "original": "なんか、いつもとちがうよ…\nどうしちゃったの？",
+    "translation": "なんか、いつもとちがうよ…\nどうしちゃったの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_231_0",
+    "original": "あ！　ビリビリしてる人いるよ！",
+    "translation": "あ！　ビリビリしてる人いるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_232_0",
+    "original": "きぜつしちゃったの…？\nしっかりして！",
+    "translation": "きぜつしちゃったの…？\nしっかりして！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_233_0",
+    "original": "まほう、つかえないみたいだよ！",
+    "translation": "まほう、つかえないみたいだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_234_0",
+    "original": "えっと…\n力がふうじられてるんだって。",
+    "translation": "えっと…\n力がふうじられてるんだって。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_235_0",
+    "original": "うごき、おそくなっちゃったよ。",
+    "translation": "うごき、おそくなっちゃったよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_236_0",
+    "original": "たいへんだよ！\nどうにかしないと！",
+    "translation": "たいへんだよ！\nどうにかしないと！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_237_0",
+    "original": "あのてきはね…ぶつり？\n…がにがてなんだって！",
+    "translation": "あのてきはね…ぶつり？\n…がにがてなんだって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_238_0",
+    "original": "あのてき、あついのきらいなんだって。",
+    "translation": "あのてき、あついのきらいなんだって。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_239_0",
+    "original": "あのてきは、さむいのが\nいやみたいだよ！",
+    "translation": "あのてきは、さむいのが\nいやみたいだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_240_0",
+    "original": "あのてきは、\nつよい風によわいみたいだよ！",
+    "translation": "あのてきは、\nつよい風によわいみたいだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_241_0",
+    "original": "あのてきはね、ビリビリのでんきが\nきらいみたいだよ！",
+    "translation": "あのてきはね、ビリビリのでんきが\nきらいみたいだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_242_0",
+    "original": "あのてきはね、か…くね…つ…\nそれが、きらいなんだって！",
+    "translation": "あのてきはね、か…くね…つ…\nそれが、きらいなんだって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_243_0",
+    "original": "あのてきはね、ねんどう…？\nそれが、にがてなんだって！",
+    "translation": "あのてきはね、ねんどう…？\nそれが、にがてなんだって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_244_0",
+    "original": "あのてきは、しゅくふくが\nじゃくてんなんだって！",
+    "translation": "あのてきは、しゅくふくが\nじゃくてんなんだって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_245_0",
+    "original": "じゅおん…？　よくわからないけど、\nあのてき、きらいなんだって！",
+    "translation": "じゅおん…？　よくわからないけど、\nあのてき、きらいなんだって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_246_0",
+    "original": "あ、ぶつり？　…がきらいなてきが\nいるみたいだよ！",
+    "translation": "あ、ぶつり？　…がきらいなてきが\nいるみたいだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_247_0",
+    "original": "あつがりのてきがいるよ！\nあつくしたら、にげるかな？",
+    "translation": "あつがりのてきがいるよ！\nあつくしたら、にげるかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_248_0",
+    "original": "あのてきは…えっと、\nさむいのがダメみたい！",
+    "translation": "あのてきは…えっと、\nさむいのがダメみたい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_249_0",
+    "original": "あのてきは、風がいやなんだって。",
+    "translation": "あのてきは、風がいやなんだって。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_250_0",
+    "original": "たしかあのてきは…\nでんきがキライだったよ！",
+    "translation": "たしかあのてきは…\nでんきがキライだったよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_251_0",
+    "original": "あのてきはね、かく…ねつ…？\nそれがよわいんだって！",
+    "translation": "あのてきはね、かく…ねつ…？\nそれがよわいんだって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_252_0",
+    "original": "ねんどう…ってなに？\nあのてき、それがきらいなんだよね？",
+    "translation": "ねんどう…ってなに？\nあのてき、それがきらいなんだよね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_253_0",
+    "original": "あ、しゅくふくがきらいなてきだよ！\n菜々子、おぼえた！",
+    "translation": "あ、しゅくふくがきらいなてきだよ！\n菜々子、おぼえた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_254_0",
+    "original": "あのてきは、じゅおん…っていうのが\nにがてなんだよ！",
+    "translation": "あのてきは、じゅおん…っていうのが\nにがてなんだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_255_0",
+    "original": "おにいちゃんーがんばれー！",
+    "translation": "おにいちゃんーがんばれー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_256_0",
+    "original": "菜々子も、おうえんがんばるね！",
+    "translation": "菜々子も、おうえんがんばるね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_257_0",
+    "original": "陽介おにいちゃん、\nジュネスぱわーで、かてるよね？",
+    "translation": "陽介おにいちゃん、\nジュネスぱわーで、かてるよね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_258_0",
+    "original": "千枝おねえちゃん、がんばってね！",
+    "translation": "千枝おねえちゃん、がんばってね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_259_0",
+    "original": "雪子おねえちゃん、がんばってね！",
+    "translation": "雪子おねえちゃん、がんばってね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_261_0",
+    "original": "完二おにいちゃん、\nおうえんしてるね！",
+    "translation": "完二おにいちゃん、\nおうえんしてるね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_262_0",
+    "original": "直斗おねえちゃん、がんばれー！",
+    "translation": "直斗おねえちゃん、がんばれー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_263_0",
+    "original": "クマさん、がんばってね！",
+    "translation": "クマさん、がんばってね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_264_0",
+    "original": "ゆかりおねえちゃん、がんばってー！",
+    "translation": "ゆかりおねえちゃん、がんばってー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_265_0",
+    "original": "順平おにいちゃん、がんばって！",
+    "translation": "順平おにいちゃん、がんばって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_266_0",
+    "original": "真田おにいちゃん、がんばってねー！",
+    "translation": "真田おにいちゃん、がんばってねー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_267_0",
+    "original": "美鶴おねえちゃん、まけないでね！",
+    "translation": "美鶴おねえちゃん、まけないでね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_269_0",
+    "original": "アイギスおねえちゃん、がんばれー！",
+    "translation": "アイギスおねえちゃん、がんばれー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_270_0",
+    "original": "乾くん、菜々子おうえんするね！",
+    "translation": "乾くん、菜々子おうえんするね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_271_0",
+    "original": "コロちゃん、がんばれー！",
+    "translation": "コロちゃん、がんばれー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_272_0",
+    "original": "荒垣おにいちゃん、がんばってね！",
+    "translation": "荒垣おにいちゃん、がんばってね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_273_0",
+    "original": "みんな、まけないでね！",
+    "translation": "みんな、まけないでね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_274_0",
+    "original": "菜々子、がんばっておうえんするね！",
+    "translation": "菜々子、がんばっておうえんするね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_275_0",
+    "original": "竜司おにいちゃん、がんばれー！",
+    "translation": "竜司おにいちゃん、がんばれー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_276_0",
+    "original": "杏おねえちゃん、がんばってー！",
+    "translation": "杏おねえちゃん、がんばってー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_277_0",
+    "original": "モナちゃん、がんばってー！",
+    "translation": "モナちゃん、がんばってー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_278_0",
+    "original": "菜々子、祐介おにいちゃん\nおうえんするね！",
+    "translation": "菜々子、祐介おにいちゃん\nおうえんするね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_279_0",
+    "original": "真おねえちゃん、がんばってー！",
+    "translation": "真おねえちゃん、がんばってー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_281_0",
+    "original": "菜々子、春おねえちゃん\nおうえんしてるよ！",
+    "translation": "菜々子、春おねえちゃん\nおうえんしてるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_282_0",
+    "original": "吾郎おにいちゃん、がんばれー！",
+    "translation": "吾郎おにいちゃん、がんばれー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_283_0",
+    "original": "みんな、つよいね！",
+    "translation": "みんな、つよいね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_284_0",
+    "original": "みんな、がんばってるね！",
+    "translation": "みんな、がんばってるね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_285_0",
+    "original": "うん！　みんなすごいね！",
+    "translation": "うん！　みんなすごいね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_286_0",
+    "original": "みんななら、ぜったいにかてるよ！",
+    "translation": "みんななら、ぜったいにかてるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_287_0",
+    "original": "あ！　こうたいできるよ！",
+    "translation": "あ！　こうたいできるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_288_0",
+    "original": "うん、菜々子さんせー！",
+    "translation": "うん、菜々子さんせー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_289_0",
+    "original": "わあ、すごーい！\nおにいちゃんがブーストしてるよ！",
+    "translation": "わあ、すごーい！\nおにいちゃんがブーストしてるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_290_0",
+    "original": "すごーい！　ブーストしてる！",
+    "translation": "すごーい！　ブーストしてる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_291_0",
+    "original": "あっ！\n陽介おにいちゃん、ブースト！",
+    "translation": "あっ！\n陽介おにいちゃん、ブースト！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_292_0",
+    "original": "みてみて！　千枝おねえちゃんの\nブースト、すごいよ！",
+    "translation": "みてみて！　千枝おねえちゃんの\nブースト、すごいよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_293_0",
+    "original": "あ！　雪子おねえちゃんブーストだ！",
+    "translation": "あ！　雪子おねえちゃんブーストだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_295_0",
+    "original": "完二おにいちゃん、ブーストだよ！\nがんばれー！",
+    "translation": "完二おにいちゃん、ブーストだよ！\nがんばれー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_296_0",
+    "original": "直斗おねえちゃん、\nブーストになってるよ！",
+    "translation": "直斗おねえちゃん、\nブーストになってるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_297_0",
+    "original": "クマさん、ブーストだぁ！\nすごいね！",
+    "translation": "クマさん、ブーストだぁ！\nすごいね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_298_0",
+    "original": "ゆかりおねえちゃん、\nブーストかっこいい！",
+    "translation": "ゆかりおねえちゃん、\nブーストかっこいい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_299_0",
+    "original": "順平おにいちゃん、ブーストしてる！\nかっこいい！",
+    "translation": "順平おにいちゃん、ブーストしてる！\nかっこいい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_300_0",
+    "original": "真田おにいちゃん、ブーストすごい！\nおうえんしてるね！",
+    "translation": "真田おにいちゃん、ブーストすごい！\nおうえんしてるね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_301_0",
+    "original": "美鶴おねえちゃん、ブーストだ！\nがんばってね！",
+    "translation": "美鶴おねえちゃん、ブーストだ！\nがんばってね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_303_0",
+    "original": "アイギスおねえちゃん、ブーストだよ！\nかっこいいね！",
+    "translation": "アイギスおねえちゃん、ブーストだよ！\nかっこいいね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_304_0",
+    "original": "すごい！　乾くんブーストだ！",
+    "translation": "すごい！　乾くんブーストだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_305_0",
+    "original": "コロちゃん、ブーストしてる！\nかっこいい！",
+    "translation": "コロちゃん、ブーストしてる！\nかっこいい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_306_0",
+    "original": "荒垣おにいちゃん、ブーストだ！",
+    "translation": "荒垣おにいちゃん、ブーストだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_307_0",
+    "original": "すごい！　ブーストしてるよ！\nつよそうだね！",
+    "translation": "すごい！　ブーストしてるよ！\nつよそうだね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_308_0",
+    "original": "あ！　ブーストしてる人いるよ！\nがんばってね！",
+    "translation": "あ！　ブーストしてる人いるよ！\nがんばってね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_309_0",
+    "original": "竜司おにいちゃん、ブーストしてる！\nすごい！",
+    "translation": "竜司おにいちゃん、ブーストしてる！\nすごい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_310_0",
+    "original": "杏おねえちゃん、ブーストだよ！",
+    "translation": "杏おねえちゃん、ブーストだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_311_0",
+    "original": "あ！　モナちゃん、ブーストだ！",
+    "translation": "あ！　モナちゃん、ブーストだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_312_0",
+    "original": "祐介おにいちゃんがブーストだよ！",
+    "translation": "祐介おにいちゃんがブーストだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_313_0",
+    "original": "真おねえちゃん、ブーストかっこいい！",
+    "translation": "真おねえちゃん、ブーストかっこいい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_315_0",
+    "original": "わぁ、春おねえちゃんブーストしてる！",
+    "translation": "わぁ、春おねえちゃんブーストしてる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_316_0",
+    "original": "吾郎おにいちゃん、ブーストしてる！\nすごーい！",
+    "translation": "吾郎おにいちゃん、ブーストしてる！\nすごーい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_317_0",
+    "original": "すごい！　かっこいい！！",
+    "translation": "すごい！　かっこいい！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_318_0",
+    "original": "わあ…\nなんだか、すっごくつよそうだね！",
+    "translation": "わあ…\nなんだか、すっごくつよそうだね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_319_0",
+    "original": "あっ、さぽーとってできるみたい。\nつかってみるのもいいのかな？",
+    "translation": "あっ、さぽーとってできるみたい。\nつかってみるのもいいのかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_026_320_0",
+    "original": "さぽーとじゅんびできたって！\n上手につかってね！",
+    "translation": "さぽーとじゅんびできたって！\n上手につかってね！",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "今回、みなさまには\nこちらのヒーローベルトを持ち主へ\n届けていただきたく思います。",
+    "translation": "今回、みなさまには\nこちらのヒーローベルトを持ち主へ\n届けていただきたく思います。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "それって…\n前に、私たちが探してきたものだよね？",
+    "translation": "それって…\n前に、私たちが探してきたものだよね？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "その通りでございます。",
+    "translation": "その通りでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "どうやら、先に進むためには、\nこちらのベルトを持ち主へ\n返す必要があることが分かりました。",
+    "translation": "どうやら、先に進むためには、\nこちらのベルトを持ち主へ\n返す必要があることが分かりました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "持ち主の情報は\nベルトの裏に書かれているので、\nそちらをご確認ください。",
+    "translation": "持ち主の情報は\nベルトの裏に書かれているので、\nそちらをご確認ください。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "どれどれ…",
+    "translation": "どれどれ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "お、名前っぽいのが書いてあるぜ。\nほら、ここ。\nジョンだってよ。",
+    "translation": "お、名前っぽいのが書いてあるぜ。\nほら、ここ。\nジョンだってよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…よく見ると\nその下に住所まで書いてあるね。",
+    "translation": "…よく見ると\nその下に住所まで書いてあるね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "双葉、この情報から\n持ち主の居場所を調べられるか？",
+    "translation": "双葉、この情報から\n持ち主の居場所を調べられるか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "りょーかい、まかせろ。",
+    "translation": "りょーかい、まかせろ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "持ち主の居場所が分かったぞー。",
+    "translation": "持ち主の居場所が分かったぞー。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "ジョンってやつは、\n２番街にいるみたいだ！",
+    "translation": "ジョンってやつは、\n２番街にいるみたいだ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "よしっ！　\n居場所も分かったことだし、\nさっそく届けにいこうぜ！",
+    "translation": "よしっ！　\n居場所も分かったことだし、\nさっそく届けにいこうぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "おう！\nさっさとベルト返してやって、\n先に進まねえとな！",
+    "translation": "おう！\nさっさとベルト返してやって、\n先に進まねえとな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

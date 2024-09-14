@@ -1,0 +1,345 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ワープするところ２つあるクマ！\nこれはどっちが正解クマ？",
+    "translation": "ワープするところ２つあるクマ！\nこれはどっちが正解クマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ふむ…分かれ道らしい分かれ道は、\n初めてですね。",
+    "translation": "ふむ…分かれ道らしい分かれ道は、\n初めてですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "ここで選択を間違えると、\nゴールが遠のいてしまうかも知れない。",
+    "translation": "ここで選択を間違えると、\nゴールが遠のいてしまうかも知れない。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ええーと、最初に拾った紙に\n書いてあったのってなんだっけ？",
+    "translation": "ええーと、最初に拾った紙に\n書いてあったのってなんだっけ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "ＧＬＯＷ",
+    "translation": "ＧＬＯＷ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "ＧＲＯＷ",
+    "translation": "ＧＲＯＷ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_2",
+    "original": "ＣＲＯＷ",
+    "translation": "ＣＲＯＷ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ちがうちがう『ＧＲＯＷ』ね。\n『Ｌ』じゃなくて『Ｒ』。",
+    "translation": "ちがうちがう『ＧＲＯＷ』ね。\n『Ｌ』じゃなくて『Ｒ』。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "声に出すと全然違いわからんクマ…",
+    "translation": "声に出すと全然違いわからんクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "『Ｌ』は舌の先に前歯を当てて発音、\n『Ｒ』はどこにもつけずに発音してみて。",
+    "translation": "『Ｌ』は舌の先に前歯を当てて発音、\n『Ｒ』はどこにもつけずに発音してみて。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ぐろぅ…ぐろぉう？　ぐろぉう！",
+    "translation": "ぐろぅ…ぐろぉう？　ぐろぉう！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "ぐろおべぶっ！",
+    "translation": "ぐろおべぶっ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_007_2",
+    "original": "ヨヨヨ…舌噛んだクマ…",
+    "translation": "ヨヨヨ…舌噛んだクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "つかお前、舌生えてたのかよ…\nそれがまず驚きだわ。",
+    "translation": "つかお前、舌生えてたのかよ…\nそれがまず驚きだわ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "そうね、『ＧＲＯＷ』。\n育つ、成長する…っていう意味ね。",
+    "translation": "そうね、『ＧＲＯＷ』。\n育つ、成長する…っていう意味ね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "つか、聞いたことなかったわ。\n問題出してる奴、外国人かよ？",
+    "translation": "つか、聞いたことなかったわ。\n問題出してる奴、外国人かよ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "高校２年生なら知ってるはずの単語よ。\nいい機会だから、覚えておいたら？",
+    "translation": "高校２年生なら知ってるはずの単語よ。\nいい機会だから、覚えておいたら？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ふぇーい…",
+    "translation": "ふぇーい…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ちがうちがう『ＧＲＯＷ』ね。\n『Ｃ』じゃなくて『Ｇ』。",
+    "translation": "ちがうちがう『ＧＲＯＷ』ね。\n『Ｃ』じゃなくて『Ｇ』。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "『ＣＲＯＷ』だと英語でクロウ。\nカラスという意味ですね。",
+    "translation": "『ＣＲＯＷ』だと英語でクロウ。\nカラスという意味ですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "クロウって、\n明智さんのコードネームだね。",
+    "translation": "クロウって、\n明智さんのコードネームだね。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "高校生で探偵なんて苦労してんだろうな。\nクロウだけに…なんつって？",
+    "translation": "高校生で探偵なんて苦労してんだろうな。\nクロウだけに…なんつって？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ハァ…それ口にした勇気だけは\n認めてあげるわ。",
+    "translation": "ハァ…それ口にした勇気だけは\n認めてあげるわ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "よう、アイツらの話に入らねえのか？",
+    "translation": "よう、アイツらの話に入らねえのか？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ああ、荒垣君か。珍しいね。",
+    "translation": "ああ、荒垣君か。珍しいね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "僕は新参者だし、遠慮してるんだ。\nあんな風に賑やかなのも慣れてなくて。",
+    "translation": "僕は新参者だし、遠慮してるんだ。\nあんな風に賑やかなのも慣れてなくて。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうかよ。\nま、好きにすりゃいい。",
+    "translation": "そうかよ。\nま、好きにすりゃいい。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "君こそどうなんだい？",
+    "translation": "君こそどうなんだい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "いつも一歩引いてるように見えるけど\nなにか事情があるのかな。",
+    "translation": "いつも一歩引いてるように見えるけど\nなにか事情があるのかな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "チッ…そんなんじゃねえ。\nこっちのが性に合ってるってだけだ。",
+    "translation": "チッ…そんなんじゃねえ。\nこっちのが性に合ってるってだけだ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "はは、気を悪くしないでくれ。\n詮索するつもりはないから。",
+    "translation": "はは、気を悪くしないでくれ。\n詮索するつもりはないから。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "でも本当、みんな仲がいいよね。",
+    "translation": "でも本当、みんな仲がいいよね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "近くで見てると、\n少し眩しく思ったりも…",
+    "translation": "近くで見てると、\n少し眩しく思ったりも…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "いや、やっぱり僕は\nこうしてた方が気が楽かな。",
+    "translation": "いや、やっぱり僕は\nこうしてた方が気が楽かな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "…そうか。",
+    "translation": "…そうか。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "さて、そろそろみんな出発だろう。",
+    "translation": "さて、そろそろみんな出発だろう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "『ＧＲＯＷ』だったっけ。\nどっちが正しい道へ続いてるのかな。",
+    "translation": "『ＧＲＯＷ』だったっけ。\nどっちが正しい道へ続いてるのかな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

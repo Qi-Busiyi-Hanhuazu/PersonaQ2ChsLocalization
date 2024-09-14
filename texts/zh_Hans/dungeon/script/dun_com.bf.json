@@ -1,0 +1,695 @@
+[
+  {
+    "key": "YESNO_SEL_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "GET_ITEM_MES_0",
+    "original": "＞[占位B 01]を手に入れた。",
+    "translation": "＞获得了[占位B 01]。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞获得了[占位B 01]。\n\n＞得到了[占位B 01]。"
+  },
+  {
+    "key": "GET_MONEY_MES_0",
+    "original": "＞[占位A 01]円を手に入れた。",
+    "translation": "＞获得了[占位A 01]元。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞[占位A 01]获得了圆。\n\n＞得到了日元。[占位A 01]"
+  },
+  {
+    "key": "TBOX_ENEMY_APPEAR_0",
+    "original": "＞ああっと！！",
+    "translation": "＞哇呀！！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞啊啊！！\n\n＞啊！！"
+  },
+  {
+    "key": "NOT_OPEN_SHORTCUT_0",
+    "original": "＞こちらからは通れないようだ…",
+    "translation": "＞从这边似乎无法通过……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞看来我无法从这里通过……\n\n＞从这边好像不能通过……\n\n＞从这里好像不能通过……"
+  },
+  {
+    "key": "OPENED_BOX_0",
+    "original": "もう何も入ってないようだ…",
+    "translation": "应该是没有什么可拿取的物品了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n里面好像已经什么都没有了……\n\n好像已经什么都没有了……"
+  },
+  {
+    "key": "EXIT_DUNGEON_SEL_0",
+    "original": "＞この映画から脱出しようか…",
+    "translation": "＞从这部电影里离开吧……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞从这部电影中逃脱吧……\n\n＞逃离这部电影吧……\n\n＞想逃离这部电影吗……"
+  },
+  {
+    "key": "SHORTCUT_ASK_0",
+    "original": "＞抜け道がある…",
+    "translation": "＞有近路……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞有捷径……\n\n＞有近道……"
+  },
+  {
+    "key": "SEL_SHORTCUT_ASK_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SEL_SHORTCUT_ASK_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ONEWAY_ASK_0",
+    "original": "＞抜け道がある。\n　[颜色 03]向こう側からは帰って来られなそうだ…",
+    "translation": "＞是一条近路。\n　[颜色 03]但好像是不能从对面回来的单行道……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞有捷径。\n　[颜色 03]从另一边好像无法回来……\n\n＞有近道。\n　[颜色 03]听说从那边回不来了……\n\n＞有一条近道。\n　听说不能从对面回来……[颜色 03]"
+  },
+  {
+    "key": "SEL_ONEWAY_ASK_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SEL_ONEWAY_ASK_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "持ち物がいっぱいなようだ…",
+    "translation": "所持物品已经满满当当……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n里面好像有很多东西……\n\n好像囤了很多东西……\n\n好像有很多东西……"
+  },
+  {
+    "key": "GATHER_SUSPENSE_0",
+    "original": "＞採取ポイントを調べた…",
+    "translation": "＞调查了采集点……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞调查了采集点……"
+  },
+  {
+    "key": "GATHER_SUSPENSE_1",
+    "original": "＞…？",
+    "translation": "＞……？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞……？"
+  },
+  {
+    "key": "JIJIKU_SEL_0",
+    "original": "セーブする",
+    "translation": "保存",
+    "stage": 0,
+    "context": "机翻辅助：\n\n保存"
+  },
+  {
+    "key": "JIJIKU_SEL_1",
+    "original": "迷宮から脱出する",
+    "translation": "脱离迷宫",
+    "stage": 0,
+    "context": "机翻辅助：\n\n脱离迷宫\n\n从迷宫中逃脱\n\n逃出迷宫"
+  },
+  {
+    "key": "JIJIKU_SEL_2",
+    "original": "やめる",
+    "translation": "取消",
+    "stage": 1,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "JIJIKU_ASK_0",
+    "original": "＞どうしますか？",
+    "translation": "＞要怎么做呢？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞要怎么做？\n\n＞怎么办？"
+  },
+  {
+    "key": "FIND_QUEST_TEST_0",
+    "original": "＞一度拠点に戻ってクエストを\n　確認した方が良さそうだ。どうする？",
+    "translation": "＞最好先回据点确认下具体任务。\n　你觉得呢？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞先回据点\n　确认任务内容比较好。要怎么做？\n\n＞好像还是回到据点\n　确认一下任务比较好。怎么办？\n\n＞\n　回到据点确认一下任务比较好。怎么办？"
+  },
+  {
+    "key": "SEL_QUEST_ESCAPE_TEST_0",
+    "original": "拠点に戻る",
+    "translation": "返回据点",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回据点\n\n回到据点"
+  },
+  {
+    "key": "SEL_QUEST_ESCAPE_TEST_1",
+    "original": "このまま進む",
+    "translation": "就这样继续前进吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n就这样继续前进\n\n就这样前进"
+  },
+  {
+    "key": "ALERT_MSG_0",
+    "original": "＞ここから先は特別上映の範囲外です。\n　どうしますか？",
+    "translation": "＞再往前走就离开特别上映的区域了。\n　要怎么办呢？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞接下来的区域不在特别上映的范围\n　内。要怎么做？\n\n＞从这里开始不在特别上映的范围内。\n　怎么办？"
+  },
+  {
+    "key": "SEL_ALERT_MSG_0",
+    "original": "映画館に戻る",
+    "translation": "返回电影院",
+    "stage": 1,
+    "context": "机翻辅助：\n\n回到电影院"
+  },
+  {
+    "key": "SEL_ALERT_MSG_1",
+    "original": "探索を続ける",
+    "translation": "继续探索",
+    "stage": 0,
+    "context": "机翻辅助：\n\n继续探索"
+  },
+  {
+    "key": "MAPPING_FAILED_MSG_0",
+    "original": "＞宝箱の地図が輝き出し、\n　地図に謎の模様が浮かび上がった。",
+    "translation": "＞宝箱地图发出了光芒，\n　地图上浮现出了神秘的标记。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞宝箱的地图开始发光\n　地图上浮现神秘的图案。\n\n＞宝箱的地图发出光芒，\n　地图上浮现出谜一样的图案。\n\n＞宝箱的地图闪耀着光芒，地图上浮现出神秘的图案。"
+  },
+  {
+    "key": "MAPPING_FAILED_MSG_1",
+    "original": "＞まだ行ったことのない場所が\n　反応しているようだ…",
+    "translation": "＞一些还没有去过的区域，\n　好像有所反应……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞似乎对\n　尚未去过的地方有反应……\n\n＞还没去过的地方\n　好像有反应……\n\n＞还没去过的地方\n　好像有了反应……"
+  },
+  {
+    "key": "POWER_SPOT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "POWER_SPOT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "POWER_SPOT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "USE_AUTO_RECOVER_ASK_0",
+    "original": "＞オートリカバーを使用しますか？",
+    "translation": "＞要使用自动回复吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞要使用自动治疗吗？\n\n＞使用自动恢复棒吗？\n\n＞使用自动翻盖吗？"
+  },
+  {
+    "key": "AUTO_RECOVER_SEL_0",
+    "original": "使用する",
+    "translation": "使用",
+    "stage": 0,
+    "context": "机翻辅助：\n\n使用\n\n使用，使用"
+  },
+  {
+    "key": "AUTO_RECOVER_SEL_1",
+    "original": "使用しない",
+    "translation": "不使用",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不使用"
+  },
+  {
+    "key": "AUTO_RECOVER_NOT_USE_MSG_0",
+    "original": "＞回復をしなかった",
+    "translation": "＞自动回复未执行。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞没有进行回复。\n\n＞没有恢复\n\n＞未恢复"
+  },
+  {
+    "key": "AUTO_RECOVER_NOT_USE_MSG_2_0",
+    "original": "＞現在、体力が減っている\n　キャラクターがいません。",
+    "translation": "＞目前不存在体力不足的角色。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞现在体力正在减少\n　角色不存在。\n\n＞现在体力在减少\n　没有角色。\n\n＞现在，体力正在减少\n　没有角色。"
+  },
+  {
+    "key": "AUTO_RECOVER_NOT_USE_MSG_3_0",
+    "original": "＞SPが足りないため、\n　回復できません。",
+    "translation": "＞所余SP不足，\n　无法使用回复技能。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞SP不足\n　无法回复。\n\n＞因为SP不够，\n　不能恢复。\n\n＞存储处理器不足\n　无法恢复。"
+  },
+  {
+    "key": "AUTO_RECOVER_NOT_USE_MSG_4_0",
+    "original": "＞回復スキルを使えるメンバーが\n　パーティにいません。",
+    "translation": "＞能使用回复技能的角色\n　不在队伍中。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞队伍中没有\n　能够使用回复技能的成员。\n\n＞可以使用恢复技能的成员\n　队伍上没有。\n\n＞\n　队伍上没有使用恢复技能的成员。"
+  },
+  {
+    "key": "MSG_TUTORIAL_OTAKARA_GET_0",
+    "original": "「やっぱり、\nここを調べればオタカラが手に入るな。」\n「でも、敵の気配もする…」というイベント",
+    "translation": "“果然，如果在这里调查的话\n就能找到宝物。”\n“但是，这里也存在敌人气息的说……”",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“\n果然只要调查这里就能得到宝物。”\n“不过，也有敌人的气息……”这样的事件。\n\n“果然，查一下这里就可以得到宝物了。”\n“但是，也有敌人的气息……”这样的活动\n\n\n“果然，只要调查这里就能得到宝藏。”\n“但是也感觉到敌人的气息……”的活动"
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_1_0",
+    "original": "「オタカラスポット」では[颜色 03]様々なアイテム[颜色 01]を\n入手することができます。",
+    "translation": "在“藏宝地点”里有可能获取[颜色 03]\n各式各样的道具[颜色 01]。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在“宝物地点”[颜色 03]可以[颜色 01]获得各种各样的\n道具。\n\n在“宝物景点”[颜色 03][颜色 01]可以得到各种各样的物品。\n\n\n在“宝藏地点”[颜色 03]可以得到各种各样的物品[颜色 01]。"
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_2_0",
+    "original": "最初の選択肢で\n[颜色 03]「採取に専念する」[颜色 01]を選ぶと、",
+    "translation": "在第一个选项中选择\n[颜色 03]“专心采集”[颜色 01]的话，",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在最初的选项\n[颜色 03]选择“专心采集”[颜色 01]的话，\n\n在最初的选择中选择\n[颜色 03]“专心采集”[颜色 01]\n\n第一个选项选择\n[颜色 03]“专注于采集”[颜色 01]"
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_2_1",
+    "original": "[颜色 03]最大５個[颜色 01]までアイテムを入手することが可能で\nレアアイテムが出現する確率も高くなりますが",
+    "translation": "能够获得[颜色 03]最多5个[颜色 01]道具，\n同时会提高出现稀有道具的几率。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n[颜色 03]最多可以得到5个[颜色 01]道具\n稀有道具出现的概率也变高。\n\n[颜色 03][颜色 01]最多可以\n获得5个道具，稀有道具出现的概率也会变高。\n\n[颜色 03]最多可以得到5个[颜色 01]\n稀有物品出现的概率也会变高"
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_2_2",
+    "original": "戦闘が発生する危険度も高くなります。",
+    "translation": "当然，发生战斗的危险性也会增加。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n战斗发生的危险度也会提高。\n\n发生战斗的危险度也会变高。\n\n发生战斗的危险度也变高。"
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_3_0",
+    "original": "最初の選択肢で\n[颜色 03]「警戒しながら探す」[颜色 01]を選ぶと、",
+    "translation": "在第一个选项中选择\n[颜色 03]“谨慎探索”[颜色 01]的话，",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在最初的选项\n[颜色 03]选择“提高警觉寻找”[颜色 01]的话，\n\n在最初的选择中选择\n[颜色 03]“一边警戒一边寻找”[颜色 01]\n\n在第一个选项中选择\n[颜色 03]“警惕地寻找”[颜色 01]的话，"
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_3_1",
+    "original": "[颜色 03]最大３個[颜色 01]までしかアイテムを入手できませんが\n戦闘が発生する危険度は低くなります。",
+    "translation": "能够获得[颜色 03]最多3个[颜色 01]道具，\n此时发生战斗的危险性较低。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n[颜色 03][颜色 01]虽然只能\n获得最多3个道具，但发生战斗的危险度较低。\n\n[颜色 03]最多只能得到3个[颜色 01]但是战斗发生的危险度降低。\n\n\n[颜色 03]最多只能得到3个[颜色 01]\n战斗发生的危险度变低。"
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_4_0",
+    "original": "それぞれ入手回数は限られていますが\n[颜色 03]一度迷宮から出る[颜色 01]と\n一部の「オタカラスポット」で\n[颜色 03]再度、アイテムが入手可能[颜色 01]となります。\n　\n「オタカラスポット」を有効に活用し\nどんどんアイテムを入手していきましょう。",
+    "translation": "在这里获取道具的次数是有限的，\n[颜色 03]但只要离开迷宫[颜色 01]，一部分“藏宝地点”会刷新，\n[颜色 03]可以再次从中获取道具[颜色 01]。\n　\n灵活利用“藏宝地点”的特点，不断地获得道具吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n分别得到次数有限制\n[颜色 03]一次从迷宫出来[颜色 01]和\n一部分的“宝物地点”\n[颜色 03]再次，成为能得到道具[颜色 01]。\n\n有效利用“宝藏地点”\n不断得到道具吧。\n\n虽然各自能取得的次数有限，但只要\n离开迷宫[颜色 03]或是在[颜色 01]部分的“宝物地点”\n\n就能再度取得道具[颜色 03]。[颜色 01]　\n有效活用“宝物地点”\n来取得道具吧。\n\n\n虽然每个人的入手次数都是有限的\n[颜色 03][颜色 01]一次从迷宫中出来\n和\n一部分的“宝物景点”[颜色 03][颜色 01]\n可以再次得到道具。\n\n有效利用“宝物景点”不断地得到物品吧。"
+  },
+  {
+    "key": "MSG_TUTORIAL_OTAKARA_GET_2_0",
+    "original": "「結構取れたな！\nこれは美味い。今後も調べて見よう。",
+    "translation": "“成果相当不错嘛！\n真是令人愉悦。今后看到也调查一下吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“取得不少道具呢！\n这个真好吃，今后也来调查看看吧。\n\n“很好吃啊！\n这个很好吃。今后也调查一下吧。\n\n“捕获了不少啊！\n这个很好吃。今后也调查看看吧。"
+  },
+  {
+    "key": "MSG_TUTORIAL_OTAKARA_GET_2_1",
+    "original": "ただし、敵との\n遭遇の可能性はあるから気をつけような。」\nというイベント",
+    "translation": "当然，也要考虑到会\n遭遇敌人的可能性。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不过\n有可能会遭遇敌人，要小心哦。”\n这样的事件。\n\n但是，因为有和敌人相遇的可能性，所以要注意。\n\n的活动\n\n但是，和敌人有遭遇的可能性，所以要小心。\n\n的活动"
+  },
+  {
+    "key": "MSG_TUTORIAL_OTAKARA_BAG_0",
+    "original": "「アイテムが\nいっぱいなようだから出直してこよう」\nというイベント",
+    "translation": "“携带道具已达上限，\n看来要先回去一趟再过来这边了”",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“\n好像有很多道具，我之后再来。”\n这样的事件。\n\n“项目\n好像很多，重新来过吧”\n的活动\n\n“项目\n好像很多，重新开始吧”\n这样的活动"
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_0_0",
+    "original": "クエストとして迷宮に入ると\n[颜色 03]そのクエストでのみ進行不可になる通路[颜色 01]など",
+    "translation": "为执行任务而进入迷宫的话，\n[颜色 03]此时迷宫中会存在一些无法通行的区域[颜色 01]，",
+    "stage": 1,
+    "context": "机翻辅助：\n\n以及作为任务进入迷宫后\n[颜色 03]只有该任务无法通行的通道[颜色 01]等等。\n\n作为任务进入迷宫的话\n[颜色 03]只有那个任务不能进行的通道[颜色 01]等\n\n作为任务进入迷宫的话\n[颜色 03]只有那个任务不能进行的通道[颜色 01]等等"
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_0_1",
+    "original": "[颜色 03]MAPに変化が起こる[颜色 01]場合があります。\n新たに進行不可となったルートは",
+    "translation": "其中新增的无法通行的区域，会通过[颜色 03]地图变化[颜色 01]来注明。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n[颜色 03]MAP有时会发生变化[颜色 01]。\n新出现无法通行的路线\n\n[颜色 03]MAP发生变化[颜色 01]有时。\n新的无法进行的路线是\n\n[颜色 03]MAP可能会发生变化。[颜色 01]新无法进行的路线"
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_1_0",
+    "original": "下画面にて[颜色 03]赤い塗り潰し[颜色 01]と\n[颜色 03]専用アイコン[颜色 01]として表示されます。",
+    "translation": "也就是在下屏幕中以[颜色 03]红色图块[颜色 01]和\n[颜色 03]专用图标[颜色 01]来进行表示。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在下画面会以[颜色 03]红色涂黑[颜色 01]以及\n[颜色 03]专用图标[颜色 01]来显示。\n\n在下方画面作为[颜色 03]红色填充[颜色 01]和\n[颜色 03]专用图标[颜色 01]被显示。\n\n在下面的屏幕上显示[颜色 03][颜色 01]\n红色填充[颜色 03][颜色 01]专用图标。"
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_1_1",
+    "original": "クエストとして迷宮を探索する際は\n下画面をよく確認し、注意して進みましょう。",
+    "translation": "在为执行任务而探索迷宫的时候，\n请仔细观察下屏幕，谨慎地前进吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n以任务探索迷宫时\n请仔细确认下画面，小心前进。\n\n作为任务探索迷宫的时候\n好好确认下画面，注意前进吧。\n\n作为任务探索迷宫的时候仔细确认下画面，注意前进吧。"
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_2_0",
+    "original": "またクエスト中は下画面に\n[颜色 03]“Quest”パレット[颜色 01]が表示されます。",
+    "translation": "此外，在任务中，下屏幕会出现\n[颜色 03]“Quest”工具栏[颜色 01]。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n另外在任务中\n[颜色 03]下画面会显示“Quest”面板[颜色 01]。\n\n还有任务中在下方画面\n[颜色 03]“Quest”调色板[颜色 01]被显示。\n\n另外，任务中在下画面显示\n[颜色 03]“Quest”调色板[颜色 01]。"
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_2_1",
+    "original": "このパレットに格納されたアイコンは\n[颜色 03]クエスト中のみ配置が可能[颜色 01]となっており",
+    "translation": "在这个工具栏中可对图标进行配置，\n[颜色 03]但仅限于在此任务中使用[颜色 01]。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n收纳在这面板中的图标\n[颜色 03]只有在任务中才能配置[颜色 01]。\n\n这个调色板中存储的图标是\n[颜色 03]只有在任务中才能配置[颜色 01]\n\n保存在这个调色板上的图标\n[颜色 03]只有在任务中才能配置[颜色 01]"
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_2_2",
+    "original": "[颜色 03]クスエト中のみ発生するイベントなど[颜色 01]に       \n目印をつけておくのに有効です。       ",
+    "translation": "把[颜色 03]任务中的限定事件等[颜色 01]\n做上标记，能有效推进任务进度。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n[颜色 03]对于只有在库斯克尔发生的事件[颜色 01]等等，\n可以用来做记号。       \n\n[颜色 03]只在工作中发生的事件等[颜色 01]上做\n标记是有效的。       \n\n[颜色 03]只在XERT中发生的事件等[颜色 01]做记号是有效的。"
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_MAP_2_3",
+    "original": "“Quest”パレットを使いこなし\nクエストのクリアを目指しましょう。",
+    "translation": "利用好“Quest”工具栏，\n以完美执行任务为目标而前进吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请活用“Quest”面板\n以完成任务为目标吧。\n\n熟练使用“Quest”调色板\n以任务的通关为目标吧。\n\n熟练使用“Quest”调色板\n以完成任务为目标。"
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_TREAS_0",
+    "original": "迷宮内には[颜色 03]特定クエストの間のみ\n出現する宝箱[颜色 01]があります。",
+    "translation": "迷宫内存在[颜色 03]仅在特定任务中才会出现的宝箱[颜色 01]。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n迷宫内有[颜色 03]只在特定任务期间\n出现的宝箱[颜色 01]。\n\n迷宫内有只在特定任务之间出现的宝箱[颜色 03]。\n[颜色 01]"
+  },
+  {
+    "key": "MSG_TUTORIAL_QUEST_TREAS_1",
+    "original": "中には[颜色 03]探索に役立つアイテム[颜色 01]が\n入っているので、見逃さずに手に入れましょう。",
+    "translation": "宝箱里有[颜色 03]有助于探索迷宫的道具[颜色 01]，\n既然如此，不要错过他们，努力去\n获取这些道具吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n里面有[颜色 03]对探索有用的物品[颜色 01]，\n不要错过，入手吧。\n\n里面有[颜色 03]有助于探索的物品[颜色 01]，\n所以不要错过。\n\n里面装有[颜色 03]对探索有帮助的道具[颜色 01]，不要错过，快去拿吧。"
+  },
+  {
+    "key": "MSG_FUTABA_IP_BTL_MSG_1_0",
+    "original": "『刈り取るもの』だ…\nやばいのが来るぞ…！！",
+    "translation": "是“猎杀者”啊……\n糟糕的家伙要过来了……！！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是“割草者”……\n不妙的家伙要来了……！！\n\n是“收割的东西”……\n危险的来了……！！\n\n是“收割的东西”……\n危险的东西要来了……！！"
+  },
+  {
+    "key": "MSG_FUTABA_IP_BTL_MSG_2_0",
+    "original": "この気配…『刈り取るもの』だ！！",
+    "translation": "这股气息……是“猎杀者”！！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这股气息……是“割草者”！！\n\n这个样子……是“收割的东西”！！\n\n这气息……是“收割的东西”！！"
+  },
+  {
+    "key": "MSG_FUTABA_IP_BTL_MSG_3_0",
+    "original": "やばいのが来る！　対処急げ！",
+    "translation": "危险要降临了！快考虑对策！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不妙的家伙要来了！快做准备！\n\n危险的来了！赶紧处理！\n\n危险的东西来了！赶紧应对！"
+  },
+  {
+    "key": "MSG_FUKA_IP_BTL_MSG_1_0",
+    "original": "『刈り取るもの』の反応！\n気をつけてください！",
+    "translation": "是“猎杀者”的反应！\n请万分小心！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“割草者”的反应！\n请小心！\n\n“收割的东西”的反应！\n请注意！\n\n“收割者”的反应！请注意安全！"
+  },
+  {
+    "key": "MSG_FUKA_IP_BTL_MSG_2_0",
+    "original": "『刈り取るもの』が接近してます！\n注意して！",
+    "translation": "“猎杀者”正在靠近我们！\n请注意！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“割草者”正在接近！\n小心！\n\n“收割的东西”接近着！\n注意！\n\n“收割的东西”接近！\n注意！"
+  },
+  {
+    "key": "MSG_FUKA_IP_BTL_MSG_3_0",
+    "original": "この反応は…『刈り取るもの』です！\n気をつけて！",
+    "translation": "这个反应是……“猎杀者”！\n小心！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这反应是……“割草者”！\n小心！\n\n这个反应是……“收割的东西”！\n小心！\n\n这个反应……是“收割的东西”！\n小心！"
+  },
+  {
+    "key": "MSG_RISE_IP_BTL_MSG_1_0",
+    "original": "ヤバッ、『刈り取るもの』の気配！\n気をつけて！",
+    "translation": "不好，是“猎杀者”的气息！\n大家小心！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n糟糕，是“割草者”的气息！\n小心！\n\nyaba，“收割的东西”的气息！\n小心！\n\n糟糕，“收割的东西”的气息！\n小心！"
+  },
+  {
+    "key": "MSG_RISE_IP_BTL_MSG_2_0",
+    "original": "『刈り取るもの』の気配を察知！\n注意して！",
+    "translation": "探察到了“猎杀者”的气息！\n请注意！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n察觉到“割草者”的气息！\n小心！\n\n察觉到“收割之物”的气息！\n注意！\n\n察觉“收割的东西”的气息！\n注意！"
+  },
+  {
+    "key": "MSG_RISE_IP_BTL_MSG_3_0",
+    "original": "『刈り取るもの』の反応！\n来るよ！",
+    "translation": "是“猎杀者”的反应！\n它要过来了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“割草者”的反应！\n要来了！\n\n“收割的东西”的反应！\n会来的！\n\n“收割者”的反应！\n会来的！"
+  },
+  {
+    "key": "MSG_JUSTINE_IP_BTL_MSG_1_0",
+    "original": "『刈り取るもの』が来ます。\n注意してください。",
+    "translation": "“猎杀者”过来了。\n请注意。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“割草者”要来了。\n请小心。\n\n“收割的东西”来了。\n请注意。\n\n“要收割的东西”来了。请注意。"
+  },
+  {
+    "key": "MSG_JUSTINE_IP_BTL_MSG_2_0",
+    "original": "注意してください、\n『刈り取るもの』です。",
+    "translation": "请注意，\n是“猎杀者”。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请小心，\n是“割草者”。\n\n请注意，\n“收割的东西”。\n\n请注意，\n是“收割的东西”。"
+  },
+  {
+    "key": "MSG_JUSTINE_IP_BTL_MSG_3_0",
+    "original": "『刈り取るもの』…\n気を付けることです。",
+    "translation": "“猎杀者”……\n要小心啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“割草者”……\n请小心。\n\n“收割的东西”……\n要注意。\n\n“收割的东西”……是要注意的事情。"
+  },
+  {
+    "key": "MSG_CAROLIN_IP_BTL_MSG_1_0",
+    "original": "『刈り取るもの』が近いぞ！",
+    "translation": "“猎杀者”就在附近！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“割草者”近了！\n\n“收割的东西”很近哦！\n\n“收割的东西”快到了！"
+  },
+  {
+    "key": "MSG_CAROLIN_IP_BTL_MSG_2_0",
+    "original": "気をつけろ！\n『刈り取るもの』だぞ！",
+    "translation": "小心！\n这是“猎杀者”！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n小心！\n是“割草者”啊！\n\n小心点！\n“收割的东西”！\n\n小心点！\n是“收割的东西”哦！"
+  },
+  {
+    "key": "MSG_CAROLIN_IP_BTL_MSG_3_0",
+    "original": "この音…\n『刈り取るもの』だぞ！",
+    "translation": "这个声音……\n是“猎杀者”！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这声音……\n是“割草者”啊！\n\n这个声音……\n是“收割的东西”哟！\n\n这个声音……\n是“收割的东西”哦！"
+  },
+  {
+    "key": "MSG_ELIZABETH_IP_BTL_MSG_0",
+    "original": "『刈り取るもの』、\n登場～でございます。",
+    "translation": "“猎杀者”，\n闪亮登场了哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“割草者”\n登场～\n\n“收割的东西”，\n登场～"
+  },
+  {
+    "key": "MSG_ELIZABETH_IP_BTL_MSG_2_0",
+    "original": "呼ばれて飛び出て、\n『刈り取るもの』でございます。",
+    "translation": "一旦被提及就会立刻闪现到眼前的，\n正是“猎杀者”呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n被呼唤出来的是\n“割草者”。\n\n一叫我就冲了出去，\n我是“收割的东西”。\n\n被叫出去，\n“收割的东西”。"
+  },
+  {
+    "key": "MSG_ELIZABETH_IP_BTL_MSG_3_0",
+    "original": "まさにこの音…\n『刈り取るもの』とお見受けいたします。",
+    "translation": "是这个声音没错……\n看来是“猎杀者”呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这声音……\n看来是“割草者”。\n\n正是这个声音……\n可以看到“收割的东西”。\n\n正是这个声音……被看作是“收割的东西”。"
+  },
+  {
+    "key": "MSG_THEODOR_IP_BTL_MSG_1_0",
+    "original": "気を付けてください、\n『刈り取るもの』です！",
+    "translation": "请万分小心，\n是“猎杀者”！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请小心，\n是“割草者”！\n\n请小心，\n是“收割的东西”！\n\n请注意，\n“收割的东西”！"
+  },
+  {
+    "key": "MSG_THEODOR_IP_BTL_MSG_2_0",
+    "original": "『刈り取るもの』が来ます。\nご注意を！",
+    "translation": "“猎杀者”要过来了。\n请务必注意！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“割草者”要来了。\n请小心！\n\n“要收割的东西”来了。\n请注意！\n\n“收割的东西”来了。\n请注意！"
+  },
+  {
+    "key": "MSG_THEODOR_IP_BTL_MSG_3_0",
+    "original": "この気配…\n『刈り取るもの』です！",
+    "translation": "这股气息……\n是“猎杀者”！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这股气息……\n是“割草者”！\n\n这个样子……\n是“收割的东西”！\n\n这气息……\n是“收割的东西”！"
+  },
+  {
+    "key": "MSG_MARGARET_IP_BTL_MSG__0",
+    "original": "『刈り取るもの』の気配よ！\n警戒を！",
+    "translation": "是“猎杀者”的气息！\n快警戒周围！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有“收割者”的气息！\n小心！\n\n“收割的东西”的气息哟！\n警戒！\n\n“收割之物”的气息啊！\n提高警惕！"
+  },
+  {
+    "key": "MSG_MARGARET_IP_BTL_MSG__2_0",
+    "original": "強力な敵が近づいてるようね。\nご注意を。",
+    "translation": "似乎有强大的敌人正在接近我们。\n请务必注意。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n强力的敌人正在接近。\n请注意。\n\n强大的敌人好像接近了。\n请注意。\n\n强大的敌人正在靠近呢。请注意。"
+  },
+  {
+    "key": "MSG_MARGARET_IP_BTL_MSG__3_0",
+    "original": "『刈り取るもの』が近いようね、警戒して。",
+    "translation": "“猎杀者”似乎就在附近，要谨慎行事。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“收割者”好像很接近，小心一点。\n\n“收割的东西”好像很近，请警戒。\n\n“要收割的东西”快到了，警惕一下。"
+  },
+  {
+    "key": "MSG_NANAKO_IP_BTL_MSG_1_0",
+    "original": "『刈り取るもの』、だって！",
+    "translation": "那不是“猎杀者”吗！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是“收割者”耶！\n\n“收割的东西”，因为！\n\n说是“收割的东西”！"
+  },
+  {
+    "key": "MSG_NANAKO_IP_BTL_MSG_2_0",
+    "original": "『刈り取るもの』、だ！\nくるみたいだよ！",
+    "translation": "是“猎杀者”啊！\n它好像过来了呀！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是“收割者”！\n好像要来了！\n\n“收割的东西”，是！\n好像来了！\n\n是“收割的东西”！\n是核桃型的哟！"
+  },
+  {
+    "key": "MSG_NANAKO_IP_BTL_MSG_3_0",
+    "original": "たいへんだよ。\n『刈り取るもの』、がくる！",
+    "translation": "很危险呀。\n“猎杀者”，要过来了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n糟糕了。\n“收割者”要来了！\n\n不得了啦。\n“收割的东西”来了！\n\n糟了。\n“收割的东西”，来了！"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_0",
+    "original": "お、おい！\nショートカットの先にＦ．Ｏ．Ｅが居るぞ！",
+    "translation": "喂、喂！\n这条捷径的前方有F.O.E！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n喂、喂！\n捷径前面有F.O.E耶！\n\n喂、喂！\n快捷方式前面有F.O.E哦！\n\n喂、喂！\n短发的前头有F.O.E哟！"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_1",
+    "original": "今通るのは止めておけ！",
+    "translation": "暂时不要从这里通过，快停下！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n现在不要过去！\n\n现在不要通过！\n\n现在停下来吧！"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_2_0",
+    "original": "お、おい！\nショートカットの先にＦ．Ｏ．Ｅが居るぞ！",
+    "translation": "喂、喂！\n这条捷径的前方有F.O.E！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n喂、喂！\n捷径前面有F.O.E耶！\n\n喂、喂！\n快捷方式前面有F.O.E哦！\n\n喂、喂！\n短发的前头有F.O.E哟！"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_2_1",
+    "original": "今通るのは止めておけ！",
+    "translation": "现在不要从这里经过，快停下！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n现在不要过去！\n\n现在不要通过！\n\n现在停下来吧！"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_3_0",
+    "original": "待って！\nその先にＦ．Ｏ．Ｅが居るよ！",
+    "translation": "等一下！\n在前方有F.O.E！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n等一下！\n前面有F.O.E！\n\n等一下！\n前面有F.O.E哦！\n\n等等！\n那前面有F.O.E哟！"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_3_1",
+    "original": "今は通らない方がいいと思う！",
+    "translation": "我觉得现在不要过去比较好！",
+    "stage": 0,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n我觉得现在不要过去比较好！\n\n我觉得现在不通过比较好！\n\n我觉得现在还是不要通过比较好！"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_4_0",
+    "original": "待ってください！\nその先にＦ．Ｏ．Ｅがいます！",
+    "translation": "请等一下！\n那边有F.O.E！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n请等一下！\n前面有F.O.E！\n\n请等一下！\n那前面有F.O.E！"
+  },
+  {
+    "key": "MSG_foe_exist_move_short_4_1",
+    "original": "Ｆ．Ｏ．Ｅが居なくなってから\n通りましょう！",
+    "translation": "等F.O.E不在那边了，\n我们再一起过去吧！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n等F.O.E走了\n再过去吧！\n\n等F.O.E不在了再走吧！\n\n\nF.O.E不在了再通过吧！"
+  },
+  {
+    "key": "MSG_GET_TRESURE_MAP_0",
+    "original": "＞地図にこの映画内に隠された\n[颜色 03]『宝の在り処』[颜色 01]が示された。",
+    "translation": "＞地图上被隐藏的这部电影的\n　[颜色 03]“秘宝所在地”[颜色 01]显现出来了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞地图显示出隐藏在这部电影\n　[颜色 03]“宝物所在处”[颜色 01]。\n\n＞地图上显示了隐藏在这部电影里的\n　[颜色 03]“宝藏所在”[颜色 01]。\n\n＞地图上显示了隐藏在这部电影里的“宝物的所在”。\n　[颜色 03][颜色 01]"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

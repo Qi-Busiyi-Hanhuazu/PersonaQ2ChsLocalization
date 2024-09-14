@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "こいつだな。",
+    "translation": "就是这台了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n就是这台了。\n\n是这家伙啊。\n\n就是这家伙。"
+  },
+  {
+    "key": "MSG_000_1_0",
+    "original": "よし、さっさとやっちまおうぜ。",
+    "translation": "好，赶紧开工吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好，赶紧开始吧。\n\n好吧，赶紧干吧。\n\n好吧，赶紧做吧。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "わ！？　ま、まぶし…",
+    "translation": "哇！？好、好亮……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哇！？好、好亮……\n\n哇！？啊，耀眼……\n\n！？啊，太耀眼了……"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "お前は…！",
+    "translation": "你……！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n你……！\n\n你是……！"
+  }
+]

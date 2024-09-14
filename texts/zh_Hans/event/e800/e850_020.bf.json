@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "敵シャドウに接近！\nやはりかなり強い反応です！",
+    "translation": "接近敌人暗影！\n反应果然很强烈！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n接近敌人暗影！\n反应果然很强！\n\n接近敌人的暗影！\n果然是相当强烈的反应！\n\n接近敌人暗影！\n果然是相当强烈的反应！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "よーし。",
+    "translation": "好。",
+    "stage": 0,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n好。\n\n好啊。"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "ジョーカー、力を貸して。\n私、ぜったいに負けないから。",
+    "translation": "JOKER，把力量借给我。\n我，绝对不会输的。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\nJOKER，把力量借给我。\n我绝对不会输。\n\nJOKER、助我一臂之力。我绝对不会输的。\n\n\nJOKER，请助我一臂之力。我绝对不会输的。"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "大丈夫だ",
+    "translation": "没问题",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没问题\n\n不要紧\n\n我没事"
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "後れをとるな",
+    "translation": "别输哦",
+    "stage": 1,
+    "context": "机翻辅助：\n\n别落后了\n\n不要落后"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うん、自信持っていくね。\nだって、みんながいるから。",
+    "translation": "嗯，我会带着自信上的。\n因为我有大家在。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n嗯，我越来越有自信了。\n因为有大家在。\n\n嗯，要有自信。\n因为大家都在。\n\n嗯，要有自信。因为大家都在。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "了解、本気でいくから！",
+    "translation": "了解，我要认真上了！",
+    "stage": 0,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n了解，我要认真上了！\n\n知道了，我会认真的！\n\n明白，我会认真的！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "敵シャドウ、来ます！\n[P3P名]ちゃん、頑張って！",
+    "translation": "敌方暗影，来袭！\n[P3P名]，加油！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n敌人暗影来了！\n[P3P名]，加油！\n\n敌人暗影，来了！\n[P3P名]，加油！\n\n敌影，来了！\n[P3P名]，加油！"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

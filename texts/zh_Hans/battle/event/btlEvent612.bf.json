@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "えらーを排除スル。えらーを排除スル。",
+    "translation": "排除错误。排除错误。",
+    "stage": 1,
+    "context": "说话人：量産型ロボット\n\n机翻辅助：\n\n排除异端。排除异端。\n\n排除错误。排除错误。\n\n排除错误排除错误。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おっと、残念。オレらの仲間には\n一歩も近寄らせねぇよ！",
+    "translation": "哎呦，可真是遗憾。\n我们的伙伴不会让你们靠近一步哒！",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n哎呀，真遗憾。我们不会让你们的同伴\n靠近一步的！\n\n啊，真遗憾。\n对我们的伙伴一步也不能靠近！\n\n哎呀，很遗憾。一步也不能靠近我们的伙伴！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ワンッ！",
+    "translation": "汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！\n\n哇！"
+  },
+  {
+    "key": "speaker_量産型ロボット",
+    "original": "量産型ロボット",
+    "translation": "量产型机器人",
+    "stage": 0,
+    "context": "机翻辅助：\n\n量产型机器人\n\n批量生产型机器人"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊织 顺平",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "虎狼丸",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

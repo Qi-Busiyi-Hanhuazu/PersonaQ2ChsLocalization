@@ -1,0 +1,527 @@
+[
+  {
+    "key": "MITURU_FOE_FOLLOW_START__0",
+    "original": "Ｆ．Ｏ．Ｅに見つかったか！ ",
+    "translation": "被F.O.E发现了吗！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n被F.O.E发现了！ \n\n被F.O.E发现了吗！ \n\n找到F.O.E了吗！"
+  },
+  {
+    "key": "MITURU_FOE_FOLLOW_START__2_0",
+    "original": "くっ…Ｆ．Ｏ．Ｅが追ってきてるぞ！ ",
+    "translation": "切……F.O.E在追过来！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔……F.O.E追上来了！ \n\n啊……F.O.E在追你！"
+  },
+  {
+    "key": "MITURU_FOE_FOLLOW_START__3_0",
+    "original": "Ｆ．Ｏ．Ｅに追尾されているぞ！ ",
+    "translation": "被F.O.E追上了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n被F.O.E追上了！ \n\n被F.O.E跟踪了！"
+  },
+  {
+    "key": "MITURU_FOE_NEAR_1_0",
+    "original": "近くにＦ．Ｏ．Ｅがいるな… ",
+    "translation": "附近有F.O.E啊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n附近有F.O.E啊…… \n\n附近有F.O.E……"
+  },
+  {
+    "key": "MITURU_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅめ。 \nこんなところにもいるとはな。 ",
+    "translation": "可恶的F.O.E。\n没想到居然这种地方也有。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n可恶的F.O.E。\n没想到居然会出现在这种地方。 \n\nF.O.E。\n没想到这里也有。 \n\nF.O.E目。没想到这种地方也有。"
+  },
+  {
+    "key": "MITURU_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅだ、気をつけろ！ ",
+    "translation": "是F.O.E，小心！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是F.O.E，小心！ \n\nF.O.E，小心！"
+  },
+  {
+    "key": "MITURU_FOE_FOLLOW_END_1_0",
+    "original": "Ｆ．Ｏ．Ｅを撒いたようだな。 ",
+    "translation": "好像甩掉F.O.E了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像甩掉F.O.E了。 \n\n好像撒了F.O.E。"
+  },
+  {
+    "key": "MITURU_FOE_FOLLOW_END_2_0",
+    "original": "ふぅ、諦めてくれたようだな。 ",
+    "translation": "呼，看来它们是放弃了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呼，看来是放弃了。 \n\n嗯，好像放弃了。 \n\n嗯，你好像放弃了。"
+  },
+  {
+    "key": "MITURU_FOE_FOLLOW_END_3_0",
+    "original": "うまく逃げ切れたようだ… ",
+    "translation": "看来是顺利逃掉了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看来是顺利逃掉了…… \n\n好像逃得很好…… \n\n好像顺利逃过了……"
+  },
+  {
+    "key": "MITURU_KANSI_REACTION_1_0",
+    "original": "ここは気をつけろ。 ",
+    "translation": "这里要小心。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这里要小心。"
+  },
+  {
+    "key": "MITURU_KANSI_REACTION_2_0",
+    "original": "厄介なトラップだな。 ",
+    "translation": "真是个麻烦的陷阱啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真是个麻烦的陷阱啊。 \n\n真是个麻烦的陷阱。 \n\n真是麻烦的陷阱啊。"
+  },
+  {
+    "key": "MITURU_KANSI_REACTION_3_0",
+    "original": "見つからないように注意しろ。 ",
+    "translation": "要小心别被发现了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要小心别被发现了。 \n\n注意不要找到。 \n\n注意不要被发现。"
+  },
+  {
+    "key": "MITURU_DENKISAKU_REACTIO_0",
+    "original": "触らないように注意しろ。 ",
+    "translation": "要小心别碰到了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要小心别碰到了。 \n\n注意不要碰。 \n\n小心别碰。"
+  },
+  {
+    "key": "MITURU_DENKISAKU_REACTIO_2_0",
+    "original": "電流を止めてから進むとしよう。 ",
+    "translation": "还是把电流停掉以后再前进吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n还是等电流停了以后再前进吧。 \n\n假设先停止电流再前进。 \n\n我们把电流关掉再继续前进吧。"
+  },
+  {
+    "key": "MITURU_DENKISAKU_REACTIO_3_0",
+    "original": "電気を止めたほうがよさそうだな。 ",
+    "translation": "看来还是把电断掉比较好。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看来还是把电停掉比较好。 \n\n好像还是把电关掉比较好。 \n\n好像还是关灯比较好。"
+  },
+  {
+    "key": "MITURU_KYOUHU_REACTION_1_0",
+    "original": "くっ…！ ",
+    "translation": "唔……！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔……！ \n\n啊……！"
+  },
+  {
+    "key": "MITURU_KYOUHU_REACTION_2_0",
+    "original": "これは！？ ",
+    "translation": "这是！？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这是！？"
+  },
+  {
+    "key": "MITURU_KYOUHU_REACTION_3_0",
+    "original": "う、風が！？ ",
+    "translation": "呜、起风了！？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n风、风！？ \n\n嗯，风！？ \n\n呜，风！？"
+  },
+  {
+    "key": "MITURU_STAIR_FIND_1_0",
+    "original": "先に進めそうだが、どうする？ ",
+    "translation": "看起来能继续前进，要怎么做？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n虽然能继续前进，但是该怎么办？ \n\n好像要往前走了，怎么办？ \n\n好像要继续前进了，怎么办？"
+  },
+  {
+    "key": "MITURU_STAIR_FIND_2_0",
+    "original": "あそこに階段があるな。 ",
+    "translation": "那里有楼梯啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那里有楼梯啊。 \n\n那里有楼梯。"
+  },
+  {
+    "key": "MITURU_STAIR_FIND_3_0",
+    "original": "階段か…次のフロアに進めそうだ。 ",
+    "translation": "楼梯吗……好像能去下一层。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n楼梯吗……看来能去下一层了。 \n\n楼梯啊……好像要进下一层。 \n\n楼梯吗……好像要进入下一层了。"
+  },
+  {
+    "key": "MITURU_TREASURE_FIND_1_0",
+    "original": "宝箱があるな…開けてみるか。 ",
+    "translation": "有宝箱啊……打开看看吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有宝箱啊……打开看看吧。 \n\n有宝箱啊……要不要打开看看？"
+  },
+  {
+    "key": "MITURU_TREASURE_FIND_2_0",
+    "original": "む…宝箱があるな。 ",
+    "translation": "唔……有宝箱啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔……有宝箱啊。 \n\n嗯……有宝箱啊。 \n\n唔……有个宝箱。"
+  },
+  {
+    "key": "MITURU_TREASURE_FIND_3_0",
+    "original": "前方に宝箱だ。 ",
+    "translation": "前方发现宝箱。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前方有宝箱。 \n\n前方有个宝箱。 \n\n前面是宝箱。"
+  },
+  {
+    "key": "MITURU_CHECK_WALL_1_0",
+    "original": "む…あれはなんだ？ ",
+    "translation": "唔……那是什么？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔……那是什么？ \n\n嗯……那是什么？"
+  },
+  {
+    "key": "MITURU_CHECK_WALL_2_0",
+    "original": "…気になるな、調べてもらえないか？ ",
+    "translation": "……真让人在意啊，能调查一下吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n……真让人在意啊，能帮我调查一下吗？ \n\n……别在意，能帮我查一下吗？"
+  },
+  {
+    "key": "MITURU_CHECK_WALL_3_0",
+    "original": "あれは何だ…？　調べてみよう。 ",
+    "translation": "那是什么……？调查一下吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那是什么……？调查一下吧。 \n\n那是什么……？我查一下吧。"
+  },
+  {
+    "key": "MITURU_SWITCH_FIND_1_0",
+    "original": "ん？　これは…スイッチか？ ",
+    "translation": "嗯？这是……开关吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯？这是……开关吗？ \n\n？这是……开关吗？"
+  },
+  {
+    "key": "MITURU_SWITCH_FIND_2_0",
+    "original": "見ろ、ここにスイッチがあるぞ。 ",
+    "translation": "看，这里有个开关啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看，这里有个开关。 \n\n看，这里有开关。 \n\n你看，这里有开关。"
+  },
+  {
+    "key": "MITURU_SWITCH_FIND_3_0",
+    "original": "スイッチか…判断は任せる。 ",
+    "translation": "开关吗……判断就交给你了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n开关吗……判断交给你。 \n\n开关啊……交给你判断。 \n\n是开关吗……判断就交给你了。"
+  },
+  {
+    "key": "MITURU_SHORTCUT_FIND_1_0",
+    "original": "ん？　そこから通れそうだな。 ",
+    "translation": "嗯？那里好像可以通过去。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯？好像可以从那里过去。 \n\n？好像可以从那里通过。 \n\n嗯？好像可以从那里通过啊。"
+  },
+  {
+    "key": "MITURU_SHORTCUT_FIND_2_0",
+    "original": "よし、近道にできそうだな。 ",
+    "translation": "好，看来可以抄近道了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好，应该可以抄近路。 \n\n好吧，看来可以抄近路了。 \n\n好，看来可以抄近道了。"
+  },
+  {
+    "key": "MITURU_SHORTCUT_FIND_3_0",
+    "original": "見ろ、ショートカットになりそうだ。 ",
+    "translation": "看，好像可以当一条捷径。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看，好像可以抄捷径。 \n\n你看，快变成短发了。 \n\n看，好像是快捷方式。"
+  },
+  {
+    "key": "MITURU_FOE_WARNING_NEAR__0",
+    "original": "油断するな！\nまだＦ．Ｏ．Ｅがいるぞ！ ",
+    "translation": "不要疏忽大意！\n还有F.O.E在。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n别大意！\nF.O.E还在追我们。 \n\n不要疏忽大意！\n还有F.O.E呢！ \n\n别大意！\n还有F.O.E呢！"
+  },
+  {
+    "key": "MITURU_FOE_WARNING_NEAR__2_0",
+    "original": "あのＦ．Ｏ．Ｅ、 \nまだ追ってきてるのか… ",
+    "translation": "那个F.O.E……\n还在追我们吗……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那个F.O.E……\n还在追我们吗…… \n\n那个F.O.E，\n还在追吗…… \n\n那个F.O.E，\n你还在追我吗……"
+  },
+  {
+    "key": "MITURU_FOE_WARNING_NEAR__3_0",
+    "original": "気を抜くな！\nＦ．Ｏ．Ｅもいるぞ！ ",
+    "translation": "别松懈！\nF.O.E也在！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n别松懈！\nF.O.E也在哦！ \n\n别泄气！\nF.O.E也在！ \n\n不要松懈！\nF.O.E也在哦！"
+  },
+  {
+    "key": "MITURU_1PERSON_HPTP10_1_0",
+    "original": "くっ…大丈夫だ、まだ、いける… ",
+    "translation": "呜……没事，我还、能行……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔……没问题，还撑得下去…… \n\n嗯……没关系，还可以…… \n\n唔……没关系，还行……"
+  },
+  {
+    "key": "MITURU_1PERSON_HPTP10_2_0",
+    "original": "私としたことが…不覚を取った… ",
+    "translation": "我居然会……一时大意……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我居然会……一时大意…… \n\n和我做过的事……冒失了…… \n\n和我做的事……失败了……"
+  },
+  {
+    "key": "MITURU_1PERSON_HPTP10_3_0",
+    "original": "足手まといにはなりたくないのだがな… ",
+    "translation": "我可不想成为累赘啊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我可不想成为累赘啊…… \n\n虽然不想成为累赘…… \n\n我不想成为累赘……"
+  },
+  {
+    "key": "MITURU_1PERSON_HP10_1_0",
+    "original": "ハァっ…悪いが、回復を頼めないか？ ",
+    "translation": "哈啊……抱歉，能帮我回复吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呼……不好意思，可以帮我补血吗？ \n\n啊……不好意思，能拜托你恢复吗？ \n\n哈……不好意思，能拜托你帮我恢复吗？"
+  },
+  {
+    "key": "MITURU_1PERSON_HP10_2_0",
+    "original": "くっ…体力が厳しいな… ",
+    "translation": "呜……体力快不行了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔……体力不太够…… \n\n啊……体力好紧张啊…… \n\n唔……体力吃不消啊……"
+  },
+  {
+    "key": "MITURU_1PERSON_HP10_3_0",
+    "original": "すまない、体力の限界が近い… ",
+    "translation": "抱歉，体力快到极限了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n抱歉，体力快到极限了…… \n\n对不起，体力的极限很近…… \n\n对不起，体力已经接近极限了……"
+  },
+  {
+    "key": "MITURU_1PERSON_TP10_1_0",
+    "original": "気力が尽きそうだ…すまない… ",
+    "translation": "我好像快没力气了……抱歉……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我好像快没力气了……抱歉…… \n\n快要筋疲力尽了……对不起…… \n\n我快精疲力尽了……对不起……"
+  },
+  {
+    "key": "MITURU_1PERSON_TP10_2_0",
+    "original": "少し疲弊してきたようだ… ",
+    "translation": "好像有点累了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我好像有点累了…… \n\n好像有点疲惫了…… \n\n好像有点累了……"
+  },
+  {
+    "key": "MITURU_1PERSON_TP10_3_0",
+    "original": "すまない…少し休まないか？ ",
+    "translation": "抱歉……能稍微休息下吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n抱歉……要不要休息一下？ \n\n对不起……不稍微休息一下吗？ \n\n对不起……要不要休息一下？"
+  },
+  {
+    "key": "MITURU_1PERSON_HP80_1_0",
+    "original": "次もこの調子でいきたいものだな。 ",
+    "translation": "希望下次也能保持这种感觉。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n希望下次也能像这样顺利。 \n\n下次也想这样下去啊。 \n\n希望下次也能继续这样下去。"
+  },
+  {
+    "key": "MITURU_1PERSON_HP80_2_0",
+    "original": "我々も成長しているということだな。 ",
+    "translation": "这表示我们也在成长啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这表示我们也有所成长了。 \n\n我们也在成长啊。 \n\n我们也在成长。"
+  },
+  {
+    "key": "MITURU_1PERSON_HP80_3_0",
+    "original": "ブリリアント！　見事な戦いだった。 ",
+    "translation": "太棒了！真是精彩的战斗。",
+    "stage": 1,
+    "context": "机翻辅助：\n\nBrilliant！刚才的战斗很精彩。 \n\n不列颠！这是一场漂亮的战斗。 \n\n亮！这是一场精彩的战斗。"
+  },
+  {
+    "key": "MITURU_DUNGEON_START_1_0",
+    "original": "指揮は任せる。 ",
+    "translation": "指挥就交给你了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n指挥交给你。 \n\n任凭指挥。 \n\n指挥交给他。"
+  },
+  {
+    "key": "MITURU_DUNGEON_START_2_0",
+    "original": "行くぞ！ ",
+    "translation": "上吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n上吧！ \n\n走吧！"
+  },
+  {
+    "key": "MITURU_DUNGEON_START_3_0",
+    "original": "探索を開始する！ ",
+    "translation": "开始探索！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n开始探索！"
+  },
+  {
+    "key": "MITURU_QUEST_START_1_0",
+    "original": "では行くとしよう。 ",
+    "translation": "那就出发吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那就出发吧。 \n\n那就去吧。"
+  },
+  {
+    "key": "MITURU_QUEST_START_2_0",
+    "original": "ミッションを開始する！ ",
+    "translation": "任务开始！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n开始任务！ \n\n任务开始！"
+  },
+  {
+    "key": "MITURU_QUEST_START_3_0",
+    "original": "始めるぞ、みんな。 ",
+    "translation": "要开始了、大家！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家，要开始喽。 \n\n开始了，大家。 \n\n开始吧，大家。"
+  },
+  {
+    "key": "MITURU_TOUHA_25_1_0",
+    "original": "まだまだ先は長そうだな。 ",
+    "translation": "看来路还很长呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前方似乎还很漫长。 \n\n看来路还很长呢。 \n\n前面好像还很长啊。"
+  },
+  {
+    "key": "MITURU_TOUHA_25_2_0",
+    "original": "無理せずに進もう。 ",
+    "translation": "别勉强自己慢慢前进吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n别勉强自己，慢慢前进吧。 \n\n不要勉强前进吧。 \n\n不要勉强自己前进吧。"
+  },
+  {
+    "key": "MITURU_TOUHA_50_1_0",
+    "original": "任せっきりですまない、疲れてないか？ ",
+    "translation": "抱歉把这些全都交给你，累了吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不好意思，都交给你指挥，你累不累？ \n\n完全交给你，对不起，你不累吗？ \n\n交给你了对不起，你累了吗？"
+  },
+  {
+    "key": "MITURU_TOUHA_50_2_0",
+    "original": "このフロアもだいぶ入り組んでいるな。 ",
+    "translation": "这层的构造也相当复杂呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这层楼的构造也相当复杂呢。 \n\n这个楼层也挺复杂的。 \n\n这个楼层也很复杂啊。"
+  },
+  {
+    "key": "MITURU_TOUHA_75_1_0",
+    "original": "かなり歩いたな、体力は大丈夫か？ ",
+    "translation": "走了不少路呢，体力没问题吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n走了好长一段路，体力还行吗？ \n\n走了很长一段路，体力还好吗？ \n\n走了不少路，体力还好吗？"
+  },
+  {
+    "key": "MITURU_TOUHA_75_2_0",
+    "original": "全体の構造が見えてきたな… ",
+    "translation": "已经看得出整体构造了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n已经看得出整体构造了…… \n\n看到了整体的构造啊…… \n\n看到了整体的构造……"
+  },
+  {
+    "key": "MITURU_TOUHA_100_1_0",
+    "original": "これでこのフロアは \n迷わず移動できるな。 ",
+    "translation": "这样就能在这一层\n毫无迷惘地移动了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这样就能在这一层楼\n毫无迷惘地移动了。 \n\n这样这个楼层就可以毫不犹豫地移动了。\n \n\n这样就可以毫不犹豫地移动这个楼层了。"
+  },
+  {
+    "key": "MITURU_TOUHA_100_2_0",
+    "original": "君に任せて正解だった。 ",
+    "translation": "交给你是正确的。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n交给你指挥是正确的。 \n\n交给你才是正确答案。 \n\n交给你就对了。"
+  },
+  {
+    "key": "MITURU_MAPPING_ICON_ALL__0",
+    "original": "私の記憶と相違ない。 ",
+    "translation": "和我记忆里的没有差别。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n和我的记忆没有不同。 \n\n和我的记忆没错。 \n\n和我的记忆一样。"
+  },
+  {
+    "key": "MITURU_MAPPING_ICON_ALL__2_0",
+    "original": "そういえば、そんなものもあったな。 ",
+    "translation": "话说回来，好像有这种东西呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n话说回来，好像有这种东西呢。 \n\n这么说来，也有那样的东西啊。 \n\n这么说来，也有那种东西。"
+  },
+  {
+    "key": "MITURU_MAPPING_ICON_KAID_0",
+    "original": "これで階段まで迷わないな。 ",
+    "translation": "这样就能不迷路走到楼梯了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这样就能毫不迷惘地走到楼梯了。 \n\n这样就不会迷路到楼梯了。 \n\n这样就不会迷路了。"
+  },
+  {
+    "key": "MITURU_MAPPING_ICON_KAID_2_0",
+    "original": "ここからフロア移動できるのだな。 ",
+    "translation": "可以从这里移动到其他楼层呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n可以从此处移动到其他楼层呢。 \n\n从这里可以移动楼层啊。"
+  },
+  {
+    "key": "MITURU_MAPPING_CHANGE_CO_0",
+    "original": "ほう…悪くないセンスだ。 ",
+    "translation": "哦……品味不错嘛。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦……品味不错嘛。 \n\n嗯……感觉不错。 \n\n哦……感觉还不错。"
+  },
+  {
+    "key": "MITURU_MAPPING_CHANGE_CO_2_0",
+    "original": "その発想は無かったぞ。 ",
+    "translation": "之前都没有想到这个。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我完全没想到这一点。 \n\n没有那个想法。 \n\n我可没有这个想法。"
+  },
+  {
+    "key": "MITURU_MAPPING_ICON_DEL__0",
+    "original": "スッキリしたな。 ",
+    "translation": "心情舒畅多了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n心情舒畅多了。 \n\n好清爽啊。 \n\n心情舒畅啊。"
+  },
+  {
+    "key": "MITURU_MAPPING_ICON_DEL__2_0",
+    "original": "無駄の無い美しい地図だ。 ",
+    "translation": "是一张没有多余之处的美丽地图。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是一张没有多余之处的美丽地图。 \n\n这是一张没有浪费的美丽地图。 \n\n没有多余的美丽地图。"
+  },
+  {
+    "key": "MITURU_MAPPING_MEMO_1_0",
+    "original": "ああ、これで忘れないな。 ",
+    "translation": "啊啊，这下就不会忘记了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊啊，这下子我不会忘记了。 \n\n啊，这样就忘不了了。 \n\n啊，这样就不会忘记了。"
+  },
+  {
+    "key": "MITURU_MAPPING_MEMO_2_0",
+    "original": "後で確認しよう。 ",
+    "translation": "之后再确认吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n之后再确认吧。 \n\n以后再确认吧。"
+  },
+  {
+    "key": "MITURU_DOOR_OPEN_1_0",
+    "original": "先に進もう。 ",
+    "translation": "继续前进吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n继续前进吧。 \n\n我们先走吧。"
+  },
+  {
+    "key": "MITURU_DOOR_OPEN_2_0",
+    "original": "よし、前進だ。 ",
+    "translation": "好，继续前进。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好，前进吧。 \n\n好，前进。 \n\n好，继续前进。"
+  },
+  {
+    "key": "MITURU_DOOR_OPEN_3_0",
+    "original": "早く来い。 ",
+    "translation": "快来！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n快点来吧。 \n\n快来。 \n\n快来！"
+  }
+]

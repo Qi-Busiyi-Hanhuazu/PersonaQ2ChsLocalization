@@ -1,0 +1,240 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "事態は核心へと迫り、高まる緊張に\n私も身が引き締まって参ります。",
+    "translation": "事態は核心へと迫り、高まる緊張に\n私も身が引き締まって参ります。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "そんな張り詰めた時間をお過ごしの皆様に\nお届けする、新たなチケットがございます。",
+    "translation": "そんな張り詰めた時間をお過ごしの皆様に\nお届けする、新たなチケットがございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "来るべき戦いに備えて、\nＦ．Ｏ．Ｅとの対決か？",
+    "translation": "来るべき戦いに備えて、\nＦ．Ｏ．Ｅとの対決か？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あるいは、戦力の増強となる\n新装備の入手などでしょうか？",
+    "translation": "あるいは、戦力の増強となる\n新装備の入手などでしょうか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "フフ、そういった類ではございません。\nこんなときこそ、のんびりと。",
+    "translation": "フフ、そういった類ではございません。\nこんなときこそ、のんびりと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "ひかり様の映画にて、『果物を４つ集める』\nという、ゆる～い内容となっております。",
+    "translation": "ひかり様の映画にて、『果物を４つ集める』\nという、ゆる～い内容となっております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "どうぞ皆様、\nお気軽にご参加くださいませ。",
+    "translation": "どうぞ皆様、\nお気軽にご参加くださいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "楽しそうだ",
+    "translation": "楽しそうだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "そんなヒマはない",
+    "translation": "そんなヒマはない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ああ、ずっと気を張ってると\n疲れちゃうからね。",
+    "translation": "ああ、ずっと気を張ってると\n疲れちゃうからね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "息抜きとまでは言わないけど\nリフレッシュできるかな。",
+    "translation": "息抜きとまでは言わないけど\nリフレッシュできるかな。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "やれやれ、オマエは真面目すぎるぞ。",
+    "translation": "やれやれ、オマエは真面目すぎるぞ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "はは、責任感が強いってことだよ。",
+    "translation": "はは、責任感が強いってことだよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "でも、リフレッシュも大事だ。\nちょっと寄り道もいいんじゃないかな。",
+    "translation": "でも、リフレッシュも大事だ。\nちょっと寄り道もいいんじゃないかな。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "やったー！　甘酸っぱい初恋チッスの\nフルーツパーティね！",
+    "translation": "やったー！　甘酸っぱい初恋チッスの\nフルーツパーティね！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "それでエリザベス、\n果物のある場所の情報は？",
+    "translation": "それでエリザベス、\n果物のある場所の情報は？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "特にございません。",
+    "translation": "特にございません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "申し上げました通り、いわばこちらは\nほっこりゆる～い癒しの上映。",
+    "translation": "申し上げました通り、いわばこちらは\nほっこりゆる～い癒しの上映。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_2",
+    "original": "広いフロアを、の～んびりと散策しながら、\nお探し頂ければよろしいかと。",
+    "translation": "広いフロアを、の～んびりと散策しながら、\nお探し頂ければよろしいかと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "やれやれ、手がかり無しか。",
+    "translation": "やれやれ、手がかり無しか。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "はは…エリザベスさんって、\n本当にマイペースですよね。",
+    "translation": "はは…エリザベスさんって、\n本当にマイペースですよね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "それじゃあとにかく、\n行ってみるしかありませんね。",
+    "translation": "それじゃあとにかく、\n行ってみるしかありませんね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "私もこちらで、こってりと…\nいえ、もっさり…いえ、マサカリ？",
+    "translation": "私もこちらで、こってりと…\nいえ、もっさり…いえ、マサカリ？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "もとい、まったりと鑑賞させて\n頂くことに致しましょう。",
+    "translation": "もとい、まったりと鑑賞させて\n頂くことに致しましょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_014_2",
+    "original": "それでは、ごゆるりと。",
+    "translation": "それでは、ごゆるりと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "はー…\nなんとかここまでたどり着いたな。",
+    "translation": "呼……\n总算来到这里了。",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n呼……\n总算来到这里了。\n\n啊……总算走到这里了。\n\n\n哈……好不容易走到了这里。"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "カモシダーマンのヤツ、\nファッションチェックなんて\nふざけたことしやがって…",
+    "translation": "鸭志田超人那家伙\n居然搞什么时尚检查\n开什么玩笑……",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n鸭志田超人那家伙\n居然搞什么时尚检查\n开什么玩笑……\n\n鸭志田超人的家伙，\n时尚检查什么的\n开玩笑的……\n\n鸭志田超人那家伙，搞什么时尚检查\n胡闹……"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ホント、大変だったよね…\nでもこの先に捕まってる皆がいるんだし\n弱音なんて吐いてらんないよ！",
+    "translation": "真的，很辛苦呢……\n不过，被抓的大家还在前面\n不能说丧气话！",
+    "stage": 0,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n真的，很辛苦呢……\n不过，被抓的大家还在前面\n不能说丧气话！\n\n真的很辛苦呢……\n但是前面有被抓住的大家\n不能说泄气话哟！\n\n真的，很辛苦啊……但是前面有被抓住的大家！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おう！\n早く真と春を助けてやんねーとな！",
+    "translation": "哦！\n得赶快救出真和小春才行！",
+    "stage": 0,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n哦！\n得赶快救出真和小春才行！\n\n哦！\n要快点救真和春啊！\n\n喔！快点救救真和春！"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "そんで、\nカモシダーマンをぶっ飛ばす！",
+    "translation": "然后，\n把鸭志田超人揍飞！",
+    "stage": 0,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n然后，\n把鸭志田超人揍飞！\n\n然后，踢飞鸭志田超人！\n\n\n就这样，把鸭志田超人打飞！"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "ああ、やるぞ！",
+    "translation": "嗯，我会加油！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯，我会加油！\n\n啊，干！\n\n啊，干吧！"
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "もう少しだ！",
+    "translation": "还差一点！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n还差一点！\n\n差一点了！"
+  },
+  {
+    "key": "SEL_003_2",
+    "original": "行くぞ、みんな！",
+    "translation": "上吧，各位！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n上吧，各位！\n\n走吧，大家！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おー！",
+    "translation": "哦～！",
+    "stage": 0,
+    "context": "说话人：怪盗団\n\n机翻辅助：\n\n哦～！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_怪盗団",
+    "original": "怪盗団",
+    "translation": "怪盗团",
+    "stage": 0,
+    "context": "机翻辅助：\n\n怪盗团"
+  }
+]

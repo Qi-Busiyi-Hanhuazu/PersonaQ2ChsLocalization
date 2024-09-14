@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "この道があれば\n映画館にもすぐに帰って来れそうだな！",
+    "translation": "この道があれば\n映画館にもすぐに帰って来れそうだな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "みんな、疲れてないか？\n[颜色 03]一旦戻って休憩[颜色 01]しても良いと思うぞ。",
+    "translation": "みんな、疲れてないか？\n[颜色 03]一旦戻って休憩[颜色 01]しても良いと思うぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "確かに不慣れな道だったからな。\n戻って態勢を立て直すのもアリだろう。",
+    "translation": "確かに不慣れな道だったからな。\n戻って態勢を立て直すのもアリだろう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "ジョーカー、判断は任せた。",
+    "translation": "ジョーカー、判断は任せた。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

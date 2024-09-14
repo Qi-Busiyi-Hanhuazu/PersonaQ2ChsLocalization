@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "オルゴールから\n『音楽』が消えてしまった…",
+    "translation": "オルゴールから\n『音楽』が消えてしまった…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あっ、そんな…音楽が…",
+    "translation": "あっ、そんな…音楽が…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おいおい…\nカエレールは使うなって言われてただろ？",
+    "translation": "おいおい…\nカエレールは使うなって言われてただろ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うーん、残念。\nもっかい『音楽』を入れに戻ろっか。",
+    "translation": "うーん、残念。\nもっかい『音楽』を入れに戻ろっか。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "４６歩以内で、カエレールは厳禁だ。\n次は忘れるなよ！？",
+    "translation": "４６歩以内で、カエレールは厳禁だ。\n次は忘れるなよ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

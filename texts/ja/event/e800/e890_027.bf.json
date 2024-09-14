@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "他愛もありませんね。\n貴方の力はその程度ですか。",
+    "translation": "他愛もありませんね。\n貴方の力はその程度ですか。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ククク…悔しいだろう？\nならばもっと力をつけて来い！",
+    "translation": "ククク…悔しいだろう？\nならばもっと力をつけて来い！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_001_1_0",
+    "original": "我らは逃げも隠れもせんぞ！\n気が済むまで相手をしてやろう！",
+    "translation": "我らは逃げも隠れもせんぞ！\n気が済むまで相手をしてやろう！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "フフ、楽しんでいるようで何より。",
+    "translation": "フフ、楽しんでいるようで何より。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1_0",
+    "original": "[P5姓]様も、諦めるつもりは\nなさそうでございますね。",
+    "translation": "[P5姓]様も、諦めるつもりは\nなさそうでございますね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1_1",
+    "original": "リベンジを果たされたい場合は、\nチケットカウンターでお声掛け下さいませ。",
+    "translation": "リベンジを果たされたい場合は、\nチケットカウンターでお声掛け下さいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  }
+]

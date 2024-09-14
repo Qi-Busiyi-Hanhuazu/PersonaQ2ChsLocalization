@@ -1,0 +1,345 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "どうやら例の広場は、\n左の道を進んだ所にあるみたいだぞ。",
+    "translation": "どうやら例の広場は、\n左の道を進んだ所にあるみたいだぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ふーん。そんじゃ、右の道は？",
+    "translation": "ふーん。そんじゃ、右の道は？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そっちはヤバい。ダメ、絶対。\nＦ．Ｏ．Ｅがうじゃうじゃいる。",
+    "translation": "そっちはヤバい。ダメ、絶対。\nＦ．Ｏ．Ｅがうじゃうじゃいる。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "マジ？\n近寄らないほうが良さそうだね。",
+    "translation": "マジ？\n近寄らないほうが良さそうだね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うじゃうじゃ…\nうじゃうじゃか…うじゃうじゃ。",
+    "translation": "うじゃうじゃ…\nうじゃうじゃか…うじゃうじゃ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うじゃうじゃ言うんじゃねーよ。\n呪文か！？",
+    "translation": "うじゃうじゃ言うんじゃねーよ。\n呪文か！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いや…なぜ集まっているのか気になってな。\n茨の道の先に、何かあるのか…？",
+    "translation": "いや…なぜ集まっているのか気になってな。\n茨の道の先に、何かあるのか…？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "お宝でもあるってか？",
+    "translation": "お宝でもあるってか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "気になる気持ちは分からなくはないが、\n今はクイーンとノワールを助けるのが先だ。",
+    "translation": "気になる気持ちは分からなくはないが、\n今はクイーンとノワールを助けるのが先だ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "そうだね。変なところに首を突っ込むと、\n不測の事態が…",
+    "translation": "そうだね。変なところに首を突っ込むと、\n不測の事態が…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "近くに誰かいる。静かに。",
+    "translation": "近くに誰かいる。静かに。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ショーに向けて、ライトアップを\nもっと派手にした方がいいな。",
+    "translation": "ショーに向けて、ライトアップを\nもっと派手にした方がいいな。",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ああ、そうすればカモシダーマン様の威光は\nさらに高まり、パワーも増すだろう！",
+    "translation": "ああ、そうすればカモシダーマン様の威光は\nさらに高まり、パワーも増すだろう！",
+    "stage": 1,
+    "context": "小太りの警官"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "カモシティの安全と平和のためにも、\nライトアップには力を入れなければ！",
+    "translation": "カモシティの安全と平和のためにも、\nライトアップには力を入れなければ！",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ショーの打ち合わせをしているようだな。\nずいぶんと派手にやるらしいが…",
+    "translation": "ショーの打ち合わせをしているようだな。\nずいぶんと派手にやるらしいが…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ショーって？",
+    "translation": "ショーって？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "お仕置きショーとかいう、ふざけたアレね。\n私たちの仲間を公開処刑しようとしてる。",
+    "translation": "お仕置きショーとかいう、ふざけたアレね。\n私たちの仲間を公開処刑しようとしてる。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "あっちは、まだこちらに気づいていない\nみたいだな…どうする、ジョーカー？",
+    "translation": "あっちは、まだこちらに気づいていない\nみたいだな…どうする、ジョーカー？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_018_0",
+    "original": "攻撃を仕掛けよう",
+    "translation": "攻撃を仕掛けよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_1",
+    "original": "様子を見よう",
+    "translation": "様子を見よう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "よっしゃ！\nひと暴れしてやるか！",
+    "translation": "よっしゃ！\nひと暴れしてやるか！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "…ちょっと待って。",
+    "translation": "…ちょっと待って。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "何か情報が聞けるかもしれない。\n少し様子を見てみよう。",
+    "translation": "何か情報が聞けるかもしれない。\n少し様子を見てみよう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "けどよ…",
+    "translation": "けどよ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "僕もジョーカーに賛成だ。\n何か情報が聞けるかもしれないよ。",
+    "translation": "僕もジョーカーに賛成だ。\n何か情報が聞けるかもしれないよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "…なあ。カモシダーマン様は、\n絶対に正しいんだよな？",
+    "translation": "…なあ。カモシダーマン様は、\n絶対に正しいんだよな？",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "馬鹿なことを…あの方の正義を疑う\nつもりか？　言葉には気をつけろよ。",
+    "translation": "馬鹿なことを…あの方の正義を疑う\nつもりか？　言葉には気をつけろよ。",
+    "stage": 1,
+    "context": "小太りの警官"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "そうなんだが、悪党を裁くにしても\nショーにする必要までは…どうかと。",
+    "translation": "そうなんだが、悪党を裁くにしても\nショーにする必要までは…どうかと。",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "見せしめがあるおかげで、\n街の平和が保たれているんだ！",
+    "translation": "見せしめがあるおかげで、\n街の平和が保たれているんだ！",
+    "stage": 1,
+    "context": "小太りの警官"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "明確な悪が裁かれた方が分かりやすいし、\n俺たちだって楽だろう？",
+    "translation": "明確な悪が裁かれた方が分かりやすいし、\n俺たちだって楽だろう？",
+    "stage": 1,
+    "context": "小太りの警官"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "それもそうか…平和に暮らせるなら、\n悪人の犠牲なんて安いもの…だな。",
+    "translation": "それもそうか…平和に暮らせるなら、\n悪人の犠牲なんて安いもの…だな。",
+    "stage": 1,
+    "context": "真面目そうな警官"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "よし、ショーを成功させるためにも\nライトアップの準備を急ぐぞ！",
+    "translation": "よし、ショーを成功させるためにも\nライトアップの準備を急ぐぞ！",
+    "stage": 1,
+    "context": "小太りの警官"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ライトアップ…ねぇ。",
+    "translation": "ライトアップ…ねぇ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ていうかアイツら！\n何なの、あの言いぐさ！",
+    "translation": "ていうかアイツら！\n何なの、あの言いぐさ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "そもそもクイーンもノワールも\n悪人じゃないし！",
+    "translation": "そもそもクイーンもノワールも\n悪人じゃないし！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "正義のためなら犠牲も仕方ない、か…\n納得しかねる考えだな。",
+    "translation": "正義のためなら犠牲も仕方ない、か…\n納得しかねる考えだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_031_1",
+    "original": "犠牲の上に成り立つ正義など偽物だ。",
+    "translation": "犠牲の上に成り立つ正義など偽物だ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ああ…ナメた連中だぜ。\n完全に取り違えてやがる！",
+    "translation": "ああ…ナメた連中だぜ。\n完全に取り違えてやがる！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "少なくとも、ワガハイたちが信じる正義とは\n違うようだな。",
+    "translation": "少なくとも、ワガハイたちが信じる正義とは\n違うようだな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "ヤツらの鼻を明かすためにも、\n先へ進むぞ！",
+    "translation": "ヤツらの鼻を明かすためにも、\n先へ進むぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真面目そうな警官",
+    "original": "真面目そうな警官",
+    "translation": "真面目そうな警官",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_小太りの警官",
+    "original": "小太りの警官",
+    "translation": "小太りの警官",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "チョウチョ、いないね。\n確かにこっちへ飛んできたはずだけど…",
+    "translation": "チョウチョ、いないね。\n確かにこっちへ飛んできたはずだけど…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あんなに大きいし、きっと見つかるよ。\nこのフロア、探してみよ？",
+    "translation": "あんなに大きいし、きっと見つかるよ。\nこのフロア、探してみよ？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  }
+]

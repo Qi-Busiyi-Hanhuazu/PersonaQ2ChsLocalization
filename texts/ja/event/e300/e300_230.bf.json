@@ -1,0 +1,1255 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あっ…止まった。",
+    "translation": "あっ…止まった。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ちょっ、これ大丈夫なの？\n暗すぎてなんも見えないんだけど！？",
+    "translation": "ちょっ、これ大丈夫なの？\n暗すぎてなんも見えないんだけど！？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ＴＫ－００、０２、０４、０７。\nＹＳ－０３。",
+    "translation": "ＴＫ－００、０２、０４、０７。\nＹＳ－０３。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "ＩＷ－０１、０７、０８。\nＵＩＹ－２２４９。",
+    "translation": "ＩＷ－０１、０７、０８。\nＵＩＹ－２２４９。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "『適応能力』のテストを開始します。",
+    "translation": "『適応能力』のテストを開始します。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "罠ではなさそうだな。\nだが、この暗闇でなにを行うつもりだ？",
+    "translation": "罠ではなさそうだな。\nだが、この暗闇でなにを行うつもりだ？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ええっ、これなに？\n溶鉱炉の上に、鉄骨が架かってる…",
+    "translation": "ええっ、これなに？\n溶鉱炉の上に、鉄骨が架かってる…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_004_1_0",
+    "original": "その奥には吊り橋…？",
+    "translation": "その奥には吊り橋…？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "これはバランスロード。",
+    "translation": "これはバランスロード。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "極端な寒暑、真空、水中など、様々な状況が\nありますが、今回のテストは『高所』です。",
+    "translation": "極端な寒暑、真空、水中など、様々な状況が\nありますが、今回のテストは『高所』です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "不安定な足場に適応できなければ\n不適格とみなし、その場で処分します。",
+    "translation": "不安定な足場に適応できなければ\n不適格とみなし、その場で処分します。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "え？　その場で処分！？",
+    "translation": "え？　その場で処分！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "処分もなにも、ここから落ちたら\n溶鉱炉に直行じゃないですか…",
+    "translation": "処分もなにも、ここから落ちたら\n溶鉱炉に直行じゃないですか…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "処分ハ、そういうモノデス。\n重度のエラーハ、即廃棄されるのデス。",
+    "translation": "処分ハ、そういうモノデス。\n重度のエラーハ、即廃棄されるのデス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "労働作業には、協調性も問われます。\n達成しなかった場合は連帯責任です。",
+    "translation": "労働作業には、協調性も問われます。\n達成しなかった場合は連帯責任です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "全員、重大なエラーがあるとみなし、\nこの場で処分します。",
+    "translation": "全員、重大なエラーがあるとみなし、\nこの場で処分します。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_009_2",
+    "original": "それでは、開始します。",
+    "translation": "それでは、開始します。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "適応能力って、こういうことだったんだ。\nもう、渡りきるしか道はないよね？",
+    "translation": "適応能力って、こういうことだったんだ。\nもう、渡りきるしか道はないよね？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "怖いな…",
+    "translation": "怖いな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "楽勝だ",
+    "translation": "楽勝だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_2",
+    "original": "高い所は好きだ",
+    "translation": "高い所は好きだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ふむ、さしものジョーカーも、\nといったところか。",
+    "translation": "ふむ、さしものジョーカーも、\nといったところか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "なんでそんなに他人事なわけ…\nフォックスも渡るんだからね？",
+    "translation": "なんでそんなに他人事なわけ…\nフォックスも渡るんだからね？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "本当ですか？\nさすが、怪盗なだけありますね！",
+    "translation": "本当ですか？\nさすが、怪盗なだけありますね！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "いや、怪盗とか関係ないから！\nハードル上げすぎないで！",
+    "translation": "いや、怪盗とか関係ないから！\nハードル上げすぎないで！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ああ、高い所は気持ちも高揚する。\nそれに案外、絶景かもしれんしな。",
+    "translation": "ああ、高い所は気持ちも高揚する。\nそれに案外、絶景かもしれんしな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ハイハイ…私から見たら\n絶景というより、絶望なんだけどね。",
+    "translation": "ハイハイ…私から見たら\n絶景というより、絶望なんだけどね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "てかこれ、ロボットにとっては\n『適応』かもしんないけど…",
+    "translation": "てかこれ、ロボットにとっては\n『適応』かもしんないけど…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "私たちにとっては、命がけの\n『度胸』試しじゃない？",
+    "translation": "私たちにとっては、命がけの\n『度胸』試しじゃない？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "どうやって渡ればいいのかな…\nお手本があればイメージしやすいんだけど。",
+    "translation": "どうやって渡ればいいのかな…\nお手本があればイメージしやすいんだけど。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あっ、コロマル！？",
+    "translation": "あっ、コロマル！？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "すごっ…あっという間に\nスイスイ行っちゃった！",
+    "translation": "すごっ…あっという間に\nスイスイ行っちゃった！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ワン、ワンッ！",
+    "translation": "ワン、ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "『大丈夫ダ、ミンナ続け』と\n言っていマス。",
+    "translation": "『大丈夫ダ、ミンナ続け』と\n言っていマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "さすがコロマル、度胸がありますね。",
+    "translation": "さすがコロマル、度胸がありますね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "だけど、僕たちじゃあんな動きは\n真似できませんよね？",
+    "translation": "だけど、僕たちじゃあんな動きは\n真似できませんよね？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "そうだね。人間のお手本もあれば\n分かりやすいんだけど…",
+    "translation": "そうだね。人間のお手本もあれば\n分かりやすいんだけど…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "では、ここはリーダーである\nジョーカーに任せよう。",
+    "translation": "では、ここはリーダーである\nジョーカーに任せよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "魅せてくれ、ジョーカー！",
+    "translation": "魅せてくれ、ジョーカー！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_029_0",
+    "original": "決めてやる",
+    "translation": "決めてやる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_029_1",
+    "original": "骨は拾ってくれ",
+    "translation": "骨は拾ってくれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "落ちたら骨も残らなそうだが…\nいや、その心意気、確かに受け取った！",
+    "translation": "落ちたら骨も残らなそうだが…\nいや、その心意気、確かに受け取った！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "渡るしかなさそうだ…",
+    "translation": "渡るしかなさそうだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "うわ、スタスタ歩いちゃうなんて\nさすが怪盗団ですね！",
+    "translation": "うわ、スタスタ歩いちゃうなんて\nさすが怪盗団ですね！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "あんなスピードで渡ってるのに\nバランス崩れないとか、すご…",
+    "translation": "あんなスピードで渡ってるのに\nバランス崩れないとか、すご…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "なんとか鉄骨の上を渡りきった…",
+    "translation": "なんとか鉄骨の上を渡りきった…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "やったね、ジョーカー。\nなんだか私も、いけそうな気がしてきた。",
+    "translation": "やったね、ジョーカー。\nなんだか私も、いけそうな気がしてきた。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "今のは貴重なサンプルデス。\n安全なルートの割リ出シがデキマシタ。",
+    "translation": "今のは貴重なサンプルデス。\n安全なルートの割リ出シがデキマシタ。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "安全なルートってなに！？\n鉄骨しかないけど！？",
+    "translation": "安全なルートってなに！？\n鉄骨しかないけど！？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "行っちゃった…\nリボンちゃん大丈夫かな？",
+    "translation": "行っちゃった…\nリボンちゃん大丈夫かな？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "安全なルートらしい。\n落ちることはないだろう。",
+    "translation": "安全なルートらしい。\n落ちることはないだろう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "真ん中を通ってるようにしか\n見えないですけど…",
+    "translation": "真ん中を通ってるようにしか\n見えないですけど…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "あ、リボンちゃんも\n無事に渡りきったみたい。",
+    "translation": "あ、リボンちゃんも\n無事に渡りきったみたい。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_041_1",
+    "original": "えっと…次は、誰行く？",
+    "translation": "えっと…次は、誰行く？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "私、行っていい？\n今ならみんなに続けそう。",
+    "translation": "私、行っていい？\n今ならみんなに続けそう。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_042_1",
+    "original": "バレエで鍛えたバランス感覚で…\nよっと！",
+    "translation": "バレエで鍛えたバランス感覚で…\nよっと！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "ほう、堂々としているな。\n美しいフォームだ。",
+    "translation": "ほう、堂々としているな。\n美しいフォームだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "うん、迷いなく渡りきったね。\nじゃあ次は、私が行こうかな。",
+    "translation": "うん、迷いなく渡りきったね。\nじゃあ次は、私が行こうかな。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_044_1",
+    "original": "こういうのって、鉄骨を\n畳の縁だと思えば簡単な気がする。",
+    "translation": "こういうのって、鉄骨を\n畳の縁だと思えば簡単な気がする。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "畳と鉄骨って、いや意味わかんないし…\nって、もう行ってるし！",
+    "translation": "畳と鉄骨って、いや意味わかんないし…\nって、もう行ってるし！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "雪子ちゃんも、かなりキモが\n据わってるよね…",
+    "translation": "雪子ちゃんも、かなりキモが\n据わってるよね…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "美しい！　命がけで渡る、その後ろ姿！\n魂が震えたぞ！",
+    "translation": "美しい！　命がけで渡る、その後ろ姿！\n魂が震えたぞ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_047_1",
+    "original": "フッ…ならば、俺も行かねばなるまい。\n美を体現してみせよう。",
+    "translation": "フッ…ならば、俺も行かねばなるまい。\n美を体現してみせよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_048_0",
+    "original": "いいから早くしろ",
+    "translation": "いいから早くしろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_048_1",
+    "original": "魅せてくれフォックス",
+    "translation": "魅せてくれフォックス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "了解した。\n俺の姿、しかと目に焼き付けてくれ。",
+    "translation": "了解した。\n俺の姿、しかと目に焼き付けてくれ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "フォックスが鉄骨を渡りはじめた…",
+    "translation": "フォックスが鉄骨を渡りはじめた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_050_1",
+    "original": "だが、体がグラグラと揺れている…",
+    "translation": "だが、体がグラグラと揺れている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "なんか…怪しくない？",
+    "translation": "なんか…怪しくない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "うん、落ちそうっていうか…\n揺れてるっていうか…ヤバいよね？",
+    "translation": "うん、落ちそうっていうか…\n揺れてるっていうか…ヤバいよね？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "ああっ！",
+    "translation": "ああっ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "フォックス！！",
+    "translation": "フォックス！！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "ハアァッ！",
+    "translation": "ハアァッ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "え、なにあれ…\n体を張ったギャグ？　笑えばいいの？",
+    "translation": "え、なにあれ…\n体を張ったギャグ？　笑えばいいの？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "バランスの黄金比だ！",
+    "translation": "バランスの黄金比だ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "もう…驚かせないでよ！\nなんだかんだ、渡り切っちゃったし。",
+    "translation": "もう…驚かせないでよ！\nなんだかんだ、渡り切っちゃったし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "でも、これで残り三人か。\n次どうする？",
+    "translation": "でも、これで残り三人か。\n次どうする？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "こういうのって、後になればなるほど\n緊張するよね…もう、三人で行く？",
+    "translation": "こういうのって、後になればなるほど\n緊張するよね…もう、三人で行く？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "あ、それナイスアイデア！\n先頭は…パンサー行ける…？",
+    "translation": "あ、それナイスアイデア！\n先頭は…パンサー行ける…？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_062_0",
+    "original": "私、出来れば真ん中がいいな～…\nなんて、やっぱダメ？",
+    "translation": "私、出来れば真ん中がいいな～…\nなんて、やっぱダメ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_063_0",
+    "original": "じゃあ、僕が先頭いきますよ。\nお二人はついて来てください。",
+    "translation": "じゃあ、僕が先頭いきますよ。\nお二人はついて来てください。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_064_0",
+    "original": "天田くん、平気なの！？",
+    "translation": "天田くん、平気なの！？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_065_0",
+    "original": "僕だって、それくらいやってみせます！\nし、下さえ見なければ…行けますよ。",
+    "translation": "僕だって、それくらいやってみせます！\nし、下さえ見なければ…行けますよ。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_066_0",
+    "original": "ゆ、ゆっくりでいいよね？\n怖いから、いっそ目をつぶって…",
+    "translation": "ゆ、ゆっくりでいいよね？\n怖いから、いっそ目をつぶって…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_067_0",
+    "original": "目つぶったらダメだって！\n集中して、前の鉄骨だけ見て！",
+    "translation": "目つぶったらダメだって！\n集中して、前の鉄骨だけ見て！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_068_0",
+    "original": "やばっ、足が震える…",
+    "translation": "やばっ、足が震える…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_069_0",
+    "original": "も、もう少しですよ！\n余計なことは考えずに進みましょう！",
+    "translation": "も、もう少しですよ！\n余計なことは考えずに進みましょう！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_070_0",
+    "original": "や、やっと着いた～…\nめちゃくちゃ緊張したぁ…",
+    "translation": "や、やっと着いた～…\nめちゃくちゃ緊張したぁ…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_071_0",
+    "original": "三人とも、お疲れさま！\n無事に渡れて良かった。",
+    "translation": "三人とも、お疲れさま！\n無事に渡れて良かった。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_072_0",
+    "original": "ふぅ…天田くんが引っ張ってくれたから、\n勢いで乗り切れたって感じ。",
+    "translation": "ふぅ…天田くんが引っ張ってくれたから、\n勢いで乗り切れたって感じ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_073_0",
+    "original": "実は、ちょっと必死でしたけど…\n僕もやれるって所、見せられましたかね？",
+    "translation": "実は、ちょっと必死でしたけど…\n僕もやれるって所、見せられましたかね？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_074_0",
+    "original": "よくやった",
+    "translation": "よくやった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_074_1",
+    "original": "怪盗になれる",
+    "translation": "怪盗になれる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_075_0",
+    "original": "へへっ…まあ、僕も皆さんの\n後を追っただけですけど。",
+    "translation": "へへっ…まあ、僕も皆さんの\n後を追っただけですけど。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_076_0",
+    "original": "でも乾くん、頼もしかったよ。\nありがとね！",
+    "translation": "でも乾くん、頼もしかったよ。\nありがとね！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_077_0",
+    "original": "ワン、ワンッ！",
+    "translation": "ワン、ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_078_0",
+    "original": "うんうん。\n乾くんなら、いつでも歓迎だよ。",
+    "translation": "うんうん。\n乾くんなら、いつでも歓迎だよ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_079_0",
+    "original": "本当ですか！？\nへへっ、怪盗か…やった。",
+    "translation": "本当ですか！？\nへへっ、怪盗か…やった。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_080_0",
+    "original": "ワン、ワンッ！",
+    "translation": "ワン、ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_081_0",
+    "original": "それでは、次の課題です。",
+    "translation": "それでは、次の課題です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_082_0",
+    "original": "そっか。\nまだ終わりじゃないんだった…",
+    "translation": "そっか。\nまだ終わりじゃないんだった…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_083_0",
+    "original": "次は『鉄骨を３分以内に渡りきる』です。\n一斉に全員で渡ってください。",
+    "translation": "次は『鉄骨を３分以内に渡りきる』です。\n一斉に全員で渡ってください。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_083_1",
+    "original": "１体でも脱落した場合、連帯責任として\n全員を処分します。",
+    "translation": "１体でも脱落した場合、連帯責任として\n全員を処分します。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_084_0",
+    "original": "はぁ？　ウソでしょ！？\n全員まとめてで、しかも３分！？",
+    "translation": "はぁ？　ウソでしょ！？\n全員まとめてで、しかも３分！？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_085_0",
+    "original": "あ、目の前にまた鉄骨が！",
+    "translation": "あ、目の前にまた鉄骨が！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_086_0",
+    "original": "それでは開始します。\nテストスタート。",
+    "translation": "それでは開始します。\nテストスタート。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_087_0",
+    "original": "え、ちょっと！　もう！？",
+    "translation": "え、ちょっと！　もう！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_088_0",
+    "original": "悩んでる時間はなさそうだな。\nみんなでジョーカーに続くぞ。",
+    "translation": "悩んでる時間はなさそうだな。\nみんなでジョーカーに続くぞ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_089_0",
+    "original": "下は見ちゃダメだよ。\nみんな、前だけを見て！",
+    "translation": "下は見ちゃダメだよ。\nみんな、前だけを見て！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_090_0",
+    "original": "大丈夫、大丈夫…\nさっきだって渡れたんだから…",
+    "translation": "大丈夫、大丈夫…\nさっきだって渡れたんだから…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_091_0",
+    "original": "残り１分です。",
+    "translation": "残り１分です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_092_0",
+    "original": "どうしよう。\n急がないと間に合いませんよ！",
+    "translation": "どうしよう。\n急がないと間に合いませんよ！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_093_0",
+    "original": "きゃっ！？　足がもつれて…",
+    "translation": "きゃっ！？　足がもつれて…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_094_0",
+    "original": "あっ、バランスがっ…！",
+    "translation": "あっ、バランスがっ…！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_095_0",
+    "original": "ちょ、ヤバ…ッ！　落ちる！",
+    "translation": "ちょ、ヤバ…ッ！　落ちる！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_096_0",
+    "original": "やだ、助けて！　怖い！",
+    "translation": "やだ、助けて！　怖い！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_097_0",
+    "original": "雪子に手を差し出す",
+    "translation": "雪子に手を差し出す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_097_1",
+    "original": "ゆかりに手を差し出す",
+    "translation": "ゆかりに手を差し出す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_097_2",
+    "original": "パンサーに手を差し出す",
+    "translation": "パンサーに手を差し出す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_097_3",
+    "original": "ノワールに手を差し出す",
+    "translation": "ノワールに手を差し出す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_098_0",
+    "original": "えっ？\nあ…ありがとう。",
+    "translation": "えっ？\nあ…ありがとう。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_098_5_0",
+    "original": "って、あ…！",
+    "translation": "って、あ…！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_099_0",
+    "original": "あ、ありがと！　助かる！",
+    "translation": "あ、ありがと！　助かる！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_099_5_0",
+    "original": "…って、あっ！？",
+    "translation": "…って、あっ！？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_100_0",
+    "original": "ジョーカー！\nありがと、嬉しい！",
+    "translation": "ジョーカー！\nありがと、嬉しい！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_100_5_0",
+    "original": "って、あっ…！",
+    "translation": "って、あっ…！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_101_0",
+    "original": "えっ、ジョーカー！？\nありがとう、つかまるね…",
+    "translation": "えっ、ジョーカー！？\nありがとう、つかまるね…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_101_5_0",
+    "original": "…って、え！？",
+    "translation": "…って、え！？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_102_0",
+    "original": "おっと。\nすまない！　ジョーカー！",
+    "translation": "おっと。\nすまない！　ジョーカー！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_103_0",
+    "original": "フォックスに抱きつかれた…",
+    "translation": "フォックスに抱きつかれた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_104_0",
+    "original": "君が手を差し出してくれたおかげで、\nバランスを崩さずに済んだ。感謝する。",
+    "translation": "君が手を差し出してくれたおかげで、\nバランスを崩さずに済んだ。感謝する。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_105_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_106_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_107_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_108_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_109_0",
+    "original": "あ、見てください！\nゴールはもう、すぐそこですよ！",
+    "translation": "あ、見てください！\nゴールはもう、すぐそこですよ！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_110_0",
+    "original": "よし、このまま勢いで抜けるぞ！",
+    "translation": "よし、このまま勢いで抜けるぞ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_110_1",
+    "original": "…おい、ジョーカーどうした？",
+    "translation": "…おい、ジョーカーどうした？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_111_0",
+    "original": "あんたが抱きついてるから\n走れないんでしょ。",
+    "translation": "あんたが抱きついてるから\n走れないんでしょ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_112_0",
+    "original": "なるほど。失敬。",
+    "translation": "なるほど。失敬。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_113_0",
+    "original": "この先に解除スイッチがあるはず。\n早くスイッチを押して、集合場所に戻ろう。",
+    "translation": "この先に解除スイッチがあるはず。\n早くスイッチを押して、集合場所に戻ろう。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_114_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_115_0",
+    "original": "一方、その頃…\n『力』の試験部屋…",
+    "translation": "一方、その頃…\n『力』の試験部屋…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_116_0",
+    "original": "もしかすると、自分たちの体を\nのせれば簡単になるんじゃないか？",
+    "translation": "もしかすると、自分たちの体を\nのせれば簡単になるんじゃないか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_117_0",
+    "original": "さっすがセンセイ！\nクマもずっと思ってたクマ！",
+    "translation": "さっすがセンセイ！\nクマもずっと思ってたクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_118_0",
+    "original": "ウソこいてんじゃねぇ！\nさっきまで死にそうな顔だったろ！？",
+    "translation": "ウソこいてんじゃねぇ！\nさっきまで死にそうな顔だったろ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_119_0",
+    "original": "フッ…キレのあるツッコミだ。",
+    "translation": "フッ…キレのあるツッコミだ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_120_0",
+    "original": "バカ、変なとこ感心してねえで\nさっさとしろ。時間がねーぞ！",
+    "translation": "バカ、変なとこ感心してねえで\nさっさとしろ。時間がねーぞ！",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_121_0",
+    "original": "ま、待って！\n一人ずつのるのは止めよ！？",
+    "translation": "ま、待って！\n一人ずつのるのは止めよ！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_122_0",
+    "original": "また一方、その頃…\n『知識』の試験部屋…",
+    "translation": "また一方、その頃…\n『知識』の試験部屋…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_123_0",
+    "original": "うん、モナも正解したわね。\nあとは花村君だけよ。",
+    "translation": "うん、モナも正解したわね。\nあとは花村君だけよ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_124_0",
+    "original": "お、おう…\n見てろよ、参謀の実力！",
+    "translation": "お、おう…\n見てろよ、参謀の実力！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_125_0",
+    "original": "落ち着いて、陽介くん。\n考えれば大丈夫だから。",
+    "translation": "落ち着いて、陽介くん。\n考えれば大丈夫だから。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_126_0",
+    "original": "[P3P姓]さんの言う通りです。\nパニックにならず、冷静にいきましょう。",
+    "translation": "[P3P姓]さんの言う通りです。\nパニックにならず、冷静にいきましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_127_0",
+    "original": "いざという時はフォローするし、\nどーんと構えていこ！",
+    "translation": "いざという時はフォローするし、\nどーんと構えていこ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_128_0",
+    "original": "うむ…なかなか頼もしい\nリーダーじゃねえか。",
+    "translation": "うむ…なかなか頼もしい\nリーダーじゃねえか。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_129_0",
+    "original": "ああ、上手くまとめてくれている。\nリーダーとしての資質を感じるな。",
+    "translation": "ああ、上手くまとめてくれている。\nリーダーとしての資質を感じるな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_試験メッセージ",
+    "original": "試験メッセージ",
+    "translation": "試験メッセージ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

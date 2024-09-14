@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…ひとついいか？\n気になることがあるんだが。",
+    "translation": "…ひとついいか？\n気になることがあるんだが。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "あの映画館に閉じ込められたのも\nひかりの影響…ということなんだよな？",
+    "translation": "あの映画館に閉じ込められたのも\nひかりの影響…ということなんだよな？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "何故、そんなことが起きたのだろうか。",
+    "translation": "何故、そんなことが起きたのだろうか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うーむ、その辺はまだ分からん…",
+    "translation": "うーむ、その辺はまだ分からん…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "とにかく戻ろうぜ。\n最後の鍵も手に入ったんだしさ。",
+    "translation": "とにかく戻ろうぜ。\n最後の鍵も手に入ったんだしさ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうだね、ナギさんも待ってる…\n色々と話さなきゃ。",
+    "translation": "そうだね、ナギさんも待ってる…\n色々と話さなきゃ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "じゃあ、映画館に帰りましょう。",
+    "translation": "じゃあ、映画館に帰りましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  }
+]

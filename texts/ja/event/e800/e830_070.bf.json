@@ -1,0 +1,261 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "複雑怪奇な迷宮を物ともせず\n見事に踏破なさいましたね。",
+    "translation": "複雑怪奇な迷宮を物ともせず\n見事に踏破なさいましたね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "皆様が辿った道のりは、文字通り\n『ＧＲＯＷ』、すなわち『成長』の軌跡！",
+    "translation": "皆様が辿った道のりは、文字通り\n『ＧＲＯＷ』、すなわち『成長』の軌跡！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あー、やっぱその感じでまとめんのね。",
+    "translation": "あー、やっぱその感じでまとめんのね。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "フッ、俺の方が先に言った。",
+    "translation": "フッ、俺の方が先に言った。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "でもホント不思議だよねー。\n中の造りが変わっちゃうなんてさ。",
+    "translation": "でもホント不思議だよねー。\n中の造りが変わっちゃうなんてさ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "何かを象徴してる、とか…\n考えすぎかな。",
+    "translation": "何かを象徴してる、とか…\n考えすぎかな。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ぷりちーなクマの乙女心のように揺れる\nフクザツなお年頃なんでショー！",
+    "translation": "ぷりちーなクマの乙女心のように揺れる\nフクザツなお年頃なんでショー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あはは、はいはい。",
+    "translation": "あはは、はいはい。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "またこんなトコいんのか。",
+    "translation": "またこんなトコいんのか。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ははは、荒垣君こそ。",
+    "translation": "ははは、荒垣君こそ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "なんだか申し訳ないね、\n気を遣ってもらってるみたいで。",
+    "translation": "なんだか申し訳ないね、\n気を遣ってもらってるみたいで。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "そんなんじゃねえよ。",
+    "translation": "そんなんじゃねえよ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "身の置き場のない似た者同士、\n話でもと思っただけだ。",
+    "translation": "身の置き場のない似た者同士、\n話でもと思っただけだ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "似た者同士？　僕と君が？",
+    "translation": "似た者同士？　僕と君が？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "つーかよ、お前…",
+    "translation": "つーかよ、お前…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "シンジ、ちょっと来てくれ！\nミット打ちの手伝いを頼む！",
+    "translation": "シンジ、ちょっと来てくれ！\nミット打ちの手伝いを頼む！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "おい、どこにいるシンジ？",
+    "translation": "おい、どこにいるシンジ？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "呼んでるよ。\n僕に構わず行くといい。",
+    "translation": "呼んでるよ。\n僕に構わず行くといい。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "君と僕は…たぶん違う。",
+    "translation": "君と僕は…たぶん違う。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "僕はこっちの道を選んだんだ。\nただ、それだけの話さ。",
+    "translation": "僕はこっちの道を選んだんだ。\nただ、それだけの話さ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "お前の事情はわからねえ。\nただ、これだけは言っとくぞ。",
+    "translation": "お前の事情はわからねえ。\nただ、これだけは言っとくぞ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_015_2",
+    "original": "俺は後悔だらけだが、少なくとも、\nこれから後悔のないように生きる。",
+    "translation": "俺は後悔だらけだが、少なくとも、\nこれから後悔のないように生きる。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_015_3",
+    "original": "そんだけだ、じゃあな。",
+    "translation": "そんだけだ、じゃあな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "申し訳ないけど…わからないな。",
+    "translation": "申し訳ないけど…わからないな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "…後悔、か。",
+    "translation": "…後悔、か。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  }
+]

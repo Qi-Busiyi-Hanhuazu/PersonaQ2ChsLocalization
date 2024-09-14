@@ -1,0 +1,2431 @@
+[
+  {
+    "key": "combine_sel_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_sel_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_check_zyusu_0",
+    "original": "このペルソナですね？",
+    "translation": "このペルソナですね？",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "combine_check_karo_0",
+    "original": "このペルソナでいいんだな？",
+    "translation": "このペルソナでいいんだな？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "combine_not_level_0",
+    "original": "このペルソナを生み出すには、\n貴様らのレベルが足りないぞ！\n恥を知れ！！",
+    "translation": "このペルソナを生み出すには、\n貴様らのレベルが足りないぞ！\n恥を知れ！！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "combine_possession_0",
+    "original": "このペルソナは\n既に持っているじゃないか！",
+    "translation": "このペルソナは\n既に持っているじゃないか！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "combine_not_has_sorce_pe_0",
+    "original": "素材となるペルソナを\n持っていないじゃないか！",
+    "translation": "素材となるペルソナを\n持っていないじゃないか！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "combine_stock_over_0",
+    "original": "それ以上ペルソナは\n所持できないぞ！\n強欲な奴め！",
+    "translation": "それ以上ペルソナは\n所持できないぞ！\n強欲な奴め！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "combine_free_ticket_chec_0",
+    "original": "[道具 0647]が[占位A 01]枚ありますね。\n使用して無料で合体しますか？",
+    "translation": "[道具 0647]が[占位A 01]枚ありますね。\n使用して無料で合体しますか？",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "combine_money_0",
+    "original": "所持金が足りないようね…",
+    "translation": "所持金が足りないようね…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "combine_money_conf_0",
+    "original": "このペルソナを生み出すには\n[颜色 03][占位A 01]円[颜色 01]頂きます。いいですね？",
+    "translation": "このペルソナを生み出すには\n[颜色 03][占位A 01]円[颜色 01]頂きます。いいですね？",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "combine_succession_0",
+    "original": "継承するスキルを選びなさい。",
+    "translation": "継承するスキルを選びなさい。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "combine_get_card_0",
+    "original": "ペルソナ『[颜色 02][占位A 01][颜色 01]』が\n心の中に生まれた。",
+    "translation": "ペルソナ『[颜色 02][占位A 01][颜色 01]』が\n心の中に生まれた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_accident_0",
+    "original": "多少想定とは違うが…\nま、まあ問題なかろう！",
+    "translation": "多少想定とは違うが…\nま、まあ問題なかろう！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "combine_fool_accident_0",
+    "original": "あら、これは…\n“ワイルドカード”ですね。",
+    "translation": "あら、これは…\n“ワイルドカード”ですね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "combine_accident_Ex_0",
+    "original": "多少想定とは違うが…\nま、まあ問題なかろう！",
+    "translation": "多少想定とは違うが…\nま、まあ問題なかろう！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "combine_fool_accident_Ex_0",
+    "original": "あら、これは…\n“ワイルドカード”ですね。",
+    "translation": "あら、これは…\n“ワイルドカード”ですね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "zensyo_summons_0",
+    "original": "このペルソナを召喚するには、\n[颜色 03][占位A 01]円[颜色 01]かかるぞ。いいんだな？",
+    "translation": "このペルソナを召喚するには、\n[颜色 03][占位A 01]円[颜色 01]かかるぞ。いいんだな？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "zensyo_not_summons_0",
+    "original": "所持金が足りません。\n…冷やかしなら結構です。",
+    "translation": "所持金が足りません。\n…冷やかしなら結構です。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "zensyo_get_summons_0",
+    "original": "ペルソナ『[颜色 02][占位A 01][颜色 01]』を\n召喚した。",
+    "translation": "ペルソナ『[颜色 02][占位A 01][颜色 01]』を\n召喚した。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "zensyo_not2_summons_0",
+    "original": "このペルソナは既に所持しているようです。\nちゃんと確認なさい。",
+    "translation": "このペルソナは既に所持しているようです。\nちゃんと確認なさい。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "zensyo_not3_summons_0",
+    "original": "このペルソナを生み出すには、\nまだ貴方のレベルが足りないようです…",
+    "translation": "このペルソナを生み出すには、\nまだ貴方のレベルが足りないようです…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "zensyo_not4_summons_0",
+    "original": "それ以上ペルソナは持てませんよ。\nあまり欲張らないように。",
+    "translation": "それ以上ペルソナは持てませんよ。\nあまり欲張らないように。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "zensyo_regist_0",
+    "original": "ペルソナフィルムに上書きしたぞ！",
+    "translation": "ペルソナフィルムに上書きしたぞ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "zensyo_add_check_0",
+    "original": "所持している[颜色 02][占位A 01][颜色 01]を\nペルソナフィルムに登録していいんだな？",
+    "translation": "所持している[颜色 02][占位A 01][颜色 01]を\nペルソナフィルムに登録していいんだな？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "zensyo_all_add_check_0",
+    "original": "所持している全てのペルソナを\nペルソナフィルムに登録していいんだな？",
+    "translation": "所持している全てのペルソナを\nペルソナフィルムに登録していいんだな？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "zensyo_mark_add_check_0",
+    "original": "選択しているペルソナを\nペルソナフィルムに登録していいんだな？",
+    "translation": "選択しているペルソナを\nペルソナフィルムに登録していいんだな？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "zensyo_no_regist_0",
+    "original": "全書に登録できるペルソナを\n所持していないようです。\n…呆れますね。",
+    "translation": "全書に登録できるペルソナを\n所持していないようです。\n…呆れますね。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "powerup_message_0",
+    "original": "このペルソナを強化しますか？",
+    "translation": "このペルソナを強化しますか？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "powerup_cancel_0",
+    "original": "あなたが現在身に着けている\nペルソナに関しては、お預かり出来ません…",
+    "translation": "あなたが現在身に着けている\nペルソナに関しては、お預かり出来ません…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "powerup_non_0",
+    "original": "強化素材となるペルソナを\nお持ちで無いご様子…",
+    "translation": "強化素材となるペルソナを\nお持ちで無いご様子…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "powerup_receive_0",
+    "original": "このペルソナの強化を中止し、\n引き取りますか？",
+    "translation": "このペルソナの強化を中止し、\n引き取りますか？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "powerup_receive1_0",
+    "original": "現在お預かりしているペルソナは、\nご覧の状態です。",
+    "translation": "現在お預かりしているペルソナは、\nご覧の状態です。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "powerup_receive2_0",
+    "original": "現在お預かりしているペルソナは、\nご覧の状態です。",
+    "translation": "現在お預かりしているペルソナは、\nご覧の状態です。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "powerup_receive3_0",
+    "original": "現在お預かりしているペルソナは、\nご覧の状態です。",
+    "translation": "現在お預かりしているペルソナは、\nご覧の状態です。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "powerup_failed_0",
+    "original": "残念な事になってしまいました…",
+    "translation": "残念な事になってしまいました…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "powerup_no_receive_0",
+    "original": "これ以上ペルソナを所持出来ないご様子…\n空きを作ってから引き取りにいらして下さい。",
+    "translation": "これ以上ペルソナを所持出来ないご様子…\n空きを作ってから引き取りにいらして下さい。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "skill_powerup_0",
+    "original": "ペルソナのスキルが強化しそうです。",
+    "translation": "ペルソナのスキルが強化しそうです。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "skill_powerup_1",
+    "original": "『[颜色 02][占位A 01][颜色 01]』を強化しますか？",
+    "translation": "『[颜色 02][占位A 01][颜色 01]』を強化しますか？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_comu_achieve_get_ite_0",
+    "original": "＞[占位B 01]を手に入れた。",
+    "translation": "＞[占位B 01]を手に入れた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "comu_achieve_rank_A_0",
+    "original": "私の忠告など、\n必要ありませんでしたね。",
+    "translation": "私の忠告など、\n必要ありませんでしたね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "comu_achieve_rank_B_0",
+    "original": "素晴らしいペースです。",
+    "translation": "素晴らしいペースです。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "comu_achieve_rank_B_1",
+    "original": "コミュニティこそがあなたの“世界”を作る…\nどうぞお忘れなきよう…",
+    "translation": "コミュニティこそがあなたの“世界”を作る…\nどうぞお忘れなきよう…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "comu_achieve_rank_C_0",
+    "original": "なかなかのペースですね。",
+    "translation": "なかなかのペースですね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "comu_achieve_rank_C_1",
+    "original": "コミュニティこそがあなたの“世界”を作る…\nどうぞお忘れなきよう…",
+    "translation": "コミュニティこそがあなたの“世界”を作る…\nどうぞお忘れなきよう…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "comu_achieve_rank_D_0",
+    "original": "もっと絆を大事になさった方がいいかと。",
+    "translation": "もっと絆を大事になさった方がいいかと。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "comu_achieve_rank_D_1",
+    "original": "コミュニティこそがあなたの“世界”を作る…\nどうぞお忘れなきよう…",
+    "translation": "コミュニティこそがあなたの“世界”を作る…\nどうぞお忘れなきよう…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "comu_achieve_rank_E_0",
+    "original": "もっと絆を大事になさい。\n貴方の傍に、きっと見つかるはずなのだから。",
+    "translation": "もっと絆を大事になさい。\n貴方の傍に、きっと見つかるはずなのだから。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "comu_achieve_rank_E_1",
+    "original": "コミュニティこそがあなたの“世界”を作る…\nどうぞお忘れなきよう…",
+    "translation": "コミュニティこそがあなたの“世界”を作る…\nどうぞお忘れなきよう…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_comu_achieve_0",
+    "original": "あら…？",
+    "translation": "あら…？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_comu_achieve_1",
+    "original": "どうやら、貴方のコミュニティ達成率が、\n５０％を越えた様子…",
+    "translation": "どうやら、貴方のコミュニティ達成率が、\n５０％を越えた様子…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_comu_achieve_2",
+    "original": "素晴らしいわ。\nなら…これを受け取ってちょうだい。",
+    "translation": "素晴らしいわ。\nなら…これを受け取ってちょうだい。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_comu_achieve_3",
+    "original": "コミュの充実こそが、\nあなたの“世界”の充実になる…",
+    "translation": "コミュの充実こそが、\nあなたの“世界”の充実になる…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_comu_achieve_4",
+    "original": "私、あなたの“世界”を\n楽しみにしているわ。",
+    "translation": "私、あなたの“世界”を\n楽しみにしているわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_comu_achieve_100_0",
+    "original": "素晴らしいわ…",
+    "translation": "素晴らしいわ…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_comu_achieve_100_1",
+    "original": "貴方はとうとう、全てのコミュニティを\n真の絆へと育んだのね…",
+    "translation": "貴方はとうとう、全てのコミュニティを\n真の絆へと育んだのね…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_comu_achieve_100_2",
+    "original": "誰にでも出来ることじゃないわ…",
+    "translation": "誰にでも出来ることじゃないわ…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_comu_achieve_100_3",
+    "original": "やはり貴方は…私の思ったとおりの人。",
+    "translation": "やはり貴方は…私の思ったとおりの人。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_comu_achieve_100_4",
+    "original": "貴方の“世界”とは…\nどんなものなのかしら。",
+    "translation": "貴方の“世界”とは…\nどんなものなのかしら。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_comu_achieve_100_5",
+    "original": "出来るなら、その“世界”に\n私も連れて行って欲しいわね…",
+    "translation": "出来るなら、その“世界”に\n私も連れて行って欲しいわね…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_comu_achieve_100_6",
+    "original": "…では、これを。\n私が長い時をかけて作ったものよ。",
+    "translation": "…では、これを。\n私が長い時をかけて作ったものよ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_comu_achieve_100_7",
+    "original": "きっと、貴方を守るわ。\nこの私の代わりにね…",
+    "translation": "きっと、貴方を守るわ。\nこの私の代わりにね…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "combine_before_comu_none_0",
+    "original": "“[占位A 01]”コミュはまだお持ちでないご様子。\nもっとも、“[占位A 01]”コミュを築かれるのは、\nまだ先のようですが…",
+    "translation": "“[占位A 01]”コミュはまだお持ちでないご様子。\nもっとも、“[占位A 01]”コミュを築かれるのは、\nまだ先のようですが…",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_before_comu_none_1",
+    "original": "新たな力を授かる事はございませんが、\nこのペルソナで宜しいですかな？",
+    "translation": "新たな力を授かる事はございませんが、\nこのペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_before_comu_none_2_0",
+    "original": "“[占位A 01]”コミュはまだお持ちでないご様子。\nそろそろ現れる頃かと存じますが…",
+    "translation": "“[占位A 01]”コミュはまだお持ちでないご様子。\nそろそろ現れる頃かと存じますが…",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_before_comu_none_2_1",
+    "original": "新たな力を授かる事はございませんが、\nこのペルソナで宜しいですかな？",
+    "translation": "新たな力を授かる事はございませんが、\nこのペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_before_comu_none_3_0",
+    "original": "“[占位A 01]”コミュはまだお持ちでないご様子。",
+    "translation": "“[占位A 01]”コミュはまだお持ちでないご様子。",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_before_comu_none_3_1",
+    "original": "新たな力を授かる事はございませんが、\nこのペルソナで宜しいですかな？",
+    "translation": "新たな力を授かる事はございませんが、\nこのペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_00_0",
+    "original": "対応する“コミュ”をお持ちでないご様子…\n新たな力を授かる事はございませんな。",
+    "translation": "対応する“コミュ”をお持ちでないご様子…\n新たな力を授かる事はございませんな。",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_00_1",
+    "original": "このペルソナで宜しいですかな？",
+    "translation": "このペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_01_0",
+    "original": "対応する“コミュ”のランクは１…\nさて…力をどれほど授かるでしょうな。",
+    "translation": "対応する“コミュ”のランクは１…\nさて…力をどれほど授かるでしょうな。",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_01_1",
+    "original": "このペルソナで宜しいですかな？",
+    "translation": "このペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_02_0",
+    "original": "対応する“コミュ”のランクは２…\n幾らかは力を授かって生まれるでしょうな…",
+    "translation": "対応する“コミュ”のランクは２…\n幾らかは力を授かって生まれるでしょうな…",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_02_1",
+    "original": "このペルソナで宜しいですかな？",
+    "translation": "このペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_03_0",
+    "original": "対応する“コミュ”のランクは３…\n幾らかは力を授かって生まれるでしょうな…",
+    "translation": "対応する“コミュ”のランクは３…\n幾らかは力を授かって生まれるでしょうな…",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_03_1",
+    "original": "このペルソナで宜しいですかな？",
+    "translation": "このペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_04_0",
+    "original": "対応する“コミュ”のランクは４…\nなかなかの力を授かって生まれそうですな。",
+    "translation": "対応する“コミュ”のランクは４…\nなかなかの力を授かって生まれそうですな。",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_04_1",
+    "original": "このペルソナで宜しいですかな？",
+    "translation": "このペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_05_0",
+    "original": "対応する“コミュ”のランクは５…\nなかなかの力を授かって生まれそうですな。",
+    "translation": "対応する“コミュ”のランクは５…\nなかなかの力を授かって生まれそうですな。",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_05_1",
+    "original": "このペルソナで宜しいですかな？",
+    "translation": "このペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_06_0",
+    "original": "対応する“コミュ”のランクは６…\nかなりの力を授かって生まれそうですな。",
+    "translation": "対応する“コミュ”のランクは６…\nかなりの力を授かって生まれそうですな。",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_06_1",
+    "original": "このペルソナで宜しいですかな？",
+    "translation": "このペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_07_0",
+    "original": "対応する“コミュ”のランクは７…\nかなりの力を授かって生まれそうですな。",
+    "translation": "対応する“コミュ”のランクは７…\nかなりの力を授かって生まれそうですな。",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_07_1",
+    "original": "このペルソナで宜しいですかな？",
+    "translation": "このペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_08_0",
+    "original": "対応する“コミュ”のランクは８…\n大きな力を授かって生まれて参りますな…",
+    "translation": "対応する“コミュ”のランクは８…\n大きな力を授かって生まれて参りますな…",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_08_1",
+    "original": "このペルソナで宜しいですかな？",
+    "translation": "このペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_09_0",
+    "original": "対応する“コミュ”のランクは９…\n大きな力を授かって生まれて参りますな…",
+    "translation": "対応する“コミュ”のランクは９…\n大きな力を授かって生まれて参りますな…",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_09_1",
+    "original": "このペルソナで宜しいですかな？",
+    "translation": "このペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_10_0",
+    "original": "対応する“コミュ”のランクは１０…",
+    "translation": "対応する“コミュ”のランクは１０…",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_10_1",
+    "original": "ほう…これは間違いなく、\n強大な力を授かって生まれて参りますな。",
+    "translation": "ほう…これは間違いなく、\n強大な力を授かって生まれて参りますな。",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_rank_10_2",
+    "original": "このペルソナで宜しいですかな？",
+    "translation": "このペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "combine_comu_world_0",
+    "original": "このペルソナで宜しいですかな？",
+    "translation": "このペルソナで宜しいですかな？",
+    "stage": 1,
+    "context": "イゴール"
+  },
+  {
+    "key": "msg_combine_MHELP001_M_0",
+    "original": "『ペルソナフィルム』に登録された\nペルソナの情報は、いつでも閲覧可能だ。",
+    "translation": "『ペルソナフィルム』に登録された\nペルソナの情報は、いつでも閲覧可能だ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_MHELP001_M_1",
+    "original": "さらに、登録されたペルソナは\n代価を払えばそのまま呼び出してやろう！",
+    "translation": "さらに、登録されたペルソナは\n代価を払えばそのまま呼び出してやろう！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_MHELP001_M_2",
+    "original": "ただし、呼び出すペルソナが強力なほど\n代価は当然上がっていくからな。",
+    "translation": "ただし、呼び出すペルソナが強力なほど\n代価は当然上がっていくからな。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_MHELP001_M_3",
+    "original": "フィルムの登録が進めば、割り引きも\n考えないことはない。精々励むことだな！",
+    "translation": "フィルムの登録が進めば、割り引きも\n考えないことはない。精々励むことだな！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_MHELP002_M_0",
+    "original": "ペルソナフィルムには、初めて入手した時の\n状態が登録されます。",
+    "translation": "ペルソナフィルムには、初めて入手した時の\n状態が登録されます。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_MHELP002_M_1",
+    "original": "ですが、成長させたりして強化した状態を\nフィルムに上書き登録することができます。",
+    "translation": "ですが、成長させたりして強化した状態を\nフィルムに上書き登録することができます。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_MHELP002_M_2",
+    "original": "代価は不要ですが、上書きは申告制です。",
+    "translation": "代価は不要ですが、上書きは申告制です。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_MHELP002_M_3",
+    "original": "上書きを希望する際は、\n『ペルソナフィルムに上書きする』から、\nその旨を伝えなさい…いいですね？",
+    "translation": "上書きを希望する際は、\n『ペルソナフィルムに上書きする』から、\nその旨を伝えなさい…いいですね？",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_MESSAGE000_0",
+    "original": "私はだみ～よ",
+    "translation": "私はだみ～よ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE001_0",
+    "original": "我は[颜色 02][占位A 02][颜色 01]…",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE001_1",
+    "original": "双眸見開きて、\n汝、今こそ発せよ…！",
+    "translation": "双眸見開きて、\n汝、今こそ発せよ…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE002_0",
+    "original": "私は[颜色 02][占位A 02][颜色 01]…\n姿違えど、私は貴方…コンゴトモヨロシク。",
+    "translation": "私は[颜色 02][占位A 02][颜色 01]…\n姿違えど、私は貴方…コンゴトモヨロシク。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE003_0",
+    "original": "私を喚んだのはお前か…？",
+    "translation": "私を喚んだのはお前か…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE003_1",
+    "original": "お前の強き眼差し…悪くない。\nいいだろう、お前と共に行こう。",
+    "translation": "お前の強き眼差し…悪くない。\nいいだろう、お前と共に行こう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE003_2",
+    "original": "私は[颜色 02][占位A 02][颜色 01]。\nコンゴトモヨロシク…",
+    "translation": "私は[颜色 02][占位A 02][颜色 01]。\nコンゴトモヨロシク…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE004_0",
+    "original": "わたしは[颜色 02][占位A 02][颜色 01]。\nあなたのために、微力ながら尽くしますわ。",
+    "translation": "わたしは[颜色 02][占位A 02][颜色 01]。\nあなたのために、微力ながら尽くしますわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE005_0",
+    "original": "わたしは[颜色 02][占位A 02][颜色 01]。\nあなたの心の海よりいでし者…",
+    "translation": "わたしは[颜色 02][占位A 02][颜色 01]。\nあなたの心の海よりいでし者…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE006_0",
+    "original": "わたしは[颜色 02][占位A 02][颜色 01]。\n精一杯、お守りいたします！",
+    "translation": "わたしは[颜色 02][占位A 02][颜色 01]。\n精一杯、お守りいたします！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE007_0",
+    "original": "我は[颜色 02][占位A 02][颜色 01]…\nこの名、忘れえぬものとなるだろう…",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]…\nこの名、忘れえぬものとなるだろう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE008_0",
+    "original": "我が名は[颜色 02][占位A 02][颜色 01]…\n共に参りましょう、長き道行きを…",
+    "translation": "我が名は[颜色 02][占位A 02][颜色 01]…\n共に参りましょう、長き道行きを…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE009_0",
+    "original": "私は[颜色 02][占位A 02][颜色 01]。\n貴方の盾、貴方の剣、貴方の友…",
+    "translation": "私は[颜色 02][占位A 02][颜色 01]。\n貴方の盾、貴方の剣、貴方の友…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE010_0",
+    "original": "私は[颜色 02][占位A 02][颜色 01]。\nまさしく貴方自身…お忘れなきよう。",
+    "translation": "私は[颜色 02][占位A 02][颜色 01]。\nまさしく貴方自身…お忘れなきよう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE011_0",
+    "original": "わたくしは[颜色 02][占位A 02][颜色 01]。\nその身を護り、その傷を癒す心の泉…",
+    "translation": "わたくしは[颜色 02][占位A 02][颜色 01]。\nその身を護り、その傷を癒す心の泉…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE012_0",
+    "original": "私は[颜色 02][占位A 02][颜色 01]！\nこの力、その目でとくと御覧あれ！",
+    "translation": "私は[颜色 02][占位A 02][颜色 01]！\nこの力、その目でとくと御覧あれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE013_0",
+    "original": "私は[颜色 02][占位A 02][颜色 01]。\nこの剣、お前の為に振るうとしよう！",
+    "translation": "私は[颜色 02][占位A 02][颜色 01]。\nこの剣、お前の為に振るうとしよう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE014_0",
+    "original": "わたしは[颜色 02][占位A 02][颜色 01]。\n貴方の御力になれるよう、頑張りますわ。",
+    "translation": "わたしは[颜色 02][占位A 02][颜色 01]。\n貴方の御力になれるよう、頑張りますわ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE015_0",
+    "original": "アタシは[颜色 02][占位A 02][颜色 01]。\nどーんと、お姉さんに任せなさい！",
+    "translation": "アタシは[颜色 02][占位A 02][颜色 01]。\nどーんと、お姉さんに任せなさい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE016_0",
+    "original": "あたし、[颜色 02][占位A 02][颜色 01]。\nえっと…頑張るから、そばにおいててね？",
+    "translation": "あたし、[颜色 02][占位A 02][颜色 01]。\nえっと…頑張るから、そばにおいててね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE017_0",
+    "original": "オレは[颜色 02][占位A 02][颜色 01]…\nオメェの覚悟、見せてもらうぜ。",
+    "translation": "オレは[颜色 02][占位A 02][颜色 01]…\nオメェの覚悟、見せてもらうぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE018_0",
+    "original": "わらわは[颜色 02][占位A 02][颜色 01]。\nおんしの力、見せておくれやす…",
+    "translation": "わらわは[颜色 02][占位A 02][颜色 01]。\nおんしの力、見せておくれやす…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE019_0",
+    "original": "我こそは[颜色 02][占位A 02][颜色 01]！\n汝の手に勝利をもたらそうぞ！",
+    "translation": "我こそは[颜色 02][占位A 02][颜色 01]！\n汝の手に勝利をもたらそうぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE020_0",
+    "original": "わらわは[颜色 02][占位A 02][颜色 01]。\nお傍には、いつもわらわがおりますゆえ…",
+    "translation": "わらわは[颜色 02][占位A 02][颜色 01]。\nお傍には、いつもわらわがおりますゆえ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE021_0",
+    "original": "我は[颜色 02][占位A 02][颜色 01]…\n輝ける道を築くため、共に行かん…",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]…\n輝ける道を築くため、共に行かん…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE022_0",
+    "original": "我は[颜色 02][占位A 02][颜色 01]…\nいいだろう、しばし汝に力を貸すとしよう…",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]…\nいいだろう、しばし汝に力を貸すとしよう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE023_0",
+    "original": "我は[颜色 02][占位A 02][颜色 01]。\nいざ共に行かん、栄光の道を！",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]。\nいざ共に行かん、栄光の道を！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE024_0",
+    "original": "我は[颜色 02][占位A 02][颜色 01]。\n汝の守護こそ我が使命なり！",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]。\n汝の守護こそ我が使命なり！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE025_0",
+    "original": "我は[颜色 02][占位A 02][颜色 01]…\n力を求める猛き心に応えたり…",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]…\n力を求める猛き心に応えたり…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE026_0",
+    "original": "オレサマ　[颜色 02][占位A 02][颜色 01]。\nオレサマ　オマエ　マルカジリ。",
+    "translation": "オレサマ　[颜色 02][占位A 02][颜色 01]。\nオレサマ　オマエ　マルカジリ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE027_0",
+    "original": "我ハ　[颜色 02][占位A 02][颜色 01]…\nウヌヨリ生マレ　ウヌニ還ル者ナリ…",
+    "translation": "我ハ　[颜色 02][占位A 02][颜色 01]…\nウヌヨリ生マレ　ウヌニ還ル者ナリ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE028_0",
+    "original": "俺は[颜色 02][占位A 02][颜色 01]。\n俺に賭けな、勝たせてやるぜ…",
+    "translation": "俺は[颜色 02][占位A 02][颜色 01]。\n俺に賭けな、勝たせてやるぜ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE029_0",
+    "original": "うぉ　うぉれは　[颜色 02][占位A 02][颜色 01]！\nうぉまえも　[颜色 02][占位A 02][颜色 01]！！",
+    "translation": "うぉ　うぉれは　[颜色 02][占位A 02][颜色 01]！\nうぉまえも　[颜色 02][占位A 02][颜色 01]！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE030_0",
+    "original": "ハアシラ　[颜色 02][占位A 02][颜色 01]。\nソンヨトコ　モロシグ…",
+    "translation": "ハアシラ　[颜色 02][占位A 02][颜色 01]。\nソンヨトコ　モロシグ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE031_0",
+    "original": "[颜色 02][占位A 02][颜色 01]だ…\n乗りなよ、地獄の向こう行きだ…",
+    "translation": "[颜色 02][占位A 02][颜色 01]だ…\n乗りなよ、地獄の向こう行きだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE032_0",
+    "original": "ここに在るは[颜色 02][占位A 02][颜色 01]…\n常勝の将にして、貴方に忠誠を誓う者…",
+    "translation": "ここに在るは[颜色 02][占位A 02][颜色 01]…\n常勝の将にして、貴方に忠誠を誓う者…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE033_0",
+    "original": "こんちわ、ボク、[颜色 02][占位A 02][颜色 01]。\nチミといっしょに、行こうよウィズユー。",
+    "translation": "こんちわ、ボク、[颜色 02][占位A 02][颜色 01]。\nチミといっしょに、行こうよウィズユー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE034_0",
+    "original": "オレは[颜色 02][占位A 02][颜色 01]…\nまー、しばらくは面倒見てやっか…",
+    "translation": "オレは[颜色 02][占位A 02][颜色 01]…\nまー、しばらくは面倒見てやっか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE035_0",
+    "original": "おいらは[颜色 02][占位A 02][颜色 01]だホ！\nコンゴトモヨロシク！　ヒホホー！！",
+    "translation": "おいらは[颜色 02][占位A 02][颜色 01]だホ！\nコンゴトモヨロシク！　ヒホホー！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE036_0",
+    "original": "わたし、[颜色 02][占位A 02][颜色 01]…\nずっと一緒に、遊んでくれる？",
+    "translation": "わたし、[颜色 02][占位A 02][颜色 01]…\nずっと一緒に、遊んでくれる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE037_0",
+    "original": "我は[颜色 02][占位A 02][颜色 01]。\n汝が勝ち戦の、猛き先駈けとなるニャー！",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]。\n汝が勝ち戦の、猛き先駈けとなるニャー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE038_0",
+    "original": "おいらは[颜色 02][占位A 02][颜色 01]だホー！\n舐めんじゃねぇよ、ヒホホー！！",
+    "translation": "おいらは[颜色 02][占位A 02][颜色 01]だホー！\n舐めんじゃねぇよ、ヒホホー！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE039_0",
+    "original": "我を喚ぶのは誰ぞ…",
+    "translation": "我を喚ぶのは誰ぞ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE039_1",
+    "original": "己の闇に目を背けぬその強さ…\n気に入ったぞ、小僧…",
+    "translation": "己の闇に目を背けぬその強さ…\n気に入ったぞ、小僧…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE039_2",
+    "original": "我は[颜色 02][占位A 02][颜色 01]…\n暫くは小僧に力を貸すとしよう…",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]…\n暫くは小僧に力を貸すとしよう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE040_0",
+    "original": "我を喚ぶのは誰ぞ…",
+    "translation": "我を喚ぶのは誰ぞ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE040_1",
+    "original": "強き光を宿す、気高き人の子よ…\n汝に加護を与えよう…",
+    "translation": "強き光を宿す、気高き人の子よ…\n汝に加護を与えよう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE040_2",
+    "original": "我は[颜色 02][占位A 02][颜色 01]…\n汝の心に寄り添うもの…",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]…\n汝の心に寄り添うもの…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE041_0",
+    "original": "我は汝…汝は我…\n我は汝の心の海より出ずるもの…",
+    "translation": "我は汝…汝は我…\n我は汝の心の海より出ずるもの…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE041_1",
+    "original": "すべての始まりの引き金、\n汝の道行きを照らす導とならん…",
+    "translation": "すべての始まりの引き金、\n汝の道行きを照らす導とならん…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE041_2",
+    "original": "我は、始まりの神…\n[颜色 02][占位A 02][颜色 01]なり…",
+    "translation": "我は、始まりの神…\n[颜色 02][占位A 02][颜色 01]なり…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE042_0",
+    "original": "我を喚ぶのは誰ぞ…",
+    "translation": "我を喚ぶのは誰ぞ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE042_1",
+    "original": "暗き夜を照らすが如き、眩き心…\n汝の力となりましょう…",
+    "translation": "暗き夜を照らすが如き、眩き心…\n汝の力となりましょう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE042_2",
+    "original": "我は[颜色 02][占位A 02][颜色 01]…\nその光、絶やさぬよう…",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]…\nその光、絶やさぬよう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE043_0",
+    "original": "我を喚ぶのは誰ぞ…",
+    "translation": "我を喚ぶのは誰ぞ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE043_1",
+    "original": "数多の闇を照らす者よ、\n虚ろなる無さえ己が力とするか…",
+    "translation": "数多の闇を照らす者よ、\n虚ろなる無さえ己が力とするか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE043_2",
+    "original": "我は[颜色 02][占位A 02][颜色 01]…\n汝の道行きを見届けん…",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]…\n汝の道行きを見届けん…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_NETWORK_STOC_0",
+    "original": "ダメだよ。\nサブペルソナ持ってないじゃん。",
+    "translation": "ダメだよ。\nサブペルソナ持ってないじゃん。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_STOC_1",
+    "original": "通信を始めるにはサブペルソナが\n必要だから、用意してきて。",
+    "translation": "通信を始めるにはサブペルソナが\n必要だから、用意してきて。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_STOC_2_0",
+    "original": "ダメだよ。\nサブペルソナ持ってないじゃん。",
+    "translation": "ダメだよ。\nサブペルソナ持ってないじゃん。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_STOC_2_1",
+    "original": "通信を始めるにはサブペルソナが\n必要だから、用意してきて。",
+    "translation": "通信を始めるにはサブペルソナが\n必要だから、用意してきて。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_sacrifice_co_0",
+    "original": "イケニエの力で成長させるのは、\nこのペルソナでいいんだな？",
+    "translation": "イケニエの力で成長させるのは、\nこのペルソナでいいんだな？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_sacrifice_bo_0",
+    "original": "＞イケニエとなったペルソナの力が、\n　[颜色 02][占位A 01][颜色 01]に注ぎ込まれる…",
+    "translation": "＞イケニエとなったペルソナの力が、\n　[颜色 02][占位A 01][颜色 01]に注ぎ込まれる…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_sacrifice_it_0",
+    "original": "＞イケニエとなったペルソナのスキルが\n　[颜色 02][占位A 01][颜色 01]に宿っていく…",
+    "translation": "＞イケニエとなったペルソナのスキルが\n　[颜色 02][占位A 01][颜色 01]に宿っていく…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_sacrifice_it_2_0",
+    "original": "　　　　を手に入れた！",
+    "translation": "　　　　を手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_sacrifice_it_3_0",
+    "original": "＞スキルが一杯です。\n　忘れるスキルを選んでください。",
+    "translation": "＞スキルが一杯です。\n　忘れるスキルを選んでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_skcard_money_0",
+    "original": "所持金が足りないようね…",
+    "translation": "所持金が足りないようね…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "msg_combine_HELP_ACCIDEN_0",
+    "original": "ペルソナ合体は、とても繊細な作業。",
+    "translation": "ペルソナ合体は、とても繊細な作業。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ACCIDEN_1",
+    "original": "ごく稀ではありますが、つい手元が狂い…\n『事故』を生じてしまう事があります。",
+    "translation": "ごく稀ではありますが、つい手元が狂い…\n『事故』を生じてしまう事があります。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ACCIDEN_2",
+    "original": "事故の際には、事前の通達と異なる\nペルソナが生まれてしまう場合があります。",
+    "translation": "事故の際には、事前の通達と異なる\nペルソナが生まれてしまう場合があります。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_ACCIDEN_3",
+    "original": "何が生まれるかは、我々にも分かりません。\n…細かい事は気にしない方が賢明です。",
+    "translation": "何が生まれるかは、我々にも分かりません。\n…細かい事は気にしない方が賢明です。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KENSAKU_0",
+    "original": "検索合体では、所持中のペルソナから、\n現在生み出せる全ペルソナの確認が可能だ！",
+    "translation": "検索合体では、所持中のペルソナから、\n現在生み出せる全ペルソナの確認が可能だ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KENSAKU_1",
+    "original": "生み出せる候補から、最もレベルの高い\nペルソナを探したり…",
+    "translation": "生み出せる候補から、最もレベルの高い\nペルソナを探したり…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_KENSAKU_2",
+    "original": "ペルソナフィルムに、登録のないペルソナを\n探す時なんかにも便利に使えるはずだ。",
+    "translation": "ペルソナフィルムに、登録のないペルソナを\n探す時なんかにも便利に使えるはずだ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_3SIN_0",
+    "original": "『３体合体』とは、３体のペルソナを素に、\nより高位のペルソナを生み出す合体です。",
+    "translation": "『３体合体』とは、３体のペルソナを素に、\nより高位のペルソナを生み出す合体です。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_3SIN_1",
+    "original": "使用した３体は消滅してしまいますが、\n強力なペルソナになる事は期待できます。",
+    "translation": "使用した３体は消滅してしまいますが、\n強力なペルソナになる事は期待できます。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_3SIN_2",
+    "original": "更なる力を求めるのであれば、\n活用するのが賢明な判断でしょう。",
+    "translation": "更なる力を求めるのであれば、\n活用するのが賢明な判断でしょう。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_TOKUSYU_0",
+    "original": "『特殊合体』は、特定のペルソナを素に、\n特殊な特定のペルソナを生み出す合体だ。",
+    "translation": "『特殊合体』は、特定のペルソナを素に、\n特殊な特定のペルソナを生み出す合体だ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_TOKUSYU_1",
+    "original": "特殊合体で生み出せるペルソナは、\n他の合体では決して生み出せないものだ。",
+    "translation": "特殊合体で生み出せるペルソナは、\n他の合体では決して生み出せないものだ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_TOKUSYU_2",
+    "original": "そう簡単には作れないかもしれないが、\n相応に強力なペルソナばかりだぞ。",
+    "translation": "そう簡単には作れないかもしれないが、\n相応に強力なペルソナばかりだぞ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_TOKUSYU_3",
+    "original": "まぁ、やらない手は無いな。\nしっかりと活用しろよ！",
+    "translation": "まぁ、やらない手は無いな。\nしっかりと活用しろよ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "msg_combine_HELP_SACRIFI_0",
+    "original": "こちらは、私が担当させて頂いております。",
+    "translation": "こちらは、私が担当させて頂いております。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "msg_combine_HELP_SACRIFI_1",
+    "original": "『イケニエ合体』とは、\n１体のペルソナをイケニエにして、\n別の１体の成長を促す秘儀。",
+    "translation": "『イケニエ合体』とは、\n１体のペルソナをイケニエにして、\n別の１体の成長を促す秘儀。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "msg_combine_HELP_SACRIFI_2",
+    "original": "成長の度合いは、イケニエにするペルソナの\nレベルが高いほど、より大きくなります。",
+    "translation": "成長の度合いは、イケニエにするペルソナの\nレベルが高いほど、より大きくなります。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "msg_combine_HELP_SACRIFI_3",
+    "original": "通常、この秘儀には相応の代価が\n必要なのだけれど…",
+    "translation": "通常、この秘儀には相応の代価が\n必要なのだけれど…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "msg_combine_HELP_SACRIFI_4",
+    "original": "この世界の研究のため、今回だけ特別な\n措置をとらせて頂くわ。",
+    "translation": "この世界の研究のため、今回だけ特別な\n措置をとらせて頂くわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "msg_combine_HELP_SACRIFI_5",
+    "original": "各ペルソナにつき、イケニエとするのが\n初回の場合のみ、無料で結構よ。",
+    "translation": "各ペルソナにつき、イケニエとするのが\n初回の場合のみ、無料で結構よ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "msg_combine_HELP_SACRIFI_6",
+    "original": "成長させるのは、メインペルソナも可能よ。\n戦力の底上げにも良いかもしれないわね。",
+    "translation": "成長させるのは、メインペルソナも可能よ。\n戦力の底上げにも良いかもしれないわね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "msg_combine_HELP_SACRIFI_7",
+    "original": "初めてのペルソナを手に入れたら、一度、\nイケニエ合体に使用してみては如何かしら？",
+    "translation": "初めてのペルソナを手に入れたら、一度、\nイケニエ合体に使用してみては如何かしら？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_0",
+    "original": "じゃあ、『すれちがい手帳』について\n説明するから、よーく聞いてね。",
+    "translation": "じゃあ、『すれちがい手帳』について\n説明するから、よーく聞いてね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_1",
+    "original": "ここと同じような世界はいっぱいあって、\nそこにも『キミじゃないキミ』がいる。",
+    "translation": "ここと同じような世界はいっぱいあって、\nそこにも『キミじゃないキミ』がいる。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_2",
+    "original": "『すれちがい手帳』っていうのは、\nその別世界との通信に使うものだよ。",
+    "translation": "『すれちがい手帳』っていうのは、\nその別世界との通信に使うものだよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_3",
+    "original": "『キミじゃないキミ』と通信をするとね、\nペルソナを１体交換することが出来るんだ。",
+    "translation": "『キミじゃないキミ』と通信をするとね、\nペルソナを１体交換することが出来るんだ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_4",
+    "original": "方法は、『すれちがい手帳』にキミ達の情報と\nお気に入りのペルソナを添付するの。",
+    "translation": "方法は、『すれちがい手帳』にキミ達の情報と\nお気に入りのペルソナを添付するの。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_5",
+    "original": "あ、選択できるペルソナは\nサブペルソナのうちの１体だけだからね。",
+    "translation": "あ、選択できるペルソナは\nサブペルソナのうちの１体だけだからね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_6",
+    "original": "で、別の世界のキミと通信が成功したら、\n相手と交換したペルソナを召喚できるよ。",
+    "translation": "で、別の世界のキミと通信が成功したら、\n相手と交換したペルソナを召喚できるよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_7",
+    "original": "上手く利用すれば、強いサブペルソナを\n手に入れられるチャンスかもね。",
+    "translation": "上手く利用すれば、強いサブペルソナを\n手に入れられるチャンスかもね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_2_0",
+    "original": "じゃあ、『すれちがい手帳』について\n説明するから、よーく聞いてね。",
+    "translation": "じゃあ、『すれちがい手帳』について\n説明するから、よーく聞いてね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_2_1",
+    "original": "ここと同じような世界はいっぱいあって、\nそこにも『キミじゃないキミ』がいる。",
+    "translation": "ここと同じような世界はいっぱいあって、\nそこにも『キミじゃないキミ』がいる。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_2_2",
+    "original": "『すれちがい手帳』っていうのは、\nその別世界との通信に使うものだよ。",
+    "translation": "『すれちがい手帳』っていうのは、\nその別世界との通信に使うものだよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_2_3",
+    "original": "『キミじゃないキミ』と通信をするとね、\nペルソナを１体交換することが出来るんだ。",
+    "translation": "『キミじゃないキミ』と通信をするとね、\nペルソナを１体交換することが出来るんだ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_2_4",
+    "original": "方法は、『すれちがい手帳』にキミ達の情報と\nお気に入りのペルソナを添付するの。",
+    "translation": "方法は、『すれちがい手帳』にキミ達の情報と\nお気に入りのペルソナを添付するの。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_2_5",
+    "original": "あ、選択できるペルソナは\nサブペルソナのうちの１体だけだからね。",
+    "translation": "あ、選択できるペルソナは\nサブペルソナのうちの１体だけだからね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_2_6",
+    "original": "で、別の世界のキミと通信が成功したら、\n相手と交換したペルソナを召喚できるよ。",
+    "translation": "で、別の世界のキミと通信が成功したら、\n相手と交換したペルソナを召喚できるよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_2_7",
+    "original": "上手く利用すれば、強いサブペルソナを\n手に入れられるチャンスかもね。",
+    "translation": "上手く利用すれば、強いサブペルソナを\n手に入れられるチャンスかもね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_3_0",
+    "original": "貰った『すれちがい手帳』は、\n私に言ってくれれば確認できるよ。",
+    "translation": "貰った『すれちがい手帳』は、\n私に言ってくれれば確認できるよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_3_1",
+    "original": "ついでに、新しく『すれちがい手帳』を\nもらった時は一緒に教えてあげる。",
+    "translation": "ついでに、新しく『すれちがい手帳』を\nもらった時は一緒に教えてあげる。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_3_2",
+    "original": "だけど『すれちがい手帳』も、\n交換したもの全部は残しておけないんだ。",
+    "translation": "だけど『すれちがい手帳』も、\n交換したもの全部は残しておけないんだ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_3_3",
+    "original": "最大『１００』件までだから、大事な\nデータは『保護』しておくといいよ。",
+    "translation": "最大『１００』件までだから、大事な\nデータは『保護』しておくといいよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_3_4",
+    "original": "じゃないと、古いデータから順番に\n消えてっちゃうから注意して。",
+    "translation": "じゃないと、古いデータから順番に\n消えてっちゃうから注意して。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_3_5",
+    "original": "あ、保護は最大で『８０』件までだから、\nそれも忘れないでおいてね。",
+    "translation": "あ、保護は最大で『８０』件までだから、\nそれも忘れないでおいてね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_3_6",
+    "original": "それと、貰った『すれちがい手帳』の中から\n召喚したいペルソナがいたら、言って。",
+    "translation": "それと、貰った『すれちがい手帳』の中から\n召喚したいペルソナがいたら、言って。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_3_7",
+    "original": "対価は払ってもらうけど、ちびっ子たちが\n召喚する…って、マーガレットが言ってた。",
+    "translation": "対価は払ってもらうけど、ちびっ子たちが\n召喚する…って、マーガレットが言ってた。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_4_0",
+    "original": "貰った『すれちがい手帳』は、\n私に言ってくれれば確認できるよ。",
+    "translation": "貰った『すれちがい手帳』は、\n私に言ってくれれば確認できるよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_4_1",
+    "original": "ついでに、新しく『すれちがい手帳』を\nもらった時は一緒に教えてあげる。",
+    "translation": "ついでに、新しく『すれちがい手帳』を\nもらった時は一緒に教えてあげる。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_4_2",
+    "original": "だけど『すれちがい手帳』も、\n交換したもの全部は残しておけないんだ。",
+    "translation": "だけど『すれちがい手帳』も、\n交換したもの全部は残しておけないんだ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_4_3",
+    "original": "最大『１００』件までだから、大事な\nデータは『保護』しておくといいよ。",
+    "translation": "最大『１００』件までだから、大事な\nデータは『保護』しておくといいよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_4_4",
+    "original": "じゃないと、古いデータから順番に\n消えてっちゃうから注意して。",
+    "translation": "じゃないと、古いデータから順番に\n消えてっちゃうから注意して。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_4_5",
+    "original": "あ、保護は最大で『８０』件までだから、\nそれも忘れないでおいてね。",
+    "translation": "あ、保護は最大で『８０』件までだから、\nそれも忘れないでおいてね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_4_6",
+    "original": "それと、貰った『すれちがい手帳』の中から\n召喚したいペルソナがいたら、言って。",
+    "translation": "それと、貰った『すれちがい手帳』の中から\n召喚したいペルソナがいたら、言って。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_4_7",
+    "original": "対価は払ってもらうけど、ちびっ子たちが\n召喚する…って、マーガレットが言ってた。",
+    "translation": "対価は払ってもらうけど、ちびっ子たちが\n召喚する…って、マーガレットが言ってた。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_5_0",
+    "original": "『すれちがい手帳』の内容は、\nいつでも自由に変更できるよ。",
+    "translation": "『すれちがい手帳』の内容は、\nいつでも自由に変更できるよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_5_1",
+    "original": "添付するサブペルソナはもちろん、\nすれちがいネームやメッセージとかもね。",
+    "translation": "添付するサブペルソナはもちろん、\nすれちがいネームやメッセージとかもね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_5_2",
+    "original": "気分が向いたら、『すれちがい手帳』を\n更新したらいいんじゃないかな。",
+    "translation": "気分が向いたら、『すれちがい手帳』を\n更新したらいいんじゃないかな。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_5_3",
+    "original": "だけど、『キミじゃないキミ』が不快になる\nような名前や内容は書いちゃダメだよ。",
+    "translation": "だけど、『キミじゃないキミ』が不快になる\nような名前や内容は書いちゃダメだよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_5_4",
+    "original": "どーせなら、見てて楽しくなるような\n手帳にした方がみんな幸せでしょ？",
+    "translation": "どーせなら、見てて楽しくなるような\n手帳にした方がみんな幸せでしょ？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_6_0",
+    "original": "『すれちがい手帳』の内容は、\nいつでも自由に変更できるよ。",
+    "translation": "『すれちがい手帳』の内容は、\nいつでも自由に変更できるよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_6_1",
+    "original": "添付するサブペルソナはもちろん、\nすれちがいネームやメッセージとかもね。",
+    "translation": "添付するサブペルソナはもちろん、\nすれちがいネームやメッセージとかもね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_6_2",
+    "original": "気分が向いたら、『すれちがい手帳』を\n更新したらいいんじゃないかな。",
+    "translation": "気分が向いたら、『すれちがい手帳』を\n更新したらいいんじゃないかな。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_6_3",
+    "original": "だけど、『キミじゃないキミ』が不快になる\nような名前や内容は書いちゃダメだよ。",
+    "translation": "だけど、『キミじゃないキミ』が不快になる\nような名前や内容は書いちゃダメだよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_6_4",
+    "original": "どーせなら、見てて楽しくなるような\n手帳にした方がみんな幸せでしょ？",
+    "translation": "どーせなら、見てて楽しくなるような\n手帳にした方がみんな幸せでしょ？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_7_0",
+    "original": "『すれちがい手帳』は、『ＱＲコード』って\nいうのに変換できるんだってさ。",
+    "translation": "『すれちがい手帳』は、『ＱＲコード』って\nいうのに変換できるんだってさ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_7_1",
+    "original": "『ＱＲコード』でも『キミじゃないキミ』と\n『すれちがい手帳』の交換ができるみたい。",
+    "translation": "『ＱＲコード』でも『キミじゃないキミ』と\n『すれちがい手帳』の交換ができるみたい。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_7_2",
+    "original": "もし、通信が上手くいかなかったりした\n場合は『ＱＲコード』を使うのもアリだよ。",
+    "translation": "もし、通信が上手くいかなかったりした\n場合は『ＱＲコード』を使うのもアリだよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_7_3",
+    "original": "キミが『ＱＲコード』を作るでもいいし、\n相手の『ＱＲコード』を読み込むでもＯＫ。",
+    "translation": "キミが『ＱＲコード』を作るでもいいし、\n相手の『ＱＲコード』を読み込むでもＯＫ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_7_4",
+    "original": "まあ、上手く使って『すれちがい手帳』を\nどんどん交換してみたらいいんじゃない？",
+    "translation": "まあ、上手く使って『すれちがい手帳』を\nどんどん交換してみたらいいんじゃない？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_8_0",
+    "original": "『すれちがい手帳』は、『ＱＲコード』って\nいうのに変換できるんだってさ。",
+    "translation": "『すれちがい手帳』は、『ＱＲコード』って\nいうのに変換できるんだってさ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_8_1",
+    "original": "『ＱＲコード』でも『キミじゃないキミ』と\n『すれちがい手帳』の交換ができるみたい。",
+    "translation": "『ＱＲコード』でも『キミじゃないキミ』と\n『すれちがい手帳』の交換ができるみたい。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_8_2",
+    "original": "もし、通信が上手くいかなかったりした\n場合は『ＱＲコード』を使うのもアリだよ。",
+    "translation": "もし、通信が上手くいかなかったりした\n場合は『ＱＲコード』を使うのもアリだよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_8_3",
+    "original": "キミが『ＱＲコード』を作るでもいいし、\n相手の『ＱＲコード』を読み込むでもＯＫ。",
+    "translation": "キミが『ＱＲコード』を作るでもいいし、\n相手の『ＱＲコード』を読み込むでもＯＫ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_HELP_8_4",
+    "original": "まあ、上手く使って『すれちがい手帳』を\nどんどん交換してみたらいいんじゃない？",
+    "translation": "まあ、上手く使って『すれちがい手帳』を\nどんどん交換してみたらいいんじゃない？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_MESSAGE044_0",
+    "original": "我を喚ぶのは誰ぞ…",
+    "translation": "我を喚ぶのは誰ぞ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE044_1",
+    "original": "我が名は[颜色 02]ゼウス[颜色 01]。\n彼方より呼ばれし者…",
+    "translation": "我が名は[颜色 02]ゼウス[颜色 01]。\n彼方より呼ばれし者…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE044_2",
+    "original": "絆と共に未踏の地を行く者よ…\nその覚悟を見極めん…",
+    "translation": "絆と共に未踏の地を行く者よ…\nその覚悟を見極めん…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE045_0",
+    "original": "我は汝、汝は我…",
+    "translation": "我は汝、汝は我…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE045_1",
+    "original": "真に絆を力とする者よ…\n更なる自由を得んと欲するか…",
+    "translation": "真に絆を力とする者よ…\n更なる自由を得んと欲するか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE045_2",
+    "original": "ならば汝と往かん。\nこの遥かなる自由の地を…",
+    "translation": "ならば汝と往かん。\nこの遥かなる自由の地を…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE046_0",
+    "original": "我は汝…汝は我…\n我は汝の心の海よりいでし者…",
+    "translation": "我は汝…汝は我…\n我は汝の心の海よりいでし者…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE046_1",
+    "original": "幽玄の奏者[颜色 02]オルフェウス[颜色 01]なり…",
+    "translation": "幽玄の奏者[颜色 02]オルフェウス[颜色 01]なり…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE047_0",
+    "original": "我は[颜色 02][占位A 02][颜色 01]…\n汝より生まれいで、汝の傍らに歩む者なり…",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]…\n汝より生まれいで、汝の傍らに歩む者なり…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_regist_NG_0",
+    "original": "このペルソナは、貴方自身の手で\n登録できないように保護されています。",
+    "translation": "このペルソナは、貴方自身の手で\n登録できないように保護されています。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "combine_regist_NG_Ex_0",
+    "original": "このペルソナは、貴方自身の手で\n登録できないように保護されています。",
+    "translation": "このペルソナは、貴方自身の手で\n登録できないように保護されています。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_scr_error_0",
+    "original": "これ以上そのペルソナは\n成長させられないわ。",
+    "translation": "これ以上そのペルソナは\n成長させられないわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "msg_combine_skcard_yet_0",
+    "original": "このペルソナは、抽出できるスキルを\nまだ覚えていないわ。",
+    "translation": "このペルソナは、抽出できるスキルを\nまだ覚えていないわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "msg_combine_skcard_lost_0",
+    "original": "このペルソナは、抽出できるスキルを\n捨ててしまっているわ。",
+    "translation": "このペルソナは、抽出できるスキルを\n捨ててしまっているわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "msg_combine_NETWORK_STOC_3_0",
+    "original": "あ…今持ってるサブペルソナは『ここでは\nない世界』との交信には使えないみたい。",
+    "translation": "あ…今持ってるサブペルソナは『ここでは\nない世界』との交信には使えないみたい。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_STOC_3_1",
+    "original": "別のペルソナを用意してきてよ。",
+    "translation": "別のペルソナを用意してきてよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_STOC_4_0",
+    "original": "あ…今持ってるサブペルソナは『ここでは\nない世界』との交信には使えないみたい。",
+    "translation": "あ…今持ってるサブペルソナは『ここでは\nない世界』との交信には使えないみたい。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "msg_combine_NETWORK_STOC_4_1",
+    "original": "別のペルソナを用意してきてよ。",
+    "translation": "別のペルソナを用意してきてよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "combine_stock_lack_0",
+    "original": "ペルソナストックにある\nペルソナの数が足りません。",
+    "translation": "ペルソナストックにある\nペルソナの数が足りません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_sel_TICKET_0",
+    "original": "有料で合体",
+    "translation": "有料で合体",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_sel_TICKET_1",
+    "original": "合体をやめる",
+    "translation": "合体をやめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_sel_TICKET_2",
+    "original": "チケットを使う",
+    "translation": "チケットを使う",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_sac_skill_ch_0",
+    "original": "[颜色 04][占位A 01][颜色 01]を[颜色 04][占位A 03]枚[颜色 01]お持ちですね。\n使用して[颜色 02][占位A 02][颜色 01]を継承なさいます？",
+    "translation": "[颜色 04][占位A 01][颜色 01]を[颜色 04][占位A 03]枚[颜色 01]お持ちですね。\n使用して[颜色 02][占位A 02][颜色 01]を継承なさいます？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "msg_combine_sac_skill_ge_0",
+    "original": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を覚えた！",
+    "translation": "＞『[颜色 02][占位A 01][颜色 01]』は\n　『[颜色 02][占位A 02][颜色 01]』を覚えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_sac_skill_ha_0",
+    "original": "＞[占位A 01]は\n　すでに持っている。",
+    "translation": "＞[占位A 01]は\n　すでに持っている。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_stock_over_s_0",
+    "original": "ペルソナフィルムからの引出しに\nあと[占位A 01]枠ストックの空きが必要ですよ。",
+    "translation": "ペルソナフィルムからの引出しに\nあと[占位A 01]枠ストックの空きが必要ですよ。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "msg_combine_sac_cost_fre_0",
+    "original": "これは初めて見る力の共鳴。今回の費用は\n無料です。合体して宜しいでしょうか？",
+    "translation": "これは初めて見る力の共鳴。今回の費用は\n無料です。合体して宜しいでしょうか？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "msg_combine_sac_cost_che_0",
+    "original": "イケニエ合体のために[颜色 03][占位A 01]円[颜色 01]\n頂きます。宜しいでしょうか？",
+    "translation": "イケニエ合体のために[颜色 03][占位A 01]円[颜色 01]\n頂きます。宜しいでしょうか？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "combine_money_caro_0",
+    "original": "所持金が足りないじゃないか！\n無様なものだな。",
+    "translation": "所持金が足りないじゃないか！\n無様なものだな。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "combine_book_summon_sel_0",
+    "original": "召喚する",
+    "translation": "召喚する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_book_summon_sel_1",
+    "original": "やめておく",
+    "translation": "やめておく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_book_reg_all_sel_0",
+    "original": "全て登録する",
+    "translation": "全て登録する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_book_reg_all_sel_1",
+    "original": "やめておく",
+    "translation": "やめておく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_book_reg_sel_0",
+    "original": "登録する",
+    "translation": "登録する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_book_reg_sel_1",
+    "original": "やめておく",
+    "translation": "やめておく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_cmb_sel_0",
+    "original": "問題ない",
+    "translation": "問題ない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_cmb_sel_1",
+    "original": "やっぱりだめ",
+    "translation": "やっぱりだめ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_cmb_sac_free_sel_0",
+    "original": "よろしく",
+    "translation": "よろしく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_cmb_sac_free_sel_1",
+    "original": "やめておく",
+    "translation": "やめておく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_cmb_sac_sel_0",
+    "original": "問題ない",
+    "translation": "問題ない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_cmb_sac_sel_1",
+    "original": "やっぱりだめ",
+    "translation": "やっぱりだめ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_cmb_cpy_sel_0",
+    "original": "問題ない",
+    "translation": "問題ない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_cmb_cpy_sel_1",
+    "original": "やめておく",
+    "translation": "やめておく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_wcard_sel_0",
+    "original": "継承する",
+    "translation": "継承する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "combine_wcard_sel_1",
+    "original": "やめておく",
+    "translation": "やめておく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__048_0",
+    "original": "僕は[颜色 02][占位A 02][颜色 01]。",
+    "translation": "僕は[颜色 02][占位A 02][颜色 01]。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__048_1",
+    "original": "トリックスターの力になれ…か。\nわかった、君の証を立てる手助けをしよう。",
+    "translation": "トリックスターの力になれ…か。\nわかった、君の証を立てる手助けをしよう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__049_0",
+    "original": "私は[颜色 02][占位A 02][颜色 01]。",
+    "translation": "私は[颜色 02][占位A 02][颜色 01]。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__049_1",
+    "original": "これよりはトリックスターの力となり、\n貴方と共に在りましょう…",
+    "translation": "これよりはトリックスターの力となり、\n貴方と共に在りましょう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__050_0",
+    "original": "我は[颜色 02][占位A 02][颜色 01]…",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__050_1",
+    "original": "汝より生まれ出で、汝の傍らに歩む者なり…\nこれよりトリックスターの力とならん。",
+    "translation": "汝より生まれ出で、汝の傍らに歩む者なり…\nこれよりトリックスターの力とならん。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__051_0",
+    "original": "我は[颜色 02][占位A 02][颜色 01]…",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__051_1",
+    "original": "双眸見開きて、\nトリックスターよ、今こそ発せよ…！",
+    "translation": "双眸見開きて、\nトリックスターよ、今こそ発せよ…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__052_0",
+    "original": "我を喚ぶのは誰ぞ…",
+    "translation": "我を喚ぶのは誰ぞ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__052_1",
+    "original": "数多の闇を照らすトリックスターよ、\n虚ろなる無さえ己が力とするか…",
+    "translation": "数多の闇を照らすトリックスターよ、\n虚ろなる無さえ己が力とするか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__052_2",
+    "original": "我は[颜色 02][占位A 02][颜色 01]。\n汝の道行きを見届けん…",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]。\n汝の道行きを見届けん…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__053_0",
+    "original": "我を喚ぶのは誰ぞ…",
+    "translation": "我を喚ぶのは誰ぞ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__053_1",
+    "original": "暗き夜を照らすが如き、眩き心…\n汝、トリックスターの力となりましょう…",
+    "translation": "暗き夜を照らすが如き、眩き心…\n汝、トリックスターの力となりましょう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__053_2",
+    "original": "我は[颜色 02][占位A 02][颜色 01]。\nその光、絶やさぬよう…",
+    "translation": "我は[颜色 02][占位A 02][颜色 01]。\nその光、絶やさぬよう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__054_0",
+    "original": "うちは[颜色 02][占位A 02][颜色 01]。",
+    "translation": "うちは[颜色 02][占位A 02][颜色 01]。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__054_1",
+    "original": "アンタを勝利へと導く女神や。\nうちが力となって、ついてくで！",
+    "translation": "アンタを勝利へと導く女神や。\nうちが力となって、ついてくで！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__055_0",
+    "original": "うちは[颜色 02][占位A 02][颜色 01]。",
+    "translation": "うちは[颜色 02][占位A 02][颜色 01]。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__055_1",
+    "original": "トリックスターさん、ファイトやで！\nうちが力となって、何処までもついてくで！",
+    "translation": "トリックスターさん、ファイトやで！\nうちが力となって、何処までもついてくで！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__056_0",
+    "original": "俺は[颜色 02][占位A 02][颜色 01]。",
+    "translation": "俺は[颜色 02][占位A 02][颜色 01]。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__056_1",
+    "original": "右手に狂気、左手に執念…\nさあ…どいつから壊してやろうか！？",
+    "translation": "右手に狂気、左手に執念…\nさあ…どいつから壊してやろうか！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__057_0",
+    "original": "俺は[颜色 02][占位A 02][颜色 01]。",
+    "translation": "俺は[颜色 02][占位A 02][颜色 01]。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__057_1",
+    "original": "トリックスターの力…？\n関係ないな、好きに暴れさせてもらう！！",
+    "translation": "トリックスターの力…？\n関係ないな、好きに暴れさせてもらう！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__058_0",
+    "original": "アハハハハ！\n我が名は[颜色 02][占位A 02][颜色 01]！",
+    "translation": "アハハハハ！\n我が名は[颜色 02][占位A 02][颜色 01]！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__058_1",
+    "original": "力になれって…？\nクク…油断してるとオマエからぶっ壊す！",
+    "translation": "力になれって…？\nクク…油断してるとオマエからぶっ壊す！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__059_0",
+    "original": "アハハハハ！\n我が名は[颜色 02][占位A 02][颜色 01]！",
+    "translation": "アハハハハ！\n我が名は[颜色 02][占位A 02][颜色 01]！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_combine_MESSAGE__059_1",
+    "original": "トリックスターの力となれ、か…\nいいね…敵を全部ぶっ壊してやるよ！",
+    "translation": "トリックスターの力となれ、か…\nいいね…敵を全部ぶっ壊してやるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "cmb_cmm_quest02_0",
+    "original": "では次は…",
+    "translation": "では次は…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest02_1",
+    "original": "“[颜色 02]マハンマ[颜色 01]”を持った“[颜色 02]マタドール[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "translation": "“[颜色 02]マハンマ[颜色 01]”を持った“[颜色 02]マタドール[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest02_2",
+    "original": "楽しみに、お待ちしております。",
+    "translation": "楽しみに、お待ちしております。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest03_0",
+    "original": "では次は…",
+    "translation": "では次は…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest03_1",
+    "original": "“[颜色 02]暴れまくり[颜色 01]”を持った“[颜色 02]ドゥン[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "translation": "“[颜色 02]暴れまくり[颜色 01]”を持った“[颜色 02]ドゥン[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest03_2",
+    "original": "楽しみに、お待ちしております。",
+    "translation": "楽しみに、お待ちしております。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest04_0",
+    "original": "では次は…",
+    "translation": "では次は…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest04_1",
+    "original": "“[颜色 02]ブフーラ[颜色 01]”を持った“[颜色 02]ネコショウグン[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "translation": "“[颜色 02]ブフーラ[颜色 01]”を持った“[颜色 02]ネコショウグン[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest04_2",
+    "original": "楽しみに、お待ちしております。",
+    "translation": "楽しみに、お待ちしております。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest05_0",
+    "original": "では次は…",
+    "translation": "では次は…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest05_1",
+    "original": "“[颜色 02]素早さの心得[颜色 01]”を持った“[颜色 02]ジャアクフロスト[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "translation": "“[颜色 02]素早さの心得[颜色 01]”を持った“[颜色 02]ジャアクフロスト[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest05_2",
+    "original": "楽しみに、お待ちしております。",
+    "translation": "楽しみに、お待ちしております。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest06_0",
+    "original": "では次は…",
+    "translation": "では次は…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest06_1",
+    "original": "“[颜色 02]メギド[颜色 01]”を持った“[颜色 02]ヤタガラス[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "translation": "“[颜色 02]メギド[颜色 01]”を持った“[颜色 02]ヤタガラス[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest06_2",
+    "original": "楽しみに、お待ちしております。",
+    "translation": "楽しみに、お待ちしております。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest07_0",
+    "original": "では次は…",
+    "translation": "では次は…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest07_1",
+    "original": "“[颜色 02]メディラマ[颜色 01]”を持った“[颜色 02]ヤツフサ[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "translation": "“[颜色 02]メディラマ[颜色 01]”を持った“[颜色 02]ヤツフサ[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest07_2",
+    "original": "楽しみに、お待ちしております。",
+    "translation": "楽しみに、お待ちしております。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest08_0",
+    "original": "では次は…",
+    "translation": "では次は…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest08_1",
+    "original": "“[颜色 02]テトラカーン[颜色 01]”を持った“[颜色 02]ガネーシャ[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "translation": "“[颜色 02]テトラカーン[颜色 01]”を持った“[颜色 02]ガネーシャ[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest08_2",
+    "original": "楽しみに、お待ちしております。",
+    "translation": "楽しみに、お待ちしております。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest09_0",
+    "original": "では次は…",
+    "translation": "では次は…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest09_1",
+    "original": "“[颜色 02]コンセントレイト[颜色 01]”を持った“[颜色 02]トランペッター[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "translation": "“[颜色 02]コンセントレイト[颜色 01]”を持った“[颜色 02]トランペッター[颜色 01]”…\n貴方なら見せてくださるわね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest09_2",
+    "original": "楽しみに、お待ちしております。",
+    "translation": "楽しみに、お待ちしております。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest10_0",
+    "original": "これ以上、貴方の心を見せてくれなくていいわ。\nもう充分、分かっているから…",
+    "translation": "これ以上、貴方の心を見せてくれなくていいわ。\nもう充分、分かっているから…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest10_1",
+    "original": "…ありがとう。",
+    "translation": "…ありがとう。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest10_2",
+    "original": "やはり貴方は、私が思った通りの人…",
+    "translation": "やはり貴方は、私が思った通りの人…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest10_3",
+    "original": "時が来たら…私に答えをくれる人だわ…",
+    "translation": "時が来たら…私に答えをくれる人だわ…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "cmb_cmm_quest10_4",
+    "original": "ふふっ…\nその時が楽しみね…",
+    "translation": "ふふっ…\nその時が楽しみね…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_イゴール",
+    "original": "イゴール",
+    "translation": "イゴール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  }
+]

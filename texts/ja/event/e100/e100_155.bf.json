@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "何だコレ？\nめっちゃ光ってるけど。",
+    "translation": "何だコレ？\nめっちゃ光ってるけど。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "フィルムの切れ端のようだな…\n思わず、目を奪われる美しさだ。",
+    "translation": "フィルムの切れ端のようだな…\n思わず、目を奪われる美しさだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "何かの役に立つかもね。\nとりあえず、持ち帰ってみようか。",
+    "translation": "何かの役に立つかもね。\nとりあえず、持ち帰ってみようか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

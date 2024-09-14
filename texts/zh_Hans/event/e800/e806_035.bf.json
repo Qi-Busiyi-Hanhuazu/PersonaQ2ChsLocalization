@@ -1,0 +1,16 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "南の方から水の流れる音がする。\n行ってみないか、ジョーカー。",
+    "translation": "从南边传来了水流的声音。\n我们去看看吧，JOKER。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n南方传来流水声。\n要不要去看看？JOKER。\n\n南方传来流水声。\n要不要去看看，JOKER。\n\n南边传来流水声。要不要去看看，JOKER。"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

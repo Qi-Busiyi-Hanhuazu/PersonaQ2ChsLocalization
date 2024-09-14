@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お疲れさまでございました。",
+    "translation": "お疲れさまでございました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "無事、目標の討伐数を達成されたご様子。\nお見事でございます。",
+    "translation": "無事、目標の討伐数を達成されたご様子。\nお見事でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "こちらが、今回の報酬でございます。\nお受け取り下さいませ。",
+    "translation": "こちらが、今回の報酬でございます。\nお受け取り下さいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "[P3P姓]。\n今回は世話になったな。",
+    "translation": "[P3P姓]。\n今回は世話になったな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "君がリーダーなら、そちらの世界の我々も\nきっと安心だろう。",
+    "translation": "君がリーダーなら、そちらの世界の我々も\nきっと安心だろう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "へへ、そうだといいんですけど。",
+    "translation": "へへ、そうだといいんですけど。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "でも、こっちの世界の先輩たちも\n変わらず頼もしいですよ！",
+    "translation": "でも、こっちの世界の先輩たちも\n変わらず頼もしいですよ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "俺に出来ることは、トレーニングと\n戦うことくらいだが…いつでも協力するぞ。",
+    "translation": "俺に出来ることは、トレーニングと\n戦うことくらいだが…いつでも協力するぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "無理強いはしないが、シンジも興味があれば\nいつでも言え。特別メニューを組んでやる。",
+    "translation": "無理強いはしないが、シンジも興味があれば\nいつでも言え。特別メニューを組んでやる。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あー、はいはい。\nそん時はよろしくな。",
+    "translation": "あー、はいはい。\nそん時はよろしくな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ふふっ。\nこれからも、みんなで頑張りましょうね！",
+    "translation": "ふふっ。\nこれからも、みんなで頑張りましょうね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "見て、あれ！",
+    "translation": "快看，那个！",
+    "stage": 1,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n看，那个！\n\n快看，那个！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ちょ、いくらなんでも大きすぎない！？",
+    "translation": "等等，再怎么说这也太大了吧！？",
+    "stage": 0,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n等等，再怎么说这也太大了吧！？\n\n喂，不管怎么说都不太大！？\n\n怎么说也太大了吧！？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "見事だ。威厳すら感じるな。",
+    "translation": "太厉害了。甚至能感受到一丝威严。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n太厉害了。甚至能感受到一股威严。\n\n很漂亮。连威严都感觉不到。\n\n真漂亮。连威严都感觉不到。"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "捕まえよう",
+    "translation": "把它抓住吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n把它抓起来吧\n\n抓住吧"
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "スカル、頼んだ",
+    "translation": "SKULL，拜托了",
+    "stage": 0,
+    "context": "机翻辅助：\n\nSKULL，拜托了\n\nSKULL、拜托了"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これだけの大物なら、\nザベっさんも納得間違い無しだぞ。",
+    "translation": "抓到这么大的家伙，\n莎白小姐肯定也会服气的。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n抓到这么大的家伙，\n柴本肯定也会服气的。\n\n这么大牌的人物，zabe也一定会接受的。\n\n\n如果是这么大的人物，扎贝先生也一定会接受的。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "んじゃさっそく捕まえ…",
+    "translation": "那么马上就抓……",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n那就赶紧抓……\n\n那我马上抓住你……\n\n那么马上抓住……"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "お、俺かよ！？\nさすがにコイツはちょっと…",
+    "translation": "竟、竟然是让我来！？\n这家伙实在是有点……",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n竟、竟然是我！？\n这家伙实在有点……\n\n哦，原来是我啊！？\n到底这家伙有点……\n\n喂，是我啊！？\n不愧是这家伙……"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "おお、スカルが珍しくビビってる？",
+    "translation": "哦哦——！\nSKULL少见地害怕了？",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n哦哦，SKULL难得会害怕？（注：SKULL是柴本的昵称）\n\n哦，SKULL很少见的害怕吗？\n\n哦，SKULL很稀奇，吓了一跳？"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "んなコトねーよ！\nただまだココロの準備が…",
+    "translation": "才没那回事！\n只是我还在做心理准备……",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n才没那回事！\n只是我的内心还没做好准备……\n\n没什么事！\n只是心里还在准备……\n\n什么事啊！\n只是还没有做好心理准备……"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あっ！？",
+    "translation": "啊！？",
+    "stage": 0,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n啊！？"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "蝶は空高く飛んでいってしまった…",
+    "translation": "蝴蝶飞去高空了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n蝴蝶飞到高空去了……\n\n蝴蝶飞得很高……"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "行っちゃった…\nてか、すごい大きかったね。",
+    "translation": "飞走了……\n话说，它还真大啊。",
+    "stage": 0,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n飞走了……\n话说，它还真大啊。\n\n走了……\n嗯，好大啊。\n\n走了……话说回来，好大啊。"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "天井の穴から上に飛んで行ったよ。\nどうしよう、追いかける？",
+    "translation": "从天花板的洞口飞到上面去了。\n怎么办，要追上去吗？",
+    "stage": 0,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n从天花板的洞口飞到上面去了。\n怎么办，要追上去吗？\n\n从天花板的洞往上飞了。\n怎么办，追赶？\n\n从天花板的洞往上飞。\n怎么办，追上去？"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "あれだけの大物は、\nそうお目にかかれないだろうな。",
+    "translation": "那么大的家伙\n应该很难再看到第二次了吧。",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n那么大的家伙\n应该很难再看到第二次了吧。\n\n那么大的人物，恐怕不会见到吧。\n\n\n那么大的人物，大概见不到吧。"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "狙いはアイツだ。\nそこのスイッチ使って、追いかけるぞ！",
+    "translation": "目标是那家伙。\n用那边的开关，追上去！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n目标是那家伙。\n用那边的开关追上去！\n\n目标是那家伙。\n使用那里的开关，追赶！\n\n目标就是那家伙。\n使用那里的开关，追上去！"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "光",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 由加莉",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

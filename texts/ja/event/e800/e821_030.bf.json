@@ -1,0 +1,548 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "目的地にとうちゃーく！\nどう？　いっぱい生えてるでしょ？",
+    "translation": "目的地にとうちゃーく！\nどう？　いっぱい生えてるでしょ？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "食える…食えるぞっ！　あの草もこの草も…\nフハハハハッ、お宝の山だッッ！",
+    "translation": "食える…食えるぞっ！　あの草もこの草も…\nフハハハハッ、お宝の山だッッ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うわ、草なのにすげーテンション…",
+    "translation": "うわ、草なのにすげーテンション…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "とりあえず、私たちも適当に採取しよっか。\n選別はフォックスがしてくれるだろうし。",
+    "translation": "とりあえず、私たちも適当に採取しよっか。\n選別はフォックスがしてくれるだろうし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "全員で手分けをして\n草を集めることにした…",
+    "translation": "全員で手分けをして\n草を集めることにした…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ペルソナ使いが、そろって野草集め…\nだいぶシュールな絵ヅラだなー。",
+    "translation": "ペルソナ使いが、そろって野草集め…\nだいぶシュールな絵ヅラだなー。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "だー、腰が痛え。\nオレっちちょっと休憩…",
+    "translation": "だー、腰が痛え。\nオレっちちょっと休憩…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "どした順平、もうギブかー？\n情けないなー。",
+    "translation": "どした順平、もうギブかー？\n情けないなー。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "いやいやいや！\nこっから本気出しますって！",
+    "translation": "いやいやいや！\nこっから本気出しますって！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "やる気チャージからの…\nジュンペー必殺、ハイパー草刈り侍！",
+    "translation": "やる気チャージからの…\nジュンペー必殺、ハイパー草刈り侍！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "行っくぜ～二刀流！！\nブイイイイ…！",
+    "translation": "行っくぜ～二刀流！！\nブイイイイ…！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ちょっ、バカ！\nこっちに草飛んできてるし！",
+    "translation": "ちょっ、バカ！\nこっちに草飛んできてるし！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "フォックス、この草はどうかな？",
+    "translation": "フォックス、この草はどうかな？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "これは食べられる。\n素揚げにして塩を振ると美味い。",
+    "translation": "これは食べられる。\n素揚げにして塩を振ると美味い。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "こっちはアクが強く少々苦い。\nしかし、十分に下ごしらえすれば…",
+    "translation": "こっちはアクが強く少々苦い。\nしかし、十分に下ごしらえすれば…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ほう…なかなかの知識量だな。\n何でそんなに詳しいんだ？",
+    "translation": "ほう…なかなかの知識量だな。\n何でそんなに詳しいんだ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "俺が野草に詳しい理由？\nそれは…",
+    "translation": "俺が野草に詳しい理由？\nそれは…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_014_0",
+    "original": "草が好きだから",
+    "translation": "草が好きだから",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_1",
+    "original": "お金が無いから",
+    "translation": "お金が無いから",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_2",
+    "original": "変態だから",
+    "translation": "変態だから",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ああ、野草は好きだ。\n大自然で生き抜く強さは美しいものだ。",
+    "translation": "ああ、野草は好きだ。\n大自然で生き抜く強さは美しいものだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "だが俺の場合、もう一つ重大な目的がある。",
+    "translation": "だが俺の場合、もう一つ重大な目的がある。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "そう、俺には金が無い！\nこれも節約術のひとつ！",
+    "translation": "そう、俺には金が無い！\nこれも節約術のひとつ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "誰が変態だっ！？",
+    "translation": "誰が変態だっ！？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "自然は俺の食料庫…野草もしかり。\n飢えをしのぐ上で、詳しくなっただけだ。",
+    "translation": "自然は俺の食料庫…野草もしかり。\n飢えをしのぐ上で、詳しくなっただけだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "まるで修行の一環だな。\nだが、望んでやってるワケでもないのか。",
+    "translation": "まるで修行の一環だな。\nだが、望んでやってるワケでもないのか。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ああ。幸いにも学校には通えているが、\n自由になる金は多くない。",
+    "translation": "ああ。幸いにも学校には通えているが、\n自由になる金は多くない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "俺には、後ろ盾も身寄りも無いからな。",
+    "translation": "俺には、後ろ盾も身寄りも無いからな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "美を追うには金がかかる。画材も資料も\n安くはないが、一切の妥協はできん。",
+    "translation": "美を追うには金がかかる。画材も資料も\n安くはないが、一切の妥協はできん。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "そして、描くためには生きなければ\nならない。削った骨身は、絵に変わる。",
+    "translation": "そして、描くためには生きなければ\nならない。削った骨身は、絵に変わる。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_022_2",
+    "original": "己の全てを芸術に注ぎ込むため…\n生きるための、俺なりの工夫だ。",
+    "translation": "己の全てを芸術に注ぎ込むため…\n生きるための、俺なりの工夫だ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "…なるほど、ストイックだな。\nだが嫌いじゃないぞ。",
+    "translation": "…なるほど、ストイックだな。\nだが嫌いじゃないぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "分かってくれるか、真田さん！",
+    "translation": "分かってくれるか、真田さん！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ああ、己が追求するものを得るために\n捨て身で打ち込む姿は共感する。",
+    "translation": "ああ、己が追求するものを得るために\n捨て身で打ち込む姿は共感する。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "俺も、強さを手に入れるためならば…\nいつだって身命を賭す覚悟だ。",
+    "translation": "俺も、強さを手に入れるためならば…\nいつだって身命を賭す覚悟だ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "やれやれ…\n不器用なバカが、ここにもいたとはな。",
+    "translation": "やれやれ…\n不器用なバカが、ここにもいたとはな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_026_2",
+    "original": "仕方ねえ、こうなったら二人ともたらふく\n食わせてやる。もっと食材を集めてこい。",
+    "translation": "仕方ねえ、こうなったら二人ともたらふく\n食わせてやる。もっと食材を集めてこい。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "野草なら、ずいぶん集まりました。\nこれだけあれば十分かと。",
+    "translation": "野草なら、ずいぶん集まりました。\nこれだけあれば十分かと。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "…いや、まだだ。",
+    "translation": "…いや、まだだ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "タンパク質が不足している！\nこれでは良質な筋肉が作れん！",
+    "translation": "タンパク質が不足している！\nこれでは良質な筋肉が作れん！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ええー、そこ！？",
+    "translation": "ええー、そこ！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "けど確かに、野草だけじゃ寂しいね。\nタンパク質なら、肉か魚かな？",
+    "translation": "けど確かに、野草だけじゃ寂しいね。\nタンパク質なら、肉か魚かな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_031_0",
+    "original": "やっぱり肉だ",
+    "translation": "やっぱり肉だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_031_1",
+    "original": "魚にしよう",
+    "translation": "魚にしよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_031_2",
+    "original": "プロテインは？",
+    "translation": "プロテインは？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "あたしも賛成！\n肉、肉！　おっにくー！",
+    "translation": "あたしも賛成！\n肉、肉！　おっにくー！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "でも、コンテナにあった冷凍肉は\n使い切っちゃったわよね…",
+    "translation": "でも、コンテナにあった冷凍肉は\n使い切っちゃったわよね…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "フッ、肉ならそこらを歩いてるじゃないか。\n仕留めてくるか？",
+    "translation": "フッ、肉ならそこらを歩いてるじゃないか。\n仕留めてくるか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "やめろバカ。\nまた一人で突っ走る気か？",
+    "translation": "やめろバカ。\nまた一人で突っ走る気か？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "魚か！　ワガハイは大歓迎だぞ！",
+    "translation": "魚か！　ワガハイは大歓迎だぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_036_1",
+    "original": "ニャッフッフー！\nやっと念願の寿司にありつける！",
+    "translation": "ニャッフッフー！\nやっと念願の寿司にありつける！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "えっ、古代魚のお寿司！？\n生魚はちょっと…勇気いるわね。",
+    "translation": "えっ、古代魚のお寿司！？\n生魚はちょっと…勇気いるわね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "悪ぃが、寿司はさすがに無理だ。\nせいぜい焼くくらいだな。",
+    "translation": "悪ぃが、寿司はさすがに無理だ。\nせいぜい焼くくらいだな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "それもそうだな。プロテイン粉末で\n不足分は補えばいい。",
+    "translation": "それもそうだな。プロテイン粉末で\n不足分は補えばいい。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "却下だ、バカ。\nちゃんとした料理の材料を持ってこい。",
+    "translation": "却下だ、バカ。\nちゃんとした料理の材料を持ってこい。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "ぐっ…視界が霞む…！\nそろそろ活動に…限界が…",
+    "translation": "ぐっ…視界が霞む…！\nそろそろ活動に…限界が…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "っと…モタモタしてると\nこいつが飢え死にしそうだな。",
+    "translation": "っと…モタモタしてると\nこいつが飢え死にしそうだな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_042_1",
+    "original": "ま、魚が無難そうだな。\nどっかに池だか水溜まりぐらいあったろ。",
+    "translation": "ま、魚が無難そうだな。\nどっかに池だか水溜まりぐらいあったろ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "そういえば、魚がいそうな水辺が\nこのフロアにありますね。",
+    "translation": "そういえば、魚がいそうな水辺が\nこのフロアにありますね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_043_1",
+    "original": "フロアの北東、隅の奥まった所です。\nみなさん向かってみてください。",
+    "translation": "フロアの北東、隅の奥まった所です。\nみなさん向かってみてください。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "魚を捕るで決まりだな！\nよし、フォックスが倒れる前に行くぞ！",
+    "translation": "魚を捕るで決まりだな！\nよし、フォックスが倒れる前に行くぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  }
+]

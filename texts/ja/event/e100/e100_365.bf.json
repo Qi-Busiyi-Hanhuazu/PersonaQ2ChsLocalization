@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "負けてしまったのね…",
+    "translation": "負けてしまったのね…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やっぱり…権力者には勝てない…",
+    "translation": "やっぱり…権力者には勝てない…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "うむ、近くで見ると\n美しさがより一層…",
+    "translation": "嗯，\n凑近欣赏之后美感更上一层楼……",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n嗯，靠近一看\n更美了……\n\n嗯，在附近看的话\n更美……\n\n嗯，近看更美……"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おっしゃ！\nとっとと調べてみようぜ！",
+    "translation": "太好啦！\n赶紧去查看一下吧！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好！\n快点调查吧！\n\n你说！\n赶紧调查一下吧！\n\n喂！\n赶紧调查一下吧！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おい！\nテンションがあがるのもわかるが…",
+    "translation": "喂！\n我能理解你兴奋的心情，但是……",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n喂！\n我知道你很兴奋……\n\n喂！\n也知道情绪高涨……\n\n喂！\n情绪高涨也是可以理解的……"
+  },
+  {
+    "key": "MSG_002_5_0",
+    "original": "調べてる最中も\n敵がいなくなる訳じゃないからな？",
+    "translation": "就算是在调查的过程中\n也不代表敌人会消失哦？",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n但调查的时候\n敌人可不会消失哦？\n\n在调查的过程中\n敌人也不会消失吧？\n\n在调查的过程中，敌人也不会消失吧？"
+  },
+  {
+    "key": "MSG_002_5_1",
+    "original": "気をつけるんだぞ！",
+    "translation": "要小心一些啊！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n小心点啊！\n\n小心点！\n\n要小心哦！"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

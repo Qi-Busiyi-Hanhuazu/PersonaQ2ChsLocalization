@@ -1,0 +1,485 @@
+[
+  {
+    "key": "text_000_0",
+    "original": "天使の像が欲しい",
+    "translation": "想要天使像",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要天使像\n\n想要天使的像\n\n我想要天使的像。"
+  },
+  {
+    "key": "text_001_0",
+    "original": "悪魔の像が欲しい",
+    "translation": "想要恶魔像",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要恶魔像\n\n想要恶魔的像\n\n我想要恶魔的像。"
+  },
+  {
+    "key": "text_002_0",
+    "original": "屋上のあの子",
+    "translation": "楼顶的那女孩",
+    "stage": 0,
+    "context": "机翻辅助：\n\n楼顶的那女孩\n\n屋顶上的那个孩子"
+  },
+  {
+    "key": "text_003_0",
+    "original": "リッツ線が欲しい",
+    "translation": "想要里兹线",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要里兹线\n\n想要立兹线\n\n我想要利兹线"
+  },
+  {
+    "key": "text_004_0",
+    "original": "幻の酒が欲しい",
+    "translation": "想要梦幻美酒",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要梦幻美酒\n\n想要梦幻的酒\n\n想要梦幻之酒"
+  },
+  {
+    "key": "text_005_0",
+    "original": "好きな人とうまくいきますように",
+    "translation": "想要和喜欢的人顺利发展",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要和喜欢的人顺利发展\n\n希望能和喜欢的人顺利进行\n\n祝你和喜欢的人顺利。"
+  },
+  {
+    "key": "text_006_0",
+    "original": "机の修繕",
+    "translation": "想要修好桌子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要修好桌子\n\n桌子的修缮\n\n修理桌子"
+  },
+  {
+    "key": "text_007_0",
+    "original": "本と交換",
+    "translation": "想要交换书本",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要交换书本\n\n与书交换\n\n交换书"
+  },
+  {
+    "key": "text_008_0",
+    "original": "古びた鍵が欲しい",
+    "translation": "想要老旧的钥匙",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要老旧的钥匙\n\n我想要一把旧钥匙"
+  },
+  {
+    "key": "text_009_0",
+    "original": "カーメンの課外授業・１",
+    "translation": "卡门的课外教学·1",
+    "stage": 0,
+    "context": "机翻辅助：\n\n卡门的课外教学·1\n\n卡门的课外授课·1\n\n卡曼的课外辅导·1"
+  },
+  {
+    "key": "text_010_0",
+    "original": "石炭が欲しい",
+    "translation": "想要石炭",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要石炭\n\n想要煤炭\n\n我要煤"
+  },
+  {
+    "key": "text_011_0",
+    "original": "机の改造",
+    "translation": "想要改造桌子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要改造桌子\n\n桌子的改造"
+  },
+  {
+    "key": "text_012_0",
+    "original": "おやつが嫌いになりますように",
+    "translation": "想要讨厌点心",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要讨厌点心\n\n希望你会讨厌零食\n\n我不想吃零食。"
+  },
+  {
+    "key": "text_013_0",
+    "original": "猫にエサをあげてほしい",
+    "translation": "想要喂猫",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要喂猫\n\n希望给猫喂食\n\n请给猫喂食。"
+  },
+  {
+    "key": "text_014_0",
+    "original": "十字架が欲しい",
+    "translation": "想要十字架",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要十字架"
+  },
+  {
+    "key": "text_015_0",
+    "original": "立派な角が欲しい",
+    "translation": "想要漂亮的角",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要漂亮的角"
+  },
+  {
+    "key": "text_016_0",
+    "original": "妹を捜してきて",
+    "translation": "想要找到妹妹",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要找到妹妹\n\n我去找我妹妹。\n\n去寻找妹妹"
+  },
+  {
+    "key": "text_017_0",
+    "original": "姉への道",
+    "translation": "想要成为姐姐",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要成为姐姐\n\n通往姐姐的路\n\n通往姐姐之路"
+  },
+  {
+    "key": "text_018_0",
+    "original": "針銀鉱が欲しい",
+    "translation": "想要针银矿",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要针银矿\n\n我想要针银矿"
+  },
+  {
+    "key": "text_019_0",
+    "original": "犬を探して",
+    "translation": "想要找狗",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要找狗\n\n寻找狗，\n\n寻找狗"
+  },
+  {
+    "key": "text_020_0",
+    "original": "魔除けのヴェールが欲しい",
+    "translation": "想要驱魔头纱",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要驱魔头纱\n\n想要驱魔的面纱\n\n想要辟邪的面纱"
+  },
+  {
+    "key": "text_021_0",
+    "original": "ハードブーツが欲しい",
+    "translation": "想要硬靴",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要硬靴\n\n我想要硬靴\n\n想要硬皮靴"
+  },
+  {
+    "key": "text_022_0",
+    "original": "迷走！ナゾナゾ先輩！",
+    "translation": "迷路！猜谜学姐！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n迷路！猜谜学姐！\n\n迷走！谜之前辈！\n\n迷失方向！谜一样的前辈！"
+  },
+  {
+    "key": "text_023_0",
+    "original": "ランプが欲しい",
+    "translation": "想要油灯",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要油灯\n\n我想要一盏灯\n\n想要一盏灯"
+  },
+  {
+    "key": "text_024_0",
+    "original": "やっぱり猫が気になる",
+    "translation": "果然还是很在意猫",
+    "stage": 0,
+    "context": "机翻辅助：\n\n果然还是很在意猫\n\n还是在意猫"
+  },
+  {
+    "key": "text_025_0",
+    "original": "友だちが欲しい",
+    "translation": "想要朋友",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要朋友"
+  },
+  {
+    "key": "text_026_0",
+    "original": "オシャレな皿が欲しい",
+    "translation": "想要时髦的盘子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要时髦的盘子\n\n想要时尚的盘子\n\n想要漂亮的盘子"
+  },
+  {
+    "key": "text_027_0",
+    "original": "姉まであと一歩",
+    "translation": "离姐姐只差一步",
+    "stage": 0,
+    "context": "机翻辅助：\n\n离姐姐只差一步\n\n离姐姐还有一步\n\n离姐姐还有一步之遥"
+  },
+  {
+    "key": "text_028_0",
+    "original": "テレパシー実験",
+    "translation": "心电感应实验",
+    "stage": 0,
+    "context": "机翻辅助：\n\n心电感应实验\n\n心灵感应实验"
+  },
+  {
+    "key": "text_029_0",
+    "original": "生きがいを取り戻したい",
+    "translation": "想找回生存价值",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想找回生存价值\n\n想找回生活的意义\n\n想要找回生存的意义"
+  },
+  {
+    "key": "text_030_0",
+    "original": "カーメンの課外授業・２",
+    "translation": "卡门的课外教学·2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n卡门的课外教学·2\n\n卡门的课外授课·2\n\n卡曼的课外辅导·2"
+  },
+  {
+    "key": "text_031_0",
+    "original": "水晶玉が欲しい",
+    "translation": "想要水晶球",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要水晶球"
+  },
+  {
+    "key": "text_032_0",
+    "original": "石炭が欲しい・２",
+    "translation": "想要煤炭·2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要煤炭·2\n\n我想要煤"
+  },
+  {
+    "key": "text_033_0",
+    "original": "君は本の内容を覚えているか",
+    "translation": "你还记得书的内容吗",
+    "stage": 0,
+    "context": "机翻辅助：\n\n你还记得书的内容吗\n\n你记得书上的内容吗\n\n你还记得书里的内容吗？"
+  },
+  {
+    "key": "text_034_0",
+    "original": "父へのプレゼント",
+    "translation": "给父亲的礼物",
+    "stage": 0,
+    "context": "机翻辅助：\n\n给父亲的礼物"
+  },
+  {
+    "key": "text_035_0",
+    "original": "口下手を直したい",
+    "translation": "想矫正不擅言词的毛病",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想矫正不擅言词的毛病\n\n想纠正嘴笨\n\n我想改口"
+  },
+  {
+    "key": "text_036_0",
+    "original": "高速ギアが欲しい",
+    "translation": "想要高速档",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要高速档\n\n我想要高速齿轮\n\n想要高速齿轮"
+  },
+  {
+    "key": "text_037_0",
+    "original": "姉からの卒業",
+    "translation": "从姐姐身边毕业",
+    "stage": 0,
+    "context": "机翻辅助：\n\n从姐姐身边毕业\n\n从姐姐毕业\n\n从姐姐那里毕业"
+  },
+  {
+    "key": "text_038_0",
+    "original": "演習弾が欲しい",
+    "translation": "想要演习弹",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要演习弹\n\n我要演习弹"
+  },
+  {
+    "key": "text_039_0",
+    "original": "最後のテレパシー",
+    "translation": "最后的心电感应",
+    "stage": 0,
+    "context": "机翻辅助：\n\n最后的心电感应\n\n最后的心灵感应"
+  },
+  {
+    "key": "text_040_0",
+    "original": "猫に慣れたい",
+    "translation": "想习惯跟猫相处",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想习惯跟猫相处\n\n想习惯猫"
+  },
+  {
+    "key": "text_041_0",
+    "original": "落としたお金を探して",
+    "translation": "寻找遗失的钱",
+    "stage": 0,
+    "context": "机翻辅助：\n\n寻找遗失的钱\n\n寻找丢失的钱"
+  },
+  {
+    "key": "text_042_0",
+    "original": "屋上のあの子・２",
+    "translation": "楼顶上的那个女生·2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n楼顶上的那个女生·2\n\n屋顶上的那个孩子"
+  },
+  {
+    "key": "text_043_0",
+    "original": "父へのプレゼント・２",
+    "translation": "给父亲的礼物·2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n给父亲的礼物·2\n\n给父亲的礼物\n\n给父亲的礼物2"
+  },
+  {
+    "key": "text_044_0",
+    "original": "古い鉱石が欲しい",
+    "translation": "想要古老的矿石",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要古老的矿石\n\n想要旧矿石"
+  },
+  {
+    "key": "text_045_0",
+    "original": "ランプが欲しい・２",
+    "translation": "想要油灯·2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要油灯·2\n\n我想要一盏灯\n\n想要灯·2"
+  },
+  {
+    "key": "text_046_0",
+    "original": "覚醒！ナゾナゾ先輩！",
+    "translation": "觉醒！猜谜前辈！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n觉醒！猜谜前辈！\n\n觉醒！谜之前辈！\n\n觉醒！谜一样的前辈！"
+  },
+  {
+    "key": "text_047_0",
+    "original": "七里海岸のヌシを一目見たい",
+    "translation": "想看一眼七里海岸的霸主",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想看一眼七里海岸的霸主\n\n想看一眼七里海岸的努西\n\n想看一眼七里海岸的主人"
+  },
+  {
+    "key": "text_048_0",
+    "original": "それでも猫が気になる",
+    "translation": "但还是很在意猫",
+    "stage": 0,
+    "context": "机翻辅助：\n\n但还是很在意猫\n\n尽管如此还是很在意猫\n\n尽管如此，我还是很在意猫"
+  },
+  {
+    "key": "text_049_0",
+    "original": "逆襲！ナゾナゾ先輩！",
+    "translation": "逆袭！猜谜前辈！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n逆袭！猜谜前辈！\n\n反击！谜之前辈！\n\n逆袭！谜一样的前辈！"
+  },
+  {
+    "key": "text_050_0",
+    "original": "カーメンの課外授業・３",
+    "translation": "卡门的课外教学·3",
+    "stage": 0,
+    "context": "机翻辅助：\n\n卡门的课外教学·3\n\n卡门的课外授课·3\n\n卡曼的课外辅导·3"
+  },
+  {
+    "key": "text_051_0",
+    "original": "黄金鎖の束が欲しい",
+    "translation": "想要一整串黄金锁链",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要一整串黄金锁链\n\n想要一束黄金链\n\n我想要一串黄金链子。"
+  },
+  {
+    "key": "text_052_0",
+    "original": "学生の本分は学業である",
+    "translation": "学生的本分是学业",
+    "stage": 0,
+    "context": "机翻辅助：\n\n学生的本分是学业"
+  },
+  {
+    "key": "text_053_0",
+    "original": "柏木先生の特別授業・１",
+    "translation": "柏木老师的特别课程·1",
+    "stage": 0,
+    "context": "机翻辅助：\n\n柏木老师的特别课程·1\n\n柏木老师的特别课·1\n\n柏木老师的特别授课·1"
+  },
+  {
+    "key": "text_054_0",
+    "original": "清掃部の魂を受け継いで欲しい",
+    "translation": "希望继承打扫社的灵魂",
+    "stage": 0,
+    "context": "机翻辅助：\n\n希望继承打扫社的灵魂\n\n希望你能继承清扫部的灵魂\n\n我希望你能继承清扫部的灵魂。"
+  },
+  {
+    "key": "text_055_0",
+    "original": "復活！ナゾナゾ先輩！",
+    "translation": "复活！猜谜前辈！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n复活！猜谜前辈！\n\n复活！谜之前辈！\n\n复活！谜一样的前辈！"
+  },
+  {
+    "key": "text_056_0",
+    "original": "稲羽マスが欲しい",
+    "translation": "想要稻羽鳟",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要稻羽鳟\n\n想要稻羽益\n\n我想要稻羽鳟鱼"
+  },
+  {
+    "key": "text_057_0",
+    "original": "２種類のトウモロコシが欲しい",
+    "translation": "想要2种玉米",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要2种玉米\n\n我想要两种玉米"
+  },
+  {
+    "key": "text_058_0",
+    "original": "鮫川のヌシが欲しい",
+    "translation": "想要鲛川的霸主",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想要鲛川的霸主\n\n我想要鲛川的努西\n\n想要鲛川的儿子"
+  },
+  {
+    "key": "text_059_0",
+    "original": "稲羽産キャベツでないとダメなの",
+    "translation": "非稻羽产的卷心菜不可",
+    "stage": 0,
+    "context": "机翻辅助：\n\n非稻羽产的卷心菜不可\n\n不是稻羽产的卷心菜是不行的\n\n必须是稻羽产的卷心菜"
+  },
+  {
+    "key": "text_060_0",
+    "original": "ティッシュ配り代行します",
+    "translation": "代理发送面纸",
+    "stage": 0,
+    "context": "机翻辅助：\n\n代理发送面纸\n\n代理分发纸巾。\n\n代理分发纸巾"
+  },
+  {
+    "key": "text_061_0",
+    "original": "映画に出てきた物について知りたい",
+    "translation": "想知道电影里出现的东西",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想知道电影里出现的东西\n\n我想知道电影里出现的东西"
+  },
+  {
+    "key": "text_062_0",
+    "original": "気に入る服を見つけてきて",
+    "translation": "想找到中意的衣服",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想找到中意的衣服\n\n找到喜欢的衣服\n\n我找到了我喜欢的衣服"
+  },
+  {
+    "key": "text_063_0",
+    "original": "ときめくあの服が見たい",
+    "translation": "想看心动的那件衣服",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想看心动的那件衣服\n\n想看那心跳的衣服\n\n想看心动的那件衣服。"
+  },
+  {
+    "key": "text_064_0",
+    "original": "うちの子を捜して",
+    "translation": "寻找我家的孩子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n寻找我家的孩子\n\n找我的孩子\n\n寻找我的孩子"
+  },
+  {
+    "key": "text_065_0",
+    "original": "うちの子を捜して、再び",
+    "translation": "寻找我家的孩子，再启",
+    "stage": 0,
+    "context": "机翻辅助：\n\n寻找我家的孩子，再启\n\n再找我的孩子\n\n再次寻找我的孩子"
+  },
+  {
+    "key": "text_066_0",
+    "original": "かわいいスリッパが見たい",
+    "translation": "想看可爱的拖鞋",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想看可爱的拖鞋"
+  },
+  {
+    "key": "text_067_0",
+    "original": "ぷにぷにの肉球付き手袋が見たい",
+    "translation": "想看附有软绵绵肉球的手套",
+    "stage": 0,
+    "context": "机翻辅助：\n\n想看附有软绵绵肉球的手套\n\n想看带肉球的手套\n\n我想看punnypunny肉垫手套。"
+  },
+  {
+    "key": "text_068_0",
+    "original": "柏木先生の特別授業・２",
+    "translation": "柏木老师的特别课程·2",
+    "stage": 0,
+    "context": "机翻辅助：\n\n柏木老师的特别课程·2\n\n柏木老师的特别课·2\n\n柏木老师的特别授课·2"
+  }
+]

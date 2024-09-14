@@ -1,0 +1,296 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お待ちください。",
+    "translation": "お待ちください。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "エリザベスさん…？",
+    "translation": "エリザベスさん…？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "どうした？",
+    "translation": "どうした？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "何かあったのか",
+    "translation": "何かあったのか",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "フム…",
+    "translation": "フム…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "フムフムフム…",
+    "translation": "フムフムフム…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "……？",
+    "translation": "……？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "…ああ、これは失礼いたしました。",
+    "translation": "…ああ、これは失礼いたしました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "実はお二方の間に\n新たな『絆』の芽生えを感じたのです。",
+    "translation": "実はお二方の間に\n新たな『絆』の芽生えを感じたのです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "…俺と[P5姓]に？",
+    "translation": "…俺と[P5姓]に？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "…ですが、何故？\n本来起こり得ない出会いだから…？",
+    "translation": "…ですが、何故？\n本来起こり得ない出会いだから…？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "ともあれ、実に興味深い…",
+    "translation": "ともあれ、実に興味深い…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "けど、急に『絆』って言われてもな…\n二人とも、実感あるか？",
+    "translation": "けど、急に『絆』って言われてもな…\n二人とも、実感あるか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "実はある",
+    "translation": "実はある",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "わからない…",
+    "translation": "わからない…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "俺は心当たりあるぜ？",
+    "translation": "俺は心当たりあるぜ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "さっき、[P5名]と[P4姓]で、\nとんでもねぇ連携をしたんだよ。",
+    "translation": "さっき、[P5名]と[P4姓]で、\nとんでもねぇ連携をしたんだよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "肉食恐竜の足止めか",
+    "translation": "肉食恐竜の足止めか",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "そんなこともあったな",
+    "translation": "そんなこともあったな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ああ、自分でも驚くほど\nスムーズに動けた…",
+    "translation": "ああ、自分でも驚くほど\nスムーズに動けた…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "体が軽くなって、気力も漲って…",
+    "translation": "体が軽くなって、気力も漲って…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_012_2",
+    "original": "あの肉食恐竜を、\n一撃で怯ませることができた。",
+    "translation": "あの肉食恐竜を、\n一撃で怯ませることができた。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "マジで！？\n超ツエーじゃん！！",
+    "translation": "マジで！？\n超ツエーじゃん！！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "だが、なぜ急に…？",
+    "translation": "だが、なぜ急に…？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ワイルド同士が出会って、\n誰もが複数のペルソナを扱えるように…",
+    "translation": "ワイルド同士が出会って、\n誰もが複数のペルソナを扱えるように…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "『絆』による『新たな力の目覚め』も、\nこの世界特有の現象かもしれませんね。",
+    "translation": "『絆』による『新たな力の目覚め』も、\nこの世界特有の現象かもしれませんね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "あの時の連携はたまたまだったが、\n好きなタイミングで使えるようになれば…",
+    "translation": "あの時の連携はたまたまだったが、\n好きなタイミングで使えるようになれば…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "であれば、更なる『絆』を\n育むのはいかがでしょう？",
+    "translation": "であれば、更なる『絆』を\n育むのはいかがでしょう？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_018_0",
+    "original": "絆を育む？",
+    "translation": "絆を育む？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_1",
+    "original": "どうやって？",
+    "translation": "どうやって？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "説明するよりも、まずは実践あるのみ。",
+    "translation": "説明するよりも、まずは実践あるのみ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "ちょうど、皆様にうってつけの\n『特別上映』がございます。",
+    "translation": "ちょうど、皆様にうってつけの\n『特別上映』がございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_019_2",
+    "original": "皆様がお互いの『絆』を深めることで、\n更なる力を生み出せるようになるかと…",
+    "translation": "皆様がお互いの『絆』を深めることで、\n更なる力を生み出せるようになるかと…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_019_3",
+    "original": "お時間があれば\nぜひ券売機までお越しください。",
+    "translation": "お時間があれば\nぜひ券売機までお越しください。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_019_4",
+    "original": "それでは、失礼いたします…",
+    "translation": "それでは、失礼いたします…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "一部のクエストをクリアすると、\n『協力技』を習得します。",
+    "translation": "一部のクエストをクリアすると、\n『協力技』を習得します。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "『協力技』は絆を深めたペルソナ使い\n同士が繰り出す、強力な一撃です。",
+    "translation": "『協力技』は絆を深めたペルソナ使い\n同士が繰り出す、強力な一撃です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_020_2",
+    "original": "迷宮探索に役立つので\nぜひ活用してください。",
+    "translation": "迷宮探索に役立つので\nぜひ活用してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

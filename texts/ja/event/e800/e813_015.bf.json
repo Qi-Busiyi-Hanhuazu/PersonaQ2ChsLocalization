@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "きゃあああああああああ！！",
+    "translation": "きゃあああああああああ！！",
+    "stage": 1,
+    "context": "誰かの叫び声"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "こ、この声は…！？",
+    "translation": "こ、この声は…！？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おい、行ってみようぜ！",
+    "translation": "おい、行ってみようぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_誰かの叫び声",
+    "original": "誰かの叫び声",
+    "translation": "誰かの叫び声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

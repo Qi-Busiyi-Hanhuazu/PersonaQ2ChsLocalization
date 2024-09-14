@@ -1,0 +1,653 @@
+[
+  {
+    "key": "MARGARET_FOE_FOLLOW_STAR_0",
+    "original": "あれは…フィルム・おぷ… ",
+    "translation": "那是……胶片·欧普…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那是……胶片·欧普…… \n\n那是……胶片…… \n\n那是……电影之光……"
+  },
+  {
+    "key": "MARGARET_FOE_FOLLOW_STAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅに追われているわ。 ",
+    "translation": "被F.O.E追上了。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n被F.O.E追上了。 \n\n被F.O.E追赶着。 \n\n我被F.O.E追着呢。"
+  },
+  {
+    "key": "MARGARET_FOE_FOLLOW_STAR_3_0",
+    "original": "追尾しているわよ。 ",
+    "translation": "正在追踪呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n正在追踪呢。 \n\n我在跟踪你。"
+  },
+  {
+    "key": "MARGARET_FOE_NEAR_1_0",
+    "original": "落ち着いて、Ｆ．Ｏ．Ｅよ。 ",
+    "translation": "冷静下来，是F.O.E哦。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冷静下来，是F.O.E哦。 \n\n冷静点，F.O.E。"
+  },
+  {
+    "key": "MARGARET_FOE_NEAR_2_0",
+    "original": "貴方から見たら \nすべて大きく見えるわね。 ",
+    "translation": "在你看来\n一切都很巨大呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n在你看来\n一切都很巨大呢。 \n\n在你看来\n一切都显得很大呢。 \n\n在你看来，一切都显得很大。"
+  },
+  {
+    "key": "MARGARET_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅが近いわ。 ",
+    "translation": "F.O.E很近了。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E很近了。 \n\nF.O.E很近。"
+  },
+  {
+    "key": "MARGARET_FOE_FOLLOW_END__0",
+    "original": "素晴らしいわ。 \nＦ．Ｏ．Ｅを振り切ったようね。 ",
+    "translation": "太棒了。\n看来甩掉F.O.E了呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n太棒了。\n看来甩掉F.O.E了呢。 \n\n太棒了。\n好像甩掉了F.O.E。"
+  },
+  {
+    "key": "MARGARET_FOE_FOLLOW_END__2_0",
+    "original": "上手く逃げ切れたようね。 ",
+    "translation": "顺利逃掉了呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n顺利逃掉了呢。 \n\n好像逃得很好呢。"
+  },
+  {
+    "key": "MARGARET_FOE_FOLLOW_END__3_0",
+    "original": "追尾を諦めたようよ。 ",
+    "translation": "放弃追踪了哦。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃追踪了哦。 \n\n好像放弃跟踪了。 \n\n好像放弃了追踪。"
+  },
+  {
+    "key": "MARGARET_KANSI_REACTION__0",
+    "original": "ライトに照らされると見つかるわ。 ",
+    "translation": "被灯光照到会被发现哦。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n被灯光照到会被发现哦。 \n\n被灯光照射的话会找到的。 \n\n灯光一照就会发现。"
+  },
+  {
+    "key": "MARGARET_KANSI_REACTION__2_0",
+    "original": "スポットライトで監視されてるわよ。 ",
+    "translation": "被聚光灯监视着哦。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n被聚光灯监视着哦。 \n\n被聚光灯监视着呢。"
+  },
+  {
+    "key": "MARGARET_KANSI_REACTION__3_0",
+    "original": "この先は慎重に行きなさい。 ",
+    "translation": "接下来要慎重行事哦。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n接下来要慎重行事哦。 \n\n今后请慎重行事。 \n\n你以后要慎重。"
+  },
+  {
+    "key": "MARGARET_DENKISAKU_REACT_0",
+    "original": "電気柵を止めないと進めないわよ。 ",
+    "translation": "不关掉电栅栏就无法前进哦。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不关掉电栅栏就无法前进哦。 \n\n不把电栅栏关掉的话就无法前进。 \n\n不停电栅栏就不能前进。"
+  },
+  {
+    "key": "MARGARET_DENKISAKU_REACT_2_0",
+    "original": "この柵はやっかいね。 ",
+    "translation": "这栅栏很麻烦呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这栅栏很麻烦呢。 \n\n这个栅栏好麻烦啊。 \n\n这个栅栏真麻烦。"
+  },
+  {
+    "key": "MARGARET_DENKISAKU_REACT_3_0",
+    "original": "電気を止めるには \nスイッチを探しなさい。 ",
+    "translation": "要关灯的话，请寻找开关。\n ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要关灯的话，请寻找开关。\n \n\n要想断电，请找开关。\n \n\n要关灯，请找开关。"
+  },
+  {
+    "key": "MARGARET_KYOUHU_REACTION_0",
+    "original": "すごい風ね。 ",
+    "translation": "风好大哦。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n风好大哦。 \n\n好大的风啊。"
+  },
+  {
+    "key": "MARGARET_KYOUHU_REACTION_2_0",
+    "original": "皆様、お気を付けを。 ",
+    "translation": "请各位小心。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n请各位小心。 \n\n各位，请注意。 \n\n各位，请小心。"
+  },
+  {
+    "key": "MARGARET_KYOUHU_REACTION_3_0",
+    "original": "風！？ ",
+    "translation": "风？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n风？ \n\n风！？"
+  },
+  {
+    "key": "MARGARET_STAIR_FIND_1_0",
+    "original": "階段を発見したわ。 ",
+    "translation": "发现楼梯了。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n发现楼梯了。 \n\n我发现了楼梯。 \n\n我发现楼梯了。"
+  },
+  {
+    "key": "MARGARET_STAIR_FIND_2_0",
+    "original": "お見事です、先に進みますか？ ",
+    "translation": "真了不起，要前进吗？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真了不起，要前进吗？ \n\n很漂亮，要往前走吗？ \n\n很漂亮，要继续吗？"
+  },
+  {
+    "key": "MARGARET_STAIR_FIND_3_0",
+    "original": "ようやく階段を見つけたわね。 ",
+    "translation": "总算找到楼梯了呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n总算找到楼梯了呢。 \n\n终于找到楼梯了呢。 \n\n你终于找到楼梯了。"
+  },
+  {
+    "key": "MARGARET_TREASURE_FIND_1_0",
+    "original": "宝箱のようね。 \n開けてみたらどうかしら？ ",
+    "translation": "好像是宝箱。\n要不要打开看看？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像是宝箱。\n要不要打开看看？ \n\n像宝箱一样。\n打开看看怎么样？ \n\n就像百宝箱一样。\n打开看看怎么样？"
+  },
+  {
+    "key": "MARGARET_TREASURE_FIND_2_0",
+    "original": "あら、宝箱。中身は何かしら？ ",
+    "translation": "哎呀，是宝箱。里面会有什么呢？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哎呀，是宝箱。里面会有什么呢？ \n\n哎呀，宝箱。里面是什么？"
+  },
+  {
+    "key": "MARGARET_TREASURE_FIND_3_0",
+    "original": "あの宝箱に良いものが入っていると \n良いのだけれど。 ",
+    "translation": "那个宝箱里装了不错的东西。\n那真是太好了。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那个宝箱里装了不错的东西。\n那真是太好了。 \n\n要是那个宝箱里有好东西就好了。\n \n\n如果那个百宝箱里有好的东西就好了。"
+  },
+  {
+    "key": "MARGARET_CHECK_WALL_1_0",
+    "original": "このあたり、 \n調べてみたらどうかしら？ ",
+    "translation": "这附近……\n要不要调查看看？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这附近……\n要不要调查看看？ \n\n这附近，\n调查一下怎么样？ \n\n这附近，查一下怎么样？"
+  },
+  {
+    "key": "MARGARET_CHECK_WALL_2_0",
+    "original": "あら、あれは何かしら？ ",
+    "translation": "哎呀，那是什么？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哎呀，那是什么？"
+  },
+  {
+    "key": "MARGARET_CHECK_WALL_3_0",
+    "original": "前方に何かあるみたいね。 ",
+    "translation": "前方好像有什么东西。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前方好像有什么东西。 \n\n前面好像有什么。"
+  },
+  {
+    "key": "MARGARET_SWITCH_FIND_1_0",
+    "original": "前方にスイッチがあるわよ。 ",
+    "translation": "前方有开关哦。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前方有开关哦。 \n\n前面有开关哦。"
+  },
+  {
+    "key": "MARGARET_SWITCH_FIND_2_0",
+    "original": "付近にスイッチがあるかと。 ",
+    "translation": "附近应该有开关。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n附近应该有开关。 \n\n附近有开关吗。 \n\n附近有没有开关。"
+  },
+  {
+    "key": "MARGARET_SWITCH_FIND_3_0",
+    "original": "このスイッチを確認されてみては？ ",
+    "translation": "要不要确认这个开关？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要不要确认这个开关？ \n\n确认一下这个开关怎么样？ \n\n试着确认一下这个开关怎么样？"
+  },
+  {
+    "key": "MARGARET_SHORTCUT_FIND_1_0",
+    "original": "近くの壁は通り抜けられそうよ。 ",
+    "translation": "附近的墙壁好像可以穿过去。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n附近的墙壁好像可以穿过去。 \n\n附近的墙壁好像可以穿过去哦。 \n\n附近的墙好像可以穿过去。"
+  },
+  {
+    "key": "MARGARET_SHORTCUT_FIND_2_0",
+    "original": "辺りに抜け道があるわよ。 ",
+    "translation": "附近有密道哦。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n附近有密道哦。 \n\n附近有近道。 \n\n附近有一条近道。"
+  },
+  {
+    "key": "MARGARET_SHORTCUT_FIND_3_0",
+    "original": "そこの壁は…？ ",
+    "translation": "那里的墙壁……？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那里的墙壁……？"
+  },
+  {
+    "key": "MARGARET_PARTY_DEAD_1_0",
+    "original": "負傷者が多数のようね。 ",
+    "translation": "好像有很多伤患。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像有很多伤患。 \n\n伤员好像很多。 \n\n好像有很多人受伤。"
+  },
+  {
+    "key": "MARGARET_PARTY_DEAD_2_0",
+    "original": "そうね、一度戻ってはどうかしら？ ",
+    "translation": "是啊，要不要先回去？（小队成员） ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是啊，要不要先回去？（小队成员） \n\n是啊，回去一次怎么样？"
+  },
+  {
+    "key": "MARGARET_PARTY_DEAD_3_0",
+    "original": "このまま進むのはお勧めいたしません。 ",
+    "translation": "我不建议继续前进。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我不建议继续前进。 \n\n不建议就这样前进。 \n\n我不建议这样继续下去。"
+  },
+  {
+    "key": "MARGARET_FOE_WARNING_NEA_0",
+    "original": "引き続き、Ｆ．Ｏ．Ｅに注意なさい。 ",
+    "translation": "请继续注意F.O.E。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n请继续注意F.O.E。"
+  },
+  {
+    "key": "MARGARET_FOE_WARNING_NEA_2_0",
+    "original": "そうね、周囲に警戒を。 ",
+    "translation": "是啊，警戒周围。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是啊，警戒周围。 \n\n是啊，要警惕周围。"
+  },
+  {
+    "key": "MARGARET_FOE_WARNING_NEA_3_0",
+    "original": "Ｆ．Ｏ．Ｅが接近しているわ。 \n気をつけなさい。 ",
+    "translation": "F.O.E正在接近。\n小心。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E正在接近。\n小心。 \n\nF.O.E接近了。\n请注意。 \n\nF.O.E正在接近。请小心。"
+  },
+  {
+    "key": "MARGARET_PARTY_HPTP10_1_0",
+    "original": "一度撤退をお勧めするわ。 ",
+    "translation": "建议先撤退。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n建议先撤退。 \n\n我建议你撤退一次。"
+  },
+  {
+    "key": "MARGARET_PARTY_HPTP10_2_0",
+    "original": "パーティ内の負傷者が多すぎるようね… ",
+    "translation": "小队内的伤患似乎太多了…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n小队内的伤患似乎太多了…… \n\n队伍上的伤员好像太多了…… \n\n队伍里的伤者好像太多了……"
+  },
+  {
+    "key": "MARGARET_PARTY_HPTP10_3_0",
+    "original": "そうね、このまま進むのは危険よ。 ",
+    "translation": "是啊，继续前进很危险。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是啊，继续前进很危险。 \n\n是啊，就这样前进是很危险的。 \n\n是啊，这样下去很危险。"
+  },
+  {
+    "key": "MARGARET_PARTY_HP10_1_0",
+    "original": "皆様の体力の消耗が激しいようね。 ",
+    "translation": "各位的体力消耗得很剧烈。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n各位的体力消耗得很剧烈。 \n\n大家的体力消耗好像很大。 \n\n大家的体力消耗很大呢。"
+  },
+  {
+    "key": "MARGARET_PARTY_HP10_2_0",
+    "original": "パーティ内の体力を \n管理した方がよろしいかと。 ",
+    "translation": "小队内的体力……\n最好管理一下。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n小队内的体力……\n最好管理一下。 \n\n队伍内的体力\n应该管理一下吗？ \n\n管理队伍内的体力比较好。"
+  },
+  {
+    "key": "MARGARET_PARTY_HP10_3_0",
+    "original": "皆様の回復を優先すべきだわ。 ",
+    "translation": "应该以回复各位为优先。（小队成员） ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n应该以回复各位为优先。（小队成员） \n\n应该优先考虑大家的恢复。 \n\n应该优先让大家恢复健康。"
+  },
+  {
+    "key": "MARGARET_1PERSON_HPTP10__0",
+    "original": "ご自身の体力と気力の消耗が \n激しいようね。 ",
+    "translation": "自己的体力与精神……\n消耗得很剧烈呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n自己的体力与精神……\n消耗得很剧烈呢。 \n\n您自己的体力和精力都消耗得很厉害吧。\n \n\n自己的体力和精力消耗很大。"
+  },
+  {
+    "key": "MARGARET_1PERSON_HPTP10__2_0",
+    "original": "まずは、ご自身の回復をなさい。 ",
+    "translation": "请先回复自己。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n请先回复自己。 \n\n首先，请恢复自己。"
+  },
+  {
+    "key": "MARGARET_1PERSON_HPTP10__3_0",
+    "original": "ご自身の消耗が激しいようね。 ",
+    "translation": "您自己的体力消耗得很剧烈呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n您自己的体力消耗得很剧烈呢。 \n\n你自己的消耗好像很大。 \n\n你自己的消耗好像很大啊。"
+  },
+  {
+    "key": "MARGARET_PARTY_TP10_1_0",
+    "original": "皆様の気力が尽きたようね。 ",
+    "translation": "大家的气力似乎都耗尽了呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大家的气力似乎都耗尽了呢。 \n\n大家的精力都用尽了。 \n\n大家都筋疲力尽了呢。"
+  },
+  {
+    "key": "MARGARET_PARTY_TP10_2_0",
+    "original": "残りの気力じゃ、私も心配だわ。 ",
+    "translation": "凭剩下的气力，我也很担心呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n凭剩下的气力，我也很担心呢。 \n\n剩下的力气，我也担心。 \n\n剩下的力气，我也很担心。"
+  },
+  {
+    "key": "MARGARET_PARTY_TP10_3_0",
+    "original": "パーティ内の気力が \n残り僅かなようね。 ",
+    "translation": "队伍内的气力似乎\n所剩无几了呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n队伍内的气力似乎\n所剩无几了呢。 \n\n队伍内的气力\n好像所剩无几了。 \n\n队伍上的精力只剩下一点点了。"
+  },
+  {
+    "key": "MARGARET_1PERSON_HP10_1_0",
+    "original": "ご自身の回復を優先すべきだわ。 ",
+    "translation": "应该以您自己的回复为优先呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n应该以您自己的回复为优先呢。 \n\n你应该优先考虑自己的恢复。 \n\n你应该优先恢复自己。"
+  },
+  {
+    "key": "MARGARET_1PERSON_HP10_2_0",
+    "original": "ご自身の体力の回復をお勧めするわ。 ",
+    "translation": "建议您回复自己的体力呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n建议您回复自己的体力呢。 \n\n建议您自己恢复体力。 \n\n我建议你恢复自己的体力。"
+  },
+  {
+    "key": "MARGARET_1PERSON_HP10_3_0",
+    "original": "まずは、 \nご自身の体力を回復してみては？ ",
+    "translation": "首先，\n要不要试着回复自己的体力？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n首先，\n要不要试着回复自己的体力？ \n\n首先，\n试着恢复自己的体力怎么样？ \n\n首先，试着恢复自己的体力怎么样？"
+  },
+  {
+    "key": "MARGARET_1PERSON_TP10_1_0",
+    "original": "ご自身を回復できるかしら？ ",
+    "translation": "您能回复自己吗？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n您能回复自己吗？ \n\n能恢复自己吗？ \n\n你能恢复自己吗？"
+  },
+  {
+    "key": "MARGARET_1PERSON_TP10_2_0",
+    "original": "そうよ、無理はしないことね。 ",
+    "translation": "没错，不要勉强呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没错，不要勉强呢。 \n\n是啊，不要勉强啊。 \n\n是啊，不要太勉强。"
+  },
+  {
+    "key": "MARGARET_1PERSON_TP10_3_0",
+    "original": "ご自身がスタミナ切れのようね。 ",
+    "translation": "您自己的体力似乎耗尽了呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n您自己的体力似乎耗尽了呢。 \n\n你自己好像体力不支。 \n\n你自己好像没有体力了。"
+  },
+  {
+    "key": "MARGARET_ITEM_90_BATTLE__0",
+    "original": "整理整頓が必要そうね。 ",
+    "translation": "似乎需要整理整顿呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n似乎需要整理整顿呢。 \n\n看来需要整理整顿啊。 \n\n好像需要整理整顿。"
+  },
+  {
+    "key": "MARGARET_ITEM_90_BATTLE__2_0",
+    "original": "持ち物があふれているご様子。 ",
+    "translation": "您持有的物品似乎太多了呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n您持有的物品似乎太多了呢。 \n\n随身物品溢出的样子。 \n\n好像囤了很多东西。"
+  },
+  {
+    "key": "MARGARET_ITEM_90_BATTLE__3_0",
+    "original": "テオドアに引き渡してみてはいかが？ ",
+    "translation": "试着交给西奥多如何？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n试着交给西奥多如何？ \n\n试着交给西奥多怎么样？ \n\n把它交给西奥多怎么样？"
+  },
+  {
+    "key": "MARGARET_1PERSON_HP80_1_0",
+    "original": "調子が良さそうね。 ",
+    "translation": "您的状况似乎不错呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n您的状况似乎不错呢。 \n\n状态好像很好呢。 \n\n你看起来状态很好。"
+  },
+  {
+    "key": "MARGARET_1PERSON_HP80_2_0",
+    "original": "お客様の体力はまだ万全なようね。 ",
+    "translation": "客人的体力似乎还很充沛呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n客人的体力似乎还很充沛呢。 \n\n客人的体力好像还很充足啊。 \n\n客人的体力好像还很好。"
+  },
+  {
+    "key": "MARGARET_1PERSON_HP80_3_0",
+    "original": "余裕があるうちに先に進みましょう。 ",
+    "translation": "趁还有余力的时候前进吧。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n趁还有余力的时候前进吧。 \n\n趁着有时间往前走吧。 \n\n趁着还有余力，继续前进吧。"
+  },
+  {
+    "key": "MARGARET_ITEM_90_DUNGEON_0",
+    "original": "整理整頓が必要そうね。 ",
+    "translation": "似乎需要整理整顿呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n似乎需要整理整顿呢。 \n\n看来需要整理整顿啊。 \n\n好像需要整理整顿。"
+  },
+  {
+    "key": "MARGARET_ITEM_90_DUNGEON_2_0",
+    "original": "持ち物があふれているご様子。 ",
+    "translation": "您持有的物品似乎太多了呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n您持有的物品似乎太多了呢。 \n\n随身物品溢出的样子。 \n\n好像囤了很多东西。"
+  },
+  {
+    "key": "MARGARET_ITEM_90_DUNGEON_3_0",
+    "original": "テオドアに引き渡してみてはいかが？ ",
+    "translation": "试着交给西奥多如何？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n试着交给西奥多如何？ \n\n试着交给西奥多怎么样？ \n\n把它交给西奥多怎么样？"
+  },
+  {
+    "key": "MARGARET_DUNGEON_START_1_0",
+    "original": "私も影ながら尽力いたしましょう。 ",
+    "translation": "我也会在幕后尽力呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我也会在幕后尽力呢。 \n\n我也暗地里尽力吧。 \n\n我也在幕后尽力吧。"
+  },
+  {
+    "key": "MARGARET_DUNGEON_START_2_0",
+    "original": "準備がよろしければ、行きましょう。 ",
+    "translation": "准备好了的话，就走吧。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n准备好了的话，就走吧。 \n\n如果你准备好了，我们就走吧。 \n\n准备好了的话就去吧。"
+  },
+  {
+    "key": "MARGARET_DUNGEON_START_3_0",
+    "original": "準備はよろしいかしら？ ",
+    "translation": "准备好了吗？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n准备好了吗？"
+  },
+  {
+    "key": "MARGARET_QUEST_START_1_0",
+    "original": "達成まで２人で支援いたします。 ",
+    "translation": "在达成之前，我们会两人一起支援您。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n在达成之前，我们会两人一起支援您。 \n\n直到达成为止我们两个人一起支援。 \n\n到达成为止两个人支援。"
+  },
+  {
+    "key": "MARGARET_QUEST_START_2_0",
+    "original": "お客様が良ければ、まいりましょう。 ",
+    "translation": "您不介意的话，就走吧。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n您不介意的话，就走吧。 \n\n如果客人可以的话，我们就来吧。 \n\n如果有客人的话，我来吧。"
+  },
+  {
+    "key": "MARGARET_QUEST_START_3_0",
+    "original": "特別上映を開始いたします。 ",
+    "translation": "特别上映即将开始。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特别上映即将开始。 \n\n开始特别上映。"
+  },
+  {
+    "key": "MARGARET_TOUHA_25_1_0",
+    "original": "少しずつ分かってきたようね。 ",
+    "translation": "您似乎渐渐明白了呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n您似乎渐渐明白了呢。 \n\n好像一点一点地明白了呢。 \n\n你好像渐渐明白了。"
+  },
+  {
+    "key": "MARGARET_TOUHA_25_2_0",
+    "original": "まだまだこれからのようね。 ",
+    "translation": "似乎还早得很呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n似乎还早得很呢。 \n\n还差得远呢。 \n\n看来还为时尚早。"
+  },
+  {
+    "key": "MARGARET_TOUHA_50_1_0",
+    "original": "ちょうど半分くらいかしら。 ",
+    "translation": "正好一半左右吧。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n正好一半左右吧。 \n\n正好是一半吧。"
+  },
+  {
+    "key": "MARGARET_TOUHA_50_2_0",
+    "original": "良いペースで探索しているようね。 ",
+    "translation": "探索的步调似乎不错呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n探索的步调似乎不错呢。 \n\n好像以很好的步调在探索呢。 \n\n好像在以很好的速度探索呢。"
+  },
+  {
+    "key": "MARGARET_TOUHA_75_1_0",
+    "original": "このフロアも、もう少しね。 ",
+    "translation": "这个楼层也还差一点呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这个楼层也还差一点呢。 \n\n这个楼层也还差一点。 \n\n这个楼层也差不多了。"
+  },
+  {
+    "key": "MARGARET_TOUHA_75_2_0",
+    "original": "あと少しでフロア制覇、ご健闘を。 ",
+    "translation": "还差一点就能称霸这个楼层了，祝您武运昌隆。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n还差一点就能称霸这个楼层了，祝您武运昌隆。 \n\n再过一会儿就称霸楼层，加油。 \n\n再稍微称霸楼层，请加油。"
+  },
+  {
+    "key": "MARGARET_TOUHA_100_1_0",
+    "original": "このフロアはもう、お客様の庭ですわ。 ",
+    "translation": "这个楼层已经是您的庭院了呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这个楼层已经是您的庭院了呢。 \n\n这一层已经是客人的庭院了。 \n\n这个楼层已经是客人的庭院了。"
+  },
+  {
+    "key": "MARGARET_TOUHA_100_2_0",
+    "original": "お見事わ。 \nこのフロアを制覇したわね。 ",
+    "translation": "做得漂亮呢。\n称霸这个楼层了呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n做得漂亮呢。\n称霸这个楼层了呢。 \n\n太棒了。\n称霸了这个楼层啊。 \n\n真漂亮。称霸了这个楼层呢。"
+  },
+  {
+    "key": "MARGARET_MAPPING_ICON_AL_0",
+    "original": "正確な地図が描けてるご様子。 ",
+    "translation": "似乎画出了正确的地图呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n似乎画出了正确的地图呢。 \n\n画着正确地图的样子。 \n\n描绘出正确地图的样子。"
+  },
+  {
+    "key": "MARGARET_MAPPING_ICON_AL_2_0",
+    "original": "素晴らしい判断ね。 ",
+    "translation": "很出色的判断呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n很出色的判断呢。 \n\n很棒的判断。 \n\n好漂亮的判断啊。"
+  },
+  {
+    "key": "MARGARET_MAPPING_ICON_KA_0",
+    "original": "これで迷うことはないでしょう。 ",
+    "translation": "这样就不会迷路了吧。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这样就不会迷路了吧。"
+  },
+  {
+    "key": "MARGARET_MAPPING_ICON_KA_2_0",
+    "original": "この階段を目印にしましょう。 ",
+    "translation": "就以这个楼梯为目标吧。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n就以这个楼梯为目标吧。 \n\n以这个楼梯为标志吧。 \n\n以这个楼梯为记号吧。"
+  },
+  {
+    "key": "MARGARET_MAPPING_CHANGE__0",
+    "original": "良いセンスをお持ちのようね。 ",
+    "translation": "看来你很有品味呢。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看来你很有品味呢。 \n\n你的品味很好呢。 \n\n你看起来很有品位。"
+  },
+  {
+    "key": "MARGARET_MAPPING_CHANGE__2_0",
+    "original": "どんな地図になるのか楽しみだわ。 ",
+    "translation": "真期待会是什么样的地图。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真期待会是什么样的地图。 \n\n我很期待会变成什么样的地图。"
+  },
+  {
+    "key": "MARGARET_MAPPING_ICON_DE_0",
+    "original": "整理するのね？ ",
+    "translation": "要整理是吧？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要整理是吧？ \n\n要整理吗？"
+  },
+  {
+    "key": "MARGARET_MAPPING_ICON_DE_2_0",
+    "original": "そうね、 \nやり直せないことなんてないわ。 ",
+    "translation": "是啊，\n没有什么不能重来的。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是啊，\n没有什么不能重来的。 \n\n没错，没有什么是不能重来的。\n \n\n是啊，没有什么不能重来的。"
+  },
+  {
+    "key": "MARGARET_MAPPING_MEMO_1_0",
+    "original": "大切なことは忘れないことね。 ",
+    "translation": "重要的事情就是不要忘记。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n重要的事情就是不要忘记。 \n\n重要的事情不要忘记。"
+  },
+  {
+    "key": "MARGARET_MAPPING_MEMO_2_0",
+    "original": "記録に残すのはいいことだわ。 ",
+    "translation": "留下纪录是好事。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n留下纪录是好事。 \n\n留下记录是好事。 \n\n记录下来是件好事。"
+  },
+  {
+    "key": "MARGARET_KARITORU_ENCOUN_0",
+    "original": "刈り取る者の気配よ！　警戒を！ ",
+    "translation": "是收割者的气息！提高警觉！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是收割者的气息！提高警觉！ \n\n收割者的气息啊！警戒！ \n\n收割者的气息！警惕！"
+  },
+  {
+    "key": "MARGARET_KARITORU_ENCOUN_2_0",
+    "original": "強力な敵が近づいてるようね。 \nご注意を。 ",
+    "translation": "强力的敌人正在接近。\n请注意。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n强力的敌人正在接近。\n请注意。 \n\n强大的敌人好像接近了。\n请注意。 \n\n强大的敌人正在靠近呢。请注意。"
+  },
+  {
+    "key": "MARGARET_KARITORU_ENCOUN_3_0",
+    "original": "刈り取る者が近いようね、警戒して。 ",
+    "translation": "收割者似乎就在附近，要小心。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n收割者似乎就在附近，要小心。 \n\n收割的人好像很近，请警戒。 \n\n收割的人就在附近，你要警惕。"
+  }
+]

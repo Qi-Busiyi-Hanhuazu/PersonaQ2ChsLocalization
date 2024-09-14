@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "じゃあ、私たちも復帰するわね。\nいつでも前線に加えて。",
+    "translation": "じゃあ、私たちも復帰するわね。\nいつでも前線に加えて。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ご迷惑おかけしました。\n改めてよろしくお願いします。",
+    "translation": "ご迷惑おかけしました。\n改めてよろしくお願いします。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "おかえり",
+    "translation": "おかえり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "ひとつ貸しだな",
+    "translation": "ひとつ貸しだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ありがとう、不覚を取った分は、\n必ず取り返してみせるから。",
+    "translation": "ありがとう、不覚を取った分は、\n必ず取り返してみせるから。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うん、活躍してみんなに\n恩返しできるように頑張るね。",
+    "translation": "うん、活躍してみんなに\n恩返しできるように頑張るね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "分かってるってば。\nちゃんと取り返すから待ってて。",
+    "translation": "分かってるってば。\nちゃんと取り返すから待ってて。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うん、できることは何でもするから。\n見ててね、みんな。",
+    "translation": "うん、できることは何でもするから。\n見ててね、みんな。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "unite_sel_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "unite_sel_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "unite_check_0",
+    "original": "＞この武器で宜しいですか？",
+    "translation": "＞この武器で宜しいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "msg_unite_ok_0",
+    "original": "＞[颜色 02][占位A 01][颜色 01]を\n手に入れた。",
+    "translation": "＞[颜色 02][占位A 01][颜色 01]を\n手に入れた。",
+    "stage": 1,
+    "context": ""
+  }
+]

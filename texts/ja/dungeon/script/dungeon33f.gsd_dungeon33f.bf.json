@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_kikori_first_look_0",
+    "original": "＞木こりFOE初発見イベント。",
+    "translation": "＞木こりFOE初発見イベント。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "何かが埋まっているようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理してからまた来よう…",
+    "stage": 1,
+    "context": ""
+  }
+]

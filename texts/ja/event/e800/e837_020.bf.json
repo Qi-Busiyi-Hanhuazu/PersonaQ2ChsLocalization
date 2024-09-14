@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "いたぞ！　こちらから先に仕掛ける！",
+    "translation": "いたぞ！　こちらから先に仕掛ける！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ラジャ！\n千枝、お先に勉強させていただきます！",
+    "translation": "ラジャ！\n千枝、お先に勉強させていただきます！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "…って道がない！？",
+    "translation": "…って道がない！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おわっ！？",
+    "translation": "おわっ！？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ちょっと、二人とも落ち着いて。\nまずは状況判断。",
+    "translation": "ちょっと、二人とも落ち着いて。\nまずは状況判断。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "敵の向き、スピード、動き、そして地形。\nじっくり観察して、敵の行動を読むの。",
+    "translation": "敵の向き、スピード、動き、そして地形。\nじっくり観察して、敵の行動を読むの。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "自分たちの行動を決めるのは\nそれからよ。",
+    "translation": "自分たちの行動を決めるのは\nそれからよ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なるほど。",
+    "translation": "なるほど。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "…何も思いつかないんだな。\n完全に思考停止してるぞ。",
+    "translation": "…何も思いつかないんだな。\n完全に思考停止してるぞ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "はぁ…ともかく、\nここからじゃ攻撃は届かないわ。",
+    "translation": "はぁ…ともかく、\nここからじゃ攻撃は届かないわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "まずは回り込んで行ける道を\n探しましょう。",
+    "translation": "まずは回り込んで行ける道を\n探しましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "了解っす！　コーチ！",
+    "translation": "了解っす！　コーチ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "行くぞ、里中！　競走だ！",
+    "translation": "行くぞ、里中！　競走だ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "フットワークの軽さは\n頼もしいんだけどね…",
+    "translation": "フットワークの軽さは\n頼もしいんだけどね…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "さ、私たちも行きましょう。",
+    "translation": "さ、私たちも行きましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

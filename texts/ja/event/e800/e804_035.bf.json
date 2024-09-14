@@ -1,0 +1,429 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふぅ…\nなんとか切り抜けたね。",
+    "translation": "ふぅ…\nなんとか切り抜けたね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "いやぁ、これは疲れますわ…",
+    "translation": "いやぁ、これは疲れますわ…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そんなこと言って、\n身のこなし完璧だったよ。",
+    "translation": "そんなこと言って、\n身のこなし完璧だったよ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ほ、ホント？　えへへ…\nパンサーの教え方がよかったからだって…",
+    "translation": "ほ、ホント？　えへへ…\nパンサーの教え方がよかったからだって…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "私はちょっとコツを教えただけだし。",
+    "translation": "私はちょっとコツを教えただけだし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "ひょっとして千枝ちゃん、\n怪盗の素質あるんじゃない？",
+    "translation": "ひょっとして千枝ちゃん、\n怪盗の素質あるんじゃない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "歓迎する",
+    "translation": "歓迎する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "特別捜査隊は？",
+    "translation": "特別捜査隊は？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_2",
+    "original": "二重生活だな",
+    "translation": "二重生活だな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "千枝が怪盗団に入っても応援するよ。",
+    "translation": "千枝が怪盗団に入っても応援するよ。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "特別捜査隊、兼、怪盗団クマね。",
+    "translation": "特別捜査隊、兼、怪盗団クマね。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "チエチャンは元気がありあまってるから\nきっとどっちでも大活躍クマよ～？",
+    "translation": "チエチャンは元気がありあまってるから\nきっとどっちでも大活躍クマよ～？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "昼は特別捜査隊、夜は怪盗団！\n…とか？",
+    "translation": "昼は特別捜査隊、夜は怪盗団！\n…とか？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "チエチャンは元気がありあまってるから\nきっとどっちでも大活躍クマよ～？",
+    "translation": "チエチャンは元気がありあまってるから\nきっとどっちでも大活躍クマよ～？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "特別捜査隊、兼、怪盗団クマね。",
+    "translation": "特別捜査隊、兼、怪盗団クマね。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "チエチャンは元気がありあまってるから\nきっとどっちでも大活躍クマよ～？",
+    "translation": "チエチャンは元気がありあまってるから\nきっとどっちでも大活躍クマよ～？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "千枝が怪盗団に入っても応援するよ。",
+    "translation": "千枝が怪盗団に入っても応援するよ。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "うん。きっと千枝ちゃんなら\n怪盗も出来るよ！",
+    "translation": "うん。きっと千枝ちゃんなら\n怪盗も出来るよ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "も～、みんなして褒めすぎだよ。",
+    "translation": "も～、みんなして褒めすぎだよ。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "そんなに褒められても\n肉ガムぐらいしか出ないよ？",
+    "translation": "そんなに褒められても\n肉ガムぐらいしか出ないよ？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "いや、それはノーサンキューだわ。",
+    "translation": "いや、それはノーサンキューだわ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "でも、パンサーからこんな褒められるなんて\nすごい嬉しいかも…",
+    "translation": "でも、パンサーからこんな褒められるなんて\nすごい嬉しいかも…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "え？",
+    "translation": "え？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "だって、都会のスーパーモデルだよ。",
+    "translation": "だって、都会のスーパーモデルだよ。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "美人なのもそうだけど、オシャレだし、\n流行の最先端ってカンジだし。",
+    "translation": "美人なのもそうだけど、オシャレだし、\n流行の最先端ってカンジだし。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ふむふむ、たしかに…ぷりちー度なら\nこっちの女子も負けてないけども～。",
+    "translation": "ふむふむ、たしかに…ぷりちー度なら\nこっちの女子も負けてないけども～。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "何よりアンチャンはハイカラクマね。",
+    "translation": "何よりアンチャンはハイカラクマね。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ハイカラ？",
+    "translation": "ハイカラ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "垢ぬけてるってことだろ？",
+    "translation": "垢ぬけてるってことだろ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "普段から渋谷のクラブで遊んだり、\nザギンでシースーを食べたりするの？",
+    "translation": "普段から渋谷のクラブで遊んだり、\nザギンでシースーを食べたりするの？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "SEL_022_0",
+    "original": "クラブはない",
+    "translation": "クラブはない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_022_1",
+    "original": "寿司はある",
+    "translation": "寿司はある",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_022_2",
+    "original": "なぜ業界用語？",
+    "translation": "なぜ業界用語？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "じゃあ、そこは私たちの方がリードだね！",
+    "translation": "じゃあ、そこは私たちの方がリードだね！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "え、クラブ行った事あんのか？",
+    "translation": "え、クラブ行った事あんのか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "あれは遊んだんじゃなくて、\n先輩が暴れてただけっスね…",
+    "translation": "あれは遊んだんじゃなくて、\n先輩が暴れてただけっスね…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "マジか…",
+    "translation": "マジか…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "高ければ良いというわけではないが、\nやはりあれは美味かった…",
+    "translation": "高ければ良いというわけではないが、\nやはりあれは美味かった…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "やっぱり都会は芸能人も\n多いのかなって。",
+    "translation": "やっぱり都会は芸能人も\n多いのかなって。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "そっちにも国民的アイドルいるけどなー。",
+    "translation": "そっちにも国民的アイドルいるけどなー。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "やっぱ都会ってすごいよ。\n遊ぶ場所たくさんあるし。",
+    "translation": "やっぱ都会ってすごいよ。\n遊ぶ場所たくさんあるし。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "こっちはダベる場所っていったら\nほぼジュネス一択だもん。",
+    "translation": "こっちはダベる場所っていったら\nほぼジュネス一択だもん。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ジュネス？",
+    "translation": "ジュネス？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "えっと、スーパー？",
+    "translation": "えっと、スーパー？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_032_1",
+    "original": "あと家電とか洋服も売ってて、\n屋上にフードコートもある。",
+    "translation": "あと家電とか洋服も売ってて、\n屋上にフードコートもある。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "メッチャ便利じゃん！　羨ましいなぁ。\n今度行ってみたいかも。",
+    "translation": "メッチャ便利じゃん！　羨ましいなぁ。\n今度行ってみたいかも。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "へ？\n別に珍しくも何ともないと思うけど…",
+    "translation": "へ？\n別に珍しくも何ともないと思うけど…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "都心だとこういう大型店舗、\nあんまねえんだよ。",
+    "translation": "都心だとこういう大型店舗、\nあんまねえんだよ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "じゃあ、今度あたしが案内したげる！\nフードコートも奢るよ、花村が！",
+    "translation": "じゃあ、今度あたしが案内したげる！\nフードコートも奢るよ、花村が！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "俺かい！\nへいへい、どーせまたビフテキだろ…",
+    "translation": "俺かい！\nへいへい、どーせまたビフテキだろ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_037_1",
+    "original": "ま、それは帰ってからのお楽しみとして、\n目的のマンホールまであとちょっとだ。",
+    "translation": "ま、それは帰ってからのお楽しみとして、\n目的のマンホールまであとちょっとだ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_037_2",
+    "original": "行こうぜ、みんな。",
+    "translation": "行こうぜ、みんな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

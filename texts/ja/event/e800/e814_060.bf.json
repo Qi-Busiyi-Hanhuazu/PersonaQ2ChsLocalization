@@ -1,0 +1,436 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お待たせ、薬草を持ってきたよ。\nすぐに手当てしてあげるからね。",
+    "translation": "お待たせ、薬草を持ってきたよ。\nすぐに手当てしてあげるからね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "キュウー…",
+    "translation": "キュウー…",
+    "stage": 1,
+    "context": "幼い草食恐竜"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "薬草をすり潰し、\n恐竜の子供の手当てをした…",
+    "translation": "薬草をすり潰し、\n恐竜の子供の手当てをした…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "よし、これで傷は大丈夫。\nすぐに良くなると思うよ。",
+    "translation": "よし、これで傷は大丈夫。\nすぐに良くなると思うよ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "キュウ！",
+    "translation": "キュウ！",
+    "stage": 1,
+    "context": "幼い草食恐竜"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ふふ、一気に元気が出てきたね。\nよく頑張ったね、キューベー。",
+    "translation": "ふふ、一気に元気が出てきたね。\nよく頑張ったね、キューベー。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "キュキュキュー！",
+    "translation": "キュキュキュー！",
+    "stage": 1,
+    "context": "幼い草食恐竜"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いつの間にか名前付けてるし！",
+    "translation": "いつの間にか名前付けてるし！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "しかし、母親は見当たらないな。",
+    "translation": "しかし、母親は見当たらないな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "マーガレットたちに頼んで、\n保護してもらうのも手だが…",
+    "translation": "マーガレットたちに頼んで、\n保護してもらうのも手だが…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "もう少し探してみよう",
+    "translation": "もう少し探してみよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "いったん退こう",
+    "translation": "いったん退こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "うん、このままには出来ないよ。",
+    "translation": "うん、このままには出来ないよ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "私…もう少しだけ探してあげたい。\nこのままには出来ないよ。",
+    "translation": "私…もう少しだけ探してあげたい。\nこのままには出来ないよ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "おい、ちょっと待て！\n今の声…",
+    "translation": "おい、ちょっと待て！\n今の声…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "微かですが、何か聞こえますね。\nこれはもしや…",
+    "translation": "微かですが、何か聞こえますね。\nこれはもしや…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "キュウーッ！！",
+    "translation": "キュウーッ！！",
+    "stage": 1,
+    "context": "幼い草食恐竜"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "グウウウウ！",
+    "translation": "グウウウウ！",
+    "stage": 1,
+    "context": "母親の草食恐竜"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "あの子の母親だわ…\n良かった、再会できたのね。",
+    "translation": "あの子の母親だわ…\n良かった、再会できたのね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "キューベーも、お母さんも、\n本当に嬉しそう…",
+    "translation": "キューベーも、お母さんも、\n本当に嬉しそう…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "うん、キューちゃんも元気になったみたい。\n一番の元気の素は、やっぱりお母さんだね。",
+    "translation": "うん、キューちゃんも元気になったみたい。\n一番の元気の素は、やっぱりお母さんだね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "やっぱり、子供のことを心配しない親なんて\nいないんだよね…",
+    "translation": "やっぱり、子供のことを心配しない親なんて\nいないんだよね…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "雪子ちゃん…？",
+    "translation": "雪子ちゃん…？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あっ…その、急にごめんなさい。",
+    "translation": "あっ…その、急にごめんなさい。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "なんか、あの親子を見てたら\n複雑な気持ちになるなって思って…",
+    "translation": "なんか、あの親子を見てたら\n複雑な気持ちになるなって思って…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "複雑な、気持ち？",
+    "translation": "複雑な、気持ち？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "私も幼い頃は、キューベーみたいに、\n素直な気持ちでいられたと思うんです。",
+    "translation": "私も幼い頃は、キューベーみたいに、\n素直な気持ちでいられたと思うんです。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "煩わしいことなんて何もなくて、\nただ普通に遊んで、毎日が楽しくて。",
+    "translation": "煩わしいことなんて何もなくて、\nただ普通に遊んで、毎日が楽しくて。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_023_2",
+    "original": "でもいつの間にか、親とか家のことが\n煩わしくなってきて…",
+    "translation": "でもいつの間にか、親とか家のことが\n煩わしくなってきて…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_023_3",
+    "original": "キューベーみたいに、素直に親に\n甘えられなくなっちゃったな…って。",
+    "translation": "キューベーみたいに、素直に親に\n甘えられなくなっちゃったな…って。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "…そっか。\n私もね、雪子ちゃんと同じだったよ。",
+    "translation": "…そっか。\n私もね、雪子ちゃんと同じだったよ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "家のことで縛られる度、ウンザリしてた。\n私は親の道具じゃないのに、って…",
+    "translation": "家のことで縛られる度、ウンザリしてた。\n私は親の道具じゃないのに、って…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ノワールも…？\nそうだったんですね。",
+    "translation": "ノワールも…？\nそうだったんですね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "でも、失ってみて気づいたこともあったの。",
+    "translation": "でも、失ってみて気づいたこともあったの。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "親が子供を縛りつけようとするのは、\n愛情の裏返しなのかもしれないな、って。",
+    "translation": "親が子供を縛りつけようとするのは、\n愛情の裏返しなのかもしれないな、って。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "愛情の裏返し…",
+    "translation": "愛情の裏返し…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "それでも、私は…\nやっぱり自分の足で歩いていきたい。",
+    "translation": "それでも、私は…\nやっぱり自分の足で歩いていきたい。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "うん、いいと思う。自分に嘘をついて、\n言いなりになる必要なんてない。",
+    "translation": "うん、いいと思う。自分に嘘をついて、\n言いなりになる必要なんてない。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "たとえすれ違っても、信じた道を進んでる\n所を見せられたら、喜んでくれると思うよ。",
+    "translation": "たとえすれ違っても、信じた道を進んでる\n所を見せられたら、喜んでくれると思うよ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "はい…きっとそうですよね。",
+    "translation": "はい…きっとそうですよね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "キュウー！",
+    "translation": "キュウー！",
+    "stage": 1,
+    "context": "幼い草食恐竜"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ん…？\nどうしたの、キューベー？",
+    "translation": "ん…？\nどうしたの、キューベー？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "あら？　何か咥えてるみたい。",
+    "translation": "あら？　何か咥えてるみたい。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "これ、石？　キレイ…",
+    "translation": "これ、石？　キレイ…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "助けてくれたお礼じゃない？\n頑張ったウチらにって。",
+    "translation": "助けてくれたお礼じゃない？\n頑張ったウチらにって。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "そっか…\nありがとう、キューべー。",
+    "translation": "そっか…\nありがとう、キューべー。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "キュキュー！",
+    "translation": "キュキュー！",
+    "stage": 1,
+    "context": "幼い草食恐竜"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "もうお母さんとはぐれちゃダメだよ、\nキューちゃん。元気でね！",
+    "translation": "もうお母さんとはぐれちゃダメだよ、\nキューちゃん。元気でね！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "キュー！！",
+    "translation": "キュー！！",
+    "stage": 1,
+    "context": "幼い草食恐竜"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "おお、めっちゃ通じてる！\nこの二人すげー。",
+    "translation": "おお、めっちゃ通じてる！\nこの二人すげー。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "よし、これにて一件落着だな。\nいったん、戻るとするか。",
+    "translation": "よし、これにて一件落着だな。\nいったん、戻るとするか。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_幼い草食恐竜",
+    "original": "幼い草食恐竜",
+    "translation": "幼い草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_母親の草食恐竜",
+    "original": "母親の草食恐竜",
+    "translation": "母親の草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

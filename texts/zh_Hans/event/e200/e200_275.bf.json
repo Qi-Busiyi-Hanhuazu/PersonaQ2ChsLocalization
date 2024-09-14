@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ＧＲＲＲＲＯＯＯＯＡＮ！",
+    "translation": "GRRRROOOOAN！",
+    "stage": 0,
+    "context": "说话人：派手な肉食恐竜\n\n机翻辅助：\n\nGRRRROOOOAN！\n\nGRRRROOOAN！\n\nGRRRROOOOAN ！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ハァハァハァ…",
+    "translation": "呼、呼、呼……",
+    "stage": 0,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n呼、呼、呼……\n\n哈哈哈……"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "勢いで助けに入っちまったけど、\nこりゃ、どうすっかな…",
+    "translation": "虽然一时冲动就跑来插手了\n现在该怎么办呢……",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n虽然我一时冲动就冲去救人\n这下该怎么办……\n\n以气势进入了帮助，不过，\n这个，怎样……\n\n趁势进入了帮助，不过，这个，怎么做呢……"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あ、ああ…怪我が…",
+    "translation": "啊、啊啊……你受伤了……",
+    "stage": 1,
+    "context": "说话人：気弱そうな草食恐竜\n\n机翻辅助：\n\n啊、啊啊……受伤了……\n\n啊、啊……受伤了……"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "へっ、このくらい平気だって。\nそれよりお前、後ろ下がってろ！",
+    "translation": "嘿，这点小伤没事啦。\n比起这个，你先退下！",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n嘿，这点小伤没事啦。\n你先退到后面去！\n\n哦，听说你这么不在乎。\n比起那个，你退后吧！\n\n啊，这么淡定。比起那个，你，往后退！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なんで、こんな危険なこと…",
+    "translation": "为什么要做这么危险的事……",
+    "stage": 0,
+    "context": "说话人：気弱そうな草食恐竜\n\n机翻辅助：\n\n为什么要做这么危险的事……\n\n为什么这么危险……\n\n为什么，这么危险的事情……"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "なんでって、そりゃあ…",
+    "translation": "那还用说，当然是因为……",
+    "stage": 0,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n那还用说，当然是因为……\n\n为什么呢，那是……\n\n为什么呢……"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "陽介！　大丈夫か！？",
+    "translation": "阳介！你没事吧！？",
+    "stage": 0,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n阳介！你没事吧！？\n\n阳介！没事吧！？"
+  },
+  {
+    "key": "speaker_派手な肉食恐竜",
+    "original": "派手な肉食恐竜",
+    "translation": "高大的肉食恐龙",
+    "stage": 1,
+    "context": "机翻辅助：\n\n华丽的肉食恐龙\n\n华丽的食肉恐龙"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_気弱そうな草食恐竜",
+    "original": "気弱そうな草食恐竜",
+    "translation": "看起来很懦弱的草食恐龙",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看起来很懦弱的草食恐龙\n\n软弱的草食性恐龙\n\n看起来很虚弱的草食恐龙"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

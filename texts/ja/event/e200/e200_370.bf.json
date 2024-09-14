@@ -1,0 +1,576 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あっ、見つけた！　あそこ！",
+    "translation": "あっ、見つけた！　あそこ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "お、草食恐竜の群れだな！\nようやく追いついたぜ！",
+    "translation": "お、草食恐竜の群れだな！\nようやく追いついたぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ちょっと、またニンゲンがいる…\n追いかけてきたの？",
+    "translation": "ちょっと、またニンゲンがいる…\n追いかけてきたの？",
+    "stage": 1,
+    "context": "口を尖らせた草食恐竜"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うそ？　道は封鎖したはずなのに！",
+    "translation": "うそ？　道は封鎖したはずなのに！",
+    "stage": 1,
+    "context": "勝気そうな草食恐竜"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "へへん！　あの程度の妨害で、\n音をあげるワガハイたちじゃないぜ！",
+    "translation": "へへん！　あの程度の妨害で、\n音をあげるワガハイたちじゃないぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "な、なんで…追いかけてくるわけ？",
+    "translation": "な、なんで…追いかけてくるわけ？",
+    "stage": 1,
+    "context": "気弱そうな草食恐竜"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そうよ。\nもう、アナタたちは関係ないでしょ？",
+    "translation": "そうよ。\nもう、アナタたちは関係ないでしょ？",
+    "stage": 1,
+    "context": "口を尖らせた草食恐竜"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ニンゲンは放っておいて、もう行こう…？\n楽園に行ければ、それでいいんだし。",
+    "translation": "ニンゲンは放っておいて、もう行こう…？\n楽園に行ければ、それでいいんだし。",
+    "stage": 1,
+    "context": "おどおどした草食恐竜"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あ、コラ！　テメェら待ちやがれ！",
+    "translation": "あ、コラ！　テメェら待ちやがれ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "お前、それでいいのかよ？\n本当の気持ちを押し殺して…",
+    "translation": "お前、それでいいのかよ？\n本当の気持ちを押し殺して…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "友達を見捨てるような、\nそんな自分で満足してんのか！？",
+    "translation": "友達を見捨てるような、\nそんな自分で満足してんのか！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "し、仕方ねえだろ！\nみんながそう言ってんだ！",
+    "translation": "し、仕方ねえだろ！\nみんながそう言ってんだ！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "俺たちはそうして生きてきた…\n逆らったら、今度は俺が…！",
+    "translation": "俺たちはそうして生きてきた…\n逆らったら、今度は俺が…！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_011_2",
+    "original": "もう、ほっとけよ！",
+    "translation": "もう、ほっとけよ！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "みんな行っちゃったね…",
+    "translation": "みんな行っちゃったね…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ったく、またコレかよ！\n俺たちも行こうぜ！",
+    "translation": "ったく、またコレかよ！\n俺たちも行こうぜ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ヨースケ、なーんか\nずっとメラメラしてるクマね？",
+    "translation": "ヨースケ、なーんか\nずっとメラメラしてるクマね？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "は！？",
+    "translation": "は！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "そうね…ヨウスケサウルスに対しては、\n特に熱が入ってるように見えるわ。",
+    "translation": "そうね…ヨウスケサウルスに対しては、\n特に熱が入ってるように見えるわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "あー…だな。\n確かに、ちっと熱くなってたかも。",
+    "translation": "あー…だな。\n確かに、ちっと熱くなってたかも。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "なんか俺、アイツの気持ちが\n分かる気がしてさ。",
+    "translation": "なんか俺、アイツの気持ちが\n分かる気がしてさ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "SEL_018_0",
+    "original": "顔が同じだから？",
+    "translation": "顔が同じだから？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_1",
+    "original": "何かあったのか？",
+    "translation": "何かあったのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "まあ、それもあるけど。\nアイツ、ちょっと昔の自分に似ててさ…",
+    "translation": "まあ、それもあるけど。\nアイツ、ちょっと昔の自分に似ててさ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "何かっていうか…\n別に、面白い話じゃねぇんだけど。",
+    "translation": "何かっていうか…\n別に、面白い話じゃねぇんだけど。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "俺、転校が多くてさ。\n転校生ってクラスで孤立しやすいんだよ。",
+    "translation": "俺、転校が多くてさ。\n転校生ってクラスで孤立しやすいんだよ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "うん、分かる。\n既に仲良しグループが出来てるもんね。",
+    "translation": "うん、分かる。\n既に仲良しグループが出来てるもんね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "だから、孤立しねーように\nへらへらして、話とか合わせて…",
+    "translation": "だから、孤立しねーように\nへらへらして、話とか合わせて…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "けっこう、自分を押し殺してた。\n違うと思っても、我慢してさ。",
+    "translation": "けっこう、自分を押し殺してた。\n違うと思っても、我慢してさ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_023_2",
+    "original": "そうすりゃ、仲間外れになんねーだろ？",
+    "translation": "そうすりゃ、仲間外れになんねーだろ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ぼっちのツラさ…分かるぞ。",
+    "translation": "ぼっちのツラさ…分かるぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "周りに人はいっぱいいるのに、\n自分だけ独り、浮いてて…怖い。",
+    "translation": "周りに人はいっぱいいるのに、\n自分だけ独り、浮いてて…怖い。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "独りの寂しさ、か…",
+    "translation": "独りの寂しさ、か…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "八十稲羽に来た頃は、花村くんの家の\n事情もあって、風当たりも強かったしね…",
+    "translation": "八十稲羽に来た頃は、花村くんの家の\n事情もあって、風当たりも強かったしね…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "そーそー。\nどこでもそんな感じでさ…",
+    "translation": "そーそー。\nどこでもそんな感じでさ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "嫌われないように、人の顔色ばっか見て、\nウワベだけの付き合いばっかしてた。",
+    "translation": "嫌われないように、人の顔色ばっか見て、\nウワベだけの付き合いばっかしてた。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_027_2",
+    "original": "…仲間に出会うまでは、な。",
+    "translation": "…仲間に出会うまでは、な。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "花村先輩…",
+    "translation": "花村先輩…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "コイツらといたら、遠慮すんのも\nバカバカしくなったつーか。",
+    "translation": "コイツらといたら、遠慮すんのも\nバカバカしくなったつーか。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ちょっと、それ褒めてんの！？",
+    "translation": "ちょっと、それ褒めてんの！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "だって、人がなに言おうが、\nお前らはハナから否定しねーだろ？",
+    "translation": "だって、人がなに言おうが、\nお前らはハナから否定しねーだろ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_031_1",
+    "original": "本音で話し合ってくれるし、\n間違ってる時は止めてくれる。",
+    "translation": "本音で話し合ってくれるし、\n間違ってる時は止めてくれる。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_031_2",
+    "original": "そういう仲間って…友達って、\nいいなって思ったんだよ。",
+    "translation": "そういう仲間って…友達って、\nいいなって思ったんだよ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "フッ…俺たちにとって、\n最高の褒め言葉だな。",
+    "translation": "フッ…俺たちにとって、\n最高の褒め言葉だな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "やだ…花村先輩が、\nすっごくイイこと言ってる！",
+    "translation": "やだ…花村先輩が、\nすっごくイイこと言ってる！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ちょっ、なんだよ！？\nいいだろ、たまには語ったって！",
+    "translation": "ちょっ、なんだよ！？\nいいだろ、たまには語ったって！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "ヨヨヨ…ヨースケの言葉に、\nクマ泣きが止まらんクマ…",
+    "translation": "ヨヨヨ…ヨースケの言葉に、\nクマ泣きが止まらんクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "だー、もう！　終わり終わり！\nモーレツに恥ずかしくなってきた！",
+    "translation": "だー、もう！　終わり終わり！\nモーレツに恥ずかしくなってきた！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "でも、花村くんの思いは伝わったよ。\n聞かせてくれて、ありがとう。",
+    "translation": "でも、花村くんの思いは伝わったよ。\n聞かせてくれて、ありがとう。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "ん、んん…まあ、とにかく！",
+    "translation": "ん、んん…まあ、とにかく！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_038_1",
+    "original": "ヨウスケサウルスや、他の恐竜たちに\n言ってやりたいんだよ。",
+    "translation": "ヨウスケサウルスや、他の恐竜たちに\n言ってやりたいんだよ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_038_2",
+    "original": "仲間なら、お互いに顔色うかがってねーで、\nちゃんと本音で話し合って決めろ、ってな。",
+    "translation": "仲間なら、お互いに顔色うかがってねーで、\nちゃんと本音で話し合って決めろ、ってな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "ああ、必ず伝えに行こう。",
+    "translation": "ああ、必ず伝えに行こう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "素敵だね。\n仲間の絆が、しっかりと結ばれてる。",
+    "translation": "素敵だね。\n仲間の絆が、しっかりと結ばれてる。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "俺たちも負けてらんねぇな？\nなあ、ジョーカー？",
+    "translation": "俺たちも負けてらんねぇな？\nなあ、ジョーカー？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_042_0",
+    "original": "怪盗団も負けてない",
+    "translation": "怪盗団も負けてない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_042_1",
+    "original": "力を合わせよう",
+    "translation": "力を合わせよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "うむ。\nワガハイたちの結束も強いぜ！",
+    "translation": "うむ。\nワガハイたちの結束も強いぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "おうよ！\n怪盗団に不可能はねぇからな！",
+    "translation": "おうよ！\n怪盗団に不可能はねぇからな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "そんじゃ、完全に見失わないうちに\nアイツらを追いかけようぜ！",
+    "translation": "そんじゃ、完全に見失わないうちに\nアイツらを追いかけようぜ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "よし、こっちもナビを頑張るから、\nみんなも絶対に諦めるなよ！",
+    "translation": "よし、こっちもナビを頑張るから、\nみんなも絶対に諦めるなよ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_口を尖らせた草食恐竜",
+    "original": "口を尖らせた草食恐竜",
+    "translation": "口を尖らせた草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_勝気そうな草食恐竜",
+    "original": "勝気そうな草食恐竜",
+    "translation": "勝気そうな草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_気弱そうな草食恐竜",
+    "original": "気弱そうな草食恐竜",
+    "translation": "気弱そうな草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_おどおどした草食恐竜",
+    "original": "おどおどした草食恐竜",
+    "translation": "おどおどした草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ヨウスケサウルス",
+    "original": "ヨウスケサウルス",
+    "translation": "ヨウスケサウルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

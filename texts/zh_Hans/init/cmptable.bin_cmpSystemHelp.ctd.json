@@ -1,0 +1,23 @@
+[
+  {
+    "key": "text_001_0",
+    "original": "どの協力技を確認しますか？",
+    "translation": "要确认哪个合作技？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要确认什么合作技？\n\n确认哪个合作技巧？\n\n确认哪种合作技能？"
+  },
+  {
+    "key": "text_004_0",
+    "original": "どの内容を確認しますか？",
+    "translation": "要确认什么内容？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要确认什么内容？\n\n你要确认哪个内容？\n\n确认哪些内容？"
+  },
+  {
+    "key": "text_005_0",
+    "original": "どのＢＧＭにしますか？",
+    "translation": "要设定为哪个BGM？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要设定什么背景音乐？\n\n要哪个背景音乐？\n\n你要哪个BGM？"
+  }
+]

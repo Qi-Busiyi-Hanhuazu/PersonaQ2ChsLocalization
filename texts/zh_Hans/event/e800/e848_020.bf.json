@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なるほど、敵というのは…あれか。",
+    "translation": "原来如此，敌人……就是那个吗？",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n原来如此，所谓的敌人……就是那个吗？\n\n原来如此，敌人是……那个吗。\n\n原来如此，所谓敌人……是那个吗？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "先輩、あいつ…強いよ！\n負けないで！",
+    "translation": "前辈，那家伙……很强哦！\n不要输啊！",
+    "stage": 0,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n前辈，那家伙……很强哦！\n不要输啊！\n\n前辈，那家伙……很强啊！\n不要输！\n\n前辈，那家伙……很强哦！\n不要认输！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "心配ない。\nジョーカーたちもついている。",
+    "translation": "不用担心。\nJOKER他们也在。",
+    "stage": 0,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n不用担心。\nJOKER他们也在。\n\n不用担心。\nJOKER们也跟着。"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "任せたぞ",
+    "translation": "交给你咯",
+    "stage": 0,
+    "context": "机翻辅助：\n\n交给你咯\n\n交给你了"
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "頼りにしてる",
+    "translation": "靠你了",
+    "stage": 0,
+    "context": "机翻辅助：\n\n靠你了\n\n我很依赖你\n\n依靠着你"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ああ、俺も全力を尽くす。\n必ず勝とう！",
+    "translation": "嗯，我也会全力以赴。\n一定会赢的！",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n好，我也会全力以赴。\n一定要赢！\n\n啊，我也会尽全力的。\n一定要赢！\n\n啊，我也会全力以赴的。\n一定要赢！"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

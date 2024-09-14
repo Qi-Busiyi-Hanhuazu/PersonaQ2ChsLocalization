@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "あ、オタカラスポット。\n採取してみる？",
+    "translation": "あ、オタカラスポット。\n採取してみる？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "周りを警戒しながら…だね。\n了解！",
+    "translation": "周りを警戒しながら…だね。\n了解！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "分かった、目の前に集中して\n探してみるね。",
+    "translation": "分かった、目の前に集中して\n探してみるね。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あ、止めとくの？",
+    "translation": "あ、止めとくの？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全部…かな？",
+    "translation": "これで全部…かな？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いいんじゃない？",
+    "translation": "いいんじゃない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "よし！",
+    "translation": "よし！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うんうん。",
+    "translation": "うんうん。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ふぅー…ちょっと危なかったね。",
+    "translation": "ふぅー…ちょっと危なかったね。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "えっ、やば！",
+    "translation": "えっ、やば！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "うわっ、レア！",
+    "translation": "うわっ、レア！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "やったじゃん！",
+    "translation": "やったじゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "これショートカット？\n通ってみる？",
+    "translation": "これショートカット？\n通ってみる？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "あー、こっちからは通れないんだ？",
+    "translation": "あー、こっちからは通れないんだ？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "なんかここ、超ヤバくない？\nどうする？",
+    "translation": "なんかここ、超ヤバくない？\nどうする？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "マジ？\n分かった…気を抜かないようにね。",
+    "translation": "マジ？\n分かった…気を抜かないようにね。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "うん、私もそれが良いと思う。",
+    "translation": "うん、私もそれが良いと思う。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ウソでしょ？　あんな強敵が\n出てくるなんて…ビックリした。",
+    "translation": "ウソでしょ？　あんな強敵が\n出てくるなんて…ビックリした。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここ、シャドウの気配するかも。\nどうする？",
+    "translation": "ここ、シャドウの気配するかも。\nどうする？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "オッケー。\n気をつけて調べよっか。",
+    "translation": "オッケー。\n気をつけて調べよっか。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "あ、止めとくの？\nオッケー。",
+    "translation": "あ、止めとくの？\nオッケー。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ハァ…ホントに敵が出たね。\n採取はこれで終わりかな？",
+    "translation": "ハァ…ホントに敵が出たね。\n採取はこれで終わりかな？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから映画館に戻れるんだよね。\n戻るの？",
+    "translation": "ここから映画館に戻れるんだよね。\n戻るの？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  }
+]

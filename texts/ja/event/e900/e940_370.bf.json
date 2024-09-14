@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…ねぇ、みんな。\nあそこ、見張りがいるみたい。",
+    "translation": "…ねぇ、みんな。\nあそこ、見張りがいるみたい。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "本当だな…\n気づかれないように、そっと行こうぜ。",
+    "translation": "本当だな…\n気づかれないように、そっと行こうぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おい！\nお前たち、そこで何をしている！？",
+    "translation": "おい！\nお前たち、そこで何をしている！？",
+    "stage": 1,
+    "context": "警察官"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "げっ、こっちにもいたのかよ！？",
+    "translation": "げっ、こっちにもいたのかよ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "仕方がない。\nここは戦って切り抜けるぞ！",
+    "translation": "仕方がない。\nここは戦って切り抜けるぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_警察官",
+    "original": "警察官",
+    "translation": "警察官",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

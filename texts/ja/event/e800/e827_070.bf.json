@@ -1,0 +1,653 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "部品は確かに受け取りました。\nこちらが上映達成の報酬でございます。",
+    "translation": "部品は確かに受け取りました。\nこちらが上映達成の報酬でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "さらに、皆さまには\nドーナツ食べ放題の権利…",
+    "translation": "さらに、皆さまには\nドーナツ食べ放題の権利…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "[P3姓]様と[P4姓]様には\n大食い対決への参加権も進呈致します！",
+    "translation": "[P3姓]様と[P4姓]様には\n大食い対決への参加権も進呈致します！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "拒否権は…なさそうだね。",
+    "translation": "拒否権は…なさそうだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ああ。もう腹は決めた。",
+    "translation": "ああ。もう腹は決めた。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "では、フライヤーを修理致しますので、\n少々お待ちください。",
+    "translation": "では、フライヤーを修理致しますので、\n少々お待ちください。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "お待たせ致しました。",
+    "translation": "お待たせ致しました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "フライヤーの修理も済み、\nドーナツの量産体制も整いました。",
+    "translation": "フライヤーの修理も済み、\nドーナツの量産体制も整いました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "なんで俺が調理係に…",
+    "translation": "なんで俺が調理係に…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "申し訳ございません。私一人では\nさばききれそうになかったもので…",
+    "translation": "申し訳ございません。私一人では\nさばききれそうになかったもので…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "対決のルールを説明するわ。\nといっても、ごくシンプル…",
+    "translation": "対決のルールを説明するわ。\nといっても、ごくシンプル…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "時間内により多くのドーナツを\n食べた方が勝者よ。",
+    "translation": "時間内により多くのドーナツを\n食べた方が勝者よ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "お二人とも準備はよろしいかしら？",
+    "translation": "お二人とも準備はよろしいかしら？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ここまできたんだ。\nやるしかない。",
+    "translation": "ここまできたんだ。\nやるしかない。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "…それに、どうせなら\n全力の君とぶつかってみたい。",
+    "translation": "…それに、どうせなら\n全力の君とぶつかってみたい。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "…期待に応えられるよう頑張るよ。",
+    "translation": "…期待に応えられるよう頑張るよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "それでは、レッツ・ワイルドチャレンジ！\nスタートでございます！",
+    "translation": "それでは、レッツ・ワイルドチャレンジ！\nスタートでございます！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "先輩！　信じてるっス！",
+    "translation": "先輩！　信じてるっス！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "[P3名]さん、\nファイトであります！",
+    "translation": "[P3名]さん、\nファイトであります！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "二人とも頑張れ～！",
+    "translation": "二人とも頑張れ～！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ドーナツもう一皿追加でございます。",
+    "translation": "ドーナツもう一皿追加でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "こっちも追加よ。急いで。",
+    "translation": "こっちも追加よ。急いで。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "すごい勢いでドーナツが消えてる…",
+    "translation": "すごい勢いでドーナツが消えてる…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "おら、追加だ！　持ってけ！",
+    "translation": "おら、追加だ！　持ってけ！",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "先輩、出来たてのアツアツっス！\n食べづらいなら俺がフーフーするっス！",
+    "translation": "先輩、出来たてのアツアツっス！\n食べづらいなら俺がフーフーするっス！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ではこちらは冷却ファンで…！",
+    "translation": "ではこちらは冷却ファンで…！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "……ん。",
+    "translation": "……ん。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "……ぐ。",
+    "translation": "……ぐ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "二人とも、かなり食べてるけど\nさすがに苦しそうね。",
+    "translation": "二人とも、かなり食べてるけど\nさすがに苦しそうね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "SEL_024_0",
+    "original": "水を持ってこようか？",
+    "translation": "水を持ってこようか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_1",
+    "original": "味を変えたら？",
+    "translation": "味を変えたら？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "だな。ドーナツでだいぶ口の中の\n水分を持ってかれてるみたいだし。",
+    "translation": "だな。ドーナツでだいぶ口の中の\n水分を持ってかれてるみたいだし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "いや、ここで水を飲めば\n胃の中でドーナツが膨張してしまう…",
+    "translation": "いや、ここで水を飲めば\n胃の中でドーナツが膨張してしまう…",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "だから二人ともあえて水分への\n誘惑と戦っているんだ。",
+    "translation": "だから二人ともあえて水分への\n誘惑と戦っているんだ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "たしかに、ずっと同じ味じゃ\nキツイものね。",
+    "translation": "たしかに、ずっと同じ味じゃ\nキツイものね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "食欲増進といえばやっぱ辛いもの！\n先輩、タバスコならあるよ！",
+    "translation": "食欲増進といえばやっぱ辛いもの！\n先輩、タバスコならあるよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "酸味も胃を刺激しますよね。\nお酢はどうですか？",
+    "translation": "酸味も胃を刺激しますよね。\nお酢はどうですか？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "お前ら、殺す気か！？",
+    "translation": "お前ら、殺す気か！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "泣いても笑っても\n残り時間はもうわずか…",
+    "translation": "泣いても笑っても\n残り時間はもうわずか…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "３、２、１……\nターイムアップ！",
+    "translation": "３、２、１……\nターイムアップ！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_032_1",
+    "original": "これより集計に入らせていただきます。",
+    "translation": "これより集計に入らせていただきます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "ど、どっちが勝ったんだ…？",
+    "translation": "ど、どっちが勝ったんだ…？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "見た感じ、そんなに差はねーみたいだけど…",
+    "translation": "見た感じ、そんなに差はねーみたいだけど…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "では、発表します。\n結果は…",
+    "translation": "では、発表します。\n結果は…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "お二方とも、完全に互角。\nこの勝負、引き分けとさせていただきます。",
+    "translation": "お二方とも、完全に互角。\nこの勝負、引き分けとさせていただきます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "か、完全に燃え尽きてるっスね…",
+    "translation": "か、完全に燃え尽きてるっスね…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "互角ね…\nまあ、予想通りかしら。",
+    "translation": "互角ね…\nまあ、予想通りかしら。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "ええ、大変満足でございます。",
+    "translation": "ええ、大変満足でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "予想通りって…\nじゃあなんでやらせたんだよ？",
+    "translation": "予想通りって…\nじゃあなんでやらせたんだよ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_042_0",
+    "original": "実験？",
+    "translation": "実験？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_042_1",
+    "original": "暇つぶしだろう",
+    "translation": "暇つぶしだろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "そうね。我々は\n彼らワイルドの本気が見たかったの。",
+    "translation": "そうね。我々は\n彼らワイルドの本気が見たかったの。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "人聞きの悪い…我々は\n彼らワイルドの本気が見たかっただけ。",
+    "translation": "人聞きの悪い…我々は\n彼らワイルドの本気が見たかっただけ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "ええ。\nばっちり堪能させていただきました。",
+    "translation": "ええ。\nばっちり堪能させていただきました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "それだけのために…\n二人とも文句言っていいと思うぜ？",
+    "translation": "それだけのために…\n二人とも文句言っていいと思うぜ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "やるな、[P3姓]。",
+    "translation": "やるな、[P3姓]。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "君こそ、[P4名]。",
+    "translation": "君こそ、[P4名]。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "って、なんか\n変な友情生まれちゃってるし！",
+    "translation": "って、なんか\n変な友情生まれちゃってるし！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "大食い対決なんて…と思ったけど\n結構楽しかったよ。",
+    "translation": "大食い対決なんて…と思ったけど\n結構楽しかったよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_050_1",
+    "original": "今回のことで、君のことが少し知れた\n気がする。",
+    "translation": "今回のことで、君のことが少し知れた\n気がする。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "俺もだ。\nこれからも、協力して進んでいこう。",
+    "translation": "俺もだ。\nこれからも、協力して進んでいこう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "では仲良く二人で一等賞ということで、\n私からこちらのトロフィーを贈呈致します。",
+    "translation": "では仲良く二人で一等賞ということで、\n私からこちらのトロフィーを贈呈致します。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "いつの間に作ってたんだよ…",
+    "translation": "いつの間に作ってたんだよ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "まあまあ、二人の対決も見れたんだし\n次は私たちがドーナツを食べる番だよね！",
+    "translation": "まあまあ、二人の対決も見れたんだし\n次は私たちがドーナツを食べる番だよね！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "あー、悪ぃんだがよ…",
+    "translation": "あー、悪ぃんだがよ…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "対決中フル稼働させた結果、\nフライヤーが再び壊れてしまいまして…",
+    "translation": "対決中フル稼働させた結果、\nフライヤーが再び壊れてしまいまして…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_056_1",
+    "original": "残念ながらこれはもう\n部品交換では直せないレベルです。",
+    "translation": "残念ながらこれはもう\n部品交換では直せないレベルです。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "…なんだと？\n俺のドーナツが…",
+    "translation": "…なんだと？\n俺のドーナツが…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "…ドーナツぐらい帰ったらいくらでも\n作ってやるよ。",
+    "translation": "…ドーナツぐらい帰ったらいくらでも\n作ってやるよ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "じゃあ帰ったら、\nみんなでドーナツパーティークマー！",
+    "translation": "じゃあ帰ったら、\nみんなでドーナツパーティークマー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "僕は当分ドーナツはいいかな…",
+    "translation": "僕は当分ドーナツはいいかな…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "奇遇だな。俺もだ…",
+    "translation": "奇遇だな。俺もだ…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  }
+]

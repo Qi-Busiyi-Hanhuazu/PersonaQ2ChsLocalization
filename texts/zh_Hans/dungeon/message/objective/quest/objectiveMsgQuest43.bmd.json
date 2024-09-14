@@ -1,0 +1,44 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "指定されたポイントまで行け",
+    "translation": "前往指定的地点",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前往指定的地点\n\n去指定的点\n\n到指定的地点"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "看板へ向かえ",
+    "translation": "前往招牌",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往看板\n\n走向招牌\n\n向广告牌走去"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "看板の質問に答えろ",
+    "translation": "回答牌子上的问题",
+    "stage": 1,
+    "context": "机翻辅助：\n\n回答看板的问题\n\n回答招牌上的问题\n\n回答广告牌上的问题"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "看板へ向かえ",
+    "translation": "前往招牌",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往看板\n\n走向招牌\n\n向广告牌走去"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_4_0",
+    "original": "看板の質問に答えろ",
+    "translation": "回答牌子上的问题",
+    "stage": 1,
+    "context": "机翻辅助：\n\n回答看板的问题\n\n回答招牌上的问题\n\n回答广告牌上的问题"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_5_0",
+    "original": "先へ進め",
+    "translation": "前进",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前进\n\n继续前进"
+  }
+]

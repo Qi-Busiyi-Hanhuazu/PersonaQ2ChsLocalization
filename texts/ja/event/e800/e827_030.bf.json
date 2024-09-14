@@ -1,0 +1,324 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なかなか見つからないね。",
+    "translation": "なかなか見つからないね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、ここも違うようだ。",
+    "translation": "ああ、ここも違うようだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ねえ、ずっと気になってたんだけど…",
+    "translation": "ねえ、ずっと気になってたんだけど…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "二人ってそんなに大食いなの？\nあまりそうは見えないのに…",
+    "translation": "二人ってそんなに大食いなの？\nあまりそうは見えないのに…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "どうだろう…そこまで自覚はないな。",
+    "translation": "どうだろう…そこまで自覚はないな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "いやいや、愛屋のスペシャル肉丼\n完食してる時点で化け物だろ…",
+    "translation": "いやいや、愛屋のスペシャル肉丼\n完食してる時点で化け物だろ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "あれ普通の５倍はあるぜ。",
+    "translation": "あれ普通の５倍はあるぜ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あれ完食出来るの[P4姓]くんか\n千枝ぐらいだよね。",
+    "translation": "あれ完食出来るの[P4姓]くんか\n千枝ぐらいだよね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "なかなかの戦いだった…",
+    "translation": "なかなかの戦いだった…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "へぇ、すごいんだね。",
+    "translation": "へぇ、すごいんだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "すごいんだねって、オマエも\nめっちゃ食うだろ？",
+    "translation": "すごいんだねって、オマエも\nめっちゃ食うだろ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ラーメン替え玉、たこ焼き早食い…\nポロニアンモールじゃ割と有名だし。",
+    "translation": "ラーメン替え玉、たこ焼き早食い…\nポロニアンモールじゃ割と有名だし。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "肉体の許容範囲を超えた量を食しても、\n表情、バイタルともに変化なしであります。",
+    "translation": "肉体の許容範囲を超えた量を食しても、\n表情、バイタルともに変化なしであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "二人ともスゲーんだな…\nやっぱあの青服たちが騒ぐだけあるわ。",
+    "translation": "二人ともスゲーんだな…\nやっぱあの青服たちが騒ぐだけあるわ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_012_0",
+    "original": "勝てる気がしない",
+    "translation": "勝てる気がしない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_012_1",
+    "original": "自分も負けていない",
+    "translation": "自分も負けていない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "あれ？　お前、ビッグバンチャレンジ\n成功してなかったっけ？",
+    "translation": "あれ？　お前、ビッグバンチャレンジ\n成功してなかったっけ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "張り合うのかよ！",
+    "translation": "張り合うのかよ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "そういやこいつも\nビッグバンチャレンジ成功してたな…",
+    "translation": "そういやこいつも\nビッグバンチャレンジ成功してたな…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "あれを食べ切るのは\n相当だと思うよ。",
+    "translation": "あれを食べ切るのは\n相当だと思うよ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "へえ、そっちのリーダーもなんスね。",
+    "translation": "へえ、そっちのリーダーもなんスね。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "ひょっとして大食いもリーダーに\n必要な資質とか？",
+    "translation": "ひょっとして大食いもリーダーに\n必要な資質とか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "いやいや、ンな大げさな…\n大食いなんて胃の容量の問題だろ？",
+    "translation": "いやいや、ンな大げさな…\n大食いなんて胃の容量の問題だろ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "SEL_019_0",
+    "original": "度胸が必要だ",
+    "translation": "度胸が必要だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_019_1",
+    "original": "知識が必要だ",
+    "translation": "知識が必要だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_019_2",
+    "original": "器用さが必要だ",
+    "translation": "器用さが必要だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_019_3",
+    "original": "人間力が試される",
+    "translation": "人間力が試される",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ああ。大食いには、それに挑む勇気、\n胃の配分を考える知識…",
+    "translation": "ああ。大食いには、それに挑む勇気、\n胃の配分を考える知識…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "途中でめげない根気、そして何もかもを\n許容する寛容さ、その全てが必要なんだ。",
+    "translation": "途中でめげない根気、そして何もかもを\n許容する寛容さ、その全てが必要なんだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "まさに人の上に立つのに\n必要な能力であります。",
+    "translation": "まさに人の上に立つのに\n必要な能力であります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "お、おう…\nなんか、その…すまん。",
+    "translation": "お、おう…\nなんか、その…すまん。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "いや、いいんだ。\nそれより、今は部品を探そう。",
+    "translation": "いや、いいんだ。\nそれより、今は部品を探そう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだね。もっと先に行ってみよう。",
+    "translation": "そうだね。もっと先に行ってみよう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "大食いがこの統率力に通じていると…\nなるほど、興味深いな。",
+    "translation": "大食いがこの統率力に通じていると…\nなるほど、興味深いな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "いやーこれはあんま参考にしない方が\nいいと思いますよ…",
+    "translation": "いやーこれはあんま参考にしない方が\nいいと思いますよ…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

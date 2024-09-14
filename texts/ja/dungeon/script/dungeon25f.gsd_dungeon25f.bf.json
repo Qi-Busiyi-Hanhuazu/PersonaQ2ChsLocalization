@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_D03_05_WARNING_01_0",
+    "original": "扉の先に妙な気配がする。",
+    "translation": "扉の先に妙な気配がする。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_D03_05_WARNING_01_1",
+    "original": "このまま進むと戦闘になるが\n準備は大丈夫か？",
+    "translation": "このまま進むと戦闘になるが\n準備は大丈夫か？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_WARNING_02_0",
+    "original": "大丈夫",
+    "translation": "大丈夫",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_WARNING_02_1",
+    "original": "ちょっと待って",
+    "translation": "ちょっと待って",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_D03_05_WARNING_SEL01_0",
+    "original": "よし！\n先に進もう！",
+    "translation": "よし！\n先に進もう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_D03_05_WARNING_SEL02_0",
+    "original": "準備を整えたら、また戻ってこよう",
+    "translation": "準備を整えたら、また戻ってこよう",
+    "stage": 1,
+    "context": ""
+  }
+]

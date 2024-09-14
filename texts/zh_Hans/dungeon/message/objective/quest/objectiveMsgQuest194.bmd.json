@@ -1,0 +1,30 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "監視カメラの先へと進もう",
+    "translation": "向监视摄像头的地方前进",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往监视摄像头的前方\n\n我们走到监控摄像头的前面\n\n朝着监控摄像头的方向前进。"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "監視カメラのある部屋へと向かおう",
+    "translation": "前往有监视摄像头的房间",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前往有监视摄像头的房间\n\n去有监控的房间吧\n\n去有监控摄像头的房间。"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "監視カメラに気をつけて奥へ進もう",
+    "translation": "注意监视摄像头，往深处前进",
+    "stage": 1,
+    "context": "机翻辅助：\n\n注意监视摄像头往深处前进\n\n小心监视摄像头，往里走\n\n注意监控录像，往里走"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "クエストクリア報告に向かおう",
+    "translation": "去完成任务报告",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去完成任务报告\n\n向着任务完成报告前进吧\n\n前往任务通关报告"
+  }
+]

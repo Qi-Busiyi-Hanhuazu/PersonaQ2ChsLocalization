@@ -1,0 +1,611 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "また後味の悪い映画だね…",
+    "translation": "また後味の悪い映画だね…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "だな。カモシダーマンの時と同じ感じだ。\n胸がモヤモヤする…",
+    "translation": "だな。カモシダーマンの時と同じ感じだ。\n胸がモヤモヤする…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "多数決の原理っていうのかしら。",
+    "translation": "多数決の原理っていうのかしら。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "賛成する人の多い方が正しくて、\nそれ以外の意見は認めないって雰囲気ね。",
+    "translation": "賛成する人の多い方が正しくて、\nそれ以外の意見は認めないって雰囲気ね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "賛成の多い方が正しい、か…\nなんつーか、耳が痛ェ話だな。",
+    "translation": "賛成の多い方が正しい、か…\nなんつーか、耳が痛ェ話だな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "俺たちも、一時期は世間の評判で\n改心相手選ぼうとしてたし。",
+    "translation": "俺たちも、一時期は世間の評判で\n改心相手選ぼうとしてたし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "竜司…",
+    "translation": "竜司…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "だが、今のワガハイたちは\n分かってるはずだ。",
+    "translation": "だが、今のワガハイたちは\n分かってるはずだ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "世間の声に流されず、正義を貫く…\nそれが怪盗団の流儀だってな。",
+    "translation": "世間の声に流されず、正義を貫く…\nそれが怪盗団の流儀だってな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_05_0",
+    "original": "俺たちの流儀はともかく…ひかり、\nこれが君の見ないといけない映画か？",
+    "translation": "俺たちの流儀はともかく…ひかり、\nこれが君の見ないといけない映画か？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "…分からない。",
+    "translation": "…分からない。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ナギさんはどうです？\nこの映画に、なにか心当たりは？",
+    "translation": "ナギさんはどうです？\nこの映画に、なにか心当たりは？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "いえ…\n心当たりもございません。",
+    "translation": "いえ…\n心当たりもございません。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "んー…んんんー。",
+    "translation": "んー…んんんー。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "どうしたの？",
+    "translation": "どうしたの？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "いや、たいしたことじゃないんだけど…",
+    "translation": "いや、たいしたことじゃないんだけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_011_5_0",
+    "original": "普通の恐竜映画ってさ、もっと、こう…\nバーンッ！　っていうかさ…",
+    "translation": "普通の恐竜映画ってさ、もっと、こう…\nバーンッ！　っていうかさ…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "それな！",
+    "translation": "それな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "もっとこう、ズババババーン！　ドゴーン！\n…って感じだよな？",
+    "translation": "もっとこう、ズババババーン！　ドゴーン！\n…って感じだよな？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_013_0",
+    "original": "ズババババーン？",
+    "translation": "ズババババーン？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_013_1",
+    "original": "ドゴーン？",
+    "translation": "ドゴーン？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_013_2",
+    "original": "ズギャアァァンだ",
+    "translation": "ズギャアァァンだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "おっ、いいとこ突いてくるな！\nそんでもって、ドドドドドってなる！",
+    "translation": "おっ、いいとこ突いてくるな！\nそんでもって、ドドドドドってなる！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "言い方はともかく、言いたいことは分かる。",
+    "translation": "言い方はともかく、言いたいことは分かる。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "仲間を助けたいのに、\n周囲をうかがって声を出せない恐竜…",
+    "translation": "仲間を助けたいのに、\n周囲をうかがって声を出せない恐竜…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_015_2",
+    "original": "恐竜映画なのに、人間の世知辛い部分を\n見てるようで、生々しいのよね。",
+    "translation": "恐竜映画なのに、人間の世知辛い部分を\n見てるようで、生々しいのよね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "うん…和を乱すのは悪で、\nみんなお互いの顔色をうかがって…",
+    "translation": "うん…和を乱すのは悪で、\nみんなお互いの顔色をうかがって…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "カモシダーマンの映画といい、\nなんでそんな話なんだろうね？",
+    "translation": "カモシダーマンの映画といい、\nなんでそんな話なんだろうね？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "映画に限らず、芸術には\n作者のメッセージが込められる。",
+    "translation": "映画に限らず、芸術には\n作者のメッセージが込められる。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "この場合は、『自分を捨て、他人に\n合わせるのが正しい』という所か…",
+    "translation": "この場合は、『自分を捨て、他人に\n合わせるのが正しい』という所か…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "はあ？　そんなんで自分のやりたいこと\n捨てるとか…空しすぎだろ！",
+    "translation": "はあ？　そんなんで自分のやりたいこと\n捨てるとか…空しすぎだろ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "同感だ。俺なら周囲がなんと言おうと、\n絵をやめる気はない。",
+    "translation": "同感だ。俺なら周囲がなんと言おうと、\n絵をやめる気はない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "私は、周りに合わせなきゃって気持ち、\nちょっと分かるな…",
+    "translation": "私は、周りに合わせなきゃって気持ち、\nちょっと分かるな…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "みんなに会ってなかったら、\n私、会社や大人に流され続けてたもの…",
+    "translation": "みんなに会ってなかったら、\n私、会社や大人に流され続けてたもの…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あの映画…そんなに、変？",
+    "translation": "あの映画…そんなに、変？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "え…？　何とも思わなかった？",
+    "translation": "え…？　何とも思わなかった？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "不思議なの…みんなが…",
+    "translation": "不思議なの…みんなが…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "どうして、そんなに怒ったり…\n悲しいと思うの？",
+    "translation": "どうして、そんなに怒ったり…\n悲しいと思うの？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "あの恐竜、ホントはダチ助けたいんだぜ？\nなのに出来ねえとか辛すぎだろ。",
+    "translation": "あの恐竜、ホントはダチ助けたいんだぜ？\nなのに出来ねえとか辛すぎだろ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "でも、仲間たちは反対だった。\n助けたら、みんなも危険になるから…",
+    "translation": "でも、仲間たちは反対だった。\n助けたら、みんなも危険になるから…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "だが、助けられるかもしれないし、\nみんな無事で済むかもしれないだろ？",
+    "translation": "だが、助けられるかもしれないし、\nみんな無事で済むかもしれないだろ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "やらずに判断するのは、ナンセンスだと\nワガハイは思うぜ？",
+    "translation": "やらずに判断するのは、ナンセンスだと\nワガハイは思うぜ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "それは…",
+    "translation": "それは…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ひかりさん…あの映画が良いと思うなら、\nそれはそれでいいと思いますよ。",
+    "translation": "ひかりさん…あの映画が良いと思うなら、\nそれはそれでいいと思いますよ。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "ただ、それは本心であって欲しい…\n貴方には自分を押し殺してほしくないから。",
+    "translation": "ただ、それは本心であって欲しい…\n貴方には自分を押し殺してほしくないから。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "私の…本心？\nあの映画…私は…",
+    "translation": "私の…本心？\nあの映画…私は…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "SEL_030_0",
+    "original": "あのままでいいのか？",
+    "translation": "あのままでいいのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_030_1",
+    "original": "違う結末を見たくないか？",
+    "translation": "違う結末を見たくないか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "はじめは、あれでいいと思った…\nけど…",
+    "translation": "はじめは、あれでいいと思った…\nけど…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "違う結末…？\n考えてもみなかった…",
+    "translation": "違う結末…？\n考えてもみなかった…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "たとえば…ひかりがあの恐竜なら\nどうしたい？",
+    "translation": "たとえば…ひかりがあの恐竜なら\nどうしたい？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "私、が…？",
+    "translation": "私、が…？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_034_1",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_034_5_0",
+    "original": "…でも…他の恐竜が…",
+    "translation": "…でも…他の恐竜が…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "じ、じじ、自分の！　気持ちにっ！\nう、ウソをついたらもっと辛くなるぞ！",
+    "translation": "じ、じじ、自分の！　気持ちにっ！\nう、ウソをついたらもっと辛くなるぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "あ…いや、その…わたしがそうだったから…\nご、ごめん…",
+    "translation": "あ…いや、その…わたしがそうだったから…\nご、ごめん…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "…ウソ？",
+    "translation": "…ウソ？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "ひかりも、カモシダーマンの結末を…\nよかったって思ってくれただろ…？",
+    "translation": "ひかりも、カモシダーマンの結末を…\nよかったって思ってくれただろ…？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_037_1",
+    "original": "だから、その…つまり…",
+    "translation": "だから、その…つまり…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "もし、また変わるなら…\n別の結末が、あるなら…",
+    "translation": "もし、また変わるなら…\n別の結末が、あるなら…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_038_1",
+    "original": "私…見てみたい、と思う…",
+    "translation": "私…見てみたい、と思う…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "ホントか！？",
+    "translation": "ホントか！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "…っしゃ！\nなら、俺たちにまかせとけ！",
+    "translation": "…っしゃ！\nなら、俺たちにまかせとけ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_040_5_0",
+    "original": "なあ、[P5名]？\nこの映画も、また変えてやろうぜ！",
+    "translation": "なあ、[P5名]？\nこの映画も、また変えてやろうぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_041_0",
+    "original": "そうだな",
+    "translation": "そうだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_041_1",
+    "original": "脱出が先だ",
+    "translation": "脱出が先だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_041_2",
+    "original": "みんなの意見は？",
+    "translation": "みんなの意見は？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "ああ、僕も賛成だ。",
+    "translation": "ああ、僕も賛成だ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_042_1",
+    "original": "映画を変えることは結果的に、\n脱出することに繋がると思うからね。",
+    "translation": "映画を変えることは結果的に、\n脱出することに繋がると思うからね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "いや、僕の考えでは映画を変えることが\n脱出への近道だと思うよ。",
+    "translation": "いや、僕の考えでは映画を変えることが\n脱出への近道だと思うよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "少なくとも僕は賛成だ。",
+    "translation": "少なくとも僕は賛成だ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_044_1",
+    "original": "映画を変えることは結果的に、\n脱出することに繋がると思うからね。",
+    "translation": "映画を変えることは結果的に、\n脱出することに繋がると思うからね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "映画を変えたら、ドーが鍵を出した…\n今回も同じってわけか？",
+    "translation": "映画を変えたら、ドーが鍵を出した…\n今回も同じってわけか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "法則として確定したわけじゃないけど、\n可能性はあると思う。",
+    "translation": "法則として確定したわけじゃないけど、\n可能性はあると思う。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_046_1",
+    "original": "この変な映画も、ドーが流しているなら\nなおさらよ。",
+    "translation": "この変な映画も、ドーが流しているなら\nなおさらよ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "なら決まりだな！\n映画の中を探ってみよう、[P5名]！",
+    "translation": "なら決まりだな！\n映画の中を探ってみよう、[P5名]！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

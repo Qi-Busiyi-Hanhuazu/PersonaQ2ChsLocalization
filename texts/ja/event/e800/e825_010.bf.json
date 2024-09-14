@@ -1,0 +1,219 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さて、こちらの特別上映は、\nごく単純なバトルもの。",
+    "translation": "さて、こちらの特別上映は、\nごく単純なバトルもの。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "映画『Ａ．Ⅰ．Ｇ．Ⅰ．Ｓ』にて\n『ＫＮＳ－１０００』を倒せ、とのこと。",
+    "translation": "映画『Ａ．Ⅰ．Ｇ．Ⅰ．Ｓ』にて\n『ＫＮＳ－１０００』を倒せ、とのこと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "『ＫＮＳ－１０００』って…\nあの監視型のＦ．Ｏ．Ｅですよね。",
+    "translation": "『ＫＮＳ－１０００』って…\nあの監視型のＦ．Ｏ．Ｅですよね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "なるほど…最初は厄介な相手でしたが、\nすでにデータがあります。",
+    "translation": "なるほど…最初は厄介な相手でしたが、\nすでにデータがあります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "機体の出力の調整には、\nもってこいでありますね。",
+    "translation": "機体の出力の調整には、\nもってこいでありますね。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "アイギス、もしかしてまだ\n本調子じゃない…？",
+    "translation": "アイギス、もしかしてまだ\n本調子じゃない…？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "いえ、そのようなことはありません。\n現在、全システムオールグリーン。",
+    "translation": "いえ、そのようなことはありません。\n現在、全システムオールグリーン。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "ただ、映画の中での戦闘というのは\nわたしの設計想定を逸脱した活動です。",
+    "translation": "ただ、映画の中での戦闘というのは\nわたしの設計想定を逸脱した活動です。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_004_2",
+    "original": "任務遂行に万全を期すため、\n実戦経験を積む必要があります。",
+    "translation": "任務遂行に万全を期すため、\n実戦経験を積む必要があります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "大丈夫か？",
+    "translation": "大丈夫か？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "無理するな",
+    "translation": "無理するな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "[P5姓]さん、お気遣いに感謝します。",
+    "translation": "[P5姓]さん、お気遣いに感謝します。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "ですが、わたしは対シャドウ兵器。\n皆さんをお守りするのが使命です。",
+    "translation": "ですが、わたしは対シャドウ兵器。\n皆さんをお守りするのが使命です。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_006_2",
+    "original": "今後も激しい戦闘が予想されます。\nそのためにも是非、わたしに出撃の許可を。",
+    "translation": "今後も激しい戦闘が予想されます。\nそのためにも是非、わたしに出撃の許可を。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "なんか…迷いがなくてカッコイイね。",
+    "translation": "なんか…迷いがなくてカッコイイね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "みんなで頑張ろう",
+    "translation": "みんなで頑張ろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "気負いすぎるな",
+    "translation": "気負いすぎるな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "みんなで、ですか…？",
+    "translation": "みんなで、ですか…？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "アイギス、[P5名]の言う通りだよ。\n頼もしい仲間がたくさんいるんだ。",
+    "translation": "アイギス、[P5名]の言う通りだよ。\n頼もしい仲間がたくさんいるんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "焦って一人で背負い込むことはないよ。\nみんなでこの特別上映、頑張ろう。",
+    "translation": "焦って一人で背負い込むことはないよ。\nみんなでこの特別上映、頑張ろう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "はい、了解しました！\nそれでは、みんなで任務に望むであります！",
+    "translation": "はい、了解しました！\nそれでは、みんなで任務に望むであります！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ダメでしょうか？\nお役に立てればと思ったのですが…",
+    "translation": "ダメでしょうか？\nお役に立てればと思ったのですが…",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "アイギス、[P5名]の言う通りだ。\n一人で背負い込まなくていい。",
+    "translation": "アイギス、[P5名]の言う通りだ。\n一人で背負い込まなくていい。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "頼もしい仲間がたくさんいるんだ。\nみんなでこの特別上映、頑張ろう。",
+    "translation": "頼もしい仲間がたくさんいるんだ。\nみんなでこの特別上映、頑張ろう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "お二人とも、ありがとうございます。\nでは、みんなで頑張るであります！",
+    "translation": "お二人とも、ありがとうございます。\nでは、みんなで頑張るであります！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "それじゃあ、[P5名]。\n準備が出来たら出発しようか。",
+    "translation": "それじゃあ、[P5名]。\n準備が出来たら出発しようか。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

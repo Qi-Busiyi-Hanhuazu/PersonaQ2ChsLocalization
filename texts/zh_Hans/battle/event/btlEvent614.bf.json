@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ＧＹＡＡＡＡＡＡ…！",
+    "translation": "嘎嗷嗷嗷嗷嗷嗷嗷……！",
+    "stage": 1,
+    "context": "说话人：派手な肉食恐竜\n\n机翻辅助：\n\nGYAAAAAA……！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ＧＬＩＩＩＩＹＣＨ…！",
+    "translation": "嘎啊唔唔唔唔唔唔唔……！",
+    "stage": 1,
+    "context": "说话人：派手な肉食恐竜\n\n机翻辅助：\n\nGLIIIIYCH……！\n\nGLIIIYCH……！\n\nGLIIIIYCH！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おおっ、草食恐竜たちの攻撃が効いてるぞ！\n今なら倒すチャンスだ！",
+    "translation": "哇，草食恐龙们的攻击奏效了！\n现在是击倒它们的绝好时机！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n哦哦，草食恐龙的攻击有效了！\n现在是打倒它们的机会！\n\n喂，草食恐龙们的攻击很有效哦！\n现在是打倒的机会！\n\n喂，食草恐龙们的攻击起作用了！\n现在就是打倒他的好机会！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あいつら、スゲーじゃん！",
+    "translation": "那些家伙，厉害啊！",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n那些家伙，很厉害嘛！\n\n他们不是很厉害吗！\n\n他们太厉害了！"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "その思いに報いるためにも…\nこりゃ、ぜってー負けらんねーな！",
+    "translation": "为了回报那份心意……这可绝对不能输！",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n为了回报它们的心意……\n这下子，我绝对不能输！\n\n为了报答这份思念……\n这可绝对不能输啊！\n\n为了报答这份思念……这个，绝对不能输啊！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "草食恐竜たちの戦う姿が、\n皆に力を与える…！",
+    "translation": "草食恐龙们战斗的勇姿赋予了大家力量……！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n草食恐龙们战斗的模样，\n给了大家力量……！\n\n草食恐龙们战斗的身姿，给予大家力量……！\n\n\n食草恐龙们战斗的样子给了大家力量……！"
+  },
+  {
+    "key": "MSG_004_2_0",
+    "original": "草食恐竜たちの戦う姿が、\n皆に力を与える…！",
+    "translation": "草食恐龙们战斗的勇姿赋予了大家力量……！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n草食恐龙们战斗的模样，\n给了大家力量……！\n\n草食恐龙们战斗的身姿，给予大家力量……！\n\n\n食草恐龙们战斗的样子给了大家力量……！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ＧＲＵＵＵＤＧＥＥＥＥＥ…！",
+    "translation": "咕噜咕噜咕噜咕噜……！",
+    "stage": 1,
+    "context": "说话人：派手な肉食恐竜\n\n机翻辅助：\n\nGRUUUDEEEE……！\n\nGRUUDGEEEEE……！\n\nGRUUUDGEEEEE……！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "かなり弱ってきてるよ！\nみんな、この調子で頑張って！",
+    "translation": "敌人虚弱不少了！\n大家，就保持这个势头继续努力！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n它们变得相当虚弱了！\n大家，照这个样子继续加油！\n\n相当弱哟！\n大家，就这样加油吧！\n\n相当的虚弱哟！\n大家，就这样加油！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ＧＹＡＡＡＡＡＡＡＡＡ！！",
+    "translation": "嘎啊啊啊啊啊啊啊啊！！",
+    "stage": 1,
+    "context": "说话人：派手な肉食恐竜\n\n机翻辅助：\n\nGYAAAAAAA！！\n\nGYAAAAAAAAA！！\n\nGYAAAAAAAAA ！！"
+  },
+  {
+    "key": "speaker_派手な肉食恐竜",
+    "original": "派手な肉食恐竜",
+    "translation": "浮夸的肉食恐龙",
+    "stage": 1,
+    "context": "机翻辅助：\n\n华丽的肉食恐龙\n\n华丽的食肉恐龙"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

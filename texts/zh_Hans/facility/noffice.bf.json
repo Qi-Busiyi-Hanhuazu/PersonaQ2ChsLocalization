@@ -1,0 +1,149 @@
+[
+  {
+    "key": "NOFFICE_HELLO_ELIZABETH__0",
+    "original": "どちらのチケットをお求めでしょう？",
+    "translation": "您需要哪一种票？",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n您要购买哪一边的票券呢？\n\n您想要哪张票呢？\n\n您要哪种票？"
+  },
+  {
+    "key": "NOFFICE_HELLO_ELIZABETH__2_0",
+    "original": "お待ちしておりました。",
+    "translation": "让您久等了。",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n恭候多时。\n\n一直在等您。\n\n恭候您的光临。"
+  },
+  {
+    "key": "NOFFICE_HELLO_ELIZABETH__3_0",
+    "original": "ようこそ、チケット売り場へ。",
+    "translation": "欢迎光临，这里是售票处。",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n欢迎来到售票处。\n\n欢迎光临售票处。"
+  },
+  {
+    "key": "NOFFICE_EXP_ELIZABETH_0",
+    "original": "何でございましょう？",
+    "translation": "是什么呢？",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n有什么事吗？\n\n是什么呢？\n\n您要什么？"
+  },
+  {
+    "key": "NOFFICE_OUT_ELIZABETH_NU_0",
+    "original": "ご利用ありがとうございました。",
+    "translation": "非常感谢您的使用。",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n谢谢您的使用。\n\n感谢您的使用。"
+  },
+  {
+    "key": "NOFFICE_OUT_ELIZABETH_NU_2_0",
+    "original": "またのご利用をお待ちしております。",
+    "translation": "期待您的再次光临。",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n期待各位再次光临。\n\n期待您的再次使用。\n\n等待您的再次使用。"
+  },
+  {
+    "key": "NOFFICE_OUT_ELIZABETH_NU_3_0",
+    "original": "それではまた。",
+    "translation": "那么再见。",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n那么，再会。\n\n那么再见。"
+  },
+  {
+    "key": "NOFFICE_ACCEPT_OUT_ELIZA_0",
+    "original": "いってらっしゃいませ。",
+    "translation": "请慢走。",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n祝您一路顺风。\n\n路上小心。\n\n一路顺风。"
+  },
+  {
+    "key": "NOFFICE_ACCEPT_OUT_ELIZA_2_0",
+    "original": "お気をつけて。",
+    "translation": "请小心。",
+    "stage": 0,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n请小心。\n\n路上小心。"
+  },
+  {
+    "key": "NOFFICE_ACCEPT_OUT_ELIZA_3_0",
+    "original": "皆様のご健闘をお祈りしております。",
+    "translation": "祝大家旗开得胜。",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n祝各位好运。\n\n祝大家奋斗到底。\n\n祈祷大家的奋斗。"
+  },
+  {
+    "key": "BBOARD_BATTLE_BEFORE_THE_0",
+    "original": "テオドア戦闘前",
+    "translation": "战斗前的西奥多",
+    "stage": 1,
+    "context": "说话人：テオドア\n\n机翻辅助：\n\n西奥多战前\n\n西奥多战役前\n\n西奥多战斗前"
+  },
+  {
+    "key": "BBOARD_BATTLE_BEFORE_MAR_0",
+    "original": "マーガレット戦闘前",
+    "translation": "玛格丽特战斗前",
+    "stage": 1,
+    "context": "说话人：マーガレット\n\n机翻辅助：\n\n玛格丽特战前\n\n玛格丽特战斗前\n\n玛格丽特战役前"
+  },
+  {
+    "key": "BBOARD_BATTLE_BEFORE_TWI_0",
+    "original": "双子戦闘前",
+    "translation": "双子战斗前",
+    "stage": 1,
+    "context": "说话人：双子\n\n机翻辅助：\n\n双胞胎战前\n\n双子战斗前\n\n双胞胎战役前"
+  },
+  {
+    "key": "BBOARD_BATTLE_BEFORE_ELI_0",
+    "original": "エリザベス戦闘前",
+    "translation": "伊莉莎白战斗前",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n伊莉莎白战前\n\n伊莉莎白战斗前\n\n伊莉莎白战役前"
+  },
+  {
+    "key": "BBOARD_BATTLE_BEFORE_ALL_0",
+    "original": "五人全員戦闘前",
+    "translation": "五个全员战斗前",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n五人全员战前\n\n五人全员战斗前\n\n五个人都在战斗前"
+  },
+  {
+    "key": "SEL_BBOARD_BATTLE_BEFORE_0",
+    "original": "バッチリだ",
+    "translation": "完美",
+    "stage": 1,
+    "context": "机翻辅助：\n\n很完美\n\n很棒\n\n很好"
+  },
+  {
+    "key": "SEL_BBOARD_BATTLE_BEFORE_1",
+    "original": "少し待って",
+    "translation": "稍等",
+    "stage": 1,
+    "context": "机翻辅助：\n\n稍等一下"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "伊莉莎白",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "西奥多",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "玛格丽特",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_双子",
+    "original": "双子",
+    "translation": "双胞胎",
+    "stage": 0,
+    "context": "机翻辅助：\n\n双胞胎\n\n双子"
+  }
+]

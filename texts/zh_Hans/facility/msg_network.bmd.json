@@ -1,0 +1,443 @@
+[
+  {
+    "key": "FCL_NETWORK_MSG_YN_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_MSG_YN_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "FCL_NETWORK_SUBPERSONA_C_0",
+    "original": "これでいい",
+    "translation": "这样就好。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这样就好。\n\n这样就可以了"
+  },
+  {
+    "key": "FCL_NETWORK_SUBPERSONA_C_1",
+    "original": "考え直す",
+    "translation": "重新考虑。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n重新考虑。\n\n重新考虑"
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_0",
+    "original": "＞すれちがい通信に登録することで、\n　すれちがった相手と\n　『すれちがい手帳の交換』が行えます。",
+    "translation": "＞登录“瞬缘连接”的通讯，\n　就可以和擦身而过的对象\n　进行“交换瞬缘笔记”。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞登录“擦身而过”的通讯，\n　就可以和擦身而过的对象\n　进行“交换瞬缘笔记”。\n\n＞通过登录瞬缘连接，可以和擦身而过的对象进行\n　瞬缘笔记的交换。\n　\n\n＞通过注册瞬缘连接，\n　与交错的对方\n　可以进行“瞬缘笔记的交换”。"
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_1",
+    "original": "＞ニンテンドー３ＤＳ本体に\n　ペルソナＱ２のすれちがい通信を\n　登録しますか？",
+    "translation": "＞要登录\n　女神异闻录Q2的瞬缘连接\n　到任天堂3DS主机吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞要登录\n　女神异闻录Q2的瞬缘连接\n　到任天堂3DS主机吗？\n\n＞\n　女神异闻录Q2的瞬缘连接\n　登录到任天堂3DS主机上吗？\n\n＞在任天堂3DS主机\n　注册女神异闻录Q2的瞬缘连接？"
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_SUCC_0",
+    "original": "＞ペルソナＱ２のすれちがい通信を\n　ニンテンドー３ＤＳ本体に登録しました。",
+    "translation": "＞已将女神异闻录Q2的瞬缘连接\n　登录于任天堂3DS主机。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞已将女神异闻录Q2的瞬缘连接\n　登录于任天堂3DS主机。\n\n＞女神异闻录Q2的瞬缘连接\n　登录到了任天堂3DS主机上。\n\n＞女神异闻录Q2的瞬缘连接\n　任天堂3DS实体登记了。"
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_SUCC_1",
+    "original": "＞このゲームを終了しても\n　すれちがい通信は自動で行われます。",
+    "translation": "＞即使关闭游戏\n　瞬缘连接仍会自动进行。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞即使关闭游戏\n　瞬缘连接仍会自动进行。\n\n＞即使这个游戏结束\n　瞬缘连接也会自动进行。\n\n＞即使结束了这个游戏\n　瞬缘连接也会自动进行。"
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_SUCC_2",
+    "original": "＞ＨＯＭＥメニューから『本体設定』を選び\n　『データ管理』の『すれちがい通信管理』で\n　すれちがい通信を停止する事ができます。",
+    "translation": "＞从主选单选择“主机设定”\n　在“资料管理”的“瞬缘连接管理”\n　即可停止瞬缘连接。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞从主选单选择“主机设定”\n　在“资料管理”的“瞬缘连接管理”\n　即可停止瞬缘连接。\n\n＞从HOME菜单选择“主体设定”\n　“数据管理”的“瞬缘连接管理”\n　可以停止瞬缘连接。\n\n＞从HOME菜单中选择“主机设置”\n　在“数据管理”的“瞬缘连接管理”中\n　可以停止瞬缘连接。"
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_EXIS_0",
+    "original": "＞ペルソナＱ２のすれちがい通信は\n　すでに登録されています。",
+    "translation": "＞女神异闻录Q2的瞬缘连接\n　已登录于主机。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞女神异闻录Q2的瞬缘连接\n　已登录于主机。\n\n＞女神异闻录Q2的瞬缘连接\n　已经被登记了。\n\n＞女神异闻录Q2的瞬缘连接\n　已经被登记。"
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_EXIS_1",
+    "original": "＞すれちがい通信をやめるときは\n　ＨＯＭＥメニューから『本体設定』を選び",
+    "translation": "＞如果想停止瞬缘连接\n　请从主菜单选择“主机设定”",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞欲停止瞬缘连接时\n　请从主选单选择“主机设定”\n\n＞停止瞬缘连接时\n　从HOME菜单中选择“主机设定”\n\n＞停止瞬缘连接时，从HOME菜单中选择“主体设定”"
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_EXIS_2",
+    "original": "＞『データ管理』の『すれちがい通信管理』で\n　中止することができます。",
+    "translation": "＞在“资料管理”的“瞬缘连接管理”\n　即可中止。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞在“资料管理”的“瞬缘连接管理”\n　即可中止。\n\n＞“数据管理”的“瞬缘连接管理”可以中止。\n　\n\n＞在“数据管理”的“瞬缘连接管理”中\n　可中止。"
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_FULL_0",
+    "original": "＞ニンテンドー３ＤＳ本体にこれ以上\n　すれちがい通信を登録できません。",
+    "translation": "＞无法于任天堂3DS主机\n　登录更多瞬缘连接。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞无法于任天堂3DS主机\n　登录更多瞬缘连接。\n\n＞无法在任天堂3DS主机上注册更多\n　瞬缘连接。\n\n＞任天堂3DS主机不能再登记\n　瞬缘连接。"
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_FULL_1",
+    "original": "＞『本体設定』の『すれちがい通信管理』で\n　ほかのソフトのすれちがい通信をやめて\n　ください。",
+    "translation": "＞\n　请于“主机设定”的“瞬缘连接管理”\n　关闭其他软件的瞬缘连接。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞\n　请于“主机设定”的“瞬缘连接管理”\n　关闭其他软件的瞬缘连接。\n\n＞\n　在“主体设定”的“瞬缘连接管理”中\n　请停止其他软件的瞬缘连接。\n\n＞请在“主机设置”的“瞬缘连接管理”中\n　停止其他软件的瞬缘连接。"
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_EULA_0",
+    "original": "＞すれちがい通信を利用するには\n　最新の利用規約に同意する必要が\n　あります。",
+    "translation": "＞\n　欲使用瞬缘连接\n　需同意最新的使用规范。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞\n　欲使用瞬缘连接\n　需同意最新的使用规范。\n\n＞利用瞬缘连接\n　有必要同意最新的利用规章。\n　\n\n＞要使用瞬缘连接\n　必须同意最新的使用条款。"
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_EULA_1",
+    "original": "＞本体設定で『インターネット設定』⇒\n　『その他の情報』⇒『利用規約の確認』を\n　選び最新の利用規約に同意してください。",
+    "translation": "＞于主机设定选择“网络设定”⇒\n　“其他资讯”⇒“确认使用规范”\n　选择后请同意最新的使用规范。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞于主机设定选择“网络设定”⇒\n　“其他资讯”⇒“确认使用规范”\n　选择后请同意最新的使用规范。\n\n＞请在主体设定中\n　选择“因特网设定”⇒\n　“其他信息”⇒“利用规章的确认”并同意最新的利用规章。\n\n＞请在主机设置中选择“网络设置”⇒\n　“其他信息”⇒“确认使用条款”\n　同意最新的使用条款。"
+  },
+  {
+    "key": "FCL_NETWORK_SETTING_PARE_0",
+    "original": "＞『他のユーザーとのすれちがい通信』が、\n　保護者により制限されているため\n　すれちがい通信を利用できません。",
+    "translation": "＞\n　由于监护人限制\n　无法使用“与其他使用者的瞬缘连接”。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞\n　由于监护人限制\n　无法使用“与其他使用者的瞬缘连接”。\n\n＞“和其他用户的瞬缘连接”，因为被\n　监护人限制\n　不能使用瞬缘连接。\n\n＞“与其他用户的瞬缘连接”\n　受监护人限制\n　无法使用瞬缘连接。"
+  },
+  {
+    "key": "FCL_NETWORK_QR_ALERT_0",
+    "original": "＞他者を不快にしたり、その権利を侵害する\n　文章や自身や他人のプライベートな情報は\n　他人に渡したり公開しないでください",
+    "translation": "＞请勿发表会令他人感到不快，或侵害他人权利的言论\n　请勿外泄或公开\n　自身或他人的个人隐私",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞请勿发表会令他人感到不快，或侵害他人权利\n　文章、自身或他人的个人隐私\n　请勿外泄或公开\n\n＞让他人不快，侵犯其权利\n　文章、自己或他人的私人信息\n　请不要传递或公开给他人\n\n＞使他人不愉快或侵害其权利\n　文章或自己或他人的私人信息\n　请勿传递或公开给他人"
+  },
+  {
+    "key": "FCL_NETWORK_QR_MAKE_0",
+    "original": "＞自分のすれちがい手帳のＱＲコードと\n　画像データをＳＤカードに出力します。\n　既にデータが存在する場合は上書きします。",
+    "translation": "＞将自己瞬缘笔记的QR码\n　输出为图片档案至SD卡。\n　档案已存在时会覆盖档案。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞将自己瞬缘笔记的QR码\n　输出为图片档案至SD卡。\n　档案已存在时会覆盖档案。\n\n＞将自己的瞬缘笔记的二维码和\n　图像数据输出到SD卡。\n　如果数据已经存在，则覆盖。\n\n＞将瞬缘笔记的QR码和\n　图像数据输出到SD卡。\n　已经存在数据的情况下重写。"
+  },
+  {
+    "key": "FCL_NETWORK_QR_MAKE_1",
+    "original": "＞ＳＤカードに出力してよろしいですか？",
+    "translation": "＞要输出至SD卡吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞要输出至SD卡吗？\n\n＞输出到SD卡可以吗？\n\n＞可以输出到SD卡吗？"
+  },
+  {
+    "key": "FCL_NETWORK_QR_SD_WRITIN_0",
+    "original": "＞ＳＤカードに書きこんでいます",
+    "translation": "＞档案写入SD卡。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞档案写入SD卡。\n\n＞写在SD卡上。\n\n＞写入SD卡"
+  },
+  {
+    "key": "FCL_NETWORK_QR_SD_NONE_0",
+    "original": "＞ＳＤカードが差されていません。",
+    "translation": "＞没有插入SD卡。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞没有插入SD卡。\n\n＞SD卡没有被插入。\n\n＞未插入SD卡。"
+  },
+  {
+    "key": "FCL_NETWORK_QR_SD_SHORTA_0",
+    "original": "＞ＳＤカードの空き容量が足りません。",
+    "translation": "＞SD卡的剩余容量不足。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞SD卡的剩余容量不足。\n\n＞SD卡的空余容量不够。\n\n＞SD卡的可用空间不足。"
+  },
+  {
+    "key": "FCL_NETWORK_QR_SD_PHOTO__0",
+    "original": "＞ＳＤカードの写真がいっぱいなので\n　保存できません。",
+    "translation": "＞SD卡的相片已满\n　无法保存。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞SD卡的相片已满\n　无法保存。\n\n＞因为SD卡的照片太多了\n　不能保存。\n\n＞SD卡的照片太多了\n　无法保存。"
+  },
+  {
+    "key": "FCL_NETWORK_QR_SD_ERROR_0",
+    "original": "＞ＳＤカードを認識できませんでした。",
+    "translation": "＞无法辨识SD卡。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞无法辨识SD卡。\n\n＞无法识别SD卡。"
+  },
+  {
+    "key": "FCL_NETWORK_QR_MAKE_SUCC_0",
+    "original": "＞ＤＣＩＭ／１００ＮＩＮ０３\n　にＱＲコードの画像データを出力しました。",
+    "translation": "＞已将QR码的图片档案输出至DCIM／100NIN03。\n　。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞已将QR码的图片档案输出至DCIM／100NIN03。\n　\n\n＞向DCIM/100NIN03\n　输出了QR码的图像数据。\n\n＞DCIM / 100nin03\n　中输出了QR码的图像数据。"
+  },
+  {
+    "key": "FCL_NETWORK_QR_LOAD_0",
+    "original": "＞外側カメラでペルソナＱ２の\n　ＱＲコードを写してください。",
+    "translation": "＞请以外侧镜头拍摄女神异闻录Q2的\n　QR码。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞请以外侧镜头拍摄女神异闻录Q2的\n　QR码。\n\n＞请用外侧照相机拍摄女神异闻录Q2的\n　QR码。\n\n＞请用外侧照相机拍摄女神异闻录Q2的二维码。"
+  },
+  {
+    "key": "FCL_NETWORK_QR_LOAD_SUCC_0",
+    "original": "＞すれちがい手帳を登録しますか？",
+    "translation": "＞要登录瞬缘笔记吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞要登录瞬缘笔记吗？\n\n＞瞬缘笔记要登记吗？\n\n＞登记瞬缘笔记吗？"
+  },
+  {
+    "key": "FCL_NETWORK_QR_SAVING_0",
+    "original": "＞読み込んだすれちがい手帳をセーブしています",
+    "translation": "＞已储存读取的瞬缘笔记。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞已储存读取的瞬缘笔记。\n\n＞读取过的手帐保存着。\n\n＞保存读取的瞬缘笔记"
+  },
+  {
+    "key": "FCL_NETWORK_QR_INVALID_D_0",
+    "original": "＞ペルソナＱ２の\n　ＱＲコードではありません。",
+    "translation": "＞这不是女神异闻录Q2的\n　QR码。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞这不是女神异闻录Q2的\n　QR码。\n\n＞不是女神异闻录Q2的\n　QR码。"
+  },
+  {
+    "key": "FCL_NETWORK_QR_DECODE_ER_0",
+    "original": "＞ＱＲコードが認識できませんでした。",
+    "translation": "＞无法辨识QR码。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞无法辨识QR码。\n\n＞无法识别QR码。\n\n＞无法识别二维码。"
+  },
+  {
+    "key": "FCL_NETWORK_INBOX_RECEIV_0",
+    "original": "＞新しいすれちがい手帳を受け取りますか？",
+    "translation": "＞要接收新的瞬缘笔记吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞要接收新的瞬缘笔记吗？\n\n＞要接受新的瞬缘笔记吗？\n\n＞您要领取新的失窃证吗？"
+  },
+  {
+    "key": "FCL_NETWORK_INBOX_CHECKI_0",
+    "original": "＞すれちがい通信のデータを\n　確認しています。",
+    "translation": "＞正在\n　确认瞬缘连接的档案。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞正在\n　确认瞬缘连接的档案。\n\n＞\n　正在确认瞬缘连接的数据。\n\n＞正在确认瞬缘连接数据。"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_DELE_0",
+    "original": "このすれちがい手帳、捨てていいの？",
+    "translation": "要丢掉这个瞬缘笔记吗？",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n这个瞬缘笔记可以丢掉吗？\n\n这个瞬缘笔记可以扔掉吗？\n\n这个瞬缘笔记，可以扔掉吗？"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_DELE_2_0",
+    "original": "このすれちがい手帳を処分して\n宜しいでしょうか？",
+    "translation": "要处理\n这个瞬缘笔记吗？",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n要\n处理这个瞬缘笔记吗？\n\n把这个瞬缘笔记处理掉，可以吗？\n\n\n把这本瞬缘笔记处理掉可以吗？"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_SUMM_0",
+    "original": "このペルソナを召喚するには、\n[占位A 01]円かかるけど、\nいいの？",
+    "translation": "要召唤这个人格面具\n需要花费[占位A 01]元，\n可以吗？",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n要召唤这个人格面具\n[占位A 01]需要花费圆\n可以吗？\n\n召唤这个人格面具需要\n[占位A 01]日元，\n可以吗？\n\n召唤这个人格面具要花\n[占位A 01]日元，\n可以吗？"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_SUMM_2_0",
+    "original": "このペルソナを召喚するには、\n[占位A 01]円かかります。\n宜しいでしょうか？",
+    "translation": "要召唤这个人格面具\n需要花费[占位A 01]元，\n可以吗？",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n为了召唤这个人格面具，\n[占位A 01]日元花费。\n可以吗？\n\n要召唤这个人格面具，需要\n[占位A 01]圆。　可以吗？\n\n\n召唤这个人格面具需要\n[占位A 01]\n日元。可以吗？"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_SUMM_3_0",
+    "original": "＞ペルソナ“[颜色 02][占位A 01][颜色 01]”を\n　召喚した。",
+    "translation": "＞召唤了人格面具“[颜色 02][占位A 01][颜色 01]”。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞[颜色 02][占位A 01][颜色 01]召唤了人格面具“”\n　。\n\n＞召唤了[颜色 02][占位A 01][颜色 01]人格面具“”\n　。\n\n＞人格面具“[颜色 02][占位A 01][颜色 01]”\n　召唤。"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_EXIS_0",
+    "original": "このペルソナはもう持ってるよ。",
+    "translation": "你已经有这个人格面具了。",
+    "stage": 0,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n你已经有这个人格面具了。\n\n这个人格面具我已经有啦。\n\n这个人格面具我已经有了。"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_EXIS_2_0",
+    "original": "このペルソナは\n既にお持ちでございます。",
+    "translation": "这个人格面具\n已经有了。",
+    "stage": 0,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n这个人格面具\n已经有了。\n\n你已经拥有这个人格面具了。"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_MONE_0",
+    "original": "このペルソナを召喚するには、\nお金が足りないよ。",
+    "translation": "要召唤这个人格面具，\n你的钱不够哦。",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n要召唤这个人格面具，\n钱不够哦。\n\n要召唤这个人格面具，钱不够。"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_MONE_2_0",
+    "original": "このペルソナを召喚するには、\n所持金が足りないようです…",
+    "translation": "要召唤这个人格面具，\n身上的钱好像不够……",
+    "stage": 0,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n要召唤这个人格面具，\n身上的钱好像不够……\n\n要召唤这个人格面具，\n携带的钱好像不够……\n\n你似乎没有足够的钱来召唤这个人格面具。"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_STOC_0",
+    "original": "それ以上はペルソナを持てないよ。",
+    "translation": "你不能再拥有更多的人格面具了。",
+    "stage": 0,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n你不能再拥有更多的人格面具了。\n\n再多就没有人格了。\n\n再也不能拥有人格面具了。"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_STOC_2_0",
+    "original": "それ以上はペルソナを\n所持できないようです。",
+    "translation": "无法携带\n更多的人格面具。",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n那以上的人格面具\n好像不能携带。\n\n你似乎不能再拥有更多的人格面具。\n\n\n不能再拥有人格面具了。"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_LV_M_0",
+    "original": "このペルソナを召喚するには、\nキミのレベルが足りないよ。",
+    "translation": "要召唤这个人格面具，\n你的等级不够哦。",
+    "stage": 0,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n要召唤这个人格面具，\n你的等级不够哦。\n\n要召唤这个人格面具，你的等级不够。\n\n\n要召唤这个人格面具，你的水平不够。"
+  },
+  {
+    "key": "FCL_NETWORK_PERSONA_LV_E_0",
+    "original": "このペルソナを生み出すには、\nあなたのレベルが足りない\nようですね。",
+    "translation": "要召唤这个人格面具，\n你的等级\n似乎不够呢。",
+    "stage": 1,
+    "context": "说话人：エリザベス\n\n机翻辅助：\n\n要产生这个人格面具，你的等级似乎\n不够。\n\n\n要创造出这种人格面具，\n你的水平不够。\n\n\n要产生这种人格面具，\n你的水平好像不够。"
+  },
+  {
+    "key": "FCL_NETWORK_ATTACH_M_0",
+    "original": "このペルソナでいいの？",
+    "translation": "这个人格面具可以吗？",
+    "stage": 0,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n这个人格面具可以吗？"
+  },
+  {
+    "key": "FCL_NETWORK_ATTACH_E_0",
+    "original": "このペルソナでいいの？",
+    "translation": "这个人格面具可以吗？",
+    "stage": 0,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n这个人格面具可以吗？"
+  },
+  {
+    "key": "FCL_NETWORK_INPUT_ATTENT_0",
+    "original": "＞個人情報や受け取った人が、\n　不快に思う事は書かないでください。",
+    "translation": "＞请不要写下会泄漏个人资讯或\n　让收到的人感到不快的内容。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞请不要写下会泄漏个人资讯或让收到的人感到\n　不快的内容。\n\n＞\n　请不要写个人信息或收到的人感到不愉快的事情。\n\n＞请不要写个人信息和让收到的人感到不快的事情。"
+  },
+  {
+    "key": "FCL_NETWORK_INPUT_NGWORD_0",
+    "original": "＞不適切な内容です。\n　もう一度、入力してください。",
+    "translation": "＞含有敏感内容。\n　请重新输入。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞内容不适当。\n　请重新输入。\n\n＞不恰当的内容。\n　请再次输入。\n\n＞\n　是不恰当的内容。请再输入一次。"
+  },
+  {
+    "key": "FCL_NETWORK_INPUT_NUMBER_0",
+    "original": "＞数字は５文字までしか入力できません。\n　もう一度、入力してください。",
+    "translation": "＞只能输入5个数字。\n　请重新输入。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞数字只能输入五位数。\n　请重新输入。\n\n＞数字只能输入5个字符。\n　请再次输入。\n\n＞最多只能输入5个数字。请再输入一次。"
+  },
+  {
+    "key": "FCL_NETWORK_NAME_OPEN_0",
+    "original": "＞主人公の名前を公開しますか？",
+    "translation": "＞要公开主角的名字吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞要公开主角的名字吗？\n\n＞公开主人公的名字吗？"
+  },
+  {
+    "key": "FCL_NETWORK_NAME_OPEN_SE_0",
+    "original": "公開する",
+    "translation": "公开",
+    "stage": 0,
+    "context": "机翻辅助：\n\n公开"
+  },
+  {
+    "key": "FCL_NETWORK_NAME_OPEN_SE_1",
+    "original": "公開しない",
+    "translation": "不公开",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不公开"
+  },
+  {
+    "key": "FCL_NETWORK_EDIT_SAVE_0",
+    "original": "＞すれちがい手帳の内容が、\n　更新されています。",
+    "translation": "＞瞬缘笔记的内容\n　更新了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞瞬缘笔记的内容\n　更新了。\n\n＞瞬缘笔记内容，\n　更新了。"
+  },
+  {
+    "key": "FCL_NETWORK_EDIT_SAVE_1",
+    "original": "＞すれちがい通信に反映する為、\n　セーブを行いますか？",
+    "translation": "＞为了反映在瞬缘连接上，\n　要储存吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞为了反映在瞬缘连接上，\n　要储存吗？\n\n＞为了反映在瞬缘连接上，\n　进行保存吗？\n\n＞为了反映在瞬缘连接中，\n　是否进行保存？"
+  },
+  {
+    "key": "FCL_NETWORK_EDIT_CANCEL_0",
+    "original": "＞更新内容をすれちがい通信に\n　反映せずに、編集を終了します。\n　よろしいですか？",
+    "translation": "＞不将更新内容反映在瞬缘连接\n　的情况下结束编辑。\n　可以吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞不将更新内容反映在\n　瞬缘连接上，结束编辑。\n　可以吗？\n\n＞更新内容瞬缘连接\n　不反映，结束编辑。\n　可以吗？\n\n＞\n　不将更新内容反映在瞬缘连接中，结束编辑。\n　可以吗？"
+  },
+  {
+    "key": "FCL_NETWORK_NOT_EDIT_PER_0",
+    "original": "そのペルソナはキミたちだけのだよ。\n“ここではない世界”との交信には\n使えないみたい。",
+    "translation": "那个人格面具仅你们可用哦。\n似乎不能用于\n与“不是这里的世界”交流。",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n那个人格面具只有你们。\n和“不是这里的世界”的通信\n好像不能使用。\n\n那个人格面具是只属于你们的哦。\n　似乎不能用来和“不是这里的世界”交流。\n\n\n这种人格面具只属于你们。\n似乎不能用于与“不是这里的世界”交流。"
+  },
+  {
+    "key": "FCL_NETWORK_NOT_EDIT_PER_1",
+    "original": "別のペルソナを選び直してよ。",
+    "translation": "请重新选择其他的人格面具。",
+    "stage": 0,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n请重新选择其他的人格面具。\n\n你重新选一个人格面具啊。\n\n重新选择别的人格面具吧。"
+  },
+  {
+    "key": "FCL_NETWORK_NOT_EDIT_PER_2_0",
+    "original": "そのペルソナはキミたちだけのだよ。\n“ここではない世界”との交信には\n使えないみたい。",
+    "translation": "那个人格面具仅你们可用哦。\n似乎不能用于\n与“不是这里的世界”交流。",
+    "stage": 1,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n那个人格面具只有你们。\n和“不是这里的世界”的通信\n好像不能使用。\n\n那个人格面具是只属于你们的哦。\n　似乎不能用来和“不是这里的世界”交流。\n\n\n这种人格面具只属于你们。\n似乎不能用于与“不是这里的世界”交流。"
+  },
+  {
+    "key": "FCL_NETWORK_NOT_EDIT_PER_2_1",
+    "original": "別のペルソナを選び直してよ。",
+    "translation": "请重新选择其他的人格面具。",
+    "stage": 0,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n请重新选择其他的人格面具。\n\n你重新选一个人格面具啊。\n\n重新选择别的人格面具吧。"
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "玛丽",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "伊莉莎白",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

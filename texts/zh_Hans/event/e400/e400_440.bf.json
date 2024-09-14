@@ -1,0 +1,268 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お前は…ドー！？",
+    "translation": "你是……哆！",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n你是……哆！？\n\n你是……多！？\n\n你是……铎！？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やっぱお前の仕業だったのかよ。\n一体、何が目的だ！？",
+    "translation": "果然是你干的好事啊。\n你到底想干什么？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n果然是你干的好事啊。\n你到底有什么目的！？\n\n果然是你干的啊。\n到底是什么目的！？\n\n果然是你干的。\n到底，目的是什么！？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "……。",
+    "translation": "……",
+    "stage": 0,
+    "context": "说话人：ドー"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "………。",
+    "translation": "………",
+    "stage": 0,
+    "context": "说话人：ドー"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おい！　なんか言えよ！",
+    "translation": "喂！你说话啊！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n喂！说点什么啊！\n\n喂！说点什么吧！\n\n喂！说什么啊！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "今までとは勝手が違うようですね…",
+    "translation": "和之前的情况好像不太一样……",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n和之前的情况好像不太一样啊……\n\n好像和到现在为止的任性不同呢……\n\n和以前的情况好像不一样呢……"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ひ…かり…",
+    "translation": "光……光……",
+    "stage": 0,
+    "context": "说话人：ドー\n\n机翻辅助：\n\n光……光……\n\n胡子……借……\n\n一……"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "…っ！！",
+    "translation": "……！！",
+    "stage": 0,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n……！！\n\n……啊！！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ほ、本当に喋った…！",
+    "translation": "真、真的说话了……！",
+    "stage": 0,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n真、真的说话了……！\n\n呵呵，真的说了……！\n\n咳，真的说了话……！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あ…わ、私の…名前…",
+    "translation": "啊……那是我、我的……名字……",
+    "stage": 1,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n啊……我、我的……名字……\n\n啊……哇，我的……名字……"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "……。",
+    "translation": "……",
+    "stage": 0,
+    "context": "说话人：ドー"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "あっ、ちょっと待ってよ！\nまたどっか行く気！？",
+    "translation": "啊，等一下啊！\n你又想跑去哪里！",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n啊，等一下！\n你又要跑去哪里！？\n\n啊，等一下！\n还想再去哪里！？\n\n啊，等一下！\n又想去什么地方！？"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "慌てるな。反応を追跡中だ。\nドーはこの奥に向かってるっぽい。",
+    "translation": "别着急。我正在追踪它的反应。\n它好像往更深处去了。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n别慌。我正在追踪反应。\n哆好像往里面去了。\n\n不要慌张。正在追踪反应。\n多好像在往这里面走。\n\n别慌。正在追踪反应。道好像在往里面走。"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "…まるで、我々を奥へと誘うかのような\n素振りに見えたな。",
+    "translation": "……好像是在引导我们\n到深处去。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n……简直就像是在诱导我们\n往里面走。\n\n……简直就像是邀请我们到里面一样。\n\n\n……那架势简直就像要把我们引到里面去一样。"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "そうだな。誘導は罠という可能性も\n考えられるが、退くワケにもいかん。",
+    "translation": "确实。虽然也有可能是陷阱，\n但也不能退缩。",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n是啊。虽然\n也可以想成是陷阱，但也不能退缩。\n\n是啊。诱导也有可能是陷阱，但也不能后退。\n\n\n是啊。诱导也有可能是陷阱，但也不能轻易放弃。"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "どうする。\n追うか、ジョーカー？",
+    "translation": "怎么办。\n要追上去吗，JOKER？",
+    "stage": 0,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n怎么办。\n要追上去吗，JOKER？\n\n怎么办。\n追吗，JOKER？\n\n怎么办？\n追还是JOKER ？"
+  },
+  {
+    "key": "SEL_015_0",
+    "original": "当然だ",
+    "translation": "当然",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那当然\n\n当然了\n\n当然"
+  },
+  {
+    "key": "SEL_015_1",
+    "original": "このままじゃ終われない",
+    "translation": "不能就这样结束",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不能就这样结束\n\n这样下去是不会结束的\n\n这样下去不会结束的"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ああ、決着をつけてやろうぜ。",
+    "translation": "嗯，就去做个了断吧。",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n嗯，就来分出胜负吧。\n\n啊，我们来做个了断吧。\n\n啊，我来做个了结吧。"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "つーわけで、ドーの所まで\nよろしく頼むな！　ナビレディーズ！",
+    "translation": "麻烦带我们\n去哆那里，导航小姐们！",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n所以，就拜托你们\n把多带回去啦！导航淑女！\n\n所以，到do的地方\n请多关照！导航女士！\n\n分头去道那里\n拜托了！纳比女士！"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ナビレディーズ、て…",
+    "translation": "导航小姐……？",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n导航淑女……\n\n导航女士……\n\nNAVIladies，我……"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "花村先輩って、たまにちょっと\nセンス古いよね…たまにだけど。",
+    "translation": "花村学长偶尔\n会有些老气……虽然只是偶尔。",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n花村学长偶尔\n会用有点老派的用词呢……虽然只是偶尔。\n\n花村学长，偶尔有点\n感觉旧啊……只是偶尔。\n\n花村学长，偶尔有点旧……偶尔。"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "そのビミョーな気遣いが\n余計に傷つくからやめろ！",
+    "translation": "这种微妙的说法\n反而更伤人吧，别说了！",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n这种微妙的体贴\n反而会让人受伤，别这样啦！\n\n那种微妙的担心\n会更加受伤所以不要！\n\n那种微妙的顾虑会让你更加受伤，别这样！"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ええと…とにかく、ナビは任せてください。\n引き続き、ドーの反応を追跡しますね！",
+    "translation": "嗯……总之，导航就交给我吧。\n我会继续追踪哆的反应！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n那个……总之，导航就交给我们吧。\n我们继续追踪哆的反应！\n\n嗯……总之，导航就交给我吧。\n继续追踪道的反应呢！\n\n嗯……总之，导航就交给我吧。\n继续追踪do的反应！"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_ドー",
+    "original": "ドー",
+    "translation": "哆",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白钟 直斗",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "光",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鹤",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

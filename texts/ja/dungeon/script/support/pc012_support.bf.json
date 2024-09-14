@@ -1,0 +1,527 @@
+[
+  {
+    "key": "ARAGAKI_FOE_FOLLOW_START_0",
+    "original": "チッ、追いかけてきやがったか…",
+    "translation": "チッ、追いかけてきやがったか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅに気付かれたみてぇだな。",
+    "translation": "Ｆ．Ｏ．Ｅに気付かれたみてぇだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_FOE_FOLLOW_START_3_0",
+    "original": "気ィつけろ。\nＦ．Ｏ．Ｅが追ってきてやがる。",
+    "translation": "気ィつけろ。\nＦ．Ｏ．Ｅが追ってきてやがる。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅがすぐそばにいやがんな…",
+    "translation": "Ｆ．Ｏ．Ｅがすぐそばにいやがんな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_FOE_NEAR_2_0",
+    "original": "おーおー、Ｆ．Ｏ．Ｅのお出ましだぜ。",
+    "translation": "おーおー、Ｆ．Ｏ．Ｅのお出ましだぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅか…\n見つからねーよう注意しな。",
+    "translation": "Ｆ．Ｏ．Ｅか…\n見つからねーよう注意しな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_FOE_FOLLOW_END_1_0",
+    "original": "ようやく諦めてくれたみてーだな。",
+    "translation": "ようやく諦めてくれたみてーだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_FOE_FOLLOW_END_2_0",
+    "original": "あっちに行ったみてぇだな。",
+    "translation": "あっちに行ったみてぇだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_FOE_FOLLOW_END_3_0",
+    "original": "Ｆ．Ｏ．Ｅ、上手く撒いたな。",
+    "translation": "Ｆ．Ｏ．Ｅ、上手く撒いたな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_KANSI_REACTION_1_0",
+    "original": "チッ、動きづらそうだな。",
+    "translation": "チッ、動きづらそうだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_KANSI_REACTION_2_0",
+    "original": "気ィつけな、見つかると面倒だぜ。",
+    "translation": "気ィつけな、見つかると面倒だぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_KANSI_REACTION_3_0",
+    "original": "厄介な罠だな。",
+    "translation": "厄介な罠だな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_DENKISAKU_REACTI_0",
+    "original": "電気柵か…\n面倒くせーけど、遠回りすんぞ。",
+    "translation": "電気柵か…\n面倒くせーけど、遠回りすんぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_DENKISAKU_REACTI_2_0",
+    "original": "電気を切るスイッチを探そうぜ。",
+    "translation": "電気を切るスイッチを探そうぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_DENKISAKU_REACTI_3_0",
+    "original": "こりゃ、電気を止めるのが先決だな。",
+    "translation": "こりゃ、電気を止めるのが先決だな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_KYOUHU_REACTION__0",
+    "original": "どわっ！？",
+    "translation": "どわっ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_KYOUHU_REACTION__2_0",
+    "original": "マジかよ…っ！",
+    "translation": "マジかよ…っ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_KYOUHU_REACTION__3_0",
+    "original": "チッ…！",
+    "translation": "チッ…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_STAIR_FIND_1_0",
+    "original": "おい、階段があるぞ。",
+    "translation": "おい、階段があるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_STAIR_FIND_2_0",
+    "original": "先に進めそうだな、行くか？",
+    "translation": "先に進めそうだな、行くか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_STAIR_FIND_3_0",
+    "original": "まだ先があるのか。どうする？",
+    "translation": "まだ先があるのか。どうする？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_TREASURE_FIND_1_0",
+    "original": "宝箱があるぜ…開けるか？",
+    "translation": "宝箱があるぜ…開けるか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_TREASURE_FIND_2_0",
+    "original": "宝箱か…いいモン入ってるといいな。",
+    "translation": "宝箱か…いいモン入ってるといいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_TREASURE_FIND_3_0",
+    "original": "おい、そこに宝箱あんぞ。",
+    "translation": "おい、そこに宝箱あんぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_CHECK_WALL_1_0",
+    "original": "怪しい気配がすんな…解除するか？",
+    "translation": "怪しい気配がすんな…解除するか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_CHECK_WALL_2_0",
+    "original": "おい、ありゃなんだ？",
+    "translation": "おい、ありゃなんだ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_CHECK_WALL_3_0",
+    "original": "あそこ、何かあんな。",
+    "translation": "あそこ、何かあんな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_SWITCH_FIND_1_0",
+    "original": "スイッチか…押すか？",
+    "translation": "スイッチか…押すか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_SWITCH_FIND_2_0",
+    "original": "おい、あれ…スイッチじゃねえか？",
+    "translation": "おい、あれ…スイッチじゃねえか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_SWITCH_FIND_3_0",
+    "original": "スイッチか…どうする？",
+    "translation": "スイッチか…どうする？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_SHORTCUT_FIND_1_0",
+    "original": "そこ、通れるんじゃねえか？",
+    "translation": "そこ、通れるんじゃねえか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_SHORTCUT_FIND_2_0",
+    "original": "見ろ、近道にできそうだぞ。",
+    "translation": "見ろ、近道にできそうだぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_SHORTCUT_FIND_3_0",
+    "original": "そこ、ショートカットになんねえか？",
+    "translation": "そこ、ショートカットになんねえか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_FOE_WARNING_NEAR_0",
+    "original": "さっきの、\nまだ追ってきてるみてーだな。",
+    "translation": "さっきの、\nまだ追ってきてるみてーだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_FOE_WARNING_NEAR_2_0",
+    "original": "そう簡単に見逃しちゃくれねーか…",
+    "translation": "そう簡単に見逃しちゃくれねーか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_FOE_WARNING_NEAR_3_0",
+    "original": "まだ終わってねーみたいだな。",
+    "translation": "まだ終わってねーみたいだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HPTP10_1_0",
+    "original": "チッ、そろそろ限界だな…",
+    "translation": "チッ、そろそろ限界だな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HPTP10_2_0",
+    "original": "おい、そろそろ戻んねーか？",
+    "translation": "おい、そろそろ戻んねーか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HPTP10_3_0",
+    "original": "ぶっ倒れそうだぜ…",
+    "translation": "ぶっ倒れそうだぜ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HP10_1_0",
+    "original": "チッ、フラフラしやがる…",
+    "translation": "チッ、フラフラしやがる…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HP10_2_0",
+    "original": "悪い、回復頼む。",
+    "translation": "悪い、回復頼む。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HP10_3_0",
+    "original": "体力がやべーな…",
+    "translation": "体力がやべーな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_1PERSON_TP10_1_0",
+    "original": "気力がもたねぇ…",
+    "translation": "気力がもたねぇ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_1PERSON_TP10_2_0",
+    "original": "気力がそろそろやばそうだ。",
+    "translation": "気力がそろそろやばそうだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_1PERSON_TP10_3_0",
+    "original": "スタミナ切れか…チッ、情けねぇ。",
+    "translation": "スタミナ切れか…チッ、情けねぇ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HP80_1_0",
+    "original": "やるじゃねぇか。",
+    "translation": "やるじゃねぇか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HP80_2_0",
+    "original": "悪くない動きだったな。",
+    "translation": "悪くない動きだったな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HP80_3_0",
+    "original": "次もこうだといいな。",
+    "translation": "次もこうだといいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_DUNGEON_START_1_0",
+    "original": "さっさと終わらせようぜ。",
+    "translation": "さっさと終わらせようぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_DUNGEON_START_2_0",
+    "original": "よし、行くか。",
+    "translation": "よし、行くか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_DUNGEON_START_3_0",
+    "original": "気合い入れていけよ。",
+    "translation": "気合い入れていけよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_QUEST_START_1_0",
+    "original": "…とっとと片付けるぞ。",
+    "translation": "…とっとと片付けるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_QUEST_START_2_0",
+    "original": "気抜くんじゃねーぞ？",
+    "translation": "気抜くんじゃねーぞ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_QUEST_START_3_0",
+    "original": "んじゃ、始めるとするか。",
+    "translation": "んじゃ、始めるとするか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_TOUHA_25_1_0",
+    "original": "ここもずいぶん広そうだな。",
+    "translation": "ここもずいぶん広そうだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_TOUHA_25_2_0",
+    "original": "焦っても仕方ねぇ、\n落ち着いて行こうぜ。",
+    "translation": "焦っても仕方ねぇ、\n落ち着いて行こうぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_TOUHA_50_1_0",
+    "original": "半分か…先はまだ長そうだな。",
+    "translation": "半分か…先はまだ長そうだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_TOUHA_50_2_0",
+    "original": "そろそろゴールかと思ったんだがな。",
+    "translation": "そろそろゴールかと思ったんだがな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_TOUHA_75_1_0",
+    "original": "地図らしくなってきたじゃねーか。",
+    "translation": "地図らしくなってきたじゃねーか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_TOUHA_75_2_0",
+    "original": "ペース、悪くねぇんじゃねーか？",
+    "translation": "ペース、悪くねぇんじゃねーか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_TOUHA_100_1_0",
+    "original": "地図埋まったのか、お疲れさん。",
+    "translation": "地図埋まったのか、お疲れさん。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_TOUHA_100_2_0",
+    "original": "完成させるたあ、なかなかのもんだな。",
+    "translation": "完成させるたあ、なかなかのもんだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_MAPPING_ICON_ALL_0",
+    "original": "なかなかマメじゃねえか。",
+    "translation": "なかなかマメじゃねえか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_MAPPING_ICON_ALL_2_0",
+    "original": "ああ、その辺りにあったな。",
+    "translation": "ああ、その辺りにあったな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_MAPPING_ICON_KAI_0",
+    "original": "あってると思うぜ。",
+    "translation": "あってると思うぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_MAPPING_ICON_KAI_2_0",
+    "original": "出入り口の情報は大事だからな。",
+    "translation": "出入り口の情報は大事だからな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_MAPPING_CHANGE_C_0",
+    "original": "色変えたのか…悪くねぇな。",
+    "translation": "色変えたのか…悪くねぇな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_MAPPING_CHANGE_C_2_0",
+    "original": "へぇ、なかなかイイんじゃねーか？",
+    "translation": "へぇ、なかなかイイんじゃねーか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_MAPPING_ICON_DEL_0",
+    "original": "アキなら、\n減量がどうたら言いそうだな…",
+    "translation": "アキなら、\n減量がどうたら言いそうだな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_MAPPING_ICON_DEL_2_0",
+    "original": "整理整頓は大事だからな。",
+    "translation": "整理整頓は大事だからな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_MAPPING_MEMO_1_0",
+    "original": "メモは大事だからな。",
+    "translation": "メモは大事だからな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_MAPPING_MEMO_2_0",
+    "original": "ほう…感心なこった。",
+    "translation": "ほう…感心なこった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_DOOR_OPEN_1_0",
+    "original": "早く行くぞ。",
+    "translation": "早く行くぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_DOOR_OPEN_2_0",
+    "original": "ほら、来い。",
+    "translation": "ほら、来い。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ARAGAKI_DOOR_OPEN_3_0",
+    "original": "気ぃつけろよ。",
+    "translation": "気ぃつけろよ。",
+    "stage": 1,
+    "context": ""
+  }
+]

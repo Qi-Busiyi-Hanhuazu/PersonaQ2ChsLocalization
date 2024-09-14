@@ -1,0 +1,317 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "今のところ、それらしき場所はなし…\n手がかりでもあればいいのだが。",
+    "translation": "今のところ、それらしき場所はなし…\n手がかりでもあればいいのだが。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ＶＩＰのみが入れるという話でしたし、\nあまり目立つ店構えじゃないのかも。",
+    "translation": "ＶＩＰのみが入れるという話でしたし、\nあまり目立つ店構えじゃないのかも。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ＶＩＰか…\nやっぱ坊さんなんすかね？",
+    "translation": "ＶＩＰか…\nやっぱ坊さんなんすかね？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "いつからクラブのスタンダードが\n坊主なんだよ。",
+    "translation": "いつからクラブのスタンダードが\n坊主なんだよ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "夜の盛り場っつったら、\nこうセクシーな感じのお姉さんだったり…",
+    "translation": "夜の盛り場っつったら、\nこうセクシーな感じのお姉さんだったり…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "新聞記者がいる",
+    "translation": "新聞記者がいる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "性別不明な人がいる",
+    "translation": "性別不明な人がいる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_2",
+    "original": "化け物がいる",
+    "translation": "化け物がいる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "へえ…情報屋の協力者か？\n抜け目のないやつだ。",
+    "translation": "へえ…情報屋の協力者か？\n抜け目のないやつだ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ああ、エスカルゴ・ララだな。\nたしかにアレは性別を超越してる…",
+    "translation": "ああ、エスカルゴ・ララだな。\nたしかにアレは性別を超越してる…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "エスカルゴ？　外人なのか？",
+    "translation": "エスカルゴ？　外人なのか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "性別以外にも色々と超越してんな…",
+    "translation": "性別以外にも色々と超越してんな…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "そ、その話は、やめろ…\n思い出しただけで寒気が…",
+    "translation": "そ、その話は、やめろ…\n思い出しただけで寒気が…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "なんか分かんねえけど、都会には\n魔物がいるって話、マジだったんスね…",
+    "translation": "なんか分かんねえけど、都会には\n魔物がいるって話、マジだったんスね…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ああ。そっとしておこう…",
+    "translation": "ああ。そっとしておこう…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "[P5姓]さんも\n顔が広いんですね。",
+    "translation": "[P5姓]さんも\n顔が広いんですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "協力者とコネを作るのも\n怪盗団のリーダーの務めだからな。",
+    "translation": "協力者とコネを作るのも\n怪盗団のリーダーの務めだからな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "コイツの繋がりのおかげで\n武器も戦略もだいぶ増えたんだよ。",
+    "translation": "コイツの繋がりのおかげで\n武器も戦略もだいぶ増えたんだよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "目的があるとは言え自分から\n夜の街に飛び込んで行くなんて…",
+    "translation": "目的があるとは言え自分から\n夜の街に飛び込んで行くなんて…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "すごい度胸と行動力ですね。",
+    "translation": "すごい度胸と行動力ですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_016_0",
+    "original": "最初は怖い",
+    "translation": "最初は怖い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_016_1",
+    "original": "ワクワクする",
+    "translation": "ワクワクする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_016_2",
+    "original": "何とかなる",
+    "translation": "何とかなる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ミリタリーショップの店主とか\n俺いまだに苦手だわ…",
+    "translation": "ミリタリーショップの店主とか\n俺いまだに苦手だわ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "たしかに最初は話しかけんのに\n度胸のいるヤツもいたよな。",
+    "translation": "たしかに最初は話しかけんのに\n度胸のいるヤツもいたよな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "けど、もう今じゃすっかり\n顔なじみじゃねえか。",
+    "translation": "けど、もう今じゃすっかり\n顔なじみじゃねえか。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "はじめは怖そうでも付き合ってみると、\n意外な一面があったりするよね。",
+    "translation": "はじめは怖そうでも付き合ってみると、\n意外な一面があったりするよね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだね。自分の知らない世界に\n触れるのは、とっても刺激的だ。",
+    "translation": "そうだね。自分の知らない世界に\n触れるのは、とっても刺激的だ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "うん、意外と何とかなるよ。\n当たって砕けろって言うのかな？",
+    "translation": "うん、意外と何とかなるよ。\n当たって砕けろって言うのかな？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ほんと物怖じしねえヤツらだな。",
+    "translation": "ほんと物怖じしねえヤツらだな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "コロマル？\nこの先に何かあるの？",
+    "translation": "コロマル？\nこの先に何かあるの？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "おお、オトナの香り嗅ぎつけちゃった？\nとにかく、前進あるのみだぜ！",
+    "translation": "おお、オトナの香り嗅ぎつけちゃった？\nとにかく、前進あるのみだぜ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  }
+]

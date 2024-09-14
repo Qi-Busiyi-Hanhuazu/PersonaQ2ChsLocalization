@@ -1,0 +1,562 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "この音は…また指導者の放送か？",
+    "translation": "この音は…また指導者の放送か？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ったく、今度はなんだ？",
+    "translation": "ったく、今度はなんだ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "エラーが発生した個体…\nＵＩＹ－２２４９が逃走中である。",
+    "translation": "エラーが発生した個体…\nＵＩＹ－２２４９が逃走中である。",
+    "stage": 1,
+    "context": "ロボットたちの指導者"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "見つけ次第、ショブンせよ。\n私のショーブンに合わない。",
+    "translation": "見つけ次第、ショブンせよ。\n私のショーブンに合わない。",
+    "stage": 1,
+    "context": "ロボットたちの指導者"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ちょいちょい、くだんねー\nダジャレ挟んでくんな。",
+    "translation": "ちょいちょい、くだんねー\nダジャレ挟んでくんな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ワタシたちハ、笑ウように\nプログラムされてマス。",
+    "translation": "ワタシたちハ、笑ウように\nプログラムされてマス。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ンだそりゃ。つーか、お前は笑ったり\n俺らをショブンしたりしなくていいのか？",
+    "translation": "ンだそりゃ。つーか、お前は笑ったり\n俺らをショブンしたりしなくていいのか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ワタシの回路ガ、命令を遮断シマシタ。",
+    "translation": "ワタシの回路ガ、命令を遮断シマシタ。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "ソモソモ、ワタシには戦闘機能がないのデ、\n攻撃ハ出来まセン。",
+    "translation": "ソモソモ、ワタシには戦闘機能がないのデ、\n攻撃ハ出来まセン。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ところで、ＵＩなんとか…って\n言ってましたけど、何のことですか？",
+    "translation": "ところで、ＵＩなんとか…って\n言ってましたけど、何のことですか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ＵＩＹ－２２４９。\nワタシの『個体識別番号』デス。",
+    "translation": "ＵＩＹ－２２４９。\nワタシの『個体識別番号』デス。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "俺たちが付けられたのと同じか。\nＴＫだとか、ＹＳだとか…",
+    "translation": "俺たちが付けられたのと同じか。\nＴＫだとか、ＹＳだとか…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "型番と管理番号のクミアワセにより、\nシステムが個体を管理シマス。",
+    "translation": "型番と管理番号のクミアワセにより、\nシステムが個体を管理シマス。",
+    "stage": 1,
+    "context": "ＵＩＹ－２２４９"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "同じ個体識別番号は、存在しまセン。",
+    "translation": "同じ個体識別番号は、存在しまセン。",
+    "stage": 1,
+    "context": "ＵＩＹ－２２４９"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "番号で管理…か。\n無個性の強調でしょうか。",
+    "translation": "番号で管理…か。\n無個性の強調でしょうか。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "じゃあ、そのＵＩＹなんとかって\n以外の呼び方っていうか、名前はないの？",
+    "translation": "じゃあ、そのＵＩＹなんとかって\n以外の呼び方っていうか、名前はないの？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ないデス。",
+    "translation": "ないデス。",
+    "stage": 1,
+    "context": "ＵＩＹ－２２４９"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ねえ、名前付けたらどうかな？\n個体識別番号なんて味気ないし。",
+    "translation": "ねえ、名前付けたらどうかな？\n個体識別番号なんて味気ないし。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "賛成！\n何かいい名前ないかな、ジョーカー？",
+    "translation": "賛成！\n何かいい名前ないかな、ジョーカー？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "SEL_016_0",
+    "original": "ロボ子",
+    "translation": "ロボ子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_016_1",
+    "original": "アイギスＪｒ．",
+    "translation": "アイギスＪｒ．",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_016_2",
+    "original": "べっきぃ",
+    "translation": "べっきぃ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ま、分かりやすいっちゃ\n分かりやすいっスけどね…",
+    "translation": "ま、分かりやすいっちゃ\n分かりやすいっスけどね…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "他には、ロボ美、ロボ江、ロボ代…\nロボマル？",
+    "translation": "他には、ロボ美、ロボ江、ロボ代…\nロボマル？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ロボットからは離れた方がよくない？\n人の名前に、ニンゲンってつけないでしょ？",
+    "translation": "ロボットからは離れた方がよくない？\n人の名前に、ニンゲンってつけないでしょ？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "それじゃあ、オイチとかコマツヒメ、\nネネなんてどう？",
+    "translation": "それじゃあ、オイチとかコマツヒメ、\nネネなんてどう？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "さすがに脈略なさすぎってか、\nシュミに走りすぎてねぇか？",
+    "translation": "さすがに脈略なさすぎってか、\nシュミに走りすぎてねぇか？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "もっと強そうな名前の方がよくね？\nアイギスＺとか。",
+    "translation": "もっと強そうな名前の方がよくね？\nアイギスＺとか。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "んー…まだ弱いか？",
+    "translation": "んー…まだ弱いか？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "じゃあ、グレートアイギストリプルゼータ\nなんてどうでしょう？",
+    "translation": "じゃあ、グレートアイギストリプルゼータ\nなんてどうでしょう？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "お、イイね！\nすげー必殺技持ってそう。",
+    "translation": "お、イイね！\nすげー必殺技持ってそう。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "よくないっての。それにこの子、\nどっちかというと女の子っぽくない？",
+    "translation": "よくないっての。それにこの子、\nどっちかというと女の子っぽくない？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "オマエ、それは…！",
+    "translation": "オマエ、それは…！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "べっきぃ？\nなにか由来でもあるのか？",
+    "translation": "べっきぃ？\nなにか由来でもあるのか？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ナ、ナシ！　ナシだ！\nこの名前はやめとこうぜ！",
+    "translation": "ナ、ナシ！　ナシだ！\nこの名前はやめとこうぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "もっとカワイイのにしようよ。\nあ、プリンちゃんとかどう？",
+    "translation": "もっとカワイイのにしようよ。\nあ、プリンちゃんとかどう？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "だったら杏仁豆腐のほうがいい。\n白いしな。",
+    "translation": "だったら杏仁豆腐のほうがいい。\n白いしな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "なんつーか、もっとこう…\n複雑すぎなくて、ズバッとしたのねえか！？",
+    "translation": "なんつーか、もっとこう…\n複雑すぎなくて、ズバッとしたのねえか！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "…リボン。\nリボンって、どうだ？",
+    "translation": "…リボン。\nリボンって、どうだ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_033_0",
+    "original": "いいと思う",
+    "translation": "いいと思う",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_033_1",
+    "original": "分かりやすい",
+    "translation": "分かりやすい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_033_2",
+    "original": "本人に訊こう",
+    "translation": "本人に訊こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ほんとに？",
+    "translation": "ほんとに？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "リボンちゃんか、いいね！\nあなた自身はどう思う？",
+    "translation": "リボンちゃんか、いいね！\nあなた自身はどう思う？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "いいわね。\n覚えやすいし、悪くないと思う。",
+    "translation": "いいわね。\n覚えやすいし、悪くないと思う。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_036_1",
+    "original": "ただ、肝心なのは\n本人が気に入るかだけど…どうかな？",
+    "translation": "ただ、肝心なのは\n本人が気に入るかだけど…どうかな？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "そうだね。\nあなた自身はこの名前、どう？",
+    "translation": "そうだね。\nあなた自身はこの名前、どう？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "リボン…問題アリマセン。\n気に入りマシタ。",
+    "translation": "リボン…問題アリマセン。\n気に入りマシタ。",
+    "stage": 1,
+    "context": "ＵＩＹ－２２４９"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "や、やった！\n気に入ってくれたか！？",
+    "translation": "や、やった！\n気に入ってくれたか！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "本人が気に入ったなら、決まりだな。\n今からお前は『リボン』だ。",
+    "translation": "本人が気に入ったなら、決まりだな。\n今からお前は『リボン』だ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "ワタシは…リボン？",
+    "translation": "ワタシは…リボン？",
+    "stage": 1,
+    "context": "ＵＩＹ－２２４９"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "そうだぞ、リボン！\n番号よりずっといいだろ？",
+    "translation": "そうだぞ、リボン！\n番号よりずっといいだろ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "ハイ。\nアリガトウゴザイマス。",
+    "translation": "ハイ。\nアリガトウゴザイマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "処分なんて、絶対させないからな！\nわたし達についてこい、リボン！",
+    "translation": "処分なんて、絶対させないからな！\nわたし達についてこい、リボン！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "処分を免れるためには、あの指導者とやらを\n何とかしないとダメそうだね。",
+    "translation": "処分を免れるためには、あの指導者とやらを\n何とかしないとダメそうだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_045_1",
+    "original": "とにかく今は、研究所へ向かおうか。",
+    "translation": "とにかく今は、研究所へ向かおうか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "そうだね、急ごう！",
+    "translation": "そうだね、急ごう！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ロボットたちの指導者",
+    "original": "ロボットたちの指導者",
+    "translation": "ロボットたちの指導者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボンを付けたロボット",
+    "original": "リボンを付けたロボット",
+    "translation": "リボンを付けたロボット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ＵＩＹ－２２４９",
+    "original": "ＵＩＹ－２２４９",
+    "translation": "ＵＩＹ－２２４９",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

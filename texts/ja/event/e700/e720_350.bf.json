@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ちょっと待った！\nこの先に敵の気配だ！",
+    "translation": "ちょっと待った！\nこの先に敵の気配だ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "待ち伏せでしょうか。\n進めば戦闘になりそうですね。",
+    "translation": "待ち伏せでしょうか。\n進めば戦闘になりそうですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "準備はいいですか、ジョーカー？",
+    "translation": "準備はいいですか、ジョーカー？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "行こう",
+    "translation": "行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "ちょっと待って",
+    "translation": "ちょっと待って",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "わかったわ。\n蹴散らしてやりましょう！",
+    "translation": "わかったわ。\n蹴散らしてやりましょう！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うん、しっかり態勢を整えてから\n進みましょう。",
+    "translation": "うん、しっかり態勢を整えてから\n進みましょう。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

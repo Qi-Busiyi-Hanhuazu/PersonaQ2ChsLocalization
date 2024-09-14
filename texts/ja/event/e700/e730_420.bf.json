@@ -1,0 +1,219 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "す、すみません…！\n次に進む道が見つからないんです。",
+    "translation": "す、すみません…！\n次に進む道が見つからないんです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "あ、道自体はあるんですけど。\nでも、どこも鍵がかかってて進めなくて…",
+    "translation": "あ、道自体はあるんですけど。\nでも、どこも鍵がかかってて進めなくて…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "では、壁をぶち抜きますか？",
+    "translation": "では、壁をぶち抜きますか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "頼む",
+    "translation": "頼む",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "やめろ",
+    "translation": "やめろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "へ！？\nぶち抜くって…ス、ストーップ！",
+    "translation": "へ！？\nぶち抜くって…ス、ストーップ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "ダメ！　ダメダメ、ぜーったいダメだって！\n爆発とかしたら、ヤバイじゃん！？",
+    "translation": "ダメ！　ダメダメ、ぜーったいダメだって！\n爆発とかしたら、ヤバイじゃん！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "そうだよ！\n爆発とかしたら、ヤバイじゃん！？",
+    "translation": "そうだよ！\n爆発とかしたら、ヤバイじゃん！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ハイ、壁の中には電子回路などが\n張り巡らサレテイルので危険デス。",
+    "translation": "ハイ、壁の中には電子回路などが\n張り巡らサレテイルので危険デス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "…アイギス、冗談はそこまでにしておこう。\nみんな本気にしちゃってるから。",
+    "translation": "…アイギス、冗談はそこまでにしておこう。\nみんな本気にしちゃってるから。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "はい、どうやらそのようですね。\n反省…であります。",
+    "translation": "はい、どうやらそのようですね。\n反省…であります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "お、おお…冗談も言えるのか！？\nさすがのハイスペックだな。スゲー…",
+    "translation": "お、おお…冗談も言えるのか！？\nさすがのハイスペックだな。スゲー…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "正直、めちゃくちゃ肝が冷えたが。",
+    "translation": "正直、めちゃくちゃ肝が冷えたが。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "冗談…？　ロボットが…冗談……",
+    "translation": "冗談…？　ロボットが…冗談……",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_009_5_0",
+    "original": "アノ、アイギスさんは普通のロボットとは\nあまりニモ違イマス。ドウシテデスカ…？",
+    "translation": "アノ、アイギスさんは普通のロボットとは\nあまりニモ違イマス。ドウシテデスカ…？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_009_5_1",
+    "original": "ヤハリ、ワタシと違ってこの世界デ\n作られたモノではナイからデショウカ。",
+    "translation": "ヤハリ、ワタシと違ってこの世界デ\n作られたモノではナイからデショウカ。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "普通の基準はよくわかりませんが…\nわたしはどこにいても、わたしであります。",
+    "translation": "普通の基準はよくわかりませんが…\nわたしはどこにいても、わたしであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "そして、それはリボンさんも同じでは？",
+    "translation": "そして、それはリボンさんも同じでは？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ワタシも、デスカ…？",
+    "translation": "ワタシも、デスカ…？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "はい。リボンさんは、芽生えた感情を\n知りたくて我々についてきたと聞きました。",
+    "translation": "はい。リボンさんは、芽生えた感情を\n知りたくて我々についてきたと聞きました。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "その気持ちは、あなたから生まれた…\nあなただけのものであります。",
+    "translation": "その気持ちは、あなたから生まれた…\nあなただけのものであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ワタシだけの…",
+    "translation": "ワタシだけの…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "さて、話はそこまでにして\nそろそろ探索を再開しようじゃないか。",
+    "translation": "さて、話はそこまでにして\nそろそろ探索を再開しようじゃないか。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_014_5_0",
+    "original": "進める道がないとはいえ、必ずどこかに\n抜け道があるはずだ。探してみよう。",
+    "translation": "進める道がないとはいえ、必ずどこかに\n抜け道があるはずだ。探してみよう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

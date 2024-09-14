@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ワンワンッ！",
+    "translation": "ワンワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "捜していたパーツが\nこのすぐ近くにあるそうです。",
+    "translation": "捜していたパーツが\nこのすぐ近くにあるそうです。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "この部屋ですね。捜してみましょう！",
+    "translation": "この部屋ですね。捜してみましょう！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  }
+]

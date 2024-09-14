@@ -1,0 +1,44 @@
+[
+  {
+    "key": "DG_MSG_QUEST_FIND_0",
+    "original": "＞クエストを発見しました！！",
+    "translation": "＞クエストを発見しました！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "DG_MSG_QUEST_FIND_QUESTI_0",
+    "original": "＞クエスト中なのでクエストを\n　発見できませんでした！！",
+    "translation": "＞クエスト中なのでクエストを\n　発見できませんでした！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "DG_MSG_LOCK_DOOR_NO_OPEN_0",
+    "original": "＞鍵が掛かっていて開きません",
+    "translation": "＞鍵が掛かっていて開きません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "DG_MSG_SEL_QUEST_CLEAR_0",
+    "original": "拠点に戻る",
+    "translation": "拠点に戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "DG_MSG_SEL_QUEST_CLEAR_1",
+    "original": "フリー探索をする",
+    "translation": "フリー探索をする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "DG_MSG_QST_PROGRESS_ENEM_0",
+    "original": "[占位A 01]を[占位A 02]体倒しました。",
+    "translation": "[占位A 01]を[占位A 02]体倒しました。",
+    "stage": 1,
+    "context": ""
+  }
+]

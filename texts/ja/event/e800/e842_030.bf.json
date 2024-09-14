@@ -1,0 +1,156 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "見て、あれ！",
+    "translation": "見て、あれ！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ちょ、いくらなんでも大きすぎない！？",
+    "translation": "ちょ、いくらなんでも大きすぎない！？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "見事だ。威厳すら感じるな。",
+    "translation": "見事だ。威厳すら感じるな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "捕まえよう",
+    "translation": "捕まえよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "スカル、頼んだ",
+    "translation": "スカル、頼んだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これだけの大物なら、\nザベっさんも納得間違い無しだぞ。",
+    "translation": "これだけの大物なら、\nザベっさんも納得間違い無しだぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "んじゃさっそく捕まえ…",
+    "translation": "んじゃさっそく捕まえ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "お、俺かよ！？\nさすがにコイツはちょっと…",
+    "translation": "お、俺かよ！？\nさすがにコイツはちょっと…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "おお、スカルが珍しくビビってる？",
+    "translation": "おお、スカルが珍しくビビってる？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "んなコトねーよ！\nただまだココロの準備が…",
+    "translation": "んなコトねーよ！\nただまだココロの準備が…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あっ！？",
+    "translation": "あっ！？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "蝶は空高く飛んでいってしまった…",
+    "translation": "蝶は空高く飛んでいってしまった…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "行っちゃった…\nてか、すごい大きかったね。",
+    "translation": "行っちゃった…\nてか、すごい大きかったね。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "天井の穴から上に飛んで行ったよ。\nどうしよう、追いかける？",
+    "translation": "天井の穴から上に飛んで行ったよ。\nどうしよう、追いかける？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "あれだけの大物は、\nそうお目にかかれないだろうな。",
+    "translation": "あれだけの大物は、\nそうお目にかかれないだろうな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "狙いはアイツだ。\nそこのスイッチ使って、追いかけるぞ！",
+    "translation": "狙いはアイツだ。\nそこのスイッチ使って、追いかけるぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

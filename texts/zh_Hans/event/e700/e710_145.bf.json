@@ -1,0 +1,16 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "シャドウだ！\n来るぞジョーカー！",
+    "translation": "是暗影！\n往这边来了，JOKER！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n是暗影！\n要来了，JOKER！\n\n暗影！\n来了JOKER！\n\n是暗影！\n来了JOKER ！"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

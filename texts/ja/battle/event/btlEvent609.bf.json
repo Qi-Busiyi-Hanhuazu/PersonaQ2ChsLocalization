@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "や、やべぇ…\nどうしよう、逃げ遅れた…",
+    "translation": "や、やべぇ…\nどうしよう、逃げ遅れた…",
+    "stage": 1,
+    "context": "ヘッドフォンをした恐竜"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ここは任せて、じっとしていろ！",
+    "translation": "ここは任せて、じっとしていろ！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "な、なんだ？　お前ら！？",
+    "translation": "な、なんだ？　お前ら！？",
+    "stage": 1,
+    "context": "ヘッドフォンをした恐竜"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "説明している時間はありません。\n下がっていてください！",
+    "translation": "説明している時間はありません。\n下がっていてください！",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "今はただ、目の前の敵を倒すのみ。\n行くぞ！",
+    "translation": "今はただ、目の前の敵を倒すのみ。\n行くぞ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_ヘッドフォンをした恐竜",
+    "original": "ヘッドフォンをした恐竜",
+    "translation": "ヘッドフォンをした恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

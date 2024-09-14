@@ -1,0 +1,107 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふー、エサになるのは免れたか。\nこれでひと安心だな。",
+    "translation": "ふー、エサになるのは免れたか。\nこれでひと安心だな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "お疲れさま。\nこれで僕はお役御免かな。",
+    "translation": "お疲れさま。\nこれで僕はお役御免かな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ワン、ワン！",
+    "translation": "ワン、ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "クロウさん、大丈夫だったかって。",
+    "translation": "クロウさん、大丈夫だったかって。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "はは、心配してくれたのかい。\n君は本当に賢いね。",
+    "translation": "はは、心配してくれたのかい。\n君は本当に賢いね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "どうかした？",
+    "translation": "どうかした？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "大丈夫か？",
+    "translation": "大丈夫か？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ああいえ、何でもありません。",
+    "translation": "ああいえ、何でもありません。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "クロウさんもすごかったし、\nコロマルも頑張ったなって思って。",
+    "translation": "クロウさんもすごかったし、\nコロマルも頑張ったなって思って。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "さあ、あとは報告だね。\nそろそろ戻ろうか。",
+    "translation": "さあ、あとは報告だね。\nそろそろ戻ろうか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  }
+]

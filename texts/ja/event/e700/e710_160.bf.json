@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ほい、お疲れさん。",
+    "translation": "ほい、お疲れさん。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "このエリアも半分以上進んでるぞ。\nそろそろ例の階段も近いからな。",
+    "translation": "このエリアも半分以上進んでるぞ。\nそろそろ例の階段も近いからな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "気合い入れて行けよー？",
+    "translation": "気合い入れて行けよー？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん、任せて！",
+    "translation": "うん、任せて！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_5_0",
+    "original": "待っててね…、クイーン、ノワール。",
+    "translation": "待っててね…、クイーン、ノワール。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

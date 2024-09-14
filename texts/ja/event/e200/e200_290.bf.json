@@ -1,0 +1,226 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "うっし！\nまんまと恐竜がこっち来たぜ！",
+    "translation": "うっし！\nまんまと恐竜がこっち来たぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "その辺に起動スイッチがあるはずだ！\n柵に電気を流せ！",
+    "translation": "その辺に起動スイッチがあるはずだ！\n柵に電気を流せ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おっしゃ、これだな！",
+    "translation": "おっしゃ、これだな！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あン！？\n反応しないっスよ！？",
+    "translation": "あン！？\n反応しないっスよ！？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "私がやってみる！",
+    "translation": "私がやってみる！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あれっ、どうして？\n壊れてるの！？",
+    "translation": "あれっ、どうして？\n壊れてるの！？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ランプが消えてる…\nどうやら電源が落ちてるみたいだね。",
+    "translation": "ランプが消えてる…\nどうやら電源が落ちてるみたいだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "だから柵が開けっぱなしだったわけだ。",
+    "translation": "だから柵が開けっぱなしだったわけだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "マズくない？\nどうやったら点くの！？",
+    "translation": "マズくない？\nどうやったら点くの！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "どこかに予備電源がないでしょうか？",
+    "translation": "どこかに予備電源がないでしょうか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "予備電源だな！？\n探せ、探せ！！",
+    "translation": "予備電源だな！？\n探せ、探せ！！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ＧＲＲＲＲＯＯＯＯＡＮ！",
+    "translation": "ＧＲＲＲＲＯＯＯＯＡＮ！",
+    "stage": 1,
+    "context": "派手な肉食恐竜"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "マズイぞ！\nヤツが柵を抜けそうだ！",
+    "translation": "マズイぞ！\nヤツが柵を抜けそうだ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "…なら、俺が足止めしよう。",
+    "translation": "…なら、俺が足止めしよう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "センセイ！？　む、無茶クマ！？",
+    "translation": "センセイ！？　む、無茶クマ！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "SEL_014_0",
+    "original": "俺も行く",
+    "translation": "俺も行く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_1",
+    "original": "待て！",
+    "translation": "待て！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ダメ、聞こえてない！\nもう目の前まで行っちゃってる！",
+    "translation": "ダメ、聞こえてない！\nもう目の前まで行っちゃってる！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "[P4姓]を\n放ってはおけない…！",
+    "translation": "[P4姓]を\n放ってはおけない…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ちょっ、ジョーカーまで！？",
+    "translation": "ちょっ、ジョーカーまで！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_派手な肉食恐竜",
+    "original": "派手な肉食恐竜",
+    "translation": "派手な肉食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  }
+]

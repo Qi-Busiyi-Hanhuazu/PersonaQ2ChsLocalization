@@ -1,0 +1,429 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "今回の特別上映は、\nドキドキワクワクのアドベンチャー…",
+    "translation": "今回の特別上映は、\nドキドキワクワクのアドベンチャー…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "ジャングルの秘宝を探す、\nトレジャーハントでございます！",
+    "translation": "ジャングルの秘宝を探す、\nトレジャーハントでございます！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "いつもやってる",
+    "translation": "いつもやってる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "得意分野だ",
+    "translation": "得意分野だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_2",
+    "original": "秘宝って？",
+    "translation": "秘宝って？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああ。オタカラ探しは\n怪盗団の専売特許だ。",
+    "translation": "ああ。オタカラ探しは\n怪盗団の専売特許だ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "で、そのオタカラってのは一体？",
+    "translation": "で、そのオタカラってのは一体？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "何でも、ある研究者が恋人に\n贈ろうとしていた秘蔵の品だとか…",
+    "translation": "何でも、ある研究者が恋人に\n贈ろうとしていた秘蔵の品だとか…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "研究が終わった暁に渡そうと、\nある場所に隠していたそうです。",
+    "translation": "研究が終わった暁に渡そうと、\nある場所に隠していたそうです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "じゃあ、その研究者って…",
+    "translation": "じゃあ、その研究者って…",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "こちらが隠し場所の地図になります。\nおや、裏面に何やら走り書きが…",
+    "translation": "こちらが隠し場所の地図になります。\nおや、裏面に何やら走り書きが…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "『俺、この仕事が終わったら\nプロポーズするんだ』",
+    "translation": "『俺、この仕事が終わったら\nプロポーズするんだ』",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "『美と神秘の結晶、\n彼女も気にいってくれるはず』と…",
+    "translation": "『美と神秘の結晶、\n彼女も気にいってくれるはず』と…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "フラグだったか…",
+    "translation": "フラグだったか…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "でも、恋人への贈りものとか…\nちょっと気になるかも。",
+    "translation": "でも、恋人への贈りものとか…\nちょっと気になるかも。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "美と神秘の結晶って言ってるし、\nひょっとして宝石とか？",
+    "translation": "美と神秘の結晶って言ってるし、\nひょっとして宝石とか？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "何それ、めっちゃロマンチック！",
+    "translation": "何それ、めっちゃロマンチック！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "女子陣、テンション爆上げだな…",
+    "translation": "女子陣、テンション爆上げだな…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "これこれ！　これクマ！！",
+    "translation": "これこれ！　これクマ！！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ぬわっ！？　急にどうした！？",
+    "translation": "ぬわっ！？　急にどうした！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "女子の喜ぶ秘宝を一番に見つけた者が\nナンバーワンマスコットクマ！",
+    "translation": "女子の喜ぶ秘宝を一番に見つけた者が\nナンバーワンマスコットクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "SEL_014_0",
+    "original": "ナンバーワンマスコット？",
+    "translation": "ナンバーワンマスコット？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_1",
+    "original": "なんでそうなる？",
+    "translation": "なんでそうなる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "マスコットの役目は女の子たちを\n癒し、笑顔にすること…",
+    "translation": "マスコットの役目は女の子たちを\n癒し、笑顔にすること…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "なら、秘宝でみんなを喜ばした者にこそ\nその称号は相応しいクマ！！",
+    "translation": "なら、秘宝でみんなを喜ばした者にこそ\nその称号は相応しいクマ！！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ワゥ…",
+    "translation": "ワゥ…",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "言っている意味が良く分からない、\nとコロマルさんはおっしゃっています。",
+    "translation": "言っている意味が良く分からない、\nとコロマルさんはおっしゃっています。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "まったくだ。\n誰がそんなくだらない対決に…",
+    "translation": "まったくだ。\n誰がそんなくだらない対決に…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ほほう…なら不戦勝でナンバーワンの称号は\nこのクマが頂いていいってことクマね？",
+    "translation": "ほほう…なら不戦勝でナンバーワンの称号は\nこのクマが頂いていいってことクマね？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "つまり、アンチャンにナデナデしてもらう\n権利もクマのモノに…",
+    "translation": "つまり、アンチャンにナデナデしてもらう\n権利もクマのモノに…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "だぁああ！　だから何でそうなる！",
+    "translation": "だぁああ！　だから何でそうなる！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "嫌なら力ずくで奪ってみんしゃい！",
+    "translation": "嫌なら力ずくで奪ってみんしゃい！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "くっそ、こうなったらやってやる！\nただし勘違いすんなよ！",
+    "translation": "くっそ、こうなったらやってやる！\nただし勘違いすんなよ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "ワガハイは称号なんか関係ねえ！\nただ、アン殿の喜ぶ物を探したいだけだ！",
+    "translation": "ワガハイは称号なんか関係ねえ！\nただ、アン殿の喜ぶ物を探したいだけだ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "なんか勝手に盛り上がっちゃってるけど\nいいの？",
+    "translation": "なんか勝手に盛り上がっちゃってるけど\nいいの？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "SEL_024_0",
+    "original": "問題ない",
+    "translation": "問題ない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_1",
+    "original": "むしろ好都合",
+    "translation": "むしろ好都合",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_2",
+    "original": "勝つのはモルガナだ",
+    "translation": "勝つのはモルガナだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "どの道、秘宝を探すんだしな。\nやる気があるのはいいことだ。",
+    "translation": "どの道、秘宝を探すんだしな。\nやる気があるのはいいことだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "[P5名]…",
+    "translation": "[P5名]…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "ああ、ワガハイがこんなクマ公に\n負けるわけないだろ！",
+    "translation": "ああ、ワガハイがこんなクマ公に\n負けるわけないだろ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "コロちゃんはどうするの？",
+    "translation": "コロちゃんはどうするの？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ワン、ワンワン！",
+    "translation": "ワン、ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "勝負に興味はないが、\nお宝探しには勿論協力する…",
+    "translation": "勝負に興味はないが、\nお宝探しには勿論協力する…",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "と、言ってるであります。",
+    "translation": "と、言ってるであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "なら決まりクマ！　第１回！\nチキチキぷりちーマスコット決定戦！",
+    "translation": "なら決まりクマ！　第１回！\nチキチキぷりちーマスコット決定戦！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "男の中の男たちー！\n出てこいクマー！",
+    "translation": "男の中の男たちー！\n出てこいクマー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "オー！",
+    "translation": "オー！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

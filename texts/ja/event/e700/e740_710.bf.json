@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "待って！　…この先、ドーが待ってる。\n分からないけど…そんな感じがするの。",
+    "translation": "待って！　…この先、ドーが待ってる。\n分からないけど…そんな感じがするの。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ひかりの言うとおり、強い反応がある。\n多分、これだな。間違いない。",
+    "translation": "ひかりの言うとおり、強い反応がある。\n多分、これだな。間違いない。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "お願い、私と一緒に…",
+    "translation": "お願い、私と一緒に…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "私は、もう大丈夫。\n…一緒に来てくれる？",
+    "translation": "私は、もう大丈夫。\n…一緒に来てくれる？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "もちろんだ",
+    "translation": "もちろんだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "少し待ってくれ",
+    "translation": "少し待ってくれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うん、ありがとう…！",
+    "translation": "うん、ありがとう…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うん、分かった。\n準備ができたら、お願いしてもいいかな？",
+    "translation": "うん、分かった。\n準備ができたら、お願いしてもいいかな？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

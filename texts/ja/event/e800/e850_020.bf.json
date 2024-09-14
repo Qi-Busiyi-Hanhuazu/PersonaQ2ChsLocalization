@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "敵シャドウに接近！\nやはりかなり強い反応です！",
+    "translation": "敵シャドウに接近！\nやはりかなり強い反応です！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "よーし。",
+    "translation": "よーし。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "ジョーカー、力を貸して。\n私、ぜったいに負けないから。",
+    "translation": "ジョーカー、力を貸して。\n私、ぜったいに負けないから。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "大丈夫だ",
+    "translation": "大丈夫だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "後れをとるな",
+    "translation": "後れをとるな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うん、自信持っていくね。\nだって、みんながいるから。",
+    "translation": "うん、自信持っていくね。\nだって、みんながいるから。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "了解、本気でいくから！",
+    "translation": "了解、本気でいくから！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "敵シャドウ、来ます！\n[P3P名]ちゃん、頑張って！",
+    "translation": "敵シャドウ、来ます！\n[P3P名]ちゃん、頑張って！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

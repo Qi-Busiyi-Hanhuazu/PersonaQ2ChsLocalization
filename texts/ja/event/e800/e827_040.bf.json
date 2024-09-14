@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よし、あと１つだね。",
+    "translation": "よし、あと１つだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "夢のドーナツ食べ放題までもう少しだ！",
+    "translation": "夢のドーナツ食べ放題までもう少しだ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "採取ポイントは他にもあるはずだよ。\n引き続き探してみて！",
+    "translation": "採取ポイントは他にもあるはずだよ。\n引き続き探してみて！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  }
+]

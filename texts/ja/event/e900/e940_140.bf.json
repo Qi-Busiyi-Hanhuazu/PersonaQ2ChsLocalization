@@ -1,0 +1,121 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よーし、それじゃ張り切って\nヒーローベルトを探しに行こう！",
+    "translation": "よーし、それじゃ張り切って\nヒーローベルトを探しに行こう！",
+    "stage": 1,
+    "context": "佐倉 双葉（ナビ）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おお、ヤル気満々だな。",
+    "translation": "おお、ヤル気満々だな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あったぼーよ！\n今出さなくて、\nいつ本気出すっていうんだ！",
+    "translation": "あったぼーよ！\n今出さなくて、\nいつ本気出すっていうんだ！",
+    "stage": 1,
+    "context": "佐倉 双葉（ナビ）"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "さて、ヒーローベルトはっと…",
+    "translation": "さて、ヒーローベルトはっと…",
+    "stage": 1,
+    "context": "佐倉 双葉（ナビ）"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "ふんふん…なるほど…って、\nなんじゃこりゃー！？",
+    "translation": "ふんふん…なるほど…って、\nなんじゃこりゃー！？",
+    "stage": 1,
+    "context": "佐倉 双葉（ナビ）"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "どうした！？\n映画館で何か異常でも…！",
+    "translation": "どうした！？\n映画館で何か異常でも…！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ち、違うんだ！\n１番街にベルトがいっぱい\n集められてて…！",
+    "translation": "ち、違うんだ！\n１番街にベルトがいっぱい\n集められてて…！",
+    "stage": 1,
+    "context": "佐倉 双葉（ナビ）"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ベルトがいっぱい…って、\nどういうことだろう？",
+    "translation": "ベルトがいっぱい…って、\nどういうことだろう？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "よくわかんねーけど、\nそっちのほうに行ってみようぜ。",
+    "translation": "よくわかんねーけど、\nそっちのほうに行ってみようぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そうだね。\n実際、自分の目で確認したほうが\n確実そうだ。",
+    "translation": "そうだね。\n実際、自分の目で確認したほうが\n確実そうだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "下画面のマップに\n目的地アイコンが表示されました。\n　\n迷宮を探索し、目的地を目指しましょう。",
+    "translation": "下画面のマップに\n目的地アイコンが表示されました。\n　\n迷宮を探索し、目的地を目指しましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉（ナビ）",
+    "original": "佐倉 双葉（ナビ）",
+    "translation": "佐倉 双葉（ナビ）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

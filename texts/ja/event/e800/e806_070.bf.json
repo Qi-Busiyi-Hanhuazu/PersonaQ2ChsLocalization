@@ -1,0 +1,513 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おかえりなさいませ。\nして、アンモナイトの方は…",
+    "translation": "おかえりなさいませ。\nして、アンモナイトの方は…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "…見つけたは見つけた。",
+    "translation": "…見つけたは見つけた。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ちょっと取り込み中みたいなんで\n少し待ってもらってもいいですか？",
+    "translation": "ちょっと取り込み中みたいなんで\n少し待ってもらってもいいですか？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "取り込み中？",
+    "translation": "取り込み中？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "俺は今、長い地球の歴史と一体化している！",
+    "translation": "俺は今、長い地球の歴史と一体化している！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "アンモナイトは俺であり、\n俺はアンモナイト！",
+    "translation": "アンモナイトは俺であり、\n俺はアンモナイト！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "わかる…わかる気がするよ喜多川くん！\nビバ…アンモナイト！",
+    "translation": "わかる…わかる気がするよ喜多川くん！\nビバ…アンモナイト！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "コトが済んだら、\nあらためてお声掛けくださいませ。",
+    "translation": "コトが済んだら、\nあらためてお声掛けくださいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "すみません…",
+    "translation": "すみません…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ユキチャンの人格が変わらないか\nクマ心配クマー…",
+    "translation": "ユキチャンの人格が変わらないか\nクマ心配クマー…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "でも、天城さんの『自分を解放した絵』？\n…ちょっと楽しみかな。",
+    "translation": "でも、天城さんの『自分を解放した絵』？\n…ちょっと楽しみかな。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ふう…中々いい絵が描けた。\n天城さんのほうは…？",
+    "translation": "ふう…中々いい絵が描けた。\n天城さんのほうは…？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "私も描けた！",
+    "translation": "私も描けた！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "こ、これは…！",
+    "translation": "こ、これは…！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_013_0",
+    "original": "爆発してる",
+    "translation": "爆発してる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_013_1",
+    "original": "アンモナイト？",
+    "translation": "アンモナイト？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_013_2",
+    "original": "名状しがたい何かだ",
+    "translation": "名状しがたい何かだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ああ、これぞイマジネーションの爆発。\n芸術のビッグバンだ。",
+    "translation": "ああ、これぞイマジネーションの爆発。\n芸術のビッグバンだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "もはやこれはアンモナイトの殻を\n突き抜けた何か…実に見事だ！",
+    "translation": "もはやこれはアンモナイトの殻を\n突き抜けた何か…実に見事だ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ああ、言葉に出来ないほどの\nイマジネーションを感じる…すごいぞ！",
+    "translation": "ああ、言葉に出来ないほどの\nイマジネーションを感じる…すごいぞ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "そんな…私は喜多川くんの\nアドバイス通りやっただけだから。",
+    "translation": "そんな…私は喜多川くんの\nアドバイス通りやっただけだから。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "自分を解放する…確かに、今まで\nやってこなかったことかもだけど…",
+    "translation": "自分を解放する…確かに、今まで\nやってこなかったことかもだけど…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_017_2",
+    "original": "でも、積極的にやることでこんなに\nスッキリするなんて…",
+    "translation": "でも、積極的にやることでこんなに\nスッキリするなんて…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "いや、これは紛れもなく君自身の力だ。",
+    "translation": "いや、これは紛れもなく君自身の力だ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "…礼を言わねばならんな。",
+    "translation": "…礼を言わねばならんな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "え？",
+    "translation": "え？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "作品を描く力は、\n技術や知識が全てではない…",
+    "translation": "作品を描く力は、\n技術や知識が全てではない…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "その力は、想いや経験から無限に生まれ、\n時に予期せぬ爆発を生む……",
+    "translation": "その力は、想いや経験から無限に生まれ、\n時に予期せぬ爆発を生む……",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_2",
+    "original": "君に教えるはずが、\n逆に教えられてしまったようだ。",
+    "translation": "君に教えるはずが、\n逆に教えられてしまったようだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ううん、喜多川くんの絵に比べたら\nまだまだだよ。",
+    "translation": "ううん、喜多川くんの絵に比べたら\nまだまだだよ。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "もしよかったらなんだけど、\nその絵、もらえないかな？",
+    "translation": "もしよかったらなんだけど、\nその絵、もらえないかな？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_021_2",
+    "original": "旅館に飾るなら、それぐらい\nダイナミックな方がいい気がするの。",
+    "translation": "旅館に飾るなら、それぐらい\nダイナミックな方がいい気がするの。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "そう言ってもらえると光栄だ。",
+    "translation": "そう言ってもらえると光栄だ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "もしよければ俺も、\n天城さんの絵をもらってもいいだろうか。",
+    "translation": "もしよければ俺も、\n天城さんの絵をもらってもいいだろうか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_022_2",
+    "original": "今日感じた刺激を、\nこれからも忘れないようにしたい。",
+    "translation": "今日感じた刺激を、\nこれからも忘れないようにしたい。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "うん、どうぞ！",
+    "translation": "うん、どうぞ！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "二人とも、絵描けたー？",
+    "translation": "二人とも、絵描けたー？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "描けたよ！　ほら！",
+    "translation": "描けたよ！　ほら！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "うおう…これはなかなか…",
+    "translation": "うおう…これはなかなか…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "なんというか…独創性に溢れてるわね。\nでも、これはこれで素敵だと思うわ。",
+    "translation": "なんというか…独創性に溢れてるわね。\nでも、これはこれで素敵だと思うわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "感性の共鳴…とでもいった感じかしら。",
+    "translation": "感性の共鳴…とでもいった感じかしら。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "力を合わせて、爆発力も二倍クマー！",
+    "translation": "力を合わせて、爆発力も二倍クマー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "……！",
+    "translation": "……！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "喜多川くん…！",
+    "translation": "喜多川くん…！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ああ…！\nこれは、戦いにおいても使えるかもしれん！",
+    "translation": "ああ…！\nこれは、戦いにおいても使えるかもしれん！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "あらら、またなんか通じ合ったみたい。",
+    "translation": "あらら、またなんか通じ合ったみたい。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "おイナリと波長が合うなんて、\nなかなかの逸材だよなー。",
+    "translation": "おイナリと波長が合うなんて、\nなかなかの逸材だよなー。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "みんな…今回は助かった。",
+    "translation": "みんな…今回は助かった。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_034_1",
+    "original": "この閃きで、怪盗団のさらなる力に\nなってみせよう。",
+    "translation": "この閃きで、怪盗団のさらなる力に\nなってみせよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_035_0",
+    "original": "期待してる",
+    "translation": "期待してる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_035_1",
+    "original": "頼もしいな",
+    "translation": "頼もしいな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "ああ、任せてくれ。",
+    "translation": "ああ、任せてくれ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "そうだ、私も喜多川くんに\nお礼をする約束だったね。",
+    "translation": "そうだ、私も喜多川くんに\nお礼をする約束だったね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "お礼？",
+    "translation": "お礼？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "うん。絵を教えてもらったお礼に、\n喜多川くんに料理を作ってあげようかと…",
+    "translation": "うん。絵を教えてもらったお礼に、\n喜多川くんに料理を作ってあげようかと…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "水臭いな。\nあたしも手伝うよ！",
+    "translation": "水臭いな。\nあたしも手伝うよ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "こ、この流れは…",
+    "translation": "こ、この流れは…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "ヤバいっス、このままじゃ死人が…",
+    "translation": "ヤバいっス、このままじゃ死人が…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "…どうせ作るなら、\n俺たちにも手伝わせてほしい。",
+    "translation": "…どうせ作るなら、\n俺たちにも手伝わせてほしい。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "そ、そうっス！　天城先輩が世話に\nなったんなら、俺たちもお返ししたいっス！",
+    "translation": "そ、そうっス！　天城先輩が世話に\nなったんなら、俺たちもお返ししたいっス！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "天城さん…君の仲間は\nやはり素晴らしい人たちだな。",
+    "translation": "天城さん…君の仲間は\nやはり素晴らしい人たちだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "うん！　みんなのためにも\nもっと頑張らないとね！",
+    "translation": "うん！　みんなのためにも\nもっと頑張らないとね！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎搜索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "この辺り、オタカラスポットか…\nどうする？",
+    "translation": "这附近就是藏宝点吗……你打算怎么办？",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n这附近是宝藏地点吗……\n怎么办？\n\n这附近是珍宝景点吗……\n怎么办？\n\n这一带是藏宝地吗……\n怎么办？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "分かった。\n気を抜かずにやるとしよう。",
+    "translation": "明白了。\n不要大意地去做吧。",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n知道了。\n不要松懈，继续上吧。\n\n我知道了。\n不要松懈。\n\n我知道了。不松懈地去做吧。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "敵が来た時は、任せておけ！",
+    "translation": "等敌人来了就交给我吧！",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n敌人来的时候，就交给我吧！\n\n敌人来的时候，交给我吧！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "止めておくんだな、分かった。",
+    "translation": "要就此打住是吧，我知道了。",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n要停在这边啊，知道了。\n\n我知道了，你要阻止他。\n\n我知道了，别这样。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで終わりみたいだぞ。",
+    "translation": "看来这就要结束了啊。",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n这样好像就结束了耶。\n\n好像到此结束了。\n\n好像到此为止了。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "悪くない。",
+    "translation": "还不错。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不错呢。\n\n还不错。\n\n不坏。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うむ。",
+    "translation": "嗯。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "なるほどな。",
+    "translation": "原来如此啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n原来如此。\n\n原来如此啊。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "フッ…こんなものか。\n俺はまだまだイケるぞ。",
+    "translation": "呼……就这种程度吗。\n我可还能继续啊。",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n呵……就这样吗？\n我还能继续上哦。\n\n原来是这样啊。\n我还蛮帅的。\n\n噗……原来是这样啊。我还能走呢。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "珍しいな。",
+    "translation": "很少见啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真稀奇呢。\n\n真少见啊。"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "貴重らしいぞ。",
+    "translation": "看着好像很珍贵啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像很贵重耶。\n\n很珍贵哦。\n\n好像很珍贵哦。"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "やったな。",
+    "translation": "干得漂亮。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n成功了。\n\n太好了。"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットか。\n通ってみるか？",
+    "translation": "这是捷径吗。\n要试着走走吗？",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n捷径吗？\n要走走看吗？\n\n快捷方式吗。\n去看看吗？\n\n是短发吗？\n要不要去看看？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないんだな。",
+    "translation": "这边是过不去的啊。",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n这边不能走耶。\n\n这边是过不去的。\n\n这边不能通过啊。"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ほう、強敵の気配がするな…\nいくか？",
+    "translation": "哦？感觉到了种强敌的气息啊……\n要上吗？",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n哦，有强敌的气息耶……\n要上吗？\n\n嗬，别有强敌的迹象……\n去吗？\n\n哦，感觉到了强敌的气息……\n去吗？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "よし！　俺に任せておけ！",
+    "translation": "好！尽管交给我吧！",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n好！交给我吧！"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうか。\n準備は大切だからな。",
+    "translation": "说得也是。\n做好准备很重要啊。",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n这样啊。\n准备是很重要的。\n\n是吗。\n准备很重要。\n\n是吗？因为准备很重要。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "フッ、手応えのある戦いだったな。\n採取も出来たし、一石二鳥だ。",
+    "translation": "呵呵，真是场令人酣畅淋漓的战斗啊。\n不仅能战斗，还能够采集资源，简直是一举两得了。",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n呵，这场战斗打得真过瘾。\n也采集到了，一石二鸟。\n\n呼，真是一场有反应的战斗啊。\n也采集到了，一石二鸟。\n\n呼，真是一场有感觉的战斗啊。采集也成功了，真是一石二鸟。"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "シャドウの気配がするな…\nやるか！",
+    "translation": "感觉有股暗影的气息……\n动手吧！",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n感觉到了暗影的气息……\n要上吗！\n\n不要有暗影的感觉……\n要做吗！\n\n有暗影的迹象……\n干不干！"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ああ、任せろ！",
+    "translation": "好，交给我吧！",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n嗯，交给我吧！\n\n啊，交给我吧！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうか。",
+    "translation": "这样啊。",
+    "stage": 0,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n这样啊。\n\n是吗？\n\n是吗。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ん？　これで終わりか？",
+    "translation": "嗯？这就结束了吗？",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n嗯？这样就结束了吗？\n\n嗯？就这样结束了吗？\n\n？这就结束了吗？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから戻れるな。\n映画館へ行くか？",
+    "translation": "从这里就能回去啊。\n要去电影院吗？",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n从这里能回电影院呢。\n要去电影院吗？\n\n不要从这里回来。\n去电影院吗？\n\n你不能从这里回来。\n去电影院吗？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

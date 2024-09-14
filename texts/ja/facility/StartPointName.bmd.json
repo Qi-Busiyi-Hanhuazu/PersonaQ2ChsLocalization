@@ -1,0 +1,331 @@
+[
+  {
+    "key": "start_01_0",
+    "original": "入り口",
+    "translation": "入り口",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "start_02_0",
+    "original": "磁軸",
+    "translation": "磁軸",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_01_0",
+    "original": "スクリーン前",
+    "translation": "スクリーン前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_03_0",
+    "original": "１番街行き階段前",
+    "translation": "１番街行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_04_0",
+    "original": "カモシダ記念広場行き階段前",
+    "translation": "カモシダ記念広場行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_06_0",
+    "original": "第１区画行き階段前",
+    "translation": "第１区画行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_07_0",
+    "original": "１番街行き階段前",
+    "translation": "１番街行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_08_0",
+    "original": "カモシダ記念広場行き階段前",
+    "translation": "カモシダ記念広場行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_09_0",
+    "original": "カモシダ記念広場行き階段前",
+    "translation": "カモシダ記念広場行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_10_0",
+    "original": "島の最果て行き階段前",
+    "translation": "島の最果て行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_11_0",
+    "original": "スクリーン前",
+    "translation": "スクリーン前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_12_0",
+    "original": "特別上映専用入口",
+    "translation": "特別上映専用入口",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_13_0",
+    "original": "第２区画行き階段前",
+    "translation": "第２区画行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_14_0",
+    "original": "第１区画行き階段前",
+    "translation": "第１区画行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_15_0",
+    "original": "第３区画行き階段前",
+    "translation": "第３区画行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_16_0",
+    "original": "特別上映専用入口",
+    "translation": "特別上映専用入口",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_17_0",
+    "original": "３番街行き階段前",
+    "translation": "３番街行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_18_0",
+    "original": "第２ゾーン行き階段前",
+    "translation": "第２ゾーン行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_19_0",
+    "original": "特別上映専用入口",
+    "translation": "特別上映専用入口",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_21_0",
+    "original": "島の最果て行き階段前",
+    "translation": "島の最果て行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_22_0",
+    "original": "第２ゾーン行き階段前",
+    "translation": "第２ゾーン行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_23_0",
+    "original": "研究所第１フロア行き階段前",
+    "translation": "研究所第１フロア行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_24_0",
+    "original": "特別上映専用入口",
+    "translation": "特別上映専用入口",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_25_0",
+    "original": "特別上映専用入口",
+    "translation": "特別上映専用入口",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_26_0",
+    "original": "第３区画行き階段前",
+    "translation": "第３区画行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_27_0",
+    "original": "スクリーン前",
+    "translation": "スクリーン前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_28_0",
+    "original": "第２ゾーン行き階段前",
+    "translation": "第２ゾーン行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_29_0",
+    "original": "特別上映専用入口",
+    "translation": "特別上映専用入口",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_30_0",
+    "original": "特別上映専用入口",
+    "translation": "特別上映専用入口",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_31_0",
+    "original": "カモシダ記念広場行き階段前",
+    "translation": "カモシダ記念広場行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_32_0",
+    "original": "２番街行き階段前",
+    "translation": "２番街行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_33_0",
+    "original": "研究所第２フロア行き階段前",
+    "translation": "研究所第２フロア行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_35_0",
+    "original": "スクリーン前",
+    "translation": "スクリーン前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_36_0",
+    "original": "研究所第１フロア行き階段前",
+    "translation": "研究所第１フロア行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_37_0",
+    "original": "特別上映専用入口",
+    "translation": "特別上映専用入口",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_38_0",
+    "original": "研究所第１フロア行き階段前",
+    "translation": "研究所第１フロア行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_39_0",
+    "original": "特別上映専用入口",
+    "translation": "特別上映専用入口",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_40_0",
+    "original": "第５幕行き階段前",
+    "translation": "第５幕行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_41_0",
+    "original": "スクリーン前",
+    "translation": "スクリーン前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_42_0",
+    "original": "特別上映専用入口",
+    "translation": "特別上映専用入口",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_43_0",
+    "original": "特別上映専用入口",
+    "translation": "特別上映専用入口",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_45_0",
+    "original": "第２幕行き階段前",
+    "translation": "第２幕行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_46_0",
+    "original": "第４幕行き階段前",
+    "translation": "第４幕行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_47_0",
+    "original": "３番街行き階段前",
+    "translation": "３番街行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_48_0",
+    "original": "第４区画行き階段前",
+    "translation": "第４区画行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_49_0",
+    "original": "研究所第２フロア行き階段前",
+    "translation": "研究所第２フロア行き階段前",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "quest_50_0",
+    "original": "第７幕行き階段前",
+    "translation": "第７幕行き階段前",
+    "stage": 1,
+    "context": ""
+  }
+]

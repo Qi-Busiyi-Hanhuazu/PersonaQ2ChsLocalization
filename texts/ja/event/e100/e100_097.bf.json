@@ -1,0 +1,338 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "竜司の手が、スクリーンの中に入った…",
+    "translation": "竜司の手が、スクリーンの中に入った…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "手…手が！？",
+    "translation": "手…手が！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "手が、今…\nスクリーンの中に、スーって！！",
+    "translation": "手が、今…\nスクリーンの中に、スーって！！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_2",
+    "original": "錯覚じゃねえよな！？",
+    "translation": "錯覚じゃねえよな！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "まったく信じられないな…",
+    "translation": "まったく信じられないな…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ちょっと待って。\n真と春が映画の中にいたってことは…",
+    "translation": "ちょっと待って。\n真と春が映画の中にいたってことは…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "二人はスクリーンの向こうに、\n取り残されてるってこと？",
+    "translation": "二人はスクリーンの向こうに、\n取り残されてるってこと？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "恐らく、そういうことになるかと…",
+    "translation": "恐らく、そういうことになるかと…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "つまり、二人を助けたければ、\n映画の中に入るしかないんだな。",
+    "translation": "つまり、二人を助けたければ、\n映画の中に入るしかないんだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "助けに行くっきゃねぇだろ！\nだよな、[P5名]？",
+    "translation": "助けに行くっきゃねぇだろ！\nだよな、[P5名]？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "当然だ",
+    "translation": "当然だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "早く行こう",
+    "translation": "早く行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "よし、じゃあ早速…\n…って、飛び込めばいいのか？",
+    "translation": "よし、じゃあ早速…\n…って、飛び込めばいいのか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あっ…ナギさん…",
+    "translation": "あっ…ナギさん…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "どうしたの？",
+    "translation": "どうしたの？",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "またひそひそ話をしている…",
+    "translation": "またひそひそ話をしている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ひかりさんは、皆さまのことを\nひどく心配しているわ。",
+    "translation": "ひかりさんは、皆さまのことを\nひどく心配しているわ。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "映画の中は危ないから、\nここにいたほうが安全では、と。",
+    "translation": "映画の中は危ないから、\nここにいたほうが安全では、と。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "忠告サンキューな！\nでも、危ねえから余計心配なんだわ。",
+    "translation": "忠告サンキューな！\nでも、危ねえから余計心配なんだわ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "うん！　助けに行くしかないよ！",
+    "translation": "うん！　助けに行くしかないよ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "え…",
+    "translation": "え…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "友達の、ため…？",
+    "translation": "友達の、ため…？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_016_2",
+    "original": "友達なんて…",
+    "translation": "友達なんて…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ひかり…？",
+    "translation": "ひかり…？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "うっし！　気合い入れて飛び込むぞ！\n３、２、１…！",
+    "translation": "うっし！　気合い入れて飛び込むぞ！\n３、２、１…！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ま、待って…！",
+    "translation": "ま、待って…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "うぉ！？　なんだよ、急に…",
+    "translation": "うぉ！？　なんだよ、急に…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "えーっと…",
+    "translation": "えーっと…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "…ちょっと…待って…",
+    "translation": "…ちょっと…待って…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ひかりはナギと相談を始めた…",
+    "translation": "ひかりはナギと相談を始めた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "…いい…？",
+    "translation": "…いい…？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ええ、分かったわ…",
+    "translation": "ええ、分かったわ…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ひかりさんは、皆さまのことが\nどうしても心配のようですね。",
+    "translation": "ひかりさんは、皆さまのことが\nどうしても心配のようですね。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "だから私に『力を貸してあげて』と…",
+    "translation": "だから私に『力を貸してあげて』と…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "協力してくれる、ということか？",
+    "translation": "協力してくれる、ということか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ええ、お力になれるかもしれません。\nついて来ていただけますか？",
+    "translation": "ええ、お力になれるかもしれません。\nついて来ていただけますか？",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ナギは売店へ向かったようだ…",
+    "translation": "ナギは売店へ向かったようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "協力というなら…\nひとまず、ついていこうぜ。",
+    "translation": "協力というなら…\nひとまず、ついていこうぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

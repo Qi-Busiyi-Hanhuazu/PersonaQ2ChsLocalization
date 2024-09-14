@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おおー！　こ、これは…",
+    "translation": "おおー！　こ、これは…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あ、さっきのと同じものだね。\n一体なんなんだろう？",
+    "translation": "あ、さっきのと同じものだね。\n一体なんなんだろう？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "んん～…ざっと調べたところ、\nどこかの空間に繋がってるみたいだぞ。",
+    "translation": "んん～…ざっと調べたところ、\nどこかの空間に繋がってるみたいだぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "簡単に言えば、[颜色 03]ワープ装置[颜色 01]ってとこだな！",
+    "translation": "簡単に言えば、[颜色 03]ワープ装置[颜色 01]ってとこだな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "どこに繋がってるとか、わかんのか？",
+    "translation": "どこに繋がってるとか、わかんのか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "すみません。このフロアの何処か、としか…\n正確な位置まではわからなくて…",
+    "translation": "すみません。このフロアの何処か、としか…\n正確な位置まではわからなくて…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "他に道が無いなら、\n入ってみるしかなさそうだけど…",
+    "translation": "他に道が無いなら、\n入ってみるしかなさそうだけど…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "どうするかは、\nジョーカーに任せるね。",
+    "translation": "どうするかは、\nジョーカーに任せるね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "ずっと地図をつけてるから、\nここの構造に一番詳しいと思うし。",
+    "translation": "ずっと地図をつけてるから、\nここの構造に一番詳しいと思うし。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

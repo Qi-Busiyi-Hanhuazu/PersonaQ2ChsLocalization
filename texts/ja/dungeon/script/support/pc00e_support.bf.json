@@ -1,0 +1,737 @@
+[
+  {
+    "key": "FUKA_FOE_FOLLOW_START_1_0",
+    "original": "Ｆ．Ｏ．Ｅが接近してきています！",
+    "translation": "Ｆ．Ｏ．Ｅが接近してきています！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅに見つかったみたいです！",
+    "translation": "Ｆ．Ｏ．Ｅに見つかったみたいです！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FOE_FOLLOW_START_3_0",
+    "original": "Ｆ．Ｏ．Ｅに追尾されています！",
+    "translation": "Ｆ．Ｏ．Ｅに追尾されています！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FOE_NEAR_1_0",
+    "original": "近くにＦ．Ｏ．Ｅ…警戒してください！",
+    "translation": "近くにＦ．Ｏ．Ｅ…警戒してください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅがすぐ傍にいますよ！",
+    "translation": "Ｆ．Ｏ．Ｅがすぐ傍にいますよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅがいます。\n気をつけてください！",
+    "translation": "Ｆ．Ｏ．Ｅがいます。\n気をつけてください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FOE_FOLLOW_END_1_0",
+    "original": "よかった…\nＦ．Ｏ．Ｅを撒けたようですね。",
+    "translation": "よかった…\nＦ．Ｏ．Ｅを撒けたようですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FOE_FOLLOW_END_2_0",
+    "original": "あのＦ．Ｏ．Ｅ、\n諦めてくれたみたいですね…",
+    "translation": "あのＦ．Ｏ．Ｅ、\n諦めてくれたみたいですね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FOE_FOLLOW_END_3_0",
+    "original": "Ｆ．Ｏ．Ｅの追尾から\n逃げ切れたようです。",
+    "translation": "Ｆ．Ｏ．Ｅの追尾から\n逃げ切れたようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_KANSI_REACTION_1_0",
+    "original": "気をつけて進んでください！",
+    "translation": "気をつけて進んでください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_KANSI_REACTION_2_0",
+    "original": "見つかると厄介です。\n注意してください！",
+    "translation": "見つかると厄介です。\n注意してください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_KANSI_REACTION_3_0",
+    "original": "そこ、慎重に進んでくださいね。",
+    "translation": "そこ、慎重に進んでくださいね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_DENKISAKU_REACTION__0",
+    "original": "電気柵ですね…\n電流を止められないかな？",
+    "translation": "電気柵ですね…\n電流を止められないかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_DENKISAKU_REACTION__2_0",
+    "original": "電気柵の電流、\n止めないと進めないですね。",
+    "translation": "電気柵の電流、\n止めないと進めないですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_DENKISAKU_REACTION__3_0",
+    "original": "電気柵…\nスイッチを切れればいいのですが…",
+    "translation": "電気柵…\nスイッチを切れればいいのですが…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_KYOUHU_REACTION_1_0",
+    "original": "ああっ、みんなー！",
+    "translation": "ああっ、みんなー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_KYOUHU_REACTION_2_0",
+    "original": "気をつけて！",
+    "translation": "気をつけて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_KYOUHU_REACTION_3_0",
+    "original": "あっ、飛ばされます！",
+    "translation": "あっ、飛ばされます！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_STAIR_FIND_1_0",
+    "original": "階段が前方にあるみたいです！",
+    "translation": "階段が前方にあるみたいです！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_STAIR_FIND_2_0",
+    "original": "階段がありますよ。先に進みますか？",
+    "translation": "階段がありますよ。先に進みますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_STAIR_FIND_3_0",
+    "original": "あれ？\n前にあるの…階段みたいですよ！",
+    "translation": "あれ？\n前にあるの…階段みたいですよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_TREASURE_FIND_1_0",
+    "original": "近くに宝箱があります！",
+    "translation": "近くに宝箱があります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_TREASURE_FIND_2_0",
+    "original": "宝箱…開けてみませんか？",
+    "translation": "宝箱…開けてみませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_TREASURE_FIND_3_0",
+    "original": "何が入ってるんだろう…\nワクワクしますね！",
+    "translation": "何が入ってるんだろう…\nワクワクしますね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_CHECK_WALL_1_0",
+    "original": "その壁なんか…変ですね。",
+    "translation": "その壁なんか…変ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_CHECK_WALL_2_0",
+    "original": "あれ？　その壁…調べられますか？",
+    "translation": "あれ？　その壁…調べられますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_CHECK_WALL_3_0",
+    "original": "その壁、何か…\nよく見てみてもらえますか？",
+    "translation": "その壁、何か…\nよく見てみてもらえますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_SWITCH_FIND_1_0",
+    "original": "近くにスイッチがあるみたいです。",
+    "translation": "近くにスイッチがあるみたいです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_SWITCH_FIND_2_0",
+    "original": "近くにスイッチがあります。\n押してみますか？",
+    "translation": "近くにスイッチがあります。\n押してみますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_SWITCH_FIND_3_0",
+    "original": "スイッチがあるようです。\n探してみてください！",
+    "translation": "スイッチがあるようです。\n探してみてください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_SHORTCUT_FIND_1_0",
+    "original": "そこから通り抜けられそうですよ。",
+    "translation": "そこから通り抜けられそうですよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_SHORTCUT_FIND_2_0",
+    "original": "見てください、近道になりそうですよ。",
+    "translation": "見てください、近道になりそうですよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_SHORTCUT_FIND_3_0",
+    "original": "近道がありそうです。\n探してみてください。",
+    "translation": "近道がありそうです。\n探してみてください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_PARTY_DEAD_1_0",
+    "original": "状態を確認してください！\n非常に危険な状況です！",
+    "translation": "状態を確認してください！\n非常に危険な状況です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_PARTY_DEAD_2_0",
+    "original": "今戦うのは危険です！\nどなたか回復できませんか？",
+    "translation": "今戦うのは危険です！\nどなたか回復できませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_PARTY_DEAD_3_0",
+    "original": "このままでは危険です！\n一度戻りましょう！",
+    "translation": "このままでは危険です！\n一度戻りましょう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FOE_WARNING_NEAR_1_0",
+    "original": "まだＦ．Ｏ．Ｅが追ってきてます！",
+    "translation": "まだＦ．Ｏ．Ｅが追ってきてます！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FOE_WARNING_NEAR_2_0",
+    "original": "さっきのＦ．Ｏ．Ｅがまだいます！",
+    "translation": "さっきのＦ．Ｏ．Ｅがまだいます！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FOE_WARNING_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅが…\n迎撃するなら態勢を整えましょう！",
+    "translation": "Ｆ．Ｏ．Ｅが…\n迎撃するなら態勢を整えましょう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_PARTY_HPTP10_1_0",
+    "original": "みなさん、これ以上は危険です！",
+    "translation": "みなさん、これ以上は危険です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_PARTY_HPTP10_2_0",
+    "original": "みなさん、\n体力・気力ともに危険な状態です！",
+    "translation": "みなさん、\n体力・気力ともに危険な状態です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_PARTY_HPTP10_3_0",
+    "original": "このままでは…態勢を立て直せますか？",
+    "translation": "このままでは…態勢を立て直せますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_PARTY_HP10_1_0",
+    "original": "みなさん、体力を回復してください！",
+    "translation": "みなさん、体力を回復してください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_PARTY_HP10_2_0",
+    "original": "危険です！　体力を回復してください！",
+    "translation": "危険です！　体力を回復してください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_PARTY_HP10_3_0",
+    "original": "体力の回復を推奨します！",
+    "translation": "体力の回復を推奨します！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_1PERSON_HPTP10_1_0",
+    "original": "大丈夫ですか？　ケアをお願いします！",
+    "translation": "大丈夫ですか？　ケアをお願いします！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_1PERSON_HPTP10_2_0",
+    "original": "気力・体力が低下してます！\n気をつけて！",
+    "translation": "気力・体力が低下してます！\n気をつけて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_1PERSON_HPTP10_3_0",
+    "original": "危険な状態です、回復してください！",
+    "translation": "危険な状態です、回復してください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_PARTY_TP10_1_0",
+    "original": "みなさんお疲れですね。\n回復できそうですか？",
+    "translation": "みなさんお疲れですね。\n回復できそうですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_PARTY_TP10_2_0",
+    "original": "みなさん、もう戦う気力が…",
+    "translation": "みなさん、もう戦う気力が…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_PARTY_TP10_3_0",
+    "original": "そろそろ拠点に戻るのも、手ですよ。",
+    "translation": "そろそろ拠点に戻るのも、手ですよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_1PERSON_HP10_1_0",
+    "original": "体力、回復できそうですか？",
+    "translation": "体力、回復できそうですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_1PERSON_HP10_2_0",
+    "original": "体力が…無理は禁物です！",
+    "translation": "体力が…無理は禁物です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_1PERSON_HP10_3_0",
+    "original": "体力に気をつけてください！",
+    "translation": "体力に気をつけてください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_1PERSON_TP10_1_0",
+    "original": "気力が尽きそうですね…\n少し休みませんか？",
+    "translation": "気力が尽きそうですね…\n少し休みませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_1PERSON_TP10_2_0",
+    "original": "お疲れのようですが、大丈夫ですか？",
+    "translation": "お疲れのようですが、大丈夫ですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_1PERSON_TP10_3_0",
+    "original": "かなり疲れているみたいですが…\n無理しないでください。",
+    "translation": "かなり疲れているみたいですが…\n無理しないでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_ITEM_90_BATTLE_1_0",
+    "original": "荷物、重くないですか？",
+    "translation": "荷物、重くないですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_ITEM_90_BATTLE_2_0",
+    "original": "荷物がパンパンみたいですよ。",
+    "translation": "荷物がパンパンみたいですよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_ITEM_90_BATTLE_3_0",
+    "original": "荷物、少し預けるのはどうでしょう？",
+    "translation": "荷物、少し預けるのはどうでしょう？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_1PERSON_HP80_1_0",
+    "original": "とっても素敵でした！",
+    "translation": "とっても素敵でした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_1PERSON_HP80_2_0",
+    "original": "この調子で進みたいですね！",
+    "translation": "この調子で進みたいですね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_1PERSON_HP80_3_0",
+    "original": "みなさんとってもかっこよかったです！",
+    "translation": "みなさんとってもかっこよかったです！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FUKA_MAKASETA_1_0",
+    "original": "風花ちゃん、あとよろしくね！",
+    "translation": "風花ちゃん、あとよろしくね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FUKA_MAKASETA_2_0",
+    "original": "風花ちゃんにバトンタッチしまーす！",
+    "translation": "風花ちゃんにバトンタッチしまーす！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FUKA_MAKASETA_3_0",
+    "original": "風花ちゃんのナビ、\n私も楽しみにしてるね！",
+    "translation": "風花ちゃんのナビ、\n私も楽しみにしてるね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FUKA_ANSWER_1_0",
+    "original": "任されました！\nみなさん、よろしくお願いします！",
+    "translation": "任されました！\nみなさん、よろしくお願いします！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FUKA_ANSWER_2_0",
+    "original": "りせちゃん、後は任せて！\n…みなさん、行きましょう！",
+    "translation": "りせちゃん、後は任せて！\n…みなさん、行きましょう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FUKA_ANSWER_3_0",
+    "original": "思わず聞き入っちゃいました。\n…私も頑張ります！",
+    "translation": "思わず聞き入っちゃいました。\n…私も頑張ります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FUKA_MAKASETA_1_0",
+    "original": "風花、ここからは頼んだぞ！",
+    "translation": "風花、ここからは頼んだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FUKA_MAKASETA_2_0",
+    "original": "ここからは、\n風花の癒し系ナビがお送りするぞ！",
+    "translation": "ここからは、\n風花の癒し系ナビがお送りするぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FUKA_MAKASETA_3_0",
+    "original": "ここから先は、風花にナビ交代だ！",
+    "translation": "ここから先は、風花にナビ交代だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FUKA_ANSWER_1_0",
+    "original": "ありがとう、ゆっくり休んでね。\n…みなさん、行きましょう！",
+    "translation": "ありがとう、ゆっくり休んでね。\n…みなさん、行きましょう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FUKA_ANSWER_2_0",
+    "original": "ここからは私がサポートします！\nよろしくお願いします！",
+    "translation": "ここからは私がサポートします！\nよろしくお願いします！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FUKA_ANSWER_3_0",
+    "original": "ナビ、さすがです！\nここからは私に任せてください！",
+    "translation": "ナビ、さすがです！\nここからは私に任せてください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_ITEM_90_DUNGEON_1_0",
+    "original": "荷物、重くないですか？",
+    "translation": "荷物、重くないですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_ITEM_90_DUNGEON_2_0",
+    "original": "荷物がパンパンみたいですよ。",
+    "translation": "荷物がパンパンみたいですよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_ITEM_90_DUNGEON_3_0",
+    "original": "荷物、少し預けるのはどうでしょう？",
+    "translation": "荷物、少し預けるのはどうでしょう？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_DUNGEON_START_1_0",
+    "original": "みなさん、頑張りましょう！",
+    "translation": "みなさん、頑張りましょう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_DUNGEON_START_2_0",
+    "original": "無理はしないでくださいね！",
+    "translation": "無理はしないでくださいね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_DUNGEON_START_3_0",
+    "original": "精一杯サポートします！",
+    "translation": "精一杯サポートします！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_QUEST_START_1_0",
+    "original": "みんなで頑張りましょう！",
+    "translation": "みんなで頑張りましょう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_QUEST_START_2_0",
+    "original": "私も精一杯サポートします！",
+    "translation": "私も精一杯サポートします！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_QUEST_START_3_0",
+    "original": "みなさん、頑張ってくださいね！",
+    "translation": "みなさん、頑張ってくださいね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_TOUHA_25_1_0",
+    "original": "まだ先は長そうです。\n無理しないでください。",
+    "translation": "まだ先は長そうです。\n無理しないでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_TOUHA_25_2_0",
+    "original": "体力には気をつけて進みましょう。",
+    "translation": "体力には気をつけて進みましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_TOUHA_50_1_0",
+    "original": "半分くらいでしょうか？\nまだまだ頑張りましょうね。",
+    "translation": "半分くらいでしょうか？\nまだまだ頑張りましょうね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_TOUHA_50_2_0",
+    "original": "地図、埋まってきましたね！\nこの調子で行きましょう！",
+    "translation": "地図、埋まってきましたね！\nこの調子で行きましょう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_TOUHA_75_1_0",
+    "original": "もう少しで全部回りきれますね！\n頑張りましょう！",
+    "translation": "もう少しで全部回りきれますね！\n頑張りましょう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_TOUHA_75_2_0",
+    "original": "わあ、かなり埋まってきましたね。\nあと一息です！",
+    "translation": "わあ、かなり埋まってきましたね。\nあと一息です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_TOUHA_100_1_0",
+    "original": "お疲れ様です！\nフロアを全部回れたみたいです！",
+    "translation": "お疲れ様です！\nフロアを全部回れたみたいです！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_TOUHA_100_2_0",
+    "original": "地図が埋まりましたね！\nおめでとうございます！",
+    "translation": "地図が埋まりましたね！\nおめでとうございます！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_MAPPING_ICON_ALL_1_0",
+    "original": "わぁ、上手に描けてますね！",
+    "translation": "わぁ、上手に描けてますね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_MAPPING_ICON_ALL_2_0",
+    "original": "すっごく見やすいですね！",
+    "translation": "すっごく見やすいですね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_MAPPING_ICON_KAIDAN_0",
+    "original": "階段の情報は大事ですね。",
+    "translation": "階段の情報は大事ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_MAPPING_ICON_KAIDAN_2_0",
+    "original": "これで、迷わず階段に行けますね！",
+    "translation": "これで、迷わず階段に行けますね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_MAPPING_CHANGE_COLO_0",
+    "original": "すごい、凝ってますね！",
+    "translation": "すごい、凝ってますね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_MAPPING_CHANGE_COLO_2_0",
+    "original": "カラフルで楽しい地図に\nなりそうですね。",
+    "translation": "カラフルで楽しい地図に\nなりそうですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_MAPPING_ICON_DEL_1_0",
+    "original": "整理整頓は大事ですね！",
+    "translation": "整理整頓は大事ですね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_MAPPING_ICON_DEL_2_0",
+    "original": "なんだかお掃除も上手そうですね。",
+    "translation": "なんだかお掃除も上手そうですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_MAPPING_MEMO_1_0",
+    "original": "私もメモしておこうかと思ってました。",
+    "translation": "私もメモしておこうかと思ってました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_MAPPING_MEMO_2_0",
+    "original": "メモすれば忘れないですね！",
+    "translation": "メモすれば忘れないですね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_KARITORU_ENCOUNT_1_0",
+    "original": "”刈り取るもの”の反応！\n気をつけて下さい！",
+    "translation": "”刈り取るもの”の反応！\n気をつけて下さい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_KARITORU_ENCOUNT_2_0",
+    "original": "”刈り取るもの”が接近してます！\n注意して！",
+    "translation": "”刈り取るもの”が接近してます！\n注意して！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_KARITORU_ENCOUNT_3_0",
+    "original": "この反応は…”刈り取るもの”です！\n気をつけて！",
+    "translation": "この反応は…”刈り取るもの”です！\n気をつけて！",
+    "stage": 1,
+    "context": ""
+  }
+]

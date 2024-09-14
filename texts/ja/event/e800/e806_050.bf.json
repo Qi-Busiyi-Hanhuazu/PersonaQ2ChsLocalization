@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ここだね。\nよし、今度こそ！",
+    "translation": "ここだね。\nよし、今度こそ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、この手でアンモナイトを見つける！",
+    "translation": "ああ、この手でアンモナイトを見つける！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "全然いねえ…\nつか、アンモナイトってどんなんだっけ？",
+    "translation": "全然いねえ…\nつか、アンモナイトってどんなんだっけ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "知らない",
+    "translation": "知らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "巻貝っぽい",
+    "translation": "巻貝っぽい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_2",
+    "original": "宇宙生命体だ",
+    "translation": "宇宙生命体だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "知らないで探してたんかい！",
+    "translation": "知らないで探してたんかい！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "もう…アンモナイトは\n巻貝の殻を持つ海洋生物よ。",
+    "translation": "もう…アンモナイトは\n巻貝の殻を持つ海洋生物よ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "ただ本体部分は貝というより、\nタコやイカに近い軟体生物らしいけど。",
+    "translation": "ただ本体部分は貝というより、\nタコやイカに近い軟体生物らしいけど。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ええ。アンモナイトは\n巻貝の殻を持つ海洋生物よ。",
+    "translation": "ええ。アンモナイトは\n巻貝の殻を持つ海洋生物よ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "ただ本体部分は貝というより、\nタコやイカに近い軟体生物らしいけど。",
+    "translation": "ただ本体部分は貝というより、\nタコやイカに近い軟体生物らしいけど。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そうなんスか！？",
+    "translation": "そうなんスか！？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "それっぽい形状だけど、違うから！\nあれは巻貝の殻を持つ海洋生物よ。",
+    "translation": "それっぽい形状だけど、違うから！\nあれは巻貝の殻を持つ海洋生物よ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "ただ本体部分は貝というより、\nタコやイカに近い軟体生物らしいけど。",
+    "translation": "ただ本体部分は貝というより、\nタコやイカに近い軟体生物らしいけど。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "タコやイカか…聞いてるだけで、\n腹が減ってきたな…",
+    "translation": "タコやイカか…聞いてるだけで、\n腹が減ってきたな…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "なんていうか、フォックスの食に\n対する執念ってすごいよね…",
+    "translation": "なんていうか、フォックスの食に\n対する執念ってすごいよね…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "まあ、俺は早くして両親を亡くして、\n経済的に色々苦しかったからな。",
+    "translation": "まあ、俺は早くして両親を亡くして、\n経済的に色々苦しかったからな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "親代わりの男もいるにはいたが、\n色々あって今はまた一人だ。",
+    "translation": "親代わりの男もいるにはいたが、\n色々あって今はまた一人だ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そっか…\n変なこと聞いて、ごめんね。",
+    "translation": "そっか…\n変なこと聞いて、ごめんね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "いや、いいんだ。むしろ今\n厳しいのは画材の出費でな…",
+    "translation": "いや、いいんだ。むしろ今\n厳しいのは画材の出費でな…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "こればかりは惜しむわけにはいかない。\nその結果、食事が野草になろうとも、な。",
+    "translation": "こればかりは惜しむわけにはいかない。\nその結果、食事が野草になろうとも、な。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "すごい情熱だね。",
+    "translation": "すごい情熱だね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "しかし、本当に一人ではこの情熱を\n貫き通せたかどうか…",
+    "translation": "しかし、本当に一人ではこの情熱を\n貫き通せたかどうか…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "今は、支えてくれる仲間がいる。\n俺を救い、居場所をくれた者たちがな。",
+    "translation": "今は、支えてくれる仲間がいる。\n俺を救い、居場所をくれた者たちがな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "私も分かる気がする。",
+    "translation": "私も分かる気がする。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "私が私らしくいられるのは、それを\n受け入れてくれる皆がいるからだもの。",
+    "translation": "私が私らしくいられるのは、それを\n受け入れてくれる皆がいるからだもの。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ああ、いかなる情熱も一人では\n発揮し切れない。",
+    "translation": "ああ、いかなる情熱も一人では\n発揮し切れない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "俺もジョーカーの居候先の\n喫茶店で何度、空腹を救われたことか…",
+    "translation": "俺もジョーカーの居候先の\n喫茶店で何度、空腹を救われたことか…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "それはまた違う気が…",
+    "translation": "それはまた違う気が…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "あ、でも、ご飯に困ってるなら、\nお礼も兼ねて今度何か作ってあげようか？",
+    "translation": "あ、でも、ご飯に困ってるなら、\nお礼も兼ねて今度何か作ってあげようか？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "何ッ！？　本当か！？",
+    "translation": "何ッ！？　本当か！？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "おーい、二人とも！\n何か見つかった？",
+    "translation": "おーい、二人とも！\n何か見つかった？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ううん。ダメだね。",
+    "translation": "ううん。ダメだね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "では場所を変えましょうか。",
+    "translation": "では場所を変えましょうか。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "先ほど久慈川さんから、\nここからさらに西に、水源の反応があったと。",
+    "translation": "先ほど久慈川さんから、\nここからさらに西に、水源の反応があったと。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "じゃあ、次はそこだね！\n行くよ、フォックス！",
+    "translation": "じゃあ、次はそこだね！\n行くよ、フォックス！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ああ、いざ行かん！",
+    "translation": "ああ、いざ行かん！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ちょ、二人とも早いって！\nてか、何か雪子までスイッチ入ってる！？",
+    "translation": "ちょ、二人とも早いって！\nてか、何か雪子までスイッチ入ってる！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "これはおイナリの電波に毒されたか…",
+    "translation": "これはおイナリの電波に毒されたか…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "ともかく、次はここから西だ。\nそこにも水場があるはず。探してくれ。",
+    "translation": "ともかく、次はここから西だ。\nそこにも水場があるはず。探してくれ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

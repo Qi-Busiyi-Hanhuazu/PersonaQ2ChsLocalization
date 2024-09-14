@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ジョーカー！　ちょい待ち！\nこの先、敵の反応がある。",
+    "translation": "ジョーカー！　ちょい待ち！\nこの先、敵の反応がある。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "行けそうか？",
+    "translation": "行けそうか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "大丈夫だ",
+    "translation": "大丈夫だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "少し待て",
+    "translation": "少し待て",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ええ、わかったわ。進みましょう。",
+    "translation": "ええ、わかったわ。進みましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうだな、万全を期すに越したことはない。\n一度、態勢を立て直そう。",
+    "translation": "そうだな、万全を期すに越したことはない。\n一度、態勢を立て直そう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "目的の古代魚、確認いたしました。",
+    "translation": "目的の古代魚、確認いたしました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "お二人のフィッシングテクニックには、\nただただ脱帽でございます。",
+    "translation": "お二人のフィッシングテクニックには、\nただただ脱帽でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "さすがはワイルドの素養を持つ方々…\nといったところでしょうか。",
+    "translation": "さすがはワイルドの素養を持つ方々…\nといったところでしょうか。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やっぱ先輩たち、すげぇ…\nこれがリーダーの風格ってヤツなんすかね。",
+    "translation": "やっぱ先輩たち、すげぇ…\nこれがリーダーの風格ってヤツなんすかね。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "お前んトコのリーダーも\nスゴかったもんな。",
+    "translation": "お前んトコのリーダーも\nスゴかったもんな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "人を引きつけるカリスマ性…\nこれが二人に共通している資質ってわけか。",
+    "translation": "人を引きつけるカリスマ性…\nこれが二人に共通している資質ってわけか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うん、リーダーについて行けば大丈夫って、\n自然とそう思えるんだよね。",
+    "translation": "うん、リーダーについて行けば大丈夫って、\n自然とそう思えるんだよね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "わかる！　あと、背中を預けられる、\n安心感とか！",
+    "translation": "わかる！　あと、背中を預けられる、\n安心感とか！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "たしかに、俺も今回のことで\n[P5姓]に似たものを感じた。",
+    "translation": "たしかに、俺も今回のことで\n[P5姓]に似たものを感じた。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "カリスマ性のこと？",
+    "translation": "カリスマ性のこと？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "ワイルドのこと？",
+    "translation": "ワイルドのこと？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "いや、そんな大それたものじゃない。",
+    "translation": "いや、そんな大それたものじゃない。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "ただ…仲間のためなら少しぐらい\n無茶できてしまう、そういう所だ。",
+    "translation": "ただ…仲間のためなら少しぐらい\n無茶できてしまう、そういう所だ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "じゃなきゃ、刀を持った相手に\nモデルガンで挑もうなんてしないだろ？",
+    "translation": "じゃなきゃ、刀を持った相手に\nモデルガンで挑もうなんてしないだろ？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "必死だった",
+    "translation": "必死だった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "あの時は悪かった",
+    "translation": "あの時は悪かった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ああ、あの時は俺も\n仲間を助けることしか頭になかった。",
+    "translation": "ああ、あの時は俺も\n仲間を助けることしか頭になかった。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "君も同じだろ？",
+    "translation": "君も同じだろ？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_010_2",
+    "original": "自分をリーダーと頼ってくれる仲間を\n必ず守る…俺は君に同じ意志を感じたんだ。",
+    "translation": "自分をリーダーと頼ってくれる仲間を\n必ず守る…俺は君に同じ意志を感じたんだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "いや、俺の方こそすまなかった。",
+    "translation": "いや、俺の方こそすまなかった。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "でも俺も仲間を助けようとして必死で、\n多分、君と同じだ。",
+    "translation": "でも俺も仲間を助けようとして必死で、\n多分、君と同じだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_011_2",
+    "original": "自分をリーダーと頼ってくれる仲間を\n必ず守る…俺は君に同じ意志を感じたんだ。",
+    "translation": "自分をリーダーと頼ってくれる仲間を\n必ず守る…俺は君に同じ意志を感じたんだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_012_0",
+    "original": "同じだな",
+    "translation": "同じだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_012_1",
+    "original": "似たもの同士かも",
+    "translation": "似たもの同士かも",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "そうか…",
+    "translation": "そうか…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "この思いを分かち合える\n君と出会えて本当によかった。",
+    "translation": "この思いを分かち合える\n君と出会えて本当によかった。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_2",
+    "original": "これからも、よろしく頼む。\n共に戦う、仲間として。",
+    "translation": "これからも、よろしく頼む。\n共に戦う、仲間として。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_014_0",
+    "original": "こちらこそ",
+    "translation": "こちらこそ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_1",
+    "original": "よろしくな",
+    "translation": "よろしくな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "お？　いつの間にか二人の間に\nアツい友情パワーが！",
+    "translation": "お？　いつの間にか二人の間に\nアツい友情パワーが！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "おお、すげえ…こいつはアレっすね、\n１＋１が１００にも２００にもなるっつー…",
+    "translation": "おお、すげえ…こいつはアレっすね、\n１＋１が１００にも２００にもなるっつー…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "いや、億はいける。",
+    "translation": "いや、億はいける。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "それもう、カンストしてんぞ！？",
+    "translation": "それもう、カンストしてんぞ！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "でもまあ、お前らが力合わせりゃ\nどんな敵でも怖くねえな。",
+    "translation": "でもまあ、お前らが力合わせりゃ\nどんな敵でも怖くねえな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "これからますます頼りにしてるぞ、\nオマエら！",
+    "translation": "これからますます頼りにしてるぞ、\nオマエら！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

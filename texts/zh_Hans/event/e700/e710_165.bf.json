@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "はー、やっとさっきの階段の所まで\nたどり着いたね。",
+    "translation": "哈——\n终于到了刚才楼梯的位置呢。",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n呼——终于\n抵达刚才的楼梯了。\n\n啊，终于走到刚才的楼梯那里了。\n\n\n啊，终于到了刚才楼梯的地方。"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "ここから下に行けそうだけど…\nどうする？",
+    "translation": "从这里好像可以下去呢……\n要怎么办？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n感觉可以从这里下去……\n怎么办？\n\n从这里好像可以往下走……\n怎么办？\n\n好像可以从这里下去……\n怎么办？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "どうする？　もう下、行っちゃう？",
+    "translation": "怎么做呢？现在就下去吗？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n怎么办？要下去吗？\n\n怎么办？已经下去了吗？\n\n怎么办？要往下走了吗？"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "降りよう",
+    "translation": "下去吧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n下去吧\n\n下车吧"
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "まだだ",
+    "translation": "再等一下",
+    "stage": 1,
+    "context": "机翻辅助：\n\n还不行\n\n还没有\n\n还没好"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "オッケー！　行こっか！",
+    "translation": "Okay！我们走吧！",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\nOK！我们走吧！\n\n好！去吧！\n\nOK ！走吧！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ん？　まだどこか調べんのか？",
+    "translation": "嗯？还有什么想调查的地方吗？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n嗯？还要调查其他地方吗？\n\n嗯？还在哪里调查吗？\n\n？还要去哪里调查吗？"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

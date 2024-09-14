@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_RIBBON_PARTS_GET_1_0",
+    "original": "＞１つめの\n「リボンのパーツ」を手に入れた！",
+    "translation": "＞１つめの\n「リボンのパーツ」を手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_RIBBON_PARTS_GET_2_0",
+    "original": "＞２つめの\n「リボンのパーツ」を手に入れた！",
+    "translation": "＞２つめの\n「リボンのパーツ」を手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_RIBBON_PARTS_GET_3_0",
+    "original": "＞３つめの\n「リボンのパーツ」を手に入れた！",
+    "translation": "＞３つめの\n「リボンのパーツ」を手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_RIBBON_PARTS_GET_4_0",
+    "original": "＞４つめの\n「リボンのパーツ」を手に入れた！",
+    "translation": "＞４つめの\n「リボンのパーツ」を手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_RIBBON_PARTS_GET_4_1",
+    "original": "これで全てのパーツが揃った！！",
+    "translation": "これで全てのパーツが揃った！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_EVENT_DOOR_OPEN_0",
+    "original": "＞目の前の扉を開くイベント\n（仮でダンジョン側に配置）",
+    "translation": "＞目の前の扉を開くイベント\n（仮でダンジョン側に配置）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "何かが埋まっているようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理してからまた来よう…",
+    "stage": 1,
+    "context": ""
+  }
+]

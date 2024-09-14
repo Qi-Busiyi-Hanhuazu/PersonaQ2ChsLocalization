@@ -1,0 +1,562 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あらあら、今日もいいお天気ね。",
+    "translation": "あらあら、今日もいいお天気ね。",
+    "stage": 1,
+    "context": "朗らかな花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "まあまあ、お空が青いわね。\nさぁみんなで歌いましょう。",
+    "translation": "まあまあ、お空が青いわね。\nさぁみんなで歌いましょう。",
+    "stage": 1,
+    "context": "のんびりした花"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ラーラララー♪",
+    "translation": "ラーラララー♪",
+    "stage": 1,
+    "context": "朗らかな花"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "って、誰かいると思ったら…\nこいつらかよ！",
+    "translation": "って、誰かいると思ったら…\nこいつらかよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "手がかりの『花』かもしれないよ？\n何か知ってるかも。",
+    "translation": "手がかりの『花』かもしれないよ？\n何か知ってるかも。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ですが、話が通じますかね？　ハッキリと\nした意思の疎通は難しそうですが…",
+    "translation": "ですが、話が通じますかね？　ハッキリと\nした意思の疎通は難しそうですが…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "為せば成る",
+    "translation": "為せば成る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "ものは試しだ",
+    "translation": "ものは試しだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そうだな。こいつら無害そうだし、\nまずはやってみっか。",
+    "translation": "そうだな。こいつら無害そうだし、\nまずはやってみっか。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "おっ、きた！\nそんじゃ、お手並み拝見させてもらうぜ。",
+    "translation": "おっ、きた！\nそんじゃ、お手並み拝見させてもらうぜ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あーっと…アンタら、ちょっといいか？\n俺たち、探してるものがあって…",
+    "translation": "あーっと…アンタら、ちょっといいか？\n俺たち、探してるものがあって…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "まあまあ、アナタの頭、\nとっても輝いているわ。",
+    "translation": "まあまあ、アナタの頭、\nとっても輝いているわ。",
+    "stage": 1,
+    "context": "のんびりした花"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "あらあら、本当に太陽のよう。\nそれじゃ歌いましょ。",
+    "translation": "あらあら、本当に太陽のよう。\nそれじゃ歌いましょ。",
+    "stage": 1,
+    "context": "朗らかな花"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "いやいや、俺の頭の話じゃねーよ！\nひかりの忘れ物を探してて…",
+    "translation": "いやいや、俺の頭の話じゃねーよ！\nひかりの忘れ物を探してて…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ラーラララー♪\nサンサンと輝く金色の頭～♪",
+    "translation": "ラーラララー♪\nサンサンと輝く金色の頭～♪",
+    "stage": 1,
+    "context": "のんびりした花"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "や、だから…",
+    "translation": "や、だから…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ルールルルー♪\n二つの太陽に恵まれて、いいお天気～♪",
+    "translation": "ルールルルー♪\n二つの太陽に恵まれて、いいお天気～♪",
+    "stage": 1,
+    "context": "朗らかな花"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "聞けよっっっ！！",
+    "translation": "聞けよっっっ！！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "悪ぃ…ダメだったわ…",
+    "translation": "悪ぃ…ダメだったわ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "き、気にすることないよ…ふふっ…\nスカルの頭が、ちょっと目立っただけ…",
+    "translation": "き、気にすることないよ…ふふっ…\nスカルの頭が、ちょっと目立っただけ…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "ぷっ…ふふっ…頭が太陽って…\nお花が、金髪頭で光合成して…ふふっ…",
+    "translation": "ぷっ…ふふっ…頭が太陽って…\nお花が、金髪頭で光合成して…ふふっ…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_018_2",
+    "original": "くくっ…ふふ、ダメ…おかしい…\nあはは、あはははははははははっっ！！",
+    "translation": "くくっ…ふふ、ダメ…おかしい…\nあはは、あはははははははははっっ！！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "そこまで笑うか！？",
+    "translation": "そこまで笑うか！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "あー…雪子って、スイッチ入っちゃうと\nしばらく止まんないから。",
+    "translation": "あー…雪子って、スイッチ入っちゃうと\nしばらく止まんないから。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "フッフッフ…ここはオレっち任せな！",
+    "translation": "フッフッフ…ここはオレっち任せな！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "オレの卓越したトークテクで、\n優しく華麗に花開かせてやんぜ！",
+    "translation": "オレの卓越したトークテクで、\n優しく華麗に花開かせてやんぜ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "やあやあ、可憐なフラワーレディたち。",
+    "translation": "やあやあ、可憐なフラワーレディたち。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "美しい花に、つい引き寄せられたミツバチと\n楽しいお話でもどうかな？",
+    "translation": "美しい花に、つい引き寄せられたミツバチと\n楽しいお話でもどうかな？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "まあまあ、怪しいニンゲンだわ。\nなんて気味が悪いのかしら。",
+    "translation": "まあまあ、怪しいニンゲンだわ。\nなんて気味が悪いのかしら。",
+    "stage": 1,
+    "context": "のんびりした花"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "あらあら、本当にうさんくさい。\nそれじゃ歌いましょ。",
+    "translation": "あらあら、本当にうさんくさい。\nそれじゃ歌いましょ。",
+    "stage": 1,
+    "context": "朗らかな花"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "へっ？　あれれ？",
+    "translation": "へっ？　あれれ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ラーラララー♪\n怪しいヒゲにはご用心～♪",
+    "translation": "ラーラララー♪\n怪しいヒゲにはご用心～♪",
+    "stage": 1,
+    "context": "のんびりした花"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "いやいや！　オレっちはただ、\n探し物について訊きたいだけで…",
+    "translation": "いやいや！　オレっちはただ、\n探し物について訊きたいだけで…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ルールルルー♪\n探し物のおヒゲは～アゴについてるわ～♪",
+    "translation": "ルールルルー♪\n探し物のおヒゲは～アゴについてるわ～♪",
+    "stage": 1,
+    "context": "朗らかな花"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "いやぁ…ありゃ手強いわ～…",
+    "translation": "いやぁ…ありゃ手強いわ～…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ご自慢の、卓越したトークテクとやらは\nどうしたんだ？",
+    "translation": "ご自慢の、卓越したトークテクとやらは\nどうしたんだ？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "いや、それ以前の問題ですよ！\nあんなん誰だって心折れるわ！",
+    "translation": "いや、それ以前の問題ですよ！\nあんなん誰だって心折れるわ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "交代だ伊織、次は俺が行く！",
+    "translation": "交代だ伊織、次は俺が行く！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "ジュネスで鍛えまくった接客スキルには、\nちょーっと自信あるからな。",
+    "translation": "ジュネスで鍛えまくった接客スキルには、\nちょーっと自信あるからな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "キャー！！\nヨースケ、かっこいークマ！",
+    "translation": "キャー！！\nヨースケ、かっこいークマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "お前ら見てろよ！\nジュネス仕込みの、俺の本気！",
+    "translation": "お前ら見てろよ！\nジュネス仕込みの、俺の本気！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "いらっしゃいませえぇぇぇぇーッ！！",
+    "translation": "いらっしゃいませえぇぇぇぇーッ！！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "ダメだったわ…",
+    "translation": "ダメだったわ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_036_1",
+    "original": "あの花、こっちがなに言っても\n歌うだけしかしねぇ…",
+    "translation": "あの花、こっちがなに言っても\n歌うだけしかしねぇ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "てか、どうするよ？",
+    "translation": "てか、どうするよ？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_037_1",
+    "original": "このままじゃ何も聞き出せないし、\n別の作戦立てたほうがよくない？",
+    "translation": "このままじゃ何も聞き出せないし、\n別の作戦立てたほうがよくない？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "別の作戦って言ってもな…\n他にヒントもねーし。",
+    "translation": "別の作戦って言ってもな…\n他にヒントもねーし。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_038_1",
+    "original": "花たちが言ってた『黒い何か』ってのが、\n何のことか分かりゃ…",
+    "translation": "花たちが言ってた『黒い何か』ってのが、\n何のことか分かりゃ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "あらあら。\n『黒い何か』が気になるのかしら？",
+    "translation": "あらあら。\n『黒い何か』が気になるのかしら？",
+    "stage": 1,
+    "context": "のんびりした花"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "まあまあ。\n『黒い何か』を探しているのかしら？",
+    "translation": "まあまあ。\n『黒い何か』を探しているのかしら？",
+    "stage": 1,
+    "context": "朗らかな花"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "え、反応した！？",
+    "translation": "え、反応した！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "おい、その『黒い何か』って何だ？\nどこにある？",
+    "translation": "おい、その『黒い何か』って何だ？\nどこにある？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "フフフフフ。\n『黒い何か』は持って行かれたわ。",
+    "translation": "フフフフフ。\n『黒い何か』は持って行かれたわ。",
+    "stage": 1,
+    "context": "のんびりした花"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "アハハハハ。\n『黒い何か』は下へ持って行かれたわ。",
+    "translation": "アハハハハ。\n『黒い何か』は下へ持って行かれたわ。",
+    "stage": 1,
+    "context": "朗らかな花"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "アイツが『黒い何か』を\n独り占めするために。",
+    "translation": "アイツが『黒い何か』を\n独り占めするために。",
+    "stage": 1,
+    "context": "のんびりした花"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "えと…よく分かんないけど、\n下に何かあるかもしれないってこと？",
+    "translation": "えと…よく分かんないけど、\n下に何かあるかもしれないってこと？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "なぁ、ひかり。『黒い何か』ってのに、\nなんか心当たりとかあるか？",
+    "translation": "なぁ、ひかり。『黒い何か』ってのに、\nなんか心当たりとかあるか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_047_1",
+    "original": "それか、下の階のここら辺が気になるとか、\n何でもいいんだけどよ。",
+    "translation": "それか、下の階のここら辺が気になるとか、\n何でもいいんだけどよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "えっと…ぼんやりとしか分からないけど、\nこの辺りに、何かある気がする。",
+    "translation": "えっと…ぼんやりとしか分からないけど、\nこの辺りに、何かある気がする。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "根拠があるわけじゃないんだけど、\n何となくそう感じるの…",
+    "translation": "根拠があるわけじゃないんだけど、\n何となくそう感じるの…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "この映画は、他の映画以上に\nひかりさんの意識が強く影響している。",
+    "translation": "この映画は、他の映画以上に\nひかりさんの意識が強く影響している。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_050_1",
+    "original": "根拠がなくても、ひかりさんがそう感じる\nなら探す価値は十分にあると思うよ。",
+    "translation": "根拠がなくても、ひかりさんがそう感じる\nなら探す価値は十分にあると思うよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "待っててな、ひかりちゃん。\n探し物、俺たちで見つけてやるからさ。",
+    "translation": "待っててな、ひかりちゃん。\n探し物、俺たちで見つけてやるからさ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "本当に、どうもありがとう…\nみんながいてくれて、心強い。",
+    "translation": "本当に、どうもありがとう…\nみんながいてくれて、心強い。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "キーワードは『黒い何か』だな！",
+    "translation": "キーワードは『黒い何か』だな！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_053_1",
+    "original": "また目撃してる花がいるかもだし、\nとりあえず、下の階を探してみようぜ？",
+    "translation": "また目撃してる花がいるかもだし、\nとりあえず、下の階を探してみようぜ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "speaker_朗らかな花",
+    "original": "朗らかな花",
+    "translation": "朗らかな花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_のんびりした花",
+    "original": "のんびりした花",
+    "translation": "のんびりした花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

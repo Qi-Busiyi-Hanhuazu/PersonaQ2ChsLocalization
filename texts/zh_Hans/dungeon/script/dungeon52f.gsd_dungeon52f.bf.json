@@ -1,0 +1,23 @@
+[
+  {
+    "key": "MSG_ITEMPOINT_0",
+    "original": "＞パワースポットを調べた…",
+    "translation": "＞检查了能量点……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞我查了能量景点……\n\n＞调查了能量点……\n\n＞调查了能量地点……"
+  },
+  {
+    "key": "MSG_ITEMPOINT_1",
+    "original": "＞…？",
+    "translation": "＞……？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞……？"
+  },
+  {
+    "key": "MSG_ITEMPOINT_2",
+    "original": "＞ＢＰ２を手に入れた。",
+    "translation": "＞获得BP2。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞获得BP2。\n\n＞得到了BP2。"
+  }
+]

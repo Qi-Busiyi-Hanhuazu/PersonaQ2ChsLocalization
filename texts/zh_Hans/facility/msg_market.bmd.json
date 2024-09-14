@@ -1,0 +1,37 @@
+[
+  {
+    "key": "market_sel_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "market_sel_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "MSHOP_BUY_MSG2_0",
+    "original": "＞[占位A 02]個で[占位A 03]円になります。\n　購入しますか？",
+    "translation": "＞[占位A 02]个是[占位A 03]元。\n　要购买吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞[占位A 02]个是[占位A 03]圆。\n　要购买吗？\n\n＞[占位A 02]个[占位A 03]圆。\n　购买吗？\n\n＞[占位A 02]个就是[占位A 03]圆。\n　购买吗？"
+  },
+  {
+    "key": "market_conf_0",
+    "original": "＞これで売りにだしますが宜しいですか？",
+    "translation": "＞确定要将其出售吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞这样可以开始贩售了吗？\n\n＞这就卖给您，可以吗？\n\n＞这样就可以出售了吗？"
+  },
+  {
+    "key": "speaker_　",
+    "original": "　",
+    "translation": "　",
+    "stage": 0,
+    "context": ""
+  }
+]

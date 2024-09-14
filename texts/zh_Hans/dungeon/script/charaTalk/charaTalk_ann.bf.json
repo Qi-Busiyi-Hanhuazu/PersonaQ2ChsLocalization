@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "あ！　ここ採取出来るみたい！\nどうしよっか？",
+    "translation": "哇！好像可以在这里采集哎！\n要怎么办呢？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n啊！这里好像可以采集！\n要怎么做？\n\n啊！这里好像可以采集！\n怎么办？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "オーケー！\n周りに気をつけて探そう！",
+    "translation": "OK！\n注意观察周围，谨慎探索吧！",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\nOK！\n注意周围，找找看吧！\n\n好的！\n注意周围寻找！\n\nOK ！注意周围寻找吧！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "分かった！\n集中して探すね！",
+    "translation": "明白了！\n集中精力探索吧！",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n我知道了！\n集中精神找吧！\n\n我知道了！\n集中精力找啊！\n\n明白了！\n集中寻找！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "危ないかもしれないしね。\nまた、気が向いたら探してみよっか。",
+    "translation": "可能会很危险呢。\n之后有机会再来探索吧。",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n毕竟可能会有危险呢。\n等之后有那个心情再找找看吧。\n\n可能很危险呢。\n如果你喜欢的话，再找找看吧。\n\n可能很危险。有空再去找找看吧。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全部みたいだね。",
+    "translation": "看来这就是全部了呢。",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n这样好像就全部都采集到了呢。\n\n这就是全部了。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ゲーット！",
+    "translation": "到手啦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nGet！\n\n盖特！\n\n嘎！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うわぁ！",
+    "translation": "唔哇！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哇！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん！",
+    "translation": "嗯！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "び、びっくりした…\nもう終わりにしておこ？",
+    "translation": "吓、吓我一跳……\n要不就先停下吧？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n吓、吓我一跳……\n要结束了吗？\n\n吓了一跳……\n已经结束了吗？\n\n吓了一跳……\n就这么结束吧？"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "凄くない！？",
+    "translation": "这不是很厉害嘛！？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好厉害！\n\n不是很厉害！？\n\n不厉害！？"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "テンション上がる！",
+    "translation": "情绪高涨呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好兴奋！\n\n情绪高涨！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "イェーイ！",
+    "translation": "耶！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n耶！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あ！　近道できそう！\nどうする？　通る？",
+    "translation": "啊！好像可以抄近道呢！\n要怎么办？去看看吗？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n啊！好像有捷径！\n要怎么做？要走吗？\n\n啊！可以抄近路！\n怎么办？通过，通过？\n\n啊！可以抄近路了！\n怎么办？通过吗？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないみたいだね…",
+    "translation": "这边好像过不去呢……",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n这边好像不能通过呢……\n\n这边好像不能通过啊……"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ね、ここヤバくない？\nなんか嫌な気配がするんだけど…",
+    "translation": "我说，这里有些危险吧？\n感觉有点讨厌啊……",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n欸，这里是不是不太妙啊？\n总觉得有种讨厌的气息……\n\n喂，这里不坏吗？\n总觉得有一种讨厌的气息……\n\n喂，这里不糟糕吗？\n总觉得有点讨厌……"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "う、うん。分かった。",
+    "translation": "唔，嗯。我明白了。",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n唔，嗯。我知道了。\n\n嗯、嗯。我知道了。"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだね。\n止めておこっか。",
+    "translation": "说得是呢\n那就停下来吧。",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n是呢。\n还是别过去吧。\n\n是啊。\n停下来拍马屁。\n\n是啊。阻止我吧。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ふう…どうなることかと思った。\nすごく強かったね。",
+    "translation": "呼……还以为会发生什么呢。\n刚才的敌人真的很强呢。",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n呼……我还以为会怎么样呢。\n好强啊。\n\n嗯……我还以为会怎么样呢。\n真厉害啊。\n\n哼……不知道会怎么样。\n很厉害呢。"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここ、シャドウの気配ヤバくない？\nどうしよっか？",
+    "translation": "这里全是暗影的气息啊？\n要怎么办呢？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n这边，暗影的气息是不是很不妙？\n怎么办？\n\n这里，有暗影的气息吗？\n怎么办？\n\n这里没有暗影的气息吗？\n怎么办？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "分かった。\n気をつけて探そ！",
+    "translation": "明白了。\n谨慎地探索吧！",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n我知道了。\n小心地找吧！\n\n我知道了。\n小心寻找！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだね。\n止めておこっか。",
+    "translation": "说得是呢。\n那就停下来吧。",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n是呢。\n还是别过去吧。\n\n是啊。\n停下来拍马屁。\n\n是啊。阻止我吧。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ふう…危なかったね。",
+    "translation": "呼……真是危险呢。",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n呼……真是好险呢。\n\n啊……真危险啊。\n\n哼……太危险了。"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "これ映画館に戻る所だよね？\n戻る？",
+    "translation": "从这里能能回电影院呢。\n要回去吗？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n这里是回到电影院的地方吧？\n回去？\n\n这是回电影院的地方吧？\n返回？\n\n这是回电影院的地方吧？\n回去？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

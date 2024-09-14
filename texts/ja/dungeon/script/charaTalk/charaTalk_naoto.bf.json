@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す ",
+    "translation": "警戒しながら探す ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する ",
+    "translation": "採取に専念する ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる ",
+    "translation": "やめる ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す ",
+    "translation": "探す ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる ",
+    "translation": "やめる ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る ",
+    "translation": "通る ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない ",
+    "translation": "通らない ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る ",
+    "translation": "戻る ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない ",
+    "translation": "戻らない ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "オタカラスポットのようですね。\n採取しますか？ ",
+    "translation": "オタカラスポットのようですね。\n採取しますか？ ",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "分かりました。 \nでは、周囲に気をつけて採取しましょう。 ",
+    "translation": "分かりました。 \nでは、周囲に気をつけて採取しましょう。 ",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "了解しました。 \nでは、しっかり探しましょう。 ",
+    "translation": "了解しました。 \nでは、しっかり探しましょう。 ",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "了解です。 ",
+    "translation": "了解です。 ",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全てみたいですね。 ",
+    "translation": "これで全てみたいですね。 ",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "まずまずかな。 ",
+    "translation": "まずまずかな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ふむ… ",
+    "translation": "ふむ… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "頂いていきましょう。 ",
+    "translation": "頂いていきましょう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "無事に採取は完了しましたが…\nやはり気が抜けませんね。",
+    "translation": "無事に採取は完了しましたが…\nやはり気が抜けませんね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "レアですよ！ ",
+    "translation": "レアですよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "これは…！ ",
+    "translation": "これは…！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "やりましたね。 ",
+    "translation": "やりましたね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットです。 \n開けておきますか？ ",
+    "translation": "ショートカットです。 \n開けておきますか？ ",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こちらは通れないんですね。 ",
+    "translation": "こちらは通れないんですね。 ",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ここは…\n凄く危険な気配がします。",
+    "translation": "ここは…\n凄く危険な気配がします。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かりました。\n気をつけて調べましょう。",
+    "translation": "分かりました。\n気をつけて調べましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうですね。\n賢明な判断だと思います。",
+    "translation": "そうですね。\n賢明な判断だと思います。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "今のは…かなりの強敵でしたね。",
+    "translation": "今のは…かなりの強敵でしたね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "この近辺、\nシャドウの気配がします。",
+    "translation": "この近辺、\nシャドウの気配がします。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "分かりました。\n気をつけて調べましょう。",
+    "translation": "分かりました。\n気をつけて調べましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "了解です。\n止めておきましょうか。",
+    "translation": "了解です。\n止めておきましょうか。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "これで終わりみたいですね。",
+    "translation": "これで終わりみたいですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから映画館に戻れるようですね。\nどうしますか？",
+    "translation": "ここから映画館に戻れるようですね。\nどうしますか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

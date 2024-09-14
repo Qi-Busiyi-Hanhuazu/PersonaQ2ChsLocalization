@@ -1,0 +1,527 @@
+[
+  {
+    "key": "KUMA_FOE_FOLLOW_START_1_0",
+    "original": "Ｆ．Ｏ．Ｅが来てるクマ！",
+    "translation": "Ｆ．Ｏ．Ｅが来てるクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_FOE_FOLLOW_START_2_0",
+    "original": "ぎゃー！\nＦ．Ｏ．Ｅがこっち来てるクマー！",
+    "translation": "ぎゃー！\nＦ．Ｏ．Ｅがこっち来てるクマー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_FOE_FOLLOW_START_3_0",
+    "original": "Ｆ．Ｏ．Ｅがきーたー！",
+    "translation": "Ｆ．Ｏ．Ｅがきーたー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅハッケーン！\n注意するクマ！",
+    "translation": "Ｆ．Ｏ．Ｅハッケーン！\n注意するクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅに気をつけれ～！",
+    "translation": "Ｆ．Ｏ．Ｅに気をつけれ～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_FOE_NEAR_3_0",
+    "original": "クンクン、このニオイ…\nＦ．Ｏ．Ｅクマ！",
+    "translation": "クンクン、このニオイ…\nＦ．Ｏ．Ｅクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_FOE_FOLLOW_END_1_0",
+    "original": "残念、Ｆ．Ｏ．Ｅには捕まらんクマ！",
+    "translation": "残念、Ｆ．Ｏ．Ｅには捕まらんクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_FOE_FOLLOW_END_2_0",
+    "original": "ふい～、Ｆ．Ｏ．Ｅから逃げ切ったクマ。",
+    "translation": "ふい～、Ｆ．Ｏ．Ｅから逃げ切ったクマ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_FOE_FOLLOW_END_3_0",
+    "original": "およ？\nＦ．Ｏ．Ｅが、諦めたみたいクマ！",
+    "translation": "およ？\nＦ．Ｏ．Ｅが、諦めたみたいクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_KANSI_REACTION_1_0",
+    "original": "抜き足、差し足、忍びクマ！",
+    "translation": "抜き足、差し足、忍びクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_KANSI_REACTION_2_0",
+    "original": "かくれんぼみたいクマね～。",
+    "translation": "かくれんぼみたいクマね～。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_KANSI_REACTION_3_0",
+    "original": "ちょっぴり緊張するクマ…",
+    "translation": "ちょっぴり緊張するクマ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_DENKISAKU_REACTION__0",
+    "original": "触ったらビリビリするクマ！？",
+    "translation": "触ったらビリビリするクマ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_DENKISAKU_REACTION__2_0",
+    "original": "こんな罠には引っかからないクマ！",
+    "translation": "こんな罠には引っかからないクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_DENKISAKU_REACTION__3_0",
+    "original": "丸焦げになる前に止めるクマ！",
+    "translation": "丸焦げになる前に止めるクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_KYOUHU_REACTION_1_0",
+    "original": "ぴゅ～クマ～！",
+    "translation": "ぴゅ～クマ～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_KYOUHU_REACTION_2_0",
+    "original": "クマァー！",
+    "translation": "クマァー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_KYOUHU_REACTION_3_0",
+    "original": "どっしぇー！",
+    "translation": "どっしぇー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_STAIR_FIND_1_0",
+    "original": "進めそうな場所ハッケーン！",
+    "translation": "進めそうな場所ハッケーン！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_STAIR_FIND_2_0",
+    "original": "ムムッ、次のエリアの気配クマ！",
+    "translation": "ムムッ、次のエリアの気配クマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_STAIR_FIND_3_0",
+    "original": "そこから先に進めそうクマよ！",
+    "translation": "そこから先に進めそうクマよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_TREASURE_FIND_1_0",
+    "original": "宝箱の中身は、きっと…ムフフ…",
+    "translation": "宝箱の中身は、きっと…ムフフ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_TREASURE_FIND_2_0",
+    "original": "宝箱クマ！　とっとと取っとこ！\nなんちって…ウププ",
+    "translation": "宝箱クマ！　とっとと取っとこ！\nなんちって…ウププ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_TREASURE_FIND_3_0",
+    "original": "宝箱の中はなんじゃらほい！？",
+    "translation": "宝箱の中はなんじゃらほい！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_CHECK_WALL_1_0",
+    "original": "クンクン…この辺がなんか臭うクマ。",
+    "translation": "クンクン…この辺がなんか臭うクマ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_CHECK_WALL_2_0",
+    "original": "クンクン…何かありそうクマね…",
+    "translation": "クンクン…何かありそうクマね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_CHECK_WALL_3_0",
+    "original": "この辺、怪しい気配を感じるクマ。",
+    "translation": "この辺、怪しい気配を感じるクマ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_SWITCH_FIND_1_0",
+    "original": "スイッチを見つけたクマ！",
+    "translation": "スイッチを見つけたクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_SWITCH_FIND_2_0",
+    "original": "スイッチ、押スイッチ？\nなんて…ウププ！",
+    "translation": "スイッチ、押スイッチ？\nなんて…ウププ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_SWITCH_FIND_3_0",
+    "original": "スイッチクマ！\nポチッとしていーい？",
+    "translation": "スイッチクマ！\nポチッとしていーい？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_SHORTCUT_FIND_1_0",
+    "original": "そこそこ！　通れるっぽいクマ！",
+    "translation": "そこそこ！　通れるっぽいクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_SHORTCUT_FIND_2_0",
+    "original": "そこから近道していくクマ～！",
+    "translation": "そこから近道していくクマ～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_SHORTCUT_FIND_3_0",
+    "original": "近道発見！\nクマの鼻は誤魔化せんクマ！",
+    "translation": "近道発見！\nクマの鼻は誤魔化せんクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_FOE_WARNING_NEAR_1_0",
+    "original": "一難去って、またＦ．Ｏ．Ｅクマ！",
+    "translation": "一難去って、またＦ．Ｏ．Ｅクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_FOE_WARNING_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅがまた来てるクマね！",
+    "translation": "Ｆ．Ｏ．Ｅがまた来てるクマね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_FOE_WARNING_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅ、しつこすぎるクマー…",
+    "translation": "Ｆ．Ｏ．Ｅ、しつこすぎるクマー…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_1PERSON_HPTP10_1_0",
+    "original": "シンドすぎるクマ～…",
+    "translation": "シンドすぎるクマ～…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_1PERSON_HPTP10_2_0",
+    "original": "およよ、お花畑が見えてきたクマァ…",
+    "translation": "およよ、お花畑が見えてきたクマァ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_1PERSON_HPTP10_3_0",
+    "original": "あかん…クマ、お星様になりそう…",
+    "translation": "あかん…クマ、お星様になりそう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_1PERSON_HP10_1_0",
+    "original": "体力ピンチ！　助けてチョーダイ！",
+    "translation": "体力ピンチ！　助けてチョーダイ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_1PERSON_HP10_2_0",
+    "original": "クマ、干物になりそうクマ…",
+    "translation": "クマ、干物になりそうクマ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_1PERSON_HP10_3_0",
+    "original": "しんどいクマァ…回復プリーズ！",
+    "translation": "しんどいクマァ…回復プリーズ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_1PERSON_TP10_1_0",
+    "original": "クマの気力がピンチぜよ…",
+    "translation": "クマの気力がピンチぜよ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_1PERSON_TP10_2_0",
+    "original": "もう、ダメ…動けない…\n美少年とは、かくも儚きクマ…",
+    "translation": "もう、ダメ…動けない…\n美少年とは、かくも儚きクマ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_1PERSON_TP10_3_0",
+    "original": "クマ、なんだかとても疲れたんだ…",
+    "translation": "クマ、なんだかとても疲れたんだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_1PERSON_HP80_1_0",
+    "original": "いえーい。絶好調クマー！",
+    "translation": "いえーい。絶好調クマー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_1PERSON_HP80_2_0",
+    "original": "まだまだ頑張れるクマ！",
+    "translation": "まだまだ頑張れるクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_1PERSON_HP80_3_0",
+    "original": "この調子でブイブイ言わせるクマよ！",
+    "translation": "この調子でブイブイ言わせるクマよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_DUNGEON_START_1_0",
+    "original": "出発するクマー！",
+    "translation": "出発するクマー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_DUNGEON_START_2_0",
+    "original": "みんな、クマについてきんしゃーい！",
+    "translation": "みんな、クマについてきんしゃーい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_DUNGEON_START_3_0",
+    "original": "全力で行くクマよー！",
+    "translation": "全力で行くクマよー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_QUEST_START_1_0",
+    "original": "特別上映、やってやるクマ！",
+    "translation": "特別上映、やってやるクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_QUEST_START_2_0",
+    "original": "だいじょーぶ、きっと成功するクマ！",
+    "translation": "だいじょーぶ、きっと成功するクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_QUEST_START_3_0",
+    "original": "みんなで頑張るクマ～！",
+    "translation": "みんなで頑張るクマ～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_TOUHA_25_1_0",
+    "original": "ふぃー…まだ先は長そうクマね～。",
+    "translation": "ふぃー…まだ先は長そうクマね～。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_TOUHA_25_2_0",
+    "original": "ちょっとだけ地図が埋まったクマ。",
+    "translation": "ちょっとだけ地図が埋まったクマ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_TOUHA_50_1_0",
+    "original": "えーと、半分くらい歩いたクマ？",
+    "translation": "えーと、半分くらい歩いたクマ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_TOUHA_50_2_0",
+    "original": "このフロアも大分わかってきたクマ！",
+    "translation": "このフロアも大分わかってきたクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_TOUHA_75_1_0",
+    "original": "かなり進んだ気がするクマ～！",
+    "translation": "かなり進んだ気がするクマ～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_TOUHA_75_2_0",
+    "original": "あと少しで、全部回れそうクマね。",
+    "translation": "あと少しで、全部回れそうクマね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_TOUHA_100_1_0",
+    "original": "やったー、コンプリートクマよ！",
+    "translation": "やったー、コンプリートクマよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_TOUHA_100_2_0",
+    "original": "全部回れたクマね、やったクマ！",
+    "translation": "全部回れたクマね、やったクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_MAPPING_ICON_ALL_1_0",
+    "original": "ほほー。いい地図が出来そうクマね。",
+    "translation": "ほほー。いい地図が出来そうクマね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_MAPPING_ICON_ALL_2_0",
+    "original": "おおー、見やすくなったクマ！",
+    "translation": "おおー、見やすくなったクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_MAPPING_ICON_KAIDAN_0",
+    "original": "階段が分かれば、迷わないクマ！",
+    "translation": "階段が分かれば、迷わないクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_MAPPING_ICON_KAIDAN_2_0",
+    "original": "ヒューウ、さっすがー！",
+    "translation": "ヒューウ、さっすがー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_MAPPING_CHANGE_COLO_0",
+    "original": "クマも！　クマも描きたいクマ～！",
+    "translation": "クマも！　クマも描きたいクマ～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_MAPPING_CHANGE_COLO_2_0",
+    "original": "ほほーう。センスが光ってるクマね。",
+    "translation": "ほほーう。センスが光ってるクマね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_MAPPING_ICON_DEL_1_0",
+    "original": "ポイっとする男気、シビレるクマ～。",
+    "translation": "ポイっとする男気、シビレるクマ～。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_MAPPING_ICON_DEL_2_0",
+    "original": "片付けはマメに。\nってヨースケがいつも言ってるクマ。",
+    "translation": "片付けはマメに。\nってヨースケがいつも言ってるクマ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_MAPPING_MEMO_1_0",
+    "original": "ふんふん。これなら忘れないクマね～。",
+    "translation": "ふんふん。これなら忘れないクマね～。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_MAPPING_MEMO_2_0",
+    "original": "とっても分かりやすい地図だクマ！",
+    "translation": "とっても分かりやすい地図だクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_DOOR_OPEN_1_0",
+    "original": "進むクマ～。",
+    "translation": "進むクマ～。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_DOOR_OPEN_2_0",
+    "original": "こっちクマよ！",
+    "translation": "こっちクマよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "KUMA_DOOR_OPEN_3_0",
+    "original": "行くクマ～。",
+    "translation": "行くクマ～。",
+    "stage": 1,
+    "context": ""
+  }
+]

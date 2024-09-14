@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "っつっても、どこに逃げりゃ良いんだ！？",
+    "translation": "就算你这么说，到底要往哪里逃才好呢！？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n可是，我该往哪里逃啊？！\n\n但是，逃到哪里才好呢！？\n\n可是，逃到哪里好呢！？"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "ナビ！",
+    "translation": "NAVI！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n导航！"
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "様子を見よう",
+    "translation": "观察情况",
+    "stage": 1,
+    "context": "机翻辅助：\n\n观察一下情况吧\n\n看看情况\n\n看看情况吧"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ちょい待ち！\n逃走経路に使えそうなのは、っと…",
+    "translation": "稍等！\n能用的逃跑路线在，嗯……",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n等一下！\n能用来当逃走路径的有……\n\n稍等一下！\n可以用于逃跑路线的是……\n\n等一下！\n逃跑路线可能使用的是……"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そんな余裕はなさそうよ！\n援軍が来る前に、ここから離れないと…",
+    "translation": "没有那么多时间了！\n得在援军到来之前赶紧离开这里……",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n现在可没空悠哉地做这种事！\n得在援军抵达前离开这里才行……\n\n好像没有那么充裕的时间哦！\n在援军到来之前，必须离开这里……\n\n好像没有那种闲工夫！在援军到来之前，必须离开这里……"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "ナビ！　どこか安全な場所は！？",
+    "translation": "NAVI！有没有安全的地方？",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n导航！哪里有安全的地方！？\n\n导航！哪里是安全的地方！？\n\n导航！有什么安全的地方吗？？"
+  },
+  {
+    "key": "MSG_003_05_0",
+    "original": "ちょい待ち！\n今、探して…",
+    "translation": "稍等一下！\n我这就找……",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n等一下！\n我找找看……\n\n稍等一下！\n现在，寻找……\n\n等一下！\n现在，寻找……"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ジョーカー、向こうに進んでくれ！\nあっちなら敵もいないはずだ！",
+    "translation": "JOKER，快去对面！\n那边应该没有敌人！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\nJOKER，往对面前进！\n对面应该没有敌人！\n\nJOKER、往那边走！\n那边应该没有敌人！\n\nJOKER，向那边前进！那边应该没有敌人！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "よし！　行くぞ、オマエら！",
+    "translation": "好！大家快走吧！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n好！你们几个，我们上！\n\n好！走吧，你们！"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "そんじゃ、謎の気配の正体も分かったし\n真と春を捜しに戻っか。",
+    "translation": "そんじゃ、謎の気配の正体も分かったし\n真と春を捜しに戻っか。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "…その前に、モルガナ。\n訊いておきたいことがある。",
+    "translation": "…その前に、モルガナ。\n訊いておきたいことがある。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "映画に入った俺たちは、\nそちら側から見えていたのか？",
+    "translation": "映画に入った俺たちは、\nそちら側から見えていたのか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああ、スクリーンにバッチリ映ってた。\nまるで映画の登場人物みたいだったぜ。",
+    "translation": "ああ、スクリーンにバッチリ映ってた。\nまるで映画の登場人物みたいだったぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "へえ、それは面白いね。\n僕もこっちから見てみたいな。",
+    "translation": "へえ、それは面白いね。\n僕もこっちから見てみたいな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…ただ、おかしなこともある。",
+    "translation": "…ただ、おかしなこともある。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "オマエらが先へ進まないと、\n同じシーンが繰り返されるようだな。",
+    "translation": "オマエらが先へ進まないと、\n同じシーンが繰り返されるようだな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "繰り返し？",
+    "translation": "繰り返し？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "動画のリピート再生みたいな感じだ。\nみんなが進むと、映画も進む。",
+    "translation": "動画のリピート再生みたいな感じだ。\nみんなが進むと、映画も進む。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "つまり、俺たちが\n役者として映画を創る…ということか。",
+    "translation": "つまり、俺たちが\n役者として映画を創る…ということか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "なかなかに稀有な創作活動だ。",
+    "translation": "なかなかに稀有な創作活動だ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ねぇ、モルガナ。\n館内には手がかりとかなかったの？",
+    "translation": "ねぇ、モルガナ。\n館内には手がかりとかなかったの？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ああ…あちこち探索したが、\nマコトとハルに繋がるようなモノはない。",
+    "translation": "ああ…あちこち探索したが、\nマコトとハルに繋がるようなモノはない。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "二人を捜すなら、映画の中の方だろうな。",
+    "translation": "二人を捜すなら、映画の中の方だろうな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_009_2",
+    "original": "というわけで、\nここからはワガハイも参戦するぞ！",
+    "translation": "というわけで、\nここからはワガハイも参戦するぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "それは心強いけど…\n双葉だけ残して大丈夫かな？",
+    "translation": "それは心強いけど…\n双葉だけ残して大丈夫かな？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "心配だな",
+    "translation": "心配だな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "双葉なら出来る",
+    "translation": "双葉なら出来る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_2",
+    "original": "信用できない…",
+    "translation": "信用できない…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "お、おう！\nこれはアツい信頼フラグか？",
+    "translation": "お、おう！\nこれはアツい信頼フラグか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "なぬ！？　もしや、\nわたしが人見知りだからか！？",
+    "translation": "なぬ！？　もしや、\nわたしが人見知りだからか！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "そうじゃねえって！",
+    "translation": "そうじゃねえって！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "…いや、それもあるだろうけど。",
+    "translation": "…いや、それもあるだろうけど。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "おい、[P5名]。\nちょっと耳かせ。",
+    "translation": "おい、[P5名]。\nちょっと耳かせ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "モルガナが声を潜めて、\n耳打ちをしてきた…",
+    "translation": "モルガナが声を潜めて、\n耳打ちをしてきた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "…ずっとヒカリたちと一緒にいたが、\n特におかしな所はなかった。",
+    "translation": "…ずっとヒカリたちと一緒にいたが、\n特におかしな所はなかった。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "フタバをおいていっても、\n問題はないと思うぜ。",
+    "translation": "フタバをおいていっても、\n問題はないと思うぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "わたしなら気にするな。\nひかりも青いヤツらも、波長あいそうだし。",
+    "translation": "わたしなら気にするな。\nひかりも青いヤツらも、波長あいそうだし。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "それに、もしこっちでなんか起きたとき、\n誰もいないのヤバいし。",
+    "translation": "それに、もしこっちでなんか起きたとき、\n誰もいないのヤバいし。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_2",
+    "original": "わたしは、ここで連絡係とナビに徹する！\n異議はあるか？",
+    "translation": "わたしは、ここで連絡係とナビに徹する！\n異議はあるか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "そうしてもらえると、こちらも助かる。\n頼んだぞ。",
+    "translation": "そうしてもらえると、こちらも助かる。\n頼んだぞ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "決定だな。",
+    "translation": "決定だな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "…モルガナも…行くの？",
+    "translation": "…モルガナも…行くの？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "当然だろ。\nワガハイは結構スゴウデなんだぜ？",
+    "translation": "当然だろ。\nワガハイは結構スゴウデなんだぜ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "戦えるのかもしれないけど…\nでも…",
+    "translation": "戦えるのかもしれないけど…\nでも…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ニャフッフッフ…\nま、ここで見てろって。",
+    "translation": "ニャフッフッフ…\nま、ここで見てろって。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "なあ、[P5名]？\n修羅場くぐり抜けてきてるもんな？",
+    "translation": "なあ、[P5名]？\n修羅場くぐり抜けてきてるもんな？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_025_0",
+    "original": "心配無用だ",
+    "translation": "心配無用だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_025_1",
+    "original": "仲間は見捨てられない",
+    "translation": "仲間は見捨てられない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "そういうワケだ。\nよしオマエら、行こうぜ！",
+    "translation": "そういうワケだ。\nよしオマエら、行こうぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "なら先に、誰が前線に出るか\n見直したほうがいいぞ。",
+    "translation": "なら先に、誰が前線に出るか\n見直したほうがいいぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "全員でゾロゾロと行動したって、\n敵に見つかりやすくなるだけだからな。",
+    "translation": "全員でゾロゾロと行動したって、\n敵に見つかりやすくなるだけだからな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "確かにな。それと『隊列』だが、\n前列と後列の配置もよく考えろよ？",
+    "translation": "確かにな。それと『隊列』だが、\n前列と後列の配置もよく考えろよ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "後列にいるメンバーは、\n敵から受ける被害が小さいんだ。",
+    "translation": "後列にいるメンバーは、\n敵から受ける被害が小さいんだ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  }
+]

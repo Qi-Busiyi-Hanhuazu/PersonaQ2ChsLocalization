@@ -1,0 +1,135 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "不死身の怪人、クイーン・ジョーを撃破！\n戦士たちよ、見事だ！",
+    "translation": "不死身の怪人、クイーン・ジョーを撃破！\n戦士たちよ、見事だ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "へっ、見たかよアゴ野郎！\nおととい来やがれってんだ！",
+    "translation": "へっ、見たかよアゴ野郎！\nおととい来やがれってんだ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ダメですよ、巽さん。\nヒーローがそんな下品な言葉遣いじゃ。",
+    "translation": "ダメですよ、巽さん。\nヒーローがそんな下品な言葉遣いじゃ。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "後口上はもっとカッコよく\nスマートにお願いします。",
+    "translation": "後口上はもっとカッコよく\nスマートにお願いします。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そ、そうなんか？　じゃあ…",
+    "translation": "そ、そうなんか？　じゃあ…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "お、思い知ったかオレらのパワー！\n不死鳥戦隊、ここにアリだぜ！",
+    "translation": "お、思い知ったかオレらのパワー！\n不死鳥戦隊、ここにアリだぜ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "そうそう、それです！\n僕だって！",
+    "translation": "そうそう、それです！\n僕だって！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "不死鳥戦隊ある限り、この世に悪は栄えない！\n明日も戦え、フェザーマン！",
+    "translation": "不死鳥戦隊ある限り、この世に悪は栄えない！\n明日も戦え、フェザーマン！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "決まったな",
+    "translation": "決まったな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "カッコいいぞ",
+    "translation": "カッコいいぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ありがとうございます！\nみんなで力を合わせたおかげですね。",
+    "translation": "ありがとうございます！\nみんなで力を合わせたおかげですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "へへ、ちょっとヒーローっぽかったかな？\nなんか夢みたいです。",
+    "translation": "へへ、ちょっとヒーローっぽかったかな？\nなんか夢みたいです。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "こうして暴君は滅び、ジュネシック・ランドの\n平和は守られたのだった…",
+    "translation": "こうして暴君は滅び、ジュネシック・ランドの\n平和は守られたのだった…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "次回、不死鳥戦隊フェザーマン。\nヒーローたちの帰還！",
+    "translation": "次回、不死鳥戦隊フェザーマン。\nヒーローたちの帰還！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "よくわからんが、一件落着みたいだな。\n帰って報告するぞ。",
+    "translation": "よくわからんが、一件落着みたいだな。\n帰って報告するぞ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

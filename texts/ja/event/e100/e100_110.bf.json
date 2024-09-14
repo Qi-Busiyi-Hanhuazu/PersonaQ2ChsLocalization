@@ -1,0 +1,443 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よっし。\n早く真と春を助けに行こうぜ！",
+    "translation": "よっし。\n早く真と春を助けに行こうぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "映画の中、けっこう入り組んでたけど\n迷わないかな…",
+    "translation": "映画の中、けっこう入り組んでたけど\n迷わないかな…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "双葉、ナビできそう？",
+    "translation": "双葉、ナビできそう？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うーん…色々試してはみたけど、\nいつも通りにはいかなそうだな。",
+    "translation": "うーん…色々試してはみたけど、\nいつも通りにはいかなそうだな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "やや不安定っていうか、ハッキリとした\n位置情報が把握できない。",
+    "translation": "やや不安定っていうか、ハッキリとした\n位置情報が把握できない。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "妨害でもされているのか？",
+    "translation": "妨害でもされているのか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ここに異変をもたらした何者かが\n細工しているのかもしれないね。",
+    "translation": "ここに異変をもたらした何者かが\n細工しているのかもしれないね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "つって、真たちをほっとけるかよ。\nナビ無しでも行くしかねえだろ。",
+    "translation": "つって、真たちをほっとけるかよ。\nナビ無しでも行くしかねえだろ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "大丈夫、俺、カンなら自信あるし。\n野生のカン的な。",
+    "translation": "大丈夫、俺、カンなら自信あるし。\n野生のカン的な。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "信用度ゼロすぎるだろ！",
+    "translation": "信用度ゼロすぎるだろ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "あの、これ…使える？",
+    "translation": "あの、これ…使える？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ん？　それは…ノートか？",
+    "translation": "ん？　それは…ノートか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "うん…使えないかな…？",
+    "translation": "うん…使えないかな…？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "おおっ、なるほど！\nアナログという手があったな！",
+    "translation": "おおっ、なるほど！\nアナログという手があったな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "そっか、ノートに地図を描いていけば\n安心ってわけだね。",
+    "translation": "そっか、ノートに地図を描いていけば\n安心ってわけだね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "[P5名]、映画の中を進んだら\n道順をノートに描き込んでいってくれ。",
+    "translation": "[P5名]、映画の中を進んだら\n道順をノートに描き込んでいってくれ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "そうすれば、地図としても使えるし\n道に迷うこともない…はずだ！",
+    "translation": "そうすれば、地図としても使えるし\n道に迷うこともない…はずだ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "これ、本当に使っていいのか？\nヒカリのノートなんだろう？",
+    "translation": "これ、本当に使っていいのか？\nヒカリのノートなんだろう？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "それ…気づいたら持ってて…",
+    "translation": "それ…気づいたら持ってて…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "どうすればいいか、分からなくて…\n使っていい…ていうか、使って…",
+    "translation": "どうすればいいか、分からなくて…\n使っていい…ていうか、使って…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "じゃあ、遠慮なく使うね。\nどうもありがとう！",
+    "translation": "じゃあ、遠慮なく使うね。\nどうもありがとう！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "……っ。",
+    "translation": "……っ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "[P5名]、地図の作成は任せたぞ。",
+    "translation": "[P5名]、地図の作成は任せたぞ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_018_0",
+    "original": "わかった",
+    "translation": "わかった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_1",
+    "original": "祐介のほうが向いてる",
+    "translation": "祐介のほうが向いてる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_2",
+    "original": "竜司、頼んだ",
+    "translation": "竜司、頼んだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ああ、こういうのは\nリーダーの方が適任だからな。",
+    "translation": "ああ、こういうのは\nリーダーの方が適任だからな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "たしかに、地図と言えども美しく\n仕上げる自信はある。",
+    "translation": "たしかに、地図と言えども美しく\n仕上げる自信はある。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "だが俺に預けると、ものの数分で\n使い切ってしまうと思うが…いいか？",
+    "translation": "だが俺に預けると、ものの数分で\n使い切ってしまうと思うが…いいか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "よくねーよ！　なに描く気だよ！",
+    "translation": "よくねーよ！　なに描く気だよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_021_5_0",
+    "original": "やっぱここはリーダーのお前に任せるわ。\n頼むぜ。",
+    "translation": "やっぱここはリーダーのお前に任せるわ。\n頼むぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "いや、そういう几帳面なのマジムリ！\n西とか東とか、絶対こんがらがる！",
+    "translation": "いや、そういう几帳面なのマジムリ！\n西とか東とか、絶対こんがらがる！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ハァ…映画の中で迷子は勘弁だ。\nここはリーダーのオマエが適任だな。",
+    "translation": "ハァ…映画の中で迷子は勘弁だ。\nここはリーダーのオマエが適任だな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "皆さま、行かれるのですね…\nくれぐれも、ご無理だけはなさらないで。",
+    "translation": "皆さま、行かれるのですね…\nくれぐれも、ご無理だけはなさらないで。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "見くびるなって。\nこれくらい俺らなら余裕だぜ。",
+    "translation": "見くびるなって。\nこれくらい俺らなら余裕だぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "こ、このスクリーンに飛び込めば\n映画の中に入れるんだよ…ね？",
+    "translation": "こ、このスクリーンに飛び込めば\n映画の中に入れるんだよ…ね？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "パレスの中に入るのとは、\nまた違った趣だな。",
+    "translation": "パレスの中に入るのとは、\nまた違った趣だな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "よっしゃっ！　行こうぜ！！",
+    "translation": "よっしゃっ！　行こうぜ！！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_028_1_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "…行かないの？",
+    "translation": "…行かないの？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "な、なんで俺からなんだよ…！\n祐介！！",
+    "translation": "な、なんで俺からなんだよ…！\n祐介！！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "…人間、いざとなると\n踏ん切りがつかないものだな。",
+    "translation": "…人間、いざとなると\n踏ん切りがつかないものだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "オマエら、ほんと仕方ないな…\n[P5名]、ここはビシッと決めてくれ！",
+    "translation": "オマエら、ほんと仕方ないな…\n[P5名]、ここはビシッと決めてくれ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_033_0",
+    "original": "任せろ",
+    "translation": "任せろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_033_1",
+    "original": "どうぞどうぞ",
+    "translation": "どうぞどうぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_033_2",
+    "original": "みんな一緒に行こう",
+    "translation": "みんな一緒に行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "さすがリーダー！　やっぱ頼りになる！",
+    "translation": "さすがリーダー！　やっぱ頼りになる！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "じゃあ、ワガハイがお先に…",
+    "translation": "じゃあ、ワガハイがお先に…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "って、なるかー！",
+    "translation": "って、なるかー！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_035_2",
+    "original": "ここは怪盗団のリーダーとして\nオマエが先陣を切るトコだろ。",
+    "translation": "ここは怪盗団のリーダーとして\nオマエが先陣を切るトコだろ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "じゃあ、みんなで手つないで、\nいっせいに入る？",
+    "translation": "じゃあ、みんなで手つないで、\nいっせいに入る？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "微笑ましすぎだろ！\n幼稚園の運動会か！？",
+    "translation": "微笑ましすぎだろ！\n幼稚園の運動会か！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_037_1",
+    "original": "悪いけど、[P5名]…\nここはリーダーとして、腹括ってくれ。",
+    "translation": "悪いけど、[P5名]…\nここはリーダーとして、腹括ってくれ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "よし、決まりだな。\n任せたぞ、[P5名]！",
+    "translation": "よし、決まりだな。\n任せたぞ、[P5名]！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "みんな…気をつけて…",
+    "translation": "みんな…気をつけて…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  }
+]

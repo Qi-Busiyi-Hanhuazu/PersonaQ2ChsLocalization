@@ -1,0 +1,121 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ワン、ワン！",
+    "translation": "ワン、ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、骨があるね。\nコロマル君の言う通りだった。",
+    "translation": "ああ、骨があるね。\nコロマル君の言う通りだった。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "調べてみてくれ",
+    "translation": "調べてみてくれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "危険は無いか？",
+    "translation": "危険は無いか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "わかった、どれどれ…",
+    "translation": "わかった、どれどれ…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "はは、慌てないでくれ。\nよく見てみないと…",
+    "translation": "はは、慌てないでくれ。\nよく見てみないと…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うん、これは食事の跡で間違いない。\nそれほど新しくはないけどね。",
+    "translation": "うん、これは食事の跡で間違いない。\nそれほど新しくはないけどね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "こうやって辿って行けば、\nいずれ目当ての敵に出会えるだろう。",
+    "translation": "こうやって辿って行けば、\nいずれ目当ての敵に出会えるだろう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "はー、コロちゃんすっご…\nうちのムクじゃゼッタイ無理。",
+    "translation": "はー、コロちゃんすっご…\nうちのムクじゃゼッタイ無理。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "フンフンフン…",
+    "translation": "フンフンフン…",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "ワウッ！　ワフッ！",
+    "translation": "ワウッ！　ワフッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "コロマル、張り切ってますね。\n次は、北の方だって言ってます。",
+    "translation": "コロマル、張り切ってますね。\n次は、北の方だって言ってます。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "わかった。\nそれじゃあ、北へ向かおうか。",
+    "translation": "わかった。\nそれじゃあ、北へ向かおうか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  }
+]

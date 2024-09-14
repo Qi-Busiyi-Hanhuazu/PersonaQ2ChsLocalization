@@ -1,0 +1,4202 @@
+[
+  {
+    "key": "BTLMSGID_AP_SINGLE_0",
+    "original": "[占位A 01]が現れた！",
+    "translation": "[占位A 01]が現れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_AP_S_MANY_0",
+    "original": "[占位A 01]達が現れた！",
+    "translation": "[占位A 01]達が現れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_AP_D_MANY_0",
+    "original": "シャドウの群れが現れた！",
+    "translation": "シャドウの群れが現れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_AP_E_SUP_0",
+    "original": "シャドウが襲いかかってきた！",
+    "translation": "シャドウが襲いかかってきた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_AP_E_SUP_STOP_0",
+    "original": "しかし、[占位A 02]は不意打ちを予測していた。",
+    "translation": "しかし、[占位A 02]は不意打ちを予測していた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_AP_S_SUP_0",
+    "original": "[占位A 01]は先手をとった！",
+    "translation": "[占位A 01]は先手をとった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_AP_D_SUP_0",
+    "original": "味方の先制攻撃！",
+    "translation": "味方の先制攻撃！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ADDENEMY_OPEN_0",
+    "original": "[占位A 01]が呼び出された！",
+    "translation": "[占位A 01]が呼び出された！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ADDENEMY_FOE_0",
+    "original": "新手が参戦してきた！",
+    "translation": "新手が参戦してきた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_ADDENEMY_FOEDEA_0",
+    "original": "黒い影がシャドウ達を襲う！",
+    "translation": "黒い影がシャドウ達を襲う！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_CMD_0",
+    "original": "どうする？",
+    "translation": "どうする？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_CMD_NO_0",
+    "original": "[占位A 01]は動けない！",
+    "translation": "[占位A 01]は動けない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_CMD_NO_ALL_0",
+    "original": "仲間達は動けない！",
+    "translation": "仲間達は動けない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_STONE_0",
+    "original": "[占位A 01]は石化している！",
+    "translation": "[占位A 01]は石化している！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_SLEEP_0",
+    "original": "[占位A 01]は眠っている",
+    "translation": "[占位A 01]は眠っている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_CONFUSE_0",
+    "original": "[占位A 01]は混乱している！",
+    "translation": "[占位A 01]は混乱している！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_PARA_0",
+    "original": "[占位A 01]は麻痺して動けない！",
+    "translation": "[占位A 01]は麻痺して動けない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_TERROR_0",
+    "original": "[占位A 01]はテラー状態で動けない！",
+    "translation": "[占位A 01]はテラー状態で動けない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_STUN_0",
+    "original": "[占位A 01]はぐったりしている！",
+    "translation": "[占位A 01]はぐったりしている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_F_SEAL_HEAD_0",
+    "original": "[占位A 01]は魔封じ効果でスキルが使えない！",
+    "translation": "[占位A 01]は魔封じ効果でスキルが使えない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_F_SEAL_ARM_0",
+    "original": "[占位A 01]は力封じ効果でスキルが使えない！",
+    "translation": "[占位A 01]は力封じ効果でスキルが使えない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_F_SEAL_LEG_0",
+    "original": "[占位A 01]は速封じ効果で逃走できない！",
+    "translation": "[占位A 01]は速封じ効果で逃走できない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_CRITICALHIT_P_0",
+    "original": "[占位A 02]は息絶えた！",
+    "translation": "[占位A 02]は息絶えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_CRITICALHIT_E_0",
+    "original": "[占位A 02]の息の根を止めた！",
+    "translation": "[占位A 02]の息の根を止めた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ATTACK_0",
+    "original": "[占位A 01]の攻撃！",
+    "translation": "[占位A 01]の攻撃！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DAMAGE_P_E_0",
+    "original": "[占位A 02]に[占位A 03]のダメージを与えた！",
+    "translation": "[占位A 02]に[占位A 03]のダメージを与えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DAMAGE_P_E_C_0",
+    "original": "[占位A 03]のダメージを与えた！",
+    "translation": "[占位A 03]のダメージを与えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DAMAGE_E_P_HP_0",
+    "original": "[占位A 02]は[占位A 03]のダメージを受けた！",
+    "translation": "[占位A 02]は[占位A 03]のダメージを受けた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DAMAGE_E_P_TP_0",
+    "original": "[占位A 02]は[占位A 03]のダメージを受けた！",
+    "translation": "[占位A 02]は[占位A 03]のダメージを受けた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_USE_0",
+    "original": "[占位A 01]は[占位A 04]を使った！",
+    "translation": "[占位A 01]は[占位A 04]を使った！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_HPHEAL_0",
+    "original": "[占位A 02]のＨＰが回復した！",
+    "translation": "[占位A 02]のＨＰが回復した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_HPHEAL_ALL_0",
+    "original": "[占位A 02]のＨＰが完全回復した！",
+    "translation": "[占位A 02]のＨＰが完全回復した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TPHEAL_0",
+    "original": "[占位A 02]のＳＰが回復した！",
+    "translation": "[占位A 02]のＳＰが回復した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TPHEAL_ALL_0",
+    "original": "[占位A 02]のＳＰが完全回復した！",
+    "translation": "[占位A 02]のＳＰが完全回復した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DISCHARGE_0",
+    "original": "[占位A 01]の武器が光を放つ！！",
+    "translation": "[占位A 01]の武器が光を放つ！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TARGET_MANY_0",
+    "original": "シャドウの群れ",
+    "translation": "シャドウの群れ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ITEMUSE_0",
+    "original": "[占位A 01]は[占位A 04]を使った！",
+    "translation": "[占位A 01]は[占位A 04]を使った！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DEFENCE_0",
+    "original": "[占位A 01]は身を守っている。",
+    "translation": "[占位A 01]は身を守っている。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_SUMMON_0",
+    "original": "[占位A 01]は仲間を呼んだ！",
+    "translation": "[占位A 01]は仲間を呼んだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_BST_DEAD_0",
+    "original": "[占位A 02]は即死した！",
+    "translation": "[占位A 02]は即死した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_BST_STONE_0",
+    "original": "[占位A 02]は石化した！",
+    "translation": "[占位A 02]は石化した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_BST_SLEEP_0",
+    "original": "[占位A 02]は眠りだした！",
+    "translation": "[占位A 02]は眠りだした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_BST_CONFUSE_0",
+    "original": "[占位A 02]は混乱した！",
+    "translation": "[占位A 02]は混乱した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_BST_POINSON_EX_0",
+    "original": "[占位A 02]に毒が感染した！",
+    "translation": "[占位A 02]に毒が感染した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_BST_POISON_0",
+    "original": "[占位A 02]に毒を与えた！",
+    "translation": "[占位A 02]に毒を与えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_BST_BLIND_0",
+    "original": "[占位A 02]は盲目になった！",
+    "translation": "[占位A 02]は盲目になった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_BST_CURSE_0",
+    "original": "[占位A 02]は呪われた！",
+    "translation": "[占位A 02]は呪われた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_BST_PARA_0",
+    "original": "[占位A 02]は麻痺した！",
+    "translation": "[占位A 02]は麻痺した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_BST_STUN_0",
+    "original": "[占位A 02]は気絶した！",
+    "translation": "[占位A 02]は気絶した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_BST_SEAL_MA_0",
+    "original": "[占位A 02]を魔封じ状態にした！",
+    "translation": "[占位A 02]を魔封じ状態にした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_BST_SEAL_RIKI_0",
+    "original": "[占位A 02]を力封じ状態にした！",
+    "translation": "[占位A 02]を力封じ状態にした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_BST_SEAL_SOKU_0",
+    "original": "[占位A 02]を速封じ状態にした！",
+    "translation": "[占位A 02]を速封じ状態にした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BLTMSGID_RIVIVE_0",
+    "original": "[占位A 02]は戦線に復帰した！",
+    "translation": "[占位A 02]は戦線に復帰した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BSTH_STONE_0",
+    "original": "[占位A 02]の石化が解けた！",
+    "translation": "[占位A 02]の石化が解けた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BSTH_SLEEP_0",
+    "original": "[占位A 02]は目を覚ました！",
+    "translation": "[占位A 02]は目を覚ました！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BSTH_CONFUSION_0",
+    "original": "[占位A 02]は正気に戻った！",
+    "translation": "[占位A 02]は正気に戻った！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BSTH_STINK_0",
+    "original": "[占位A 02]は立ち直った！",
+    "translation": "[占位A 02]は立ち直った！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BSTH_POISON_0",
+    "original": "[占位A 02]の毒は消え去った！",
+    "translation": "[占位A 02]の毒は消え去った！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BSTH_BLIND_0",
+    "original": "[占位A 02]の目が治った！",
+    "translation": "[占位A 02]の目が治った！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BSTH_CURSE_0",
+    "original": "[占位A 02]の呪いが解けた！",
+    "translation": "[占位A 02]の呪いが解けた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BSTH_PARALYSIS_0",
+    "original": "[占位A 02]の麻痺が解けた！",
+    "translation": "[占位A 02]の麻痺が解けた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BSTH_HEAD_0",
+    "original": "[占位A 02]の魔封じ状態を解いた！",
+    "translation": "[占位A 02]の魔封じ状態を解いた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BSTH_ARM_0",
+    "original": "[占位A 02]の力封じ状態を解いた！",
+    "translation": "[占位A 02]の力封じ状態を解いた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BSTH_LEG_0",
+    "original": "[占位A 02]の速封じ状態を解いた！",
+    "translation": "[占位A 02]の速封じ状態を解いた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ESCAPE_0",
+    "original": "[占位A 01]は逃げ出した！",
+    "translation": "[占位A 01]は逃げ出した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_NOT_ESCAPE_0",
+    "original": "[占位A 01]は逃げられなかった！",
+    "translation": "[占位A 01]は逃げられなかった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_NO_ESCAPE_0",
+    "original": "この戦いからは逃げられない！！",
+    "translation": "この戦いからは逃げられない！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_NOTSELECTESCAPE_0",
+    "original": "逃げられない！！",
+    "translation": "逃げられない！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_NOT_ESCAPE_LEG_0",
+    "original": "[占位A 01]は逃げられなかった！",
+    "translation": "[占位A 01]は逃げられなかった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_UNITDEAD_E_0",
+    "original": "[占位A 02]を倒した！",
+    "translation": "[占位A 02]を倒した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_UNITDEAD_P_0",
+    "original": "[占位A 02]は力尽きた！",
+    "translation": "[占位A 02]は力尽きた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_PARTYDEAD_E_S_0",
+    "original": "[占位A 02]を撃破した！",
+    "translation": "[占位A 02]を撃破した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_PARTYDEAD_E_D_0",
+    "original": "シャドウの群れを撃破した！",
+    "translation": "シャドウの群れを撃破した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_PARTYDEAD_P_0",
+    "original": "パーティは全滅した…",
+    "translation": "パーティは全滅した…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_KUISHIBARI_0",
+    "original": "[占位A 02]は攻撃に耐えた！",
+    "translation": "[占位A 02]は攻撃に耐えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_LIMITSUMMON_0",
+    "original": "[占位A 01]は協力して仲間を呼んだ！",
+    "translation": "[占位A 01]は協力して仲間を呼んだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MEGAN_0",
+    "original": "[占位A 02]は力尽きた…",
+    "translation": "[占位A 02]は力尽きた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TARGET_ALL_0",
+    "original": "全体",
+    "translation": "全体",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_SUMMON_SACRIFIC_0",
+    "original": "[占位A 02]は息絶えた…",
+    "translation": "[占位A 02]は息絶えた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_SUMMON_MISS_0",
+    "original": "しかし、仲間は現れなかった！",
+    "translation": "しかし、仲間は現れなかった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_POISONDAMAGE_0",
+    "original": "[占位A 02]は毒ダメージを受けた！",
+    "translation": "[占位A 02]は毒ダメージを受けた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_SACRIFICE_0",
+    "original": "[占位A 01]が現れた！",
+    "translation": "[占位A 01]が現れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_CHANGE_0",
+    "original": "[占位A 01]と[占位A 02]は入れ替わった！",
+    "translation": "[占位A 01]と[占位A 02]は入れ替わった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MOVE_0",
+    "original": "[占位A 01]は移動した！",
+    "translation": "[占位A 01]は移動した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RANGEOUT_0",
+    "original": "しかし、攻撃は届かない！",
+    "translation": "しかし、攻撃は届かない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MISS_0",
+    "original": "[占位A 02]には効果が無かった。",
+    "translation": "[占位A 02]には効果が無かった。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_AVOID_0",
+    "original": "[占位A 02]は攻撃をかわした！",
+    "translation": "[占位A 02]は攻撃をかわした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_STOPACTION_0",
+    "original": "[占位A 02]は[占位A 01]の行動をさえぎった！",
+    "translation": "[占位A 02]は[占位A 01]の行動をさえぎった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REFUP_CRITICAL_0",
+    "original": "[占位A 02]のクリティカル率が上昇！",
+    "translation": "[占位A 02]のクリティカル率が上昇！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REFUP_HEALEFF_0",
+    "original": "[占位A 02]に回復効果がついた！",
+    "translation": "[占位A 02]に回復効果がついた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BS3_UROKOCHASE_0",
+    "original": "[占位A 01]が反応し炎がまきおこる！",
+    "translation": "[占位A 01]が反応し炎がまきおこる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_URI_MESSAGE_0",
+    "original": "ダメージを無効化するようになった！",
+    "translation": "ダメージを無効化するようになった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DSUMMON_0",
+    "original": "[占位A 01]は仲間の死に反応した！",
+    "translation": "[占位A 01]は仲間の死に反応した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REFDOWN_CRITICA_0",
+    "original": "[占位A 02]のクリティカル率が低下した！",
+    "translation": "[占位A 02]のクリティカル率が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ANDROSTOP_0",
+    "original": "[占位A 01]は行動を一時停止した！",
+    "translation": "[占位A 01]は行動を一時停止した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_KUITIGIRI_0",
+    "original": "[占位A 01]は[占位A 02]を食いちぎった！",
+    "translation": "[占位A 01]は[占位A 02]を食いちぎった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_LIMITON_0",
+    "original": "[占位A 01]は身構えた！",
+    "translation": "[占位A 01]は身構えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ARIMISS_0",
+    "original": "しかし、[占位A 02]との連携は失敗に終わった！",
+    "translation": "しかし、[占位A 02]との連携は失敗に終わった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MIRROR_1_0",
+    "original": "[占位A 01]の影が現れた！",
+    "translation": "[占位A 01]の影が現れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MIRROR_2_0",
+    "original": "[占位A 01]の分身が現れた！",
+    "translation": "[占位A 01]の分身が現れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_6BOSS_BURSTMISS_0",
+    "original": "しかし、[占位A 04]は発動しなかった！",
+    "translation": "しかし、[占位A 04]は発動しなかった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_CHANGE_ACTOR_0",
+    "original": "誰を移動する？",
+    "translation": "誰を移動する？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_CHANGE_TARGET_0",
+    "original": "どこに移動する？",
+    "translation": "どこに移動する？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BOOT_0",
+    "original": "[占位A 04]が発動！",
+    "translation": "[占位A 04]が発動！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BLOCK_0",
+    "original": "[占位A 02]はダメージを無効化した！",
+    "translation": "[占位A 02]はダメージを無効化した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DEAD_P_0",
+    "original": "[占位A 02]は吹き飛んだ！",
+    "translation": "[占位A 02]は吹き飛んだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ONESTOP_0",
+    "original": "[占位A 01]は、行動をさえぎられて動けない！",
+    "translation": "[占位A 01]は、行動をさえぎられて動けない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ANALYZE_0",
+    "original": "[占位A 02]の能力を解析した！",
+    "translation": "[占位A 02]の能力を解析した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MAXHP_DAMAGE_0",
+    "original": "[占位A 02]の最大ＨＰが[占位A 03]減った！",
+    "translation": "[占位A 02]の最大ＨＰが[占位A 03]減った！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MITIBIKI_0",
+    "original": "[占位A 01]は静かに祈り始めた！",
+    "translation": "[占位A 01]は静かに祈り始めた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_PORATA_0",
+    "original": "[占位A 02]と[占位A 03]は合体して[占位A 01]になった！",
+    "translation": "[占位A 02]と[占位A 03]は合体して[占位A 01]になった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BEASTMISS_0",
+    "original": "ビーストは現れなかった！",
+    "translation": "ビーストは現れなかった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MISS_H_0",
+    "original": "しかし、効果が無かった！",
+    "translation": "しかし、効果が無かった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MISSCOUNTER_0",
+    "original": "[占位A 02]は伏兵と化し敵を襲う！",
+    "translation": "[占位A 02]は伏兵と化し敵を襲う！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_NOTCHANGE_0",
+    "original": "[占位A 01]は入れ替われなかった！",
+    "translation": "[占位A 01]は入れ替われなかった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_SEPARATE_MISS_0",
+    "original": "[占位A 01]は分離に失敗した！",
+    "translation": "[占位A 01]は分離に失敗した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_PORATA_MISS_0",
+    "original": "[占位A 01]は合体に失敗した！",
+    "translation": "[占位A 01]は合体に失敗した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TARGET_5BOSS_AR_0",
+    "original": "導き手の両腕",
+    "translation": "導き手の両腕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ACT_GUARD_0",
+    "original": "盾を構えた！",
+    "translation": "盾を構えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ACT_CHARGE_0",
+    "original": "次の攻撃のために力を蓄えた！",
+    "translation": "次の攻撃のために力を蓄えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ACT_CHASE_0",
+    "original": "追加攻撃のチャンスに備えた！",
+    "translation": "追加攻撃のチャンスに備えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ACT_DOLL_0",
+    "original": "追加攻撃のチャンスに備えた！",
+    "translation": "追加攻撃のチャンスに備えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ACT_ACTCUT_0",
+    "original": "[占位A 02]の動向に意識を集中させた！",
+    "translation": "[占位A 02]の動向に意識を集中させた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BEASTOFF_0",
+    "original": "[占位A 01]は帰っていった…",
+    "translation": "[占位A 01]は帰っていった…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BEAST_ON_0",
+    "original": "[占位A 01]から[占位A 02]が現れた！",
+    "translation": "[占位A 01]から[占位A 02]が現れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ROCKETJUMP_0",
+    "original": "[占位A 02]は高く舞い上がった！",
+    "translation": "[占位A 02]は高く舞い上がった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_PROTECT_FRONT_0",
+    "original": "[占位A 04]は前列の仲間をかばった！",
+    "translation": "[占位A 04]は前列の仲間をかばった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_PROTECT_REAR_0",
+    "original": "[占位A 04]は後列の仲間をかばった！",
+    "translation": "[占位A 04]は後列の仲間をかばった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_COVER_UP_0",
+    "original": "[占位A 02]は仲間をかばった！",
+    "translation": "[占位A 02]は仲間をかばった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MIGAWARI_0",
+    "original": "[占位A 04]は[占位A 02]をかばった！",
+    "translation": "[占位A 04]は[占位A 02]をかばった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REPEAT_0",
+    "original": "[占位A 02]はその効果を受けている",
+    "translation": "[占位A 02]はその効果を受けている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_OVERWRITE_0",
+    "original": "[占位A 03]の効果が延長された！",
+    "translation": "[占位A 03]の効果が延長された！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REFUPCLEAR_0",
+    "original": "[占位A 02]の強化効果を打ち消した！",
+    "translation": "[占位A 02]の強化効果を打ち消した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REFDOWNCLEAR_0",
+    "original": "[占位A 02]の弱体効果を打ち消した！",
+    "translation": "[占位A 02]の弱体効果を打ち消した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_UPOFF_0",
+    "original": "[占位A 02]の強化を消し去った！",
+    "translation": "[占位A 02]の強化を消し去った！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DOWNOFF_0",
+    "original": "[占位A 02]の弱体を消し去った！",
+    "translation": "[占位A 02]の弱体を消し去った！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTACK_UPC_0",
+    "original": "[占位A 02]の攻撃強化を打ち消した！",
+    "translation": "[占位A 02]の攻撃強化を打ち消した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DEFENCE_UPC_0",
+    "original": "[占位A 02]の防御強化を打ち消した！",
+    "translation": "[占位A 02]の防御強化を打ち消した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_SPEED_UPC_0",
+    "original": "[占位A 02]の行動速度強化を打ち消した！",
+    "translation": "[占位A 02]の行動速度強化を打ち消した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_HITRATIO_UP_0",
+    "original": "[占位A 02]の命中率強化を打ち消した！",
+    "translation": "[占位A 02]の命中率強化を打ち消した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_AVOID_UPC_0",
+    "original": "[占位A 02]の回避率強化を打ち消した！",
+    "translation": "[占位A 02]の回避率強化を打ち消した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTACK_DOWN_0",
+    "original": "[占位A 02]の攻撃弱体化を打ち消した！",
+    "translation": "[占位A 02]の攻撃弱体化を打ち消した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DEFENCE_DOW_0",
+    "original": "[占位A 02]の防御弱体化を打ち消した！",
+    "translation": "[占位A 02]の防御弱体化を打ち消した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_SPEED_DOWNC_0",
+    "original": "[占位A 02]の行動速度弱体を打ち消した！",
+    "translation": "[占位A 02]の行動速度弱体を打ち消した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_HITRATIO_DO_0",
+    "original": "[占位A 02]の命中率弱体を打ち消した！",
+    "translation": "[占位A 02]の命中率弱体を打ち消した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_AVOID_DOWNC_0",
+    "original": "[占位A 02]の回避率弱体を打ち消した！",
+    "translation": "[占位A 02]の回避率弱体を打ち消した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTACK_UP_0",
+    "original": "[占位A 02]の攻撃力が上昇した！",
+    "translation": "[占位A 02]の攻撃力が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DEFENCE_UP_0",
+    "original": "[占位A 02]の防御力が上昇した！",
+    "translation": "[占位A 02]の防御力が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_SPEED_UP_0",
+    "original": "[占位A 02]は真っ先に動けるようになった！",
+    "translation": "[占位A 02]は真っ先に動けるようになった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_HITRATIO_UP_2_0",
+    "original": "[占位A 02]の命中率が上昇した！",
+    "translation": "[占位A 02]の命中率が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_AVOID_UP_0",
+    "original": "[占位A 02]の回避率が上昇した！",
+    "translation": "[占位A 02]の回避率が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTACK_DOWN_2_0",
+    "original": "[占位A 02]の攻撃力が低下した！",
+    "translation": "[占位A 02]の攻撃力が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DEFENCE_DOW_2_0",
+    "original": "[占位A 02]の防御力が低下した！",
+    "translation": "[占位A 02]の防御力が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_SPEED_DOWN_0",
+    "original": "[占位A 02]は行動をわざと遅らせた！",
+    "translation": "[占位A 02]は行動をわざと遅らせた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_HITRATIO_DO_2_0",
+    "original": "[占位A 02]の命中、回避率が低下した！",
+    "translation": "[占位A 02]の命中、回避率が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_AVOID_DOWN_0",
+    "original": "[占位A 02]の回避率が低下した！",
+    "translation": "[占位A 02]の回避率が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTR_WEPUP__0",
+    "original": "[占位A 02]の通常攻撃に火炎属性が付いた！",
+    "translation": "[占位A 02]の通常攻撃に火炎属性が付いた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTR_WEPUP__2_0",
+    "original": "[占位A 02]の通常攻撃に氷結属性が付いた！",
+    "translation": "[占位A 02]の通常攻撃に氷結属性が付いた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTR_WEPUP__3_0",
+    "original": "[占位A 02]の通常攻撃に電撃属性が付いた！",
+    "translation": "[占位A 02]の通常攻撃に電撃属性が付いた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_H_UP_0",
+    "original": "[占位A 02]は敵の注目を集めた！",
+    "translation": "[占位A 02]は敵の注目を集めた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_H_DOWN_0",
+    "original": "[占位A 02]は敵から狙われにくくなった！",
+    "translation": "[占位A 02]は敵から狙われにくくなった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_STNONE_0",
+    "original": "[占位A 02]は状態異常が効かなくなった！",
+    "translation": "[占位A 02]は状態異常が効かなくなった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_HP_UP_0",
+    "original": "[占位A 02]の最大ＨＰが上昇した！",
+    "translation": "[占位A 02]の最大ＨＰが上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DEV_GUARD_0",
+    "original": "ディバイドガードメッセージ",
+    "translation": "ディバイドガードメッセージ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_OVERGUARD_0",
+    "original": "オーバーガードメッセージ",
+    "translation": "オーバーガードメッセージ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TRNS_WAIT_0",
+    "original": "しばらくお待ち下さい。",
+    "translation": "しばらくお待ち下さい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TRNS_CMNDSELECT_0",
+    "original": "[占位A 01]は華麗にかわした！",
+    "translation": "[占位A 01]は華麗にかわした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TRNS_CMNDWAIT_0",
+    "original": "他のＰＬＡＹＥＲが入力しています。\nしばらくお待ち下さい。",
+    "translation": "他のＰＬＡＹＥＲが入力しています。\nしばらくお待ち下さい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ES_ACT_COUNTER_0",
+    "original": "[占位A 02]は身構えている！",
+    "translation": "[占位A 02]は身構えている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ES_THROW_0",
+    "original": "[占位A 01]は[占位A 02]を、投げつけた！",
+    "translation": "[占位A 01]は[占位A 02]を、投げつけた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ES_PATIENCE_0",
+    "original": "[占位A 02]は我慢している！",
+    "translation": "[占位A 02]は我慢している！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ES_PATIENCE_ACT_0",
+    "original": "[占位A 02]の我慢が爆発した！",
+    "translation": "[占位A 02]の我慢が爆発した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DEADACTION_0",
+    "original": "[占位A 01]は、最後の力で[占位A 04]を使った！",
+    "translation": "[占位A 01]は、最後の力で[占位A 04]を使った！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DEADACTION_18E_0",
+    "original": "[占位A 01]は、最後の力で[占位A 04]を上げた！",
+    "translation": "[占位A 01]は、最後の力で[占位A 04]を上げた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RARE_DASH_0",
+    "original": "[占位A 01]は輝きを増している！",
+    "translation": "[占位A 01]は輝きを増している！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ATTRUP_1_0",
+    "original": "[占位A 01]の耐性が上がった！",
+    "translation": "[占位A 01]の耐性が上がった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ATTRUP_3_0",
+    "original": "[占位A 01]と、[占位A 02]と、[占位A 03]の耐性が上がった！",
+    "translation": "[占位A 01]と、[占位A 02]と、[占位A 03]の耐性が上がった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ATTRUP_ALL_0",
+    "original": "すべての耐性が上がった！",
+    "translation": "すべての耐性が上がった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ES_CHANGE_0",
+    "original": "[占位A 01]の触手が[占位A 02]と[占位A 03]を捕らえた！",
+    "translation": "[占位A 01]の触手が[占位A 02]と[占位A 03]を捕らえた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ABSORB_HP_0",
+    "original": "[占位A 02]は[占位A 03]のダメージを吸収した！",
+    "translation": "[占位A 02]は[占位A 03]のダメージを吸収した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DEADACTION_18B_0",
+    "original": "[占位A 01]は、暴発した！",
+    "translation": "[占位A 01]は、暴発した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_FANNEL_1_0",
+    "original": "[占位A 02]は炎のボットを展開した！",
+    "translation": "[占位A 02]は炎のボットを展開した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_FANNEL_2_0",
+    "original": "[占位A 02]は氷のボットを展開した！",
+    "translation": "[占位A 02]は氷のボットを展開した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_FANNEL_3_0",
+    "original": "[占位A 02]は雷のボットを展開した！",
+    "translation": "[占位A 02]は雷のボットを展開した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_UNITDEAD_FNL_0",
+    "original": "[占位A 02]は動作を停止した！",
+    "translation": "[占位A 02]は動作を停止した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_K_FANNEL_0",
+    "original": "[占位A 02]が反応した！",
+    "translation": "[占位A 02]が反応した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BOOT_F_0",
+    "original": "[占位A 04]起動！",
+    "translation": "[占位A 04]起動！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_SNIPER_0",
+    "original": "[占位A 01]は武器を構えて狙いを定めた！",
+    "translation": "[占位A 01]は武器を構えて狙いを定めた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_SNIPER_MISS_0",
+    "original": "[占位A 01]は武器の構えを解いた！",
+    "translation": "[占位A 01]は武器の構えを解いた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BEASTCOUNTER_0_0",
+    "original": "[占位A 02]は身構えている！",
+    "translation": "[占位A 02]は身構えている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BEAST_A4_0_0",
+    "original": "[占位A 01]は、唸り声をあげおそいかかった！",
+    "translation": "[占位A 01]は、唸り声をあげおそいかかった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BEAST_A5_0_0",
+    "original": "[占位A 01]はまどろんでいる！",
+    "translation": "[占位A 01]はまどろんでいる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_E_KAISH_BOOT_0",
+    "original": "[占位A 01]は、大鎌を振り上げおそいかかった！",
+    "translation": "[占位A 01]は、大鎌を振り上げおそいかかった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BEAST_A1_0_0",
+    "original": "[占位A 01]の腕が再生する！",
+    "translation": "[占位A 01]の腕が再生する！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BEAST_A1_1_0",
+    "original": "[占位A 01]はボーっとしている！",
+    "translation": "[占位A 01]はボーっとしている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BEAST_A1_2_0",
+    "original": "[占位A 01]は毛繕いをしている！",
+    "translation": "[占位A 01]は毛繕いをしている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TARGET_6BOSS_AR_0",
+    "original": "神樹の触手",
+    "translation": "神樹の触手",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TRANS_ERROR_END_0",
+    "original": "通信エラーが発生しました！\nしばらくお待ち下さい。",
+    "translation": "通信エラーが発生しました！\nしばらくお待ち下さい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DEADSTONE_0",
+    "original": "[占位A 02]は石化した！",
+    "translation": "[占位A 02]は石化した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_STOPBST_0",
+    "original": "[占位A 02]の状態異常攻撃は無効化された！",
+    "translation": "[占位A 02]の状態異常攻撃は無効化された！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_STOPSEAL_0",
+    "original": "[占位A 02]の封じ攻撃は無効化された！",
+    "translation": "[占位A 02]の封じ攻撃は無効化された！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_WEAKDAMAGE_0",
+    "original": "ルーンの導きが[占位A 02]の弱点に反応した！",
+    "translation": "ルーンの導きが[占位A 02]の弱点に反応した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MURAMASA_0",
+    "original": "[占位A 01]の目が血走ってきた！",
+    "translation": "[占位A 01]の目が血走ってきた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ROCKETJUMPMISS_0",
+    "original": "しかし、[占位A 02]には届かない！",
+    "translation": "しかし、[占位A 02]には届かない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_SARUTOBI_0",
+    "original": "[占位A 02]は華麗にかわした！",
+    "translation": "[占位A 02]は華麗にかわした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BOSS_1_0",
+    "original": "[占位A 01]は目をつぶっているようだ…",
+    "translation": "[占位A 01]は目をつぶっているようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BS1_SPWATSTAN_0",
+    "original": "[占位A 02]はひるんだ！",
+    "translation": "[占位A 02]はひるんだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BS1_STANMSG_0",
+    "original": "[占位A 01]は動くことができない！",
+    "translation": "[占位A 01]は動くことができない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_AP_5LASTBOSS_0",
+    "original": "楽園への導き手が現れた！",
+    "translation": "楽園への導き手が現れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TARGET_5LASTBOS_0",
+    "original": "楽園への導き手",
+    "translation": "楽園への導き手",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TARGET_6LASTBOS_0",
+    "original": "歪みし豊穣の神樹",
+    "translation": "歪みし豊穣の神樹",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_H_KUISHIBARI_0",
+    "original": "[占位A 02]に食いしばり効果がついた！",
+    "translation": "[占位A 02]に食いしばり効果がついた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_OOMIE_0",
+    "original": "[占位A 02]は大見得をきった！",
+    "translation": "[占位A 02]は大見得をきった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_NONBST_0",
+    "original": "[占位A 02]は状態異常、封じを予防した！",
+    "translation": "[占位A 02]は状態異常、封じを予防した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_NONSEAL_0",
+    "original": "[占位A 02]は縛りが付着しなくなった！",
+    "translation": "[占位A 02]は縛りが付着しなくなった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DENGUN_0",
+    "original": "[占位A 02]を殿軍に任命した！",
+    "translation": "[占位A 02]を殿軍に任命した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DEADACTION_F18B_0",
+    "original": "[占位A 01]は、自爆した！",
+    "translation": "[占位A 01]は、自爆した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTR_UP_0",
+    "original": "[占位A 02]の[占位A 03]耐性が上昇した！",
+    "translation": "[占位A 02]の[占位A 03]耐性が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_E_MEGAZA_HEAL_0",
+    "original": "[占位A 01]から[占位A 04]が飛び散った！",
+    "translation": "[占位A 01]から[占位A 04]が飛び散った！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_E_KAISHAKU_0",
+    "original": "[占位A 01]は[占位A 02]を捕食した！！",
+    "translation": "[占位A 01]は[占位A 02]を捕食した！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_E_DEADSUMMON_0",
+    "original": "[占位A 01]は巨大化した！",
+    "translation": "[占位A 01]は巨大化した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_E_SUMMON_MSG_00_0",
+    "original": "[占位A 01]はモゾモゾ動き始めた",
+    "translation": "[占位A 01]はモゾモゾ動き始めた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_E_SUMMON_MSG_01_0",
+    "original": "[占位A 01]は手を下げた",
+    "translation": "[占位A 01]は手を下げた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_E_SUMMON_MSG_02_0",
+    "original": "[占位A 01]の“力”は封じられている！",
+    "translation": "[占位A 01]の“力”は封じられている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BS_LASTBOSS_ARM_0",
+    "original": "[占位A 01]の傷口から触手が出てきた！",
+    "translation": "[占位A 01]の傷口から触手が出てきた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BS_LASTBOSS_ARM_2_0",
+    "original": "[占位A 02]の触手が復活した！",
+    "translation": "[占位A 02]の触手が復活した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_E_TAMAGO_MSG_00_0",
+    "original": "[占位A 01]は力を溜めている！",
+    "translation": "[占位A 01]は力を溜めている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTR_UP_ALL_0",
+    "original": "全体の[占位A 03]耐性が上昇した！",
+    "translation": "全体の[占位A 03]耐性が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_KAITAISHINSHO_0",
+    "original": "ドロップ率が上昇した！",
+    "translation": "ドロップ率が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_E_SHOMO_0",
+    "original": "次の行動のＳＰ消費が倍になる！",
+    "translation": "次の行動のＳＰ消費が倍になる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_E_KYOMU_0",
+    "original": "バーストゲージが減少した！",
+    "translation": "バーストゲージが減少した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTR_DOWN_0",
+    "original": "[占位A 02]の[占位A 03]耐性が低下した！",
+    "translation": "[占位A 02]の[占位A 03]耐性が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BS_CHANGE_ATK_0",
+    "original": "[占位A 01]の瞳が開かれる！",
+    "translation": "[占位A 01]の瞳が開かれる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BS_CHANGE_DEF_0",
+    "original": "[占位A 01]の瞳が閉じていく！",
+    "translation": "[占位A 01]の瞳が閉じていく！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_LBS_MES_00_0",
+    "original": "体皮を食い破り、窮極の生命が花開く",
+    "translation": "体皮を食い破り、窮極の生命が花開く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_NONCOST_0",
+    "original": "[占位A 02]はＳＰ不足でスキルが使えない！",
+    "translation": "[占位A 02]はＳＰ不足でスキルが使えない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_FRONT_DEAD_0",
+    "original": "前列と後列は入れ替わった！",
+    "translation": "前列と後列は入れ替わった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ES_KEKKAI_0",
+    "original": "パーティの消費ＳＰが倍になった！",
+    "translation": "パーティの消費ＳＰが倍になった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ES_KITOU_0",
+    "original": "[占位A 02]の力が蓄えられた！",
+    "translation": "[占位A 02]の力が蓄えられた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ES_ACT_CCOUNTER_0",
+    "original": "[占位A 02]は追加攻撃のチャンスに備えた！",
+    "translation": "[占位A 02]は追加攻撃のチャンスに備えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_SUMMON_CHICK_0",
+    "original": "[占位A 01]から[占位A 02]が産まれた！",
+    "translation": "[占位A 01]から[占位A 02]が産まれた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_LIMITMISS_0",
+    "original": "[占位A 01]は連携できなかった！",
+    "translation": "[占位A 01]は連携できなかった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ACT_180_END_0",
+    "original": "[占位A 01]に溜めこまれた力が暴走する！",
+    "translation": "[占位A 01]に溜めこまれた力が暴走する！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ACT_LBS_CHANGE_0",
+    "original": "名状し難き神が目覚めた！",
+    "translation": "名状し難き神が目覚めた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_UROBORO_SHIELD_0",
+    "original": "味方全体が敵の攻撃を阻む光に包まれた！",
+    "translation": "味方全体が敵の攻撃を阻む光に包まれた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DISCHARGE_BH_0",
+    "original": "[占位A 01]の拳がまばゆい光を放つ！！",
+    "translation": "[占位A 01]の拳がまばゆい光を放つ！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_PARTYDEAD_E_BR_0",
+    "original": "深王とオランピアを撃破した！",
+    "translation": "深王とオランピアを撃破した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_PARTYDEAD_E_GK_0",
+    "original": "ゲートキーパーを撃破した！",
+    "translation": "ゲートキーパーを撃破した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ES_CHANGE_MISS_0",
+    "original": "[占位A 01]は絡まった触手をほぐしている！",
+    "translation": "[占位A 01]は絡まった触手をほぐしている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_E_MOVE_S_0",
+    "original": "[占位A 01]の隊列が変わった！",
+    "translation": "[占位A 01]の隊列が変わった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_E_MOVE_D_0",
+    "original": "[占位A 01]達の隊列が変わった！",
+    "translation": "[占位A 01]達の隊列が変わった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_E_MOVE_A_0",
+    "original": "シャドウ達の隊列が変わった！",
+    "translation": "シャドウ達の隊列が変わった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BOOT_V_0",
+    "original": "貫通効果発動！",
+    "translation": "貫通効果発動！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BOOT_WIDE_0",
+    "original": "拡散効果発動！",
+    "translation": "拡散効果発動！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RARE_ENCOUNT_D_0",
+    "original": "稀少個体がいる！",
+    "translation": "稀少個体がいる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RARE_ENCOUNT_S_0",
+    "original": "[占位A 01]の稀少個体が現れた！",
+    "translation": "[占位A 01]の稀少個体が現れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ACT_CHARGE_BOSS_0",
+    "original": "[占位A 01]は力を溜め始めた！",
+    "translation": "[占位A 01]は力を溜め始めた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ST_BODYCHANGE_0",
+    "original": "チェーンジ！",
+    "translation": "チェーンジ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ST_BODYCHANGE_E_0",
+    "original": "[占位A 02]の攻撃属性が変わった！",
+    "translation": "[占位A 02]の攻撃属性が変わった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_KIJIN_0",
+    "original": "[占位A 01]は羅刹と化した！",
+    "translation": "[占位A 01]は羅刹と化した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_KIJIN_OFF_0",
+    "original": "[占位A 01]は正常に戻った",
+    "translation": "[占位A 01]は正常に戻った",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_KUISHIBARI2_0",
+    "original": "[占位A 01]は食いしばった！",
+    "translation": "[占位A 01]は食いしばった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TPCUT_0",
+    "original": "ＳＰカット発動！",
+    "translation": "ＳＰカット発動！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_HOUJIN_0",
+    "original": "[占位A 01]は[占位A 02]を展開した！",
+    "translation": "[占位A 01]は[占位A 02]を展開した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_HOUJIN_EFT_0",
+    "original": "[占位A 01]の効果！",
+    "translation": "[占位A 01]の効果！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TRANSPARENT_ON_0",
+    "original": "[占位A 01]は周りの景色に溶け込んだ！",
+    "translation": "[占位A 01]は周りの景色に溶け込んだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TRANSPARENT_OFF_0",
+    "original": "[占位A 01]の体が元に戻った！",
+    "translation": "[占位A 01]の体が元に戻った！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ICEACTSTOP_0",
+    "original": "[占位A 01]は凍りついた！",
+    "translation": "[占位A 01]は凍りついた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ACTSTOPTURN_0",
+    "original": "[占位A 01]は凍っている！",
+    "translation": "[占位A 01]は凍っている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_LMT_103_0",
+    "original": "[占位A 01]の周囲から発生した黒い霧が、敵を包み込んだ！",
+    "translation": "[占位A 01]の周囲から発生した黒い霧が、敵を包み込んだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_3BS_URK_TAKEOFF_0",
+    "original": "[占位A 01]から、ウロコが飛び出した！",
+    "translation": "[占位A 01]から、ウロコが飛び出した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_3BS_URK_ON_0",
+    "original": "[占位A 01]が地面に突き刺さった！",
+    "translation": "[占位A 01]が地面に突き刺さった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_3BS_URK_DEATH_0",
+    "original": "[占位A 02]はくだけちった！",
+    "translation": "[占位A 02]はくだけちった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_FROG_JUMP_0",
+    "original": "バーストゲージが下がった！",
+    "translation": "バーストゲージが下がった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_OVERHEATON_0",
+    "original": "[占位A 01]の砲剣がオーバーヒートした！",
+    "translation": "[占位A 01]の砲剣がオーバーヒートした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_OVERHEATOFF_0",
+    "original": "[占位A 01]の砲剣が冷え、機能を取り戻した！",
+    "translation": "[占位A 01]の砲剣が冷え、機能を取り戻した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MSGWAIT1_0",
+    "original": "[占位A 01]は自爆モードに移行した！",
+    "translation": "[占位A 01]は自爆モードに移行した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MSGWAIT2_0",
+    "original": "[占位A 01]の自爆まであと２カウント！！",
+    "translation": "[占位A 01]の自爆まであと２カウント！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MSGWAIT3_0",
+    "original": "[占位A 01]の自爆まであと１カウント！！",
+    "translation": "[占位A 01]の自爆まであと１カウント！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MSGWAIT4_0",
+    "original": "[占位A 01]は様子を見ている",
+    "translation": "[占位A 01]は様子を見ている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MSGWAIT5_0",
+    "original": "[占位A 01]はターゲットを探している",
+    "translation": "[占位A 01]はターゲットを探している",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BALLOON_0",
+    "original": "[占位A 01]は大きくふくれ上がった！",
+    "translation": "[占位A 01]は大きくふくれ上がった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ACT_CHARGE_BOSS_2_0",
+    "original": "[占位A 01]の動きが止まった！",
+    "translation": "[占位A 01]の動きが止まった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ACT_LION_SLEEP_0",
+    "original": "[占位A 01]は眠っている",
+    "translation": "[占位A 01]は眠っている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTACK_UP2_0",
+    "original": "[占位A 02]の魔法攻撃力が上昇した！",
+    "translation": "[占位A 02]の魔法攻撃力が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DEFENCE_UP2_0",
+    "original": "[占位A 02]の魔法防御力が上昇した！",
+    "translation": "[占位A 02]の魔法防御力が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTACK_UP3_0",
+    "original": "[占位A 02]の攻撃力が上昇した！",
+    "translation": "[占位A 02]の攻撃力が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DEFENCE_UP3_0",
+    "original": "[占位A 02]の防御力が上昇した！",
+    "translation": "[占位A 02]の防御力が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTACK_DOWN_3_0",
+    "original": "[占位A 02]の魔法攻撃力が低下した！",
+    "translation": "[占位A 02]の魔法攻撃力が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DEFENCE_DOW_3_0",
+    "original": "[占位A 02]の魔法防御力が低下した！",
+    "translation": "[占位A 02]の魔法防御力が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTACK_DOWN_4_0",
+    "original": "[占位A 02]の攻撃力が低下した！",
+    "translation": "[占位A 02]の攻撃力が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DEFENCE_DOW_4_0",
+    "original": "[占位A 02]の防御力が低下した！",
+    "translation": "[占位A 02]の防御力が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_COUNTER_0",
+    "original": "[占位A 02]は身構えた！",
+    "translation": "[占位A 02]は身構えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_COUNTER_BOO_0",
+    "original": "[占位A 01]は炎の壁につつまれた！",
+    "translation": "[占位A 01]は炎の壁につつまれた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRUP_FIRE_0",
+    "original": "[占位A 02]の火炎耐性が上昇した！",
+    "translation": "[占位A 02]の火炎耐性が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRUP_ICE_0",
+    "original": "[占位A 02]の氷結耐性が上昇した！",
+    "translation": "[占位A 02]の氷結耐性が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRUP_THUN_0",
+    "original": "[占位A 02]の電撃耐性が上昇した！",
+    "translation": "[占位A 02]の電撃耐性が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRUP_BUTS_0",
+    "original": "[占位A 02]の物理耐性が上昇した！",
+    "translation": "[占位A 02]の物理耐性が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRUP_SHOC_0",
+    "original": "[占位A 02]の壊耐性が上昇した！",
+    "translation": "[占位A 02]の壊耐性が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRUP_THRU_0",
+    "original": "[占位A 02]の突耐性が上昇した！",
+    "translation": "[占位A 02]の突耐性が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRDOWN_FI_0",
+    "original": "[占位A 02]の火炎耐性が低下した！",
+    "translation": "[占位A 02]の火炎耐性が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRDOWN_IC_0",
+    "original": "[占位A 02]の氷結耐性が低下した！",
+    "translation": "[占位A 02]の氷結耐性が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRDOWN_TH_0",
+    "original": "[占位A 02]の電撃耐性が低下した！",
+    "translation": "[占位A 02]の電撃耐性が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRDOWN_BU_0",
+    "original": "[占位A 02]の物理耐性が低下した！",
+    "translation": "[占位A 02]の物理耐性が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRDOWN_SH_0",
+    "original": "[占位A 02]の壊耐性が低下した！",
+    "translation": "[占位A 02]の壊耐性が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRDOWN_TH_2_0",
+    "original": "[占位A 02]の突耐性が低下した！",
+    "translation": "[占位A 02]の突耐性が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DANCE_COUNT_0",
+    "original": "[占位A 02]は反撃に備えた！",
+    "translation": "[占位A 02]は反撃に備えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DANCE_CHASE_0",
+    "original": "[占位A 02]は追加攻撃に備えた！",
+    "translation": "[占位A 02]は追加攻撃に備えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DANCE_LINEC_0",
+    "original": "[占位A 02]の列は追加攻撃に備えた！",
+    "translation": "[占位A 02]の列は追加攻撃に備えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DANCE_HEAL_0",
+    "original": "[占位A 02]の列に回復効果が発生する！",
+    "translation": "[占位A 02]の列に回復効果が発生する！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DANCE_ATK_0",
+    "original": "[占位A 02]の列の攻撃力が上昇する！",
+    "translation": "[占位A 02]の列の攻撃力が上昇する！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DANCE_DEF_0",
+    "original": "[占位A 02]の列の防御力が上昇する！",
+    "translation": "[占位A 02]の列の防御力が上昇する！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_DANCE_EN_0",
+    "original": "[占位A 02]の列の消費ＳＰが軽減される！",
+    "translation": "[占位A 02]の列の消費ＳＰが軽減される！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_LINK_0",
+    "original": "リンクスキルの追加攻撃回数が増えた！",
+    "translation": "リンクスキルの追加攻撃回数が増えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_GUARD_0",
+    "original": "[占位A 02]は身をていして盾になった！",
+    "translation": "[占位A 02]は身をていして盾になった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_CONC_0",
+    "original": "[占位A 02]の回復効果が上昇した！",
+    "translation": "[占位A 02]の回復効果が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_AREA_0",
+    "original": "[占位A 02]の回復効果範囲が拡大！",
+    "translation": "[占位A 02]の回復効果範囲が拡大！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_WEAKENED_0",
+    "original": "[占位A 01]は弱って動けない！",
+    "translation": "[占位A 01]は弱って動けない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MASCOT_0",
+    "original": "[占位A 01]はフワフワしている",
+    "translation": "[占位A 01]はフワフワしている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BUNNY_0",
+    "original": "[占位A 01]はうろたえている！",
+    "translation": "[占位A 01]はうろたえている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REFOFF_P_UP_0",
+    "original": "味方の[占位A 02]の効果が切れた！",
+    "translation": "味方の[占位A 02]の効果が切れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REFOFF_P_DOWN_0",
+    "original": "味方の[占位A 02]の効果が切れた！",
+    "translation": "味方の[占位A 02]の効果が切れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REFOFF_UP_0",
+    "original": "敵の[占位A 02]の効果が切れた！",
+    "translation": "敵の[占位A 02]の効果が切れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REFOFF_DOWN_0",
+    "original": "敵の[占位A 02]の効果が切れた！",
+    "translation": "敵の[占位A 02]の効果が切れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_KAIMA_0",
+    "original": "封じ、状態異常の耐性が元に戻った！",
+    "translation": "封じ、状態異常の耐性が元に戻った！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_HOUJIN_CANCEL_M_0",
+    "original": "しかし、魔法陣を張っていない！",
+    "translation": "しかし、魔法陣を張っていない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_OATH_END_0",
+    "original": "敵の[占位A 02]の効果が切れた！",
+    "translation": "敵の[占位A 02]の効果が切れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_COUNTER_0",
+    "original": "デスカウンター発動！",
+    "translation": "デスカウンター発動！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_CHASE_0",
+    "original": "デスチェイサー発動！",
+    "translation": "デスチェイサー発動！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTR_WEPUP__4_0",
+    "original": "[占位A 02]の通常攻撃に疾風属性が付いた！",
+    "translation": "[占位A 02]の通常攻撃に疾風属性が付いた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTR_WEPUP__5_0",
+    "original": "[占位A 02]の通常攻撃に祝福属性が付いた！",
+    "translation": "[占位A 02]の通常攻撃に祝福属性が付いた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTR_WEPUP__6_0",
+    "original": "[占位A 02]の通常攻撃に呪怨属性が付いた！",
+    "translation": "[占位A 02]の通常攻撃に呪怨属性が付いた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRUP_WIND_0",
+    "original": "[占位A 02]の疾風耐性が上昇した！",
+    "translation": "[占位A 02]の疾風耐性が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRUP_HIKA_0",
+    "original": "[占位A 02]の祝福耐性が上昇した！",
+    "translation": "[占位A 02]の祝福耐性が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRUP_YAMI_0",
+    "original": "[占位A 02]の呪怨耐性が上昇した！",
+    "translation": "[占位A 02]の呪怨耐性が上昇した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRDOWN_WI_0",
+    "original": "[占位A 02]の疾風耐性が低下した！",
+    "translation": "[占位A 02]の疾風耐性が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRDOWN_HI_0",
+    "original": "[占位A 02]の祝福耐性が低下した！",
+    "translation": "[占位A 02]の祝福耐性が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRDOWN_YA_0",
+    "original": "[占位A 02]の呪怨耐性が低下した！",
+    "translation": "[占位A 02]の呪怨耐性が低下した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_HPNONCOST_0",
+    "original": "[占位A 02]はＨＰ不足でスキルが使えない！",
+    "translation": "[占位A 02]はＨＰ不足でスキルが使えない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_KEIKAI_0",
+    "original": "[占位A 01]は警戒している",
+    "translation": "[占位A 01]は警戒している",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RARE_1_0",
+    "original": "[占位A 01]はボーっとしている",
+    "translation": "[占位A 01]はボーっとしている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RARE_2_0",
+    "original": "[占位A 01]はマゴマゴしている",
+    "translation": "[占位A 01]はマゴマゴしている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_RARE_3_0",
+    "original": "[占位A 01]は慌てている",
+    "translation": "[占位A 01]は慌てている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_HAMA_OMEN_0",
+    "original": "[占位A 01]に光の力が集まっている！",
+    "translation": "[占位A 01]に光の力が集まっている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MUDO_OMEN_0",
+    "original": "[占位A 01]に闇の力が集まっている！",
+    "translation": "[占位A 01]に闇の力が集まっている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_NIYANIYA_0",
+    "original": "[占位A 01]はニヤニヤしている",
+    "translation": "[占位A 01]はニヤニヤしている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_JIBAKU_MISS_0",
+    "original": "[占位A 01]の自爆は不発だった……",
+    "translation": "[占位A 01]の自爆は不発だった……",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_CHICKEN_0",
+    "original": "[占位A 01]は余裕を見せている",
+    "translation": "[占位A 01]は余裕を見せている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ROBOT_0",
+    "original": "警告：タダチニ　トウコウ　セヨ",
+    "translation": "警告：タダチニ　トウコウ　セヨ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TOWER_0",
+    "original": "[占位A 01]は雷雲を呼んだ！",
+    "translation": "[占位A 01]は雷雲を呼んだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TOWER3_0",
+    "original": "[占位A 01]は聖句を呟いた！",
+    "translation": "[占位A 01]は聖句を呟いた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TOWER5_0",
+    "original": "[占位A 01]は恨み言を呟いた！",
+    "translation": "[占位A 01]は恨み言を呟いた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_KING_0",
+    "original": "[占位A 01]は髭をいじっている",
+    "translation": "[占位A 01]は髭をいじっている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_KING_ESCAPE_0",
+    "original": "[占位A 01]は逃げだそうとしている",
+    "translation": "[占位A 01]は逃げだそうとしている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BIBIRI_0",
+    "original": "[占位A 01]はビビッている",
+    "translation": "[占位A 01]はビビッている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_TORIMAKI_0",
+    "original": "草食恐竜が飛び出してきた！",
+    "translation": "草食恐竜が飛び出してきた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_PUNISH_0",
+    "original": "[占位A 01]はショートした！",
+    "translation": "[占位A 01]はショートした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DO_1_0",
+    "original": "[占位A 01]はうごめいている！",
+    "translation": "[占位A 01]はうごめいている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DO_2_0",
+    "original": "[占位A 01]の体が脈打っている！",
+    "translation": "[占位A 01]の体が脈打っている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DO_3_0",
+    "original": "[占位A 01]の動きが鈍っている！",
+    "translation": "[占位A 01]の動きが鈍っている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DO_EYE_HEAD_0",
+    "original": "法術の魔眼",
+    "translation": "法術の魔眼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DO_EYE_RIGHT_0",
+    "original": "連撃の右眼",
+    "translation": "連撃の右眼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_DO_EYE_LEFT_0",
+    "original": "疾病の左眼",
+    "translation": "疾病の左眼",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ENLIL_RETAKE_0",
+    "original": "エンリルは力を集めている……！",
+    "translation": "エンリルは力を集めている……！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_ENLIL_HIKARI_0",
+    "original": "何も起こらなかった……",
+    "translation": "何も起こらなかった……",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MUTEKI_KAMO_WAR_0",
+    "original": "カモシダーマンは高らかに笑っている",
+    "translation": "カモシダーマンは高らかに笑っている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MOTHER_COM_0",
+    "original": "ＥＲＲＯＲ！　ＥＲＲＯＲ！",
+    "translation": "ＥＲＲＯＲ！　ＥＲＲＯＲ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MOTHER_COM_CURE_0",
+    "original": "自動修復機能　ＯＮ",
+    "translation": "自動修復機能　ＯＮ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_MCOM_ERROR_0",
+    "original": "ＥＲＲＯＲ！　機能停止中！",
+    "translation": "ＥＲＲＯＲ！　機能停止中！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_BUF_OMEN_0",
+    "original": "[占位A 01]に氷の力が集まっている！",
+    "translation": "[占位A 01]に氷の力が集まっている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_JIO_OMEN_0",
+    "original": "[占位A 01]に雷の力が集まっている！",
+    "translation": "[占位A 01]に雷の力が集まっている！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_KHRONOS_ANNOUNC_0",
+    "original": "[占位A 01]は意識を集中している！",
+    "translation": "[占位A 01]は意識を集中している！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTLMSGID_PASTOR_OATH_ATT_0",
+    "original": "ワタシを殴らないと誓いナ・サーイ！",
+    "translation": "ワタシを殴らないと誓いナ・サーイ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PASTOR_OATH_SKI_0",
+    "original": "技を使わないと誓いナ・サーイ！",
+    "translation": "技を使わないと誓いナ・サーイ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PASTOR_OATH_LEA_0",
+    "original": "えばらないと誓いナ・サーイ！",
+    "translation": "えばらないと誓いナ・サーイ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PASTOR_OATH_ITE_0",
+    "original": "道具を使わぬと誓いナ・サーイ！",
+    "translation": "道具を使わぬと誓いナ・サーイ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PASTOR_OATH_TWO_0",
+    "original": "とにかく色々と誓いナ・サーイ！",
+    "translation": "とにかく色々と誓いナ・サーイ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PASTOR_JUDGEMEN_0",
+    "original": "導いてやる・子羊メーン！\n天罰デッドナーウ…",
+    "translation": "導いてやる・子羊メーン！\n天罰デッドナーウ…",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_HOQ_CAST_SKILL_0",
+    "original": "[占位A 01]は魔法を唱えようとしている！",
+    "translation": "[占位A 01]は魔法を唱えようとしている！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_HOQ_INTERRUPT_S_0",
+    "original": "[占位A 01]は魔法に失敗したようだ…",
+    "translation": "[占位A 01]は魔法に失敗したようだ…",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_P4HERO_0",
+    "original": "止めを刺すぞ！",
+    "translation": "止めを刺すぞ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_P3HERO_0",
+    "original": "行かせてくれ！",
+    "translation": "行かせてくれ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_YOUSUKE_0",
+    "original": "まかせとけって！",
+    "translation": "まかせとけって！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_CHIE_0",
+    "original": "よーし、もいっちょ！",
+    "translation": "よーし、もいっちょ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_YUKIKO_0",
+    "original": "トドメは任せて！",
+    "translation": "トドメは任せて！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_KANJI_0",
+    "original": "まだまだぁー！",
+    "translation": "まだまだぁー！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_NAOTO_0",
+    "original": "この一撃で仕留めます！",
+    "translation": "この一撃で仕留めます！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_KUMA_0",
+    "original": "当たって砕くクマー！",
+    "translation": "当たって砕くクマー！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_YUKARI_0",
+    "original": "とどめ！",
+    "translation": "とどめ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_JUNPEI_0",
+    "original": "トドメのアターック！",
+    "translation": "トドメのアターック！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_SANADA_0",
+    "original": "これで終わらせる！",
+    "translation": "これで終わらせる！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_MITURU_0",
+    "original": "まだまだこれからだ！",
+    "translation": "まだまだこれからだ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_AEGIS_0",
+    "original": "追撃の許可を！",
+    "translation": "追撃の許可を！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_AMADA_0",
+    "original": "行きます！",
+    "translation": "行きます！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_KOROMAR_0",
+    "original": "ワン！　ワォーン！",
+    "translation": "ワン！　ワォーン！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_ARAGAKI_0",
+    "original": "おっと、まだだ！",
+    "translation": "おっと、まだだ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_P3_HERO_0",
+    "original": "私に行かせて！",
+    "translation": "私に行かせて！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_P5HERO_0",
+    "original": "俺が行こう！",
+    "translation": "俺が行こう！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_RYUJI_0",
+    "original": "俺に任せな！",
+    "translation": "俺に任せな！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_ANN_0",
+    "original": "わたしにやらせて！",
+    "translation": "わたしにやらせて！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_MONA_0",
+    "original": "ここはワガハイが\nいっていいだろ？",
+    "translation": "ここはワガハイが\nいっていいだろ？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_YUSUKE_0",
+    "original": "フォックス、前に出る！",
+    "translation": "フォックス、前に出る！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_MAKOTO_0",
+    "original": "今なら殴れるけど！？",
+    "translation": "今なら殴れるけど！？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_HARU_0",
+    "original": "ノワール、行けるよ？",
+    "translation": "ノワール、行けるよ？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ADD_ATK_AKECI_0",
+    "original": "僕ならいつでも行けるけど？",
+    "translation": "僕ならいつでも行けるけど？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_P4HERO_0",
+    "original": "今だ！\nみんなで畳みかけるぞ！",
+    "translation": "今だ！\nみんなで畳みかけるぞ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_P3HERO_0",
+    "original": "総攻撃の\nチャンスじゃないかな？",
+    "translation": "総攻撃の\nチャンスじゃないかな？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_YOUSUKE_0",
+    "original": "うっし！\nボッコボコにしてやろーぜ！",
+    "translation": "うっし！\nボッコボコにしてやろーぜ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_CHIE_0",
+    "original": "今ってチャンスだよね！\nいっちゃう！？",
+    "translation": "今ってチャンスだよね！\nいっちゃう！？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_YUKIKO_0",
+    "original": "総攻撃のチャンスかも！",
+    "translation": "総攻撃のチャンスかも！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_RISE_0",
+    "original": "今なら行けそうだよ！",
+    "translation": "今なら行けそうだよ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_KANJI_0",
+    "original": "何ぼさっとしてんスか！\n行くしかねーっしょ！",
+    "translation": "何ぼさっとしてんスか！\n行くしかねーっしょ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_NAOTO_0",
+    "original": "チャンスです！\n一気に畳みかけましょう！",
+    "translation": "チャンスです！\n一気に畳みかけましょう！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_KUMA_0",
+    "original": "ボコボコチャンスクマー！！",
+    "translation": "ボコボコチャンスクマー！！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_YUKARI_0",
+    "original": "来たよ！　今しかないって！",
+    "translation": "来たよ！　今しかないって！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_JUNPEI_0",
+    "original": "待ってました！\n総攻撃チャーンス！",
+    "translation": "待ってました！\n総攻撃チャーンス！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_SANADA_0",
+    "original": "この時を待っていた…\n仕掛ける！",
+    "translation": "この時を待っていた…\n仕掛ける！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_MITURU_0",
+    "original": "攻めるなら今が好機だ！\n行くぞ！",
+    "translation": "攻めるなら今が好機だ！\n行くぞ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_FUKA_0",
+    "original": "皆さん、今ですよ！",
+    "translation": "皆さん、今ですよ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_AEGIS_0",
+    "original": "総攻撃の時が来たであります！",
+    "translation": "総攻撃の時が来たであります！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_AMADA_0",
+    "original": "ここは、一気に行くべきです！",
+    "translation": "ここは、一気に行くべきです！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_KOROMAR_0",
+    "original": "ワンッ、ワンッ！！",
+    "translation": "ワンッ、ワンッ！！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_ARAGAKI_0",
+    "original": "おい、今だ！　仕掛けるぞ！",
+    "translation": "おい、今だ！　仕掛けるぞ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_P3_HERO_0",
+    "original": "総攻撃のチャンスじゃない？",
+    "translation": "総攻撃のチャンスじゃない？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_RYUJI_0",
+    "original": "お、チャンスじゃねえの？",
+    "translation": "お、チャンスじゃねえの？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_ANN_0",
+    "original": "チャンスだね！　いっちゃう？",
+    "translation": "チャンスだね！　いっちゃう？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_MONA_0",
+    "original": "よし！　総攻撃のチャンスだ！",
+    "translation": "よし！　総攻撃のチャンスだ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_YUSUKE_0",
+    "original": "好機だ！　どうする？",
+    "translation": "好機だ！　どうする？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_MAKOTO_0",
+    "original": "良い流れ！\nこのまま行くわよ？",
+    "translation": "良い流れ！\nこのまま行くわよ？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_FUTABA_0",
+    "original": "チャンスだ！　蹴散らせー！ ",
+    "translation": "チャンスだ！　蹴散らせー！ ",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_HARU_0",
+    "original": "一気に行けそう！\n…だよね？",
+    "translation": "一気に行けそう！\n…だよね？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL_ATK_AKECI_0",
+    "original": "敵は総崩れだね！",
+    "translation": "敵は総崩れだね！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_P4HERO_0",
+    "original": "今ならやれる！",
+    "translation": "今ならやれる！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_P3HERO_0",
+    "original": "今しかない！　行こう！",
+    "translation": "今しかない！　行こう！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_YOUSUK_0",
+    "original": "チャンスターイム！\n総攻撃だぜ！",
+    "translation": "チャンスターイム！\n総攻撃だぜ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_CHIE_0",
+    "original": "今だ！　総員、突撃せよー！",
+    "translation": "今だ！　総員、突撃せよー！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_YUKIKO_0",
+    "original": "今だよ！\nみんなの力を合わせよう！",
+    "translation": "今だよ！\nみんなの力を合わせよう！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_RISE_0",
+    "original": "きたきた、ビッグチャーンス！",
+    "translation": "きたきた、ビッグチャーンス！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_KANJI_0",
+    "original": "今が攻め時って奴っスよ！",
+    "translation": "今が攻め時って奴っスよ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_NAOTO_0",
+    "original": "今なら行けます！\n総攻撃の許可を！",
+    "translation": "今なら行けます！\n総攻撃の許可を！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_KUMA_0",
+    "original": "ボッコボコの\nフルボッコクマー！！",
+    "translation": "ボッコボコの\nフルボッコクマー！！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_YUKARI_0",
+    "original": "チャンスだよね！？\n一気に行くよ！",
+    "translation": "チャンスだよね！？\n一気に行くよ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_JUNPEI_0",
+    "original": "全員でどーんといきゃ\n終わるってー！",
+    "translation": "全員でどーんといきゃ\n終わるってー！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_SANADA_0",
+    "original": "勝負の時だ！　畳みかける！",
+    "translation": "勝負の時だ！　畳みかける！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_MITURU_0",
+    "original": "流れはこちらにある！\n攻めるぞ！",
+    "translation": "流れはこちらにある！\n攻めるぞ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_FUKA_0",
+    "original": "今なら行けます！",
+    "translation": "今なら行けます！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_AEGIS_0",
+    "original": "こちらの準備は整っています！",
+    "translation": "こちらの準備は整っています！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_AMADA_0",
+    "original": "チャンスですよ！\n行きましょう！",
+    "translation": "チャンスですよ！\n行きましょう！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_KOROMA_0",
+    "original": "ワンッ、ワンッ！！",
+    "translation": "ワンッ、ワンッ！！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_ARAGAK_0",
+    "original": "頃合いだ…行くぞ！",
+    "translation": "頃合いだ…行くぞ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_P3_HER_0",
+    "original": "今しかない！　行こう！",
+    "translation": "今しかない！　行こう！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_RYUJI_0",
+    "original": "さあて、おっぱじめんぞォ！",
+    "translation": "さあて、おっぱじめんぞォ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_ANN_0",
+    "original": "いつものアレ、いっちゃおう？",
+    "translation": "いつものアレ、いっちゃおう？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_MONA_0",
+    "original": "このチャンス、\nモチロン行くよな？",
+    "translation": "このチャンス、\nモチロン行くよな？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_YUSUKE_0",
+    "original": "宴もたけなわ、\nといったところか。",
+    "translation": "宴もたけなわ、\nといったところか。",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_MAKOTO_0",
+    "original": "一気にカタをつけましょう？",
+    "translation": "一気にカタをつけましょう？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_FUTABA_0",
+    "original": "チャンスだ！　蹴散らせー！ ",
+    "translation": "チャンスだ！　蹴散らせー！ ",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_HARU_0",
+    "original": "総攻撃できそうだよ！\nしちゃう？",
+    "translation": "総攻撃できそうだよ！\nしちゃう？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALL2_ATK_AKECI_0",
+    "original": "この瞬間を待っていたよ！",
+    "translation": "この瞬間を待っていたよ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_P4HER_0",
+    "original": "俺達に任せてくれ…",
+    "translation": "俺達に任せてくれ…",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_P3HER_0",
+    "original": "今がチャンスかな？",
+    "translation": "今がチャンスかな？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_YOUSU_0",
+    "original": "ここはトーゼン、\n行くしかねーだろ！",
+    "translation": "ここはトーゼン、\n行くしかねーだろ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_CHIE_0",
+    "original": "よぉーし、あたし達に任せて！",
+    "translation": "よぉーし、あたし達に任せて！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_YUKIK_0",
+    "original": "今だよ！\n私たちの力を合わせよう！",
+    "translation": "今だよ！\n私たちの力を合わせよう！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_RISE_0",
+    "original": "今なら行けそうだよ！",
+    "translation": "今なら行けそうだよ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_KANJI_0",
+    "original": "今しかないだろ！\nいくぜコラァ！",
+    "translation": "今しかないだろ！\nいくぜコラァ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_NAOTO_0",
+    "original": "チャンスです！\n僕たちで畳みかけましょう！",
+    "translation": "チャンスです！\n僕たちで畳みかけましょう！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_KUMA_0",
+    "original": "クマたちによる、\nボコボコチャンスクマー！！",
+    "translation": "クマたちによる、\nボコボコチャンスクマー！！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_YUKAR_0",
+    "original": "来たよ、皆！\n今しかないって！",
+    "translation": "来たよ、皆！\n今しかないって！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_JUNPE_0",
+    "original": "よぉっし、皆の者！\nオレ様に続けーい！",
+    "translation": "よぉっし、皆の者！\nオレ様に続けーい！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_SANAD_0",
+    "original": "どうやら俺たちの出番だな…",
+    "translation": "どうやら俺たちの出番だな…",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_MITUR_0",
+    "original": "ここで攻め込まない\nバカはいない…そうだろ！？",
+    "translation": "ここで攻め込まない\nバカはいない…そうだろ！？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_FUKA_0",
+    "original": "皆さん、今ですよ！",
+    "translation": "皆さん、今ですよ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_AEGIS_0",
+    "original": "わたしたちで、\n一斉攻撃であります！",
+    "translation": "わたしたちで、\n一斉攻撃であります！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_AMADA_0",
+    "original": "みんなで行けば倒せますよ！",
+    "translation": "みんなで行けば倒せますよ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_KOROM_0",
+    "original": "ワンッ、ワンッ！！",
+    "translation": "ワンッ、ワンッ！！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_ARAGA_0",
+    "original": "俺たちが\n一気に行くしかねーよな？",
+    "translation": "俺たちが\n一気に行くしかねーよな？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_P3_HE_0",
+    "original": "力を貸すよ。一気に行こう！",
+    "translation": "力を貸すよ。一気に行こう！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_P5HER_0",
+    "original": "ここだっ！",
+    "translation": "ここだっ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_RYUJI_0",
+    "original": "このチャンス、\n俺たちに任せな！",
+    "translation": "このチャンス、\n俺たちに任せな！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_ANN_0",
+    "original": "今なら私たちでいけるかも！",
+    "translation": "今なら私たちでいけるかも！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_MONA_0",
+    "original": "ワガハイたちの力を\n見せる時が来た！",
+    "translation": "ワガハイたちの力を\n見せる時が来た！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_YUSUK_0",
+    "original": "俺たちの力を見せる時だ！",
+    "translation": "俺たちの力を見せる時だ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_MAKOT_0",
+    "original": "今なら…\n私たちなら行けるわよ？",
+    "translation": "今なら…\n私たちなら行けるわよ？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_FUTAB_0",
+    "original": "やるなら今だぞ！\n指示をくれ！",
+    "translation": "やるなら今だぞ！\n指示をくれ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_HARU_0",
+    "original": "今なら…\n私たちの力で一気にいけるよ？",
+    "translation": "今なら…\n私たちの力で一気にいけるよ？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI_ATK_AKECI_0",
+    "original": "どうやら、僕らの出番かな？",
+    "translation": "どうやら、僕らの出番かな？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_P4HE_0",
+    "original": "今だ！　たたみかけよう！",
+    "translation": "今だ！　たたみかけよう！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_P3HE_0",
+    "original": "僕たちに任せて！",
+    "translation": "僕たちに任せて！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_YOUS_0",
+    "original": "今ならいけそうだな！\nどうする！？",
+    "translation": "今ならいけそうだな！\nどうする！？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_CHIE_0",
+    "original": "アップ終わり！\nあとは任せて！",
+    "translation": "アップ終わり！\nあとは任せて！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_YUKI_0",
+    "original": "準備、できてるよ！",
+    "translation": "準備、できてるよ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_RISE_0",
+    "original": "きたきた、ビッグチャーンス！",
+    "translation": "きたきた、ビッグチャーンス！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_KANJ_0",
+    "original": "オレらに行かせてくださいよ！",
+    "translation": "オレらに行かせてくださいよ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_NAOT_0",
+    "original": "追い詰めるなら今です！",
+    "translation": "追い詰めるなら今です！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_KUMA_0",
+    "original": "クマのカッコイイ姿みたい？\nん？　どや？",
+    "translation": "クマのカッコイイ姿みたい？\nん？　どや？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_YUKA_0",
+    "original": "よーし、やっちゃう？",
+    "translation": "よーし、やっちゃう？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_JUNP_0",
+    "original": "いっちょやりますか！",
+    "translation": "いっちょやりますか！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_SANA_0",
+    "original": "待ちくたびれたぞ…\n今だ、仕掛ける！",
+    "translation": "待ちくたびれたぞ…\n今だ、仕掛ける！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_MITU_0",
+    "original": "頃合いだ、畳み掛けよう！",
+    "translation": "頃合いだ、畳み掛けよう！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_FUKA_0",
+    "original": "今なら行けます！",
+    "translation": "今なら行けます！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_AEGI_0",
+    "original": "チャンスであります！",
+    "translation": "チャンスであります！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_AMAD_0",
+    "original": "準備オッケーです、\n行けますよ！",
+    "translation": "準備オッケーです、\n行けますよ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_KORO_0",
+    "original": "ワンッ、ワンッ！！",
+    "translation": "ワンッ、ワンッ！！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_ARAG_0",
+    "original": "チャンスだな…行くぞ",
+    "translation": "チャンスだな…行くぞ",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_P3_H_0",
+    "original": "今だよ、準備はいい？",
+    "translation": "今だよ、準備はいい？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_P5HE_0",
+    "original": "チャンスだ！",
+    "translation": "チャンスだ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_RYUJ_0",
+    "original": "一気にトドメ刺してやろうぜ！",
+    "translation": "一気にトドメ刺してやろうぜ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_ANN_0",
+    "original": "一気に片付けよう！",
+    "translation": "一気に片付けよう！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_MONA_0",
+    "original": "今だ、やってやろうぜ！",
+    "translation": "今だ、やってやろうぜ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_YUSU_0",
+    "original": "いつでも行けるぞ！",
+    "translation": "いつでも行けるぞ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_MAKO_0",
+    "original": "今よ、仕掛けましょう！",
+    "translation": "今よ、仕掛けましょう！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_FUTA_0",
+    "original": "やるなら今だぞ！\n指示をくれ！",
+    "translation": "やるなら今だぞ！\n指示をくれ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_HARU_0",
+    "original": "そろそろいいかな？",
+    "translation": "そろそろいいかな？",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COMBI2_ATK_AKEC_0",
+    "original": "そろそろ始めようか。",
+    "translation": "そろそろ始めようか。",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_VELVET_THEODORE_0",
+    "original": "意識を集中した！",
+    "translation": "意識を集中した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_VELVET_ELIZABET_0",
+    "original": "意識を集中した！",
+    "translation": "意識を集中した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_VELVET_MARGARET_0",
+    "original": "意識を集中した！",
+    "translation": "意識を集中した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_USAGI_OOGOE_0",
+    "original": "[占位A 01]は大きく息を吸い込んだ",
+    "translation": "[占位A 01]は大きく息を吸い込んだ",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_VELVET_SRICAM_0",
+    "original": "[占位A 01]は戦線に復帰した！",
+    "translation": "[占位A 01]は戦線に復帰した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_GK_COUNT3_0",
+    "original": "[占位A 01]の目が輝いている！",
+    "translation": "[占位A 01]の目が輝いている！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_GK_COUNT2_0",
+    "original": "[占位A 01]は目の輝きを消してしまった！",
+    "translation": "[占位A 01]は目の輝きを消してしまった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_GK_COUNT1_0",
+    "original": "[占位A 01]の目が“１”回、輝いた。",
+    "translation": "[占位A 01]の目が“１”回、輝いた。",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ESCAPE_ALL_0",
+    "original": "パーティは逃げ出した！",
+    "translation": "パーティは逃げ出した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_OVERWRITE_ALL_0",
+    "original": "パーティの強化効果が延長された！",
+    "translation": "パーティの強化効果が延長された！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_HPHEAL_ALL_MEMB_0",
+    "original": "味方全員のＨＰが回復した！",
+    "translation": "味方全員のＨＰが回復した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_EXP_GIFT_0",
+    "original": "この戦闘で入手出来る経験値が増えた！",
+    "translation": "この戦闘で入手出来る経験値が増えた！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_BOUHEKI_0",
+    "original": "味方全員の防御力がアップした！",
+    "translation": "味方全員の防御力がアップした！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_GOURIKI_0",
+    "original": "味方全員の攻撃力がアップした！",
+    "translation": "味方全員の攻撃力がアップした！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_KAISOKU_0",
+    "original": "味方全員の命中と回避がアップした！",
+    "translation": "味方全員の命中と回避がアップした！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COVERAL_0",
+    "original": "敵から受けるダメージを無効化する！",
+    "translation": "敵から受けるダメージを無効化する！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_DENKOH_0",
+    "original": "味方全員の行動が最速になった！",
+    "translation": "味方全員の行動が最速になった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ORACLE_0",
+    "original": "ＳＰを除いて味方を全回復！",
+    "translation": "ＳＰを除いて味方を全回復！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_MESSIAH_0",
+    "original": "味方全員のＨＰ、状態異常、封じを全回復！",
+    "translation": "味方全員のＨＰ、状態異常、封じを全回復！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ESHOWER_0",
+    "original": "味方全員の状態異常、封じを全回復した！",
+    "translation": "味方全員の状態異常、封じを全回復した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_FULLGET_0",
+    "original": "このターンに倒した敵の素材を全て入手",
+    "translation": "このターンに倒した敵の素材を全て入手",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COST_CUT_0",
+    "original": "味方全員のスキルコストがゼロになった！",
+    "translation": "味方全員のスキルコストがゼロになった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_TIYUDAI_0",
+    "original": "３ターンの間、味方全員のＨＰを回復！",
+    "translation": "３ターンの間、味方全員のＨＰを回復！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_TIYUSOK_0",
+    "original": "３ターンの間、味方全員のＨＰを回復！",
+    "translation": "３ターンの間、味方全員のＨＰを回復！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_HOMUNCU_0",
+    "original": "ホムンクルスが身代わりになった！",
+    "translation": "ホムンクルスが身代わりになった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_OWNDOLL_0",
+    "original": "[占位A 01]に贖罪の羊の効果が発動！",
+    "translation": "[占位A 01]に贖罪の羊の効果が発動！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_KIAIBRACE_0",
+    "original": "[占位A 01]にド根性の腕輪の効果が発動！",
+    "translation": "[占位A 01]にド根性の腕輪の効果が発動！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_KAMINONIE_0",
+    "original": "[占位A 01]に神の贄の効果が発動！",
+    "translation": "[占位A 01]に神の贄の効果が発動！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_DLCATK_0",
+    "original": "ターンの最後に攻撃を行うようになった！",
+    "translation": "ターンの最後に攻撃を行うようになった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_UZUUZU_0",
+    "original": "[占位A 01]はウズウズしている！",
+    "translation": "[占位A 01]はウズウズしている！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_MANZOK_0",
+    "original": "[占位A 01]は満足している",
+    "translation": "[占位A 01]は満足している",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_THINK_0",
+    "original": "[占位A 01]は考え込んでいる",
+    "translation": "[占位A 01]は考え込んでいる",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_KETSUDAN_0",
+    "original": "[占位A 01]は意を決した！",
+    "translation": "[占位A 01]は意を決した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_MAHASUKU_0",
+    "original": "[占位A 02]の命中率と回避率が上昇した！",
+    "translation": "[占位A 02]の命中率と回避率が上昇した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_RANDAMA_0",
+    "original": "[占位A 02]の全ての能力が低下した！",
+    "translation": "[占位A 02]の全ての能力が低下した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_HEATRA_0",
+    "original": "[占位A 02]の全ての能力が上昇した！",
+    "translation": "[占位A 02]の全ての能力が上昇した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_SASTAIN_0",
+    "original": "[占位A 02]の強化効果が延長された！",
+    "translation": "[占位A 02]の強化効果が延長された！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_HIDE_0",
+    "original": "[占位A 02]は物理攻撃を無効化するようになった！",
+    "translation": "[占位A 02]は物理攻撃を無効化するようになった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_RISKY_GAMEOVER_0",
+    "original": "リーダーが力尽きた…",
+    "translation": "リーダーが力尽きた…",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_JIBAKU_0",
+    "original": "[占位A 01]の自爆スイッチが入った！",
+    "translation": "[占位A 01]の自爆スイッチが入った！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_EIKOHNO_0",
+    "original": "味方全員の攻撃力と防御力が上昇した！",
+    "translation": "味方全員の攻撃力と防御力が上昇した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ALLBSTHEAL_0",
+    "original": "味方の状態異常が回復した！",
+    "translation": "味方の状態異常が回復した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_KOUKA_NASHI_0",
+    "original": "しかし効果が無かった。",
+    "translation": "しかし効果が無かった。",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_AMRITA_0",
+    "original": "[占位A 02]のＨＰ、状態異常、封じが全回復！",
+    "translation": "[占位A 02]のＨＰ、状態異常、封じが全回復！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_LPATRA_0",
+    "original": "[占位A 02]の列のＨＰ、状態異常が回復！",
+    "translation": "[占位A 02]の列のＨＰ、状態異常が回復！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_COUNT_UP_0",
+    "original": "[占位A 02]のカウントが増えた！",
+    "translation": "[占位A 02]のカウントが増えた！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ONEBSTHEAL_0",
+    "original": "[占位A 02]の状態異常が回復した！",
+    "translation": "[占位A 02]の状態異常が回復した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_ONESEALHEAL_0",
+    "original": "[占位A 02]の封じを消し去った！",
+    "translation": "[占位A 02]の封じを消し去った！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_CHARGE_0",
+    "original": "[占位A 02]は力を溜めた！",
+    "translation": "[占位A 02]は力を溜めた！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_CONCENTRATE_0",
+    "original": "[占位A 02]は意識を集中した！",
+    "translation": "[占位A 02]は意識を集中した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_KAKUSEI_0",
+    "original": "[占位A 02]は修羅と化した！",
+    "translation": "[占位A 02]は修羅と化した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_SUMMON_TRUMP_0",
+    "original": "トランプ兵達が現れた！",
+    "translation": "トランプ兵達が現れた！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_DOLL_SMILE_0",
+    "original": "[占位A 01]は無邪気に笑っている",
+    "translation": "[占位A 01]は無邪気に笑っている",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_MOTIVATION_0",
+    "original": "[占位A 01]はやる気だ！",
+    "translation": "[占位A 01]はやる気だ！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_BOAST_0",
+    "original": "[占位A 01]は肉体を誇示している",
+    "translation": "[占位A 01]は肉体を誇示している",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_RELAX_0",
+    "original": "[占位A 01]は優雅にくつろいでいる",
+    "translation": "[占位A 01]は優雅にくつろいでいる",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_CREEP_0",
+    "original": "[占位A 01]はモゾモゾしている",
+    "translation": "[占位A 01]はモゾモゾしている",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_TURNENDHEAL_0",
+    "original": "味方全員を回復する効果がついた！",
+    "translation": "味方全員を回復する効果がついた！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_DARKMIST_0",
+    "original": "[占位A 02]の状態異常、封じの時間が延長された",
+    "translation": "[占位A 02]の状態異常、封じの時間が延長された",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_TARGET_DEAD_ALR_0",
+    "original": "[占位A 01]の対象がいない！",
+    "translation": "[占位A 01]の対象がいない！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_DROP_MONEY_0",
+    "original": "シャドウが[占位A 03]円ばらまいた",
+    "translation": "シャドウが[占位A 03]円ばらまいた",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_REF_COUNTER_ATT_0",
+    "original": "[占位A 02]の挑発カウンター発動！",
+    "translation": "[占位A 02]の挑発カウンター発動！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_REF_SKILL_LOCK_0",
+    "original": "個性を奪われた！",
+    "translation": "個性を奪われた！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_BEAR_TENSION_L2_0",
+    "original": "テンションが上がりきった！",
+    "translation": "テンションが上がりきった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_BEAR_TENSION_L3_0",
+    "original": "テンションが高まる！",
+    "translation": "テンションが高まる！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_BEAR_TENSION_L3_2_0",
+    "original": "テンションが最高潮になった！",
+    "translation": "テンションが最高潮になった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRUP_NEND_0",
+    "original": "[占位A 02]の念動耐性が上昇した！",
+    "translation": "[占位A 02]の念動耐性が上昇した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRUP_KAKU_0",
+    "original": "[占位A 02]の核熱耐性が上昇した！",
+    "translation": "[占位A 02]の核熱耐性が上昇した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRDOWN_NE_0",
+    "original": "[占位A 02]の念動耐性が低下した！",
+    "translation": "[占位A 02]の念動耐性が低下した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_REF_ATTRDOWN_KA_0",
+    "original": "[占位A 02]の核熱耐性が低下した！",
+    "translation": "[占位A 02]の核熱耐性が低下した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_DOUBLE_ATTACK_0",
+    "original": "連撃発動！",
+    "translation": "連撃発動！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_BOOT2_0",
+    "original": "[占位A 04]発動！",
+    "translation": "[占位A 04]発動！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_FULL_ANALYZE_SU_0",
+    "original": "[占位A 02]の能力を解析した！",
+    "translation": "[占位A 02]の能力を解析した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_FULL_SNALYZE_FA_0",
+    "original": "[占位A 02]は解析を防いでいる…",
+    "translation": "[占位A 02]は解析を防いでいる…",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PQ2_SONIC_RUSH_0",
+    "original": "スキルを連続で使う構えをとった！",
+    "translation": "スキルを連続で使う構えをとった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PQ2_RUSH_STEP_0",
+    "original": "スキルを連続で使う構えをとった！",
+    "translation": "スキルを連続で使う構えをとった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PQ2_GOWAN_0",
+    "original": "スキルを拡散させる構えをとった！",
+    "translation": "スキルを拡散させる構えをとった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PQ2_GAISHU_0",
+    "original": "スキルを拡散させる構えをとった！",
+    "translation": "スキルを拡散させる構えをとった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PQ2_UTIOTOSI_0",
+    "original": "物理攻撃を無効化するため身構えた！",
+    "translation": "物理攻撃を無効化するため身構えた！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PQ2_GEIGEKI_0",
+    "original": "物理攻撃を無効化するため身構えた！",
+    "translation": "物理攻撃を無効化するため身構えた！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PQ2_ORGIA_0",
+    "original": "リミッターを解除した！",
+    "translation": "リミッターを解除した！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PQ2_COSTC_0",
+    "original": "スキルの消費コストが下がった！",
+    "translation": "スキルの消費コストが下がった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PQ2_COSTR_0",
+    "original": "スキルの消費コストが下がった！",
+    "translation": "スキルの消費コストが下がった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "BTLMSGID_PQ2_ZEROS_0",
+    "original": "[占位A 02]の消費コストがゼロになった！",
+    "translation": "[占位A 02]の消費コストがゼロになった！",
+    "stage": 1,
+    "context": "慈悲深い聖職者"
+  },
+  {
+    "key": "speaker_慈悲深い聖職者",
+    "original": "慈悲深い聖職者",
+    "translation": "慈悲深い聖職者",
+    "stage": 1,
+    "context": ""
+  }
+]

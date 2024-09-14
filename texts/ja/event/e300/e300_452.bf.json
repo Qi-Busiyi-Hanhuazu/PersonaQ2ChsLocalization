@@ -1,0 +1,121 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…あれ？　行き止まりか？",
+    "translation": "…あれ？　行き止まりか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ワンッ！　ワンワンッ！",
+    "translation": "ワンッ！　ワンワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "どうした、コロマル？",
+    "translation": "どうした、コロマル？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ほう、ダクトか…",
+    "translation": "ほう、ダクトか…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "確かに、これなら反対側に繋がってる。\nよく気づいたな。",
+    "translation": "確かに、これなら反対側に繋がってる。\nよく気づいたな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あそこが通れる、と\nコロマルさんは言ってます。",
+    "translation": "あそこが通れる、と\nコロマルさんは言ってます。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "えっ！？　通れるって、まさか…",
+    "translation": "えっ！？　通れるって、まさか…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "でも、来る途中に扉もあったし、\nまずはそっちを調べてみない？",
+    "translation": "でも、来る途中に扉もあったし、\nまずはそっちを調べてみない？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ま、それもそうだな。\nんじゃ、扉のほう行ってみようぜ。",
+    "translation": "ま、それもそうだな。\nんじゃ、扉のほう行ってみようぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "とりあえず、扉を調べてみようぜ。",
+    "translation": "とりあえず、扉を調べてみようぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

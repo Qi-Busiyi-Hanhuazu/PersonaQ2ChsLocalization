@@ -1,0 +1,191 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "わ、何あれ？\nなんかいっぱい積まれてるみたい。",
+    "translation": "わ、何あれ？\nなんかいっぱい積まれてるみたい。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "廃材…でしょうか？　かなりの量ですね。",
+    "translation": "廃材…でしょうか？　かなりの量ですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_001_1_0",
+    "original": "んだよ、あんなとこにゴミ溜めやがって。\n道のド真ん中だろうが。",
+    "translation": "んだよ、あんなとこにゴミ溜めやがって。\n道のド真ん中だろうが。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_001_2_0",
+    "original": "あれじゃ、通るのは難しそうね。\n迂回するしかないかしら…",
+    "translation": "あれじゃ、通るのは難しそうね。\n迂回するしかないかしら…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "力ずくで退かすか？\nウェイトトレーニングだと思えば…",
+    "translation": "力ずくで退かすか？\nウェイトトレーニングだと思えば…",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "脳筋バカが…しゃしゃり出てくんな。",
+    "translation": "脳筋バカが…しゃしゃり出てくんな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "では、破壊しますか？",
+    "translation": "では、破壊しますか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "こっちもかよ…",
+    "translation": "こっちもかよ…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ですが、あながち\n悪くないアイデアかもしれません。",
+    "translation": "ですが、あながち\n悪くないアイデアかもしれません。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "これだけの量を移動させるには\n僕たちの力だけでは難しいですけど…",
+    "translation": "これだけの量を移動させるには\n僕たちの力だけでは難しいですけど…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そうだね、重機か何かがないと。\n何か利用できるものはないかな？",
+    "translation": "そうだね、重機か何かがないと。\n何か利用できるものはないかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "…そういったものは見当たらないな。\n仕方ない、他に道がないか確認してみよう。",
+    "translation": "…そういったものは見当たらないな。\n仕方ない、他に道がないか確認してみよう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "ああ、それと…念の為、これは\n地図に残しておいた方が良いだろうな。",
+    "translation": "ああ、それと…念の為、これは\n地図に残しておいた方が良いだろうな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "では、しるしは俺が考えておくとしよう。\n任せておけ！",
+    "translation": "では、しるしは俺が考えておくとしよう。\n任せておけ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_ICON_CLASH_BLOCK_OPE_0",
+    "original": "下画面の地図に[颜色 03]『破壊可能ブロック』[颜色 01]の\nアイコンが追加されました。",
+    "translation": "下画面の地図に[颜色 03]『破壊可能ブロック』[颜色 01]の\nアイコンが追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ICON_CLASH_BLOCK_OPE_1",
+    "original": "アイコンの使用用途をもう一度\n確認したい場合は",
+    "translation": "アイコンの使用用途をもう一度\n確認したい場合は",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ICON_CLASH_BLOCK_OPE_2",
+    "original": "地図の右下にある[颜色 03]ＨＥＬＰ[颜色 01]の[颜色 03]アイコンの種類[颜色 01]\nから、確認する事が出来ます。",
+    "translation": "地図の右下にある[颜色 03]ＨＥＬＰ[颜色 01]の[颜色 03]アイコンの種類[颜色 01]\nから、確認する事が出来ます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

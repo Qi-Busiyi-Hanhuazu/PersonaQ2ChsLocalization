@@ -1,0 +1,107 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ようこそお越しくださいました。\n特別上映に挑まれるのですね？",
+    "translation": "ようこそお越しくださいました。\n特別上映に挑まれるのですね？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ええ。やってみるわ。",
+    "translation": "ええ。やってみるわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "敵を倒してくればいいんだよね？\nその内容にもよるけど…",
+    "translation": "敵を倒してくればいいんだよね？\nその内容にもよるけど…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "フフ、ご安心ください。無謀なことは\n申し上げません…今のところは。",
+    "translation": "フフ、ご安心ください。無謀なことは\n申し上げません…今のところは。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "では早速ですが、バザルトの討伐を８体\nお願いできますでしょうか？",
+    "translation": "では早速ですが、バザルトの討伐を８体\nお願いできますでしょうか？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "余裕だ",
+    "translation": "余裕だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "問題ない",
+    "translation": "問題ない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うん、私たちなら出来るね。",
+    "translation": "うん、私たちなら出来るね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "大丈夫。今の私たちなら\n戦力的に問題ないわ。",
+    "translation": "大丈夫。今の私たちなら\n戦力的に問題ないわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "これはこれは頼もしい限り。",
+    "translation": "これはこれは頼もしい限り。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "私はここで、ポップコーンを片手に\n皆様の奮戦を拝見させていただきます。",
+    "translation": "私はここで、ポップコーンを片手に\n皆様の奮戦を拝見させていただきます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_007_2",
+    "original": "それでは『特別上映』、開演でございます！",
+    "translation": "それでは『特別上映』、開演でございます！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

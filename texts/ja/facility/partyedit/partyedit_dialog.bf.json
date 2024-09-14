@@ -1,0 +1,86 @@
+[
+  {
+    "key": "OK_SEL_0",
+    "original": "ＯＫ",
+    "translation": "ＯＫ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_TEAM_EDIT_CANC_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_TEAM_EDIT_CANC_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_NAVI_EDIT_CANC_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_NAVI_EDIT_CANC_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_REGISTRATION_C_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_REGISTRATION_C_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "EDIT_CANCEL_0",
+    "original": "＞パーティ編成を変更しないで戻ります。\n　よろしいですか？",
+    "translation": "＞パーティ編成を変更しないで戻ります。\n　よろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "NAVI_EDIT_CANCEL_0",
+    "original": "＞ナビ設定を変更しないで戻ります。\n　よろしいですか？",
+    "translation": "＞ナビ設定を変更しないで戻ります。\n　よろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "REGISTRATION_CANCEL_0",
+    "original": "＞このパーティを登録せずに\n　終了してよろしいですか？",
+    "translation": "＞このパーティを登録せずに\n　終了してよろしいですか？",
+    "stage": 1,
+    "context": ""
+  }
+]

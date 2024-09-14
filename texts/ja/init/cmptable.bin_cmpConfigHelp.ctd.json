@@ -1,0 +1,107 @@
+[
+  {
+    "key": "text_000_0",
+    "original": "コンフィグで変更した設定を有効にして戻ります",
+    "translation": "コンフィグで変更した設定を有効にして戻ります",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_001_0",
+    "original": "BGMの音量を変更します",
+    "translation": "BGMの音量を変更します",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_002_0",
+    "original": "SEの音量を変更します",
+    "translation": "SEの音量を変更します",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_003_0",
+    "original": "音声の音量を変更します",
+    "translation": "音声の音量を変更します",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_004_0",
+    "original": "音声に合わせて文章を自動で送ります",
+    "translation": "音声に合わせて文章を自動で送ります",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_005_0",
+    "original": "戦闘時に選択したカーソル位置を記憶します",
+    "translation": "戦闘時に選択したカーソル位置を記憶します",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_006_0",
+    "original": "カメラの上下操作を逆にします",
+    "translation": "カメラの上下操作を逆にします",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_007_0",
+    "original": "カメラの左右操作を逆にします",
+    "translation": "カメラの左右操作を逆にします",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_008_0",
+    "original": "移動に合わせて地図に自動で壁を描き込みます",
+    "translation": "移動に合わせて地図に自動で壁を描き込みます",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_009_0",
+    "original": "地図上に現在地付近の壁のガイドを表示します",
+    "translation": "地図上に現在地付近の壁のガイドを表示します",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_010_0",
+    "original": "戦闘終了後、隊列を戦闘前の状態に戻します",
+    "translation": "戦闘終了後、隊列を戦闘前の状態に戻します",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_011_0",
+    "original": "デフォルト状態での移動方法を変更します",
+    "translation": "デフォルト状態での移動方法を変更します",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_012_0",
+    "original": "戦闘速度を変更します",
+    "translation": "戦闘速度を変更します",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_013_0",
+    "original": "難易度を変更します",
+    "translation": "難易度を変更します",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_014_0",
+    "original": "セーブデータを削除します",
+    "translation": "セーブデータを削除します",
+    "stage": 1,
+    "context": ""
+  }
+]

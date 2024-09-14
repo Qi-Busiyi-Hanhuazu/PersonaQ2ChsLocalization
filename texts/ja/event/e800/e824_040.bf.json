@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "みんな、気をつけて！\n近くにＦ．Ｏ．Ｅが二体いるよ！",
+    "translation": "みんな、気をつけて！\n近くにＦ．Ｏ．Ｅが二体いるよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "チッ、セキュリティが変わったせいで\n湧いてきやがったか。",
+    "translation": "チッ、セキュリティが変わったせいで\n湧いてきやがったか。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "依頼の調査は、まだ先まで続きそうだぞ。",
+    "translation": "依頼の調査は、まだ先まで続きそうだぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "こっち進むならＦ．Ｏ．Ｅを倒すしかない。\n戦闘を避けたいなら別の道だな。",
+    "translation": "こっち進むならＦ．Ｏ．Ｅを倒すしかない。\n戦闘を避けたいなら別の道だな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "Ｆ．Ｏ．Ｅを倒すか、別ルートを探すか。\n判断は任せたぞ、ジョーカー！",
+    "translation": "Ｆ．Ｏ．Ｅを倒すか、別ルートを探すか。\n判断は任せたぞ、ジョーカー！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

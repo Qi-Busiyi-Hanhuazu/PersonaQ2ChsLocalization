@@ -1,0 +1,107 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おお！　こ、これは…！？",
+    "translation": "おお！　こ、これは…！？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_000_5_0",
+    "original": "見たところ、随分と古いカメラだが…\nなんと洗練されたデザイン…",
+    "translation": "見たところ、随分と古いカメラだが…\nなんと洗練されたデザイン…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おい、フォックスのアートレーダーが\nまた始まったぜ…",
+    "translation": "おい、フォックスのアートレーダーが\nまた始まったぜ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ったく！　じゃれてる暇はねーぞ？\nこれからクイーンとノワールを助けるんだ。",
+    "translation": "ったく！　じゃれてる暇はねーぞ？\nこれからクイーンとノワールを助けるんだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "戦いになるかもしれないし、気を付けろよ。",
+    "translation": "戦いになるかもしれないし、気を付けろよ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "…ジョーカー？\nどうしたんだい、ボーっとして。",
+    "translation": "…ジョーカー？\nどうしたんだい、ボーっとして。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "このカメラが気になるようだけど…",
+    "translation": "このカメラが気になるようだけど…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "カメラから、なにか不思議な力を感じる…",
+    "translation": "カメラから、なにか不思議な力を感じる…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "ここからなら、\n映画館に戻ることが出来そうだ…",
+    "translation": "ここからなら、\n映画館に戻ることが出来そうだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_2",
+    "original": "態勢を立て直すために、\n一度、映画館に戻ってもいいかもしれない…",
+    "translation": "態勢を立て直すために、\n一度、映画館に戻ってもいいかもしれない…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ここでは、迷宮から帰還したり\nセーブを行うことができます。",
+    "translation": "ここでは、迷宮から帰還したり\nセーブを行うことができます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

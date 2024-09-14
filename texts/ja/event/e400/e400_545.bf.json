@@ -1,0 +1,163 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふふっ…",
+    "translation": "ふふっ…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "テレッテッテー！\n全ての映画をコンプリート！",
+    "translation": "テレッテッテー！\n全ての映画をコンプリート！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "まったく…少しは落ち着いたらどうだ。\n最後まで締まりが無さすぎる。",
+    "translation": "まったく…少しは落ち着いたらどうだ。\n最後まで締まりが無さすぎる。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "まーまー、ミッチャン。",
+    "translation": "まーまー、ミッチャン。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "クマとのお別れが寂しいのは分かるけど、\nそうカリカリしちゃダ・メ・ク・マ！",
+    "translation": "クマとのお別れが寂しいのは分かるけど、\nそうカリカリしちゃダ・メ・ク・マ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "君はなにを言っているんだ？",
+    "translation": "君はなにを言っているんだ？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "マジに返されたクマ！！",
+    "translation": "マジに返されたクマ！！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "みんなー、お帰りなさーい！\n映画、すっごく良かったよ！",
+    "translation": "みんなー、お帰りなさーい！\n映画、すっごく良かったよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "私、ウルっときちゃいました。\nひかりちゃん…本当に良かったです。",
+    "translation": "私、ウルっときちゃいました。\nひかりちゃん…本当に良かったです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "みんな…\n心配かけてごめんなさい。",
+    "translation": "みんな…\n心配かけてごめんなさい。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "一緒に、この映画館から出よう。",
+    "translation": "一緒に、この映画館から出よう。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "…ええ、そうね。",
+    "translation": "…ええ、そうね。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "最後の鍵が手に入ったんですもの。\nこれで外に出られるのね。",
+    "translation": "最後の鍵が手に入ったんですもの。\nこれで外に出られるのね。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ああ、外してやろう。\n最後の鍵を。",
+    "translation": "ああ、外してやろう。\n最後の鍵を。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "うん…みんな、行こう。",
+    "translation": "うん…みんな、行こう。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

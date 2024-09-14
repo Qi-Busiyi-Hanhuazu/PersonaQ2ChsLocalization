@@ -1,0 +1,401 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ありました、この香辛料ですね。",
+    "translation": "ありました、この香辛料ですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ほっほーう、どれどれ～？\nクンクン…",
+    "translation": "ほっほーう、どれどれ～？\nクンクン…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "…オヨヨヨヨ？",
+    "translation": "…オヨヨヨヨ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "どうしました？",
+    "translation": "どうしました？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おかしいクマ…あの刺激的で芳しい\nニオイが全然しないクマ。",
+    "translation": "おかしいクマ…あの刺激的で芳しい\nニオイが全然しないクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なにっ！？",
+    "translation": "なにっ！？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "どれ…スンスン…",
+    "translation": "どれ…スンスン…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_2",
+    "original": "本当だ…あの時に感じた、\n鼻腔から脳天を駆け抜ける香りがない！",
+    "translation": "本当だ…あの時に感じた、\n鼻腔から脳天を駆け抜ける香りがない！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "お前らイヌかよ…",
+    "translation": "お前らイヌかよ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "でも、この香辛料に間違いねえんだろ？\nこれ以上どうしろって…",
+    "translation": "でも、この香辛料に間違いねえんだろ？\nこれ以上どうしろって…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そう言えば、テオさん言ってたよね？\n『刺激的なひと手間を加えた』って。",
+    "translation": "そう言えば、テオさん言ってたよね？\n『刺激的なひと手間を加えた』って。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "なるほど…香辛料は乾燥させたり、\n焙煎することでより風味が強くなります。",
+    "translation": "なるほど…香辛料は乾燥させたり、\n焙煎することでより風味が強くなります。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "この香辛料もひょっとしたら…",
+    "translation": "この香辛料もひょっとしたら…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "じゃあ、燃やす？\n香ばしくなると思うよ。",
+    "translation": "じゃあ、燃やす？\n香ばしくなると思うよ。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "いや、あの風味は焦げたような\n香ばしさとは違う…",
+    "translation": "いや、あの風味は焦げたような\n香ばしさとは違う…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "もっとビリビリと、痺れるような\n独特の風味だったはずだ。",
+    "translation": "もっとビリビリと、痺れるような\n独特の風味だったはずだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "痺れるような風味か…一体、どんな\nひと手間を加えるべきだと思う？",
+    "translation": "痺れるような風味か…一体、どんな\nひと手間を加えるべきだと思う？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "粉砕する",
+    "translation": "粉砕する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "凍らせる",
+    "translation": "凍らせる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_2",
+    "original": "通電させる",
+    "translation": "通電させる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "確かに、胡椒などは砕いて\n風味を出します。",
+    "translation": "確かに、胡椒などは砕いて\n風味を出します。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "ですが、それであの痺れるような\n風味になるでしょうか？",
+    "translation": "ですが、それであの痺れるような\n風味になるでしょうか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "…だったら、電気はどうかな？",
+    "translation": "…だったら、電気はどうかな？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "凍らせた所で、あの痺れるような風味に\nなるとは思えませんね。",
+    "translation": "凍らせた所で、あの痺れるような風味に\nなるとは思えませんね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "…だったら、電気はどうかな？",
+    "translation": "…だったら、電気はどうかな？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "痺れるから電気って、\nさすがに安直すぎじゃ…",
+    "translation": "痺れるから電気って、\nさすがに安直すぎじゃ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "それだ！　口に入れた瞬間の衝撃は、\nまさに感電した時のそれだ！",
+    "translation": "それだ！　口に入れた瞬間の衝撃は、\nまさに感電した時のそれだ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "マジかよ…",
+    "translation": "マジかよ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "テオドアさんも『刺激的なひと手間』\nなんて言ってるし、ありうるかもね。",
+    "translation": "テオドアさんも『刺激的なひと手間』\nなんて言ってるし、ありうるかもね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "じゃあ、オレの出番っスか？",
+    "translation": "じゃあ、オレの出番っスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "いえ、それでは火力…\nもとい電力の塩梅が分かりません。",
+    "translation": "いえ、それでは火力…\nもとい電力の塩梅が分かりません。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "限りある貴重な素材です。\n丸焦げにするわけには…",
+    "translation": "限りある貴重な素材です。\n丸焦げにするわけには…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "テオドアは『まさかのアレ』を\n使ったとか自慢げだったけど…",
+    "translation": "テオドアは『まさかのアレ』を\n使ったとか自慢げだったけど…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "なるほどね…",
+    "translation": "なるほどね…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "テオドアさんが使った『アレ』の正体、\n君はわかるかい？",
+    "translation": "テオドアさんが使った『アレ』の正体、\n君はわかるかい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_024_0",
+    "original": "ペルソナ",
+    "translation": "ペルソナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_1",
+    "original": "落雷",
+    "translation": "落雷",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_2",
+    "original": "電気柵",
+    "translation": "電気柵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "それはさっき、ムリって話だったろ？",
+    "translation": "それはさっき、ムリって話だったろ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "電気的な刺激を与える、それでいて\n調理器具としては意外なもの。それは…",
+    "translation": "電気的な刺激を与える、それでいて\n調理器具としては意外なもの。それは…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ここにある電気柵ですね。",
+    "translation": "ここにある電気柵ですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "雷なんていつ、どこに落ちてくるか\nわかんねえだろ。",
+    "translation": "雷なんていつ、どこに落ちてくるか\nわかんねえだろ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "電気的な刺激を与える、それでいて\n調理器具としては意外なもの。それは…",
+    "translation": "電気的な刺激を与える、それでいて\n調理器具としては意外なもの。それは…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ここにある電気柵ですね。",
+    "translation": "ここにある電気柵ですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "そうだね。\nあれなら電気的刺激を与えられる。",
+    "translation": "そうだね。\nあれなら電気的刺激を与えられる。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ま、ものは試しだ。\n電気柵のトコに行ってみようぜ。",
+    "translation": "ま、ものは試しだ。\n電気柵のトコに行ってみようぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ん？　オタカラスポット？",
+    "translation": "ん？　オタカラスポット？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "湿った落ち葉が集まってるところが、\n新しくオタカラスポットになってるみたい。",
+    "translation": "湿った落ち葉が集まってるところが、\n新しくオタカラスポットになってるみたい。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "なるほど、確かに落ち葉があるな。\nここを探してみよう、ジョーカー。",
+    "translation": "なるほど、確かに落ち葉があるな。\nここを探してみよう、ジョーカー。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "皆様、お疲れ様でございました。\n『シダシナモン』、確かに受け取りました。",
+    "translation": "皆様、お疲れ様でございました。\n『シダシナモン』、確かに受け取りました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "試しにテオの口の中へと放り込んだところ\n『苦い、青臭い』と悶絶する有り様。",
+    "translation": "試しにテオの口の中へと放り込んだところ\n『苦い、青臭い』と悶絶する有り様。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あ、あれを生で…ご愁傷様だね。",
+    "translation": "あ、あれを生で…ご愁傷様だね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "まさか乾燥させ粉末状にするという\n工程が必要だったとは…",
+    "translation": "まさか乾燥させ粉末状にするという\n工程が必要だったとは…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "私、早とちりのテヘペロでございます。",
+    "translation": "私、早とちりのテヘペロでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "その軽いノリで済む所業なのか、それ。",
+    "translation": "その軽いノリで済む所業なのか、それ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "兎にも角にも、準備が出来次第\n『ちゅろす』を作成させましょう。",
+    "translation": "兎にも角にも、準備が出来次第\n『ちゅろす』を作成させましょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "十分な量でしたので、\n継続的に販売できると申しておりました。",
+    "translation": "十分な量でしたので、\n継続的に販売できると申しておりました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "それならいつでも食べれるね。\n頑張った甲斐あった！",
+    "translation": "それならいつでも食べれるね。\n頑張った甲斐あった！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "楽しみだ",
+    "translation": "楽しみだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "食べ過ぎるなよ",
+    "translation": "食べ過ぎるなよ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん、みんなで食べよ！\n疲れたときとか絶対効くし。",
+    "translation": "うん、みんなで食べよ！\n疲れたときとか絶対効くし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "おしゃべりタイムも捗りそう。\nテオに張り切ってもらわなくちゃね。",
+    "translation": "おしゃべりタイムも捗りそう。\nテオに張り切ってもらわなくちゃね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あはは、わかってるってば。\nでもちょっとは大目に見てね。",
+    "translation": "あはは、わかってるってば。\nでもちょっとは大目に見てね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "戦うときに張り切って、\nカロリー消費しまくるから！",
+    "translation": "戦うときに張り切って、\nカロリー消費しまくるから！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ふふ、おしゃべりタイムも忘れないでね。\nテオに張り切ってもらわなくちゃ。",
+    "translation": "ふふ、おしゃべりタイムも忘れないでね。\nテオに張り切ってもらわなくちゃ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "楽しみが一つ増えちゃった。\n食べながらいろいろお話したいなー。",
+    "translation": "楽しみが一つ増えちゃった。\n食べながらいろいろお話したいなー。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "つーか、女子ってソッコーで\n仲良くなるよな。",
+    "translation": "つーか、女子ってソッコーで\n仲良くなるよな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "よく話し、よく相手を知る。\nこればかりは敵う気がしないな。",
+    "translation": "よく話し、よく相手を知る。\nこればかりは敵う気がしないな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "俺たちも、せっかく出会えたんだ。\nこの縁を大事にしたいものだな。",
+    "translation": "俺たちも、せっかく出会えたんだ。\nこの縁を大事にしたいものだな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "オタカラスポットだよ！\n何か見つかるかも！",
+    "translation": "这是一个藏宝地点哦！\n说不定会发现些什么！",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n是宝物地点耶！\n说不定可以找到什么！\n\n是宝物景点哦！\n可能会发现什么！\n\n是藏宝地哦！\n也许会发现什么！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "分かった。\n注意深く探してみよう？",
+    "translation": "明白了。\n要仔细地去探索吗？",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n知道了。\n小心地找找看吧。\n\n我知道了。\n仔细找找看吧？\n\n我知道了。\n仔细找找看？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "分かった！\n集中して探すね。",
+    "translation": "好！\n全神贯注地探索吧。",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n知道了！\n专心找哦。\n\n我知道了！\n集中精力找。\n\n明白了！\n集中寻找。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そっか。\nじゃあ、後でまた来よう。",
+    "translation": "好吧。\n那么，我们一会儿再过来吧。",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n这样啊。\n那我们晚点再来吧。\n\n这样啊。\n那么，以后再来吧。\n\n这样啊。那待会儿再来吧。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ええと…\nもう見つからないかな？",
+    "translation": "嗯……\n我们已经找不到了吧？",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n呃……\n已经找不到了吗？\n\n嗯……\n已经找不到了吗？\n\n嗯……已经找不到了吧？"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うんうん。",
+    "translation": "嗯嗯。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯嗯。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "楽しいね。",
+    "translation": "乐在其中呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真开心。\n\n好开心啊。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いい感じ。",
+    "translation": "很棒的感觉。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n感觉不错。\n\n感觉很好。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "なんとかなったね。\nこれで終わりみたい。",
+    "translation": "总算解决了呢。\n这下应该结束了。",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n总算是解决了。\n好像这样就结束了。\n\n有办法了。\n好像到此结束。\n\n总算有办法了。我想到此结束。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "凄くない？",
+    "translation": "看我厉害嘛？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n很厉害吧？\n\n不是很厉害吗？"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "レアだよ！",
+    "translation": "很稀有哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好稀有哦！\n\n很稀有哦！\n\n是稀有的！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "やったね！",
+    "translation": "太棒了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n太棒了！\n\n太好了！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あ、ショートカットがあるよ。\n通っておこうか？",
+    "translation": "啊，有一条捷径哦。\n我们要从这里通过吗？",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n啊，有捷径耶。\n要走吗？\n\n啊，有快捷方式哦。\n去吧？\n\n啊，有快捷键哦。\n要不要过去？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "あれ？\nこっちは通れないんだね。",
+    "translation": "咦？\n这里看起来无法通过呢。",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n奇怪？\n这边不能走耶。\n\n咦？\n这边过不去啊。\n\n咦？这边不能通过啊。"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ここ、危ない気配がするけど…\nどうしよう？",
+    "translation": "这里萦绕着一股危险的氛围……\n该怎么办呀？",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n这里好像有危险的气息……\n怎么办？\n\n这里有危险的迹象……\n怎么办？\n\n这里，有危险的气息……\n怎么办？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "うん、分かった。\n気をつけて調べよう。",
+    "translation": "嗯，明白了。\n小心地进行调查吧。",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n嗯，知道了。\n小心地调查吧。\n\n嗯，知道了。\n小心调查。\n\n嗯，知道了。小心地调查吧。"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "止めておくの？\n分かった。",
+    "translation": "要停下来吗？\n好的。",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n要先停手吗？\n知道了。\n\n要停止吗？\n明白了。\n\n停着吗？我知道了。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "凄く強いシャドウだったね。\nビックリしちゃった。",
+    "translation": "好厉害的暗影呀。\n真是令人心惊呢。",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n暗影好强哦。\n吓我一跳。\n\n是非常强的暗影呢。\n吓了一跳。\n\n好强的暗影啊。吓了一跳。"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "あれ？　シャドウの気配が凄いね…\n大丈夫かな？",
+    "translation": "咦？那个暗影感觉非常强大……\n没问题的吧？",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n奇怪？暗影的气息好强哦……\n没问题吗？\n\n咦？暗影的样子好厉害啊……\n没关系吧？\n\n咦？暗影的气息好厉害啊……\n没事吧？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "探すんだね。\nじゃあ、気をつけて調べてみよう。",
+    "translation": "要展开探索呀。\n那么，小心地调查一下吧。",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n要找对吧？\n那就小心地找找看吧。\n\n要找啊。\n那就注意调查一下吧。\n\n要找啊。那么，小心地查一下吧。"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだね。\n止めておこうか。",
+    "translation": "是的呢。\n那我们停下来吧。",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n是呢。\n就先别过去吧。\n\n是啊。\n停止吧。\n\n是啊。要不要阻止他？"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "これで終わりかな？",
+    "translation": "这样就结束了吗？",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n这样就结束了吧？\n\n就这样结束了吗？\n\n这就结束了吗？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから映画館に戻れるみたい。\nどうする？　戻る？",
+    "translation": "好像可以从这里回到电影院。\n怎么做？要回去吗？",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n似乎可以从这里回到电影院。\n怎么办？要回去吗？\n\n好像可以从这里回到电影院。\n怎么办？返回？\n\n好像可以从这里回到电影院。\n怎么办？回去？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "key": "text_000_0",
+    "original": "各種設定や確認を行います",
+    "translation": "进行各种设置及确认。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n进行各种设定与确认\n\n进行各种设置和确认。\n\n进行各种设定和确认"
+  },
+  {
+    "key": "text_001_0",
+    "original": "サブペルソナの装備と確認を行います",
+    "translation": "进行副人格面具的装备及确认。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n进行副人格面具的装备与确认\n\n进行辅助人格面具的装备和确认\n\n副人格面具的装备和确认。"
+  },
+  {
+    "key": "text_002_0",
+    "original": "スキルを使用します",
+    "translation": "使用技能。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n使用技能\n\n使用技能。"
+  },
+  {
+    "key": "text_003_0",
+    "original": "アイテムを使用します",
+    "translation": "使用道具。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n使用道具\n\n使用物品。\n\n使用项目"
+  },
+  {
+    "key": "text_004_0",
+    "original": "装備の変更と確認を行います",
+    "translation": "进行装备变更及确认。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n进行装备变更与确认\n\n进行装备的变更和确认\n\n装备的变更和确认。"
+  },
+  {
+    "key": "text_005_0",
+    "original": "詳細ステータスを確認します",
+    "translation": "确认详细状态。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n确认详细状态资讯\n\n检查详细信息状态\n\n确认详细状态。"
+  },
+  {
+    "key": "text_006_0",
+    "original": "パーティの隊列を変更します",
+    "translation": "变更队伍的队列。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n变更队伍的队列\n\n更改队伍的队伍\n\n改变队伍的队伍。"
+  },
+  {
+    "key": "text_007_0",
+    "original": "依頼の確認を行います",
+    "translation": "确认委托。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n确认委托\n\n进行委托的确认"
+  }
+]

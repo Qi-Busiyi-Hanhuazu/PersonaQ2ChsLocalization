@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "これは…",
+    "translation": "これは…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "やっぱり、通れそうに無いわね。",
+    "translation": "やっぱり、通れそうに無いわね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "つか、そもそも\n葉っぱがすごくて近づけねぇっスよ！",
+    "translation": "つか、そもそも\n葉っぱがすごくて近づけねぇっスよ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああ、切り倒すのも難しそうだ。\nせめて、もう少し手が届けば…",
+    "translation": "ああ、切り倒すのも難しそうだ。\nせめて、もう少し手が届けば…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "他の道を探した方が早いかもしれませんね。\nきっと、どこかに迂回路があるはずです。",
+    "translation": "他の道を探した方が早いかもしれませんね。\nきっと、どこかに迂回路があるはずです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

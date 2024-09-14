@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "こちらの特別上映は、特定の目標を\n指定の数、討伐する内容でございます。",
+    "translation": "こちらの特別上映は、特定の目標を\n指定の数、討伐する内容でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "縦横無尽に襲い掛かる敵を、片端から\nバッタバッタとなぎ倒していく…",
+    "translation": "縦横無尽に襲い掛かる敵を、片端から\nバッタバッタとなぎ倒していく…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "愉快！　痛快！　爽快！\nとにかくやってみんかーい！",
+    "translation": "愉快！　痛快！　爽快！\nとにかくやってみんかーい！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_3",
+    "original": "…という実にシンプル、かつ、スカッとした\n気分になれること間違いなし。",
+    "translation": "…という実にシンプル、かつ、スカッとした\n気分になれること間違いなし。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_4",
+    "original": "『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』に生息する\nバスタードライブを…",
+    "translation": "『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』に生息する\nバスタードライブを…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_5",
+    "original": "そうですね、パパッと４体ほど\n倒して頂きたく存じます。",
+    "translation": "そうですね、パパッと４体ほど\n倒して頂きたく存じます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "フッ、いいだろう。腕が鳴るな。",
+    "translation": "フッ、いいだろう。腕が鳴るな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "はい、先手必勝です！",
+    "translation": "はい、先手必勝です！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "いい返事だ、[P3P姓]！\n完膚なきまで叩きのめしてやれ！",
+    "translation": "いい返事だ、[P3P姓]！\n完膚なきまで叩きのめしてやれ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "お前らな…\n見境なく突っ込もうとするなよ？",
+    "translation": "お前らな…\n見境なく突っ込もうとするなよ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "討伐対象のシャドウの位置は、こちらで\n目印をつけてお知らせいたします。",
+    "translation": "討伐対象のシャドウの位置は、こちらで\n目印をつけてお知らせいたします。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "それでは皆様、いってらっしゃいませ。",
+    "translation": "それでは皆様、いってらっしゃいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  }
+]

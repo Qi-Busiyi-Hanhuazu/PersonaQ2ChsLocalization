@@ -1,0 +1,107 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "やってやったぞ、ヴィクトリー！\nまずは１体目撃破だ！",
+    "translation": "やってやったぞ、ヴィクトリー！\nまずは１体目撃破だ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ふー、けっこう何とかなるもんね。",
+    "translation": "ふー、けっこう何とかなるもんね。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "最初はとても勝てる相手じゃなかったのに、\n成長を実感できるわね。",
+    "translation": "最初はとても勝てる相手じゃなかったのに、\n成長を実感できるわね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "クマもグングン伸び盛りね！\n中身も生えて来てますし！",
+    "translation": "クマもグングン伸び盛りね！\n中身も生えて来てますし！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "この調子でいこう",
+    "translation": "この調子でいこう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "次が勝負だ",
+    "translation": "次が勝負だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "はい、油断はできません。\n相手は最強の肉食恐竜ですから。",
+    "translation": "はい、油断はできません。\n相手は最強の肉食恐竜ですから。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "頼もしいな、フェザーケンケン！\nこの勢いで次も頼むぞ！",
+    "translation": "頼もしいな、フェザーケンケン！\nこの勢いで次も頼むぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "ゆけ、ゆくんだ不死鳥戦隊！\nそこにクイーン・ジョーがいる限り！",
+    "translation": "ゆけ、ゆくんだ不死鳥戦隊！\nそこにクイーン・ジョーがいる限り！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_2",
+    "original": "後半へ…続く！",
+    "translation": "後半へ…続く！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  }
+]

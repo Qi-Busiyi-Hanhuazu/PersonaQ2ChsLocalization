@@ -1,0 +1,527 @@
+[
+  {
+    "key": "AMADA_FOE_FOLLOW_START_1_0",
+    "original": "わわっ、\nあのＦ．Ｏ．Ｅ追ってきてますよ！",
+    "translation": "わわっ、\nあのＦ．Ｏ．Ｅ追ってきてますよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅがこっちに来てます！\n逃げますか？",
+    "translation": "Ｆ．Ｏ．Ｅがこっちに来てます！\n逃げますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_FOE_FOLLOW_START_3_0",
+    "original": "Ｆ．Ｏ．Ｅが追いかけてきてます！",
+    "translation": "Ｆ．Ｏ．Ｅが追いかけてきてます！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅが近くにいますね…",
+    "translation": "Ｆ．Ｏ．Ｅが近くにいますね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_FOE_NEAR_2_0",
+    "original": "あれ、Ｆ．Ｏ．Ｅじゃないですか？",
+    "translation": "あれ、Ｆ．Ｏ．Ｅじゃないですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_FOE_NEAR_3_0",
+    "original": "あそこにＦ．Ｏ．Ｅがいますよ！",
+    "translation": "あそこにＦ．Ｏ．Ｅがいますよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_FOE_FOLLOW_END_1_0",
+    "original": "あれ？\nＦ．Ｏ．Ｅ追ってきてないですね…",
+    "translation": "あれ？\nＦ．Ｏ．Ｅ追ってきてないですね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_FOE_FOLLOW_END_2_0",
+    "original": "どうやら逃げ切れたみたいですね。",
+    "translation": "どうやら逃げ切れたみたいですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_FOE_FOLLOW_END_3_0",
+    "original": "あのＦ．Ｏ．Ｅ諦めたみたいですよ。",
+    "translation": "あのＦ．Ｏ．Ｅ諦めたみたいですよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_KANSI_REACTION_1_0",
+    "original": "見つかると厄介ですね。",
+    "translation": "見つかると厄介ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_KANSI_REACTION_2_0",
+    "original": "ここは注意しましょう！",
+    "translation": "ここは注意しましょう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_KANSI_REACTION_3_0",
+    "original": "ちょっと緊張しますね…",
+    "translation": "ちょっと緊張しますね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_DENKISAKU_REACTION_0",
+    "original": "電気柵か…通れそうにないですね。",
+    "translation": "電気柵か…通れそうにないですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_DENKISAKU_REACTION_2_0",
+    "original": "別の道を探したほうがよさそうですね。",
+    "translation": "別の道を探したほうがよさそうですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_DENKISAKU_REACTION_3_0",
+    "original": "先に電流を止めたほうが\nいいと思います。",
+    "translation": "先に電流を止めたほうが\nいいと思います。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_KYOUHU_REACTION_1_0",
+    "original": "うわぁーっ！",
+    "translation": "うわぁーっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_KYOUHU_REACTION_2_0",
+    "original": "風が…うわっ！？",
+    "translation": "風が…うわっ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_KYOUHU_REACTION_3_0",
+    "original": "ええっ！？",
+    "translation": "ええっ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_STAIR_FIND_1_0",
+    "original": "階段がありますよ！　どうしますか？",
+    "translation": "階段がありますよ！　どうしますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_STAIR_FIND_2_0",
+    "original": "次のエリアに行けそうですね。",
+    "translation": "次のエリアに行けそうですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_STAIR_FIND_3_0",
+    "original": "先に進めそうですけど、どうします？",
+    "translation": "先に進めそうですけど、どうします？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_TREASURE_FIND_1_0",
+    "original": "宝箱ですね。中身、気になるなぁ…",
+    "translation": "宝箱ですね。中身、気になるなぁ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_TREASURE_FIND_2_0",
+    "original": "宝箱、開けてみましょうよ！",
+    "translation": "宝箱、開けてみましょうよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_TREASURE_FIND_3_0",
+    "original": "あ、宝箱がありますよ！",
+    "translation": "あ、宝箱がありますよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_CHECK_WALL_1_0",
+    "original": "あれ、なんか気になりませんか？",
+    "translation": "あれ、なんか気になりませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_CHECK_WALL_2_0",
+    "original": "なんかあります、調べてみましょう！",
+    "translation": "なんかあります、調べてみましょう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_CHECK_WALL_3_0",
+    "original": "あれって…？　近くで見てみませんか？",
+    "translation": "あれって…？　近くで見てみませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_SWITCH_FIND_1_0",
+    "original": "スイッチがありましたよ！",
+    "translation": "スイッチがありましたよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_SWITCH_FIND_2_0",
+    "original": "これ、スイッチですね。\n押してみますか？",
+    "translation": "これ、スイッチですね。\n押してみますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_SWITCH_FIND_3_0",
+    "original": "あっ、スイッチですね！",
+    "translation": "あっ、スイッチですね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_SHORTCUT_FIND_1_0",
+    "original": "見てください、あそこ通れそうですよ！",
+    "translation": "見てください、あそこ通れそうですよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_SHORTCUT_FIND_2_0",
+    "original": "そこ、近道になりそうじゃないですか？",
+    "translation": "そこ、近道になりそうじゃないですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_SHORTCUT_FIND_3_0",
+    "original": "近道できそうな場所がありましたよ！",
+    "translation": "近道できそうな場所がありましたよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_FOE_WARNING_NEAR_1_0",
+    "original": "わっ、Ｆ．Ｏ．Ｅがまだいます！",
+    "translation": "わっ、Ｆ．Ｏ．Ｅがまだいます！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_FOE_WARNING_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅも来てますよ！",
+    "translation": "Ｆ．Ｏ．Ｅも来てますよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_FOE_WARNING_NEAR_3_0",
+    "original": "まだＦ．Ｏ．Ｅもいるみたいです！",
+    "translation": "まだＦ．Ｏ．Ｅもいるみたいです！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_1PERSON_HPTP10_1_0",
+    "original": "ハァ、ハァ…ごめんなさい。\n少し、休憩してもいいですか…",
+    "translation": "ハァ、ハァ…ごめんなさい。\n少し、休憩してもいいですか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_1PERSON_HPTP10_2_0",
+    "original": "ハァ、ハァ…大丈夫です。\n泣き言なんて言いません。",
+    "translation": "ハァ、ハァ…大丈夫です。\n泣き言なんて言いません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_1PERSON_HPTP10_3_0",
+    "original": "だ、大丈夫です…これくらい…",
+    "translation": "だ、大丈夫です…これくらい…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_1PERSON_HP10_1_0",
+    "original": "もうヘトヘトです…",
+    "translation": "もうヘトヘトです…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_1PERSON_HP10_2_0",
+    "original": "体力が…回復をお願いできませんか？",
+    "translation": "体力が…回復をお願いできませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_1PERSON_HP10_3_0",
+    "original": "すみません…体力が限界みたいです…",
+    "translation": "すみません…体力が限界みたいです…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_1PERSON_TP10_1_0",
+    "original": "うう…悔しいけどバテバテです…",
+    "translation": "うう…悔しいけどバテバテです…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_1PERSON_TP10_2_0",
+    "original": "すみません…気力が尽きて…",
+    "translation": "すみません…気力が尽きて…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_1PERSON_TP10_3_0",
+    "original": "ごめんなさい…そろそろ気力が…",
+    "translation": "ごめんなさい…そろそろ気力が…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_1PERSON_HP80_1_0",
+    "original": "いい感じでしたね！",
+    "translation": "いい感じでしたね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_1PERSON_HP80_2_0",
+    "original": "この調子で行きましょう！",
+    "translation": "この調子で行きましょう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_1PERSON_HP80_3_0",
+    "original": "次も頑張りますね！",
+    "translation": "次も頑張りますね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_DUNGEON_START_1_0",
+    "original": "僕だってやれますから、\n見ててください！",
+    "translation": "僕だってやれますから、\n見ててください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_DUNGEON_START_2_0",
+    "original": "無理は禁物ですよ。",
+    "translation": "無理は禁物ですよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_DUNGEON_START_3_0",
+    "original": "足手まといにはなりませんから！",
+    "translation": "足手まといにはなりませんから！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_QUEST_START_1_0",
+    "original": "ちょっと、わくわくしちゃいますね。",
+    "translation": "ちょっと、わくわくしちゃいますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_QUEST_START_2_0",
+    "original": "力を合わせれば、大丈夫ですよ。",
+    "translation": "力を合わせれば、大丈夫ですよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_QUEST_START_3_0",
+    "original": "みんなで頑張りましょ！",
+    "translation": "みんなで頑張りましょ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_TOUHA_25_1_0",
+    "original": "まだ先は長そうですね。",
+    "translation": "まだ先は長そうですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_TOUHA_25_2_0",
+    "original": "このフロアも広いみたいですね。",
+    "translation": "このフロアも広いみたいですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_TOUHA_50_1_0",
+    "original": "やっと半分ですね！",
+    "translation": "やっと半分ですね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_TOUHA_50_2_0",
+    "original": "まだまだ、これからですよ！",
+    "translation": "まだまだ、これからですよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_TOUHA_75_1_0",
+    "original": "あとちょっとですね。",
+    "translation": "あとちょっとですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_TOUHA_75_2_0",
+    "original": "空白を埋めるのって、\n気持ちいいですね。",
+    "translation": "空白を埋めるのって、\n気持ちいいですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_TOUHA_100_1_0",
+    "original": "マッピング、お疲れ様でした！",
+    "translation": "マッピング、お疲れ様でした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_TOUHA_100_2_0",
+    "original": "わあ…やったあ！",
+    "translation": "わあ…やったあ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_MAPPING_ICON_ALL_1_0",
+    "original": "そういえばそこにありましたね。",
+    "translation": "そういえばそこにありましたね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_MAPPING_ICON_ALL_2_0",
+    "original": "記憶力、いいですね！",
+    "translation": "記憶力、いいですね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_MAPPING_ICON_KAIDA_0",
+    "original": "これで迷わずいけますね！",
+    "translation": "これで迷わずいけますね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_MAPPING_ICON_KAIDA_2_0",
+    "original": "僕の記憶ともばっちり合ってます。",
+    "translation": "僕の記憶ともばっちり合ってます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_MAPPING_CHANGE_COL_0",
+    "original": "あ！　その色いいですね。",
+    "translation": "あ！　その色いいですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_MAPPING_CHANGE_COL_2_0",
+    "original": "わぁ…上手ですねえ。",
+    "translation": "わぁ…上手ですねえ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_MAPPING_ICON_DEL_1_0",
+    "original": "地図がみやすくなりましたね。",
+    "translation": "地図がみやすくなりましたね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_MAPPING_ICON_DEL_2_0",
+    "original": "うーん、勉強になります…",
+    "translation": "うーん、勉強になります…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_MAPPING_MEMO_1_0",
+    "original": "書いておけば忘れないですよね。",
+    "translation": "書いておけば忘れないですよね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_MAPPING_MEMO_2_0",
+    "original": "あ、メモは大事ですね。",
+    "translation": "あ、メモは大事ですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_DOOR_OPEN_1_0",
+    "original": "さっ、行きましょう！",
+    "translation": "さっ、行きましょう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_DOOR_OPEN_2_0",
+    "original": "こっちですよ！",
+    "translation": "こっちですよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "AMADA_DOOR_OPEN_3_0",
+    "original": "へへっ、先いきますね！",
+    "translation": "へへっ、先いきますね！",
+    "stage": 1,
+    "context": ""
+  }
+]

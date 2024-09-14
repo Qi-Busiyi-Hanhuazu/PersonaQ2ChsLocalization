@@ -1,0 +1,156 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さて、Ｆ．Ｏ．Ｅのお出ましか。",
+    "translation": "さて、Ｆ．Ｏ．Ｅのお出ましか。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ってか、気合メガ盛りらしいからな。\n一筋縄じゃいかないぞ。",
+    "translation": "ってか、気合メガ盛りらしいからな。\n一筋縄じゃいかないぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_02_0",
+    "original": "なんか動きが活発化してるみたい…\nしつこく追ってきそうだから気をつけて！",
+    "translation": "なんか動きが活発化してるみたい…\nしつこく追ってきそうだから気をつけて！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うへぇ…なんか緊張してきた。",
+    "translation": "うへぇ…なんか緊張してきた。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "集中しろ",
+    "translation": "集中しろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "手のひらに人と書け",
+    "translation": "手のひらに人と書け",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_2",
+    "original": "手汗がとまらない",
+    "translation": "手汗がとまらない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…集中、集中。\nヤバい、余計緊張してきたかも…",
+    "translation": "…集中、集中。\nヤバい、余計緊張してきたかも…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "よく聞きますけど、\nこれ何の効果があるんスかね？",
+    "translation": "よく聞きますけど、\nこれ何の効果があるんスかね？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "単純作業によって\n心を落ち着かせているのかと。",
+    "translation": "単純作業によって\n心を落ち着かせているのかと。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "人、人、人…\nあと何回書けばいいの、もう！",
+    "translation": "人、人、人…\nあと何回書けばいいの、もう！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "お前もか！",
+    "translation": "お前もか！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "こういうのは習うより慣れろだから！\nよし、行くよ！",
+    "translation": "こういうのは習うより慣れろだから！\nよし、行くよ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "う、ウッス！",
+    "translation": "う、ウッス！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

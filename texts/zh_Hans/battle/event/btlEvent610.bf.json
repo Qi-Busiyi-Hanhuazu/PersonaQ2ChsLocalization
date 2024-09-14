@@ -1,0 +1,135 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "みんな、大丈夫！？",
+    "translation": "大家，没事吧？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n大家没事吧！？\n\n大家，没关系！？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ここは引き受けるぜ！",
+    "translation": "这里我来接手！",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n这里交给我们！\n\n这里我接受！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "誰だ！？",
+    "translation": "谁！？",
+    "stage": 1,
+    "context": "说话人：好戦的な少年\n\n机翻辅助：\n\n是谁！？"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ワン、ワンッ！",
+    "translation": "汪汪！",
+    "stage": 1,
+    "context": "说话人：白い犬\n\n机翻辅助：\n\n汪、汪！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あとは私たちに任せて、下がって！",
+    "translation": "剩下的就交给我们，你们退后！",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n之后就交给我们，你们退下！\n\n剩下的就交给我们了，退后！\n\n剩下的就交给我们了，退下！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ちょっ…なに、この仮面軍団！？",
+    "translation": "什么……这是什么假面军团！？",
+    "stage": 1,
+    "context": "说话人：勝ち気そうな少女\n\n机翻辅助：\n\n等等……这个面具军团是怎么回事！？\n\n喂……什么，这个假面军团！？\n\n等等……什么，这假面军团！？"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "オレだって知らねーって！",
+    "translation": "我也不知道啊！",
+    "stage": 0,
+    "context": "说话人：キャップの少年\n\n机翻辅助：\n\n我也不知道啊！\n\n我也不知道！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "安心して、彼らもペルソナ使い！\n私たちの仲間だよ！",
+    "translation": "放心吧，他们也是人格面具使用者！\n是我们的伙伴！",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n放心吧，他们也是人格面具使用者！\n是我们的同伴！\n\n放心，他们也是人格面具使用者！\n是我们的伙伴哟！\n\n放心吧，他们也会使用人格面具！\n是我们的伙伴！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "えっ…？",
+    "translation": "什么……？",
+    "stage": 1,
+    "context": "说话人：大人びた小学生\n\n机翻辅助：\n\n哎……？\n\n啊……？\n\n诶……？"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ペルソナ…だと！？",
+    "translation": "人格面具……是吗！？",
+    "stage": 1,
+    "context": "说话人：聡明そうな少女\n\n机翻辅助：\n\n人格面具……！？\n\n人格面具！？\n\n人格面具……就是这样！？"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_好戦的な少年",
+    "original": "好戦的な少年",
+    "translation": "好斗的少年",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好战的少年"
+  },
+  {
+    "key": "speaker_白い犬",
+    "original": "白い犬",
+    "translation": "白色的狗",
+    "stage": 1,
+    "context": "机翻辅助：\n\n白狗"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_勝ち気そうな少女",
+    "original": "勝ち気そうな少女",
+    "translation": "争强好胜的少女",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看似好胜的少女\n\n好胜的少女\n\n争强好胜的少女"
+  },
+  {
+    "key": "speaker_キャップの少年",
+    "original": "キャップの少年",
+    "translation": "戴着帽子的少年",
+    "stage": 1,
+    "context": "机翻辅助：\n\n戴鸭舌帽的少年\n\n戴帽子的少年"
+  },
+  {
+    "key": "speaker_大人びた小学生",
+    "original": "大人びた小学生",
+    "translation": "成熟的小学生",
+    "stage": 0,
+    "context": "机翻辅助：\n\n成熟的小学生\n\n像大人一样的小学生"
+  },
+  {
+    "key": "speaker_聡明そうな少女",
+    "original": "聡明そうな少女",
+    "translation": "聪明的女孩",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看似聪明的少女\n\n聪明的少女"
+  }
+]

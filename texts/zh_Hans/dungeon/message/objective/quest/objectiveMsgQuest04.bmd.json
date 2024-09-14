@@ -1,0 +1,30 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "マンホールへ向かえ！",
+    "translation": "前往下水道！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往下水道入口！\n\n去检修孔！\n\n向下水道走去！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "サーチライトを潜り抜けろ",
+    "translation": "穿越探照灯",
+    "stage": 1,
+    "context": "机翻辅助：\n\n穿过探照灯"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "Ｆ．Ｏ．Ｅに注意し忍び進め",
+    "translation": "注意F.O.E，悄悄前进",
+    "stage": 1,
+    "context": "机翻辅助：\n\n注意F.O.E，偷偷前进\n\n注意F.O.E悄悄前进"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "目的地まで駆け抜けろ",
+    "translation": "冲向目的地",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冲向目的地\n\n跑到目的地\n\n一路狂奔到目的地"
+  }
+]

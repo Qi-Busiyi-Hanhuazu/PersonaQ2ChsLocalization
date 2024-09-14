@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "オタカラスポットだぜ！\nどうするよ？",
+    "translation": "是藏宝地点诶！\n怎么办？",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n是宝物地点啊！\n怎么办？\n\n是宝物景点！\n怎么办？\n\n是宝藏景点哦！\n怎么办？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おう！\n周りの警戒もバッチリとな！",
+    "translation": "哦！\n警戒工作也得做到位才行！",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n噢！\n周围的警戒也要做好！\n\n哦！\n周围的警戒也很厉害啊！\n\n喔！\n周围的警戒也要做好！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ガッツリ採るんだな？\nよっしゃ、任せとけって！",
+    "translation": "专心采集吗？\n知道了，交给我吧！",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n要大干一场吗？\n好，交给我吧！\n\n要好好地采啊？\n好的，交给我吧！\n\n紧紧地采吗？好，就交给我吧！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あ、止めとくか？",
+    "translation": "啊，要暂停吗？",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n啊，要停手吗？\n\n啊，要停下来吗？\n\n啊，阻止他吗？"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うっし。\nこれで全部みたいだぜ？",
+    "translation": "结束。\n这样应该就是全部了？",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n好。\n好像全部都在这里了？\n\n死了。\n这就是全部了吧？\n\n淤渣。\n这就是全部了吧？"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いただき！",
+    "translation": "我收下了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我收下啦！\n\n我吃了！\n\n开动了！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "よっしゃ！",
+    "translation": "好！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好耶！\n\n太好了！\n\n好！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ゲット！",
+    "translation": "到手！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n到手啦！\n\n得到了！\n\n得到！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あっぶねー！\nそろそろ終わりにしとくか？",
+    "translation": "真危险啊——！\n差不多先结束吧？",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n好险！\n差不多该结束了吧？\n\n啊啊啊！\n差不多该结束了吧？\n\n阿布奈！\n差不多要结束了吗？"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "おっしゃー！",
+    "translation": "太好啦——！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好耶！\n\n哎呀！\n\n喂！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "レアじゃん！",
+    "translation": "是稀有物品啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好稀有！\n\n这不是稀有嘛！\n\n很稀有啊！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "すげー！",
+    "translation": "厉害啊——！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好厉害！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "おっと！　ショートカットじゃん！\n通るか？",
+    "translation": "哦！这不是捷径吗！\n要走吗？",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n哎呀！这不是捷径吗！\n能走吗？\n\n哎呀！不是快捷方式吗！\n通过吗？\n\n噢！短发嘛！\n能通过吗？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっち通れねぇかー…",
+    "translation": "这边过不去啊……",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n这边好像不能走啊……\n\n这边过不去啊……\n\n这边不能通过吗……"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "なんかここ、ヤバい気配しねぇ？\nどうするよ？",
+    "translation": "总感觉……这里有点不妙啊？\n怎么办？",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n总觉得这里有种不妙的气息啊？\n怎么办？\n\n总觉得这里很糟糕吧？\n怎么办？\n\n感觉这里有点不对劲吧？\n怎么办？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "お、おう…\n慎重に採取しようぜ。",
+    "translation": "哦、哦……\n小心点采集吧。",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n哦，好……\n慎重地采集吧。\n\n哦、哦……\n慎重地采集吧。\n\n喔、喔……小心地采集吧。"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "だな。\n何が出るか分かんねーしな。",
+    "translation": "是啊。\n毕竟不知道回突然冒出来什么东西。",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n也是呢。\n毕竟不知道会出现什么啊。\n\n是啊。\n不知道会出现什么。\n\n是啊。不知道会出什么。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "スッゴイの出ちゃいましたけど！？\nとにかく無事で良かったわー…",
+    "translation": "是不是出现了什么不得了的东西！\n总之没事就行……",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n出现了很厉害的东西啊！？\n总之能平安无事真是太好了……\n\n虽然很厉害！？\n总之平安无事真是太好了……\n\n虽然出现了很厉害的东西！？总之没事就好了……"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ん？　シャドウの気配する？\nどうするよ？",
+    "translation": "嗯？感觉有暗影？\n怎么办？",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n嗯？有暗影的气息？\n怎么办？\n\n嗯？有暗影的迹象？\n怎么办？\n\n？有暗影的动静吗？\n怎么办？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "おっしゃ！\n気合入れるぜ！",
+    "translation": "好！\n要认真喽！",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n好！\n鼓起干劲吧！\n\n你说！\n鼓起干劲！\n\n喂！\n加油哦！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "オッケー、分かった。",
+    "translation": "OK，明白了。",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\nOK，我知道了。\n\n好，我知道了。\n\n好，知道了。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ふいー…\nこれで終わりか？",
+    "translation": "呼……\n这样就结束了吗？",
+    "stage": 0,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n呼……\n这样就结束了吗？\n\n吹……\n这就结束了吗？\n\n这样就结束了吗？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "こっから映画館に戻れそうだな。\nどうすんだ？",
+    "translation": "这里看起来能回电影院啊？\n怎么办？",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n好像能从这里回电影院呢。\n怎么办？\n\n看来可以从这里回电影院了。\n怎么办？\n\n从这里好像要回电影院了。\n怎么办？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

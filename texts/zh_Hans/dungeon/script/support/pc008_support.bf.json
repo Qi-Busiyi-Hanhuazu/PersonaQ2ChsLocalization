@@ -1,0 +1,520 @@
+[
+  {
+    "key": "NAOTO_FOE_FOLLOW_START_1_0",
+    "original": "Ｆ．Ｏ．Ｅに見つかりました！",
+    "translation": "被F.O.E发现了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n被F.O.E发现了！\n\n找到F.O.E了！"
+  },
+  {
+    "key": "NAOTO_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅに追尾されています。",
+    "translation": "被F.O.E追踪了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n被F.O.E追踪了。\n\n被F.O.E跟踪着。\n\n被F.O.E跟踪。"
+  },
+  {
+    "key": "NAOTO_FOE_FOLLOW_START_3_0",
+    "original": "Ｆ．Ｏ．Ｅが来ています！",
+    "translation": "F.O.E来了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E来了！"
+  },
+  {
+    "key": "NAOTO_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅです、注意してください！",
+    "translation": "是F.O.E，请注意！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是F.O.E，请注意！\n\nF.O.E，请注意！\n\n我是F.O.E，请注意！"
+  },
+  {
+    "key": "NAOTO_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅです、ここは慎重に。",
+    "translation": "是F.O.E，请小心。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是F.O.E，请小心。\n\n我是F.O.E，这里要慎重。"
+  },
+  {
+    "key": "NAOTO_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅを確認！",
+    "translation": "确认到F.O.E！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n确认到F.O.E！\n\n确认F.O.E！"
+  },
+  {
+    "key": "NAOTO_FOE_FOLLOW_END_1_0",
+    "original": "敵は追尾を諦めたようですね。",
+    "translation": "敌人好像放弃追踪了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n敌人好像放弃追踪了。\n\n敌人似乎放弃了追踪。\n\n敌人好像放弃了跟踪。"
+  },
+  {
+    "key": "NAOTO_FOE_FOLLOW_END_2_0",
+    "original": "Ｆ．Ｏ．Ｅから逃げられましたね。",
+    "translation": "成功摆脱F.O.E了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n成功逃离F.O.E了。\n\n从F.O.E逃走了。\n\n从F.O.E逃出来了。"
+  },
+  {
+    "key": "NAOTO_KANSI_REACTION_1_0",
+    "original": "タイミングを見極めてください。",
+    "translation": "请看准时机。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n请看准时机。\n\n请看清时机。"
+  },
+  {
+    "key": "NAOTO_KANSI_REACTION_2_0",
+    "original": "ここは慎重に進みますよ。",
+    "translation": "现在要谨慎前进。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这里要慎重前进。\n\n这里要慎重前进哦。\n\n这里要慎重地前进哦。"
+  },
+  {
+    "key": "NAOTO_KANSI_REACTION_3_0",
+    "original": "焦らず、ゆっくり行きましょう。",
+    "translation": "不要着急，慢慢来。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不要着急，慢慢来。\n\n别着急，慢慢走吧。"
+  },
+  {
+    "key": "NAOTO_DENKISAKU_REACTION_0",
+    "original": "厄介なトラップですね…",
+    "translation": "真是个麻烦的陷阱……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真是个麻烦的陷阱……\n\n真是个麻烦的陷阱啊……\n\n真是麻烦的陷阱啊……"
+  },
+  {
+    "key": "NAOTO_DENKISAKU_REACTION_2_0",
+    "original": "早く止めた方がいいですね。",
+    "translation": "还是早点停下它比较好。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n还是早点停下比较好。\n\n还是早点停止比较好呢。\n\n你最好快点停下来。"
+  },
+  {
+    "key": "NAOTO_DENKISAKU_REACTION_3_0",
+    "original": "触れたら危険ですね。",
+    "translation": "碰到的话会很危险。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n碰到的话会很危险。\n\n触摸的话很危险呢。\n\n碰到的话很危险。"
+  },
+  {
+    "key": "NAOTO_KYOUHU_REACTION_1_0",
+    "original": "っ、風が…！",
+    "translation": "呜，起风了……！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呜，起风了……！\n\n啊，风……！\n\n风、风……！\n\n评论：\n\n不确定"
+  },
+  {
+    "key": "NAOTO_KYOUHU_REACTION_2_0",
+    "original": "うわぁっ！",
+    "translation": "呜哇！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呜哇！\n\n哇！"
+  },
+  {
+    "key": "NAOTO_KYOUHU_REACTION_3_0",
+    "original": "ひゃあぁっ！",
+    "translation": "呀啊啊！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呀啊啊！\n\n哎呀！\n\n哇！"
+  },
+  {
+    "key": "NAOTO_STAIR_FIND_1_0",
+    "original": "次のエリアへ行けそうですね。",
+    "translation": "好像能去下一个区域了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像能去下一个区域了。\n\n好像可以去下一个区域啊。\n\n好像可以去下一个区域呢。"
+  },
+  {
+    "key": "NAOTO_STAIR_FIND_2_0",
+    "original": "先へ進みますか？",
+    "translation": "要往前走吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要往前走吗？"
+  },
+  {
+    "key": "NAOTO_STAIR_FIND_3_0",
+    "original": "やりましたね、進めそうですよ。",
+    "translation": "成功了呢，好像能前进了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n成功了呢，好像能前进了。\n\n做了啊，好像要进行了。\n\n做了吧，好像能进行下去。"
+  },
+  {
+    "key": "NAOTO_TREASURE_FIND_1_0",
+    "original": "宝箱を発見しました。",
+    "translation": "发现宝箱了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n发现宝箱了。\n\n发现了宝箱。\n\n我发现了宝箱。"
+  },
+  {
+    "key": "NAOTO_TREASURE_FIND_2_0",
+    "original": "宝箱ですね、確認してみませんか？",
+    "translation": "是宝箱呢，要确认一下吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是宝箱呢，要确认一下吗？\n\n宝箱啊，要不要确认一下？\n\n是宝箱吧，要不要确认一下？"
+  },
+  {
+    "key": "NAOTO_TREASURE_FIND_3_0",
+    "original": "宝箱か…開けてみますか？",
+    "translation": "宝箱啊……要打开看看吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n宝箱啊……要打开看看吗？\n\n宝箱吗……要打开看看吗？"
+  },
+  {
+    "key": "NAOTO_CHECK_WALL_1_0",
+    "original": "この辺り、何かありそうですね…",
+    "translation": "这附近好像有什么……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这附近好像有什么……\n\n这附近好像有什么事呢……\n\n这附近好像有什么事……"
+  },
+  {
+    "key": "NAOTO_CHECK_WALL_2_0",
+    "original": "この周囲、調査してみませんか？",
+    "translation": "要不要调查一下周围？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要不要调查一下周围？\n\n这个周围，不调查一下吗？\n\n要不要调查一下这周围？"
+  },
+  {
+    "key": "NAOTO_CHECK_WALL_3_0",
+    "original": "前方になにか見えますね。",
+    "translation": "前面好像有什么。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前方好像有什么。\n\n你看到前方有什么了吧？\n\n前面能看到什么呢。"
+  },
+  {
+    "key": "NAOTO_SWITCH_FIND_1_0",
+    "original": "あれは、スイッチのようですが…",
+    "translation": "那好像是个开关……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那好像是个开关……\n\n那好像是开关……"
+  },
+  {
+    "key": "NAOTO_SWITCH_FIND_2_0",
+    "original": "このスイッチ、押してみませんか？",
+    "translation": "要不要按一下开关？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要不要按一下这个开关？"
+  },
+  {
+    "key": "NAOTO_SWITCH_FIND_3_0",
+    "original": "スイッチを確認しました、どうします？",
+    "translation": "确认开关了，怎么办？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n确认了开关，要怎么做？\n\n确认开关了，怎么办？\n\n开关确认好了，怎么办？"
+  },
+  {
+    "key": "NAOTO_SHORTCUT_FIND_1_0",
+    "original": "見てください、通れそうですよ。",
+    "translation": "快看，好像能过去了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请看，好像能过去了。\n\n你看，好像可以通过。\n\n请看，好像可以通过。"
+  },
+  {
+    "key": "NAOTO_SHORTCUT_FIND_2_0",
+    "original": "近道できそうな場所がありますね。",
+    "translation": "有个地方好像能抄近路。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有个地方好像能抄近路。\n\n有可以抄近路的地方。\n\n有可以抄近道的地方呢。"
+  },
+  {
+    "key": "NAOTO_SHORTCUT_FIND_3_0",
+    "original": "そこ、近道にできそうですね。",
+    "translation": "那里好像能抄近路。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那里好像能抄近路。\n\n那里好像可以抄近路。\n\n这似乎可以成为一条捷径。"
+  },
+  {
+    "key": "NAOTO_FOE_WARNING_NEAR_1_0",
+    "original": "まだＦ．Ｏ．Ｅがいます、気をつけて。",
+    "translation": "还有F.O.E，小心点。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n还有F.O.E，小心点。"
+  },
+  {
+    "key": "NAOTO_FOE_WARNING_NEAR_2_0",
+    "original": "追われています、慎重に進みましょう。",
+    "translation": "被追上了，谨慎前进吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n被追上了，慎重前进吧。\n\n被追赶着，谨慎前进吧。\n\n被追赶着，慎重地前进吧。"
+  },
+  {
+    "key": "NAOTO_FOE_WARNING_NEAR_3_0",
+    "original": "敵、まだこちらを追尾中です。",
+    "translation": "敌人还在追踪我们。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n敌人还在追踪我们。\n\n敌人，还在追踪这边。\n\n敌人还在跟踪我们。"
+  },
+  {
+    "key": "NAOTO_1PERSON_HPTP10_1_0",
+    "original": "すみません、もう、体が…",
+    "translation": "对不起，我的身体已经……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n对不起，我的身体已经……\n\n对不起，身体已经……"
+  },
+  {
+    "key": "NAOTO_1PERSON_HPTP10_2_0",
+    "original": "この状態は、ちょっと…",
+    "translation": "这个状态有点……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这个状态有点……\n\n这个状态，有点……"
+  },
+  {
+    "key": "NAOTO_1PERSON_HPTP10_3_0",
+    "original": "はぁ、はぁ…だいぶ苦しいですね…",
+    "translation": "呼、呼……好难受……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呼、呼……好难受……\n\n哈、哈……相当痛苦呢……\n\n啊、啊……好痛苦啊……"
+  },
+  {
+    "key": "NAOTO_1PERSON_HP10_1_0",
+    "original": "すみません、どなたか回復を…",
+    "translation": "对不起，有没有人能帮忙恢复……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n对不起，有没有人能帮忙恢复……\n\n对不起，谁来帮我恢复……\n\n对不起，有人恢复了……"
+  },
+  {
+    "key": "NAOTO_1PERSON_HP10_2_0",
+    "original": "このままでは、体力が…",
+    "translation": "这样下去体力会……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这样下去体力会……\n\n这样下去，体力……\n\n再这样下去，体力……"
+  },
+  {
+    "key": "NAOTO_1PERSON_HP10_3_0",
+    "original": "体力が尽きそうです…",
+    "translation": "体力好像快耗尽了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n体力好像快耗尽了……\n\n体力快要耗尽了……"
+  },
+  {
+    "key": "NAOTO_1PERSON_TP10_1_0",
+    "original": "気力が…もたない…",
+    "translation": "我……快撑不住了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我……快撑不住了……\n\n没有力气……\n\n气力……撑不下去……"
+  },
+  {
+    "key": "NAOTO_1PERSON_TP10_2_0",
+    "original": "くっ、もう力が…",
+    "translation": "呜，已经没力气了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呜，已经没力气了……\n\n啊，已经有力气了……\n\n咳，已经有力气了……"
+  },
+  {
+    "key": "NAOTO_1PERSON_TP10_3_0",
+    "original": "すみません、そろそろ限界が…",
+    "translation": "对不起，我差不多到极限了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n对不起，我差不多到极限了……\n\n对不起，快到极限了……"
+  },
+  {
+    "key": "NAOTO_1PERSON_HP80_1_0",
+    "original": "うん、いい状態ですね。",
+    "translation": "嗯，状态不错呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯，状态不错。"
+  },
+  {
+    "key": "NAOTO_1PERSON_HP80_2_0",
+    "original": "なかなか調子がいいです。",
+    "translation": "状况挺好的。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n状况挺好的。\n\n状态相当好。\n\n状态很好。"
+  },
+  {
+    "key": "NAOTO_1PERSON_HP80_3_0",
+    "original": "まだまだいけます！",
+    "translation": "还能继续！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n还能继续！\n\n还可以！\n\n还能行！"
+  },
+  {
+    "key": "NAOTO_DUNGEON_START_1_0",
+    "original": "効率よく進みましょう。",
+    "translation": "有效率地前进吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有效率地前进吧。\n\n高效率地前进吧。\n\n高效率地进行吧。"
+  },
+  {
+    "key": "NAOTO_DUNGEON_START_2_0",
+    "original": "さあ、行きましょうか。",
+    "translation": "好了，我们走吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好了，我们走吧。\n\n那么，我们走吧。\n\n那么，走吧。"
+  },
+  {
+    "key": "NAOTO_DUNGEON_START_3_0",
+    "original": "準備のし忘れはないですか？",
+    "translation": "有没有忘记准备？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有没有忘记准备？\n\n没有忘记准备吗？\n\n你没有忘记准备吗？"
+  },
+  {
+    "key": "NAOTO_QUEST_START_1_0",
+    "original": "特別上映、頑張りましょう。",
+    "translation": "特别上映，加油吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特别上映，加油吧。"
+  },
+  {
+    "key": "NAOTO_QUEST_START_2_0",
+    "original": "準備はオーケーです。",
+    "translation": "准备OK。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n准备OK。\n\n准备好了。"
+  },
+  {
+    "key": "NAOTO_QUEST_START_3_0",
+    "original": "白鐘の名に懸けて、\n必ず成功してみせます。",
+    "translation": "赌上白钟之名，\n我一定会成功。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n赌上白钟之名，\n一定会成功。\n\n以白钟之名，\n一定要成功。\n\n我一定要以白钟之名成功。"
+  },
+  {
+    "key": "NAOTO_TOUHA_25_1_0",
+    "original": "ちょうど四分の一くらいでしょうか？",
+    "translation": "差不多四分之一了吧？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n差不多四分之一了吧？\n\n正好是四分之一吧？"
+  },
+  {
+    "key": "NAOTO_TOUHA_25_2_0",
+    "original": "まだ序盤ですね、頑張りましょう。",
+    "translation": "才刚刚开始呢，加油吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n还在开头呢，加油吧。\n\n还是刚开始呢，加油吧。\n\n还没开始呢，加油吧。"
+  },
+  {
+    "key": "NAOTO_TOUHA_50_1_0",
+    "original": "中盤まで来た感じですね。",
+    "translation": "感觉来到中段了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n感觉来到中段了。\n\n感觉已经到中盘了。\n\n感觉到了中盘。"
+  },
+  {
+    "key": "NAOTO_TOUHA_50_2_0",
+    "original": "このフロアも半分くらいは歩いたかな。",
+    "translation": "这一层也走了一半了吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这一层也走了一半了吧。\n\n这个楼层也走了一半左右吧。\n\n这一层也走了一半吧。"
+  },
+  {
+    "key": "NAOTO_TOUHA_75_1_0",
+    "original": "けっこう進みましたね、あと少しです。",
+    "translation": "走了挺长一段路了啊，就快到了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n走了满多的，就快到了。\n\n进展得很好，还有一点。\n\n进展得很顺利呢，就差一点点了。"
+  },
+  {
+    "key": "NAOTO_TOUHA_75_2_0",
+    "original": "フロアの全貌が見えてきましたね。",
+    "translation": "看得见这一层的全貌了呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看得见这一层的全貌了呢。\n\n看到了楼层的全貌呢。\n\n看到楼层的全貌了吧。"
+  },
+  {
+    "key": "NAOTO_TOUHA_100_1_0",
+    "original": "このフロアも歩きつくしましたね。",
+    "translation": "这一层也走完了呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这一层也走完了呢。\n\n这个楼层也走遍了。\n\n这个楼层也走完了呢。"
+  },
+  {
+    "key": "NAOTO_TOUHA_100_2_0",
+    "original": "全て埋まりましたね、お疲れ様でした。",
+    "translation": "全部走完了呢，辛苦了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n全部走完了呢，辛苦了。\n\n全部都填满了呢，辛苦了。\n\n全都填满了，辛苦了。"
+  },
+  {
+    "key": "NAOTO_MAPPING_ICON_ALL_1_0",
+    "original": "地図には正確さが大切ですね。",
+    "translation": "地图的正确性很重要呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n地图的正确性很重要呢。\n\n地图的准确性很重要。"
+  },
+  {
+    "key": "NAOTO_MAPPING_ICON_ALL_2_0",
+    "original": "素晴らしい配置です。",
+    "translation": "很棒的配置。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n很棒的配置。"
+  },
+  {
+    "key": "NAOTO_MAPPING_ICON_KAIDA_0",
+    "original": "これなら迷わなさそうですね。",
+    "translation": "这样就不会迷路了呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这样就不会迷路了呢。\n\n这样的话就不会迷路了。"
+  },
+  {
+    "key": "NAOTO_MAPPING_ICON_KAIDA_2_0",
+    "original": "そこは重要なポイントですね。",
+    "translation": "那里是重要地点呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那里是重要地点呢。\n\n这是很重要的一点。\n\n那是很重要的一点。"
+  },
+  {
+    "key": "NAOTO_MAPPING_CHANGE_COL_0",
+    "original": "違う色も新鮮でいいですね。",
+    "translation": "不同的颜色也不错呢，感觉很新鲜。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不同颜色很新鲜，不错呢。\n\n不同的颜色也很新鲜，很好。\n\n不同的颜色也很新鲜，真好。"
+  },
+  {
+    "key": "NAOTO_MAPPING_CHANGE_COL_2_0",
+    "original": "個性が出ていいと思いますよ。",
+    "translation": "我觉得有个性很好哦。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我觉得有个性很好哦。\n\n我觉得有个性很好。\n\n我觉得很有个性。"
+  },
+  {
+    "key": "NAOTO_MAPPING_ICON_DEL_1_0",
+    "original": "取捨選択は大事ですね。",
+    "translation": "取舍很重要呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n取舍很重要呢。\n\n取舍是很重要的。\n\n取舍很重要。"
+  },
+  {
+    "key": "NAOTO_MAPPING_ICON_DEL_2_0",
+    "original": "ええ、不要なものは捨てましょう。",
+    "translation": "对，把不要的东西丢掉吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n对，把不要的东西丢掉吧。\n\n嗯，不要的东西就扔掉吧。\n\n嗯，把不需要的东西扔掉吧。"
+  },
+  {
+    "key": "NAOTO_MAPPING_MEMO_1_0",
+    "original": "備忘録ですね、さすがです。",
+    "translation": "备忘录吗，不愧是你。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n备忘录呢，不愧是你。\n\n真不愧是备忘录。\n\n不愧是备忘录。"
+  },
+  {
+    "key": "NAOTO_MAPPING_MEMO_2_0",
+    "original": "メモはこまめにとるのがベストです。",
+    "translation": "最好勤做笔记哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n勤做笔记最好哦。\n\n认真做笔记是最好的。\n\n最好仔细记笔记。"
+  },
+  {
+    "key": "NAOTO_DOOR_OPEN_1_0",
+    "original": "罠はないようですね。",
+    "translation": "好像没有陷阱呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像没有陷阱呢。\n\n好像没有陷阱。\n\n好像没有陷阱啊。"
+  },
+  {
+    "key": "NAOTO_DOOR_OPEN_2_0",
+    "original": "早く進みましょう！",
+    "translation": "快点前进吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n赶快前进吧！\n\n快点前进吧！"
+  },
+  {
+    "key": "NAOTO_DOOR_OPEN_3_0",
+    "original": "僕に続いてください。",
+    "translation": "请跟在我后面。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n请跟在我后面。\n\n请继续我。\n\n请跟着我。"
+  }
+]

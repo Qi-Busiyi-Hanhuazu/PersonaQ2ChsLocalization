@@ -1,0 +1,37 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ワタシは…私。",
+    "translation": "ワタシは…私。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "花が好きで、皆さんのことが\nとても大切な、リボンです…",
+    "translation": "花が好きで、皆さんのことが\nとても大切な、リボンです…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "花は美しい…花はカワイイ…\n感じ方は、ソレゾレで違う…",
+    "translation": "花は美しい…花はカワイイ…\n感じ方は、ソレゾレで違う…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "違うのは、変なことではアリマセン。\n私が私である、アカシですから…",
+    "translation": "違うのは、変なことではアリマセン。\n私が私である、アカシですから…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  }
+]

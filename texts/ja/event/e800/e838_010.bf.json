@@ -1,0 +1,310 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "えっふ～えっふ～Ｆ．Ｏ．Ｅ～♪\n逆から読んだらＥ．Ｏ．Ｆ～♪",
+    "translation": "えっふ～えっふ～Ｆ．Ｏ．Ｅ～♪\n逆から読んだらＥ．Ｏ．Ｆ～♪",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "…落ち着きなさいテオドア。",
+    "translation": "…落ち着きなさいテオドア。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "わ、私ですか…！？",
+    "translation": "わ、私ですか…！？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あの、そろそろ本題入ってくんねースか…？",
+    "translation": "あの、そろそろ本題入ってくんねースか…？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "こほん、では早速…",
+    "translation": "こほん、では早速…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ミナサマ　ハロー　ハロー\n新タナ　ちけっと　発行サレマシタ",
+    "translation": "ミナサマ　ハロー　ハロー\n新タナ　ちけっと　発行サレマシタ",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "『Ａ．Ⅰ．Ｇ．Ⅰ．Ｓ』　デ　Ｆ．Ｏ．Ｅ\n『ＳＣＭ－８８０１』　ヲ　討伐セヨ",
+    "translation": "『Ａ．Ⅰ．Ｇ．Ⅰ．Ｓ』　デ　Ｆ．Ｏ．Ｅ\n『ＳＣＭ－８８０１』　ヲ　討伐セヨ",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_2",
+    "original": "Ｆ．Ｏ．Ｅ　『ＳＣＭ－８８０１』　ヲ\n討伐セヨ　『ＳＣＭ－８８０１』　ヲ…",
+    "translation": "Ｆ．Ｏ．Ｅ　『ＳＣＭ－８８０１』　ヲ\n討伐セヨ　『ＳＣＭ－８８０１』　ヲ…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "なんでいきなりロボ口調なんスか…",
+    "translation": "なんでいきなりロボ口調なんスか…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "『ＳＣＭ－８８０１』の討伐…\nあの処刑ロボットか。",
+    "translation": "『ＳＣＭ－８８０１』の討伐…\nあの処刑ロボットか。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "以前は苦戦されたＦ．Ｏ．Ｅ相手でも、\n今の皆様ならお茶の子さいさいのはず。",
+    "translation": "以前は苦戦されたＦ．Ｏ．Ｅ相手でも、\n今の皆様ならお茶の子さいさいのはず。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "ここらでちょいと腕試しでもされては\nいかがでしょう？",
+    "translation": "ここらでちょいと腕試しでもされては\nいかがでしょう？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "やってみよう",
+    "translation": "やってみよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "自信が無い",
+    "translation": "自信が無い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ああ、面白いじゃないか。\nさらなる成長のためにも不足ない相手だ。",
+    "translation": "ああ、面白いじゃないか。\nさらなる成長のためにも不足ない相手だ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "どうした、珍しいな。\n勝てない相手ではないと思うがな。",
+    "translation": "どうした、珍しいな。\n勝てない相手ではないと思うがな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "まーた嬉しそうな顔しちゃって…\nブレないなーホント。",
+    "translation": "まーた嬉しそうな顔しちゃって…\nブレないなーホント。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あはは、真田先輩らしいじゃん。\n順平も根性叩き直してもらえば？",
+    "translation": "あはは、真田先輩らしいじゃん。\n順平も根性叩き直してもらえば？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "なんだ順平、俺とトレーニングで\n精神を鍛えたいのか？",
+    "translation": "なんだ順平、俺とトレーニングで\n精神を鍛えたいのか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "いいっ！？\nどこをどう聞いたらそうなるんだよっ！",
+    "translation": "いいっ！？\nどこをどう聞いたらそうなるんだよっ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "遠慮はいらんぞ。厳しい修練を終えた\n者だけが辿りつける領域がある。",
+    "translation": "遠慮はいらんぞ。厳しい修練を終えた\n者だけが辿りつける領域がある。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "共に行くぞ、順平！　あの空の向こうへ！",
+    "translation": "共に行くぞ、順平！　あの空の向こうへ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ヤベえ、完全にスイッチ入ってる…",
+    "translation": "ヤベえ、完全にスイッチ入ってる…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "恨むぜゆかりッチ…\nかくなるうえは…えーとー…",
+    "translation": "恨むぜゆかりッチ…\nかくなるうえは…えーとー…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "どうしたんスか伊織さん、\nキョロキョロして。",
+    "translation": "どうしたんスか伊織さん、\nキョロキョロして。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "おお、完二くん！\nとてもいいところに来たぞ！",
+    "translation": "おお、完二くん！\nとてもいいところに来たぞ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "キミに恨みはない…恨みはないんだが、\nオレと一緒に地獄に落ちてくれ！",
+    "translation": "キミに恨みはない…恨みはないんだが、\nオレと一緒に地獄に落ちてくれ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "な、なんすかソレ…？",
+    "translation": "な、なんすかソレ…？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "一人であの熱を受け止めんのムリ！\nお前って頑丈そうだし…頼む！",
+    "translation": "一人であの熱を受け止めんのムリ！\nお前って頑丈そうだし…頼む！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ね、熱？　ガタイ？",
+    "translation": "ね、熱？　ガタイ？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "誰が熱湯サウナでマッスルが\nハッスルだゴラァ！",
+    "translation": "誰が熱湯サウナでマッスルが\nハッスルだゴラァ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "な、なんすかソレ…？",
+    "translation": "な、なんすかソレ…？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "い、いや…こっちの話っス。",
+    "translation": "い、いや…こっちの話っス。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "それより、Ｆ．Ｏ．Ｅがどうとか、\nトレーニングがどうとか聞こえたんスけど。",
+    "translation": "それより、Ｆ．Ｏ．Ｅがどうとか、\nトレーニングがどうとか聞こえたんスけど。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうそれ！　お前を漢と見込んで頼む！\nみんなで鍛えてお空を見よう！",
+    "translation": "そうそれ！　お前を漢と見込んで頼む！\nみんなで鍛えてお空を見よう！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "よくわかんねーけど、鍛えんのはアリだし、\n構わねーっスけど…",
+    "translation": "よくわかんねーけど、鍛えんのはアリだし、\n構わねーっスけど…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "おお、心の友よ…！\n真田サーン！　聞いてくださーい！",
+    "translation": "おお、心の友よ…！\n真田サーン！　聞いてくださーい！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "なんか、面倒なことに巻き込まれちまった\nみてーだな…",
+    "translation": "なんか、面倒なことに巻き込まれちまった\nみてーだな…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "key": "start_01_0",
+    "original": "入り口",
+    "translation": "入口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n入口"
+  },
+  {
+    "key": "start_02_0",
+    "original": "磁軸",
+    "translation": "磁轴",
+    "stage": 0,
+    "context": "机翻辅助：\n\n磁轴"
+  },
+  {
+    "key": "quest_01_0",
+    "original": "スクリーン前",
+    "translation": "银幕前",
+    "stage": 0,
+    "context": "机翻辅助：\n\n银幕前\n\n屏幕前"
+  },
+  {
+    "key": "quest_03_0",
+    "original": "１番街行き階段前",
+    "translation": "通往第1大道的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第1大道的阶梯前\n\n通往第1大道的楼梯前\n\n去第一街的楼梯前"
+  },
+  {
+    "key": "quest_04_0",
+    "original": "カモシダ記念広場行き階段前",
+    "translation": "通往鸭志田纪念广场的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往鸭志田纪念广场的阶梯前\n\n去鸭志田纪念广场的楼梯前\n\n前往鸭志田纪念广场的楼梯前"
+  },
+  {
+    "key": "quest_06_0",
+    "original": "第１区画行き階段前",
+    "translation": "通往第1区域的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第1区域的阶梯前\n\n去第一区划的楼梯前\n\n通往第1区楼梯前"
+  },
+  {
+    "key": "quest_07_0",
+    "original": "１番街行き階段前",
+    "translation": "通往第1大道的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第1大道的阶梯前\n\n通往第1大道的楼梯前\n\n去第一街的楼梯前"
+  },
+  {
+    "key": "quest_08_0",
+    "original": "カモシダ記念広場行き階段前",
+    "translation": "通往鸭志田纪念广场的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往鸭志田纪念广场的阶梯前\n\n去鸭志田纪念广场的楼梯前\n\n前往鸭志田纪念广场的楼梯前"
+  },
+  {
+    "key": "quest_09_0",
+    "original": "カモシダ記念広場行き階段前",
+    "translation": "通往鸭志田纪念广场的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往鸭志田纪念广场的阶梯前\n\n去鸭志田纪念广场的楼梯前\n\n前往鸭志田纪念广场的楼梯前"
+  },
+  {
+    "key": "quest_10_0",
+    "original": "島の最果て行き階段前",
+    "translation": "通往岛屿尽头的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往岛屿尽头的阶梯前\n\n在岛的尽头的楼梯前\n\n通往岛尽头的楼梯前"
+  },
+  {
+    "key": "quest_11_0",
+    "original": "スクリーン前",
+    "translation": "银幕前",
+    "stage": 0,
+    "context": "机翻辅助：\n\n银幕前\n\n屏幕前"
+  },
+  {
+    "key": "quest_12_0",
+    "original": "特別上映専用入口",
+    "translation": "特别上映专用入口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特别上映专用入口"
+  },
+  {
+    "key": "quest_13_0",
+    "original": "第２区画行き階段前",
+    "translation": "通往第2区域的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第2区域的阶梯前\n\n去第二区划的楼梯前\n\n通往第2区楼梯前"
+  },
+  {
+    "key": "quest_14_0",
+    "original": "第１区画行き階段前",
+    "translation": "通往第1区域的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第1区域的阶梯前\n\n去第一区划的楼梯前\n\n通往第1区楼梯前"
+  },
+  {
+    "key": "quest_15_0",
+    "original": "第３区画行き階段前",
+    "translation": "通往第3区域的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第3区域的阶梯前\n\n去第三区划的楼梯前\n\n通往第三区楼梯前"
+  },
+  {
+    "key": "quest_16_0",
+    "original": "特別上映専用入口",
+    "translation": "特别上映专用入口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特别上映专用入口"
+  },
+  {
+    "key": "quest_17_0",
+    "original": "３番街行き階段前",
+    "translation": "通往第3大道的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第3大道的阶梯前\n\n去第3大道的楼梯前\n\n通往第三街的楼梯前"
+  },
+  {
+    "key": "quest_18_0",
+    "original": "第２ゾーン行き階段前",
+    "translation": "通往第2区的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第2区域的阶梯前\n\n去第二区的楼梯前\n\n通往第二区域的楼梯前"
+  },
+  {
+    "key": "quest_19_0",
+    "original": "特別上映専用入口",
+    "translation": "特别上映专用入口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特别上映专用入口"
+  },
+  {
+    "key": "quest_21_0",
+    "original": "島の最果て行き階段前",
+    "translation": "通往岛屿尽头的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往岛屿尽头的阶梯前\n\n在岛的尽头的楼梯前\n\n通往岛尽头的楼梯前"
+  },
+  {
+    "key": "quest_22_0",
+    "original": "第２ゾーン行き階段前",
+    "translation": "通往第2区的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第2区域的阶梯前\n\n去第二区的楼梯前\n\n通往第二区域的楼梯前"
+  },
+  {
+    "key": "quest_23_0",
+    "original": "研究所第１フロア行き階段前",
+    "translation": "通往研究所第1层的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往研究所第1层的阶梯前\n\n研究所第一层楼梯前\n\n通往研究所第一层的楼梯前"
+  },
+  {
+    "key": "quest_24_0",
+    "original": "特別上映専用入口",
+    "translation": "特别上映专用入口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特别上映专用入口"
+  },
+  {
+    "key": "quest_25_0",
+    "original": "特別上映専用入口",
+    "translation": "特别上映专用入口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特别上映专用入口"
+  },
+  {
+    "key": "quest_26_0",
+    "original": "第３区画行き階段前",
+    "translation": "通往第3区域的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第3区域的阶梯前\n\n去第三区划的楼梯前\n\n通往第三区楼梯前"
+  },
+  {
+    "key": "quest_27_0",
+    "original": "スクリーン前",
+    "translation": "银幕前",
+    "stage": 0,
+    "context": "机翻辅助：\n\n银幕前\n\n屏幕前"
+  },
+  {
+    "key": "quest_28_0",
+    "original": "第２ゾーン行き階段前",
+    "translation": "通往第2区的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第2区域的阶梯前\n\n去第二区的楼梯前\n\n通往第二区域的楼梯前"
+  },
+  {
+    "key": "quest_29_0",
+    "original": "特別上映専用入口",
+    "translation": "特别上映专用入口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特别上映专用入口"
+  },
+  {
+    "key": "quest_30_0",
+    "original": "特別上映専用入口",
+    "translation": "特别上映专用入口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特别上映专用入口"
+  },
+  {
+    "key": "quest_31_0",
+    "original": "カモシダ記念広場行き階段前",
+    "translation": "通往鸭志田纪念广场的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往鸭志田纪念广场的阶梯前\n\n去鸭志田纪念广场的楼梯前\n\n前往鸭志田纪念广场的楼梯前"
+  },
+  {
+    "key": "quest_32_0",
+    "original": "２番街行き階段前",
+    "translation": "通往第2大道的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第2大道的阶梯前\n\n去第二街的楼梯前\n\n通往第二街的楼梯前"
+  },
+  {
+    "key": "quest_33_0",
+    "original": "研究所第２フロア行き階段前",
+    "translation": "通往研究所第2层的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往研究所第2层的阶梯前\n\n研究所第二层楼梯前\n\n通往研究所第二层的楼梯前"
+  },
+  {
+    "key": "quest_35_0",
+    "original": "スクリーン前",
+    "translation": "银幕前",
+    "stage": 0,
+    "context": "机翻辅助：\n\n银幕前\n\n屏幕前"
+  },
+  {
+    "key": "quest_36_0",
+    "original": "研究所第１フロア行き階段前",
+    "translation": "通往研究所第1层的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往研究所第1层的阶梯前\n\n研究所第一层楼梯前\n\n通往研究所第一层的楼梯前"
+  },
+  {
+    "key": "quest_37_0",
+    "original": "特別上映専用入口",
+    "translation": "特别上映专用入口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特别上映专用入口"
+  },
+  {
+    "key": "quest_38_0",
+    "original": "研究所第１フロア行き階段前",
+    "translation": "通往研究所第1层的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往研究所第1层的阶梯前\n\n研究所第一层楼梯前\n\n通往研究所第一层的楼梯前"
+  },
+  {
+    "key": "quest_39_0",
+    "original": "特別上映専用入口",
+    "translation": "特别上映专用入口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特别上映专用入口"
+  },
+  {
+    "key": "quest_40_0",
+    "original": "第５幕行き階段前",
+    "translation": "通往第5幕的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第5幕的阶梯前\n\n通往第5幕的楼梯前\n\n通往第五幕的楼梯前"
+  },
+  {
+    "key": "quest_41_0",
+    "original": "スクリーン前",
+    "translation": "银幕前",
+    "stage": 0,
+    "context": "机翻辅助：\n\n银幕前\n\n屏幕前"
+  },
+  {
+    "key": "quest_42_0",
+    "original": "特別上映専用入口",
+    "translation": "特别上映专用入口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特别上映专用入口"
+  },
+  {
+    "key": "quest_43_0",
+    "original": "特別上映専用入口",
+    "translation": "特别上映专用入口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特别上映专用入口"
+  },
+  {
+    "key": "quest_45_0",
+    "original": "第２幕行き階段前",
+    "translation": "通往第2幕的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第2幕的阶梯前\n\n去往第二幕的楼梯前\n\n通往第二幕的楼梯前"
+  },
+  {
+    "key": "quest_46_0",
+    "original": "第４幕行き階段前",
+    "translation": "通往第4幕的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第4幕的阶梯前\n\n通往第4幕的楼梯前\n\n通往第四幕的楼梯前"
+  },
+  {
+    "key": "quest_47_0",
+    "original": "３番街行き階段前",
+    "translation": "通往第3大道的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第3大道的阶梯前\n\n去第3大道的楼梯前\n\n通往第三街的楼梯前"
+  },
+  {
+    "key": "quest_48_0",
+    "original": "第４区画行き階段前",
+    "translation": "通往第4区域的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第4区域的阶梯前\n\n去第4区划的楼梯前\n\n通往第四区域的楼梯前"
+  },
+  {
+    "key": "quest_49_0",
+    "original": "研究所第２フロア行き階段前",
+    "translation": "通往研究所第2层的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往研究所第2层的阶梯前\n\n研究所第二层楼梯前\n\n通往研究所第二层的楼梯前"
+  },
+  {
+    "key": "quest_50_0",
+    "original": "第７幕行き階段前",
+    "translation": "通往第7幕的楼梯前",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通往第7幕的阶梯前\n\n通往第7幕的楼梯前\n\n通往第七幕的楼梯前"
+  }
+]

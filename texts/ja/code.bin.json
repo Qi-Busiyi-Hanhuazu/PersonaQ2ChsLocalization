@@ -1,0 +1,2732 @@
+[
+  {
+    "key": "offset_0017c5fc_0",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_001aef58_0",
+    "original": "プロローグ",
+    "translation": "プロローグ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_001aef68_0",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00260088_0",
+    "original": "研究所 第%dフロア",
+    "translation": "研究所 第%dフロア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00293a80_0",
+    "original": "複数ターゲット",
+    "translation": "複数ターゲット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00293a90_0",
+    "original": "味方全体",
+    "translation": "味方全体",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00293a9c_0",
+    "original": "前列",
+    "translation": "前列",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00293aa4_0",
+    "original": "後列",
+    "translation": "後列",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00293aac_0",
+    "original": "みんな",
+    "translation": "みんな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00297104_0",
+    "original": "パーティ編成",
+    "translation": "パーティ編成",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00297118_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_002a63e0_0",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_002a63e8_0",
+    "original": "%s%s",
+    "translation": "%s%s",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_002b62d4_0",
+    "original": "L or R で10個ずつ飛ばせますー",
+    "translation": "L or R で10個ずつ飛ばせますー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0033b960_0",
+    "original": "よろしくおねがいします",
+    "translation": "よろしくおねがいします",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0033eed0_0",
+    "original": "味方",
+    "translation": "味方",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0033eef4_0",
+    "original": "敵方",
+    "translation": "敵方",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0034e4f0_0",
+    "original": "ブランクカード",
+    "translation": "ブランクカード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0038c118_0",
+    "original": "戦闘ナビを%sにまかせる。",
+    "translation": "戦闘ナビを%sにまかせる。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0038c15c_0",
+    "original": "探索ナビを%sにまかせる。",
+    "translation": "探索ナビを%sにまかせる。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_003f7e70_0",
+    "original": "システムエラー。",
+    "translation": "システムエラー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_003f7e88_0",
+    "original": "モード指示子が不正です。",
+    "translation": "モード指示子が不正です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_003f7ea4_0",
+    "original": "バージョンが不正です。",
+    "translation": "バージョンが不正です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_003f7ebc_0",
+    "original": "指定されたバージョンではデータを格納できません。",
+    "translation": "指定されたバージョンではデータを格納できません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_003f820c_0",
+    "original": "データを入力してください。",
+    "translation": "データを入力してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_003f8228_0",
+    "original": "分割方法が不正です。",
+    "translation": "分割方法が不正です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045377c_0",
+    "original": "月亮",
+    "translation": "月亮",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e1c_0",
+    "original": "剛毅",
+    "translation": "剛毅",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e24_0",
+    "original": "世界",
+    "translation": "世界",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e38_0",
+    "original": "死神",
+    "translation": "死神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e40_0",
+    "original": "正義",
+    "translation": "正義",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e48_0",
+    "original": "女教皇",
+    "translation": "女教皇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e50_0",
+    "original": "魔術師",
+    "translation": "魔術師",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e64_0",
+    "original": "太陽",
+    "translation": "太陽",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e6c_0",
+    "original": "悪魔",
+    "translation": "悪魔",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e74_0",
+    "original": "塔",
+    "translation": "塔",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e7c_0",
+    "original": "恋愛",
+    "translation": "恋愛",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e84_0",
+    "original": "法王",
+    "translation": "法王",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e8c_0",
+    "original": "節制",
+    "translation": "節制",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e94_0",
+    "original": "星",
+    "translation": "星",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454e98_0",
+    "original": "審判",
+    "translation": "審判",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454ea0_0",
+    "original": "運命",
+    "translation": "運命",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454ea8_0",
+    "original": "隠者",
+    "translation": "隠者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454eb0_0",
+    "original": "刑死者",
+    "translation": "刑死者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454eb8_0",
+    "original": "愚者",
+    "translation": "愚者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454ec0_0",
+    "original": "戦車",
+    "translation": "戦車",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454ec8_0",
+    "original": "皇帝",
+    "translation": "皇帝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00454ed0_0",
+    "original": "女帝",
+    "translation": "女帝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045649c_0",
+    "original": "Aチーム",
+    "translation": "Aチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004564a4_0",
+    "original": "Bチーム",
+    "translation": "Bチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004564ac_0",
+    "original": "Cチーム",
+    "translation": "Cチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004564b4_0",
+    "original": "Dチーム",
+    "translation": "Dチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004564bc_0",
+    "original": "Eチーム",
+    "translation": "Eチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004564c4_0",
+    "original": "Fチーム",
+    "translation": "Fチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004564cc_0",
+    "original": "Gチーム",
+    "translation": "Gチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004564d4_0",
+    "original": "Hチーム",
+    "translation": "Hチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004564dc_0",
+    "original": "Iチーム",
+    "translation": "Iチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004564e4_0",
+    "original": "Jチーム",
+    "translation": "Jチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004564ec_0",
+    "original": "Lチーム",
+    "translation": "Lチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004564f4_0",
+    "original": "Mチーム",
+    "translation": "Mチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004564fc_0",
+    "original": "Nチーム",
+    "translation": "Nチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456504_0",
+    "original": "Oチーム",
+    "translation": "Oチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045650c_0",
+    "original": "Pチーム",
+    "translation": "Pチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456514_0",
+    "original": "Qチーム",
+    "translation": "Qチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045651c_0",
+    "original": "Rチーム",
+    "translation": "Rチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456524_0",
+    "original": "Sチーム",
+    "translation": "Sチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045652c_0",
+    "original": "Tチーム",
+    "translation": "Tチーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045653c_0",
+    "original": "伊織",
+    "translation": "伊織",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456544_0",
+    "original": "巽",
+    "translation": "巽",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456548_0",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456554_0",
+    "original": "明彦",
+    "translation": "明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045655c_0",
+    "original": "岳羽",
+    "translation": "岳羽",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456564_0",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456570_0",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045657c_0",
+    "original": "真次郎",
+    "translation": "真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456584_0",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456590_0",
+    "original": "吾郎",
+    "translation": "吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004565a0_0",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004565a8_0",
+    "original": "真",
+    "translation": "真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004565ac_0",
+    "original": "荒垣",
+    "translation": "荒垣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004565b4_0",
+    "original": "天田",
+    "translation": "天田",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004565bc_0",
+    "original": "真田",
+    "translation": "真田",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004565c4_0",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004565d0_0",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004565dc_0",
+    "original": "竜司",
+    "translation": "竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004565e4_0",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004565f0_0",
+    "original": "直斗",
+    "translation": "直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004565f8_0",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456604_0",
+    "original": "雪子",
+    "translation": "雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045660c_0",
+    "original": "佐倉",
+    "translation": "佐倉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456614_0",
+    "original": "明智",
+    "translation": "明智",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045661c_0",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456624_0",
+    "original": "春",
+    "translation": "春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456628_0",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456634_0",
+    "original": "双葉",
+    "translation": "双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045663c_0",
+    "original": "坂本",
+    "translation": "坂本",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456644_0",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045664c_0",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456658_0",
+    "original": "千枝",
+    "translation": "千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456660_0",
+    "original": "里中",
+    "translation": "里中",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456668_0",
+    "original": "新島",
+    "translation": "新島",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456670_0",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045667c_0",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456684_0",
+    "original": "乾",
+    "translation": "乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456688_0",
+    "original": "高巻",
+    "translation": "高巻",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456690_0",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045669c_0",
+    "original": "りせ",
+    "translation": "りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004566a4_0",
+    "original": "奥村",
+    "translation": "奥村",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004566ac_0",
+    "original": "花村",
+    "translation": "花村",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004566b4_0",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004566c0_0",
+    "original": "順平",
+    "translation": "順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004566c8_0",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004566d0_0",
+    "original": "杏",
+    "translation": "杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004566d4_0",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004566e0_0",
+    "original": "風花",
+    "translation": "風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004566e8_0",
+    "original": "山岸",
+    "translation": "山岸",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004566f0_0",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004566fc_0",
+    "original": "美鶴",
+    "translation": "美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456704_0",
+    "original": "白鐘",
+    "translation": "白鐘",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045670c_0",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456718_0",
+    "original": "ゆかり",
+    "translation": "ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456720_0",
+    "original": "天城",
+    "translation": "天城",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456728_0",
+    "original": "久慈川",
+    "translation": "久慈川",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456730_0",
+    "original": "喜多川",
+    "translation": "喜多川",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456738_0",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456744_0",
+    "original": "祐介",
+    "translation": "祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045674c_0",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456758_0",
+    "original": "陽介",
+    "translation": "陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456760_0",
+    "original": "桐条",
+    "translation": "桐条",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456768_0",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456770_0",
+    "original": "完二",
+    "translation": "完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456778_0",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456784_0",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00456790_0",
+    "original": "Ｐ５主人公",
+    "translation": "Ｐ５主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045679c_0",
+    "original": "Ｐ３女主人公",
+    "translation": "Ｐ３女主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004581cc_0",
+    "original": "扉",
+    "translation": "扉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00458208_0",
+    "original": "電気柵",
+    "translation": "電気柵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00459b60_0",
+    "original": "謎解き",
+    "translation": "謎解き",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00459b68_0",
+    "original": "討伐",
+    "translation": "討伐",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00459b70_0",
+    "original": "調査",
+    "translation": "調査",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00459b78_0",
+    "original": "その他",
+    "translation": "その他",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00459b80_0",
+    "original": "採取",
+    "translation": "採取",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a068_0",
+    "original": "第%dエリア",
+    "translation": "第%dエリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a07c_0",
+    "original": "A.I.G.I.S",
+    "translation": "A.I.G.I.S",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a088_0",
+    "original": "%d番街",
+    "translation": "%d番街",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a090_0",
+    "original": "大衆の映画館街",
+    "translation": "大衆の映画館街",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a420_0",
+    "original": "ジュネシック・ランド",
+    "translation": "ジュネシック・ランド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a498_0",
+    "original": "中央集積所",
+    "translation": "中央集積所",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a4a4_0",
+    "original": "第%d幕",
+    "translation": "第%d幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a4ac_0",
+    "original": "第%dゾーン",
+    "translation": "第%dゾーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a4b8_0",
+    "original": "カモシダーマン",
+    "translation": "カモシダーマン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a4c8_0",
+    "original": "大衆の映画館街・最奥部",
+    "translation": "大衆の映画館街・最奥部",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a4e0_0",
+    "original": "島の最果て",
+    "translation": "島の最果て",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a4ec_0",
+    "original": "無限の幕間",
+    "translation": "無限の幕間",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a4f8_0",
+    "original": "第%d区画",
+    "translation": "第%d区画",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a504_0",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045a50c_0",
+    "original": "カモシダ記念広場",
+    "translation": "カモシダ記念広場",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b154_0",
+    "original": "エリザベス＆テオドア",
+    "translation": "エリザベス＆テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b16c_0",
+    "original": "マガツイザナギ",
+    "translation": "マガツイザナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b17c_0",
+    "original": "アステリオス",
+    "translation": "アステリオス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b18c_0",
+    "original": "タナトス",
+    "translation": "タナトス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b198_0",
+    "original": "メサイア・賊神",
+    "translation": "メサイア・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b1a8_0",
+    "original": "イザナギ・賊神",
+    "translation": "イザナギ・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b1b8_0",
+    "original": "オルフェウス・賊神",
+    "translation": "オルフェウス・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b1cc_0",
+    "original": "アステリオス・賊神",
+    "translation": "アステリオス・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b1e0_0",
+    "original": "タナトス・賊神",
+    "translation": "タナトス・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b1f0_0",
+    "original": "アリアドネ・賊神",
+    "translation": "アリアドネ・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b204_0",
+    "original": "ツキヨミ・賊神",
+    "translation": "ツキヨミ・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b214_0",
+    "original": "カグヤ・賊神",
+    "translation": "カグヤ・賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b224_0",
+    "original": "マガツイザナギ賊神",
+    "translation": "マガツイザナギ賊神",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b238_0",
+    "original": "ご当地グルメ３食セット",
+    "translation": "ご当地グルメ３食セット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b250_0",
+    "original": "ペルソナ３セット",
+    "translation": "ペルソナ３セット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b264_0",
+    "original": "ペルソナ４セット",
+    "translation": "ペルソナ４セット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b278_0",
+    "original": "ペルソナ５セット",
+    "translation": "ペルソナ５セット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b28c_0",
+    "original": "レベルアップセット",
+    "translation": "レベルアップセット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b2a0_0",
+    "original": "映画鑑賞用回復セット",
+    "translation": "映画鑑賞用回復セット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b2b8_0",
+    "original": "戦闘確率制御セット",
+    "translation": "戦闘確率制御セット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b2cc_0",
+    "original": "ジュスティーヌ＆カロリーヌ",
+    "translation": "ジュスティーヌ＆カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b2e8_0",
+    "original": "アリアドネ",
+    "translation": "アリアドネ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b34c_0",
+    "original": "マーガレット＆菜々子",
+    "translation": "マーガレット＆菜々子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b364_0",
+    "original": "ツキヨミ",
+    "translation": "ツキヨミ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b370_0",
+    "original": "カグヤ",
+    "translation": "カグヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b378_0",
+    "original": "経験値上昇アクセサリ",
+    "translation": "経験値上昇アクセサリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045b390_0",
+    "original": "入手金上昇アクセサリ",
+    "translation": "入手金上昇アクセサリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fd08_0",
+    "original": " 第１エリア",
+    "translation": " 第１エリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fd14_0",
+    "original": " 第２エリア",
+    "translation": " 第２エリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fd20_0",
+    "original": " 第３エリア",
+    "translation": " 第３エリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fd2c_0",
+    "original": " 第４エリア",
+    "translation": " 第４エリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fd38_0",
+    "original": "研究所 第１フロア",
+    "translation": "研究所 第１フロア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fd4c_0",
+    "original": "研究所 第２フロア",
+    "translation": "研究所 第２フロア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fd60_0",
+    "original": "ブロックマーク",
+    "translation": "ブロックマーク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fd70_0",
+    "original": "星マーク",
+    "translation": "星マーク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fd7c_0",
+    "original": "はてなマーク",
+    "translation": "はてなマーク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fd8c_0",
+    "original": "丸マーク",
+    "translation": "丸マーク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fd98_0",
+    "original": "びっくりマーク",
+    "translation": "びっくりマーク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fda8_0",
+    "original": "数字０",
+    "translation": "数字０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fdb0_0",
+    "original": "数字１",
+    "translation": "数字１",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fdb8_0",
+    "original": "数字２",
+    "translation": "数字２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fdc0_0",
+    "original": "数字３",
+    "translation": "数字３",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fdc8_0",
+    "original": "数字４",
+    "translation": "数字４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fdd0_0",
+    "original": "数字５",
+    "translation": "数字５",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fdd8_0",
+    "original": "数字６",
+    "translation": "数字６",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fde0_0",
+    "original": "数字７",
+    "translation": "数字７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fde8_0",
+    "original": "数字８",
+    "translation": "数字８",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fdf0_0",
+    "original": "数字９",
+    "translation": "数字９",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fdf8_0",
+    "original": "１番街",
+    "translation": "１番街",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fe00_0",
+    "original": "２番街",
+    "translation": "２番街",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fe08_0",
+    "original": "３番街",
+    "translation": "３番街",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fe10_0",
+    "original": "スタート地点",
+    "translation": "スタート地点",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fe20_0",
+    "original": "スイッチ",
+    "translation": "スイッチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fe2c_0",
+    "original": "Ｆ．Ｏ．Ｅ",
+    "translation": "Ｆ．Ｏ．Ｅ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fe38_0",
+    "original": "セキュリティゲート",
+    "translation": "セキュリティゲート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fe4c_0",
+    "original": "オタカラスポット",
+    "translation": "オタカラスポット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fe60_0",
+    "original": "イベント",
+    "translation": "イベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fe6c_0",
+    "original": "下り階段",
+    "translation": "下り階段",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fe78_0",
+    "original": "上り階段",
+    "translation": "上り階段",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fee0_0",
+    "original": "メモ",
+    "translation": "メモ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fee8_0",
+    "original": "第１幕",
+    "translation": "第１幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fef0_0",
+    "original": "第２幕",
+    "translation": "第２幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fef8_0",
+    "original": "第３幕",
+    "translation": "第３幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff00_0",
+    "original": "第４幕",
+    "translation": "第４幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff08_0",
+    "original": "第５幕",
+    "translation": "第５幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff10_0",
+    "original": "第６幕",
+    "translation": "第６幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff18_0",
+    "original": "第７幕",
+    "translation": "第７幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff20_0",
+    "original": "第１ゾーン",
+    "translation": "第１ゾーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff2c_0",
+    "original": "第２ゾーン",
+    "translation": "第２ゾーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff38_0",
+    "original": "・最奥部",
+    "translation": "・最奥部",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff44_0",
+    "original": "抜け道",
+    "translation": "抜け道",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff4c_0",
+    "original": "ギミック壁",
+    "translation": "ギミック壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff58_0",
+    "original": "防風壁",
+    "translation": "防風壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff60_0",
+    "original": "破壊壁",
+    "translation": "破壊壁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff68_0",
+    "original": "閉じた扉",
+    "translation": "閉じた扉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff74_0",
+    "original": "てすと映画",
+    "translation": "てすと映画",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff80_0",
+    "original": "第１区画",
+    "translation": "第１区画",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff8c_0",
+    "original": "第２区画",
+    "translation": "第２区画",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ff98_0",
+    "original": "第３区画",
+    "translation": "第３区画",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ffa4_0",
+    "original": "第４区画",
+    "translation": "第４区画",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ffb0_0",
+    "original": "せり",
+    "translation": "せり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ffb8_0",
+    "original": "最終テスト場",
+    "translation": "最終テスト場",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ffc8_0",
+    "original": "第１テスト場",
+    "translation": "第１テスト場",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ffd8_0",
+    "original": "第２テスト場",
+    "translation": "第２テスト場",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045ffe8_0",
+    "original": "第３テスト場",
+    "translation": "第３テスト場",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0045fff8_0",
+    "original": "第４テスト場",
+    "translation": "第４テスト場",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00460008_0",
+    "original": "第５テスト場",
+    "translation": "第５テスト場",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00460018_0",
+    "original": "第６テスト場",
+    "translation": "第６テスト場",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00460028_0",
+    "original": "第７テスト場",
+    "translation": "第７テスト場",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00460038_0",
+    "original": "第８テスト場",
+    "translation": "第８テスト場",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00460048_0",
+    "original": "第９テスト場",
+    "translation": "第９テスト場",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00460058_0",
+    "original": "回転柵",
+    "translation": "回転柵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00460060_0",
+    "original": "矢印",
+    "translation": "矢印",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004602b8_0",
+    "original": "大衆の映画館街 第１エリア",
+    "translation": "大衆の映画館街 第１エリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004602d4_0",
+    "original": "大衆の映画館街 第２エリア",
+    "translation": "大衆の映画館街 第２エリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004602f0_0",
+    "original": "大衆の映画館街 第３エリア",
+    "translation": "大衆の映画館街 第３エリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0046030c_0",
+    "original": "大衆の映画館街 第４エリア",
+    "translation": "大衆の映画館街 第４エリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00460328_0",
+    "original": "A.I.G.I.S 研究所 第１フロア",
+    "translation": "A.I.G.I.S 研究所 第１フロア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00460344_0",
+    "original": "A.I.G.I.S 研究所 第２フロア",
+    "translation": "A.I.G.I.S 研究所 第２フロア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00460368_0",
+    "original": "ヤソガミコウコウ",
+    "translation": "ヤソガミコウコウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0046037c_0",
+    "original": "カモシダーマン １番街",
+    "translation": "カモシダーマン １番街",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00460394_0",
+    "original": "カモシダーマン ２番街",
+    "translation": "カモシダーマン ２番街",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004603ac_0",
+    "original": "カモシダーマン ３番街",
+    "translation": "カモシダーマン ３番街",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004603c4_0",
+    "original": "A.I.G.I.S 中央集積所",
+    "translation": "A.I.G.I.S 中央集積所",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004603dc_0",
+    "original": "ひかり 第１幕",
+    "translation": "ひかり 第１幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004603ec_0",
+    "original": "ひかり 第２幕",
+    "translation": "ひかり 第２幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004603fc_0",
+    "original": "ひかり 第３幕",
+    "translation": "ひかり 第３幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0046040c_0",
+    "original": "ひかり 第４幕",
+    "translation": "ひかり 第４幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0046041c_0",
+    "original": "ひかり 第５幕",
+    "translation": "ひかり 第５幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0046042c_0",
+    "original": "ひかり 第６幕",
+    "translation": "ひかり 第６幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0046043c_0",
+    "original": "ひかり 第７幕",
+    "translation": "ひかり 第７幕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0046044c_0",
+    "original": "A.I.G.I.S 第１ゾーン",
+    "translation": "A.I.G.I.S 第１ゾーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00460464_0",
+    "original": "A.I.G.I.S 第２ゾーン",
+    "translation": "A.I.G.I.S 第２ゾーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0046047c_0",
+    "original": "ジュネシック・ランド 島の最果て",
+    "translation": "ジュネシック・ランド 島の最果て",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_0046049c_0",
+    "original": "ひかり 無限の幕間",
+    "translation": "ひかり 無限の幕間",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004604b0_0",
+    "original": "ジュネシック・ランド 第１区画",
+    "translation": "ジュネシック・ランド 第１区画",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004604d0_0",
+    "original": "ジュネシック・ランド 第２区画",
+    "translation": "ジュネシック・ランド 第２区画",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004604f0_0",
+    "original": "ジュネシック・ランド 第３区画",
+    "translation": "ジュネシック・ランド 第３区画",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00460510_0",
+    "original": "ジュネシック・ランド 第４区画",
+    "translation": "ジュネシック・ランド 第４区画",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_00460530_0",
+    "original": "カモシダーマン 記念広場",
+    "translation": "カモシダーマン 記念広場",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7720_0",
+    "original": "クリアデータを保存しますか？",
+    "translation": "クリアデータを保存しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7744_0",
+    "original": "ここで保存したデータを、\nＮＥＷＧＡＭＥ時に引き継ぐ事で、\nクリア時の状態を一部だけ引き継いで、\n最初からプレイする事ができます。\n　\nまた、ここで保存したデータを\nロードすれば、クリア時の状態のまま、\nクリア前に戻ってプレイする事ができます。",
+    "translation": "ここで保存したデータを、\nＮＥＷＧＡＭＥ時に引き継ぐ事で、\nクリア時の状態を一部だけ引き継いで、\n最初からプレイする事ができます。\n　\nまた、ここで保存したデータを\nロードすれば、クリア時の状態のまま、\nクリア前に戻ってプレイする事ができます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7839_0",
+    "original": "クリアデータを保存せず、\nタイトル画面に戻ります。\nよろしいですか？",
+    "translation": "クリアデータを保存せず、\nタイトル画面に戻ります。\nよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7883_0",
+    "original": "既にセーブされたデータがあります。\n上書きしてよろしいですか？ ",
+    "translation": "既にセーブされたデータがあります。\n上書きしてよろしいですか？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b78c9_0",
+    "original": "セーブ中です。",
+    "translation": "セーブ中です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b78df_0",
+    "original": "セーブが終了しました。",
+    "translation": "セーブが終了しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b78fd_0",
+    "original": "セーブが終了しましたが、\n地図データの保存に失敗しました。",
+    "translation": "セーブが終了しましたが、\n地図データの保存に失敗しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b793e_0",
+    "original": "セーブが終了しました。\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "translation": "セーブが終了しました。\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7996_0",
+    "original": "セーブが終了しましたが、\n地図データの保存に失敗しました。\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "translation": "セーブが終了しましたが、\n地図データの保存に失敗しました。\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7a11_0",
+    "original": "セーブに失敗しました。",
+    "translation": "セーブに失敗しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7a2f_0",
+    "original": "ロードします。\nよろしいですか？",
+    "translation": "ロードします。\nよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7a56_0",
+    "original": "ロード中です。",
+    "translation": "ロード中です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7a6c_0",
+    "original": "ロードが終了しました。",
+    "translation": "ロードが終了しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7a8a_0",
+    "original": "ロードが終了しましたが、\nＳＤカードを認識できなかった為、\n地図データが読み込めませんでした。",
+    "translation": "ロードが終了しましたが、\nＳＤカードを認識できなかった為、\n地図データが読み込めませんでした。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7aee_0",
+    "original": "ロードが終了しましたが、\nデータが見つからなかった為、\n地図データが読み込めませんでした。",
+    "translation": "ロードが終了しましたが、\nデータが見つからなかった為、\n地図データが読み込めませんでした。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7b4e_0",
+    "original": "ロードが終了しました。\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "translation": "ロードが終了しました。\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7ba6_0",
+    "original": "ロードが終了しましたが、\nＳＤカードを認識できなかった為、\n地図データが読み込めませんでした。\n　\nセーブデータを初期化したので\n早めのセーブをお勧めします",
+    "translation": "ロードが終了しましたが、\nＳＤカードを認識できなかった為、\n地図データが読み込めませんでした。\n　\nセーブデータを初期化したので\n早めのセーブをお勧めします",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7c45_0",
+    "original": "ロードが終了しましたが、\nデータが見つからなかった為、\n地図データが読み込めませんでした。\n　\nセーブデータを初期化したので\n早めのセーブをお勧めします",
+    "translation": "ロードが終了しましたが、\nデータが見つからなかった為、\n地図データが読み込めませんでした。\n　\nセーブデータを初期化したので\n早めのセーブをお勧めします",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7ce0_0",
+    "original": "ロードに失敗しました。",
+    "translation": "ロードに失敗しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7cfe_0",
+    "original": "全てのセーブデータを削除します。\nよろしいですか？\n　\n[颜色 03]ＳＤカードに保存されている追加データは\n削除されません。[颜色 01]",
+    "translation": "全てのセーブデータを削除します。\nよろしいですか？\n　\n[颜色 03]ＳＤカードに保存されている追加データは\n削除されません。[颜色 01]",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7d7a_0",
+    "original": "ＳＤカードに保存されている\n全ての追加データを削除します。\nよろしいですか？",
+    "translation": "ＳＤカードに保存されている\n全ての追加データを削除します。\nよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7dcc_0",
+    "original": "本当によろしいですか？",
+    "translation": "本当によろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7dea_0",
+    "original": "削除中です。",
+    "translation": "削除中です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7dfe_0",
+    "original": "削除が終了しました。",
+    "translation": "削除が終了しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7e1a_0",
+    "original": "削除に失敗しました。",
+    "translation": "削除に失敗しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7e36_0",
+    "original": "クリアデータを引き継ぎますか？",
+    "translation": "クリアデータを引き継ぎますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7e5c_0",
+    "original": "クリアデータを引き継がずに、\nゲームを始めてよろしいですか？",
+    "translation": "クリアデータを引き継がずに、\nゲームを始めてよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7e9f_0",
+    "original": "引き継ぎするデータを選んでください。\nクリアしたことのあるデータであれば\n進行中のデータであっても\n引き継ぐことができます。",
+    "translation": "引き継ぎするデータを選んでください。\nクリアしたことのあるデータであれば\n進行中のデータであっても\n引き継ぐことができます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7f20_0",
+    "original": "クリアデータではありません。",
+    "translation": "クリアデータではありません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7f44_0",
+    "original": "クリアデータからペルソナフィルム、\n主人公と仲間たちのステータス、\n所持金やアイテムなど、\n一部のデータを引き継ぎます。\n　\nよろしいですか？",
+    "translation": "クリアデータからペルソナフィルム、\n主人公と仲間たちのステータス、\n所持金やアイテムなど、\n一部のデータを引き継ぎます。\n　\nよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b7fd5_0",
+    "original": "クリアデータから地図を引き継ぎます。\n　\nよろしいですか？",
+    "translation": "クリアデータから地図を引き継ぎます。\n　\nよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8015_0",
+    "original": "中断データは削除されます。\nよろしいですか？",
+    "translation": "中断データは削除されます。\nよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8048_0",
+    "original": "中断セーブを行います。\nよろしいですか？",
+    "translation": "中断セーブを行います。\nよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8077_0",
+    "original": "中断データをセーブしています。",
+    "translation": "中断データをセーブしています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b809d_0",
+    "original": "中断セーブが終了しました。\nタイトル画面に戻ります。",
+    "translation": "中断セーブが終了しました。\nタイトル画面に戻ります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b80d8_0",
+    "original": "中断セーブが終了しましたが、\n地図データの保存に失敗しました。\nタイトル画面に戻りますか？",
+    "translation": "中断セーブが終了しましたが、\n地図データの保存に失敗しました。\nタイトル画面に戻りますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8138_0",
+    "original": "中断セーブに失敗しました。",
+    "translation": "中断セーブに失敗しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b815a_0",
+    "original": "中断データから再開すると、\n中断データは破棄されます。",
+    "translation": "中断データから再開すると、\n中断データは破棄されます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8197_0",
+    "original": "中断データをロードしています。",
+    "translation": "中断データをロードしています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b81bd_0",
+    "original": "[颜色 04][占位A 01][颜色 01]　\nから再開します。\nこちらでよろしいですか？",
+    "translation": "[颜色 04][占位A 01][颜色 01]　\nから再開します。\nこちらでよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b81fd_0",
+    "original": "中断データをロードしました。",
+    "translation": "中断データをロードしました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8221_0",
+    "original": "中断データをロードしましたが、\nＳＤカードを認識できなかった為、\n地図データが読み込めませんでした。\nよろしいですか？",
+    "translation": "中断データをロードしましたが、\nＳＤカードを認識できなかった為、\n地図データが読み込めませんでした。\nよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b829c_0",
+    "original": "中断データをロードしましたが、\nデータが見つからなかった為、\n地図データが読み込めませんでした。\nよろしいですか？",
+    "translation": "中断データをロードしましたが、\nデータが見つからなかった為、\n地図データが読み込めませんでした。\nよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8313_0",
+    "original": "中断データをロードしました。\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "translation": "中断データをロードしました。\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8371_0",
+    "original": "中断データをロードしましたが、\nＳＤカードを認識できなかった為、\n地図データが読み込めませんでした。\n　\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "translation": "中断データをロードしましたが、\nＳＤカードを認識できなかった為、\n地図データが読み込めませんでした。\n　\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8418_0",
+    "original": "中断データをロードしましたが、\nデータが見つからなかった為、\n地図データが読み込めませんでした。\n　\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "translation": "中断データをロードしましたが、\nデータが見つからなかった為、\n地図データが読み込めませんでした。\n　\nセーブデータを初期化したので\n早めのセーブをお勧めします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b84bb_0",
+    "original": "中断データのロードに失敗しました。",
+    "translation": "中断データのロードに失敗しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b84e5_0",
+    "original": "データが破損しています。",
+    "translation": "データが破損しています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8505_0",
+    "original": "すれちがい通信に登録することで、\nすれちがった相手と\n『すれちがい手帳の交換』が行えます。\n　\nニンテンドー３ＤＳ本体に\nペルソナＱ２のすれちがい通信を\n登録しますか？",
+    "translation": "すれちがい通信に登録することで、\nすれちがった相手と\n『すれちがい手帳の交換』が行えます。\n　\nニンテンドー３ＤＳ本体に\nペルソナＱ２のすれちがい通信を\n登録しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b85af_0",
+    "original": "ペルソナＱ２のすれちがい通信を\nニンテンドー３ＤＳ本体に登録しました。",
+    "translation": "ペルソナＱ２のすれちがい通信を\nニンテンドー３ＤＳ本体に登録しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b85fc_0",
+    "original": "このゲームを終了しても\nすれちがい通信は自動で行われます。\n　\nＨＯＭＥメニューから『本体設定』を選び\n『データ管理』の『すれちがい通信管理』で\nすれちがい通信を停止する事ができます。",
+    "translation": "このゲームを終了しても\nすれちがい通信は自動で行われます。\n　\nＨＯＭＥメニューから『本体設定』を選び\n『データ管理』の『すれちがい通信管理』で\nすれちがい通信を停止する事ができます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b86b7_0",
+    "original": "ペルソナＱ２のすれちがい通信は\nすでに登録されています。\n　\nすれちがい通信をやめるときは\nＨＯＭＥメニューから『本体設定』を選び\n『データ管理』の『すれちがい通信管理』で\n中止することができます。",
+    "translation": "ペルソナＱ２のすれちがい通信は\nすでに登録されています。\n　\nすれちがい通信をやめるときは\nＨＯＭＥメニューから『本体設定』を選び\n『データ管理』の『すれちがい通信管理』で\n中止することができます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b877f_0",
+    "original": "ニンテンドー３ＤＳ本体にこれ以上\nすれちがい通信を登録できません。\n　\n『本体設定』の『すれちがい通信管理』で\nほかのソフトのすれちがい通信を\nやめてください。",
+    "translation": "ニンテンドー３ＤＳ本体にこれ以上\nすれちがい通信を登録できません。\n　\n『本体設定』の『すれちがい通信管理』で\nほかのソフトのすれちがい通信を\nやめてください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8822_0",
+    "original": "すれちがい通信を利用するには\n最新の利用規約に同意する必要があります。\n　\n本体設定で『インターネット設定』⇒\n『その他の情報』⇒『利用規約の確認』を\n選び最新の利用規約に同意してください。",
+    "translation": "すれちがい通信を利用するには\n最新の利用規約に同意する必要があります。\n　\n本体設定で『インターネット設定』⇒\n『その他の情報』⇒『利用規約の確認』を\n選び最新の利用規約に同意してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b88e3_0",
+    "original": "『他のユーザーとのすれちがい通信』が、\n保護者により制限されているため\nすれちがい通信を利用できません。",
+    "translation": "『他のユーザーとのすれちがい通信』が、\n保護者により制限されているため\nすれちがい通信を利用できません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8951_0",
+    "original": "自分のすれちがい手帳の\nＱＲコードをＳＤカードに出力します。\n　\nＳＤカードに出力してよろしいですか？",
+    "translation": "自分のすれちがい手帳の\nＱＲコードをＳＤカードに出力します。\n　\nＳＤカードに出力してよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b89bc_0",
+    "original": "ＳＤカードに書き込んでいます。",
+    "translation": "ＳＤカードに書き込んでいます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b89e2_0",
+    "original": "ＳＤカードが差し込まれていません。",
+    "translation": "ＳＤカードが差し込まれていません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8a0c_0",
+    "original": "ＳＤカードの空き容量が足りません。",
+    "translation": "ＳＤカードの空き容量が足りません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8a36_0",
+    "original": "ＳＤカードの写真がいっぱいなので\n保存できません。",
+    "translation": "ＳＤカードの写真がいっぱいなので\n保存できません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8a6f_0",
+    "original": "ＳＤカードを認識できませんでした。",
+    "translation": "ＳＤカードを認識できませんでした。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8a99_0",
+    "original": "ＱＲコードの画像データを出力しました。",
+    "translation": "ＱＲコードの画像データを出力しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8ace_0",
+    "original": "すれちがい通信のデータを確認しています。",
+    "translation": "すれちがい通信のデータを確認しています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8afe_0",
+    "original": "すれちがい手帳の内容が、\n更新されています。\n　\nすれちがい通信に反映しますか？",
+    "translation": "すれちがい手帳の内容が、\n更新されています。\n　\nすれちがい通信に反映しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8b53_0",
+    "original": "更新内容を破棄して編集を終了します。\nよろしいですか？",
+    "translation": "更新内容を破棄して編集を終了します。\nよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8b90_0",
+    "original": "ゲームコインを[占位A 01]枚使用します。\nよろしいですか？\n　\n[颜色 03]セーブせずにゲームを終了しても\n使用したゲームコインは戻りません。[颜色 01]",
+    "translation": "ゲームコインを[占位A 01]枚使用します。\nよろしいですか？\n　\n[颜色 03]セーブせずにゲームを終了しても\n使用したゲームコインは戻りません。[颜色 01]",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8c16_0",
+    "original": "ゲームコインが足りません。",
+    "translation": "ゲームコインが足りません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8c38_0",
+    "original": "主人公の名前は通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利\nを侵害する内容、個人情報などは\n含めないでください。",
+    "translation": "主人公の名前は通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利\nを侵害する内容、個人情報などは\n含めないでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8ccd_0",
+    "original": "彼の名前は通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利を\n侵害する内容、個人情報などは\n含めないでください。",
+    "translation": "彼の名前は通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利を\n侵害する内容、個人情報などは\n含めないでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8d5e_0",
+    "original": "彼女の名前は通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利を\n侵害する内容、個人情報などは\n含めないでください。",
+    "translation": "彼女の名前は通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利を\n侵害する内容、個人情報などは\n含めないでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8df1_0",
+    "original": "この名前でよろしいですか？",
+    "translation": "この名前でよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8e13_0",
+    "original": "地図データを上書きしますか？",
+    "translation": "地図データを上書きしますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8e37_0",
+    "original": "これでよろしいですか？",
+    "translation": "これでよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8e55_0",
+    "original": "『[F5 C1 2A 01 01 01 01 01 01 01]』\nこれでよろしいですか？",
+    "translation": "『[F5 C1 2A 01 01 01 01 01 01 01]』\nこれでよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8e82_0",
+    "original": "不適切な内容です。\nもう一度、入力してください。",
+    "translation": "不適切な内容です。\nもう一度、入力してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8eb9_0",
+    "original": "数字は５文字までしか入力できません。\nもう一度、入力してください。",
+    "translation": "数字は５文字までしか入力できません。\nもう一度、入力してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8f02_0",
+    "original": "このスロットにセーブすると、\nセーブデータがＳＤカードに保存されます。\nご注意ください。",
+    "translation": "このスロットにセーブすると、\nセーブデータがＳＤカードに保存されます。\nご注意ください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8f60_0",
+    "original": "ここではＳＤカードに保存されている\nセーブデータをロードできます。",
+    "translation": "ここではＳＤカードに保存されている\nセーブデータをロードできます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b8fa9_0",
+    "original": "他者を不快にしたり、その権利を侵害する\n文章や自身や他人のプライベートな情報は\n他人に渡したり公開しないでください。",
+    "translation": "他者を不快にしたり、その権利を侵害する\n文章や自身や他人のプライベートな情報は\n他人に渡したり公開しないでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b9023_0",
+    "original": "メッセージは通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利\nを侵害する内容、個人情報などは\n含めないでください。",
+    "translation": "メッセージは通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利\nを侵害する内容、個人情報などは\n含めないでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b90b6_0",
+    "original": "すれちがいネームは通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利\nを侵害する内容、個人情報などは\n含めないでください。",
+    "translation": "すれちがいネームは通信相手に\n公開される可能性があります。\n　\n相手が不快になる内容、他人の権利\nを侵害する内容、個人情報などは\n含めないでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b914f_0",
+    "original": "更新データの確認と受信を行います。\nよろしいですか？",
+    "translation": "更新データの確認と受信を行います。\nよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b918a_0",
+    "original": "更新しました。\n再起動します。",
+    "translation": "更新しました。\n再起動します。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b91af_0",
+    "original": "更新データは最新です。",
+    "translation": "更新データは最新です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b91cd_0",
+    "original": "ペルソナＱ２では地図データを\nＳＤカードに保存します。\n　\nＳＤカードが差し込まれていない場合、\n地図データを保存できません。",
+    "translation": "ペルソナＱ２では地図データを\nＳＤカードに保存します。\n　\nＳＤカードが差し込まれていない場合、\n地図データを保存できません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b924f_0",
+    "original": "セーブデータを初期化しています。",
+    "translation": "セーブデータを初期化しています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b9277_0",
+    "original": "ファイルの破損を検出したため\nセーブデータを初期化しました。",
+    "translation": "ファイルの破損を検出したため\nセーブデータを初期化しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b92ba_0",
+    "original": "ファイルの破損を検出したため\nセーブデータを初期化しています。",
+    "translation": "ファイルの破損を検出したため\nセーブデータを初期化しています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b92ff_0",
+    "original": "ファイルの破損を検出したため\n追加データを初期化しました。",
+    "translation": "ファイルの破損を検出したため\n追加データを初期化しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b9340_0",
+    "original": "ファイルの破損を検出したため\n該当する追加データを作り直します。",
+    "translation": "ファイルの破損を検出したため\n該当する追加データを作り直します。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b9387_0",
+    "original": "ファイルの復旧に失敗しました。\nＳＤカードに保存された追加データが\n破損しています。\n　\n『コンフィグ』のデータ削除から\n追加データを初期化してください。",
+    "translation": "ファイルの復旧に失敗しました。\nＳＤカードに保存された追加データが\n破損しています。\n　\n『コンフィグ』のデータ削除から\n追加データを初期化してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b9424_0",
+    "original": "ファイルの破損を検出したため\n該当する追加データを削除しました。",
+    "translation": "ファイルの破損を検出したため\n該当する追加データを削除しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b946b_0",
+    "original": "ＳＤカードを認識できませんでした。",
+    "translation": "ＳＤカードを認識できませんでした。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b9495_0",
+    "original": "ＳＤカードが書き込み禁止になっています。",
+    "translation": "ＳＤカードが書き込み禁止になっています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b94c5_0",
+    "original": "ＳＤカードの空き容量が足りません。",
+    "translation": "ＳＤカードの空き容量が足りません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b94ef_0",
+    "original": "追加データを新規に作成しています。",
+    "translation": "追加データを新規に作成しています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b9519_0",
+    "original": "追加データを新規に作成しました。",
+    "translation": "追加データを新規に作成しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b9541_0",
+    "original": "ＳＤカードを認識できませんでした。\n電源を切って差し直してください。",
+    "translation": "ＳＤカードを認識できませんでした。\n電源を切って差し直してください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b958c_0",
+    "original": "追加コンテンツを確認しています。",
+    "translation": "追加コンテンツを確認しています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b95b4_0",
+    "original": "追加コンテンツ情報を受信しています。",
+    "translation": "追加コンテンツ情報を受信しています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b95e0_0",
+    "original": "購入できる追加コンテンツがありませんでした。",
+    "translation": "購入できる追加コンテンツがありませんでした。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b9614_0",
+    "original": "追加コンテンツを削除します。\nよろしいですか？",
+    "translation": "追加コンテンツを削除します。\nよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b9649_0",
+    "original": "削除が終了しました。",
+    "translation": "削除が終了しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b9665_0",
+    "original": "追加コンテンツとして\nサブペルソナ[颜色 03]『[占位A 01]』[颜色 01]が\nペルソナフィルムに追加されました。",
+    "translation": "追加コンテンツとして\nサブペルソナ[颜色 03]『[占位A 01]』[颜色 01]が\nペルソナフィルムに追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b96c3_0",
+    "original": "ナビ設定に\n[颜色 03]『[占位A 01]』[颜色 01]ボイスが\n追加されました。",
+    "translation": "ナビ設定に\n[颜色 03]『[占位A 01]』[颜色 01]ボイスが\n追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b96ff_0",
+    "original": "追加コンテンツのサブペルソナを\n引き出すことができるようになりました。\n　\n最初の１回だけは\n無料でペルソナフィルムから\n引き出すことができます。",
+    "translation": "追加コンテンツのサブペルソナを\n引き出すことができるようになりました。\n　\n最初の１回だけは\n無料でペルソナフィルムから\n引き出すことができます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b9794_0",
+    "original": "ナビボイスを設定出来るようになりました。\n　\nＸボタンでナビボイスを選ぶことが出来ます。",
+    "translation": "ナビボイスを設定出来るようになりました。\n　\nＸボタンでナビボイスを選ぶことが出来ます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b97f2_0",
+    "original": "ナビボイスは、\nタイトル画面の[颜色 03]追加コンテンツ[颜色 01]より\n追加する事が出来ます。",
+    "translation": "ナビボイスは、\nタイトル画面の[颜色 03]追加コンテンツ[颜色 01]より\n追加する事が出来ます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b9848_0",
+    "original": "追加コンテンツとして\nバトルＢＧＭ[颜色 03]『[占位A 01]』[颜色 01]が\n追加されました。",
+    "translation": "追加コンテンツとして\nバトルＢＧＭ[颜色 03]『[占位A 01]』[颜色 01]が\n追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b9894_0",
+    "original": "追加コンテンツとして\nアイテムセット[颜色 03]『[占位A 01]』[颜色 01]が\n追加されました。",
+    "translation": "追加コンテンツとして\nアイテムセット[颜色 03]『[占位A 01]』[颜色 01]が\n追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b98e2_0",
+    "original": "はい\nいいえ",
+    "translation": "はい\nいいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b98f5_0",
+    "original": "これにする\nやめる",
+    "translation": "これにする\nやめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "offset_004b990e_0",
+    "original": "上書きする\nやめる",
+    "translation": "上書きする\nやめる",
+    "stage": 1,
+    "context": ""
+  }
+]

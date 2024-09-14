@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "そんじゃ、この映画を変えるために、\nよ、ヨウスケサウルス…を捜すんだな？",
+    "translation": "そんじゃ、この映画を変えるために、\nよ、ヨウスケサウルス…を捜すんだな？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_000_5_0",
+    "original": "てか、ヨウスケサウルスって言うの、\nやっぱり違和感スゲーんですけど！？",
+    "translation": "てか、ヨウスケサウルスって言うの、\nやっぱり違和感スゲーんですけど！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "しょーがないじゃん。\n顔そっくりなんだもん。",
+    "translation": "しょーがないじゃん。\n顔そっくりなんだもん。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "人面恐竜と同じ顔してるとか、\nまったく嬉しくねぇ…！",
+    "translation": "人面恐竜と同じ顔してるとか、\nまったく嬉しくねぇ…！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "映画の鍵を握っているのは、\nおそらくヨウスケサウルスだ。",
+    "translation": "映画の鍵を握っているのは、\nおそらくヨウスケサウルスだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "彼らは、この島の奥にある「肉食恐竜の\nいない楽園」を目指す…と言っていた。",
+    "translation": "彼らは、この島の奥にある「肉食恐竜の\nいない楽園」を目指す…と言っていた。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "では、その楽園とやらに向かえば\nおのずと出会えるだろう。",
+    "translation": "では、その楽園とやらに向かえば\nおのずと出会えるだろう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "よっしゃ！\n進んでみようぜ！",
+    "translation": "よっしゃ！\n進んでみようぜ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

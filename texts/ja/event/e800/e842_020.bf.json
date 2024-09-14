@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さて、始めるとするか。",
+    "translation": "さて、始めるとするか。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あっ！　たいへん！",
+    "translation": "あっ！　たいへん！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "どうした！？　見つけたか？",
+    "translation": "どうした！？　見つけたか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "お弁当持ってくるの忘れちゃった…\nせっかく作ったのに…",
+    "translation": "お弁当持ってくるの忘れちゃった…\nせっかく作ったのに…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…悪くない報せだな。",
+    "translation": "…悪くない報せだな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "…ああ、幸先いいスタートだぜ。",
+    "translation": "…ああ、幸先いいスタートだぜ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "エリザベスさん、\n『大物を』って言ってたね。",
+    "translation": "エリザベスさん、\n『大物を』って言ってたね。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん、まずはちょっと歩いて\nどんなのいるか見てみよっか。",
+    "translation": "うん、まずはちょっと歩いて\nどんなのいるか見てみよっか。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  }
+]

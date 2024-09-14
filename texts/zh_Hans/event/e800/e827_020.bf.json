@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "必要な部品は２個だよね。",
+    "translation": "需要的零件有两个对吧。",
+    "stage": 0,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n需要的零件有两个对吧。\n\n必要的零件是2个吧。\n\n需要的零件是两个吧。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "はい。目的の部品ですが、\n採取ポイントで入手できるはずです。",
+    "translation": "是的。要找的零件\n应该能在采集点获得。",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n是的。要找的零件，\n应该能在采取点取得。\n\n是。目的的零件，在\n采集点应该能得到。\n\n是的。虽然是目的的零件，但是应该可以在采集点买到。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "では、いざ行かん！\nレッツ、ドーナッ…！",
+    "translation": "那么，我们上吧！\nLet's　Donut……！",
+    "stage": 0,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n那么，我们上吧！\nLet's　Donut……！\n\n那么，我不去了！\n雷兹、多纳……！\n\n那就走吧！\nlet ' s， donna……！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おイナリ！　待った！",
+    "translation": "小狐狸！等一下！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n哦，小狐狸！等等！\n\n小狐狸！等一下！\n\n喂！等了！"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "そのあたり、いつもよりＦ．Ｏ．Ｅの\n反応が活発だ。",
+    "translation": "那一带F.O.E的反应\n比平常还要活跃。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n在那一带，F.O.E的\n反应比平常还要活跃。\n\n在这一点上，F.O.E的反应比平时更活跃。\n\n\n这方面，F.O.E的反应比平时活跃。"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "食い意地張って突っ込むと\n痛い目見るぞ。",
+    "translation": "要是因为贪吃冲进去会吃苦头哦。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n要是贪吃而冲进去\n会吃到苦头哦。\n\n硬要吃的话会吃苦头的。\n\n\n贪吃地吐槽的话会痛死你的。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…先は長そうだね。",
+    "translation": "……前路漫漫啊。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n……看来前方还很漫长呢。\n\n……前路似乎很长呢。\n\n……前面好像很长啊。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "まあ、食前の運動にはなりそうだ。\n油断せずに行こう。",
+    "translation": "不过这似乎能成为很好的饭前运动。\n小心谨慎地上吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n不过，这似乎能成为饭前的运动。\n不要大意，上吧。\n\n嗯，好像是饭前的运动。\n不要掉以轻心。\n\n嗯，可以作为餐前运动。不要大意，去吧。"
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

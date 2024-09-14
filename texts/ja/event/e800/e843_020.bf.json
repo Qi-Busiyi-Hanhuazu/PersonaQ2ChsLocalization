@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "な、何この音！？",
+    "translation": "な、何この音！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "シッ、静かに。何か始まるようだぞ。",
+    "translation": "シッ、静かに。何か始まるようだぞ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "フフ…ようこそいらっしゃいました。",
+    "translation": "フフ…ようこそいらっしゃいました。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "今回は、貴方がたに少しだけ\n頭を使って頂きたいの。",
+    "translation": "今回は、貴方がたに少しだけ\n頭を使って頂きたいの。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "と言っても、難しいことはありません。\nルールはとても簡単。",
+    "translation": "と言っても、難しいことはありません。\nルールはとても簡単。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_002_3",
+    "original": "この先にある２つの看板に、\nある『質問』が書かれています。",
+    "translation": "この先にある２つの看板に、\nある『質問』が書かれています。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_002_4",
+    "original": "その質問について、どちらかの答えを選び、\n指示の通りに進んで下さい。",
+    "translation": "その質問について、どちらかの答えを選び、\n指示の通りに進んで下さい。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_002_5",
+    "original": "フフフ…選んだ先に辿りつくゴールで、\n貴方がたは何を想うのかしら。",
+    "translation": "フフフ…選んだ先に辿りつくゴールで、\n貴方がたは何を想うのかしら。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "終わり…？",
+    "translation": "終わり…？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なんだ今の？　敵か？",
+    "translation": "なんだ今の？　敵か？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うーん、敵意はなさそうでしたけど。\nルールの説明でしょうか。",
+    "translation": "うーん、敵意はなさそうでしたけど。\nルールの説明でしょうか。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "２つの看板の『質問』に答える？\nとにかく見てみないと始まらんな。",
+    "translation": "２つの看板の『質問』に答える？\nとにかく見てみないと始まらんな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "よし、まずはその看板ってのを探すか。\n行こうぜ、ジョーカー。",
+    "translation": "よし、まずはその看板ってのを探すか。\n行こうぜ、ジョーカー。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_艶やかな声",
+    "original": "艶やかな声",
+    "translation": "艶やかな声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

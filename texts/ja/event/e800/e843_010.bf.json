@@ -1,0 +1,142 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さて、今回の特別上映は…",
+    "translation": "さて、今回の特別上映は…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "ひかり様の映画にて『指定の場所まで来い』\nというシンプルなもの。",
+    "translation": "ひかり様の映画にて『指定の場所まで来い』\nというシンプルなもの。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "…おや？",
+    "translation": "…おや？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "どうした。",
+    "translation": "どうした。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "いえ、こちらに『どの道を通ってもよい』\nと注意書きがありますもので。",
+    "translation": "いえ、こちらに『どの道を通ってもよい』\nと注意書きがありますもので。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "どういうことだ？",
+    "translation": "どういうことだ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "なぜわざわざ？",
+    "translation": "なぜわざわざ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "さあ…こちらに記載のこと以外は、\n私には分かりかねます。",
+    "translation": "さあ…こちらに記載のこと以外は、\n私には分かりかねます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ゴールに辿りつくまでの道のりが\n複数ある…ということか？",
+    "translation": "ゴールに辿りつくまでの道のりが\n複数ある…ということか？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "血の池地獄と賽の河原、\nどちらを通るか決めろということかもな。",
+    "translation": "血の池地獄と賽の河原、\nどちらを通るか決めろということかもな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "と、唐突に物騒なトコの名前出して\nビビらすのやめません…？",
+    "translation": "と、唐突に物騒なトコの名前出して\nビビらすのやめません…？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ま、考えてても仕方ねーっスよ。\nとにかく行ってみましょうや。",
+    "translation": "ま、考えてても仕方ねーっスよ。\nとにかく行ってみましょうや。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  }
+]

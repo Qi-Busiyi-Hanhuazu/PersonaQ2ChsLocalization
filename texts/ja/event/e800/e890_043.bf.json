@@ -1,0 +1,730 @@
+[
+  {
+    "key": "MSG_005_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "どうした？",
+    "translation": "どうした？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "何か問題でも？",
+    "translation": "何か問題でも？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "しらばっくれるな！\n平和を乱す大怪人め！",
+    "translation": "しらばっくれるな！\n平和を乱す大怪人め！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "怪盗だ",
+    "translation": "怪盗だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "急にどうした",
+    "translation": "急にどうした",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "言い訳無用！　これ以上の悪行、\n見過ごすわけにはいかない！",
+    "translation": "言い訳無用！　これ以上の悪行、\n見過ごすわけにはいかない！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_1_0",
+    "original": "いくぞ、ベルベンジャー！",
+    "translation": "いくぞ、ベルベンジャー！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "優しき力の青！\nベルベネイビー！",
+    "translation": "優しき力の青！\nベルベネイビー！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "広き心の青。\nベルベサファイア。",
+    "translation": "広き心の青。\nベルベサファイア。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "明るき気合の青！\nベルベコバルト！",
+    "translation": "明るき気合の青！\nベルベコバルト！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "…ふ、深き思慮の青。\nベルベインディゴ。",
+    "translation": "…ふ、深き思慮の青。\nベルベインディゴ。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "強き正義の青！\nベルベブルー！",
+    "translation": "強き正義の青！\nベルベブルー！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "五人合わせて…\n群青戦隊ベルベンジャー！",
+    "translation": "五人合わせて…\n群青戦隊ベルベンジャー！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_015_0",
+    "original": "青しかいないな",
+    "translation": "青しかいないな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_015_1",
+    "original": "急にどうした",
+    "translation": "急にどうした",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ハァ…御覧なさい、彼の冷め切った顔を。\nこんなのに便乗した私が愚かだったわ。",
+    "translation": "ハァ…御覧なさい、彼の冷め切った顔を。\nこんなのに便乗した私が愚かだったわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ですが、マーガレット姉上も\nかなり乗り気のようでしたが…",
+    "translation": "ですが、マーガレット姉上も\nかなり乗り気のようでしたが…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "す、すみません…",
+    "translation": "す、すみません…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "まあまあ、広き心はどうされたのですか。\nベルベ…ええと……",
+    "translation": "まあまあ、広き心はどうされたのですか。\nベルベ…ええと……",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "ベルベマリン？　ベルベアクア？",
+    "translation": "ベルベマリン？　ベルベアクア？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ベルベサファイア。\n名付けた貴方が忘れてどうするの。",
+    "translation": "ベルベサファイア。\n名付けた貴方が忘れてどうするの。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "なんというグダグダ…",
+    "translation": "なんというグダグダ…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "えー…とにもかくにも！\n怪人は、我々をこき使ったのに飽き足らず！",
+    "translation": "えー…とにもかくにも！\n怪人は、我々をこき使ったのに飽き足らず！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "我々が隠し持っていた、ホットなドッグを\nつまみ食いしていたのです！",
+    "translation": "我々が隠し持っていた、ホットなドッグを\nつまみ食いしていたのです！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_023_1_0",
+    "original": "悪は成敗せねばなりません！\nそうでしょう、カロリーヌ？",
+    "translation": "悪は成敗せねばなりません！\nそうでしょう、カロリーヌ？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そのとおりだ！\n更生しないどころか、悪墜ちとはな！",
+    "translation": "そのとおりだ！\n更生しないどころか、悪墜ちとはな！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "この茶番、必要なのかしら？",
+    "translation": "この茶番、必要なのかしら？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "人の世界では、悪を成敗する際は\nムード演出の前口上が必須だそうですよ。",
+    "translation": "人の世界では、悪を成敗する際は\nムード演出の前口上が必須だそうですよ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "囚人！　ホットドッグの恨み、\n今ここで晴らしてやる！",
+    "translation": "囚人！　ホットドッグの恨み、\n今ここで晴らしてやる！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "その意気です、カロリーヌ。",
+    "translation": "その意気です、カロリーヌ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "形式的ではなく、感情も乗った方が\n『試練』も盛り上がるというもの。",
+    "translation": "形式的ではなく、感情も乗った方が\n『試練』も盛り上がるというもの。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_029_0",
+    "original": "試練？",
+    "translation": "試練？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_029_1",
+    "original": "話が見えない",
+    "translation": "話が見えない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "食べ物の恨みは恐ろしい、という事です。\nこれは即ち、ホットドッグ事変…",
+    "translation": "食べ物の恨みは恐ろしい、という事です。\nこれは即ち、ホットドッグ事変…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "皆様はここへ来て以来、\n幾多の困難を乗り越え、成長されたわ。",
+    "translation": "皆様はここへ来て以来、\n幾多の困難を乗り越え、成長されたわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_031_1",
+    "original": "それは、紛れもない事実…",
+    "translation": "それは、紛れもない事実…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ですから、その総仕上げとして\n我ら全員と戦ってもらいます。",
+    "translation": "ですから、その総仕上げとして\n我ら全員と戦ってもらいます。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "これは依頼ではございません。\n現にチケットはないのです。",
+    "translation": "これは依頼ではございません。\n現にチケットはないのです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "ぶっちゃけますと、\n純粋に私どもの意志でございます。",
+    "translation": "ぶっちゃけますと、\n純粋に私どもの意志でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "皆様がここで手にしたもの…\nそれが、私たちにどう影響を及ぼすのか。",
+    "translation": "皆様がここで手にしたもの…\nそれが、私たちにどう影響を及ぼすのか。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_034_1",
+    "original": "起こること全て、偶然はございません。\nあるのは必然のみ…",
+    "translation": "起こること全て、偶然はございません。\nあるのは必然のみ…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "ホットドッグの盗み食いも、\n更生における必然というわけだ！",
+    "translation": "ホットドッグの盗み食いも、\n更生における必然というわけだ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "SEL_036_0",
+    "original": "冤罪だ",
+    "translation": "冤罪だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_036_1",
+    "original": "待て",
+    "translation": "待て",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "皆まで言いません。\nここでは様々な事象が起きているわ。",
+    "translation": "皆まで言いません。\nここでは様々な事象が起きているわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_037_1",
+    "original": "私たちが呼ばれたことも必然ならば、\n確かめる必要があるの。",
+    "translation": "私たちが呼ばれたことも必然ならば、\n確かめる必要があるの。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "それがホットドッグ事変により発生した\n『試練』でございます。",
+    "translation": "それがホットドッグ事変により発生した\n『試練』でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_038_1",
+    "original": "皆様と手合わせをすることで、\nひとつの答えが出るやもしれません。",
+    "translation": "皆様と手合わせをすることで、\nひとつの答えが出るやもしれません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "無理にとは言いません。\nあくまで私どもの申し出です。",
+    "translation": "無理にとは言いません。\nあくまで私どもの申し出です。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_039_1",
+    "original": "それに勝てとも言いません。\n万に一つもありえないでしょうから。",
+    "translation": "それに勝てとも言いません。\n万に一つもありえないでしょうから。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "囚人。負けても心配無用だぞ。",
+    "translation": "囚人。負けても心配無用だぞ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_040_1",
+    "original": "ホットドッグの窃盗は大罪だが、\n主の許しなしに死刑にはしない。",
+    "translation": "ホットドッグの窃盗は大罪だが、\n主の許しなしに死刑にはしない。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "つまり、この『試練』は、\nどれだけ戦えるのかを確かめる場…",
+    "translation": "つまり、この『試練』は、\nどれだけ戦えるのかを確かめる場…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_041_1",
+    "original": "我らに勝てずとも、\n力に見合った対価を渡します。",
+    "translation": "我らに勝てずとも、\n力に見合った対価を渡します。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "SEL_042_0",
+    "original": "こちらが勝ったら？",
+    "translation": "こちらが勝ったら？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_042_1",
+    "original": "勝った気でいるのか？",
+    "translation": "勝った気でいるのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "そうですね…\n万が一、私たちが負けた場合は…",
+    "translation": "そうですね…\n万が一、私たちが負けた場合は…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_043_1",
+    "original": "賞賛と共に、\n特別な対価をお渡しましょう。",
+    "translation": "賞賛と共に、\n特別な対価をお渡しましょう。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_043_2",
+    "original": "それが世の摂理、ですから。\nそうでしょう、姉上？",
+    "translation": "それが世の摂理、ですから。\nそうでしょう、姉上？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "ええ、無論。",
+    "translation": "ええ、無論。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "挑戦は、何度していただいても結構よ。\nそれが最後の試練と言うものでしょう。",
+    "translation": "挑戦は、何度していただいても結構よ。\nそれが最後の試練と言うものでしょう。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_045_1",
+    "original": "ふふ…楽しみだわ。",
+    "translation": "ふふ…楽しみだわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "さあ、もういいだろう！",
+    "translation": "さあ、もういいだろう！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_046_1",
+    "original": "おい、囚人！　簡単に言えば、\n罪人に仕置きをする、ということだ！",
+    "translation": "おい、囚人！　簡単に言えば、\n罪人に仕置きをする、ということだ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "こちらのカロリーヌはずいぶん\n頭に血が上っているようでございます。",
+    "translation": "こちらのカロリーヌはずいぶん\n頭に血が上っているようでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "ホットドッグを食べながらの映画鑑賞。\nずいぶん楽しんでいましたからね。",
+    "translation": "ホットドッグを食べながらの映画鑑賞。\nずいぶん楽しんでいましたからね。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "え、ええい！　うるさい！\nお前たちが行かないなら先に行く！",
+    "translation": "え、ええい！　うるさい！\nお前たちが行かないなら先に行く！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_049_1",
+    "original": "お前たちの出番はないかもなぁ！？",
+    "translation": "お前たちの出番はないかもなぁ！？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "まったく…ずいぶん口が悪くなったこと。\nとっても面白い展開…",
+    "translation": "まったく…ずいぶん口が悪くなったこと。\nとっても面白い展開…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "お行きなさい！\nベルベインディゴ、ベルベコバルト！",
+    "translation": "お行きなさい！\nベルベインディゴ、ベルベコバルト！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_051_1",
+    "original": "ホットドッグ事変を巻き起こした\n怪人たちを、成敗するのです！",
+    "translation": "ホットドッグ事変を巻き起こした\n怪人たちを、成敗するのです！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "よし来た！\nいくぞ、ジュス…ベルベインディゴ！",
+    "translation": "よし来た！\nいくぞ、ジュス…ベルベインディゴ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "…こうなる予感はしていました。",
+    "translation": "…こうなる予感はしていました。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_053_1_0",
+    "original": "では、囚人。\n準備はできていますか？",
+    "translation": "では、囚人。\n準備はできていますか？",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "SEL_054_0",
+    "original": "ああ",
+    "translation": "ああ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_054_1",
+    "original": "まだだ",
+    "translation": "まだだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "覚悟は決まったようだな、\n行くぞ！",
+    "translation": "覚悟は決まったようだな、\n行くぞ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "何時も万全でいるように心がけなさい。\nしかし、これは我らの申し出。",
+    "translation": "何時も万全でいるように心がけなさい。\nしかし、これは我らの申し出。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_056_1",
+    "original": "準備の時間を差し上げます。\n待っていますよ、囚人。",
+    "translation": "準備の時間を差し上げます。\n待っていますよ、囚人。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "再び来られたことを\n歓迎いたします。",
+    "translation": "再び来られたことを\n歓迎いたします。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "では、囚人。\n準備はできていますか？",
+    "translation": "では、囚人。\n準備はできていますか？",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "SEL_059_0",
+    "original": "ああ",
+    "translation": "ああ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_059_1",
+    "original": "まだだ",
+    "translation": "まだだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_060_1_0",
+    "original": "覚悟は決まったようだな、\n行くぞ！",
+    "translation": "覚悟は決まったようだな、\n行くぞ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_060_2_0",
+    "original": "優しき力の青！\nベルベネイビー！",
+    "translation": "優しき力の青！\nベルベネイビー！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_060_3_0",
+    "original": "広き心の青。\nベルベサファイア。",
+    "translation": "広き心の青。\nベルベサファイア。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_060_4_0",
+    "original": "明るき気合の青！\nベルベコバルト！",
+    "translation": "明るき気合の青！\nベルベコバルト！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_060_5_0",
+    "original": "…ふ、深き思慮の青。\nベルベインディゴ。",
+    "translation": "…ふ、深き思慮の青。\nベルベインディゴ。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_060_6_0",
+    "original": "強き正義の青！\nベルベブルー！",
+    "translation": "強き正義の青！\nベルベブルー！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_060_7_0",
+    "original": "いくぞ、ベルベンジャー！",
+    "translation": "いくぞ、ベルベンジャー！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "結構。中途半端な状態では、\n意味がありませんから。",
+    "translation": "結構。中途半端な状態では、\n意味がありませんから。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_062_0",
+    "original": "フフフ…楽しい時間は、\n何度でもウエルカムでございます。",
+    "translation": "フフフ…楽しい時間は、\n何度でもウエルカムでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_063_0",
+    "original": "先ほどは油断しただけです。\nでは、囚人…準備は出来ていますか？",
+    "translation": "先ほどは油断しただけです。\nでは、囚人…準備は出来ていますか？",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "SEL_064_0",
+    "original": "出来ている",
+    "translation": "出来ている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_064_1",
+    "original": "まだだ",
+    "translation": "まだだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_065_0",
+    "original": "フン！\n今度は手加減しないからな！",
+    "translation": "フン！\n今度は手加減しないからな！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_066_0",
+    "original": "なるほど。一度勝っても油断しない…\nどうぞ、再度のご準備を。",
+    "translation": "なるほど。一度勝っても油断しない…\nどうぞ、再度のご準備を。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  }
+]

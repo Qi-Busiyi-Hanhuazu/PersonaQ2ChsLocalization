@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ん？　なんだこれ？",
+    "translation": "ん？　なんだこれ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "地図…の座標でしょうか？",
+    "translation": "地図…の座標でしょうか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "確かにそう見えるけど…",
+    "translation": "確かにそう見えるけど…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_1_0",
+    "original": "ナビ。\nこれを今の地図に当てはめることは出来る？",
+    "translation": "ナビ。\nこれを今の地図に当てはめることは出来る？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "お！　宝の地図か！？\n任せとけ！",
+    "translation": "お！　宝の地図か！？\n任せとけ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_1_0",
+    "original": "ふむふむ…\nこれによると…地図のココと、ココ…",
+    "translation": "ふむふむ…\nこれによると…地図のココと、ココ…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これだ！\nぐふふ…どんなオタカラだろうな！",
+    "translation": "これだ！\nぐふふ…どんなオタカラだろうな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

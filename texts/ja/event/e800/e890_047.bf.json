@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "はあ…話にならんな。\nどうした、囚人？",
+    "translation": "はあ…話にならんな。\nどうした、囚人？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ええ、期待はずれも良いところです。",
+    "translation": "ええ、期待はずれも良いところです。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "私たちの読み違いだったかしら？\nでも、これが結果ね…",
+    "translation": "私たちの読み違いだったかしら？\nでも、これが結果ね…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "では、こちらをお受け取りください。\n手合わせ頂いた分の報酬です。",
+    "translation": "では、こちらをお受け取りください。\n手合わせ頂いた分の報酬です。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "皆様。再度、まみえてもかまいません。\nそれでこそ試練でございますから。",
+    "translation": "皆様。再度、まみえてもかまいません。\nそれでこそ試練でございますから。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "我々を乗り越える力を得られる時まで…\nしばし、お待ちするとします。",
+    "translation": "我々を乗り越える力を得られる時まで…\nしばし、お待ちするとします。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  }
+]

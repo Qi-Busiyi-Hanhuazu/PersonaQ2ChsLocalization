@@ -1,0 +1,23 @@
+[
+  {
+    "key": "GOTO_DUNGEON_YESNO_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "GOTO_DUNGEON_YESNO_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "GOTO_DUNGEON_IN_0",
+    "original": "＞迷宮へ入りますか？",
+    "translation": "＞要进入迷宫吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞要进入迷宫吗？\n\n＞进入迷宫吗？"
+  }
+]

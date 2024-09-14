@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ジョーカー！\nその扉の先にシャドウの反応があるぞ。",
+    "translation": "JOKER！\n那扇门后有暗影的反应。",
+    "stage": 0,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\nJOKER！\n那扇门后有暗影的反应。\n\nJOKER！\n那个门的前面有暗影的反应。\n\nJOKER ！那扇门前面有暗影的反应。"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "多分、戦闘になると思うが…\n準備は大丈夫か？",
+    "translation": "我想大概会演变成战斗……\n准备好了吗？",
+    "stage": 0,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n我想大概会演变成战斗……\n准备好了吗？\n\n我想可能会发生战斗……\n准备好了吗？\n\n我想可能会变成战斗……\n准备好了吗？"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "大丈夫",
+    "translation": "没问题",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没问题\n\n没关系的\n\n不要紧"
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "ちょっと待って",
+    "translation": "等我一下",
+    "stage": 0,
+    "context": "机翻辅助：\n\n等我一下\n\n稍等一下\n\n等一下"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おっしゃ！\nんじゃ、進もうぜ！",
+    "translation": "好！\n那就前进吧！",
+    "stage": 0,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好！\n那就前进吧！\n\n你说！\n那么，前进吧！\n\n喂！\n那么，前进吧！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うむ。一度、映画館に戻って\n態勢を立て直すのも作戦だな。",
+    "translation": "嗯。先回电影院\n重整态势也是作战之一。",
+    "stage": 0,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n嗯。先回电影院\n重整态势也是作战之一。\n\n嗯。回一次电影院\n重整态势也是一种策略。\n\n嗯。回到电影院重新调整姿势也是一种作战。"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "準備が出来てから進むとしよう。",
+    "translation": "等准备好了再前进吧。",
+    "stage": 0,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n等准备好了再前进吧。\n\n准备好了再前进吧。"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

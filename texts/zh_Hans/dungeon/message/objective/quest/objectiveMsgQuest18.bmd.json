@@ -1,0 +1,79 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "ドロップ品を３種集めろ！",
+    "translation": "收集3种掉落物品！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n收集3种掉落物品！\n\n收集3种下坠品！\n\n收集3种掉落品！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "４－Ｂ近辺、３－Ｆ近辺、他で戦え",
+    "translation": "在4-B附近、3-F附近、和其他地方战斗",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在4——B附近、3——F附近、其他地方战斗\n\n4-B附近，3-F附近，在其他地方战斗\n\n4 - B附近，3 - F附近，在其他地方作战"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "４－Ｂ近辺、３－Ｆ近辺で戦え",
+    "translation": "在4-B附近、3-F附近战斗",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在4——B附近、3——F附近战斗\n\n4-B附近，3-F附近战斗\n\n在4 - B附近，3 - F附近作战"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "４－Ｂ近辺、その他場所で戦え",
+    "translation": "在4-B附近和其他地方战斗",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在4——B附近、其他地方战斗\n\n4-B附近，在其他地方战斗\n\n在附近或其他地方作战"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_4_0",
+    "original": "３－Ｆ近辺、その他場所で戦え",
+    "translation": "在3-F附近与其他地方战斗",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在3——F附近、其他地方战斗\n\n3-F附近，在其他地方战斗\n\n在3 - F附近和其他地方作战"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_5_0",
+    "original": "４－Ｂ近辺で戦え",
+    "translation": "在4-B附近战斗",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在4——B附近战斗\n\n在4-B附近战斗\n\n在附近作战"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_6_0",
+    "original": "３－Ｆ近辺で戦え",
+    "translation": "在3-F附近战斗",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在3——F附近战斗\n\n在3-F附近战斗\n\n在3 - F附近作战"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_7_0",
+    "original": "４－Ｂ近辺、３－Ｆ近辺以外で戦え",
+    "translation": "在4-B附近、3-F附近之外的地方战斗",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在4——B附近、3——F附近以外的地方战斗\n\n4-B附近，3-F附近以外作战\n\n在4 - B、3 - F以外的地区作战"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_8_0",
+    "original": "残り３体を討伐しろ",
+    "translation": "讨伐剩下3只",
+    "stage": 0,
+    "context": "机翻辅助：\n\n讨伐剩下3只\n\n围剿剩下的三具\n\n讨伐剩下的三个"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_9_0",
+    "original": "残り２体を討伐しろ",
+    "translation": "讨伐剩下2只",
+    "stage": 0,
+    "context": "机翻辅助：\n\n讨伐剩下2只\n\n围剿剩下的两个\n\n讨伐剩下的两个"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_10_0",
+    "original": "残り１体を討伐しろ",
+    "translation": "讨伐剩下1只",
+    "stage": 0,
+    "context": "机翻辅助：\n\n讨伐剩下1只\n\n把剩下的一只讨伐掉\n\n讨伐剩下的一个"
+  }
+]

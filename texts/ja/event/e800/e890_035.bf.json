@@ -1,0 +1,527 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ああ、残念無念でございます。",
+    "translation": "ああ、残念無念でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "敗れたことがではなく、\n愉しい時が終わってしまうことが。",
+    "translation": "敗れたことがではなく、\n愉しい時が終わってしまうことが。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "強かった",
+    "translation": "強かった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "楽勝だった",
+    "translation": "楽勝だった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "いえ、多少の荒事の心得はありますが\n私もまだまだ未熟かと。",
+    "translation": "いえ、多少の荒事の心得はありますが\n私もまだまだ未熟かと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "フフ、たいした器でございますね。\n比類なき力に驚くばかり。",
+    "translation": "フフ、たいした器でございますね。\n比類なき力に驚くばかり。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "素晴らしい戦いだったわ。\n見ている私まで心が燃え上がるよう。",
+    "translation": "素晴らしい戦いだったわ。\n見ている私まで心が燃え上がるよう。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "姉上、いらしていたのですか。",
+    "translation": "姉上、いらしていたのですか。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ええ、私も見届けたかったの。",
+    "translation": "ええ、私も見届けたかったの。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "彼らが、ここで育んだ『力』を\n示してくれるのを。",
+    "translation": "彼らが、ここで育んだ『力』を\n示してくれるのを。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_006_1_0",
+    "original": "そして、力を示したその先に\nどんな可能性を見せてくれるのかを。",
+    "translation": "そして、力を示したその先に\nどんな可能性を見せてくれるのかを。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そうだ、あのフィルム…",
+    "translation": "そうだ、あのフィルム…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "煤けたフィルムが、\nぼんやりと光を放っている…",
+    "translation": "煤けたフィルムが、\nぼんやりと光を放っている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "……！",
+    "translation": "……！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "４つのフィルムが同時に\nとても強く輝き出した…！",
+    "translation": "４つのフィルムが同時に\nとても強く輝き出した…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "これは…！",
+    "translation": "これは…！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "うっ…！",
+    "translation": "うっ…！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "辺りが光に包まれていく…",
+    "translation": "辺りが光に包まれていく…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "いまの光…",
+    "translation": "いまの光…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "僕の中で、何かが…",
+    "translation": "僕の中で、何かが…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "これが、私の…？",
+    "translation": "これが、私の…？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "心の中に、新たな力を感じる…",
+    "translation": "心の中に、新たな力を感じる…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "フフ、掴んだようね。\n貴方がたの新たな可能性を。",
+    "translation": "フフ、掴んだようね。\n貴方がたの新たな可能性を。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "この貴重な瞬間に立ち会えたこと、\nたいへん嬉しく思います。",
+    "translation": "この貴重な瞬間に立ち会えたこと、\nたいへん嬉しく思います。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "ご気分のほどはいかがでしょう？",
+    "translation": "ご気分のほどはいかがでしょう？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_018_0",
+    "original": "なんかすごい",
+    "translation": "なんかすごい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_1",
+    "original": "よくわからない",
+    "translation": "よくわからない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ええ、本当に。",
+    "translation": "ええ、本当に。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "この先どんな活躍を見せてくれるのか、\nとても楽しみだわ。",
+    "translation": "この先どんな活躍を見せてくれるのか、\nとても楽しみだわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "フフ、今はそれでいいわ。",
+    "translation": "フフ、今はそれでいいわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_020_1_0",
+    "original": "でもきっと、この先の道を切り拓く\n力となってくれるでしょう。",
+    "translation": "でもきっと、この先の道を切り拓く\n力となってくれるでしょう。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "それにしましても、この私を含め\n我ら『力を司る者』を全て破るとは。",
+    "translation": "それにしましても、この私を含め\n我ら『力を司る者』を全て破るとは。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "フフ、我が主が知ったら、\nさぞかし驚くことでしょうね。",
+    "translation": "フフ、我が主が知ったら、\nさぞかし驚くことでしょうね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_022_1_0",
+    "original": "よくぞここまで辿りついたものね。\nそれとも、これも必然だったかのかしら？",
+    "translation": "よくぞここまで辿りついたものね。\nそれとも、これも必然だったかのかしら？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "特別上映を続けていたおかげかな。",
+    "translation": "特別上映を続けていたおかげかな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_023_1_0",
+    "original": "あのフィルムも、特別上映から\n始まったわけだし。",
+    "translation": "あのフィルムも、特別上映から\n始まったわけだし。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "特別上映サマサマだな！\nつか、マジで神様とかの仕業だったり？",
+    "translation": "特別上映サマサマだな！\nつか、マジで神様とかの仕業だったり？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_025_1_0",
+    "original": "あのね…神様かどうかはわからない。\nでも、観てて思ったの。",
+    "translation": "あのね…神様かどうかはわからない。\nでも、観てて思ったの。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_025_1_1",
+    "original": "みんなの想いとか、願いみたいなものが\n『特別上映』になってるのかなって。",
+    "translation": "みんなの想いとか、願いみたいなものが\n『特別上映』になってるのかなって。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "なるほど…面白い考えです。",
+    "translation": "なるほど…面白い考えです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "僕らが入った映画の登場人物は\n僕らの記憶によって変わっていた…",
+    "translation": "僕らが入った映画の登場人物は\n僕らの記憶によって変わっていた…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_026_2",
+    "original": "そして、何よりひかりさんの映画は\nひかりさんの意識を強く反映している。",
+    "translation": "そして、何よりひかりさんの映画は\nひかりさんの意識を強く反映している。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "それと同じで、僕らの意識を反映したのが\n特別上映…というわけか。",
+    "translation": "それと同じで、僕らの意識を反映したのが\n特別上映…というわけか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "うん、みんなの『仲良くなりたい』とか\n『強くなりたい』っていう気持ちとか。",
+    "translation": "うん、みんなの『仲良くなりたい』とか\n『強くなりたい』っていう気持ちとか。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "そういうものが、\n映画になって現れたんじゃないかな？",
+    "translation": "そういうものが、\n映画になって現れたんじゃないかな？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "そうかもしれないな。\nあの協力技を覚えたときも…",
+    "translation": "そうかもしれないな。\nあの協力技を覚えたときも…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "クマも、いろいろお願い叶ったクマ～！",
+    "translation": "クマも、いろいろお願い叶ったクマ～！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "みんなとたくさん話したいと思ったし、\n本当にそうなって、仲良くなれた。",
+    "translation": "みんなとたくさん話したいと思ったし、\n本当にそうなって、仲良くなれた。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "想いを持てば、願いは叶う。\nそう教えられたのかな。",
+    "translation": "想いを持てば、願いは叶う。\nそう教えられたのかな。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "思ったことが映画になると聞いちゃ、\n黙ってられませんよ？",
+    "translation": "思ったことが映画になると聞いちゃ、\n黙ってられませんよ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_033_1_0",
+    "original": "スターのオレっちが、あれをああして\nこれがこうなる映画オナシャッス！",
+    "translation": "スターのオレっちが、あれをああして\nこれがこうなる映画オナシャッス！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ハァ…順平の妄想チケット発券されても\n誰もやんないし、誰も観ないっつの。",
+    "translation": "ハァ…順平の妄想チケット発券されても\n誰もやんないし、誰も観ないっつの。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "とにかく、皆様はこの映画の世界で\n大変な成長を遂げられました。",
+    "translation": "とにかく、皆様はこの映画の世界で\n大変な成長を遂げられました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "遠からず、自由を手にできることでしょう。\nそのままご精進下さい。",
+    "translation": "遠からず、自由を手にできることでしょう。\nそのままご精進下さい。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_036_0",
+    "original": "ありがとう",
+    "translation": "ありがとう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_036_1",
+    "original": "引き続き頼む",
+    "translation": "引き続き頼む",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "いえ、礼には及びません。\n全ては皆様のお力です。",
+    "translation": "いえ、礼には及びません。\n全ては皆様のお力です。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "承知いたしました。\n私にできることなら、何なりと。",
+    "translation": "承知いたしました。\n私にできることなら、何なりと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "最後になりましたが、私からも報酬が。\n宜しくご活用くださいませ。",
+    "translation": "最後になりましたが、私からも報酬が。\n宜しくご活用くださいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_039_1",
+    "original": "それでは、ごきげんよう。\nチケットカウンターでまたお会いしましょう。",
+    "translation": "それでは、ごきげんよう。\nチケットカウンターでまたお会いしましょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "PERSONA_STOCK_UP_MSG_0",
+    "original": "試練を乗り越えた事で、ワイルドの力が高まり\nペルソナストック数が[颜色 03][占位A 01]体[颜色 01]に増加しました。",
+    "translation": "試練を乗り越えた事で、ワイルドの力が高まり\nペルソナストック数が[颜色 03][占位A 01]体[颜色 01]に増加しました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SYS_MES_000_0",
+    "original": "[道具 073D]の効果で、\n『フィニッシュボーナス』の\n経験値ボーナスがアップしました。",
+    "translation": "[道具 073D]の効果で、\n『フィニッシュボーナス』の\n経験値ボーナスがアップしました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  }
+]

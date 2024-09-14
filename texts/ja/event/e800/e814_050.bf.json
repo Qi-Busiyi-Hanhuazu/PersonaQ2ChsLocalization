@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "うっほほ～い！\nツタの垂れてる扉、見つけたクマ！",
+    "translation": "うっほほ～い！\nツタの垂れてる扉、見つけたクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "私の出番だね。すぐに探してみる。",
+    "translation": "私の出番だね。すぐに探してみる。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あった！　薬草、見つけたよ！",
+    "translation": "あった！　薬草、見つけたよ！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おお、やったな！\n問題は量だが…",
+    "translation": "おお、やったな！\n問題は量だが…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これだけあれば充分だと思う。",
+    "translation": "これだけあれば充分だと思う。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "後は、薬草をすり潰して塗ってあげれば、\nきっとあの子も元気になると思う。",
+    "translation": "後は、薬草をすり潰して塗ってあげれば、\nきっとあの子も元気になると思う。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "良かった…じゃあすぐに、\nあの子のところに戻ろう？",
+    "translation": "良かった…じゃあすぐに、\nあの子のところに戻ろう？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  }
+]

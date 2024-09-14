@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_hole_switch_look_0",
+    "original": "＞目の前の穴とスイッチをみて\n　感想を言う",
+    "translation": "＞目の前の穴とスイッチをみて\n　感想を言う",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_switch_check_0",
+    "original": "＞スイッチを見て、\n　押してみようというイベント",
+    "translation": "＞スイッチを見て、\n　押してみようというイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_get_on_switch_check_0",
+    "original": "＞床の上に乗った状態でスイッチを押したら\n　下に行けるんじゃ？　イベント",
+    "translation": "＞床の上に乗った状態でスイッチを押したら\n　下に行けるんじゃ？　イベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "何かが埋まっているようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理してからまた来よう…",
+    "stage": 1,
+    "context": ""
+  }
+]

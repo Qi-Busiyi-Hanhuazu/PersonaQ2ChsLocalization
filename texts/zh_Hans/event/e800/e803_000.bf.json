@@ -1,0 +1,191 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おっと、ここは行き止まりか。",
+    "translation": "哦嚯，到这里就过不去了吗。",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n哎呀，这里到头了吗？\n\n哎呀，这里是死胡同吗。\n\n哦，这里是尽头吗？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "少し休まない？\nここ暑いし、ノド乾いちゃった。",
+    "translation": "要不要休息一下？\n这里太热，嗓子都干了。",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n要不要休息一下？\n这里好热，我口渴了。\n\n要不要休息一下？这里很热，嗓子都哑了。\n\n\n不稍微休息一下吗？这里又热又辣。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "恐竜たちが生活するのに適した\nジャングルだけに、気温は高めだね。",
+    "translation": "正因为是适宜恐龙生存的丛林，\n气温才这么高吧。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n毕竟是恐龙们生活的\n丛林，气温自然会比较高。\n\n\n因为是适合恐龙生活的丛林，所以气温很高。\n\n正因为是适合恐龙生活的丛林，所以气温很高。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "モナちゃん、大丈夫？\nそれ脱いだ方がいいんじゃない？",
+    "translation": "小MONA，你没事吧？\n把那个脱掉会不会好些啊？",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\nMONA，你没事吧？\n是不是把那玩意儿脱了比较好？\n\n小MONA，没事吧？\n脱了那个不是更好吗？\n\nMONA，你没事吧？\n把那个脱了不是更好吗？"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "着ぐるみじゃねーし！",
+    "translation": "这又不是玩偶服——！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n又不是玩偶装！\n\n不是人偶服！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "……。",
+    "translation": "……",
+    "stage": 0,
+    "context": "说话人：巽 完二"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "…………。",
+    "translation": "…………",
+    "stage": 0,
+    "context": "说话人：巽 完二"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "……？",
+    "translation": "……？",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "完二がジッと\nモルガナを見つめている…",
+    "translation": "完二静静地盯着摩尔加纳……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n完二目不转睛地\n盯着摩尔加纳……\n\n完二凝视着摩尔加纳……\n\n\n完二目不转睛地盯着摩尔加纳……"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "おーい、ジョーカー！",
+    "translation": "喂——JOKER！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n喂，JOKER！\n\n喂，JOKER ！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "……！",
+    "translation": "……！",
+    "stage": 0,
+    "context": "说话人：巽 完二"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "なんだ、アイツ？",
+    "translation": "那家伙怎么回事？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n那家伙是怎么回事？\n\n什么啊，那家伙？\n\n那家伙是什么？"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "モルガナのことジロジロ\n見てやがったよな…？",
+    "translation": "一直在盯着摩尔加纳看啊……？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n他\n一直盯着摩尔加纳看啊……？\n\n摩尔加纳的事吉罗\n看了吧……？\n\n\n一直盯着摩尔加纳看呢……？"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "リュージ、どうした？",
+    "translation": "龙司，怎么了？",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n龙司，你怎么了？\n\n龙司，怎么了？"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "あーいや、なんでもねえ。",
+    "translation": "啊——不，没什么。",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n啊，不，没什么。\n\n啊，没什么。\n\n啊，不，什么都没有。"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "つか、休憩バッチリ取ったし、\nそろそろ出発しようぜ。",
+    "translation": "说起来，也充分休息过了，\n差不多该出发了吧。",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n话说回来，休息时间也差不多了\n我们差不多该出发了。\n\n话说回来，休息得很好，差不多该出发了。\n\n\n好了，休息好了，差不多该出发了。"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "……。",
+    "translation": "……",
+    "stage": 0,
+    "context": "说话人：巽 完二"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "まだ見てやがる…\nアイツ、どういうつもりだ？",
+    "translation": "他还在看啊……\n那家伙到底想干嘛啊？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n还在看……\n那家伙到底想干什么？\n\n那家伙到底是怎么想的？"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "おいリュージ、置いてかれるぞ！",
+    "translation": "喂，龙司，要丢下你了哦！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n喂，龙司，我们要丢下你了！\n\n喂，龙司，我要被丢下了！"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ワリい、いま行くわ。",
+    "translation": "抱歉抱歉，我这就来。",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n抱歉，我马上过去。\n\n好，我现在就去。\n\n哇，我现在就去。"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "特別上映『ヤンキー戦争勃発…？』が\nチケットカウンターに追加されました。",
+    "translation": "特别上映“不良战争一触即发……？”\n已经被添加到售票处。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n特别上映“小混混战争爆发……？”\n在售票处追加了。\n\n特别上映“不良少年战争爆发……？”\n追加到了售票处。\n\n特别上映“洋基战争爆发？”\n在售票柜台追加了。"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

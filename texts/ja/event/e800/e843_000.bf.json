@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ちきしょ、行き止まりかよ。",
+    "translation": "ちきしょ、行き止まりかよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "さっきんとこ右行きゃよかったのか？\n戻るの面倒くせえー。",
+    "translation": "さっきんとこ右行きゃよかったのか？\n戻るの面倒くせえー。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "文句言うな、スカル。\n寄り道だって楽しいだろ。",
+    "translation": "文句言うな、スカル。\n寄り道だって楽しいだろ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そうそう、街とかでも道に迷ったときに\n新しいお店見つけたりするし！",
+    "translation": "そうそう、街とかでも道に迷ったときに\n新しいお店見つけたりするし！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "映画の中も同じかもしれないですね。",
+    "translation": "映画の中も同じかもしれないですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "回り道だと思った先に、\n役に立つ道具が置かれていたり。",
+    "translation": "回り道だと思った先に、\n役に立つ道具が置かれていたり。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "遠回りをした分、戦いの経験を積めたり\n悪いことばかりではありません。",
+    "translation": "遠回りをした分、戦いの経験を積めたり\n悪いことばかりではありません。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ま、最初からどっちが正解とか\nわかってたら苦労しねえか。",
+    "translation": "ま、最初からどっちが正解とか\nわかってたら苦労しねえか。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "んじゃ戻るか。\nじっくり行こうぜ、ジョーカー。",
+    "translation": "んじゃ戻るか。\nじっくり行こうぜ、ジョーカー。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "特別上映『自分を見つめよ』が\nチケットカウンターに追加されました。",
+    "translation": "特別上映『自分を見つめよ』が\nチケットカウンターに追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

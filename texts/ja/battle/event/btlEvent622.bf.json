@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "他人のためにナニ頑張っちゃってんの？\nそういうの、ウザいんだって…",
+    "translation": "他人のためにナニ頑張っちゃってんの？\nそういうの、ウザいんだって…",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_000_5_0",
+    "original": "空気読んで、さっさと倒れろよ！",
+    "translation": "空気読んで、さっさと倒れろよ！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ＴＰＯを弁えるのは、確かに大切です。\nですが…",
+    "translation": "ＴＰＯを弁えるのは、確かに大切です。\nですが…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ここで見捨てるとか、ありえねーっての！",
+    "translation": "ここで見捨てるとか、ありえねーっての！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "正しいって思ったことやんなきゃ、\n絶対に後悔するし！",
+    "translation": "正しいって思ったことやんなきゃ、\n絶対に後悔するし！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "そうクマ！　周りがなんと言おうと…！",
+    "translation": "そうクマ！　周りがなんと言おうと…！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "俺たちは俺たちの道を突き進む！",
+    "translation": "俺たちは俺たちの道を突き進む！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_ヨウスケサウルス",
+    "original": "ヨウスケサウルス",
+    "translation": "ヨウスケサウルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

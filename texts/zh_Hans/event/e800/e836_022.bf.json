@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "うっし！　邪魔くせえＦ．Ｏ．Ｅ\n片付けてやったぜ！",
+    "translation": "好！把碍事的F.O.E\n解决掉了！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好！我把碍事的F.O.E\n解决掉了！\n\n可恶！打扰你了F.O.E\n我帮你收拾了！\n\n嗯！给你收拾了！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん、これならゆっくり\n素材集めできそ…",
+    "translation": "嗯，这样就可以\n不着急地收集素材……",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n嗯，这样就能\n慢慢收集素材……\n\n嗯，这样的话可以慢慢地收集素材……\n\n\n嗯，这样的话慢慢收集素材吧……"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ちょ、何！？",
+    "translation": "等等，什么！",
+    "stage": 0,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n等等，什么！\n\n喂，什么！？\n\n等、什么！？"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "気をつけろ！\nまたＦ．Ｏ．Ｅが現れたぞ！",
+    "translation": "小心！\n又有F.O.E出现了！",
+    "stage": 0,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n小心！\n又有F.O.E出现了！\n\n小心点！\nF.O.E又出现了！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "やれやれ、仲間を呼ばれたか。\n簡単にはいかないみたいだな。",
+    "translation": "哎呀，它叫同伴来了吗？\n看来事情没那么简单呢。",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n哎呀，它叫同伴来了吗？\n看来事情没那么简单呢。\n\n哎呀，叫同伴了吗。\n看来不容易啊。\n\n哎呀呀，叫来同伴了吗？好像没那么简单。"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 由加莉",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

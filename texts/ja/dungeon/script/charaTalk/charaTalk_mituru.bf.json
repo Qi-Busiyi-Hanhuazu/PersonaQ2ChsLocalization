@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "その辺りは採取可能みたいだな。\nどうする？",
+    "translation": "その辺りは採取可能みたいだな。\nどうする？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "了解した。\n警戒して採取するとしよう。",
+    "translation": "了解した。\n警戒して採取するとしよう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "よし。最大限の成果を目指そう。",
+    "translation": "よし。最大限の成果を目指そう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうか。\nでは、止めておくとしよう。",
+    "translation": "そうか。\nでは、止めておくとしよう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全てのようだな。",
+    "translation": "これで全てのようだな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うむ。",
+    "translation": "うむ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いいな。",
+    "translation": "いいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "なかなかだな。",
+    "translation": "なかなかだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "まったく…気が抜けないな。\nだが、無事に採り終えたようだ。",
+    "translation": "まったく…気が抜けないな。\nだが、無事に採り終えたようだ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ブリリアント！",
+    "translation": "ブリリアント！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "素晴らしい。",
+    "translation": "素晴らしい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "エクセレント！",
+    "translation": "エクセレント！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットだ。\nどうする？",
+    "translation": "ショートカットだ。\nどうする？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こちらは通れないか。",
+    "translation": "こちらは通れないか。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ここは…\n危険な気配がするな…",
+    "translation": "ここは…\n危険な気配がするな…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かった。\n気を抜くなよ。",
+    "translation": "分かった。\n気を抜くなよ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだな。\n懸命な判断だ。",
+    "translation": "そうだな。\n懸命な判断だ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "強敵だったな…",
+    "translation": "強敵だったな…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここはシャドウの気配が多いな…\nどうする？",
+    "translation": "ここはシャドウの気配が多いな…\nどうする？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "気を抜かずに行くぞ。",
+    "translation": "気を抜かずに行くぞ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだな。\n止めておこう。",
+    "translation": "そうだな。\n止めておこう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "よし。これで終わりか。",
+    "translation": "よし。これで終わりか。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから映画館に戻れるな。\nどうする？",
+    "translation": "ここから映画館に戻れるな。\nどうする？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

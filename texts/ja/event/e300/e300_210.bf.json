@@ -1,0 +1,1143 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ちょ、いきなり真っ暗なんですけど！？",
+    "translation": "ちょ、いきなり真っ暗なんですけど！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_000_05_0",
+    "original": "もしかして、\n閉じ込められちゃいました！？",
+    "translation": "もしかして、\n閉じ込められちゃいました！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "チッ、罠か！？",
+    "translation": "チッ、罠か！？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "個体識別番号ＴＫ－００、０１。\nＹＳ－０２、０５、０７。",
+    "translation": "個体識別番号ＴＫ－００、０１。\nＹＳ－０２、０５、０７。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "ＩＷ－０２、０３、０９。\nＵＩＹ－２２４９。",
+    "translation": "ＩＷ－０２、０３、０９。\nＵＩＹ－２２４９。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "『パワー』適正テストを開始します。\n１トンを所定の場所に運んでください。",
+    "translation": "『パワー』適正テストを開始します。\n１トンを所定の場所に運んでください。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "はあっ！？\n１トンって…１０００キロ！？",
+    "translation": "はあっ！？\n１トンって…１０００キロ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "また、労働作業には協調性も問われます。\n達成しなかった場合は連帯責任です。",
+    "translation": "また、労働作業には協調性も問われます。\n達成しなかった場合は連帯責任です。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "全員、重大なエラーがあるとみなし、\nこの場で処分します。",
+    "translation": "全員、重大なエラーがあるとみなし、\nこの場で処分します。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_004_2",
+    "original": "制限時間は１０分です。\nそれでは、開始してください。",
+    "translation": "制限時間は１０分です。\nそれでは、開始してください。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ココどこ！？\nちゅーか、処分ってナニー！？",
+    "translation": "ココどこ！？\nちゅーか、処分ってナニー！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "おいおい、１トンってマジかよ？",
+    "translation": "おいおい、１トンってマジかよ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いっぺんに１トンを運ぶわけじゃ\nなさそうだぞ。あそこを見ろ。",
+    "translation": "いっぺんに１トンを運ぶわけじゃ\nなさそうだぞ。あそこを見ろ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "重量計か…",
+    "translation": "重量計か…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "あそこに積まれてる箱みたいなのを運んで、\n合計で１トンにしろってことか。",
+    "translation": "あそこに積まれてる箱みたいなのを運んで、\n合計で１トンにしろってことか。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ハッ、運ぶだけなら楽勝っしょ！\nまとめて持ってけば、あっという間に…",
+    "translation": "ハッ、運ぶだけなら楽勝っしょ！\nまとめて持ってけば、あっという間に…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "って、重っ！\n何キロあんだこれ！？",
+    "translation": "って、重っ！\n何キロあんだこれ！？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "んーと…\n４０キロって書いてあるクマ。",
+    "translation": "んーと…\n４０キロって書いてあるクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "軽いな",
+    "translation": "軽いな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "重い…",
+    "translation": "重い…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_2",
+    "original": "よく分からない",
+    "translation": "よく分からない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "２リットルペットボトル２０本分か…\n野郎はともかく、里中にはキツくねえか？",
+    "translation": "２リットルペットボトル２０本分か…\n野郎はともかく、里中にはキツくねえか？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "う…いっぺんに４０キロは\nちょっと自信ないかも…",
+    "translation": "う…いっぺんに４０キロは\nちょっと自信ないかも…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "持つ前から、弱音を吐くな。\nこれもちょうど良いトレーニングだ。",
+    "translation": "持つ前から、弱音を吐くな。\nこれもちょうど良いトレーニングだ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "１０キロのダンベル４つ分だな。\nトレーニングだと思えば楽勝だ。",
+    "translation": "１０キロのダンベル４つ分だな。\nトレーニングだと思えば楽勝だ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "そっすね、楽勝楽勝…\nって、そんなの真田サンだけっしょ！？",
+    "translation": "そっすね、楽勝楽勝…\nって、そんなの真田サンだけっしょ！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "そだ、リボン！　一気に運べねーか？\nロボットならイケんじゃね？",
+    "translation": "そだ、リボン！　一気に運べねーか？\nロボットならイケんじゃね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "申し訳アリマセン。\nワタシの最大積載荷重は２０キロデス。",
+    "translation": "申し訳アリマセン。\nワタシの最大積載荷重は２０キロデス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "じゃあ、リボンちゃんは\nあたしと一緒に運ぼ！",
+    "translation": "じゃあ、リボンちゃんは\nあたしと一緒に運ぼ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "えーっと、全部で１トンだから…\n何個運べばいいんだっけ？",
+    "translation": "えーっと、全部で１トンだから…\n何個運べばいいんだっけ？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "２５個デス。運び手はワタシたち以外に\n七名いますので、平均３．１２５往復デス。",
+    "translation": "２５個デス。運び手はワタシたち以外に\n七名いますので、平均３．１２５往復デス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "やるしかねーか。\nンじゃ、よいしょっと…",
+    "translation": "やるしかねーか。\nンじゃ、よいしょっと…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "ぐえ…これヤバい、腰やられるって！\n１分後にここ選んだの後悔するやつ！",
+    "translation": "ぐえ…これヤバい、腰やられるって！\n１分後にここ選んだの後悔するやつ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "うぷぷ。もう後悔しとるクマ。",
+    "translation": "うぷぷ。もう後悔しとるクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "グダグダしてる時間はねーぞ、\n急いで運べ！",
+    "translation": "グダグダしてる時間はねーぞ、\n急いで運べ！",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "なんとかして、１箱ずつ運んだ…",
+    "translation": "なんとかして、１箱ずつ運んだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ヤバい、完全になめてた…死ぬ。",
+    "translation": "ヤバい、完全になめてた…死ぬ。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "つか、マジきっつ…\n想像よりはるかに重いわ…",
+    "translation": "つか、マジきっつ…\n想像よりはるかに重いわ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "そういえばクマ、か弱い美少年だから\nこういうの無理だったクマ…",
+    "translation": "そういえばクマ、か弱い美少年だから\nこういうの無理だったクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "まだ３２０キロだぞ。残り６８０キロも\nあるのに、バテてる場合か！",
+    "translation": "まだ３２０キロだぞ。残り６８０キロも\nあるのに、バテてる場合か！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "あと２往復とちょいか…\n残りは何分だ？",
+    "translation": "あと２往復とちょいか…\n残りは何分だ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "６分２８秒デス。",
+    "translation": "６分２８秒デス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "チッ、このまま行くしかねぇか！？",
+    "translation": "チッ、このまま行くしかねぇか！？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "SEL_032_0",
+    "original": "別の方法を考えよう",
+    "translation": "別の方法を考えよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_032_1",
+    "original": "やるしかない",
+    "translation": "やるしかない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_032_2",
+    "original": "どうすればいい？",
+    "translation": "どうすればいい？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "だが、今はその時間も惜しい。\n体を動かしながら考えるしかないぞ。",
+    "translation": "だが、今はその時間も惜しい。\n体を動かしながら考えるしかないぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "だが、正攻法だとタイムオーバーに\nなっちまうな。別の方法がありゃ…",
+    "translation": "だが、正攻法だとタイムオーバーに\nなっちまうな。別の方法がありゃ…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "今は考える時間も惜しい。\n体を動かしながら考えるしかないぞ。",
+    "translation": "今は考える時間も惜しい。\n体を動かしながら考えるしかないぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "こっちに訊くんスか！？\nあーと、なんか別の方法…あるっスかね？",
+    "translation": "こっちに訊くんスか！？\nあーと、なんか別の方法…あるっスかね？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "今は考える時間も惜しい。\n体を動かしながら考えるしかないぞ。",
+    "translation": "今は考える時間も惜しい。\n体を動かしながら考えるしかないぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "うっし！　もっぺん行くぞ！",
+    "translation": "うっし！　もっぺん行くぞ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "ハァハァ…ハァ…\n腰と腕がガックガク…２往復で限界…",
+    "translation": "ハァハァ…ハァ…\n腰と腕がガックガク…２往復で限界…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "ハァ、ハァ…\n別の方法、誰か思いついた…？",
+    "translation": "ハァ、ハァ…\n別の方法、誰か思いついた…？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "残りの箱、クマの着ぐるみにぶっ込んで、\nクマごと転がしてくってのはどうスか？",
+    "translation": "残りの箱、クマの着ぐるみにぶっ込んで、\nクマごと転がしてくってのはどうスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "おお、ナイスアイデア！\nクマくんの中スカスカっぽいし、入るかも？",
+    "translation": "おお、ナイスアイデア！\nクマくんの中スカスカっぽいし、入るかも？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "ちょっと！\nクマの中は四次元じゃないクマ！",
+    "translation": "ちょっと！\nクマの中は四次元じゃないクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_043_1",
+    "original": "それにクマ皮だって本皮だから、こう見えて\nけっこー重いの！　スタミナもたないの！",
+    "translation": "それにクマ皮だって本皮だから、こう見えて\nけっこー重いの！　スタミナもたないの！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "なんで『力』に来たんだよっ！？",
+    "translation": "なんで『力』に来たんだよっ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "残り時間、２分３０秒デス。",
+    "translation": "残り時間、２分３０秒デス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "チッ、時間がねーぞ。残り３６０キロ、\nいっぺんに片付けねえと、もう無理だ。",
+    "translation": "チッ、時間がねーぞ。残り３６０キロ、\nいっぺんに片付けねえと、もう無理だ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "なあ、おい！\n怪盗団の知恵とかで、なんか方法ねーのか？",
+    "translation": "なあ、おい！\n怪盗団の知恵とかで、なんか方法ねーのか？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "SEL_048_0",
+    "original": "無茶いうな",
+    "translation": "無茶いうな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_048_1",
+    "original": "自分たちが重りになる",
+    "translation": "自分たちが重りになる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_048_2",
+    "original": "竜司に任せよう",
+    "translation": "竜司に任せよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "だが、無茶をしてでも\nここは乗り切らないと…",
+    "translation": "だが、無茶をしてでも\nここは乗り切らないと…",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "…そうか、無茶だ！\n無茶をすればいい！",
+    "translation": "…そうか、無茶だ！\n無茶をすればいい！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "なに思いついたんだ？",
+    "translation": "なに思いついたんだ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "重量計の表示が１トンになればいいんだろ？",
+    "translation": "重量計の表示が１トンになればいいんだろ？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_052_1",
+    "original": "なら、載せるのは全て\n箱じゃなくてもいいんじゃないのか？",
+    "translation": "なら、載せるのは全て\n箱じゃなくてもいいんじゃないのか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_052_2",
+    "original": "俺たちが乗れば、重りの代わりになる。",
+    "translation": "俺たちが乗れば、重りの代わりになる。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "あっ、なるほど！\n重量計が１トンになればいいのか！",
+    "translation": "あっ、なるほど！\n重量計が１トンになればいいのか！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "確かに、載せるのは全て箱という\nルールはなかったはずだな。",
+    "translation": "確かに、載せるのは全て箱という\nルールはなかったはずだな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_054_1",
+    "original": "フッ、よく思いついたじゃないか。\nグッジョブ！",
+    "translation": "フッ、よく思いついたじゃないか。\nグッジョブ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "は！？　どんな無茶ぶり！？",
+    "translation": "は！？　どんな無茶ぶり！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "…そうか、無茶だ！\n無茶をすればいい！",
+    "translation": "…そうか、無茶だ！\n無茶をすればいい！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "なに思いついたんだ？",
+    "translation": "なに思いついたんだ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "重量計の表示が１トンになればいいんだろ？",
+    "translation": "重量計の表示が１トンになればいいんだろ？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_058_1",
+    "original": "なら、載せるのは全て\n箱じゃなくてもいいんじゃないのか？",
+    "translation": "なら、載せるのは全て\n箱じゃなくてもいいんじゃないのか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_058_2",
+    "original": "俺たちが乗れば、重りの代わりになる。",
+    "translation": "俺たちが乗れば、重りの代わりになる。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "おお！　そういうことなら、\nさっそく乗ってみるっス！！",
+    "translation": "おお！　そういうことなら、\nさっそく乗ってみるっス！！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "やった、増えた！！",
+    "translation": "やった、増えた！！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "よっしゃ！\nみんな続いてのろうぜ！",
+    "translation": "よっしゃ！\nみんな続いてのろうぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_061_1",
+    "original": "リボンも入れて、俺たち全員でのれば\nだいぶいい数字になるだろ！",
+    "translation": "リボンも入れて、俺たち全員でのれば\nだいぶいい数字になるだろ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_062_0",
+    "original": "ま、待って！\n一人ずつのるのは止めよ！？",
+    "translation": "ま、待って！\n一人ずつのるのは止めよ！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_063_0",
+    "original": "ハイハイ、分かってるって。\nじゃあ、せーのでのるぞ。",
+    "translation": "ハイハイ、分かってるって。\nじゃあ、せーのでのるぞ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_063_1",
+    "original": "いくぞ、せーの！",
+    "translation": "いくぞ、せーの！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_064_0",
+    "original": "お、１１６２キロ！",
+    "translation": "お、１１６２キロ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_065_0",
+    "original": "１６２キロオーバーです。\nやり直してください。",
+    "translation": "１６２キロオーバーです。\nやり直してください。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_066_0",
+    "original": "どうやら、１トンジャストじゃないと\nダメみたいだな。",
+    "translation": "どうやら、１トンジャストじゃないと\nダメみたいだな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_067_0",
+    "original": "いったん降りて、一人ずつのってく？",
+    "translation": "いったん降りて、一人ずつのってく？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_068_0",
+    "original": "ちょっ、やだやだ！\n体重の公開とか無理だってば！",
+    "translation": "ちょっ、やだやだ！\n体重の公開とか無理だってば！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_069_0",
+    "original": "４０キロ単位は箱で調整できるにしても、\n１６２キロだと足がでるな。どうする？",
+    "translation": "４０キロ単位は箱で調整できるにしても、\n１６２キロだと足がでるな。どうする？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "SEL_070_0",
+    "original": "千枝がおりる",
+    "translation": "千枝がおりる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_070_1",
+    "original": "完二がおりる",
+    "translation": "完二がおりる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_070_2",
+    "original": "クマが脱ぐ",
+    "translation": "クマが脱ぐ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_071_0",
+    "original": "ムリ！　色々バレる！\n絶対、意地でもおりないから！",
+    "translation": "ムリ！　色々バレる！\n絶対、意地でもおりないから！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_072_0",
+    "original": "もう時間がないぞ！",
+    "translation": "もう時間がないぞ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_073_0",
+    "original": "クソッ、こうなったら…\nオイ、クマ！　脱げ！",
+    "translation": "クソッ、こうなったら…\nオイ、クマ！　脱げ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_074_0",
+    "original": "ギャー！　カンジがご乱心！\nおーそーわーれーるー！",
+    "translation": "ギャー！　カンジがご乱心！\nおーそーわーれーるー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_075_0",
+    "original": "オレ、６５キロなんスけど\n大丈夫っスかね？",
+    "translation": "オレ、６５キロなんスけど\n大丈夫っスかね？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_076_0",
+    "original": "ダメだ、それだと計算が合わん。\nもう時間がないぞ！",
+    "translation": "ダメだ、それだと計算が合わん。\nもう時間がないぞ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_077_0",
+    "original": "クソッ、こうなったら…\nオイ、クマ！　脱げ！",
+    "translation": "クソッ、こうなったら…\nオイ、クマ！　脱げ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_078_0",
+    "original": "ギャー！　カンジがご乱心！\nおーそーわーれーるー！",
+    "translation": "ギャー！　カンジがご乱心！\nおーそーわーれーるー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_079_0",
+    "original": "およ！？\nクマが美少年だからって、そんな大胆な…",
+    "translation": "およ！？\nクマが美少年だからって、そんな大胆な…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_080_0",
+    "original": "いいから脱げって！\nファスナー、これか？",
+    "translation": "いいから脱げって！\nファスナー、これか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_081_0",
+    "original": "皮！　皮挟んでるクマ！\nウギャァアア～！",
+    "translation": "皮！　皮挟んでるクマ！\nウギャァアア～！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_082_0",
+    "original": "おい、ふざけてる場合じゃねえぞ。\nこのままじゃ本当に…",
+    "translation": "おい、ふざけてる場合じゃねえぞ。\nこのままじゃ本当に…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_083_0",
+    "original": "って、なんだこりゃ！？\nクマん中、なんかいっぱい詰まってんぞ！",
+    "translation": "って、なんだこりゃ！？\nクマん中、なんかいっぱい詰まってんぞ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_084_0",
+    "original": "なにコレ、ポップコーン！？",
+    "translation": "なにコレ、ポップコーン！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_084_1",
+    "original": "他にもジュースとかチョコとか…\nうわ、どんどん出てくる！",
+    "translation": "他にもジュースとかチョコとか…\nうわ、どんどん出てくる！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_085_0",
+    "original": "どんだけ隠し持ってたんだよ！？",
+    "translation": "どんだけ隠し持ってたんだよ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_086_0",
+    "original": "クマの隠しオヤツを見つけるとは…\nんもー、アンタも好きクマね～。",
+    "translation": "クマの隠しオヤツを見つけるとは…\nんもー、アンタも好きクマね～。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_087_0",
+    "original": "２キロはありそうだな。\nよし、出すぞ！",
+    "translation": "２キロはありそうだな。\nよし、出すぞ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_088_0",
+    "original": "やめて、クマのオヤツがぁぁ～！\nイーーーヤーーー！",
+    "translation": "やめて、クマのオヤツがぁぁ～！\nイーーーヤーーー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_089_0",
+    "original": "おお、１１６０キロきた！",
+    "translation": "おお、１１６０キロきた！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_090_0",
+    "original": "でかした！\nあとは箱を４つ落とせば…",
+    "translation": "でかした！\nあとは箱を４つ落とせば…",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_091_0",
+    "original": "１トンを確認しました。\n『パワー』適正テストを終了します。",
+    "translation": "１トンを確認しました。\n『パワー』適正テストを終了します。",
+    "stage": 1,
+    "context": "試験メッセージ"
+  },
+  {
+    "key": "MSG_092_0",
+    "original": "うおっしゃあー！\nギリギリクリア！",
+    "translation": "うおっしゃあー！\nギリギリクリア！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_093_0",
+    "original": "うううっ…クマのオヤツが…\nポーンって消えたクマ…",
+    "translation": "うううっ…クマのオヤツが…\nポーンって消えたクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_094_0",
+    "original": "まぁまぁ、落ち込まないでよ。\nあとでポップコーン買ってあげるからさ！",
+    "translation": "まぁまぁ、落ち込まないでよ。\nあとでポップコーン買ってあげるからさ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_094_1",
+    "original": "…たぶん、花村が。",
+    "translation": "…たぶん、花村が。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_095_0",
+    "original": "ふいー、あっぶなかったぁ…\nマジで処分されるかと思ったわ…",
+    "translation": "ふいー、あっぶなかったぁ…\nマジで処分されるかと思ったわ…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_096_0",
+    "original": "検査終了を確認…ですガ、コレは\n本来の検査工程からハ逸脱シテいマス。",
+    "translation": "検査終了を確認…ですガ、コレは\n本来の検査工程からハ逸脱シテいマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_097_0",
+    "original": "チッチッチ。クマの可能性は、\n機械なんかじゃ計れないっちゅーワケ。",
+    "translation": "チッチッチ。クマの可能性は、\n機械なんかじゃ計れないっちゅーワケ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_098_0",
+    "original": "……？",
+    "translation": "……？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_099_0",
+    "original": "ロボットは命じられたことしかしねえから、\nこういう抜け道は対策してねえんだろ。",
+    "translation": "ロボットは命じられたことしかしねえから、\nこういう抜け道は対策してねえんだろ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_100_0",
+    "original": "これも、人間サマの知恵ってやつでしょ！\nクリアには違いないですし。",
+    "translation": "これも、人間サマの知恵ってやつでしょ！\nクリアには違いないですし。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_101_0",
+    "original": "どんな形でも、試験はクリアしたんだ。",
+    "translation": "どんな形でも、試験はクリアしたんだ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_101_1",
+    "original": "解除スイッチとやらを押したら、\nさっさと戻るぞ。",
+    "translation": "解除スイッチとやらを押したら、\nさっさと戻るぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_102_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_103_0",
+    "original": "一方、その頃…\n『知識』の試験部屋…",
+    "translation": "一方、その頃…\n『知識』の試験部屋…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_104_0",
+    "original": "いいぞ、相棒！\nまた正解したな、さすが！",
+    "translation": "いいぞ、相棒！\nまた正解したな、さすが！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_105_0",
+    "original": "応援もいいけど、花村君も頑張って？\nまだ回答してないんだから。",
+    "translation": "応援もいいけど、花村君も頑張って？\nまだ回答してないんだから。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_106_0",
+    "original": "あはは…分かってますって！\nこれから本気見せるんで！",
+    "translation": "あはは…分かってますって！\nこれから本気見せるんで！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_107_0",
+    "original": "期待してるぞ、陽介。\nみんなで必ず、ここを突破しよう。",
+    "translation": "期待してるぞ、陽介。\nみんなで必ず、ここを突破しよう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_108_0",
+    "original": "ああ、やるぞ！",
+    "translation": "ああ、やるぞ！",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_109_0",
+    "original": "また一方、その頃…\n『適応能力』の試験部屋…",
+    "translation": "また一方、その頃…\n『適応能力』の試験部屋…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_110_0",
+    "original": "私が先頭に立って進むから、\nみんな後に続いて！",
+    "translation": "私が先頭に立って進むから、\nみんな後に続いて！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_111_0",
+    "original": "うん、やってみる！",
+    "translation": "うん、やってみる！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_112_0",
+    "original": "ぼ、僕も頑張ってみます！",
+    "translation": "ぼ、僕も頑張ってみます！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_113_0",
+    "original": "すごっ…[P3P名]ちゃん、\nみんなを引っ張ってってる。",
+    "translation": "すごっ…[P3P名]ちゃん、\nみんなを引っ張ってってる。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_114_0",
+    "original": "うん、すごく頼りになる。",
+    "translation": "うん、すごく頼りになる。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_115_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_試験メッセージ",
+    "original": "試験メッセージ",
+    "translation": "試験メッセージ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  }
+]

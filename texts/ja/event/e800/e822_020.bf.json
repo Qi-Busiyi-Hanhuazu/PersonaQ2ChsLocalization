@@ -1,0 +1,191 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ターゲットは守護の巨兵３体。\n心してかかれよ。",
+    "translation": "ターゲットは守護の巨兵３体。\n心してかかれよ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "行くぞケン、しっかりついて来い！",
+    "translation": "行くぞケン、しっかりついて来い！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あ、あの、怪盗って、敵を物影や背後から\nこっそり仕留めたりするんですよね？",
+    "translation": "あ、あの、怪盗って、敵を物影や背後から\nこっそり仕留めたりするんですよね？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "ステルスだな",
+    "translation": "ステルスだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "普段はやってる",
+    "translation": "普段はやってる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_2",
+    "original": "あの力があれば…",
+    "translation": "あの力があれば…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "本当にやるんだ…",
+    "translation": "本当にやるんだ…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "じゃ、じゃあ、高い塀を伝ったり\n赤外線をくぐったりも？",
+    "translation": "じゃ、じゃあ、高い塀を伝ったり\n赤外線をくぐったりも？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あー、そういうのもやるね…",
+    "translation": "あー、そういうのもやるね…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "だよね。あれが出来れば\nもっとラクに倒せそうなのに…",
+    "translation": "だよね。あれが出来れば\nもっとラクに倒せそうなのに…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "つか、いつも通りなら進むのも\nあっという間だよな。",
+    "translation": "つか、いつも通りなら進むのも\nあっという間だよな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "パレスで、散々高いトコよじ登って、\n赤外線くぐったりもしてたし。",
+    "translation": "パレスで、散々高いトコよじ登って、\n赤外線くぐったりもしてたし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ほ、本当にやるんだ…",
+    "translation": "ほ、本当にやるんだ…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "それにしてもケン、\n怪盗のことよく知ってんな。",
+    "translation": "それにしてもケン、\n怪盗のことよく知ってんな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "え？　ま、まあ…\n本とか映画の知識ですけど。",
+    "translation": "え？　ま、まあ…\n本とか映画の知識ですけど。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "上出来だ。ひょっとしたら、\nスカルよりずっと素養があるかもな。",
+    "translation": "上出来だ。ひょっとしたら、\nスカルよりずっと素養があるかもな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "んだと！？",
+    "translation": "んだと！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "はいはい、その体力は敵に取っといて。\nもう行くよ。",
+    "translation": "はいはい、その体力は敵に取っといて。\nもう行くよ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_014_0",
+    "original": "ミッション、スタートだ",
+    "translation": "ミッション、スタートだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_1",
+    "original": "はじめよう",
+    "translation": "はじめよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_2",
+    "original": "ついてこい",
+    "translation": "ついてこい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "はい！",
+    "translation": "はい！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

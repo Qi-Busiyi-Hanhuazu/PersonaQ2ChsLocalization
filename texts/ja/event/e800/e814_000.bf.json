@@ -1,0 +1,366 @@
+[
+  {
+    "key": "MSG_000_0_0",
+    "original": "行き止まりだ…",
+    "translation": "行き止まりだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "…そういうのはよ、ツウしか知らねえような\n穴場のラーメン屋でも連れてきゃ一発だろ？",
+    "translation": "…そういうのはよ、ツウしか知らねえような\n穴場のラーメン屋でも連れてきゃ一発だろ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "バッカ、お前ら。女の子が喜ぶのは、\nもっとこう、ロマンティックなんだよ！",
+    "translation": "バッカ、お前ら。女の子が喜ぶのは、\nもっとこう、ロマンティックなんだよ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "丘とか高台とかさぁ、色々あるだろ？\nキレイな夜景の見えるとこ！",
+    "translation": "丘とか高台とかさぁ、色々あるだろ？\nキレイな夜景の見えるとこ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "いや、丘ってどこだよ。\nうちの近所にねーし。",
+    "translation": "いや、丘ってどこだよ。\nうちの近所にねーし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "山じゃダメなんスか？",
+    "translation": "山じゃダメなんスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "アホか！　山じゃガチすぎんだよ！",
+    "translation": "アホか！　山じゃガチすぎんだよ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "ちょっと夜に肌寒くなって、自然と二人が\n体を寄せ合っちゃうようなさ…分かるか？",
+    "translation": "ちょっと夜に肌寒くなって、自然と二人が\n体を寄せ合っちゃうようなさ…分かるか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "や、分かんねっス…",
+    "translation": "や、分かんねっス…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "なんか盛り上がってるね、あそこ。",
+    "translation": "なんか盛り上がってるね、あそこ。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "何の話してるんだろ？\n丘とか、夜景とか。",
+    "translation": "何の話してるんだろ？\n丘とか、夜景とか。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あー、聞こえちゃってました？",
+    "translation": "あー、聞こえちゃってました？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "いやさ、誰が一番スマートなデートプラン\n立てられるかって話になっちゃって。",
+    "translation": "いやさ、誰が一番スマートなデートプラン\n立てられるかって話になっちゃって。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "理想のデートってどんなん、とか\nいきなり言われてもよ…",
+    "translation": "理想のデートってどんなん、とか\nいきなり言われてもよ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "別に、行きたいとこ行けばいいんじゃね？\nスポーツジムとか。",
+    "translation": "別に、行きたいとこ行けばいいんじゃね？\nスポーツジムとか。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "だから、女の子が喜ぶデートスポットと\n自分が行きたいトコとは違うだろ？",
+    "translation": "だから、女の子が喜ぶデートスポットと\n自分が行きたいトコとは違うだろ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "花村先輩の丘も、どうなんスかね。\n虫とかきそうっスけど…",
+    "translation": "花村先輩の丘も、どうなんスかね。\n虫とかきそうっスけど…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "つーか、女子に正解きいたほうが早くね？",
+    "translation": "つーか、女子に正解きいたほうが早くね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "なあなあ。\nラーメン屋と丘、行くならどっちがいい？",
+    "translation": "なあなあ。\nラーメン屋と丘、行くならどっちがいい？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "えっ、その二択しかないの？",
+    "translation": "えっ、その二択しかないの？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "大事なのは、どこに行くかよりも\n誰と行くかだよね。",
+    "translation": "大事なのは、どこに行くかよりも\n誰と行くかだよね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ユキチャンとなら、クマはどこに行っても\n楽しめますぞ～！",
+    "translation": "ユキチャンとなら、クマはどこに行っても\n楽しめますぞ～！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "そんでねー、ユキチャンと一緒に逆ナン…",
+    "translation": "そんでねー、ユキチャンと一緒に逆ナン…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "燃き尽くす！　コノハナサクヤ！",
+    "translation": "燃き尽くす！　コノハナサクヤ！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ギャー！　ほんの冗談でクマー！",
+    "translation": "ギャー！　ほんの冗談でクマー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "相変わらず容赦ねーな、天城…\n黙ってりゃ、おしとやかなお嬢様なのに。",
+    "translation": "相変わらず容赦ねーな、天城…\n黙ってりゃ、おしとやかなお嬢様なのに。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "お嬢様っていや、\nうちのノワールも相当だけどな。",
+    "translation": "お嬢様っていや、\nうちのノワールも相当だけどな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "何たって、大企業の社長令嬢だし。",
+    "translation": "何たって、大企業の社長令嬢だし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そんな…\n別に、みんなと何も変わらないから。",
+    "translation": "そんな…\n別に、みんなと何も変わらないから。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "いやいや、上品さとか気品っつーの？\nそういうのバッチリ出てるぜ。",
+    "translation": "いやいや、上品さとか気品っつーの？\nそういうのバッチリ出てるぜ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "うん、姿勢とか所作がすごく綺麗で\nしっかりしてるよね。",
+    "translation": "うん、姿勢とか所作がすごく綺麗で\nしっかりしてるよね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ありがとう。小さい頃から親に厳しく言われ\nてたから、身体に染みついてるのかも。",
+    "translation": "ありがとう。小さい頃から親に厳しく言われ\nてたから、身体に染みついてるのかも。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "でも、雪子ちゃんだって素敵だよ。\nしなやかで、凛としてて。",
+    "translation": "でも、雪子ちゃんだって素敵だよ。\nしなやかで、凛としてて。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "あ、ありがとうございます。",
+    "translation": "あ、ありがとうございます。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "私も、親から言われるがままに\nしてただけなんですけど…",
+    "translation": "私も、親から言われるがままに\nしてただけなんですけど…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "そっか…そっちもなんだね。",
+    "translation": "そっか…そっちもなんだね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "しかし、ノワールも\n戦いとなれば豪胆そのもの。",
+    "translation": "しかし、ノワールも\n戦いとなれば豪胆そのもの。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "その意外性が、ノワールの気品を\nいっそう引き立てているな。",
+    "translation": "その意外性が、ノワールの気品を\nいっそう引き立てているな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_026_2",
+    "original": "しとやかながらも激情家…\n二人とも、通ずる所があるかも知れん。",
+    "translation": "しとやかながらも激情家…\n二人とも、通ずる所があるかも知れん。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "…で、結局ラーメン屋なんスか？\n丘なんスか？",
+    "translation": "…で、結局ラーメン屋なんスか？\n丘なんスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "えっ、その話まだするの？\n結構どうでもいいよね？",
+    "translation": "えっ、その話まだするの？\n結構どうでもいいよね？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "うん、かなりどうでもいい。",
+    "translation": "うん、かなりどうでもいい。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "はは…デスヨネー…",
+    "translation": "はは…デスヨネー…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "二人揃うと、攻撃力パネェ…",
+    "translation": "二人揃うと、攻撃力パネェ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "特別上映『それぞれの鎖』が\nチケットカウンターに追加されました。",
+    "translation": "特別上映『それぞれの鎖』が\nチケットカウンターに追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

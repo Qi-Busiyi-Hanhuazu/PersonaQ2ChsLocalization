@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Y_FCL_DIALOG_MSG_EITHER_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "Y_FCL_DIALOG_MSG_EITHER_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "Y_FCLSHOP_BUY_MSG2_0",
+    "original": "＞[占位B 01]を購入しますか？",
+    "translation": "＞是否购买[占位B 01]？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞是否购买[占位B 01]？\n\n＞购买[占位B 01]吗？\n\n＞购买[占位B 01]？"
+  },
+  {
+    "key": "speaker_　",
+    "original": "　",
+    "translation": "　",
+    "stage": 0,
+    "context": ""
+  }
+]

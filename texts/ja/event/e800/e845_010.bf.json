@@ -1,0 +1,296 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "皆様、長らくお待たせいたしました。",
+    "translation": "皆様、長らくお待たせいたしました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "先にご依頼を受けた『特別上映』の準備が\n整いましたことをお伝えいたします。",
+    "translation": "先にご依頼を受けた『特別上映』の準備が\n整いましたことをお伝えいたします。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "何の話？",
+    "translation": "何の話？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "覚えがない",
+    "translation": "覚えがない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "はて？　これは面妖な。",
+    "translation": "はて？　これは面妖な。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1_0",
+    "original": "ひかり様の映画にて、Ｆ．Ｏ．Ｅとの対決を\nご所望と聞き及んでおりますが。",
+    "translation": "ひかり様の映画にて、Ｆ．Ｏ．Ｅとの対決を\nご所望と聞き及んでおりますが。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "私の映画のＦ．Ｏ．Ｅ…？\nあのちょっと可愛いクマさん？",
+    "translation": "私の映画のＦ．Ｏ．Ｅ…？\nあのちょっと可愛いクマさん？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "はいはーい！\nぷりちーなクマクマがどうかしたクマ？",
+    "translation": "はいはーい！\nぷりちーなクマクマがどうかしたクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "えっと、クマくんのことじゃなくて、\nクマはクマでも映画のクマさんの話で…",
+    "translation": "えっと、クマくんのことじゃなくて、\nクマはクマでも映画のクマさんの話で…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ヨヨヨ…ヒカリンはクマのクマより、\nクマクマしいクマの方がお好みクマか…？",
+    "translation": "ヨヨヨ…ヒカリンはクマのクマより、\nクマクマしいクマの方がお好みクマか…？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "気を落とすな、クマはクマだ。\nクマはクマでクマのクマらしさがある。",
+    "translation": "気を落とすな、クマはクマだ。\nクマはクマでクマのクマらしさがある。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "クマクマづくしであります。",
+    "translation": "クマクマづくしであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "んなことより、クマ野郎と対決ってマジか？\nつか、誰が勝手にそんな…",
+    "translation": "んなことより、クマ野郎と対決ってマジか？\nつか、誰が勝手にそんな…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "はい、皆様の満場一致で決定したと\nおクマ様が申しておりました。",
+    "translation": "はい、皆様の満場一致で決定したと\nおクマ様が申しておりました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "うんむ、確かに申したクマ。",
+    "translation": "うんむ、確かに申したクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "お前かよ！\n勝手に申してんじゃねえ！",
+    "translation": "お前かよ！\n勝手に申してんじゃねえ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "だってー、クマ界で誰が一番強いか、\nみんな興味あるでしょー？",
+    "translation": "だってー、クマ界で誰が一番強いか、\nみんな興味あるでしょー？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "んなニッチな争いに\n俺らを巻き込むなっつの！",
+    "translation": "んなニッチな争いに\n俺らを巻き込むなっつの！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "いいじゃないか、陽介。",
+    "translation": "いいじゃないか、陽介。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_015_1_0",
+    "original": "危険な敵だが、強い相手と戦う経験は、\n無駄にはならないんじゃないか？",
+    "translation": "危険な敵だが、強い相手と戦う経験は、\n無駄にはならないんじゃないか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "あー、そこはまあそうだけどさ…",
+    "translation": "あー、そこはまあそうだけどさ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "はい、クマさんはこの先の戦いを\n見据えていらっしゃるのでは？",
+    "translation": "はい、クマさんはこの先の戦いを\n見据えていらっしゃるのでは？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "トーゼンですたい！\nセンセイもアイチャンもわかってるクマね！",
+    "translation": "トーゼンですたい！\nセンセイもアイチャンもわかってるクマね！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ハァ…お前はもう黙っとけ。",
+    "translation": "ハァ…お前はもう黙っとけ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "クマＦ．Ｏ．Ｅと対決か…\nどうするよ、[P5姓]？",
+    "translation": "クマＦ．Ｏ．Ｅと対決か…\nどうするよ、[P5姓]？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "SEL_021_0",
+    "original": "望むところだ",
+    "translation": "望むところだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_021_1",
+    "original": "仕方ない",
+    "translation": "仕方ない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "やったー、決まりね！\nクマ、がぜん張り切って参りました！",
+    "translation": "やったー、決まりね！\nクマ、がぜん張り切って参りました！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "悪いな…ウチのバカクマの\nワガママ聞いてもらって。",
+    "translation": "悪いな…ウチのバカクマの\nワガママ聞いてもらって。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "それではまとまりましたでしょうか。\nこちら、夢の最強クマ決定戦、題して…",
+    "translation": "それではまとまりましたでしょうか。\nこちら、夢の最強クマ決定戦、題して…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_024_1_0",
+    "original": "『頂上決戦！　クマＶＳクマクマ！』\nはじまりクマ～！",
+    "translation": "『頂上決戦！　クマＶＳクマクマ！』\nはじまりクマ～！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "クマ～！！",
+    "translation": "クマ～！！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "クマであります！",
+    "translation": "クマであります！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "お、俺もか？　く、クマ～！",
+    "translation": "お、俺もか？　く、クマ～！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "みんな、相手は強敵のクマさんだよ！\n気をつけてクマ！",
+    "translation": "みんな、相手は強敵のクマさんだよ！\n気をつけてクマ！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "え…なにこのノリ？",
+    "translation": "え…なにこのノリ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  }
+]

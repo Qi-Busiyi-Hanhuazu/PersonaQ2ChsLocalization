@@ -1,0 +1,380 @@
+[
+  {
+    "key": "text_000_0",
+    "original": "【迷宮】エネミーアピアランスについて",
+    "translation": "【迷宮】エネミーアピアランスについて",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_001_0",
+    "original": "【迷宮】オタカラスポットについて",
+    "translation": "【迷宮】オタカラスポットについて",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_002_0",
+    "original": "【迷宮】抜け道について",
+    "translation": "【迷宮】抜け道について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_003_0",
+    "original": "【迷宮】映画館へ帰還した時の回復について",
+    "translation": "【迷宮】映画館へ帰還した時の回復について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_004_0",
+    "original": "【迷宮】踏破率１００％で開く宝箱について",
+    "translation": "【迷宮】踏破率１００％で開く宝箱について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_005_0",
+    "original": "【迷宮】HPの回復について",
+    "translation": "【迷宮】HPの回復について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_006_0",
+    "original": "【迷宮】オートリカバー",
+    "translation": "【迷宮】オートリカバー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_007_0",
+    "original": "【迷宮】基本操作について",
+    "translation": "【迷宮】基本操作について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_008_0",
+    "original": "【迷宮】宝箱について",
+    "translation": "【迷宮】宝箱について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_009_0",
+    "original": "【迷宮】宝の地図について",
+    "translation": "【迷宮】宝の地図について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_010_0",
+    "original": "【迷宮】赤いオタカラスポットについて",
+    "translation": "【迷宮】赤いオタカラスポットについて",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_011_0",
+    "original": "【地図】地図の記載方法について",
+    "translation": "【地図】地図の記載方法について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_012_0",
+    "original": "【地図】Ｆ．Ｏ．Ｅアイコンについて（基礎）",
+    "translation": "【地図】Ｆ．Ｏ．Ｅアイコンについて（基礎）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_013_0",
+    "original": "【地図】Ｆ．Ｏ．Ｅアイコンについて（応用１）",
+    "translation": "【地図】Ｆ．Ｏ．Ｅアイコンについて（応用１）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_014_0",
+    "original": "【地図】Ｆ．Ｏ．Ｅアイコンについて（応用２）",
+    "translation": "【地図】Ｆ．Ｏ．Ｅアイコンについて（応用２）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_015_0",
+    "original": "【バトル】属性と弱点",
+    "translation": "【バトル】属性と弱点",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_016_0",
+    "original": "【バトル】ブースト",
+    "translation": "【バトル】ブースト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_017_0",
+    "original": "【バトル】フィニッシュボーナス",
+    "translation": "【バトル】フィニッシュボーナス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_018_0",
+    "original": "【バトル】レア素材",
+    "translation": "【バトル】レア素材",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_019_0",
+    "original": "【バトル】ブーストの解除と戦略",
+    "translation": "【バトル】ブーストの解除と戦略",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_020_0",
+    "original": "【バトル】アナライズ",
+    "translation": "【バトル】アナライズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_021_0",
+    "original": "【バトル】レアシャドウ",
+    "translation": "【バトル】レアシャドウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_022_0",
+    "original": "【バトル】サブペルソナ",
+    "translation": "【バトル】サブペルソナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_023_0",
+    "original": "【バトル】総攻撃",
+    "translation": "【バトル】総攻撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_024_0",
+    "original": "【バトル】サポートスキル",
+    "translation": "【バトル】サポートスキル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_025_0",
+    "original": "【バトル】バトンタッチ",
+    "translation": "【バトル】バトンタッチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_026_0",
+    "original": "【バトル】控えメンバーの追撃",
+    "translation": "【バトル】控えメンバーの追撃",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_027_0",
+    "original": "【バトル】属性攻撃が効かないシャドウ",
+    "translation": "【バトル】属性攻撃が効かないシャドウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_028_0",
+    "original": "【バトル】サブペルソナの装着",
+    "translation": "【バトル】サブペルソナの装着",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_029_0",
+    "original": "【バトル】状態異常",
+    "translation": "【バトル】状態異常",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_030_0",
+    "original": "【バトル】逃走",
+    "translation": "【バトル】逃走",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_031_0",
+    "original": "【バトル】協力技について",
+    "translation": "【バトル】協力技について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_032_0",
+    "original": "【バトル】協力技の発動について",
+    "translation": "【バトル】協力技の発動について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_033_0",
+    "original": "【バトル】バトル中のアイテム使用",
+    "translation": "【バトル】バトル中のアイテム使用",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_034_0",
+    "original": "【バトル】バトルBGMの変更について",
+    "translation": "【バトル】バトルBGMの変更について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_035_0",
+    "original": "【映画館】ショップについて",
+    "translation": "【映画館】ショップについて",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_036_0",
+    "original": "【映画館】ナビ設定について",
+    "translation": "【映画館】ナビ設定について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_037_0",
+    "original": "【映画館】ヤル気状態について",
+    "translation": "【映画館】ヤル気状態について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_038_0",
+    "original": "【映画館】すれちがい通信について",
+    "translation": "【映画館】すれちがい通信について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_039_0",
+    "original": "【映画館】パーティ編成について",
+    "translation": "【映画館】パーティ編成について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_040_0",
+    "original": "【映画館】素材と新商品について",
+    "translation": "【映画館】素材と新商品について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_041_0",
+    "original": "【映画館】鑑定について",
+    "translation": "【映画館】鑑定について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_042_0",
+    "original": "【映画館】武器や防具に付いている効果について",
+    "translation": "【映画館】武器や防具に付いている効果について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_043_0",
+    "original": "【映画館】特別上映について",
+    "translation": "【映画館】特別上映について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_044_0",
+    "original": "【合体】ペルソナ合体について",
+    "translation": "【合体】ペルソナ合体について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_045_0",
+    "original": "【合体】イケニエ合体について",
+    "translation": "【合体】イケニエ合体について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_046_0",
+    "original": "【合体】ブランクカードについて",
+    "translation": "【合体】ブランクカードについて",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_047_0",
+    "original": "【合体】ワイルドカードについて",
+    "translation": "【合体】ワイルドカードについて",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_048_0",
+    "original": "【合体】特殊合体について",
+    "translation": "【合体】特殊合体について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_049_0",
+    "original": "【特別上映】特別上映用の地図について",
+    "translation": "【特別上映】特別上映用の地図について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_050_0",
+    "original": "【特別上映】特別上映時のみ出現する宝箱について",
+    "translation": "【特別上映】特別上映時のみ出現する宝箱について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_051_0",
+    "original": "【特別上映】チケットの発券について",
+    "translation": "【特別上映】チケットの発券について",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_052_0",
+    "original": "【ＤＬＣ】ＤＬＣ専用サブペルソナについて",
+    "translation": "【ＤＬＣ】ＤＬＣ専用サブペルソナについて",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_053_0",
+    "original": "【ＤＬＣ】ＤＬＣ専用アイテムセットについて",
+    "translation": "【ＤＬＣ】ＤＬＣ専用アイテムセットについて",
+    "stage": 1,
+    "context": ""
+  }
+]

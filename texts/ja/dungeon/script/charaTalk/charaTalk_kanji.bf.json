@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "なんか採れるとこっスね。\nどうするんスか？",
+    "translation": "なんか採れるとこっスね。\nどうするんスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "了解っス！",
+    "translation": "了解っス！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "任せて下さい！",
+    "translation": "任せて下さい！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あ、止めとくんスね。",
+    "translation": "あ、止めとくんスね。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで終わりっスね。",
+    "translation": "これで終わりっスね。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "もらってくぜ。",
+    "translation": "もらってくぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "おう！",
+    "translation": "おう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "やったっスね！",
+    "translation": "やったっスね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "危なかったっスね。\n採れるもんは全部採ったみたいっス。",
+    "translation": "危なかったっスね。\n採れるもんは全部採ったみたいっス。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "すげぇっス！",
+    "translation": "すげぇっス！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ヤバいっスよ！",
+    "translation": "ヤバいっスよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "うお、レア！",
+    "translation": "うお、レア！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "近道みたいっスね。\n通っておくっスか？",
+    "translation": "近道みたいっスね。\n通っておくっスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れねえんスね。",
+    "translation": "こっちは通れねえんスね。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ここ、ヤバくねーっスか？\n嫌な気配がするぜ…",
+    "translation": "ここ、ヤバくねーっスか？\n嫌な気配がするぜ…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "了解っス！\n気合入れて行くっスよ！",
+    "translation": "了解っス！\n気合入れて行くっスよ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そっスね。分かりました。",
+    "translation": "そっスね。分かりました。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "やっぱ出たっスね…\nマジでハンパねっス…",
+    "translation": "やっぱ出たっスね…\nマジでハンパねっス…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここ、シャドウいそうっスね。\nどうすっスか？",
+    "translation": "ここ、シャドウいそうっスね。\nどうすっスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "了解っス！",
+    "translation": "了解っス！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そっスね。\n分かりました。",
+    "translation": "そっスね。\n分かりました。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "これで終わりっスか？",
+    "translation": "これで終わりっスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここ、映画館帰れるみたいっスよ？\nどうするんスか？",
+    "translation": "ここ、映画館帰れるみたいっスよ？\nどうするんスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  }
+]

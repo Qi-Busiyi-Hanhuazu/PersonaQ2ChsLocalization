@@ -1,0 +1,359 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "お？　そこで採取できるぞ！\nどうするんだ？",
+    "translation": "お？　そこで採取できるぞ！\nどうするんだ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_000_1_0",
+    "original": "お？　そこで採取できるぞ！\nどうするんだ？",
+    "translation": "お？　そこで採取できるぞ！\nどうするんだ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そうだな。\n気をつけて探せよ。",
+    "translation": "そうだな。\n気をつけて探せよ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_1_0",
+    "original": "そうだな。\n気をつけて探せよ。",
+    "translation": "そうだな。\n気をつけて探せよ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おう！\nなりふり構うなよ！",
+    "translation": "おう！\nなりふり構うなよ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_1_0",
+    "original": "おう！\nなりふり構うなよ！",
+    "translation": "おう！\nなりふり構うなよ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おけ。\nじゃあ、止めておこう。",
+    "translation": "おけ。\nじゃあ、止めておこう。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_1_0",
+    "original": "おけ。\nじゃあ、止めておこう。",
+    "translation": "おけ。\nじゃあ、止めておこう。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "よし！\n採取任務、完了だ！",
+    "translation": "よし！\n採取任務、完了だ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_1_0",
+    "original": "よし！\n採取任務、完了だ！",
+    "translation": "よし！\n採取任務、完了だ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おっ！",
+    "translation": "おっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ほほー。",
+    "translation": "ほほー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "おおー。",
+    "translation": "おおー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "危なかったな！\n採取はこれでオシマイだぞ。",
+    "translation": "危なかったな！\n採取はこれでオシマイだぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_1_0",
+    "original": "危なかったな！\n採取はこれでオシマイだぞ。",
+    "translation": "危なかったな！\n採取はこれでオシマイだぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "うおっ、すげー！",
+    "translation": "うおっ、すげー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "レアアイテム！",
+    "translation": "レアアイテム！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "やったぞ！！",
+    "translation": "やったぞ！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットみたいだな。\n通るか？",
+    "translation": "ショートカットみたいだな。\n通るか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_1_0",
+    "original": "ショートカットみたいだな。\n通るか？",
+    "translation": "ショートカットみたいだな。\n通るか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "残念。\nこっちは通れないみたいだな。",
+    "translation": "残念。\nこっちは通れないみたいだな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_015_1_0",
+    "original": "残念。\nこっちは通れないみたいだな。",
+    "translation": "残念。\nこっちは通れないみたいだな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "そこのオタカラスポット…\nかなり危険な気配がするぞ？　どうする？",
+    "translation": "そこのオタカラスポット…\nかなり危険な気配がするぞ？　どうする？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_1_0",
+    "original": "そこのオタカラスポット…\nかなり危険な気配がするぞ？　どうする？",
+    "translation": "そこのオタカラスポット…\nかなり危険な気配がするぞ？　どうする？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かった。\n気をつけろよ！",
+    "translation": "分かった。\n気をつけろよ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_019_1_0",
+    "original": "分かった。\n気をつけろよ！",
+    "translation": "分かった。\n気をつけろよ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだな。危険だし、\n注意するに越したことはないな！",
+    "translation": "そうだな。危険だし、\n注意するに越したことはないな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_020_1_0",
+    "original": "そうだな。危険だし、\n注意するに越したことはないな！",
+    "translation": "そうだな。危険だし、\n注意するに越したことはないな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ヤベー強かったな…\nしばらくノーサンキューだぞ。",
+    "translation": "ヤベー強かったな…\nしばらくノーサンキューだぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_021_1_0",
+    "original": "ヤベー強かったな…\nしばらくノーサンキューだぞ。",
+    "translation": "ヤベー強かったな…\nしばらくノーサンキューだぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここ、シャドウの気配が多いぞ！\n気をつけろよ！",
+    "translation": "ここ、シャドウの気配が多いぞ！\n気をつけろよ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_022_1_0",
+    "original": "ここ、シャドウの気配が多いぞ！\n気をつけろよ！",
+    "translation": "ここ、シャドウの気配が多いぞ！\n気をつけろよ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "よし！　しっかり警戒しろ！",
+    "translation": "よし！　しっかり警戒しろ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_023_1_0",
+    "original": "よし！　しっかり警戒しろ！",
+    "translation": "よし！　しっかり警戒しろ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "おう、危険かもしれないからな！",
+    "translation": "おう、危険かもしれないからな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_024_1_0",
+    "original": "おう、危険かもしれないからな！",
+    "translation": "おう、危険かもしれないからな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "なんとかなったな！",
+    "translation": "なんとかなったな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_025_1_0",
+    "original": "なんとかなったな！",
+    "translation": "なんとかなったな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "そっから映画館に戻れるぞ！\n戻るのか？",
+    "translation": "そっから映画館に戻れるぞ！\n戻るのか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_026_1_0",
+    "original": "そっから映画館に戻れるぞ！\n戻るのか？",
+    "translation": "そっから映画館に戻れるぞ！\n戻るのか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

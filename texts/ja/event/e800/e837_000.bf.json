@@ -1,0 +1,303 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふう、だいぶ進んだわね\n貴方もここでしっかり休息をとって…",
+    "translation": "ふう、だいぶ進んだわね\n貴方もここでしっかり休息をとって…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "な、何！？　敵？　地震？",
+    "translation": "な、何！？　敵？　地震？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "いっくよー、里中流奥義…\nドラゴンキーック！",
+    "translation": "いっくよー、里中流奥義…\nドラゴンキーック！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "やるなっ！　だが、甘いっ！",
+    "translation": "やるなっ！　だが、甘いっ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "さすが、師匠！\n構えが早すぎて止まって見える！",
+    "translation": "さすが、師匠！\n構えが早すぎて止まって見える！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "里中こそ、いい蹴りだ。\nまともに当たれば消し飛んでいた。",
+    "translation": "里中こそ、いい蹴りだ。\nまともに当たれば消し飛んでいた。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "貴方たち、何してるの！？",
+    "translation": "貴方たち、何してるの！？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "心配するな、ただのトレーニングだ。\n実戦を想定した形式のな。",
+    "translation": "心配するな、ただのトレーニングだ。\n実戦を想定した形式のな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "怪我するぞ",
+    "translation": "怪我するぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "頼もしいな",
+    "translation": "頼もしいな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "大丈夫だって。\nあたしたち慣れてるし！",
+    "translation": "大丈夫だって。\nあたしたち慣れてるし！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "貴方達が大丈夫でも、\nこっちが驚くわよ…",
+    "translation": "貴方達が大丈夫でも、\nこっちが驚くわよ…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "頼もしいけど、ここに来てまで\n特訓って…",
+    "translation": "頼もしいけど、ここに来てまで\n特訓って…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "む…少々やり過ぎたか。\nだが、闘志を抑え切れなくてな。",
+    "translation": "む…少々やり過ぎたか。\nだが、闘志を抑え切れなくてな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "へへ、あたしも。\nよく食べ、よく戦うのが最強への道！",
+    "translation": "へへ、あたしも。\nよく食べ、よく戦うのが最強への道！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "貴方たち、いつもこんなデタラ…\nじゃなくて、激しい練習をしてるの？",
+    "translation": "貴方たち、いつもこんなデタラ…\nじゃなくて、激しい練習をしてるの？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "うーん、普段の修行は、走り込みして、\n足技の練習して…仕上げは肉丼！",
+    "translation": "うーん、普段の修行は、走り込みして、\n足技の練習して…仕上げは肉丼！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "そうだな、徹底的に身体をいじめ抜き\n食事を掻き込み、プロテインでシメる。",
+    "translation": "そうだな、徹底的に身体をいじめ抜き\n食事を掻き込み、プロテインでシメる。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ハァ…",
+    "translation": "ハァ…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "がむしゃらにやるだけが特訓じゃないわ。\nイメージやメンタル面も大事。",
+    "translation": "がむしゃらにやるだけが特訓じゃないわ。\nイメージやメンタル面も大事。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_017_2",
+    "original": "食事だってそう。たんぱく質だけじゃダメ。\nバランスもちゃんと考えないとダメよ。",
+    "translation": "食事だってそう。たんぱく質だけじゃダメ。\nバランスもちゃんと考えないとダメよ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "なるほど、クイーンは合気道の使い手だったな。\n同じ武人として重みのある言葉だ。",
+    "translation": "なるほど、クイーンは合気道の使い手だったな。\n同じ武人として重みのある言葉だ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "お、同じカテゴリーにされてる…",
+    "translation": "お、同じカテゴリーにされてる…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "…あ！　いいこと思いついた！\nクイーンにメニュー組んでもらうのどうです？",
+    "translation": "…あ！　いいこと思いついた！\nクイーンにメニュー組んでもらうのどうです？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "確かに、同じ刺激ばかりでは筋肉も\n慣れてしまうしな…頼めるか、クイーン？",
+    "translation": "確かに、同じ刺激ばかりでは筋肉も\n慣れてしまうしな…頼めるか、クイーン？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "SEL_022_0",
+    "original": "やってみたら？",
+    "translation": "やってみたら？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_022_1",
+    "original": "クイーンなら出来る",
+    "translation": "クイーンなら出来る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_022_2",
+    "original": "面白そうだ",
+    "translation": "面白そうだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "それは構わないけど…",
+    "translation": "それは構わないけど…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "メニューを組むなら今の実力を測って、\nそこから現実的な目標を立てないと…",
+    "translation": "メニューを組むなら今の実力を測って、\nそこから現実的な目標を立てないと…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "もう、貴方まで…\n教えるのは構わないけど。",
+    "translation": "もう、貴方まで…\n教えるのは構わないけど。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "メニューを組むなら今の実力を測って、\nそこから現実的な目標を立てないと…",
+    "translation": "メニューを組むなら今の実力を測って、\nそこから現実的な目標を立てないと…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "他人事だと思ってない？\nまあ、教えるのは構わないけど…",
+    "translation": "他人事だと思ってない？\nまあ、教えるのは構わないけど…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "メニューを組むなら今の実力を測って、\nそこから現実的な目標を立てないと…",
+    "translation": "メニューを組むなら今の実力を測って、\nそこから現実的な目標を立てないと…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "あ、クイーン。\nそろそろ、出発しようって美鶴さんが。",
+    "translation": "あ、クイーン。\nそろそろ、出発しようって美鶴さんが。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "そうね、今は先に進まないと。\nメニューのことはまたあとね。",
+    "translation": "そうね、今は先に進まないと。\nメニューのことはまたあとね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "おっす、クイーンコーチ！",
+    "translation": "おっす、クイーンコーチ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "…コーチ？",
+    "translation": "…コーチ？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "ま、まあいいわ。行きましょう。",
+    "translation": "ま、まあいいわ。行きましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

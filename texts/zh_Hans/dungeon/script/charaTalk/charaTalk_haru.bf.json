@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "ここ、採取できるみたいだね。\nどうしよっか？",
+    "translation": "这里好像可以采集呢。\n该怎么办？",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n这里好像可以采集。\n怎么办？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そうだね。\n周りには気をつけて探そ。",
+    "translation": "也是呢。\n一边注意周围一边探索吧。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n这个嘛……\n注意周遭，边找边看吧。\n\n是啊。\n要注意周围的人。\n\n是啊。要注意周围的情况。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うん！\nじゃあ、集中して探そっか！",
+    "translation": "嗯！\n那接下来就集中精力探索吧！",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n嗯！\n那我们专心找吧！\n\n嗯！\n那么，集中精神寻找吧！\n\n嗯！\n那就集中精力去找吧！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "止めておくの？\n分かった。",
+    "translation": "要停下来嘛？\n明白了。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n要先停手吗？\n知道了。\n\n要停止吗？\n明白了。\n\n停着吗？我知道了。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全部かな？",
+    "translation": "这样就是全部了吗？",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n这样就全部了吗？\n\n这就是全部吗？"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あらっ？",
+    "translation": "哎呀？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哎呀？\n\n啊？"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "わぁ！",
+    "translation": "哇！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哇！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "やった。",
+    "translation": "太好了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n太好了。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "危なかったね。\n取れるものはこれで全部みたい。",
+    "translation": "刚刚真危险呢。\n能采集的好像都已经到手了。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n好险。\n能采的就这些了。\n\n真危险啊。\n能拿到的就这些。\n\n太危险了。能拿的东西这就是全部了。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "レアだよ！",
+    "translation": "稀有物品呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好稀有哦！\n\n很稀有哦！\n\n是稀有的！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "わぁ、すごーい！",
+    "translation": "哇，好厉害——！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哇，好棒！\n\n哇，好厉害！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "うふふ、やったね！",
+    "translation": "呵呵呵，太好了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呵呵呵，太好了！\n\n呵呵，太好了！\n\n呵呵，太棒了！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あ！　ショートカット！\n通ってみる？",
+    "translation": "啊！是捷径！\n要走走看吗？",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n啊！捷径！\n要走吗？\n\n啊！快捷方式！\n去看看？\n\n啊！短发！\n去看看？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "うーん…\nこっちは通れないみたいだね。",
+    "translation": "嗯……\n看起来这边走不了呢。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n嗯……\n这边好像不能走。\n\n嗯……这边好像过不去啊。\n\n\n嗯……这边好像过不去。"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "なんだか、とっても危険な空気だね。\n大丈夫かな…？",
+    "translation": "总感觉有种危险的氛围呢。\n应该没事吧……？",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n总觉得气氛很危险呢。\n没问题吗……？\n\n总觉得是非常危险的空气呢。\n没事吧……？\n\n感觉空气很危险。\n不要紧吧……？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "う、うん。\n気をつけて調べよう。",
+    "translation": "嗯，好的。\n小心点调查吧。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n嗯、嗯。\n小心点调查吧。\n\n嗯、嗯。\n小心调查。\n\n嗯、嗯。小心地调查吧。"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "分かった。\n危険だもんね。",
+    "translation": "知道了。\n毕竟很危险呢。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n知道了。\n毕竟很危险嘛。\n\n我知道了。\n太危险了。\n\n我知道了。\n真危险啊。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あ、危なかった…\nみんな無事？",
+    "translation": "啊，好险啊……\n大家都没事吧？",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n好、好险……\n大家都没事吗？\n\n啊，太危险了……\n大家都没事吧？\n\n啊，太危险了……\n大家没事吧？"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここ、なんだかシャドウの気配が\n多い気がしない…？",
+    "translation": "感觉这附近暗影的气息\n有点多……？",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n这里好像\n有很多暗影的气息……？\n\n这里，总觉得暗影的气息\n不觉得多……？\n\n这里，总觉得暗影的气息不是很多……？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "うん。\n気をつけて調べてみよう。",
+    "translation": "嗯。\n小心点调查一下吧。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n嗯。\n小心点调查吧。\n\n嗯。\n小心调查一下吧。\n\n嗯。小心地调查一下吧。"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだね。\n危ないかもしれないものね。",
+    "translation": "也是呢。\n毕竟可能有危险。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n说得也是。\n毕竟可能有危险嘛。\n\n是啊。\n可能很危险啊。\n\n是啊。可能很危险。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "やっぱりシャドウが出たね。\nこれで終わりかな…？",
+    "translation": "果然有暗影啊。\n这下总算是结束了……？",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n暗影果然出现了。\n这样就结束了吗……？\n\n果然有暗影啊。\n这样就结束了吧……？\n\n果然出现了暗影。\n这就结束了吧……？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "映画館に戻れるね。\nどうしよっか？　戻る？",
+    "translation": "可以回电影院了呢。\n怎么办？要回去吗？",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n可以回到电影院了。\n怎么办？要回去吗？\n\n可以回到电影院了。\n怎么办？回去？\n\n你可以回电影院了。\n怎么办？返回？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

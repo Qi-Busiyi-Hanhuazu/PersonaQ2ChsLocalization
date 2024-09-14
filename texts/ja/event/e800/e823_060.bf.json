@@ -1,0 +1,380 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "やったー！\nこれで４体、全ての目標達成ですね！",
+    "translation": "やったー！\nこれで４体、全ての目標達成ですね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、そうだな。",
+    "translation": "ああ、そうだな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "…それで、肝心の勝負の結果はどうなんだ？\n俺の方が命中率は高かったと思うんだが。",
+    "translation": "…それで、肝心の勝負の結果はどうなんだ？\n俺の方が命中率は高かったと思うんだが。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ハッ、なに言ってやがる。\nそう変わんねえだろうが。",
+    "translation": "ハッ、なに言ってやがる。\nそう変わんねえだろうが。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "それだけじゃない、俺が攻撃を受けた時に\nサポートがなかった。マイナスポイントだ！",
+    "translation": "それだけじゃない、俺が攻撃を受けた時に\nサポートがなかった。マイナスポイントだ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あんなの、軽いかすり傷だろうが！\nツバでもつけとけ！",
+    "translation": "あんなの、軽いかすり傷だろうが！\nツバでもつけとけ！",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "なんだと？　だいたい、シンジは昔から\n俺に対して雑な扱いをしすぎだ！",
+    "translation": "なんだと？　だいたい、シンジは昔から\n俺に対して雑な扱いをしすぎだ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "飯だって、俺にはなかなか作ってくれない。\n思いやりが足りないと思うが？",
+    "translation": "飯だって、俺にはなかなか作ってくれない。\n思いやりが足りないと思うが？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "それを言うなら、アキこそ…",
+    "translation": "それを言うなら、アキこそ…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "二人とも、いい加減にしろっ！！",
+    "translation": "二人とも、いい加減にしろっ！！",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "下級生の手本となるべきお前たちが\nそんなことでどうする！？",
+    "translation": "下級生の手本となるべきお前たちが\nそんなことでどうする！？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "我々は遊びで戦っているんじゃない。\n命を賭けて戦いを共にしているんだぞ！",
+    "translation": "我々は遊びで戦っているんじゃない。\n命を賭けて戦いを共にしているんだぞ！",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "それなのに、お前たちは勝ち負けばかり…\n大事なことを見失って、情けない。",
+    "translation": "それなのに、お前たちは勝ち負けばかり…\n大事なことを見失って、情けない。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "しかしだな…",
+    "translation": "しかしだな…",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "[P3P姓]が言っていただろう？\n団体行動だから、独りよがりは駄目だと。",
+    "translation": "[P3P姓]が言っていただろう？\n団体行動だから、独りよがりは駄目だと。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "お前たちの周りが見えなくなる点を含めて、\n[P3P姓]はルールを決めたんだろう。",
+    "translation": "お前たちの周りが見えなくなる点を含めて、\n[P3P姓]はルールを決めたんだろう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_010_2",
+    "original": "勝負以前に、それが守れなかった時点で\n二人とも失格だと思うがな？",
+    "translation": "勝負以前に、それが守れなかった時点で\n二人とも失格だと思うがな？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "うーんと…\nそれじゃあ、今回の優勝は…",
+    "translation": "うーんと…\nそれじゃあ、今回の優勝は…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_014_0",
+    "original": "真田さんだ",
+    "translation": "真田さんだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_1",
+    "original": "荒垣さんだ",
+    "translation": "荒垣さんだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_2",
+    "original": "桐条さんだ",
+    "translation": "桐条さんだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_3",
+    "original": "自分だ",
+    "translation": "自分だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "確かに、真田先輩はすごい勢いで\n敵をのしてたけど…",
+    "translation": "確かに、真田先輩はすごい勢いで\n敵をのしてたけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "確かに、荒垣先輩のパワーは\n圧倒的だったけど…",
+    "translation": "確かに、荒垣先輩のパワーは\n圧倒的だったけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "あ、ジョーカーもそう思う？",
+    "translation": "あ、ジョーカーもそう思う？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "うん、ジョーカーも活躍してるし\n凄いなって思うけど…",
+    "translation": "うん、ジョーカーも活躍してるし\n凄いなって思うけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "今回の優勝者は、\n美鶴先輩ということで！！",
+    "translation": "今回の優勝者は、\n美鶴先輩ということで！！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "どういうことだ？",
+    "translation": "どういうことだ？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "正直、戦力や状況判断はみんな互角でした。",
+    "translation": "正直、戦力や状況判断はみんな互角でした。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "けど、仲間のサポートも競うポイントだって\nルールで言いましたよね？",
+    "translation": "けど、仲間のサポートも競うポイントだって\nルールで言いましたよね？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_021_2",
+    "original": "なら、こうやって仲間のために叱ってくれる\n美鶴先輩が、総合力で優勝です！",
+    "translation": "なら、こうやって仲間のために叱ってくれる\n美鶴先輩が、総合力で優勝です！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "…そう言われちまったら、\n反論の余地がねえな。",
+    "translation": "…そう言われちまったら、\n反論の余地がねえな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "情けねえが、桐条や[P3P姓]の\n言うとおりだ。悪かったよ。",
+    "translation": "情けねえが、桐条や[P3P姓]の\n言うとおりだ。悪かったよ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "俺もすまない。\n後輩の前で、少し大人気なかった。",
+    "translation": "俺もすまない。\n後輩の前で、少し大人気なかった。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "フッ…分かればいい。",
+    "translation": "フッ…分かればいい。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "…それと、優勝は私よりも\n[P3P姓]がふさわしいな。",
+    "translation": "…それと、優勝は私よりも\n[P3P姓]がふさわしいな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "えっ？",
+    "translation": "えっ？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "この問題児たちを扱う術には、\n正直、私も舌を巻いた。",
+    "translation": "この問題児たちを扱う術には、\n正直、私も舌を巻いた。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "君には、[P3姓]とはまた違った\nリーダーの器がある。そう確信したよ。",
+    "translation": "君には、[P3姓]とはまた違った\nリーダーの器がある。そう確信したよ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "美鶴先輩…\nありがとうございます！",
+    "translation": "美鶴先輩…\nありがとうございます！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "俺も美鶴に同意だ。",
+    "translation": "俺も美鶴に同意だ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "[P3姓]も[P3P姓]も、\nまったく大したヤツらだな。",
+    "translation": "[P3姓]も[P3P姓]も、\nまったく大したヤツらだな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ったく、このままじゃ面目が立たねえな。\nおいアキ、仕切りなおしだ。",
+    "translation": "ったく、このままじゃ面目が立たねえな。\nおいアキ、仕切りなおしだ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ああ、任せろ。次からはシンジにも\n万全なサポートをしてやろう。",
+    "translation": "ああ、任せろ。次からはシンジにも\n万全なサポートをしてやろう。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "とっておきのプロテインを使ってな！",
+    "translation": "とっておきのプロテインを使ってな！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "…それは遠慮しとく。",
+    "translation": "…それは遠慮しとく。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "やれやれ…次からはルールに、\nプロテイン禁止も付け加えるべきか？",
+    "translation": "やれやれ…次からはルールに、\nプロテイン禁止も付け加えるべきか？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_032_1",
+    "original": "とにかく、目的は果たしたことだし\nいったん映画館に戻るとするか。",
+    "translation": "とにかく、目的は果たしたことだし\nいったん映画館に戻るとするか。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "key": "S00_DG_GIMMICK_SWITCH_MS_0",
+    "original": "スイッチを押した。",
+    "translation": "按下了开关。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n按下开关。\n\n我按下了开关。\n\n按下了开关。"
+  },
+  {
+    "key": "S01_DG_GIMMICK_SWITCH_MS_0",
+    "original": "スイッチを力強く押した",
+    "translation": "用力地按下了开关。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n用力按下开关。\n\n用力按了一下开关\n\n用力按下了开关"
+  },
+  {
+    "key": "S02_DG_GIMMICK_SWITCH_MS_0",
+    "original": "スイッチは既に押されている",
+    "translation": "开关已经被按下了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n开关已经被按下了。\n\n已按下开关\n\n开关已经按下了"
+  },
+  {
+    "key": "S03_DG_GIMMICK_SWITCH_MS_0",
+    "original": "スイッチは既に力強く押されている",
+    "translation": "开关已经被用力地按下了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n开关已经被用力按下了。\n\n开关已经被用力按下了\n\n开关已经用力按下了"
+  },
+  {
+    "key": "S04_DG_GIMMICK_CHANGE_SW_0",
+    "original": "スイッチをＯＮにした",
+    "translation": "将开关转到了ON。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n将开关转到ON。\n\n把开关开了\n\n已打开开关"
+  },
+  {
+    "key": "S05_DG_GIMMICK_CHANGE_SW_0",
+    "original": "スイッチをＯＦＦにした",
+    "translation": "将开关转到了OFF。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n将开关转到OFF。\n\n把开关关了\n\n已关闭开关"
+  },
+  {
+    "key": "S06_DG_GIMMICK_CHANGE_SE_0",
+    "original": "サーチライトの電源が切れた。",
+    "translation": "关闭了探照灯的电源。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n探照灯的电源关闭了。\n\n探照灯没电了。\n\n探照灯的电源断了。"
+  },
+  {
+    "key": "S07_DG_GIMMICK_CHANGE_SE_0",
+    "original": "既にサーチライトの電源は切れている。",
+    "translation": "已经关闭了探照灯的电源。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n探照灯的电源已经关闭了。\n\n探照灯已经断电了。\n\n探照灯已经没电了。"
+  },
+  {
+    "key": "S08_DG_GIMMICK_CHANGE_SE_0",
+    "original": "点いているサーチライトが\n切り替わった。",
+    "translation": "切换了亮着的探照灯。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n点亮的探照灯\n切换了。\n\n点着的探照灯\n切换了。\n\n开着的探照灯切换了。"
+  },
+  {
+    "key": "S09_DG_GIMMICK_KAITENSAK_0",
+    "original": "柵を回転させた。",
+    "translation": "旋转了栅栏。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n旋转栅栏。\n\n旋转了栅栏。\n\n把栅栏旋转了。"
+  },
+  {
+    "key": "S10_DG_GIMMICK_DENKISAKU_0",
+    "original": "電気柵の電源が一時的に切れた。",
+    "translation": "暂时关闭了电栅栏的电源。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n栅栏的电源暂时关闭了。\n\n电栅栏的电源暂时断了。\n\n电栅栏的电源暂时切断了。"
+  },
+  {
+    "key": "S11_DG_GIMMICK_DENKISAKU_0",
+    "original": "既に電源は操作してある。",
+    "translation": "已经操作过了电源。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n电源已经操作过了。\n\n电源已经操作好了。\n\n已操作电源。"
+  },
+  {
+    "key": "S12_DG_GIMMICK_SERI_CHAN_0",
+    "original": "せりが一斉に動いた。",
+    "translation": "升降台全都动了起来。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n栅栏一齐动了起来。\n\n世利一齐动了起来。\n\n拍卖一齐动了起来。"
+  },
+  {
+    "key": "S13_DG_GIMMICK_BOUHU_OPE_0",
+    "original": "付近の風の流れが変わった。",
+    "translation": "附近的风向改变了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n附近的风向改变了。\n\n附近的风流变了。\n\n附近的风向变了。"
+  },
+  {
+    "key": "S14_DG_GIMMICK_SERI_FIRS_0",
+    "original": "せりが一斉に動いた。",
+    "translation": "升降台全都动了起来。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n栅栏一齐动了起来。\n\n世利一齐动了起来。\n\n拍卖一齐动了起来。"
+  },
+  {
+    "key": "S15_DG_GIMMICK_BOUHU_FIR_0",
+    "original": "何かの作動した音がした…",
+    "translation": "有什么东西启动的声音……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有某种东西启动的声音……\n\n有什么启动的声音……\n\n有什么动作的声音……"
+  }
+]

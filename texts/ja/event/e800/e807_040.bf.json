@@ -1,0 +1,121 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ターゲット発見だ！\nあのチキンＦ．Ｏ．Ｅを討伐しろ！",
+    "translation": "ターゲット発見だ！\nあのチキンＦ．Ｏ．Ｅを討伐しろ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "改めて見ると、アイツが持ってる肉…\nつーか武器？　でけーな。",
+    "translation": "改めて見ると、アイツが持ってる肉…\nつーか武器？　でけーな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "やはり、見れば見るほど\n興味深い形状だ。食欲もそそられる。",
+    "translation": "やはり、見れば見るほど\n興味深い形状だ。食欲もそそられる。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あれ、やっぱりフライドチキンだよね？\n五人前…いや、十人前はありそう…！",
+    "translation": "あれ、やっぱりフライドチキンだよね？\n五人前…いや、十人前はありそう…！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "まあまあ、落ち着け。\nお前らだけで突っ込んでも危険だって。",
+    "translation": "まあまあ、落ち着け。\nお前らだけで突っ込んでも危険だって。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "俺らだっているんだから、\nちゃんととっておけよ？",
+    "translation": "俺らだっているんだから、\nちゃんととっておけよ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "…分け前は平等だからね？",
+    "translation": "…分け前は平等だからね？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "肉の話じゃねーよ！\n俺にも活躍させろって言ってんの！",
+    "translation": "肉の話じゃねーよ！\n俺にも活躍させろって言ってんの！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "んあ？　花村先輩、いつになく\nやる気っスね。",
+    "translation": "んあ？　花村先輩、いつになく\nやる気っスね。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "へへっ、まあな…",
+    "translation": "へへっ、まあな…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "よし、さっさとやっちまおうぜ！",
+    "translation": "よし、さっさとやっちまおうぜ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  }
+]

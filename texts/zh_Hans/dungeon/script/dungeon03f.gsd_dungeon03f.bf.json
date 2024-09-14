@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_KANSI_FOE_0",
+    "original": "＞監視ロボFOEを発見するイベント\n　通行の邪魔なのでどかす方法を模索する。",
+    "translation": "＞发现监视机器人FOE事件\n　由于会妨碍通行，寻找移开它的方法。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞发现监视机器人FOE的事件\n　由于会妨碍通行，摸索移开的方法。\n\n＞发现监视机器人FOE的活动\n　探索妨碍通行的方法。\n\n＞发现监视机器人FOE的事件\n　因为妨碍通行，摸索转移的方法。"
+  },
+  {
+    "key": "MSG_EV_MOVE_STOP_0",
+    "original": "＞移動静止イベント",
+    "translation": "＞移动静止事件",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞静止移动事件\n\n＞移动静止事件"
+  },
+  {
+    "key": "MSG_KANSI_AB_SWITCH_0",
+    "original": "＞エリア切り替え型監視カメラの\n　チュートリアルイベント",
+    "translation": "＞区域切换型监视摄像头的\n　教学事件",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞切换区域型监视摄像头的\n　教学事件\n\n＞区域切换监控\n　教程事件\n\n＞区域切换型监视摄像机的\n　指南活动"
+  },
+  {
+    "key": "MSG_GOTO_KANSI6_AB_SWITC_0",
+    "original": "＞切り替えスイッチを押すまで\n　先に進行できないことを説明する。",
+    "translation": "＞说明在按下切换开关前\n　无法继续前进。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞说明在按下切换开关前\n　无法继续前进。\n\n＞说明在按下切换开关之前\n　无法前进。\n\n＞在按下切换开关之前\n　说明不能继续前进。"
+  },
+  {
+    "key": "MSG_EV_KANSI_SWITCH_6A_0",
+    "original": "＞監視エリアを（緑）に切り替えた",
+    "translation": "＞监视区域已切换为（绿）",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞监视区域切换为（绿）\n\n＞将监视区域切换为（绿色）"
+  },
+  {
+    "key": "MSG_EV_KANSI_SWITCH_6B_0",
+    "original": "＞監視エリアを（赤）に切り替えた",
+    "translation": "＞监视区域已切换为（红）",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞监视区域切换为（红）\n\n＞将监视区域切换为（红色）"
+  },
+  {
+    "key": "MSG_GET_TRESURE_MAP_0",
+    "original": "＞地図に宝の在り処が表示された。",
+    "translation": "＞地图上已显示秘宝所在地。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞地图上显示宝物的所在处。\n\n＞地图上显示了宝物的所在地。\n\n＞地图上显示了宝藏所在的位置。"
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "好像有什么埋在里面……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像有什么埋在里面……\n\n好像埋了什么……\n\n好像埋着什么……"
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "好像有什么埋在里面，\n但背包已经装满了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像有什么埋在里面，\n背包里已经装满了……\n\n好像有什么东西被填满了，\n包里满满的……\n\n好像有什么东西被埋了……"
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理一下再来吧……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n整理一下再来吧……\n\n整理之后再来吧……"
+  },
+  {
+    "key": "MSG_SYS_SWITCH_ON_0",
+    "original": "スイッチを押した。",
+    "translation": "按下了开关。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n按下开关。\n\n我按下了开关。\n\n按下了开关。"
+  }
+]

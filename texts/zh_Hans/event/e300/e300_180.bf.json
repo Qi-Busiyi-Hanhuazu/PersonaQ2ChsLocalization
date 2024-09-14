@@ -1,0 +1,128 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "みんな、待って！\n下のフロアに反応があるよ！",
+    "translation": "大家，等一下！\n下面的楼层有反应哦！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n大家，等一下！\n下面的楼层有反应！\n\n大家，等一下！\n下面的楼层有反应哦！\n\n大家等等！\n下面的楼层有反应哦！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "この反応は、おそらく…\nリーダーとアイギスだと思います！",
+    "translation": "这个反应，恐怕是……\n队长和埃癸斯！",
+    "stage": 0,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n这个反应，恐怕是……\n队长和埃癸斯！\n\n我想这个反应，大概是……\n领导人和埃癸斯！\n\n这个反应，大概是……\n我觉得是领导和埃癸斯！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "やっと追いついたみてぇだな。",
+    "translation": "终于追上他们了。",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n看来他们终于追上了。\n\n终于想追了啊。\n\n好不容易追上了。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ああ。\n早く彼らを助けなければ…",
+    "translation": "啊。\n得快点救他们才行……",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n啊啊。\n得快点救他们才行……\n\n啊。\n如果不尽快帮助他们……\n\n啊。\n应该尽快帮助他们……"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ワンッ！　ワンワン！",
+    "translation": "汪！汪汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！汪汪！\n\n哇！汪汪！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あ！　コロマル！？",
+    "translation": "啊！虎狼丸！？",
+    "stage": 0,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n啊！虎狼丸！？"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ソチラは…コロマルさん、\nアノ『扉』ヲ見つけたのデスネ。",
+    "translation": "那边是……虎狼丸先生，\n你找到那扇“门”了呢。",
+    "stage": 0,
+    "context": "说话人：リボン\n\n机翻辅助：\n\n那边是……虎狼丸先生，\n你找到那扇“门”了呢。\n\n索奇拉是……虎狼丸先生，\n找到了“门”的死亡。\n\n你那边是……虎狼丸先生，\n你发现那扇“门”了吧？"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ちょっ、待って！\nリボンちゃんまで行っちゃった！",
+    "translation": "等、等一下！\n连蝴蝶结妹妹都过去了！",
+    "stage": 0,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n等、等一下！\n连蝴蝶结妹妹都过去了！\n\n喂，等等！\n连蝴蝶结都去了！\n\n等、等一下！\n连蝴蝶结都去了！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "『扉』ってのが引っかかるな。\n行こうぜ、ジョーカー！",
+    "translation": "这个“门”让吾辈有点在意。\n走吧，JOKER！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n“门”这个词让我有点在意。\n走吧，JOKER！\n\n不要挂住“门”。\n走吧，JOKER！\n\n“门”被卡住了。\n走吧，JOKER ！"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鹤",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "虎狼丸",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "蝴蝶结",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

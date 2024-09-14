@@ -1,0 +1,324 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "こちらがショップです…どうぞ。",
+    "translation": "こちらがショップです…どうぞ。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ほう…なかなか素晴らしいですね。\n充分な広さのスペースです。",
+    "translation": "ほう…なかなか素晴らしいですね。\n充分な広さのスペースです。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "これならば、皆様のお役に立ちそうな物を\nご用意できそうです。",
+    "translation": "これならば、皆様のお役に立ちそうな物を\nご用意できそうです。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "へぇ、それってどんなの？\n新しいスイーツとかある？",
+    "translation": "へぇ、それってどんなの？\n新しいスイーツとかある？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ええと…具体的には、まだ何とも…\n申し訳ございません。",
+    "translation": "ええと…具体的には、まだ何とも…\n申し訳ございません。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "まずは準備を進めますので、\nしばし、お時間を頂けないでしょうか？",
+    "translation": "まずは準備を進めますので、\nしばし、お時間を頂けないでしょうか？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "必ずや、皆様の心を躍らせる\nラインナップをご用意いたしますので。",
+    "translation": "必ずや、皆様の心を躍らせる\nラインナップをご用意いたしますので。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "楽しみだ",
+    "translation": "楽しみだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "本当だろうな？",
+    "translation": "本当だろうな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_2",
+    "original": "安さ爆発で頼む",
+    "translation": "安さ爆発で頼む",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "お任せください！\n期待には応えますとも！",
+    "translation": "お任せください！\n期待には応えますとも！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ええ、ベルベットルームの名にかけて、\n必ずやご満足させてみせます！",
+    "translation": "ええ、ベルベットルームの名にかけて、\n必ずやご満足させてみせます！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "安さが爆発、ですか…？",
+    "translation": "安さが爆発、ですか…？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "…ああ、なるほど。\nそれでしたらご安心ください。",
+    "translation": "…ああ、なるほど。\nそれでしたらご安心ください。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_007_2",
+    "original": "安くても、爆発するクオリティの品物は\nおきません。品質は保証いたします！",
+    "translation": "安くても、爆発するクオリティの品物は\nおきません。品質は保証いたします！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "テオドアさん、楽しそうですね。\nまるで老舗の店主みたいだ。",
+    "translation": "テオドアさん、楽しそうですね。\nまるで老舗の店主みたいだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "老舗…なんと耽美な響きでしょう。",
+    "translation": "老舗…なんと耽美な響きでしょう。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "私、こういったことは嫌いじゃないと\n気づいたのです。",
+    "translation": "私、こういったことは嫌いじゃないと\n気づいたのです。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ところで…もぐもぐ。\n私のお客人も…もぐもぐ。",
+    "translation": "ところで…もぐもぐ。\n私のお客人も…もぐもぐ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "どこかに迷いこんで…もぐもぐ。\nこのポップなコーンとやら…もごっ。",
+    "translation": "どこかに迷いこんで…もぐもぐ。\nこのポップなコーンとやら…もごっ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "姉上…\n食べながら話すのは、お行儀が…",
+    "translation": "姉上…\n食べながら話すのは、お行儀が…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "テオ、貴方も…もぐもぐ。\n一気に口に…詰め込みなさい…もぐもぐ。",
+    "translation": "テオ、貴方も…もぐもぐ。\n一気に口に…詰め込みなさい…もぐもぐ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "また人を干からびさせるつもりですか！？\nきな粉のように…きな粉のように！",
+    "translation": "また人を干からびさせるつもりですか！？\nきな粉のように…きな粉のように！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "え…ええ、と…",
+    "translation": "え…ええ、と…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "だ、だいじょーぶだ！",
+    "translation": "だ、だいじょーぶだ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "いきなり出て来てビビったけど、\nたぶん、コイツらは無害だと思う。",
+    "translation": "いきなり出て来てビビったけど、\nたぶん、コイツらは無害だと思う。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "…う、うん。",
+    "translation": "…う、うん。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "もぐもぐ…\nこれはなかなか…もぐもぐ。",
+    "translation": "もぐもぐ…\nこれはなかなか…もぐもぐ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "なるほど…調味料を変えれば、\n新しい味も作れそうな…もぐもぐ。",
+    "translation": "なるほど…調味料を変えれば、\n新しい味も作れそうな…もぐもぐ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "えっ…新しい味？",
+    "translation": "えっ…新しい味？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "おや？　新しい味にご興味が？",
+    "translation": "おや？　新しい味にご興味が？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "でしたら、全霊を賭して\nポップコーンも新開発いたしましょう。",
+    "translation": "でしたら、全霊を賭して\nポップコーンも新開発いたしましょう。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "え、っと…\nナギさん…",
+    "translation": "え、っと…\nナギさん…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "フフ、私は構いませんよ。\n皆さまのお役に立つのでしたら。",
+    "translation": "フフ、私は構いませんよ。\n皆さまのお役に立つのでしたら。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "それに、ひかりさんのそんな顔を見たら、\n嫌とは言えないですよ。",
+    "translation": "それに、ひかりさんのそんな顔を見たら、\n嫌とは言えないですよ。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "えっ…？　あの、うん…",
+    "translation": "えっ…？　あの、うん…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "諸々、よろしく頼む。新しい味のポップ\nコーンにも期待させてもらおう…フフ。",
+    "translation": "諸々、よろしく頼む。新しい味のポップ\nコーンにも期待させてもらおう…フフ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "はい！　では皆様、準備が整うまで\nしばしお待ちください。",
+    "translation": "はい！　では皆様、準備が整うまで\nしばしお待ちください。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

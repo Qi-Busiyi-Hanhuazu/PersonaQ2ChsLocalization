@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "みんな、この先にエンリルが…！\nこの反応…まるで荒れ狂う嵐みたい……",
+    "translation": "みんな、この先にエンリルが…！\nこの反応…まるで荒れ狂う嵐みたい……",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "…ついに辿りついたね。\nジョーカー、準備はいいかな？",
+    "translation": "…ついに辿りついたね。\nジョーカー、準備はいいかな？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "この先にはエンリルが待ち構えてるよ。\n準備はいい？",
+    "translation": "この先にはエンリルが待ち構えてるよ。\n準備はいい？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "乗り込むぞ",
+    "translation": "乗り込むぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "まだだ",
+    "translation": "まだだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "わかった。\n気を引き締めていこう。",
+    "translation": "わかった。\n気を引き締めていこう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うん！\n絶対、エンリルを止めなきゃ！",
+    "translation": "うん！\n絶対、エンリルを止めなきゃ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そうだな。\n対策は万全に越したことはない。",
+    "translation": "そうだな。\n対策は万全に越したことはない。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん！\n絶対に負けられないもんね！",
+    "translation": "うん！\n絶対に負けられないもんね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

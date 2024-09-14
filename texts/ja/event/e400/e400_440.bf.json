@@ -1,0 +1,268 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お前は…ドー！？",
+    "translation": "お前は…ドー！？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やっぱお前の仕業だったのかよ。\n一体、何が目的だ！？",
+    "translation": "やっぱお前の仕業だったのかよ。\n一体、何が目的だ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "………。",
+    "translation": "………。",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おい！　なんか言えよ！",
+    "translation": "おい！　なんか言えよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "今までとは勝手が違うようですね…",
+    "translation": "今までとは勝手が違うようですね…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ひ…かり…",
+    "translation": "ひ…かり…",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "…っ！！",
+    "translation": "…っ！！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ほ、本当に喋った…！",
+    "translation": "ほ、本当に喋った…！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あ…わ、私の…名前…",
+    "translation": "あ…わ、私の…名前…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "あっ、ちょっと待ってよ！\nまたどっか行く気！？",
+    "translation": "あっ、ちょっと待ってよ！\nまたどっか行く気！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "慌てるな。反応を追跡中だ。\nドーはこの奥に向かってるっぽい。",
+    "translation": "慌てるな。反応を追跡中だ。\nドーはこの奥に向かってるっぽい。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "…まるで、我々を奥へと誘うかのような\n素振りに見えたな。",
+    "translation": "…まるで、我々を奥へと誘うかのような\n素振りに見えたな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "そうだな。誘導は罠という可能性も\n考えられるが、退くワケにもいかん。",
+    "translation": "そうだな。誘導は罠という可能性も\n考えられるが、退くワケにもいかん。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "どうする。\n追うか、ジョーカー？",
+    "translation": "どうする。\n追うか、ジョーカー？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_015_0",
+    "original": "当然だ",
+    "translation": "当然だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_015_1",
+    "original": "このままじゃ終われない",
+    "translation": "このままじゃ終われない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ああ、決着をつけてやろうぜ。",
+    "translation": "ああ、決着をつけてやろうぜ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "つーわけで、ドーの所まで\nよろしく頼むな！　ナビレディーズ！",
+    "translation": "つーわけで、ドーの所まで\nよろしく頼むな！　ナビレディーズ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ナビレディーズ、て…",
+    "translation": "ナビレディーズ、て…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "花村先輩って、たまにちょっと\nセンス古いよね…たまにだけど。",
+    "translation": "花村先輩って、たまにちょっと\nセンス古いよね…たまにだけど。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "そのビミョーな気遣いが\n余計に傷つくからやめろ！",
+    "translation": "そのビミョーな気遣いが\n余計に傷つくからやめろ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ええと…とにかく、ナビは任せてください。\n引き続き、ドーの反応を追跡しますね！",
+    "translation": "ええと…とにかく、ナビは任せてください。\n引き続き、ドーの反応を追跡しますね！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ドー",
+    "original": "ドー",
+    "translation": "ドー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  }
+]

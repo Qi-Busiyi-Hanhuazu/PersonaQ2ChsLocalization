@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "なんか採れるみてぇだな。\nどうするよ？",
+    "translation": "なんか採れるみてぇだな。\nどうするよ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あぁ。\n周りに注意しろよ。",
+    "translation": "あぁ。\n周りに注意しろよ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ま、なんも来ねぇだろ。\n探してみようぜ。",
+    "translation": "ま、なんも来ねぇだろ。\n探してみようぜ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうだな…",
+    "translation": "そうだな…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで終いみてぇだな。",
+    "translation": "これで終いみてぇだな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ふぅん…",
+    "translation": "ふぅん…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "悪くねぇ。",
+    "translation": "悪くねぇ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いただくぜ。",
+    "translation": "いただくぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "潮時だな。",
+    "translation": "潮時だな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "こりゃスゲェ。",
+    "translation": "こりゃスゲェ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "よかったな。",
+    "translation": "よかったな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ほぅ、珍しいな。",
+    "translation": "ほぅ、珍しいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "近道か…どうするんだ？",
+    "translation": "近道か…どうするんだ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "チッ…\nこっちは通れねぇみたいだぜ。",
+    "translation": "チッ…\nこっちは通れねぇみたいだぜ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ここ、嫌な気配がすんな…\nどうするんだ？",
+    "translation": "ここ、嫌な気配がすんな…\nどうするんだ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "おっし。\nんじゃ、気合い入れていくぞ。",
+    "translation": "おっし。\nんじゃ、気合い入れていくぞ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "賢明だな。",
+    "translation": "賢明だな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "かなり手強かったな。\nなんとかなったか…",
+    "translation": "かなり手強かったな。\nなんとかなったか…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "この辺、シャドウの気配がすんな。\nどうすんだ？",
+    "translation": "この辺、シャドウの気配がすんな。\nどうすんだ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "おし、調べるとするか。",
+    "translation": "おし、調べるとするか。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ああ、分かった。",
+    "translation": "ああ、分かった。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "やれやれ、やっぱり出やがったな。",
+    "translation": "やれやれ、やっぱり出やがったな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "映画館に戻んのか？",
+    "translation": "映画館に戻んのか？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  }
+]

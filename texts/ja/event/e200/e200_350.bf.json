@@ -1,0 +1,1150 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "冷凍肉と調理道具を\nコンテナから運んできた…",
+    "translation": "冷凍肉と調理道具を\nコンテナから運んできた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "…ふむ、調理をするならば\nこの辺りなんかどうだ？",
+    "translation": "…ふむ、調理をするならば\nこの辺りなんかどうだ？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "開けていて、近くに水辺もある。\nここなら調理しても安全そうですね。",
+    "translation": "開けていて、近くに水辺もある。\nここなら調理しても安全そうですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "器具は鍋くらいしかありませんでしたが、\n火と鍋があれば、なんとかなるとして…",
+    "translation": "器具は鍋くらいしかありませんでしたが、\n火と鍋があれば、なんとかなるとして…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "問題はレシピがないんですよね。\n大丈夫でしょうか？",
+    "translation": "問題はレシピがないんですよね。\n大丈夫でしょうか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "直斗くん、料理は常に発見だよ。\n自分の力を信じて。",
+    "translation": "直斗くん、料理は常に発見だよ。\n自分の力を信じて。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うんうん。限られた食材で美味しく\nするのだって、料理の腕のひとつだよね。",
+    "translation": "うんうん。限られた食材で美味しく\nするのだって、料理の腕のひとつだよね。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "なんか燃えてきた！\nあたしたちのすご腕、見せてやる！",
+    "translation": "なんか燃えてきた！\nあたしたちのすご腕、見せてやる！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "よーし。そうと決まったら、\n早速始めちゃおう！",
+    "translation": "よーし。そうと決まったら、\n早速始めちゃおう！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ま、待て…限られた食材だからこそ、\n確実な方法をとるのも大事じゃないか？",
+    "translation": "ま、待て…限られた食材だからこそ、\n確実な方法をとるのも大事じゃないか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そ、そうだよな！\n料理は俺らがやるからさ…",
+    "translation": "そ、そうだよな！\n料理は俺らがやるからさ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "そうだ、お前らは他の食材とか\n探してきてくれよ！　なっ！？",
+    "translation": "そうだ、お前らは他の食材とか\n探してきてくれよ！　なっ！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "花村先輩、必死っスね…\n気持ちは分かりますけど。",
+    "translation": "花村先輩、必死っスね…\n気持ちは分かりますけど。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ちょっと、それどういう意味！？\nあたしらじゃ不満？",
+    "translation": "ちょっと、それどういう意味！？\nあたしらじゃ不満？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "SEL_010_0",
+    "original": "不満というか不安",
+    "translation": "不満というか不安",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_010_1",
+    "original": "期待している",
+    "translation": "期待している",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_010_2",
+    "original": "食材集めを頼みたい",
+    "translation": "食材集めを頼みたい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "そうそう、不安…\nって、ハッキリ言い切ったな！？",
+    "translation": "そうそう、不安…\nって、ハッキリ言い切ったな！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "えっ…その、あれだよな？\n食材集めに期待してる、って意味だよな！？",
+    "translation": "えっ…その、あれだよな？\n食材集めに期待してる、って意味だよな！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "そうそう！　女子のセンスで、スゲー食材を\n集めてきてほしいっていうかさ！",
+    "translation": "そうそう！　女子のセンスで、スゲー食材を\n集めてきてほしいっていうかさ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "調理は火を起こす必要があるだろ？\nだから、今回は俺たちが適任かと。",
+    "translation": "調理は火を起こす必要があるだろ？\nだから、今回は俺たちが適任かと。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "食材探し、面白そうだね。\nここなら目新しいものが見つかりそう。",
+    "translation": "食材探し、面白そうだね。\nここなら目新しいものが見つかりそう。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "いいね、やってみたいかも！\n調理は男子に任せて、私たちは探しに行く？",
+    "translation": "いいね、やってみたいかも！\n調理は男子に任せて、私たちは探しに行く？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ふふ、冒険みたいですね。\n僕もそちらの方が向いてるかもしれません。",
+    "translation": "ふふ、冒険みたいですね。\n僕もそちらの方が向いてるかもしれません。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "それじゃあ、男性陣が料理の仕込みで、\n女性陣が食材探しってどう？",
+    "translation": "それじゃあ、男性陣が料理の仕込みで、\n女性陣が食材探しってどう？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かった。そういうことなら、\n今回はお願いしちゃおうかな。",
+    "translation": "分かった。そういうことなら、\n今回はお願いしちゃおうかな。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "オッケー、じゃあ探してくる。\n新たな肉を求めて！",
+    "translation": "オッケー、じゃあ探してくる。\n新たな肉を求めて！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "肉はもうあるし、海草とかフカヒレとか、\n出汁が出そうな食材がよくない？",
+    "translation": "肉はもうあるし、海草とかフカヒレとか、\n出汁が出そうな食材がよくない？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "海まで出るつもり…？\nまぁ、とにかく行きましょ。",
+    "translation": "海まで出るつもり…？\nまぁ、とにかく行きましょ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "よーし、れっつごー！",
+    "translation": "よーし、れっつごー！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ふい～うまくいったクマ。\nヨースケ、グッジョブでしたクマ。",
+    "translation": "ふい～うまくいったクマ。\nヨースケ、グッジョブでしたクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "あいつらに任せたら、料理じゃなくて\n兵器が出来上がるからな…",
+    "translation": "あいつらに任せたら、料理じゃなくて\n兵器が出来上がるからな…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "な、なあ…\nそっちの女子陣、料理やべえの？",
+    "translation": "な、なあ…\nそっちの女子陣、料理やべえの？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "…訊くな。\n世の中、知らない方がいいこともある。",
+    "translation": "…訊くな。\n世の中、知らない方がいいこともある。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "でも、ご安心あれ！\nウチのセンセイは、スーパー料理男子クマ！",
+    "translation": "でも、ご安心あれ！\nウチのセンセイは、スーパー料理男子クマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "料理なら、ジョーカーも負けてないぞ。",
+    "translation": "料理なら、ジョーカーも負けてないぞ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "なにせ、居候先が喫茶店だからな。\nカレー作りなら天下一品だぜ！",
+    "translation": "なにせ、居候先が喫茶店だからな。\nカレー作りなら天下一品だぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "それは心強いな。\n協力して、料理を完成させよう。",
+    "translation": "それは心強いな。\n協力して、料理を完成させよう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_031_0",
+    "original": "こちらこそ期待してる",
+    "translation": "こちらこそ期待してる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_031_1",
+    "original": "めんどうくさい…",
+    "translation": "めんどうくさい…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_031_2",
+    "original": "驚かせてやる",
+    "translation": "驚かせてやる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "おっ、自炊系男子のシンパシーか？",
+    "translation": "おっ、自炊系男子のシンパシーか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "こりゃ、期待できるな。\nどうなるか楽しみだ。",
+    "translation": "こりゃ、期待できるな。\nどうなるか楽しみだ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "普段とは勝手が違うからな。\n不自由さでは苦労するかもしれん。",
+    "translation": "普段とは勝手が違うからな。\n不自由さでは苦労するかもしれん。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_034_1",
+    "original": "だが、火さえ通れば何でも食える。\nそれだけは実証済みだ。",
+    "translation": "だが、火さえ通れば何でも食える。\nそれだけは実証済みだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "ナゾの説得力があんな、この人…",
+    "translation": "ナゾの説得力があんな、この人…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "おお、料理男子のプライドが\nメラメラと燃えとるクマ！",
+    "translation": "おお、料理男子のプライドが\nメラメラと燃えとるクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "これは期待できそうだな。\n早く味見をしたい。",
+    "translation": "これは期待できそうだな。\n早く味見をしたい。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "ヨダレたらしてっけど、\nあくまでも恐竜のエサだかんな？",
+    "translation": "ヨダレたらしてっけど、\nあくまでも恐竜のエサだかんな？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "＞肉の下ごしらえを済ませ、\n　調理の準備がすべて整った…",
+    "translation": "＞肉の下ごしらえを済ませ、\n　調理の準備がすべて整った…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "こちらの仕込みは、ひと通り終了かな。",
+    "translation": "こちらの仕込みは、ひと通り終了かな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_040_1",
+    "original": "ジョーカーも[P4姓]君も、\n鮮やかな手つきだった。素晴らしいね。",
+    "translation": "ジョーカーも[P4姓]君も、\n鮮やかな手つきだった。素晴らしいね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "この時点で、既にウマそうだもんな。\nこりゃ期待できそうだぜ。",
+    "translation": "この時点で、既にウマそうだもんな。\nこりゃ期待できそうだぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "おい、お前たち。\n女子チームが戻ってきたみたいだぞ。",
+    "translation": "おい、お前たち。\n女子チームが戻ってきたみたいだぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "ごめーん、おまたせー。",
+    "translation": "ごめーん、おまたせー。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "いっぱい取ってきたよ。",
+    "translation": "いっぱい取ってきたよ。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "お、待ってたぜ。\nそんで、なに持って帰ってきたんだ？",
+    "translation": "お、待ってたぜ。\nそんで、なに持って帰ってきたんだ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "僕が見つけたのはこれです。",
+    "translation": "僕が見つけたのはこれです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "…えっと、なんかの雑草？",
+    "translation": "…えっと、なんかの雑草？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "ハーブの一種みたい。",
+    "translation": "ハーブの一種みたい。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_048_1",
+    "original": "ほら、匂いをかいでみて。\nいい香りしない？",
+    "translation": "ほら、匂いをかいでみて。\nいい香りしない？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "ニャッ！？\nワガハイの鼻には、ちょっと青臭いぜ…",
+    "translation": "ニャッ！？\nワガハイの鼻には、ちょっと青臭いぜ…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "クセはあるけど、香草は肉の臭みが\n取れるし、香りづけにもいいね。",
+    "translation": "クセはあるけど、香草は肉の臭みが\n取れるし、香りづけにもいいね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "はいはい、次はあたし！\nほら、じゃんじゃじゃーん！",
+    "translation": "はいはい、次はあたし！\nほら、じゃんじゃじゃーん！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "でっか！\nつーかコレ、なんの卵っスか！？",
+    "translation": "でっか！\nつーかコレ、なんの卵っスか！？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "え、分かんない。\n落ちてたの拾っただけから。",
+    "translation": "え、分かんない。\n落ちてたの拾っただけから。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "おいおい、中から新たな生命体が\n出てこねぇだろうな…？",
+    "translation": "おいおい、中から新たな生命体が\n出てこねぇだろうな…？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "野性を感じる造形美だ。\n割らずに持ち帰りたい…",
+    "translation": "野性を感じる造形美だ。\n割らずに持ち帰りたい…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "私が取ってきたのはコレだよ。\nはい、どうぞ。",
+    "translation": "私が取ってきたのはコレだよ。\nはい、どうぞ。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "こ、これは…食虫植物か？",
+    "translation": "こ、これは…食虫植物か？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "クマの野生が言っとるクマ…\nこいつはヤベェ、と…",
+    "translation": "クマの野生が言っとるクマ…\nこいつはヤベェ、と…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "食器にしたら、可愛くないかな？\n摘みたてだから新鮮だし。",
+    "translation": "食器にしたら、可愛くないかな？\n摘みたてだから新鮮だし。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "SEL_060_0",
+    "original": "いいアイデアだ",
+    "translation": "いいアイデアだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_060_1",
+    "original": "気持ち悪い",
+    "translation": "気持ち悪い",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_060_2",
+    "original": "食材にした方がいい",
+    "translation": "食材にした方がいい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "おまっ、本気で言ってんの？\n肉盛っても溶かすぞ、この食器！？",
+    "translation": "おまっ、本気で言ってんの？\n肉盛っても溶かすぞ、この食器！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_062_0",
+    "original": "美的感覚の違いだな。\n俺は素晴らしいと思う。",
+    "translation": "美的感覚の違いだな。\n俺は素晴らしいと思う。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_063_0",
+    "original": "でしょう？\n斬新だなって私も思ったの！",
+    "translation": "でしょう？\n斬新だなって私も思ったの！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_064_0",
+    "original": "もはや、何も言うまい…",
+    "translation": "もはや、何も言うまい…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_065_0",
+    "original": "果肉が厚いから、食べごたえありそうだね。\n食物繊維も豊富そうだし。",
+    "translation": "果肉が厚いから、食べごたえありそうだね。\n食物繊維も豊富そうだし。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_066_0",
+    "original": "天城さんって、\n老舗旅館の次期女将だったよな…？",
+    "translation": "天城さんって、\n老舗旅館の次期女将だったよな…？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_066_5_0",
+    "original": "俺、聞き間違えた？　あれ？",
+    "translation": "俺、聞き間違えた？　あれ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_067_0",
+    "original": "いや、分かるぞ…その気持ち…",
+    "translation": "いや、分かるぞ…その気持ち…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_068_0",
+    "original": "どうしよ…私が持ってきたヤツ、\nみんなのに比べると地味かも。",
+    "translation": "どうしよ…私が持ってきたヤツ、\nみんなのに比べると地味かも。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_069_0",
+    "original": "なんだよ、見せてみろって。",
+    "translation": "なんだよ、見せてみろって。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_070_0",
+    "original": "ふぉぉ！　良い香りだ…！\nもしや、これは…",
+    "translation": "ふぉぉ！　良い香りだ…！\nもしや、これは…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_071_0",
+    "original": "天然の松茸だよ。",
+    "translation": "天然の松茸だよ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_071_1",
+    "original": "最初に[P3P名]ちゃんが見つけて、\n怪盗女子チームで集めてきたの。",
+    "translation": "最初に[P3P名]ちゃんが見つけて、\n怪盗女子チームで集めてきたの。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_072_0",
+    "original": "高級食材じゃん！　スッゲー！",
+    "translation": "高級食材じゃん！　スッゲー！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_073_0",
+    "original": "でも、なぜジャングルに松茸が…？",
+    "translation": "でも、なぜジャングルに松茸が…？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_074_0",
+    "original": "おそらく、遺伝子操作の実験用\nだったんだと思います。",
+    "translation": "おそらく、遺伝子操作の実験用\nだったんだと思います。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_074_1",
+    "original": "研究者が恐竜を誕生させるついでに、\n栽培して作ったとか…憶測ですが。",
+    "translation": "研究者が恐竜を誕生させるついでに、\n栽培して作ったとか…憶測ですが。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_075_0",
+    "original": "というわけで、女子チームの収穫は\nハーブ、何かの卵、食虫植物、松茸だよ！",
+    "translation": "というわけで、女子チームの収穫は\nハーブ、何かの卵、食虫植物、松茸だよ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_076_0",
+    "original": "食虫植物は…その、アレだけど…\n他のはなんとかなりそうじゃない？",
+    "translation": "食虫植物は…その、アレだけど…\n他のはなんとかなりそうじゃない？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_077_0",
+    "original": "こちらも、火加減と肉の仕込みは万全だ。",
+    "translation": "こちらも、火加減と肉の仕込みは万全だ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_077_1",
+    "original": "ジョーカー、[P4姓]。\nあとは頼むぞ。",
+    "translation": "ジョーカー、[P4姓]。\nあとは頼むぞ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_078_0",
+    "original": "まずは、松茸から調理するか。\nこれを…",
+    "translation": "まずは、松茸から調理するか。\nこれを…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_079_0",
+    "original": "さっと火で炙る",
+    "translation": "さっと火で炙る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_079_1",
+    "original": "みじん切りにする",
+    "translation": "みじん切りにする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_080_0",
+    "original": "おお…火が通った瞬間、\nいい香りが広がったな。",
+    "translation": "おお…火が通った瞬間、\nいい香りが広がったな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_081_0",
+    "original": "食欲が刺激されて、クマのお腹は\nすでにギュルギュルですぞ！",
+    "translation": "食欲が刺激されて、クマのお腹は\nすでにギュルギュルですぞ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_082_0",
+    "original": "えっ？　か、かなり大胆ね…",
+    "translation": "えっ？　か、かなり大胆ね…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_083_0",
+    "original": "わ、すげー勢いで小さくなっていく！\nなんか勿体ない！",
+    "translation": "わ、すげー勢いで小さくなっていく！\nなんか勿体ない！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_084_0",
+    "original": "さて…次は肉だ。\n焼くときの火加減はどうする？",
+    "translation": "さて…次は肉だ。\n焼くときの火加減はどうする？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_085_0",
+    "original": "遠火で強火",
+    "translation": "遠火で強火",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_085_1",
+    "original": "近火で弱火",
+    "translation": "近火で弱火",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_086_0",
+    "original": "やっべ、一気に焼き目がついて\n超うまそー！　ハラ減った…",
+    "translation": "やっべ、一気に焼き目がついて\n超うまそー！　ハラ減った…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_087_0",
+    "original": "お腹すいたなら、これ摘まんでみる？",
+    "translation": "お腹すいたなら、これ摘まんでみる？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_088_0",
+    "original": "お、サンキュ…",
+    "translation": "お、サンキュ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_088_1",
+    "original": "ってコレ、食虫植物じゃねえか！\nなんか動いてるし、無理だろ！",
+    "translation": "ってコレ、食虫植物じゃねえか！\nなんか動いてるし、無理だろ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_089_0",
+    "original": "じっくりと焼くのって、\nなーんかじれったいんだよね。",
+    "translation": "じっくりと焼くのって、\nなーんかじれったいんだよね。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_090_0",
+    "original": "うん、分かる。\n強火で一気にいきたいよね。",
+    "translation": "うん、分かる。\n強火で一気にいきたいよね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_091_0",
+    "original": "頼むから、お前らは火に近づくなよ…",
+    "translation": "頼むから、お前らは火に近づくなよ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_092_0",
+    "original": "うむ、美しい焼き色だ。\n肉はこれでいいだろう。",
+    "translation": "うむ、美しい焼き色だ。\n肉はこれでいいだろう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_093_0",
+    "original": "じゃあ、松茸を添えて…",
+    "translation": "じゃあ、松茸を添えて…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_094_0",
+    "original": "仕上げに特製ソースをかけてっと…\nはいっ、完成！",
+    "translation": "仕上げに特製ソースをかけてっと…\nはいっ、完成！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_095_0",
+    "original": "おい里中！　今、なにしやがった！？",
+    "translation": "おい里中！　今、なにしやがった！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_096_0",
+    "original": "特製ソースかけただけだけど？",
+    "translation": "特製ソースかけただけだけど？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_097_0",
+    "original": "そのソースの中身だよ！\nんなモン、いつの間に作ったんだ！？",
+    "translation": "そのソースの中身だよ！\nんなモン、いつの間に作ったんだ！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_098_0",
+    "original": "卵の白身と、ハーブと、食虫植物の液を\n混ぜて溶かしてみたの。",
+    "translation": "卵の白身と、ハーブと、食虫植物の液を\n混ぜて溶かしてみたの。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_099_0",
+    "original": "あの、先輩たちが…せっかく採ってきた\n食材を余らせるのは勿体無いと…",
+    "translation": "あの、先輩たちが…せっかく採ってきた\n食材を余らせるのは勿体無いと…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_099_5_0",
+    "original": "僕も、何も言えず…すみません。",
+    "translation": "僕も、何も言えず…すみません。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_100_0",
+    "original": "これは…肉が、緑色のスライムに\n覆われているようだ。",
+    "translation": "これは…肉が、緑色のスライムに\n覆われているようだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_101_0",
+    "original": "ほら、オーガニックだっけ？\n緑色だし、匂いも恐竜っぽくない？",
+    "translation": "ほら、オーガニックだっけ？\n緑色だし、匂いも恐竜っぽくない？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_102_0",
+    "original": "ぽくねーわ！\nただ青クセェだけだろ、コレ！",
+    "translation": "ぽくねーわ！\nただ青クセェだけだろ、コレ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_103_0",
+    "original": "どうするんスか、これ…？\n未知の物体になっちまったけど。",
+    "translation": "どうするんスか、これ…？\n未知の物体になっちまったけど。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_104_0",
+    "original": "味見…してみる？",
+    "translation": "味見…してみる？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_105_0",
+    "original": "え、誰が！？",
+    "translation": "え、誰が！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_106_0",
+    "original": "ヨースケの口に、ポイッとな。",
+    "translation": "ヨースケの口に、ポイッとな。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_107_0",
+    "original": "もがっ！？　ちょ、馬鹿！\n俺はまだ死にたく…うごわぁ！",
+    "translation": "もがっ！？　ちょ、馬鹿！\n俺はまだ死にたく…うごわぁ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_108_0",
+    "original": "陽介…生きて帰ってきてくれ…",
+    "translation": "陽介…生きて帰ってきてくれ…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_109_0",
+    "original": "…ぐっほ、げぇっほ！！",
+    "translation": "…ぐっほ、げぇっほ！！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_110_0",
+    "original": "えっ、大丈夫！？\n吐き出したほうがいいんじゃ…",
+    "translation": "えっ、大丈夫！？\n吐き出したほうがいいんじゃ…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_111_0",
+    "original": "ぐ…う、うぅぅぅう…！\nううぅぅぅぅぅうぅぅぅぅ！",
+    "translation": "ぐ…う、うぅぅぅう…！\nううぅぅぅぅぅうぅぅぅぅ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_111_1",
+    "original": "う…うう…ッ！",
+    "translation": "う…うう…ッ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_112_0",
+    "original": "うっ…んまぁぁぁぁい！",
+    "translation": "うっ…んまぁぁぁぁい！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_113_0",
+    "original": "マジかよ！？",
+    "translation": "マジかよ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_114_0",
+    "original": "マジだって、奇跡的にウマイ！\nみんな食べてみ！？",
+    "translation": "マジだって、奇跡的にウマイ！\nみんな食べてみ！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_115_0",
+    "original": "もぐもぐ…",
+    "translation": "もぐもぐ…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_115_1",
+    "original": "本当だ、これ美味しい！\nクリーミーで、コクがあるね！",
+    "translation": "本当だ、これ美味しい！\nクリーミーで、コクがあるね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_116_0",
+    "original": "うん、クセになる味だね。\nお肉と合わせると、味に深みが出る。",
+    "translation": "うん、クセになる味だね。\nお肉と合わせると、味に深みが出る。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_117_0",
+    "original": "信じらんねぇ…あのスライムが…\n肉との化学反応を起こしたのか！？",
+    "translation": "信じらんねぇ…あのスライムが…\n肉との化学反応を起こしたのか！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_118_0",
+    "original": "苦みと、香りの多重奏…\n肉との奇跡のコラボレーションだな。",
+    "translation": "苦みと、香りの多重奏…\n肉との奇跡のコラボレーションだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_119_0",
+    "original": "どーだ、花村！\nあたしらの料理の力、思い知ったか！",
+    "translation": "どーだ、花村！\nあたしらの料理の力、思い知ったか！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_120_0",
+    "original": "や、奇跡と偶然が重なりまくっただけだろ。\n肉がなかったら、青臭いヘドロだっつの。",
+    "translation": "や、奇跡と偶然が重なりまくっただけだろ。\n肉がなかったら、青臭いヘドロだっつの。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_121_0",
+    "original": "とにかく…これなら、あの肉食恐竜も\n釣られてくれるかもね。",
+    "translation": "とにかく…これなら、あの肉食恐竜も\n釣られてくれるかもね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_122_0",
+    "original": "冷めないうちに、試しに行きましょう。",
+    "translation": "冷めないうちに、試しに行きましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

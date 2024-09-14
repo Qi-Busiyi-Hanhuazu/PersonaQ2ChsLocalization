@@ -1,0 +1,219 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あれ？　ここ行き止まりみたい。\n別の道を探そっか。",
+    "translation": "あれ？　ここ行き止まりみたい。\n別の道を探そっか。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "大変だけど、仕方ないか。",
+    "translation": "大変だけど、仕方ないか。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "あーあ、ウィンドウショッピングだったら\nいくらでも歩けちゃうのにな。",
+    "translation": "あーあ、ウィンドウショッピングだったら\nいくらでも歩けちゃうのにな。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そういえば、パンサーって\nモデルやってるんだっけ？",
+    "translation": "そういえば、パンサーって\nモデルやってるんだっけ？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うん、アルバイトだけどね。\nもともとアパレルとか好きなんだ。",
+    "translation": "うん、アルバイトだけどね。\nもともとアパレルとか好きなんだ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "ここにもアパレルショップがあるから、来た\nばっかりの時にちょっと覗いたんだけど…",
+    "translation": "ここにもアパレルショップがあるから、来た\nばっかりの時にちょっと覗いたんだけど…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "どの服も、ちょっと…\nセンスが突き抜けてるっていうか。",
+    "translation": "どの服も、ちょっと…\nセンスが突き抜けてるっていうか。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_3",
+    "original": "服に、カモシダーマンが大きくプリント\nされてたりするし。超無理。",
+    "translation": "服に、カモシダーマンが大きくプリント\nされてたりするし。超無理。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あー、カモシダーマンって\nニカッて笑ってる人だよね？",
+    "translation": "あー、カモシダーマンって\nニカッて笑ってる人だよね？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "確かに、笑顔がくどいっていうか…\nさすがに私も、アレは着れないかな。",
+    "translation": "確かに、笑顔がくどいっていうか…\nさすがに私も、アレは着れないかな。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "たしかにダサい",
+    "translation": "たしかにダサい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "オシャレだと思う",
+    "translation": "オシャレだと思う",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_2",
+    "original": "自分も欲しい",
+    "translation": "自分も欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "だよね？\nやっぱジョーカーもそう思うよね！？",
+    "translation": "だよね？\nやっぱジョーカーもそう思うよね！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "え、マジ！？",
+    "translation": "え、マジ！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "この街では人気のデザインなんだろうけど、\nカモシダーマン柄とか…",
+    "translation": "この街では人気のデザインなんだろうけど、\nカモシダーマン柄とか…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_2",
+    "original": "うー、ダメだ！　想像したけど無理！\nあの顔に体が包まれるとか、あり得ない！",
+    "translation": "うー、ダメだ！　想像したけど無理！\nあの顔に体が包まれるとか、あり得ない！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "は！？　本気で言ってるの？",
+    "translation": "は！？　本気で言ってるの？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "まぁ、趣味は人それぞれだけどさ…私なら、\n着ろって言われたら罰ゲームレベルかも。",
+    "translation": "まぁ、趣味は人それぞれだけどさ…私なら、\n着ろって言われたら罰ゲームレベルかも。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "でも、そのダサさが一周回ってカッコいい！\n…とかならないかな？",
+    "translation": "でも、そのダサさが一周回ってカッコいい！\n…とかならないかな？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "一周じゃ足りないって。\n百周回っても厳しいかも。",
+    "translation": "一周じゃ足りないって。\n百周回っても厳しいかも。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "安心しろ、パンサー！",
+    "translation": "安心しろ、パンサー！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "パンサーなら、カモシダーマン柄の服も\n見事に着こなせると思うぞ？",
+    "translation": "パンサーなら、カモシダーマン柄の服も\n見事に着こなせると思うぞ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "いや、そういう話じゃないから。\n着こなせても嬉しくないし。",
+    "translation": "いや、そういう話じゃないから。\n着こなせても嬉しくないし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ニャギッ！？",
+    "translation": "ニャギッ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ま、ショッピングはこの世界から\n無事に帰れたらだね。",
+    "translation": "ま、ショッピングはこの世界から\n無事に帰れたらだね。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "さ、早く行こ！",
+    "translation": "さ、早く行こ！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

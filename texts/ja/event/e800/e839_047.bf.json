@@ -1,0 +1,324 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おおっ？\n扉の向こうで、『家』があって…",
+    "translation": "おおっ？\n扉の向こうで、『家』があって…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "そろそろこの辺じゃね？\n…って、いくつかあるけど、どのお宅？",
+    "translation": "そろそろこの辺じゃね？\n…って、いくつかあるけど、どのお宅？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "『塞がれた道』んトコっつってたけど…\nま、しらみ潰しに探すのもアリだろ。",
+    "translation": "『塞がれた道』んトコっつってたけど…\nま、しらみ潰しに探すのもアリだろ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "つか、怖～いシャドウが待ってんだったな。\nビビるなよ、お前ら。",
+    "translation": "つか、怖～いシャドウが待ってんだったな。\nビビるなよ、お前ら。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "へっ、誰に言ってんだ。\n怪盗団の切り込み隊長、ナメんなよ？",
+    "translation": "へっ、誰に言ってんだ。\n怪盗団の切り込み隊長、ナメんなよ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "どーしたひかりん、緊張してんのか？",
+    "translation": "どーしたひかりん、緊張してんのか？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "安心したまえ、エース伊織順平の大活躍で\nシャドウなんざ、ひとヒネりよ。",
+    "translation": "安心したまえ、エース伊織順平の大活躍で\nシャドウなんざ、ひとヒネりよ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あのね、みんなどうしてそんなに\n強くいられるのかなって。",
+    "translation": "あのね、みんなどうしてそんなに\n強くいられるのかなって。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "いつも明るくて、自信があって\nどんな怖い相手にも立ち向かって…",
+    "translation": "いつも明るくて、自信があって\nどんな怖い相手にも立ち向かって…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うーん、あんま考えたことねえけど、\nそれが俺の役目っつーかさ。",
+    "translation": "うーん、あんま考えたことねえけど、\nそれが俺の役目っつーかさ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "ヤベえ奴相手でも、俺がガンガン行きゃ、\nあとは仲間が何とかしてくれる。",
+    "translation": "ヤベえ奴相手でも、俺がガンガン行きゃ、\nあとは仲間が何とかしてくれる。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_2",
+    "original": "しかも、こっちにはジョーカーいるしな。\nスゲえ奴だって、ひかりも知ってるだろ？",
+    "translation": "しかも、こっちにはジョーカーいるしな。\nスゲえ奴だって、ひかりも知ってるだろ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "おお、わかるわ。\n俺も相棒と組んでりゃ無敵な気するし。",
+    "translation": "おお、わかるわ。\n俺も相棒と組んでりゃ無敵な気するし。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "でも、だからこそ気合入るんだよな。\nアイツの足だけは引っ張れねえって。",
+    "translation": "でも、だからこそ気合入るんだよな。\nアイツの足だけは引っ張れねえって。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "だな、俺もアイツに居場所もらったからさ。\nダセえとこ見せるワケにいかねーよ。",
+    "translation": "だな、俺もアイツに居場所もらったからさ。\nダセえとこ見せるワケにいかねーよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "友と書いてライバルっての？\n[P3名]以外に考えられないね、うん。",
+    "translation": "友と書いてライバルっての？\n[P3名]以外に考えられないね、うん。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ふふ、みんなリーダーを信じてるんだね。\n何だかうらやましい。",
+    "translation": "ふふ、みんなリーダーを信じてるんだね。\n何だかうらやましい。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "そういう、ただの友達じゃなくて\n『大好きだから負けたくない』って感じも。",
+    "translation": "そういう、ただの友達じゃなくて\n『大好きだから負けたくない』って感じも。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "だ、大好き！？",
+    "translation": "だ、大好き！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "ま、負けたくねえのはそうだけど、\nハッキリそう言われると照れくせえな。",
+    "translation": "ま、負けたくねえのはそうだけど、\nハッキリそう言われると照れくせえな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ま、まあとにかく信頼はしてるっつーか、\n美しい男の友情ってことかな！",
+    "translation": "ま、まあとにかく信頼はしてるっつーか、\n美しい男の友情ってことかな！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "つーか今の話、ジョーカーたちには内緒な！\nなんか恥ずいしよ！",
+    "translation": "つーか今の話、ジョーカーたちには内緒な！\nなんか恥ずいしよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ふふっ、わかった。\n秘密にしておくね。",
+    "translation": "ふふっ、わかった。\n秘密にしておくね。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "まー、あのお調子者トリオは\n声デカくて丸聞こえなんだけどねー。",
+    "translation": "まー、あのお調子者トリオは\n声デカくて丸聞こえなんだけどねー。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ジョーカーたち、褒められまくってたね。\n信じてて、負けたくないんだって。",
+    "translation": "ジョーカーたち、褒められまくってたね。\n信じてて、負けたくないんだって。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "聞いてどう？　嬉しい？",
+    "translation": "聞いてどう？　嬉しい？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_017_0",
+    "original": "ちょっと照れる",
+    "translation": "ちょっと照れる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_017_1",
+    "original": "別に…",
+    "translation": "別に…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_017_2",
+    "original": "大好き",
+    "translation": "大好き",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "はは、改めて言われちゃうとそうかも。\n嬉しいんだけどさ。",
+    "translation": "はは、改めて言われちゃうとそうかも。\n嬉しいんだけどさ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ふふ、そう言うわりに、\n顔はずいぶん嬉しそうよ。",
+    "translation": "ふふ、そう言うわりに、\n顔はずいぶん嬉しそうよ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "まあ、ちょっと恥ずかしいよね。\nそんな話、あんまりしないから。",
+    "translation": "まあ、ちょっと恥ずかしいよね。\nそんな話、あんまりしないから。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "え、ちょっ！？\nそそそ、そういうのは直接言いなって！",
+    "translation": "え、ちょっ！？\nそそそ、そういうのは直接言いなって！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "はは、すごく信頼し合ってるんだね。\nこっちまでなんか照れちゃうな…",
+    "translation": "はは、すごく信頼し合ってるんだね。\nこっちまでなんか照れちゃうな…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "よし、相棒の想いに応えるためにも\n俺たちも頑張らないとな。",
+    "translation": "よし、相棒の想いに応えるためにも\n俺たちも頑張らないとな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "目指す『家』はすぐ近くだ。\n気を引き締めていこう。",
+    "translation": "目指す『家』はすぐ近くだ。\n気を引き締めていこう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "key": "CHIE_FOE_FOLLOW_START_1_0",
+    "original": "やっば、Ｆ．Ｏ．Ｅに見つかった！",
+    "translation": "やっば、Ｆ．Ｏ．Ｅに見つかった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_FOE_FOLLOW_START_2_0",
+    "original": "げげっ！　Ｆ．Ｏ．Ｅじゃん！",
+    "translation": "げげっ！　Ｆ．Ｏ．Ｅじゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_FOE_FOLLOW_START_3_0",
+    "original": "Ｆ．Ｏ．Ｅがこっちにきてる！",
+    "translation": "Ｆ．Ｏ．Ｅがこっちにきてる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅ、ちかっ！",
+    "translation": "Ｆ．Ｏ．Ｅ、ちかっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_FOE_NEAR_2_0",
+    "original": "げっ！　Ｆ．Ｏ．Ｅだよ！",
+    "translation": "げっ！　Ｆ．Ｏ．Ｅだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅがいるよ！",
+    "translation": "Ｆ．Ｏ．Ｅがいるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_FOE_FOLLOW_END_1_0",
+    "original": "おっ、Ｆ．Ｏ．Ｅ撒いたね！",
+    "translation": "おっ、Ｆ．Ｏ．Ｅ撒いたね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_FOE_FOLLOW_END_2_0",
+    "original": "ふー、もう追ってこないね。",
+    "translation": "ふー、もう追ってこないね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_FOE_FOLLOW_END_3_0",
+    "original": "Ｆ．Ｏ．Ｅを振り切ったっぽいよ！",
+    "translation": "Ｆ．Ｏ．Ｅを振り切ったっぽいよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_KANSI_REACTION_1_0",
+    "original": "うう、心臓に悪い…",
+    "translation": "うう、心臓に悪い…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_KANSI_REACTION_2_0",
+    "original": "抜き足、差し足…",
+    "translation": "抜き足、差し足…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_KANSI_REACTION_3_0",
+    "original": "見つからないようにね。",
+    "translation": "見つからないようにね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_DENKISAKU_REACTION__0",
+    "original": "触らないように気をつけてね。",
+    "translation": "触らないように気をつけてね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_DENKISAKU_REACTION__2_0",
+    "original": "この柵、ヤバすぎでしょ。",
+    "translation": "この柵、ヤバすぎでしょ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_DENKISAKU_REACTION__3_0",
+    "original": "コレ、とめないと～！",
+    "translation": "コレ、とめないと～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_KYOUHU_REACTION_1_0",
+    "original": "わっ！",
+    "translation": "わっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_KYOUHU_REACTION_2_0",
+    "original": "ひゃ！",
+    "translation": "ひゃ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_KYOUHU_REACTION_3_0",
+    "original": "おおっ！？",
+    "translation": "おおっ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_STAIR_FIND_1_0",
+    "original": "ねえ、先に進めそうじゃない？",
+    "translation": "ねえ、先に進めそうじゃない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_STAIR_FIND_2_0",
+    "original": "次のエリアだ！　行こ行こっ！",
+    "translation": "次のエリアだ！　行こ行こっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_STAIR_FIND_3_0",
+    "original": "先進めるね！　よーし、ゴー！",
+    "translation": "先進めるね！　よーし、ゴー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_TREASURE_FIND_1_0",
+    "original": "やった、お宝はっけ～ん！",
+    "translation": "やった、お宝はっけ～ん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_TREASURE_FIND_2_0",
+    "original": "宝箱、みーっけ！",
+    "translation": "宝箱、みーっけ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_TREASURE_FIND_3_0",
+    "original": "やった、宝箱じゃん！",
+    "translation": "やった、宝箱じゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_CHECK_WALL_1_0",
+    "original": "あそこ、何かない？",
+    "translation": "あそこ、何かない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_CHECK_WALL_2_0",
+    "original": "この辺、調べてみない？",
+    "translation": "この辺、調べてみない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_CHECK_WALL_3_0",
+    "original": "なんか見えない？",
+    "translation": "なんか見えない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_SWITCH_FIND_1_0",
+    "original": "スイッチを見つけたぞよ！",
+    "translation": "スイッチを見つけたぞよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_SWITCH_FIND_2_0",
+    "original": "スイッチがあるよ！",
+    "translation": "スイッチがあるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_SWITCH_FIND_3_0",
+    "original": "お？　スイッチかな？",
+    "translation": "お？　スイッチかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_SHORTCUT_FIND_1_0",
+    "original": "ね、近道できそうじゃない？",
+    "translation": "ね、近道できそうじゃない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_SHORTCUT_FIND_2_0",
+    "original": "そこ、通れそうだよ！",
+    "translation": "そこ、通れそうだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_SHORTCUT_FIND_3_0",
+    "original": "近道できそうなとこ、みーっけ！",
+    "translation": "近道できそうなとこ、みーっけ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_FOE_WARNING_NEAR_1_0",
+    "original": "やばっ、まだ追ってきてる！",
+    "translation": "やばっ、まだ追ってきてる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_FOE_WARNING_NEAR_2_0",
+    "original": "ちょっと、Ｆ．Ｏ．Ｅ来てるよ！",
+    "translation": "ちょっと、Ｆ．Ｏ．Ｅ来てるよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_FOE_WARNING_NEAR_3_0",
+    "original": "まだ追われてない！？",
+    "translation": "まだ追われてない！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_1PERSON_HPTP10_1_0",
+    "original": "お願い、肉チャージさせて…",
+    "translation": "お願い、肉チャージさせて…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_1PERSON_HPTP10_2_0",
+    "original": "ううー…ヘトヘトっすー。",
+    "translation": "ううー…ヘトヘトっすー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_1PERSON_HPTP10_3_0",
+    "original": "ハァ、ハァ…もうダメかも…",
+    "translation": "ハァ、ハァ…もうダメかも…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_1PERSON_HP10_1_0",
+    "original": "体力ヤバイ、回復して～！",
+    "translation": "体力ヤバイ、回復して～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_1PERSON_HP10_2_0",
+    "original": "体力、きっつー…",
+    "translation": "体力、きっつー…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_1PERSON_HP10_3_0",
+    "original": "ぶ、ぶっ倒れそう…",
+    "translation": "ぶ、ぶっ倒れそう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_1PERSON_TP10_1_0",
+    "original": "うう…肉が足りない…",
+    "translation": "うう…肉が足りない…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_1PERSON_TP10_2_0",
+    "original": "きっつ…ちょ、ちょっと一息…",
+    "translation": "きっつ…ちょ、ちょっと一息…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_1PERSON_TP10_3_0",
+    "original": "ちょっとキツいかも…",
+    "translation": "ちょっとキツいかも…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_1PERSON_HP80_1_0",
+    "original": "まだまだ、これから！",
+    "translation": "まだまだ、これから！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_1PERSON_HP80_2_0",
+    "original": "さっさと次いこー！",
+    "translation": "さっさと次いこー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_1PERSON_HP80_3_0",
+    "original": "うんっ、この調子！",
+    "translation": "うんっ、この調子！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_DUNGEON_START_1_0",
+    "original": "いっくよー！",
+    "translation": "いっくよー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_DUNGEON_START_2_0",
+    "original": "気合いいれていこー！",
+    "translation": "気合いいれていこー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_DUNGEON_START_3_0",
+    "original": "よーし、頑張ろうね！",
+    "translation": "よーし、頑張ろうね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_QUEST_START_1_0",
+    "original": "特別上映、行ってみよー！",
+    "translation": "特別上映、行ってみよー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_QUEST_START_2_0",
+    "original": "絶対に達成してやる！",
+    "translation": "絶対に達成してやる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_QUEST_START_3_0",
+    "original": "なんか燃えてきた！",
+    "translation": "なんか燃えてきた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_TOUHA_25_1_0",
+    "original": "先はまだ長そうだね。",
+    "translation": "先はまだ長そうだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_TOUHA_25_2_0",
+    "original": "地図、ちょっとずつ埋まってきてるね！",
+    "translation": "地図、ちょっとずつ埋まってきてるね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_TOUHA_50_1_0",
+    "original": "やっと半分くらいきたかな？",
+    "translation": "やっと半分くらいきたかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_TOUHA_50_2_0",
+    "original": "いい感じで進んでるんじゃない？",
+    "translation": "いい感じで進んでるんじゃない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_TOUHA_75_1_0",
+    "original": "このフロア、もうちょいじゃない？",
+    "translation": "このフロア、もうちょいじゃない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_TOUHA_75_2_0",
+    "original": "あと少しだよ、がんばろっ！",
+    "translation": "あと少しだよ、がんばろっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_TOUHA_100_1_0",
+    "original": "お、全部回り切った？　おつかれさま！",
+    "translation": "お、全部回り切った？　おつかれさま！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_TOUHA_100_2_0",
+    "original": "やった、このフロアは制覇だよ！",
+    "translation": "やった、このフロアは制覇だよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_MAPPING_ICON_ALL_1_0",
+    "original": "おっ、いい感じだね！",
+    "translation": "おっ、いい感じだね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_MAPPING_ICON_ALL_2_0",
+    "original": "うんうん、正確だね！",
+    "translation": "うんうん、正確だね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_MAPPING_ICON_KAIDAN_0",
+    "original": "これなら移動もバッチリだね。",
+    "translation": "これなら移動もバッチリだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_MAPPING_ICON_KAIDAN_2_0",
+    "original": "そうそう、それ重要！",
+    "translation": "そうそう、それ重要！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_MAPPING_CHANGE_COLO_0",
+    "original": "へー、色分けするんだ！",
+    "translation": "へー、色分けするんだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_MAPPING_CHANGE_COLO_2_0",
+    "original": "色変えるのも楽しいよね。",
+    "translation": "色変えるのも楽しいよね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_MAPPING_ICON_DEL_1_0",
+    "original": "見やすさって大事だよね～。",
+    "translation": "見やすさって大事だよね～。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_MAPPING_ICON_DEL_2_0",
+    "original": "いらないマークは消しちゃお！",
+    "translation": "いらないマークは消しちゃお！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_MAPPING_MEMO_1_0",
+    "original": "メモしないと忘れちゃうもんね。",
+    "translation": "メモしないと忘れちゃうもんね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_MAPPING_MEMO_2_0",
+    "original": "そーそー、忘れないようにね！",
+    "translation": "そーそー、忘れないようにね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_DOOR_OPEN_1_0",
+    "original": "すっすめー！",
+    "translation": "すっすめー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_DOOR_OPEN_2_0",
+    "original": "突き進むぞよ。",
+    "translation": "突き進むぞよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "CHIE_DOOR_OPEN_3_0",
+    "original": "ほらほら、こっち！",
+    "translation": "ほらほら、こっち！",
+    "stage": 1,
+    "context": ""
+  }
+]

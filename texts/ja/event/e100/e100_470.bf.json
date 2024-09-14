@@ -1,0 +1,198 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ハリボテのヒーローへ宣戦布告だ！",
+    "translation": "ハリボテのヒーローへ宣戦布告だ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "覚悟しなさい！",
+    "translation": "覚悟しなさい！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "貴様ら…！",
+    "translation": "貴様ら…！",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "上手くいったね！",
+    "translation": "上手くいったね！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ま、こんなもんだろ！",
+    "translation": "ま、こんなもんだろ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ふふっ…\n贋作も、ときには役に立つ。",
+    "translation": "ふふっ…\n贋作も、ときには役に立つ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "貴様ら！　何をした！？",
+    "translation": "貴様ら！　何をした！？",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ワガハイたちは怪盗団だ。\n盗むと決めたものは必ず盗むのさ！",
+    "translation": "ワガハイたちは怪盗団だ。\n盗むと決めたものは必ず盗むのさ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "くぅっ…私に楯突くとは…！\n世間知らずのガキどもが…",
+    "translation": "くぅっ…私に楯突くとは…！\n世間知らずのガキどもが…",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "怪盗団って悪党…だろ！？",
+    "translation": "怪盗団って悪党…だろ！？",
+    "stage": 1,
+    "context": "動揺する男性市民"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "カモシダーマン様、成敗を！",
+    "translation": "カモシダーマン様、成敗を！",
+    "stage": 1,
+    "context": "怒った男性市民"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "カモシダーマン様ァ…！",
+    "translation": "カモシダーマン様ァ…！",
+    "stage": 1,
+    "context": "泣きそうな女性市民"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "さあ、どうする？",
+    "translation": "さあ、どうする？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "テメェの自称『正義』も、ここまでだぜ！",
+    "translation": "テメェの自称『正義』も、ここまでだぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "盗っ人が何をいう！\n市民を動揺させる貴様らなんぞ悪党だ！",
+    "translation": "盗っ人が何をいう！\n市民を動揺させる貴様らなんぞ悪党だ！",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "ここカモシティでは、\n私の存在こそが正義なのだ！",
+    "translation": "ここカモシティでは、\n私の存在こそが正義なのだ！",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ヒーローの力を見せてくれる！",
+    "translation": "ヒーローの力を見せてくれる！",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "来るぞ！",
+    "translation": "来るぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "うおおおおおお！\n正義は勝つ！",
+    "translation": "うおおおおおお！\n正義は勝つ！",
+    "stage": 1,
+    "context": "カモシダーマン"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_カモシダーマン",
+    "original": "カモシダーマン",
+    "translation": "カモシダーマン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_動揺する男性市民",
+    "original": "動揺する男性市民",
+    "translation": "動揺する男性市民",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_怒った男性市民",
+    "original": "怒った男性市民",
+    "translation": "怒った男性市民",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_泣きそうな女性市民",
+    "original": "泣きそうな女性市民",
+    "translation": "泣きそうな女性市民",
+    "stage": 1,
+    "context": ""
+  }
+]

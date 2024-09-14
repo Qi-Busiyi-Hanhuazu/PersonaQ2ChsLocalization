@@ -1,0 +1,261 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "映画館、映写室前…",
+    "translation": "映画館、映写室前…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "[P3P名]と祐介が、\nナギと打ち合わせをしている…",
+    "translation": "[P3P名]と祐介が、\nナギと打ち合わせをしている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "[P5名]、来たのか。",
+    "translation": "[P5名]、来たのか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "順調か？",
+    "translation": "順調か？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "問題はない？",
+    "translation": "問題はない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ああ。ちょうど、必要な道具が揃えられるか\nナギさんに訊いていたところだ。",
+    "translation": "ああ。ちょうど、必要な道具が揃えられるか\nナギさんに訊いていたところだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ナギさん！\n例のモノ、ありましたか？",
+    "translation": "ナギさん！\n例のモノ、ありましたか？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ええ。貴女の予想通り、\nバックヤードに未開封のものがございました。",
+    "translation": "ええ。貴女の予想通り、\nバックヤードに未開封のものがございました。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "あと、道具一式も。\nただ…古いので、使えるかどうか。",
+    "translation": "あと、道具一式も。\nただ…古いので、使えるかどうか。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いや、これだけあれば充分だ。\nあとは俺の腕次第で…",
+    "translation": "いや、これだけあれば充分だ。\nあとは俺の腕次第で…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "ナギさん、協力感謝します。",
+    "translation": "ナギさん、協力感謝します。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん、いけそうだね！",
+    "translation": "うん、いけそうだね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "そういえば祐介君って、\n普段はどういう絵を描いてるの？",
+    "translation": "そういえば祐介君って、\n普段はどういう絵を描いてるの？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "そうだな…なんと言えばいいのか。\n言葉にすると難しいが…",
+    "translation": "そうだな…なんと言えばいいのか。\n言葉にすると難しいが…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "美人画だ",
+    "translation": "美人画だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "裸婦画だ",
+    "translation": "裸婦画だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_2",
+    "original": "美そのものだ",
+    "translation": "美そのものだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "それもあるが、それだけじゃない。",
+    "translation": "それもあるが、それだけじゃない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "俺が描こうとしているのは\n『美』そのものだ。",
+    "translation": "俺が描こうとしているのは\n『美』そのものだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "…ラフ？　ラフスケッチ？",
+    "translation": "…ラフ？　ラフスケッチ？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "いや、あれは結局、描けなかった。\nいずれまた機会があればな…",
+    "translation": "いや、あれは結局、描けなかった。\nいずれまた機会があればな…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "だが、俺が本当に描きたいのは、\nあくまで『美』そのものだ。",
+    "translation": "だが、俺が本当に描きたいのは、\nあくまで『美』そのものだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "流石だ、[P5名]！\n君は俺をよく理解している！",
+    "translation": "流石だ、[P5名]！\n君は俺をよく理解している！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "まさに俺が描こうと\nしているのは『美』そのものだ。",
+    "translation": "まさに俺が描こうと\nしているのは『美』そのものだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "…び？",
+    "translation": "…び？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "美と言っても表面的な美しさではない。",
+    "translation": "美と言っても表面的な美しさではない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "心の美しさ、そして醜さ…それらの\n激しくも切ない、火花散らす葛藤の…",
+    "translation": "心の美しさ、そして醜さ…それらの\n激しくも切ない、火花散らす葛藤の…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "あ、ごめん！\n長くなりそうだから、また今度聞かせて。",
+    "translation": "あ、ごめん！\n長くなりそうだから、また今度聞かせて。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "それより準備準備！",
+    "translation": "それより準備準備！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ここは大丈夫そうだ。\n一旦、戻ろう…",
+    "translation": "ここは大丈夫そうだ。\n一旦、戻ろう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ここは大丈夫そうだ。\n他の仲間の様子を見に行こうか…",
+    "translation": "ここは大丈夫そうだ。\n他の仲間の様子を見に行こうか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_019_0",
+    "original": "明智とエリザベスの所に行く",
+    "translation": "明智とエリザベスの所に行く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_019_1",
+    "original": "杏と竜司の所に行く",
+    "translation": "杏と竜司の所に行く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_019_2",
+    "original": "モルガナと双葉の所に行く",
+    "translation": "モルガナと双葉の所に行く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  }
+]

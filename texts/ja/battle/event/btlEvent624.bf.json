@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "弱い者のために、\n私は映画を流し続ける…",
+    "translation": "弱い者のために、\n私は映画を流し続ける…",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "今さら、現実と向き合って何になる？",
+    "translation": "今さら、現実と向き合って何になる？",
+    "stage": 1,
+    "context": "ドー"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "人は傷つくから、\n人の痛みを知ることができる。",
+    "translation": "人は傷つくから、\n人の痛みを知ることができる。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "人の痛みを知ってるから、\n人に手を差し伸べられる。",
+    "translation": "人の痛みを知ってるから、\n人に手を差し伸べられる。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "つまずいた時は、立ち止まったっていい。\nそして、周りを見渡してみるんだ。",
+    "translation": "つまずいた時は、立ち止まったっていい。\nそして、周りを見渡してみるんだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "手を貸してくれる人は、\nきっと自分の近くにいる。",
+    "translation": "手を貸してくれる人は、\nきっと自分の近くにいる。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "ゆっくりでいい。\n立ち上がって、前を向いたら、進むんだ。",
+    "translation": "ゆっくりでいい。\n立ち上がって、前を向いたら、進むんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "私は…私たちは…",
+    "translation": "私は…私たちは…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "自分の足で、自分の道を歩んでみせる！",
+    "translation": "自分の足で、自分の道を歩んでみせる！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_ドー",
+    "original": "ドー",
+    "translation": "ドー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  }
+]

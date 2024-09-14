@@ -1,0 +1,268 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "先ほどは介抱していただき\nありがとうございます。",
+    "translation": "先ほどは介抱していただき\nありがとうございます。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "アイギスさん…\nみんなと、一緒に行くの？",
+    "translation": "アイギスさん…\nみんなと、一緒に行くの？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "もちろんです。\nわたしも、皆さんと一緒に戦うであります。",
+    "translation": "もちろんです。\nわたしも、皆さんと一緒に戦うであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "で、でも…\nまたあんな酷い目に遭ったら…",
+    "translation": "で、でも…\nまたあんな酷い目に遭ったら…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "アイギスのこと、心配してくれてるんだね。\nありがとう。",
+    "translation": "アイギスのこと、心配してくれてるんだね。\nありがとう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "わたしならこの通り、完全回復であります。\nいつでも、出撃できます。",
+    "translation": "わたしならこの通り、完全回復であります。\nいつでも、出撃できます。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "じゃあ、先に皆のところで準備して。\n僕もすぐに行く。",
+    "translation": "じゃあ、先に皆のところで準備して。\n僕もすぐに行く。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "了解であります。",
+    "translation": "了解であります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "[P3姓]くん、アイギスさんや\nコロちゃんたちのリーダーなんだよね？",
+    "translation": "[P3姓]くん、アイギスさんや\nコロちゃんたちのリーダーなんだよね？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "うん、そうだよ。",
+    "translation": "うん、そうだよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "まとめるの、難しくないの…？",
+    "translation": "まとめるの、難しくないの…？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "んー…そうでもないかな。\nけっこう楽しいよ。",
+    "translation": "んー…そうでもないかな。\nけっこう楽しいよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "でも、みんな凄く個性的で、\n普通とはちょっと違うよね…？",
+    "translation": "でも、みんな凄く個性的で、\n普通とはちょっと違うよね…？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "普通、かぁ…\n普通って、なんだろうね。",
+    "translation": "普通、かぁ…\n普通って、なんだろうね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "え？",
+    "translation": "え？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "僕の仲間は少し…いや、かなりかな？\nそれぞれ特徴的だからね。",
+    "translation": "僕の仲間は少し…いや、かなりかな？\nそれぞれ特徴的だからね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "でも、気になったことはないよ。\nみんな違って当たり前だし。",
+    "translation": "でも、気になったことはないよ。\nみんな違って当たり前だし。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_016_2",
+    "original": "僕だって、順平から『空気詠み人知らず』\nなんて言われたりする。",
+    "translation": "僕だって、順平から『空気詠み人知らず』\nなんて言われたりする。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "でも、みんなと違ったら…\nおかしいって、変な目で見られる。",
+    "translation": "でも、みんなと違ったら…\nおかしいって、変な目で見られる。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "自分を否定する誰かのために、自分を\n変える必要なんてないんじゃないかな。",
+    "translation": "自分を否定する誰かのために、自分を\n変える必要なんてないんじゃないかな。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "自分と違っても、受け入れてくれる人は\n絶対にいるはずだから。",
+    "translation": "自分と違っても、受け入れてくれる人は\n絶対にいるはずだから。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "でも…それでも、私は…",
+    "translation": "でも…それでも、私は…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "…ごめんなさい。",
+    "translation": "…ごめんなさい。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "おーい、オマエら！\n早く行こうぜ！",
+    "translation": "おーい、オマエら！\n早く行こうぜ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "みなさんお待ちであります。",
+    "translation": "みなさんお待ちであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "早く来ないと、置いてっちゃうって\nヨースケが言ってるクマ！",
+    "translation": "早く来ないと、置いてっちゃうって\nヨースケが言ってるクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "言ってねーよ！",
+    "translation": "言ってねーよ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "わかった、すぐ行く。",
+    "translation": "わかった、すぐ行く。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "うまく、言葉に出来ないけど…",
+    "translation": "うまく、言葉に出来ないけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "今から僕たちが、あの映画を変える。\nその結末を見たら…また話そう。",
+    "translation": "今から僕たちが、あの映画を変える。\nその結末を見たら…また話そう。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "うん…わかった。\n気をつけて…ね。",
+    "translation": "うん…わかった。\n気をつけて…ね。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  }
+]

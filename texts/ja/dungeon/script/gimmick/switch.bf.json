@@ -1,0 +1,37 @@
+[
+  {
+    "key": "YESNO_SEL_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SWITCH_SCR_MSG_01_0",
+    "original": "＞！！ああっと！！",
+    "translation": "＞！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SWITCH_SCR_MSG_02_0",
+    "original": "＞危なかった！！",
+    "translation": "＞危なかった！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_KANSI_CAMERA_MOVE_0",
+    "original": "＞！？",
+    "translation": "＞！？",
+    "stage": 1,
+    "context": ""
+  }
+]

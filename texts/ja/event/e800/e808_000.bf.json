@@ -1,0 +1,275 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ちぇっ、また行き止まりかよ。",
+    "translation": "ちぇっ、また行き止まりかよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "どうした直斗。考え事か？",
+    "translation": "どうした直斗。考え事か？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ああ、いえ。少しだけ気になって。",
+    "translation": "ああ、いえ。少しだけ気になって。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "映画の中が何故、こんな迷宮のように\nなっているんだろう…と。",
+    "translation": "映画の中が何故、こんな迷宮のように\nなっているんだろう…と。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "たまたまだ",
+    "translation": "たまたまだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "迷わせるため",
+    "translation": "迷わせるため",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_2",
+    "original": "考えたことなかった",
+    "translation": "考えたことなかった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そうかも知れません。\nただ、偶然にしては手の込んだ作りです。",
+    "translation": "そうかも知れません。\nただ、偶然にしては手の込んだ作りです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そうならないように\n地図ちゃんと描いとけよー！",
+    "translation": "そうならないように\n地図ちゃんと描いとけよー！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そうですね。\nかなり入り組んだ作りですから。",
+    "translation": "そうですね。\nかなり入り組んだ作りですから。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "そういえば、変だよね。\nなんで迷路みたいになってるんだろ。",
+    "translation": "そういえば、変だよね。\nなんで迷路みたいになってるんだろ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "じつは、わたしもずっと考えてた。",
+    "translation": "じつは、わたしもずっと考えてた。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "まるで誰かが、わたしたちが奥に進むのを\n拒んでるみたいな…",
+    "translation": "まるで誰かが、わたしたちが奥に進むのを\n拒んでるみたいな…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "なるほど、この迷宮は誰かの心象風景…\n面白い仮説ですね。",
+    "translation": "なるほど、この迷宮は誰かの心象風景…\n面白い仮説ですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "誰かって、誰がそんなイジワルするの？",
+    "translation": "誰かって、誰がそんなイジワルするの？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そこまではわかりませんが…\n経験上、あり得るという話です。",
+    "translation": "そこまではわかりませんが…\n経験上、あり得るという話です。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "よくわかんないけど、\n進むのにアタマ使うよね。",
+    "translation": "よくわかんないけど、\n進むのにアタマ使うよね。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "もしあたし一人だったら、\n仕掛けとかゼッタイ解けないもん。",
+    "translation": "もしあたし一人だったら、\n仕掛けとかゼッタイ解けないもん。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "俺もそういうのニガテ…\nそこはリーダーに任せるわ。",
+    "translation": "俺もそういうのニガテ…\nそこはリーダーに任せるわ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "あと、ウチにはクソ生意気だけど\n超天才のナビもいるしな。",
+    "translation": "あと、ウチにはクソ生意気だけど\n超天才のナビもいるしな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こらー、生意気はよけいだぞー。",
+    "translation": "こらー、生意気はよけいだぞー。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "でも、パズルゲーとか嫌いじゃないぞ。\nそこは任せとけ。",
+    "translation": "でも、パズルゲーとか嫌いじゃないぞ。\nそこは任せとけ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "頭脳派の直斗くんもいるし、安心だね。\nなんたって天才探偵だし。",
+    "translation": "頭脳派の直斗くんもいるし、安心だね。\nなんたって天才探偵だし。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "そんな、僕なんてナビに比べたら\nたいしたことありませんよ。",
+    "translation": "そんな、僕なんてナビに比べたら\nたいしたことありませんよ。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "でも、僕にできることがあれば\n協力は惜しみません。",
+    "translation": "でも、僕にできることがあれば\n協力は惜しみません。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_018_0",
+    "original": "頼りにしてる",
+    "translation": "頼りにしてる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_1",
+    "original": "名推理を見せてくれ",
+    "translation": "名推理を見せてくれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "光栄です。\n力を合わせてこの状況を突破しましょう。",
+    "translation": "光栄です。\n力を合わせてこの状況を突破しましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "もちろん、ナビ…佐倉さんも。\n困ったときは、アドバイスをお願いします。",
+    "translation": "もちろん、ナビ…佐倉さんも。\n困ったときは、アドバイスをお願いします。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "お、おう！　がんばろうな！",
+    "translation": "お、おう！　がんばろうな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "特別上映『ニセ警官を捜し出せ！』が\nチケットカウンターに追加されました。",
+    "translation": "特別上映『ニセ警官を捜し出せ！』が\nチケットカウンターに追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  }
+]

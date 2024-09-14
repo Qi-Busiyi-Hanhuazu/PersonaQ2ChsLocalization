@@ -1,0 +1,660 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふう、無事に戻って来れたけど…\nもう肉食恐竜いないよね？",
+    "translation": "ふう、無事に戻って来れたけど…\nもう肉食恐竜いないよね？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "はい、近くに反応はありません。\n安心してお魚を捕れそうですよ。",
+    "translation": "はい、近くに反応はありません。\n安心してお魚を捕れそうですよ。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "それに、水場から離れた場所にＦ．Ｏ．Ｅを\n誘導した甲斐あって、お魚も逃げてません。",
+    "translation": "それに、水場から離れた場所にＦ．Ｏ．Ｅを\n誘導した甲斐あって、お魚も逃げてません。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "これなら、大物が狙えそうです！",
+    "translation": "これなら、大物が狙えそうです！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "大物か…腕が鳴るな。",
+    "translation": "大物か…腕が鳴るな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "お、急にハンターの顔になったか？",
+    "translation": "お、急にハンターの顔になったか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "これだけいれば、ガチで掴み取りできるな。\nいざゆけ、ジャングルの狩人たちよ！",
+    "translation": "これだけいれば、ガチで掴み取りできるな。\nいざゆけ、ジャングルの狩人たちよ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "みんなで協力し、魚を獲ることにした…",
+    "translation": "みんなで協力し、魚を獲ることにした…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "なんと、かなりの大物を獲ることに\n成功した…！",
+    "translation": "なんと、かなりの大物を獲ることに\n成功した…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ですが…水場近くでＦ．Ｏ．Ｅと戦ったので\n少しお魚が逃げてしまったようです。",
+    "translation": "ですが…水場近くでＦ．Ｏ．Ｅと戦ったので\n少しお魚が逃げてしまったようです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "あっ、でもまだお魚はいますよ！\n皆さん、頑張ってくださいね。",
+    "translation": "あっ、でもまだお魚はいますよ！\n皆さん、頑張ってくださいね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "大物じゃなくても、美味しければ問題ない。\n頑張って捕まえよう。",
+    "translation": "大物じゃなくても、美味しければ問題ない。\n頑張って捕まえよう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "みんなで協力し、魚を獲ることにした…",
+    "translation": "みんなで協力し、魚を獲ることにした…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "大物はいなかったが、\nそこそこの大きさの魚が獲れた…！",
+    "translation": "大物はいなかったが、\nそこそこの大きさの魚が獲れた…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "Ｆ．Ｏ．Ｅも倒したし、魚も獲れたし、\n皆の者、あっぱれじゃー。",
+    "translation": "Ｆ．Ｏ．Ｅも倒したし、魚も獲れたし、\n皆の者、あっぱれじゃー。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "これだけありゃ充分だ。\n野草と併せりゃ立派な料理になる。",
+    "translation": "これだけありゃ充分だ。\n野草と併せりゃ立派な料理になる。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "食材も手に入ったし、調理器具もあるし、\nあとはお料理するだけだね。",
+    "translation": "食材も手に入ったし、調理器具もあるし、\nあとはお料理するだけだね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "なんか私までお腹空いてきちゃった。\nどんな料理が出来るか楽しみ！！",
+    "translation": "なんか私までお腹空いてきちゃった。\nどんな料理が出来るか楽しみ！！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ふふっ。\n荒垣先輩の料理、期待してていいよ！",
+    "translation": "ふふっ。\n荒垣先輩の料理、期待してていいよ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "美味しいのはモチロン、食べてると心が\nほわ～ってなって、幸せになれるんだ。",
+    "translation": "美味しいのはモチロン、食べてると心が\nほわ～ってなって、幸せになれるんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "バッ…\nんなこと言われると、やりづれえだろ。",
+    "translation": "バッ…\nんなこと言われると、やりづれえだろ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "あれれ？\nもしかして荒垣サン、照れちゃってます～？",
+    "translation": "あれれ？\nもしかして荒垣サン、照れちゃってます～？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "順平…生のまま草食いてぇのか？",
+    "translation": "順平…生のまま草食いてぇのか？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "や、やだなー冗談ですって！\nジュラ紀ジョーク！！",
+    "translation": "や、やだなー冗談ですって！\nジュラ紀ジョーク！！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "げ、限界だ…意識が遠のく…",
+    "translation": "げ、限界だ…意識が遠のく…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "あ、やべ。\nおイナリの存在を忘れてた。",
+    "translation": "あ、やべ。\nおイナリの存在を忘れてた。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_02_0",
+    "original": "あ、やべ。\nおイナリの存在を忘れてた。",
+    "translation": "あ、やべ。\nおイナリの存在を忘れてた。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "くっ…貴様、伊勢海老の殻をかぶって\n奇襲とは卑怯な…！",
+    "translation": "くっ…貴様、伊勢海老の殻をかぶって\n奇襲とは卑怯な…！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "甲殻類に、俺は屈しないぞ…ぐう…",
+    "translation": "甲殻類に、俺は屈しないぞ…ぐう…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "うん、こっちもいい感じに\n出来上がってるな。",
+    "translation": "うん、こっちもいい感じに\n出来上がってるな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ったく…\nすぐ作ってやるから待ってろ。",
+    "translation": "ったく…\nすぐ作ってやるから待ってろ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "…ほらよ、完成だ。\n冷めないうちに食え。",
+    "translation": "…ほらよ、完成だ。\n冷めないうちに食え。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "お、おおおお…！？",
+    "translation": "お、おおおお…！？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "すっごい良い匂い！　旨そう！",
+    "translation": "すっごい良い匂い！　旨そう！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "び、美味だッ！",
+    "translation": "び、美味だッ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "野草の滋味と魚のダシの調和！\n一点の曇りなき風味！",
+    "translation": "野草の滋味と魚のダシの調和！\n一点の曇りなき風味！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_025_2",
+    "original": "食とは生きる喜び！\n芸術にも通ずる美の真髄なり！",
+    "translation": "食とは生きる喜び！\n芸術にも通ずる美の真髄なり！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "やべえ、ヨダレ出てきた。\nつーかオレたちの分は？",
+    "translation": "やべえ、ヨダレ出てきた。\nつーかオレたちの分は？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "心配すんな、ちゃんと全員分ある。\n順番によそってやるから待て。",
+    "translation": "心配すんな、ちゃんと全員分ある。\n順番によそってやるから待て。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "おっと…コロマルはこっちの皿だ。\nちゃんと分けといたからな。",
+    "translation": "おっと…コロマルはこっちの皿だ。\nちゃんと分けといたからな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_027_2",
+    "original": "熱いぞ、火傷すんなよ？",
+    "translation": "熱いぞ、火傷すんなよ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ワン！　ワン！",
+    "translation": "ワン！　ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "はふっ、はふ…おいひぃ！",
+    "translation": "はふっ、はふ…おいひぃ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "さっすが荒垣先輩！　幸せです！",
+    "translation": "さっすが荒垣先輩！　幸せです！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "やばい、箸が止まらないっ！\nおかわり！",
+    "translation": "やばい、箸が止まらないっ！\nおかわり！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ニャッフー！\nシンジロー、ワガハイもおかわりだ！",
+    "translation": "ニャッフー！\nシンジロー、ワガハイもおかわりだ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "わーったから、落ち着いて食え！",
+    "translation": "わーったから、落ち着いて食え！",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "しばらくみんなで、\n食事を楽しんだ…",
+    "translation": "しばらくみんなで、\n食事を楽しんだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ふう…生き返った。",
+    "translation": "ふう…生き返った。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_034_1",
+    "original": "真田さん、荒垣さん…ありがとう。\n本当に素晴らしい体験だった。",
+    "translation": "真田さん、荒垣さん…ありがとう。\n本当に素晴らしい体験だった。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "なんだ、食事くらいで大げさだな。\n礼なら作ったシンジに言え。",
+    "translation": "なんだ、食事くらいで大げさだな。\n礼なら作ったシンジに言え。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "もちろん、最高の味だった。\n食わせてくれたことには感謝している。",
+    "translation": "もちろん、最高の味だった。\n食わせてくれたことには感謝している。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_036_1",
+    "original": "だが、礼を言いたいのはそれだけじゃない。\n大切なことも思い出せた。",
+    "translation": "だが、礼を言いたいのはそれだけじゃない。\n大切なことも思い出せた。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "大切なこと？",
+    "translation": "大切なこと？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "仲間と食べる食事は、\nただただ腹を満たすだけじゃない。",
+    "translation": "仲間と食べる食事は、\nただただ腹を満たすだけじゃない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_038_1",
+    "original": "同志が集い、顔を合わせて笑顔を見せる…\n豊かな食事は心をも満たしてくれる。",
+    "translation": "同志が集い、顔を合わせて笑顔を見せる…\n豊かな食事は心をも満たしてくれる。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_038_2",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_038_3",
+    "original": "少し、昔を思い出したよ。\n同じ志の弟子たちと囲んだ食卓を。",
+    "translation": "少し、昔を思い出したよ。\n同じ志の弟子たちと囲んだ食卓を。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_039_0",
+    "original": "いい思い出だな",
+    "translation": "いい思い出だな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_039_1",
+    "original": "寂しくなった？",
+    "translation": "寂しくなった？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_039_2",
+    "original": "また一緒に食事をしよう",
+    "translation": "また一緒に食事をしよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "そうだな。久しく忘れていたが…\nこの気持ちを思い出せて良かった。",
+    "translation": "そうだな。久しく忘れていたが…\nこの気持ちを思い出せて良かった。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "いいや、今はお前たちがいるからな。",
+    "translation": "いいや、今はお前たちがいるからな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "ああ、飯ならいつでも呼んでくれ。\n徒歩圏内ならばすぐに駆けつける。",
+    "translation": "ああ、飯ならいつでも呼んでくれ。\n徒歩圏内ならばすぐに駆けつける。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "フッ…同じ釜の飯を食う仲間、か。",
+    "translation": "フッ…同じ釜の飯を食う仲間、か。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_043_1",
+    "original": "俺たちもそんな時代があったな。\nなあ、シンジ？",
+    "translation": "俺たちもそんな時代があったな。\nなあ、シンジ？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "さあ、どうだったかな。",
+    "translation": "さあ、どうだったかな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "フン、言わせんぞ。例えシンジが忘れたと\n言っても、俺は覚えてるからな？",
+    "translation": "フン、言わせんぞ。例えシンジが忘れたと\n言っても、俺は覚えてるからな？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "そーかよ…好きにしろ。",
+    "translation": "そーかよ…好きにしろ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "俺も、フォックスに礼を言わないとな。",
+    "translation": "俺も、フォックスに礼を言わないとな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_047_1",
+    "original": "お前のおかげで、俺も久しぶりに\nシンジの飯にありつけた。",
+    "translation": "お前のおかげで、俺も久しぶりに\nシンジの飯にありつけた。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_047_2",
+    "original": "改めて、これからもよろしく頼む。\n何かあれば遠慮なく言ってくれ。",
+    "translation": "改めて、これからもよろしく頼む。\n何かあれば遠慮なく言ってくれ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "ああ、こちらこそ。",
+    "translation": "ああ、こちらこそ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_048_1",
+    "original": "で、早速なんだが…感謝と賛辞を込めて、\nこの言葉を聞いて欲しい。",
+    "translation": "で、早速なんだが…感謝と賛辞を込めて、\nこの言葉を聞いて欲しい。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "なんだ？　んな真剣な顔して…",
+    "translation": "なんだ？　んな真剣な顔して…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "おかわりッ！",
+    "translation": "おかわりッ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "フッ…\nなるほど、いい胃袋だフォックス！",
+    "translation": "フッ…\nなるほど、いい胃袋だフォックス！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_051_1",
+    "original": "こちらも負けていられん。\nシンジ、俺もおかわりだ！！",
+    "translation": "こちらも負けていられん。\nシンジ、俺もおかわりだ！！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "やれやれ…\n手間かかるのが増えちまったな。",
+    "translation": "やれやれ…\n手間かかるのが増えちまったな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  }
+]

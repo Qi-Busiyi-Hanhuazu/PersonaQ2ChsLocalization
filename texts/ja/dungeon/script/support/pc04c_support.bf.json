@@ -1,0 +1,653 @@
+[
+  {
+    "key": "THEODOR_FOE_FOLLOW_START_0",
+    "original": "皆様、Ｆ．Ｏ．Ｅが追尾しております。",
+    "translation": "皆様、Ｆ．Ｏ．Ｅが追尾しております。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_FOE_FOLLOW_START_2_0",
+    "original": "ハッ！？\nＦ．Ｏ．Ｅに気づかれたようです。",
+    "translation": "ハッ！？\nＦ．Ｏ．Ｅに気づかれたようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_FOE_FOLLOW_START_3_0",
+    "original": "えっ、あっ、ご、ご注意ください！",
+    "translation": "えっ、あっ、ご、ご注意ください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_FOE_NEAR_1_0",
+    "original": "皆様、ご注意を！",
+    "translation": "皆様、ご注意を！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_FOE_NEAR_2_0",
+    "original": "皆様、近くにＦ．Ｏ．Ｅがいます！",
+    "translation": "皆様、近くにＦ．Ｏ．Ｅがいます！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_FOE_NEAR_3_0",
+    "original": "あっ、いけません！　ご注意ください！",
+    "translation": "あっ、いけません！　ご注意ください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_FOE_FOLLOW_END_1_0",
+    "original": "ふぅ、どうやらＦ．Ｏ．Ｅは\n諦めたようですね。",
+    "translation": "ふぅ、どうやらＦ．Ｏ．Ｅは\n諦めたようですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_FOE_FOLLOW_END_2_0",
+    "original": "見事な身のこなし、流石でございます。",
+    "translation": "見事な身のこなし、流石でございます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_FOE_FOLLOW_END_3_0",
+    "original": "Ｆ．Ｏ．Ｅを引き離すことに\n成功しましたね。",
+    "translation": "Ｆ．Ｏ．Ｅを引き離すことに\n成功しましたね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_KANSI_REACTION_1_0",
+    "original": "ライトに照らされないよう\n進みましょう。",
+    "translation": "ライトに照らされないよう\n進みましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_KANSI_REACTION_2_0",
+    "original": "忍び足で進みましょう。",
+    "translation": "忍び足で進みましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_KANSI_REACTION_3_0",
+    "original": "あのライトは避けてください。",
+    "translation": "あのライトは避けてください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_DENKISAKU_REACTI_0",
+    "original": "電気を止めないと進めませんよ。",
+    "translation": "電気を止めないと進めませんよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_DENKISAKU_REACTI_2_0",
+    "original": "どこかにスイッチがあるはずですが…",
+    "translation": "どこかにスイッチがあるはずですが…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_DENKISAKU_REACTI_3_0",
+    "original": "電気柵ですか…まるで姉上の…\nいえ、何でもありません。",
+    "translation": "電気柵ですか…まるで姉上の…\nいえ、何でもありません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_KYOUHU_REACTION__0",
+    "original": "突風にお気をつけを！",
+    "translation": "突風にお気をつけを！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_KYOUHU_REACTION__2_0",
+    "original": "風の流れに乗ってください。",
+    "translation": "風の流れに乗ってください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_KYOUHU_REACTION__3_0",
+    "original": "あ！　すごい風です！",
+    "translation": "あ！　すごい風です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_STAIR_FIND_1_0",
+    "original": "姉上、階段は正面に見えますが…",
+    "translation": "姉上、階段は正面に見えますが…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_STAIR_FIND_2_0",
+    "original": "あ、あれは階段です！",
+    "translation": "あ、あれは階段です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_STAIR_FIND_3_0",
+    "original": "さすがは姉上、鋭い観察眼です。",
+    "translation": "さすがは姉上、鋭い観察眼です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_TREASURE_FIND_1_0",
+    "original": "やりました！　宝箱ですよ！",
+    "translation": "やりました！　宝箱ですよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_TREASURE_FIND_2_0",
+    "original": "宝箱の中身が気になります。",
+    "translation": "宝箱の中身が気になります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_TREASURE_FIND_3_0",
+    "original": "あ、宝箱ですね、ワクワクします。",
+    "translation": "あ、宝箱ですね、ワクワクします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_CHECK_WALL_1_0",
+    "original": "あ、あちらに何かあります！",
+    "translation": "あ、あちらに何かあります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_CHECK_WALL_2_0",
+    "original": "あれは…少し調べてみませんか？",
+    "translation": "あれは…少し調べてみませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_CHECK_WALL_3_0",
+    "original": "近くに何かありそうな気配がします。",
+    "translation": "近くに何かありそうな気配がします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_SWITCH_FIND_1_0",
+    "original": "スイッチがあります、どうしますか？",
+    "translation": "スイッチがあります、どうしますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_SWITCH_FIND_2_0",
+    "original": "あのスイッチ、押してみますか？",
+    "translation": "あのスイッチ、押してみますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_SWITCH_FIND_3_0",
+    "original": "あそこにあるのはスイッチのようです。",
+    "translation": "あそこにあるのはスイッチのようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_SHORTCUT_FIND_1_0",
+    "original": "この壁…なにかありそうですよ。",
+    "translation": "この壁…なにかありそうですよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_SHORTCUT_FIND_2_0",
+    "original": "そこの壁を調べてみませんか？",
+    "translation": "そこの壁を調べてみませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_SHORTCUT_FIND_3_0",
+    "original": "前方の壁になにかあるようです。",
+    "translation": "前方の壁になにかあるようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_PARTY_DEAD_1_0",
+    "original": "み、皆様！？　大丈夫ですか！？",
+    "translation": "み、皆様！？　大丈夫ですか！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_PARTY_DEAD_2_0",
+    "original": "帰還も検討なさってください",
+    "translation": "帰還も検討なさってください",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_PARTY_DEAD_3_0",
+    "original": "まずは、回復を急ぎましょう。",
+    "translation": "まずは、回復を急ぎましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_FOE_WARNING_NEAR_0",
+    "original": "まだＦ．Ｏ．Ｅが追いかけています。",
+    "translation": "まだＦ．Ｏ．Ｅが追いかけています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_FOE_WARNING_NEAR_2_0",
+    "original": "諦めが悪いですね…",
+    "translation": "諦めが悪いですね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_FOE_WARNING_NEAR_3_0",
+    "original": "皆様、お気を付けくださいませ。",
+    "translation": "皆様、お気を付けくださいませ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_PARTY_HPTP10_1_0",
+    "original": "姉上、落ち着いて、\nまずは体制を整えましょう。",
+    "translation": "姉上、落ち着いて、\nまずは体制を整えましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_PARTY_HPTP10_2_0",
+    "original": "皆様の消耗が心配です、\n一度戻られては？",
+    "translation": "皆様の消耗が心配です、\n一度戻られては？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_PARTY_HPTP10_3_0",
+    "original": "姉上は、帰還を望まれているようです。",
+    "translation": "姉上は、帰還を望まれているようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_PARTY_HP10_1_0",
+    "original": "皆様の体力の消耗が著しいようです。",
+    "translation": "皆様の体力の消耗が著しいようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_PARTY_HP10_2_0",
+    "original": "至急、回復を図りましょう。",
+    "translation": "至急、回復を図りましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_PARTY_HP10_3_0",
+    "original": "お怪我の回復を優先ください。",
+    "translation": "お怪我の回復を優先ください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_1PERSON_HPTP10_1_0",
+    "original": "ご自身の気力・体力が\n残りわずかではありませんか？",
+    "translation": "ご自身の気力・体力が\n残りわずかではありませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_1PERSON_HPTP10_2_0",
+    "original": "体力だけでも\n回復なされてはいかがでしょう？",
+    "translation": "体力だけでも\n回復なされてはいかがでしょう？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_1PERSON_HPTP10_3_0",
+    "original": "立っているのがやっとのご様子…\n立て直されては？",
+    "translation": "立っているのがやっとのご様子…\n立て直されては？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_PARTY_TP10_1_0",
+    "original": "皆様の気力は残りわずか…\nどういたしますか？",
+    "translation": "皆様の気力は残りわずか…\nどういたしますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_PARTY_TP10_2_0",
+    "original": "残りの気力を考え、\n作戦変更といたしましょう。",
+    "translation": "残りの気力を考え、\n作戦変更といたしましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_PARTY_TP10_3_0",
+    "original": "さすがは姉上！　よきアドバイスです！",
+    "translation": "さすがは姉上！　よきアドバイスです！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_1PERSON_HP10_1_0",
+    "original": "ご自身の体力にご注意ください。",
+    "translation": "ご自身の体力にご注意ください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_1PERSON_HP10_2_0",
+    "original": "まずはご自身の回復を願います。",
+    "translation": "まずはご自身の回復を願います。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_1PERSON_HP10_3_0",
+    "original": "あの、体力は大丈夫でしょうか？",
+    "translation": "あの、体力は大丈夫でしょうか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_1PERSON_TP10_1_0",
+    "original": "戦術の変更をするとよいでしょう。",
+    "translation": "戦術の変更をするとよいでしょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_1PERSON_TP10_2_0",
+    "original": "あっ、気力は持ちそうでしょうか？",
+    "translation": "あっ、気力は持ちそうでしょうか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_1PERSON_TP10_3_0",
+    "original": "気力が尽きた…のでしょうか？",
+    "translation": "気力が尽きた…のでしょうか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_ITEM_90_BATTLE_1_0",
+    "original": "姉上！？　それは私の虎の子の！？",
+    "translation": "姉上！？　それは私の虎の子の！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_ITEM_90_BATTLE_2_0",
+    "original": "持ち物がいっぱいではございませんか？",
+    "translation": "持ち物がいっぱいではございませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_ITEM_90_BATTLE_3_0",
+    "original": "整理の際は我がテオドアショップに\nお越しくださいませ。",
+    "translation": "整理の際は我がテオドアショップに\nお越しくださいませ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_1PERSON_HP80_1_0",
+    "original": "皆様！　素晴らしい戦いでした！",
+    "translation": "皆様！　素晴らしい戦いでした！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_1PERSON_HP80_2_0",
+    "original": "あっ、姉上！？\n手を振り回さないでください！？",
+    "translation": "あっ、姉上！？\n手を振り回さないでください！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_1PERSON_HP80_3_0",
+    "original": "姉上！？\n喜びの舞は夢の中だけに…",
+    "translation": "姉上！？\n喜びの舞は夢の中だけに…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_ITEM_90_DUNGEON__0",
+    "original": "姉上！？　それは私の虎の子の！？",
+    "translation": "姉上！？　それは私の虎の子の！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_ITEM_90_DUNGEON__2_0",
+    "original": "持ち物がいっぱいではございませんか？",
+    "translation": "持ち物がいっぱいではございませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_ITEM_90_DUNGEON__3_0",
+    "original": "整理の際は我がテオドアショップに\nお越しくださいませ。",
+    "translation": "整理の際は我がテオドアショップに\nお越しくださいませ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_DUNGEON_START_1_0",
+    "original": "…と、テ、テオドアが\nナビを務めさせていただきます。",
+    "translation": "…と、テ、テオドアが\nナビを務めさせていただきます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_DUNGEON_START_2_0",
+    "original": "テオドアにございます、お手柔らかに。",
+    "translation": "テオドアにございます、お手柔らかに。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_DUNGEON_START_3_0",
+    "original": "それでは、探索を始めましょうか。",
+    "translation": "それでは、探索を始めましょうか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_QUEST_START_1_0",
+    "original": "特別上映の開始でございます。",
+    "translation": "特別上映の開始でございます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_QUEST_START_2_0",
+    "original": "達成まで、姉上と私がお供いたします。",
+    "translation": "達成まで、姉上と私がお供いたします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_QUEST_START_3_0",
+    "original": "それでは開始いたしましょう。",
+    "translation": "それでは開始いたしましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_TOUHA_25_1_0",
+    "original": "このフロアは\nまだまだこれからのようです。",
+    "translation": "このフロアは\nまだまだこれからのようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_TOUHA_25_2_0",
+    "original": "まだ先は長そうですね。",
+    "translation": "まだ先は長そうですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_TOUHA_50_1_0",
+    "original": "やっと半分といったところでしょうか。",
+    "translation": "やっと半分といったところでしょうか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_TOUHA_50_2_0",
+    "original": "半分まで来ましたよ。\n頑張りましょう。",
+    "translation": "半分まで来ましたよ。\n頑張りましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_TOUHA_75_1_0",
+    "original": "このフロアももう少しですよ。",
+    "translation": "このフロアももう少しですよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_TOUHA_75_2_0",
+    "original": "あと少しで地図の完成です！",
+    "translation": "あと少しで地図の完成です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_TOUHA_100_1_0",
+    "original": "素晴らしい！　地図の完成です！",
+    "translation": "素晴らしい！　地図の完成です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_TOUHA_100_2_0",
+    "original": "地図が完成しましたね。\n良く頑張られました。",
+    "translation": "地図が完成しましたね。\n良く頑張られました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_MAPPING_ICON_ALL_0",
+    "original": "正確な地図を描かれていますね。",
+    "translation": "正確な地図を描かれていますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_MAPPING_ICON_ALL_2_0",
+    "original": "姉上…それは真なのでしょうか…",
+    "translation": "姉上…それは真なのでしょうか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_MAPPING_ICON_KAI_0",
+    "original": "階段を正確に把握されていますね。",
+    "translation": "階段を正確に把握されていますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_MAPPING_ICON_KAI_2_0",
+    "original": "えっ姉上！？　そんな準備はありません！",
+    "translation": "えっ姉上！？　そんな準備はありません！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_MAPPING_CHANGE_C_0",
+    "original": "素晴らしいセンスです。",
+    "translation": "素晴らしいセンスです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_MAPPING_CHANGE_C_2_0",
+    "original": "どんな地図が出来上がるのか\n楽しみです。",
+    "translation": "どんな地図が出来上がるのか\n楽しみです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_MAPPING_ICON_DEL_0",
+    "original": "姉上！？　私を捨てる気ですか！？",
+    "translation": "姉上！？　私を捨てる気ですか！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_MAPPING_ICON_DEL_2_0",
+    "original": "間違いは正せばよいのです。",
+    "translation": "間違いは正せばよいのです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_MAPPING_MEMO_1_0",
+    "original": "その心がけが素晴らしいです。",
+    "translation": "その心がけが素晴らしいです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_MAPPING_MEMO_2_0",
+    "original": "忘れないようにメモを残すのですね。",
+    "translation": "忘れないようにメモを残すのですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_KARITORU_ENCOUNT_0",
+    "original": "気を付けてください、刈り取る者です！",
+    "translation": "気を付けてください、刈り取る者です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_KARITORU_ENCOUNT_2_0",
+    "original": "刈り取る者が来ます。ご注意を！",
+    "translation": "刈り取る者が来ます。ご注意を！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEODOR_KARITORU_ENCOUNT_3_0",
+    "original": "この気配…刈り取る者です！",
+    "translation": "この気配…刈り取る者です！",
+    "stage": 1,
+    "context": ""
+  }
+]

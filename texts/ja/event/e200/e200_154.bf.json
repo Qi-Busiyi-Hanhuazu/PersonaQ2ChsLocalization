@@ -1,0 +1,324 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お待ちしておりました。",
+    "translation": "お待ちしておりました。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "なにかあったのか？",
+    "translation": "なにかあったのか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "私もここへ呼ばれたからには、\n皆様になにか、お力添えできれば…と。",
+    "translation": "私もここへ呼ばれたからには、\n皆様になにか、お力添えできれば…と。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "そこで思いついたのが『イケニエ』…\n皆様のペルソナを強化する術です。",
+    "translation": "そこで思いついたのが『イケニエ』…\n皆様のペルソナを強化する術です。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "強化？",
+    "translation": "強化？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "イケニエ？",
+    "translation": "イケニエ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ペルソナを強化…？\nそんなことができるのか。",
+    "translation": "ペルソナを強化…？\nそんなことができるのか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ええ、ペルソナ同士を掛け合わせることで\nペルソナを成長させることができるわ。",
+    "translation": "ええ、ペルソナ同士を掛け合わせることで\nペルソナを成長させることができるわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "生贄とは、なかなか物騒な響きだな。",
+    "translation": "生贄とは、なかなか物騒な響きだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "フフ、皆様の中から生贄を差し出して頂く…\nなんてことはございませんから、ご安心を。",
+    "translation": "フフ、皆様の中から生贄を差し出して頂く…\nなんてことはございませんから、ご安心を。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "これはペルソナ同士を掛け合わせて、\nペルソナを強化するものよ。",
+    "translation": "これはペルソナ同士を掛け合わせて、\nペルソナを強化するものよ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "それって、ペルソナ合体とは違うのか？",
+    "translation": "それって、ペルソナ合体とは違うのか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ペルソナ合体とは、複数のペルソナから\n新たなペルソナを生み出すこと。",
+    "translation": "ペルソナ合体とは、複数のペルソナから\n新たなペルソナを生み出すこと。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "イケニエは、一体のペルソナに対し、\n他のペルソナを掛け合わせ成長させること。",
+    "translation": "イケニエは、一体のペルソナに対し、\n他のペルソナを掛け合わせ成長させること。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_009_2",
+    "original": "元のペルソナはそのまま成長し、\n掛け合わせたペルソナは消滅するわ。",
+    "translation": "元のペルソナはそのまま成長し、\n掛け合わせたペルソナは消滅するわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "一方は強くなり、もう一方は消える…\nまさに生贄ってわけね。",
+    "translation": "一方は強くなり、もう一方は消える…\nまさに生贄ってわけね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "それは、メインのペルソナも、\nサブのペルソナもできるんですか？",
+    "translation": "それは、メインのペルソナも、\nサブのペルソナもできるんですか？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ええ。成長させることは\nどちらも可能…",
+    "translation": "ええ。成長させることは\nどちらも可能…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "無論、メインのペルソナを\nイケニエにすることはできないけれど。",
+    "translation": "無論、メインのペルソナを\nイケニエにすることはできないけれど。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "でもぉ～お高いんでしょ～？",
+    "translation": "でもぉ～お高いんでしょ～？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "勿論、相応の対価はいただくわ。\nただし、私の研究という目的もあるので…",
+    "translation": "勿論、相応の対価はいただくわ。\nただし、私の研究という目的もあるので…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "消滅する側のペルソナが、初めて\nイケニエとなった場合はいただきません。",
+    "translation": "消滅する側のペルソナが、初めて\nイケニエとなった場合はいただきません。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_014_2",
+    "original": "そのペルソナが、再びイケニエに\n捧げられた時にいただきましょう。",
+    "translation": "そのペルソナが、再びイケニエに\n捧げられた時にいただきましょう。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "つまり、全てのペルソナは\nイケニエにするのが初回無料ってこと？",
+    "translation": "つまり、全てのペルソナは\nイケニエにするのが初回無料ってこと？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "その通り。",
+    "translation": "その通り。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "おおー…こんな方法でも、\n強くなれるとか、スゴいじゃん！",
+    "translation": "おおー…こんな方法でも、\n強くなれるとか、スゴいじゃん！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ありがとう、マーガレット。\n協力、感謝する。",
+    "translation": "ありがとう、マーガレット。\n協力、感謝する。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "…いいえ、これも定められし運命。",
+    "translation": "…いいえ、これも定められし運命。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "皆様が来たことで、映画に変化が起こり\n歪められた演目は正されようとしています。",
+    "translation": "皆様が来たことで、映画に変化が起こり\n歪められた演目は正されようとしています。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_019_2",
+    "original": "そのために皆様は『ペルソナ使い』として\nキャスティングされたのかもしれません。",
+    "translation": "そのために皆様は『ペルソナ使い』として\nキャスティングされたのかもしれません。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_019_1_0",
+    "original": "俺たちが…？",
+    "translation": "俺たちが…？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_019_2_0",
+    "original": "ええ、そして我々もそれを見届けるために\n呼ばれたのかと…ですから、マリー？",
+    "translation": "ええ、そして我々もそれを見届けるために\n呼ばれたのかと…ですから、マリー？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "うげっ…\nやっぱ、やんなきゃダメ？",
+    "translation": "うげっ…\nやっぱ、やんなきゃダメ？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ポエムを書く時間なら、\nいくらでもあるから安心なさい。",
+    "translation": "ポエムを書く時間なら、\nいくらでもあるから安心なさい。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ち、ちがっ…！\nポエムじゃなくて、パトスだってば！",
+    "translation": "ち、ちがっ…！\nポエムじゃなくて、パトスだってば！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "ばかきらいさいあくさいてー！\nまーがれっと、もう黙ってて！",
+    "translation": "ばかきらいさいあくさいてー！\nまーがれっと、もう黙ってて！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  }
+]

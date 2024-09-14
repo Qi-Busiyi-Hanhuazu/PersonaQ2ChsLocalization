@@ -1,0 +1,58 @@
+[
+  {
+    "key": "CMPPOEM_PATHOS_0",
+    "original": "どのパトスを感じようか…",
+    "translation": "你想要感受哪种感情呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要感受哪种感性呢……\n\n感觉到哪个帕特斯呢……\n\n感觉哪个帕索斯呢……"
+  },
+  {
+    "key": "CMPPOEM_NOT_PATHOS_0",
+    "original": "今は何も感じられない…",
+    "translation": "现在什么也感觉不到了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n现在什么都感受不到……\n\n现在什么都感觉不到……"
+  },
+  {
+    "key": "CMPPOEM_SELECT_1_0",
+    "original": "『人ならざる者たちへ』",
+    "translation": "《非常人所能企及的存在》",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“非人者的诗歌”\n\n“致非人之人”"
+  },
+  {
+    "key": "CMPPOEM_SELECT_1_1",
+    "original": "『駄犬たちのララバイ』",
+    "translation": "《劣犬们的摇篮曲》",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“杂种狗的摇篮曲”\n\n“癞皮狗们的啦啦拜”\n\n“粗犬们的摇篮曲”"
+  },
+  {
+    "key": "CMPPOEM_SELECT_1_2",
+    "original": "『ブラッディ・ブライド』",
+    "translation": "《血色下的新娘》",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“血腥的新娘”\n\n“布拉迪·布莱德”\n\n“血色新娘”"
+  },
+  {
+    "key": "CMPPOEM_SELECT_1_3",
+    "original": "『おったまげバースデイ』",
+    "translation": "《惊吓的生日》",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“生日快乐”\n\n“大团圆生日”"
+  },
+  {
+    "key": "CMPPOEM_SELECT_1_4",
+    "original": "『キソク』",
+    "translation": "《记忆》",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“继承”\n\n“基索克”\n\n“规则”"
+  },
+  {
+    "key": "CMPPOEM_SELECT_1_5",
+    "original": "『七つの大罪』",
+    "translation": "《七宗罪》",
+    "stage": 1,
+    "context": "机翻辅助：\n\n“七大罪”\n\n“七宗罪”"
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "おぉ！　オタカラスポット発見！\nどうする？　調べる？",
+    "translation": "哦哦！发现藏宝地点！怎么办？要调查下吗？",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n哦哦！发现宝藏地点！\n怎么办？要调查吗？\n\n哦！发现宝物地点！\n怎么办？调查，调查？\n\n噢！发现宝藏！\n怎么办？调查？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん！\n敵にスキは見せないよ！",
+    "translation": "嗯！\n不会给敌人任何机会！",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n嗯！\n不能让敌人有机可乘！\n\n嗯！\n不会让敌人看到你的缺点！\n\n嗯！不会让敌人看到空隙的！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "了解！\nなりふり構わず探すぞよ！",
+    "translation": "了解！\n放开手脚尽情探索吧！",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n了解！\n不管三七二十一，先找再说！\n\n明白！\n不修边幅地寻找吧！\n\n明白！\n不管身份高低都要找！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "危険もあるもんね。\nラジャー！",
+    "translation": "毕竟可能也危险呢。\n了解！",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n毕竟有危险嘛。\n遵命！\n\n也有危险。\n拉杰！\n\n也有危险啊。\nRacher！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "えーっと…\nこれで終わり？",
+    "translation": "嗯……\n这下就结束了吗？",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n呃……\n这样就没了？\n\n嗯……\n到此结束？\n\n呃……\n这就结束了？"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いただくぞよ！",
+    "translation": "我收下喽！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n收下啦！\n\n我要吃了！\n\n我收下了！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ゲットゲット。",
+    "translation": "到手了到手了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\nGetGet。\n\n拿到了。\n\nget get get。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いい感じ！",
+    "translation": "很不错！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n感觉不错！\n\n感觉很好！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あっぶなかったー！\nもう終わりにしよ？",
+    "translation": "刚刚好危险啊——！\n暂时先结束吧？",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n好险啊——！\n还是收手吧？\n\n没有啊！\n结束吧？\n\n夜之夜！\n就结束吧？"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "すごいじゃん！",
+    "translation": "好厉害啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n很厉害嘛！\n\n好厉害啊！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "レアじゃん！",
+    "translation": "稀有物品诶！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好稀有！\n\n这不是稀有嘛！\n\n很稀有啊！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "スゴっ…",
+    "translation": "好厉害……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好猛……\n\n好厉害……"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "おっ、近道はっけーん！\n通ってみる？",
+    "translation": "哦，发现近路了！\n要走这边吗？",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n哦，发现捷径了！\n要走走看吗？\n\n哦，走近路吧！\n去看看？\n\n啊，近道黑客！\n去看看？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないかぁ…\n残念だけど、諦めよ。",
+    "translation": "这边过不去啊……\n虽然有点遗憾，放弃吧。",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n这边走不通啊……\n虽然可惜，还是放弃吧。\n\n我不能通过啊……\n虽然很遗憾，但是放弃了。\n\n这边不能通过吗……虽然很遗憾，但还是放弃吧。"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "な、なんかここヤバくない？\nヤバい気配しない？",
+    "translation": "感、感觉这里感觉不太对劲吧？\n是不是有点危险？",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n这、这里是不是不太妙？\n是不是有危险的气息？\n\n喂，这里不糟糕吗？\n不觉得很糟糕吗？\n\n喂，这里有什么不对劲的地方吗？\n不觉得不妙吗？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ほ、ほんとに？\n分かった…調べてみよ。",
+    "translation": "真、真的吗？\n知道了……我调查看看。",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n真、真的吗？\n知道了……调查一下吧。\n\n哦，真的吗？\n知道了……我去查一下。\n\n真的吗？\n知道了……调查一下吧。"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "うんうん、そうしよう！",
+    "translation": "嗯嗯，就这样吧！",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n嗯嗯，就这么办！\n\n嗯嗯，就这样吧！\n\n嗯嗯，就这么办吧！"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "つ、強かった～。\nあんな敵がいるなんて、ヤバ…",
+    "translation": "太、太强了吧～\n竟然有那種敌人，不妙啊……",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n好、好强～\n没想到有那种敌人，不妙……\n\n一、很强～\n竟然有那样的敌人，真糟糕……\n\n二、很强～有那样的敌人，真不妙……"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ムム？\nなんかシャドウの気配が強い気が…",
+    "translation": "嗯嗯？\n感觉有暗影在附近……",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n唔唔？\n总觉得暗影的气息好强……\n\n姆姆？\n总觉得暗影的气息很强……\n\n姆姆？\n总觉得暗影的气息很强烈……"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "よし！　気をつけて調べよう！",
+    "translation": "好！小心点调查吧！",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n好！小心地调查吧！\n\n好！小心调查！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ありゃ、止めておく？",
+    "translation": "诶，暂时这样就好吗？",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n哎呀，还是停手吧？\n\n哎呀，让他停下来？\n\n哎呀，要停下来吗？"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "びっくりしたー…\n急に出てくるんだもん。",
+    "translation": "吓我一跳……\n怎么突然冒出来。",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n吓我一跳……\n突然冒出来嘛。\n\n吓了一跳……\n突然出来了。\n\n吓了一跳……突然冒出来的。"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "お？　映画館に戻る？",
+    "translation": "哦？要回电影院吗？",
+    "stage": 0,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n哦？要回电影院吗？\n\n哦？回电影院？\n\n您？回电影院？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よっし、このフロアだな？\nさっさと恐竜どもを探そうぜ！",
+    "translation": "よっし、このフロアだな？\nさっさと恐竜どもを探そうぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ん…？　あれ？\nみんな、ちょっとストップ。",
+    "translation": "ん…？　あれ？\nみんな、ちょっとストップ。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "どうしました？",
+    "translation": "どうしました？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "このフロア、反応が複数ある。",
+    "translation": "このフロア、反応が複数ある。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "連れてかれた恐竜じゃねぇのか？",
+    "translation": "連れてかれた恐竜じゃねぇのか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うーん…細かくは分からんが。\n他にも何かいるっぽいぞ。",
+    "translation": "うーん…細かくは分からんが。\n他にも何かいるっぽいぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ここには色んな生物がいる。\nいつ、何が出てきてもおかしくはない。",
+    "translation": "ここには色んな生物がいる。\nいつ、何が出てきてもおかしくはない。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "そうだな。\nみんな、油断せずに進めよ！？",
+    "translation": "そうだな。\nみんな、油断せずに進めよ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

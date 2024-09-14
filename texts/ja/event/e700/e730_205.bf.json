@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "んげっ！　またアイツかよ！？",
+    "translation": "んげっ！　またアイツかよ！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "気をつけて！\n扉の前のＦ．Ｏ．Ｅも起動したみたい！",
+    "translation": "気をつけて！\n扉の前のＦ．Ｏ．Ｅも起動したみたい！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "監視型のヤツに見つかると、あっちのヤツに\n先を蓋されちまうってことか。",
+    "translation": "監視型のヤツに見つかると、あっちのヤツに\n先を蓋されちまうってことか。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "フッ…ならば、選択肢はひとつ。\n破壊してしまえば、見つかることもない。",
+    "translation": "フッ…ならば、選択肢はひとつ。\n破壊してしまえば、見つかることもない。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "監視ロボを叩くぞ！\nそうすれば、道は拓けるはずだ！",
+    "translation": "監視ロボを叩くぞ！\nそうすれば、道は拓けるはずだ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  }
+]

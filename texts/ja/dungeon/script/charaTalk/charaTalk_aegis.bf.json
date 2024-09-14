@@ -1,0 +1,268 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "採取可能な箇所であります。\nどうしますか？",
+    "translation": "採取可能な箇所であります。\nどうしますか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "了解であります。\n用心しながら探します。",
+    "translation": "了解であります。\n用心しながら探します。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "了解しました。\nなりふり構わず探します。",
+    "translation": "了解しました。\nなりふり構わず探します。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "了解であります。",
+    "translation": "了解であります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "根こそぎ終了であります。",
+    "translation": "根こそぎ終了であります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ゲットであります。",
+    "translation": "ゲットであります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "こんなん出ました。",
+    "translation": "こんなん出ました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "なるほどなー。",
+    "translation": "なるほどなー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "敵の妨害がありました。\n採取はここまでであります。",
+    "translation": "敵の妨害がありました。\n採取はここまでであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "掘り出し物です。",
+    "translation": "掘り出し物です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "やったぜであります！",
+    "translation": "やったぜであります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "拍手であります！",
+    "translation": "拍手であります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカット発見です。\nどうしますか？",
+    "translation": "ショートカット発見です。\nどうしますか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ショートカット発見です。\nどうしますか？",
+    "translation": "ショートカット発見です。\nどうしますか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ショートカット発見です。\nどうしますか？",
+    "translation": "ショートカット発見です。\nどうしますか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こちらは通れないようであります。",
+    "translation": "こちらは通れないようであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "こちらからは通れないようであります。",
+    "translation": "こちらからは通れないようであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "こちらからは通れないようであります。",
+    "translation": "こちらからは通れないようであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "超強力な敵反応です。\n覚悟が必要であります。",
+    "translation": "超強力な敵反応です。\n覚悟が必要であります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "了解であります。\n戦闘態勢！",
+    "translation": "了解であります。\n戦闘態勢！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "危うきになんとやら…でありますね。",
+    "translation": "危うきになんとやら…でありますね。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "かなりの強敵でありましたね。\n無事に帰還できました。",
+    "translation": "かなりの強敵でありましたね。\n無事に帰還できました。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "シャドウの反応が強いであります。\nどうしますか？",
+    "translation": "シャドウの反応が強いであります。\nどうしますか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "了解であります！\n周囲警戒！",
+    "translation": "了解であります！\n周囲警戒！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "了解。\n態勢を立て直すであります。",
+    "translation": "了解。\n態勢を立て直すであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "安全を確保しました。\n油断大敵でありますね。",
+    "translation": "安全を確保しました。\n油断大敵でありますね。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "映画館に戻るでありますか？",
+    "translation": "映画館に戻るでありますか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  }
+]

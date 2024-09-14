@@ -1,0 +1,16 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "モナちゃんも、ああ言ってるし…\nまずは調べてみようよ。",
+    "translation": "小MONA这么说的话，\n那就先调查一下吧。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n而且MONA也那么说了……\n先调查看看吧。\n\nMONA也在说……\n先调查一下吧。\n\nMONA也这么说过……先调查一下吧。"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

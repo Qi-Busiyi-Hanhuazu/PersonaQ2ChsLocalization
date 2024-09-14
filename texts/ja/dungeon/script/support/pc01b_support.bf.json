@@ -1,0 +1,527 @@
+[
+  {
+    "key": "HARU_FOE_FOLLOW_START_1_0",
+    "original": "見つかっちゃった！ ",
+    "translation": "見つかっちゃった！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_FOE_FOLLOW_START_2_0",
+    "original": "追われてるよ、みんな！ ",
+    "translation": "追われてるよ、みんな！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_FOE_FOLLOW_START_3_0",
+    "original": "Ｆ．Ｏ．Ｅが来たよ！ ",
+    "translation": "Ｆ．Ｏ．Ｅが来たよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_FOE_NEAR_1_0",
+    "original": "しっ！　いるよ… ",
+    "translation": "しっ！　いるよ… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_FOE_NEAR_2_0",
+    "original": "気を付けて…",
+    "translation": "気を付けて…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_FOE_NEAR_3_0",
+    "original": "見つかりませんように… ",
+    "translation": "見つかりませんように… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_FOE_FOLLOW_END_1_0",
+    "original": "ふぅー…良かったぁ… ",
+    "translation": "ふぅー…良かったぁ… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_FOE_FOLLOW_END_2_0",
+    "original": "逃げ切れたね！ ",
+    "translation": "逃げ切れたね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_FOE_FOLLOW_END_3_0",
+    "original": "ふふ、こっちの勝ちだね。",
+    "translation": "ふふ、こっちの勝ちだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_KANSI_REACTION_1_0",
+    "original": "警戒しながら進も？ ",
+    "translation": "警戒しながら進も？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_KANSI_REACTION_2_0",
+    "original": "抜き足、差し足…だね。",
+    "translation": "抜き足、差し足…だね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_KANSI_REACTION_3_0",
+    "original": "ちょっと緊張するね。",
+    "translation": "ちょっと緊張するね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_DENKISAKU_REACTION__0",
+    "original": "カラス避けには強すぎ…かな。 ",
+    "translation": "カラス避けには強すぎ…かな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_DENKISAKU_REACTION__2_0",
+    "original": "どれくらいビリビリするんだろう…？ ",
+    "translation": "どれくらいビリビリするんだろう…？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_DENKISAKU_REACTION__3_0",
+    "original": "通るにはまず電気を止めないと… ",
+    "translation": "通るにはまず電気を止めないと… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_KYOUHU_REACTION_1_0",
+    "original": "わっ！ ",
+    "translation": "わっ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_KYOUHU_REACTION_2_0",
+    "original": "きゃ！？ ",
+    "translation": "きゃ！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_KYOUHU_REACTION_3_0",
+    "original": "風が！？ ",
+    "translation": "風が！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_STAIR_FIND_1_0",
+    "original": "あ！　道がある！ ",
+    "translation": "あ！　道がある！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_STAIR_FIND_2_0",
+    "original": "やった、先に進めるね！ ",
+    "translation": "やった、先に進めるね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_STAIR_FIND_3_0",
+    "original": "次はどんな場所かな？ ",
+    "translation": "次はどんな場所かな？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_TREASURE_FIND_1_0",
+    "original": "オタカラがあったよ！ ",
+    "translation": "オタカラがあったよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_TREASURE_FIND_2_0",
+    "original": "宝箱だね、見てみようか？ ",
+    "translation": "宝箱だね、見てみようか？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_TREASURE_FIND_3_0",
+    "original": "あそこにあるの、オタカラかな？ ",
+    "translation": "あそこにあるの、オタカラかな？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_CHECK_WALL_1_0",
+    "original": "うーん…あやしいな… ",
+    "translation": "うーん…あやしいな… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_CHECK_WALL_2_0",
+    "original": "この辺、調べてみない？ ",
+    "translation": "この辺、調べてみない？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_CHECK_WALL_3_0",
+    "original": "ねえ、あれって、なに…？ ",
+    "translation": "ねえ、あれって、なに…？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_SWITCH_FIND_1_0",
+    "original": "あれ？　スイッチがあるね。",
+    "translation": "あれ？　スイッチがあるね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_SWITCH_FIND_2_0",
+    "original": "スイッチ押してみる？ ",
+    "translation": "スイッチ押してみる？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_SWITCH_FIND_3_0",
+    "original": "スイッチ、見つけたよ。",
+    "translation": "スイッチ、見つけたよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_SHORTCUT_FIND_1_0",
+    "original": "ショートカットできそうだね。",
+    "translation": "ショートカットできそうだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_SHORTCUT_FIND_2_0",
+    "original": "あっ、使えそうな抜け道じゃない？ ",
+    "translation": "あっ、使えそうな抜け道じゃない？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_SHORTCUT_FIND_3_0",
+    "original": "近道を見つけたかも。",
+    "translation": "近道を見つけたかも。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_FOE_WARNING_NEAR_1_0",
+    "original": "まだ諦めてないの！？ ",
+    "translation": "まだ諦めてないの！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_FOE_WARNING_NEAR_2_0",
+    "original": "まだ追ってきてる！ ",
+    "translation": "まだ追ってきてる！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_FOE_WARNING_NEAR_3_0",
+    "original": "簡単には諦めてくれないか… ",
+    "translation": "簡単には諦めてくれないか… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_1PERSON_HPTP10_1_0",
+    "original": "回復、頼めないかな？ ",
+    "translation": "回復、頼めないかな？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_1PERSON_HPTP10_2_0",
+    "original": "ねえ、休んでもいい…？ ",
+    "translation": "ねえ、休んでもいい…？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_1PERSON_HPTP10_3_0",
+    "original": "ごめんなさい、これ以上は… ",
+    "translation": "ごめんなさい、これ以上は… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_1PERSON_HP10_1_0",
+    "original": "急いで回復を… ",
+    "translation": "急いで回復を… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_1PERSON_HP10_2_0",
+    "original": "ちょっと、ツライ…かも… ",
+    "translation": "ちょっと、ツライ…かも… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_1PERSON_HP10_3_0",
+    "original": "体がフラフラする… ",
+    "translation": "体がフラフラする… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_1PERSON_TP10_1_0",
+    "original": "ダメ、倒れそう… ",
+    "translation": "ダメ、倒れそう… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_1PERSON_TP10_2_0",
+    "original": "気力切れ、かな… ",
+    "translation": "気力切れ、かな… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_1PERSON_TP10_3_0",
+    "original": "ちょっと張り切りすぎたかな… ",
+    "translation": "ちょっと張り切りすぎたかな… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_1PERSON_HP80_1_0",
+    "original": "まだまだ行けるよ！ ",
+    "translation": "まだまだ行けるよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_1PERSON_HP80_2_0",
+    "original": "ふふっ、調子いいみたい！ ",
+    "translation": "ふふっ、調子いいみたい！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_1PERSON_HP80_3_0",
+    "original": "みんな、元気そうだね！ ",
+    "translation": "みんな、元気そうだね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_DUNGEON_START_1_0",
+    "original": "探索の始まりだね。 ",
+    "translation": "探索の始まりだね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_DUNGEON_START_2_0",
+    "original": "ふふっ、楽しくなってきちゃった。 ",
+    "translation": "ふふっ、楽しくなってきちゃった。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_DUNGEON_START_3_0",
+    "original": "何が起きるか、ドキドキするね。",
+    "translation": "何が起きるか、ドキドキするね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_QUEST_START_1_0",
+    "original": "みんな、準備はできてる？ ",
+    "translation": "みんな、準備はできてる？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_QUEST_START_2_0",
+    "original": "私も精いっぱい頑張るね。",
+    "translation": "私も精いっぱい頑張るね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_QUEST_START_3_0",
+    "original": "出発、進行！ ",
+    "translation": "出発、進行！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_TOUHA_25_1_0",
+    "original": "出来上がりが楽しみだな。 ",
+    "translation": "出来上がりが楽しみだな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_TOUHA_25_2_0",
+    "original": "地図らしくなってきたよ。",
+    "translation": "地図らしくなってきたよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_TOUHA_50_1_0",
+    "original": "これで半分！ ",
+    "translation": "これで半分！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_TOUHA_50_2_0",
+    "original": "ここまで来たね！ ",
+    "translation": "ここまで来たね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_TOUHA_75_1_0",
+    "original": "もう少しってところかな？ ",
+    "translation": "もう少しってところかな？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_TOUHA_75_2_0",
+    "original": "あとちょっと、頑張ろ！ ",
+    "translation": "あとちょっと、頑張ろ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_TOUHA_100_1_0",
+    "original": "おめでとう、地図完成だね！ ",
+    "translation": "おめでとう、地図完成だね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_TOUHA_100_2_0",
+    "original": "すごい、素敵な地図だね！ ",
+    "translation": "すごい、素敵な地図だね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_MAPPING_ICON_ALL_1_0",
+    "original": "わあ、上手！ ",
+    "translation": "わあ、上手！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_MAPPING_ICON_ALL_2_0",
+    "original": "きれいに描くね。",
+    "translation": "きれいに描くね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_MAPPING_ICON_KAIDAN_0",
+    "original": "正確な情報だね。",
+    "translation": "正確な情報だね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_MAPPING_ICON_KAIDAN_2_0",
+    "original": "うん、そうだったよね。 ",
+    "translation": "うん、そうだったよね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_MAPPING_CHANGE_COLO_0",
+    "original": "ふふっ、こだわりだね。 ",
+    "translation": "ふふっ、こだわりだね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_MAPPING_CHANGE_COLO_2_0",
+    "original": "へえー、色を変えるんだ。",
+    "translation": "へえー、色を変えるんだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_MAPPING_ICON_DEL_1_0",
+    "original": "ポイしちゃうんだ？ ",
+    "translation": "ポイしちゃうんだ？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_MAPPING_ICON_DEL_2_0",
+    "original": "うん、捨てちゃおう。",
+    "translation": "うん、捨てちゃおう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_MAPPING_MEMO_1_0",
+    "original": "すごく丁寧だね。",
+    "translation": "すごく丁寧だね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_MAPPING_MEMO_2_0",
+    "original": "メモすれば忘れないよね。",
+    "translation": "メモすれば忘れないよね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_DOOR_OPEN_1_0",
+    "original": "こっちこっち！ ",
+    "translation": "こっちこっち！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_DOOR_OPEN_2_0",
+    "original": "それじゃあ、進もう？ ",
+    "translation": "それじゃあ、進もう？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "HARU_DOOR_OPEN_3_0",
+    "original": "ふふっ、早く行こ！ ",
+    "translation": "ふふっ、早く行こ！ ",
+    "stage": 1,
+    "context": ""
+  }
+]

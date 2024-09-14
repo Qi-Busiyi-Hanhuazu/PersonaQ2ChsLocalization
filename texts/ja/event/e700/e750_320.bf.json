@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ニャニッ！　う、動いたぞ！？",
+    "translation": "ニャニッ！　う、動いたぞ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おい、ちょっと待て！",
+    "translation": "おい、ちょっと待て！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "そいつ、\n[颜色 03]みんなの動きをコピー[颜色 01]してるぞ！",
+    "translation": "そいつ、\n[颜色 03]みんなの動きをコピー[颜色 01]してるぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あ？　コピーってなんだよ！？\n逆に動いてんじゃん。",
+    "translation": "あ？　コピーってなんだよ！？\n逆に動いてんじゃん。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうじゃないよ。",
+    "translation": "そうじゃないよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "右っていうのは、相手にとっても右だよね。\nつまり、向かって見れば…",
+    "translation": "右っていうのは、相手にとっても右だよね。\nつまり、向かって見れば…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "左ってことクマね！\nなるほどなー。",
+    "translation": "左ってことクマね！\nなるほどなー。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あ？　コピーだと！？",
+    "translation": "あ？　コピーだと！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "俺らが前進したから、\nアイツも向かってきたってことか？",
+    "translation": "俺らが前進したから、\nアイツも向かってきたってことか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そういうこと。\nもちろん、僕らが右に行けば右に動くから…",
+    "translation": "そういうこと。\nもちろん、僕らが右に行けば右に動くから…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "向かってみれば、左ってことクマね！\nなるほどなー。",
+    "translation": "向かってみれば、左ってことクマね！\nなるほどなー。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "え、えっとぉ…",
+    "translation": "え、えっとぉ…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_008_5_0",
+    "original": "右だか左だかよくわからないけど\nとにかく、気をつけろってことで無問題！？",
+    "translation": "右だか左だかよくわからないけど\nとにかく、気をつけろってことで無問題！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ああ、相手の動きを予測して進めばいい。\n頼んだぞ、ジョーカー。",
+    "translation": "ああ、相手の動きを予測して進めばいい。\n頼んだぞ、ジョーカー。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

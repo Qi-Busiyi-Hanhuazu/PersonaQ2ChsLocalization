@@ -1,0 +1,632 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "[P4全]。\n八十神高校２年だ。よろしく。",
+    "translation": "[P4全]。\n八十神高校２年だ。よろしく。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "２年…年下だとは思わなかった。\nずいぶん、落ち着いてるのね。",
+    "translation": "２年…年下だとは思わなかった。\nずいぶん、落ち着いてるのね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "[P5名]と互角に戦うんだ。\nただ者じゃないだろうね。",
+    "translation": "[P5名]と互角に戦うんだ。\nただ者じゃないだろうね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "よろしく",
+    "translation": "よろしく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "今度は倒す",
+    "translation": "今度は倒す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_2",
+    "original": "よろしくだホー！",
+    "translation": "よろしくだホー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "こちらこそ。\n新しい仲間が出来て、こちらも心強い。",
+    "translation": "こちらこそ。\n新しい仲間が出来て、こちらも心強い。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ああ、望むところだ。",
+    "translation": "ああ、望むところだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "オレサマオマエマルカジリ…",
+    "translation": "オレサマオマエマルカジリ…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "コンゴトモヨロシク…",
+    "translation": "コンゴトモヨロシク…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ええと…\n何かの暗号ですか？",
+    "translation": "ええと…\n何かの暗号ですか？",
+    "stage": 1,
+    "context": "知的な少年"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "お、けっこう気が合うカンジ？",
+    "translation": "お、けっこう気が合うカンジ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "つか、なんか似てんだよなー…\n雰囲気的な？",
+    "translation": "つか、なんか似てんだよなー…\n雰囲気的な？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "そう言えば、青い人たちと\n知り合いなのも一緒だね。",
+    "translation": "そう言えば、青い人たちと\n知り合いなのも一緒だね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "[P3P名]ちゃんも、\nテオドアさんと知り合いだったし。",
+    "translation": "[P3P名]ちゃんも、\nテオドアさんと知り合いだったし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "うん、私もワイルドだから\nペルソナの付け替えができるんだ。",
+    "translation": "うん、私もワイルドだから\nペルソナの付け替えができるんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "[P4名]くん、[P5名]くんも、\n同じみたいだね。",
+    "translation": "[P4名]くん、[P5名]くんも、\n同じみたいだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_011_5_0",
+    "original": "それにしても、ワイルドが他にもいたなんて\nビックリしちゃった！",
+    "translation": "それにしても、ワイルドが他にもいたなんて\nビックリしちゃった！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ああ、俺も驚いた。\nきっとこれも何かの縁だな。",
+    "translation": "ああ、俺も驚いた。\nきっとこれも何かの縁だな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ええと、じゃあ、次はあたしかな。",
+    "translation": "ええと、じゃあ、次はあたしかな。",
+    "stage": 1,
+    "context": "活発そうな少女"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "八十神高校２年、里中千枝です。\n好きなものはカンフーと肉！",
+    "translation": "八十神高校２年、里中千枝です。\n好きなものはカンフーと肉！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "え、カンフーと肉？",
+    "translation": "え、カンフーと肉？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "あっ…スイーツも大好きでぇーっす！\nオシャレも興味ありまぁ～す！",
+    "translation": "あっ…スイーツも大好きでぇーっす！\nオシャレも興味ありまぁ～す！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "こ、これは…\nアン殿以上のわざとらしさだぜ…",
+    "translation": "こ、これは…\nアン殿以上のわざとらしさだぜ…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "先輩、バレてるっス…",
+    "translation": "先輩、バレてるっス…",
+    "stage": 1,
+    "context": "目つきの悪い少年"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "次は私かな。\n天城雪子です、よろしくね。",
+    "translation": "次は私かな。\n天城雪子です、よろしくね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "雪子は家が老舗の旅館で、\n次期女将なんだよね。",
+    "translation": "雪子は家が老舗の旅館で、\n次期女将なんだよね。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "たしかに、そういう雰囲気あるね。\n大和撫子っていうのかな。",
+    "translation": "たしかに、そういう雰囲気あるね。\n大和撫子っていうのかな。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "旅館の女将候補なんて、すごいね。\n家庭的で、料理も上手そう！",
+    "translation": "旅館の女将候補なんて、すごいね。\n家庭的で、料理も上手そう！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "料理は…それ以上言うな。",
+    "translation": "料理は…それ以上言うな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "深い闇を感じる…",
+    "translation": "深い闇を感じる…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "んじゃ、次はオレいきますよ。\n八十神高校１年、巽完二っス。",
+    "translation": "んじゃ、次はオレいきますよ。\n八十神高校１年、巽完二っス。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "竜司と同じパツキンだな。\nお前ら、気合うんじゃねぇか？",
+    "translation": "竜司と同じパツキンだな。\nお前ら、気合うんじゃねぇか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "…な、なんだよ！？",
+    "translation": "…な、なんだよ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "おいおい、なーにモルガナに\nガン飛ばしてんだよ？",
+    "translation": "おいおい、なーにモルガナに\nガン飛ばしてんだよ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "へっ…は！？\nガ、ガンじゃねえっスよ！",
+    "translation": "へっ…は！？\nガ、ガンじゃねえっスよ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "も～、カンジったら浮気はダメクマよ？\nクマの毛並みだけじゃ飽き足らず…",
+    "translation": "も～、カンジったら浮気はダメクマよ？\nクマの毛並みだけじゃ飽き足らず…",
+    "stage": 1,
+    "context": "着ぐるみ"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "うわあああああ！\nちょ、何言おうとしてんだテメェ！",
+    "translation": "うわあああああ！\nちょ、何言おうとしてんだテメェ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "い、いいから次だ、次！　直斗！",
+    "translation": "い、いいから次だ、次！　直斗！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ああ、はい。僕は白鐘直斗。\n巽くんと同じ１年です。",
+    "translation": "ああ、はい。僕は白鐘直斗。\n巽くんと同じ１年です。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "その名前、聞き覚えがあるわ。\nどこだったかしら…",
+    "translation": "その名前、聞き覚えがあるわ。\nどこだったかしら…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "白鐘直斗さん…\n『初代・探偵王子』ですね。",
+    "translation": "白鐘直斗さん…\n『初代・探偵王子』ですね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_036_1",
+    "original": "その活躍ぶりは、ニュースでも\nよく報道されていますよ。",
+    "translation": "その活躍ぶりは、ニュースでも\nよく報道されていますよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_036_2",
+    "original": "…まさか、こんな所で\n初代に会えるとは思わなかったです。",
+    "translation": "…まさか、こんな所で\n初代に会えるとは思わなかったです。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "初代…ですか？",
+    "translation": "初代…ですか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "ええ。未熟ながら、僕も自分の世界では\n『探偵王子の再来』なんて呼ばれてるので…",
+    "translation": "ええ。未熟ながら、僕も自分の世界では\n『探偵王子の再来』なんて呼ばれてるので…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "そうなんですね。\nあと、敬語じゃなくて結構です。",
+    "translation": "そうなんですね。\nあと、敬語じゃなくて結構です。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_039_1",
+    "original": "どうやら、この世界では\n僕の方が年下のようですし…",
+    "translation": "どうやら、この世界では\n僕の方が年下のようですし…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "そう？\nそれなら、お言葉に甘えて…",
+    "translation": "そう？\nそれなら、お言葉に甘えて…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "じゃあ、探偵王子が二人いるってこと？\nそれって超心強いじゃん！",
+    "translation": "じゃあ、探偵王子が二人いるってこと？\nそれって超心強いじゃん！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "はは。\n期待に応えられるよう、頑張るよ。",
+    "translation": "はは。\n期待に応えられるよう、頑張るよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "はいはいは～い！\n次、クマの番！",
+    "translation": "はいはいは～い！\n次、クマの番！",
+    "stage": 1,
+    "context": "着ぐるみ"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "クマは…クマクマ！\nよろしクマ！",
+    "translation": "クマは…クマクマ！\nよろしクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "いや、全っ然わかんないんだけど！？",
+    "translation": "いや、全っ然わかんないんだけど！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "あらあらぁ。\nお嬢さん、クマの魅力をご存じなーい？",
+    "translation": "あらあらぁ。\nお嬢さん、クマの魅力をご存じなーい？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_046_5_0",
+    "original": "な・ん・と～。\n着ぐるみの中身は、イケてる美少年！",
+    "translation": "な・ん・と～。\n着ぐるみの中身は、イケてる美少年！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "はいはい、すぐに脱ごうとしない。",
+    "translation": "はいはい、すぐに脱ごうとしない。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_047_5_0",
+    "original": "説明しておくと、\nクマは深く考えたらダメっていうか…",
+    "translation": "説明しておくと、\nクマは深く考えたらダメっていうか…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_047_5_1",
+    "original": "たまに中からなんか出てくるかもだけど、\nそういうもんだと思えば大丈夫！",
+    "translation": "たまに中からなんか出てくるかもだけど、\nそういうもんだと思えば大丈夫！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "やっぱ、全っ然わかんないんだけど！？",
+    "translation": "やっぱ、全っ然わかんないんだけど！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "ええと…ここにいないのは、\nりせちゃんと花村くんだね。",
+    "translation": "ええと…ここにいないのは、\nりせちゃんと花村くんだね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "りせちーは分かるぜ？\nなんたって、人気アイドルだしな。",
+    "translation": "りせちーは分かるぜ？\nなんたって、人気アイドルだしな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "ああ。詳しい自己紹介は、後で\n本人にしてもらった方がいいだろう。",
+    "translation": "ああ。詳しい自己紹介は、後で\n本人にしてもらった方がいいだろう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "ええ、花村先輩もですね。",
+    "translation": "ええ、花村先輩もですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_052_1",
+    "original": "無事に合流できた時に、\n本人からしていただいた方が早いかと。",
+    "translation": "無事に合流できた時に、\n本人からしていただいた方が早いかと。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "そうだな…\nというわけで、こちらは以上だ。",
+    "translation": "そうだな…\nというわけで、こちらは以上だ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "今度はこっちの番だね。\nじゃあ…",
+    "translation": "今度はこっちの番だね。\nじゃあ…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_054_1",
+    "original": "双葉から？",
+    "translation": "双葉から？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "は！？\nな、なななんつー無茶振り！？",
+    "translation": "は！？\nな、なななんつー無茶振り！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_055_5_0",
+    "original": "[P5名]、[P5名]！\nこういう時は、リーダーからだろ！？",
+    "translation": "[P5名]、[P5名]！\nこういう時は、リーダーからだろ！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_知的な少年",
+    "original": "知的な少年",
+    "translation": "知的な少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_活発そうな少女",
+    "original": "活発そうな少女",
+    "translation": "活発そうな少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_目つきの悪い少年",
+    "original": "目つきの悪い少年",
+    "translation": "目つきの悪い少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_着ぐるみ",
+    "original": "着ぐるみ",
+    "translation": "着ぐるみ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  }
+]

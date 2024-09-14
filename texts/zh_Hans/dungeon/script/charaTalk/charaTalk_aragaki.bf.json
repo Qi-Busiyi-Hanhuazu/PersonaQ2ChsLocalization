@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎搜索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "なんか採れるみてぇだな。\nどうするよ？",
+    "translation": "似乎能采集到什么东西。\n怎么办？",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n好像可以采到东西呢。\n怎么办？\n\n好像能采到什么呢。\n怎么办？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あぁ。\n周りに注意しろよ。",
+    "translation": "好。\n小心周围。",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n啊啊。\n注意周围哦。\n\n啊。\n要注意周围的人。\n\n啊。要注意周围的人啊。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ま、なんも来ねぇだろ。\n探してみようぜ。",
+    "translation": "嘛，什么都不会出现吧。\n我们找找看吧。",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n嘛，应该不会有什么过来吧。\n找找看吧。\n\n啊，什么都不来吧。\n试着找找看吧。\n\n唉，什么也没来吧。找找看吧。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうだな…",
+    "translation": "是啊……",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n是呢……\n\n是啊……"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで終いみてぇだな。",
+    "translation": "这样一来就结束了。",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n这样好像就结束了呢。\n\n到此为止了。\n\n就这样结束吧。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ふぅん…",
+    "translation": "嗯……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呼……\n\n哼……\n\n嗯……"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "悪くねぇ。",
+    "translation": "不错。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不错呢。\n\n还不错。\n\n不错啊。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いただくぜ。",
+    "translation": "我收下了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我收下了。\n\n我吃了。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "潮時だな。",
+    "translation": "机会来了。",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n是时候了呢。\n\n是时候了。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "こりゃスゲェ。",
+    "translation": "这可真厉害。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这可厉害了。\n\n这可太棒了。\n\n这太厉害了。"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "よかったな。",
+    "translation": "太好了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太好了呢。\n\n太好了。"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ほぅ、珍しいな。",
+    "translation": "哦，真稀奇啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嚯，真少见呢。\n\n哦，真稀奇。\n\n哇，真少见啊。"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "近道か…どうするんだ？",
+    "translation": "近路吗……你打算怎么办？",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n捷径吗……怎么办？\n\n是近路吗……怎么办？\n\n是捷径吗……怎么办？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "チッ…\nこっちは通れねぇみたいだぜ。",
+    "translation": "嘁……看来我们是过不去了。",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n啧……\n这边好像不能通过呢。\n\n这边好像过不去。\n\n\n啧……这边好像过不去。"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ここ、嫌な気配がすんな…\nどうするんだ？",
+    "translation": "这里有一种不妙的气息……怎么办？",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n这边，有种讨厌的气息……\n怎么办？\n\n这里有种讨厌的感觉……\n怎么办？\n\n这里，不要有讨厌的气息……\n怎么办？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "おっし。\nんじゃ、気合い入れていくぞ。",
+    "translation": "好。\n那么，一鼓作气上吧。",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n好。\n那么，鼓起干劲上吧。\n\n早上好。\n那么，我会鼓起干劲的。\n\n喂。那我就打起精神去吧。"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "賢明だな。",
+    "translation": "很明智。",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n很明智呢。\n\n真明智啊。\n\n真聪明啊。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "かなり手強かったな。\nなんとかなったか…",
+    "translation": "真是棘手啊。\n总算解决了吗……",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n相当难缠呢。\n总算是解决了么……\n\n相当厉害啊。\n有什么办法了吗……"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "この辺、シャドウの気配がすんな。\nどうすんだ？",
+    "translation": "这附近有暗影的气息。\n怎么办？",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n这边，有种暗影的气息呢。\n怎么办？\n\n这附近有暗影的迹象。\n怎么办？\n\n这附近没有暗影。\n怎么办？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "おし、調べるとするか。",
+    "translation": "好，那就开始调查吧。",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n好，就来调查吧。\n\n喂，要调查吗。\n\n你要调查一下吗？"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ああ、分かった。",
+    "translation": "好，我明白了。",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n啊啊，我知道了。\n\n啊，知道了。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "やれやれ、やっぱり出やがったな。",
+    "translation": "哎呀，果然出现了啊。",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n哎呀呀，果然出现了呢。\n\n哎呀呀，果然来了。\n\n哎呀，果然还是出来了啊。"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "映画館に戻んのか？",
+    "translation": "你要回电影院吗？",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n要回到电影院吗？\n\n要回电影院吗？\n\n回电影院吗？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

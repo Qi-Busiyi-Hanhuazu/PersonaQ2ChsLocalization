@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ほい、お疲れさん。",
+    "translation": "嘿，辛苦了。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n好，辛苦啦。\n\n好的，辛苦了。\n\n喂，辛苦了。"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "このエリアも半分以上進んでるぞ。\nそろそろ例の階段も近いからな。",
+    "translation": "这个区域已经探索了一半以上了。\n很快就要到那个楼梯的位置了呢。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n这个区域也已经过了一半以上了。\n那个楼梯也差不多快到了。\n\n这个区域也前进了一半以上哦。\n那个台阶也快到了。\n\n这个区域已经进行了一半以上了。\n离那个楼梯也差不多了。"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "気合い入れて行けよー？",
+    "translation": "鼓足劲要上喽——！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n要加把劲哦——？\n\n鼓起干劲去吧？\n\n打起精神去吧～？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん、任せて！",
+    "translation": "嗯，交给我吧！",
+    "stage": 0,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n嗯，交给我吧！"
+  },
+  {
+    "key": "MSG_001_5_0",
+    "original": "待っててね…、クイーン、ノワール。",
+    "translation": "我们这就来…… QUEEN，NOIR。",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n等我们哦……QUEEN、NOIR。\n\n等一下……、QUEEN、NOIR。\n\n等着我啊……、QUEEN、NOIR。"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

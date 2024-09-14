@@ -1,0 +1,401 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "解除スイッチを押し、\n元の場所へ戻ってきた…",
+    "translation": "解除スイッチを押し、\n元の場所へ戻ってきた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あー、腰いてぇ…",
+    "translation": "あー、腰いてぇ…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "いやー…ホント突破できて\nよーござんしたって感じだよな。",
+    "translation": "いやー…ホント突破できて\nよーござんしたって感じだよな。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "まさか『適応能力』であんなテスト\nさせられるとか…死ぬかと思った。",
+    "translation": "まさか『適応能力』であんなテスト\nさせられるとか…死ぬかと思った。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "どこも過酷なテストだったみたいですね。\n僕たちも肝を冷やしましたが…",
+    "translation": "どこも過酷なテストだったみたいですね。\n僕たちも肝を冷やしましたが…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "ですが、結果的に全チームとも\n無事にクリアできたようで良かったです。",
+    "translation": "ですが、結果的に全チームとも\n無事にクリアできたようで良かったです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "３つともスイッチは押せたし、\n無事に先へ進めそうだね。",
+    "translation": "３つともスイッチは押せたし、\n無事に先へ進めそうだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "どうしたの？",
+    "translation": "どうしたの？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "皆さんの能力には個体差がアリマスが、\n足リナイ部分を補イ合ッテいるようデシタ。",
+    "translation": "皆さんの能力には個体差がアリマスが、\n足リナイ部分を補イ合ッテいるようデシタ。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "突出してイル能力、足りナイ能力…\nアンバランスなのニ…気にシナイのですカ？",
+    "translation": "突出してイル能力、足りナイ能力…\nアンバランスなのニ…気にシナイのですカ？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ま、それが俺たちの『個性』だからな。\n指導者は否定してるけどよ。",
+    "translation": "ま、それが俺たちの『個性』だからな。\n指導者は否定してるけどよ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "コセイ…",
+    "translation": "コセイ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "そして、バラバラなヤツらをまとめる\nリーダーがいたからな。",
+    "translation": "そして、バラバラなヤツらをまとめる\nリーダーがいたからな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ああ…各部屋でリーダーを務めてくれた\n彼らの功績にも感謝しよう。",
+    "translation": "ああ…各部屋でリーダーを務めてくれた\n彼らの功績にも感謝しよう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "えへへ、役に立てたなら嬉しいです。\nでも、みんなで協力した成果ですよ！",
+    "translation": "えへへ、役に立てたなら嬉しいです。\nでも、みんなで協力した成果ですよ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ああ。仲間たちが\n頑張ってくれたおかげだ。",
+    "translation": "ああ。仲間たちが\n頑張ってくれたおかげだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "フッ…\nそうだな、全員の努力の賜物だ。",
+    "translation": "フッ…\nそうだな、全員の努力の賜物だ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "それにしても…この試験場、\n一体どういう仕組みになっていたんだ？",
+    "translation": "それにしても…この試験場、\n一体どういう仕組みになっていたんだ？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ああ、それな。\n空間シミュレーションだったらしい。",
+    "translation": "ああ、それな。\n空間シミュレーションだったらしい。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "要するに、仮想現実みたいなもので\n実体としてはどれも空っぽの部屋だった。",
+    "translation": "要するに、仮想現実みたいなもので\n実体としてはどれも空っぽの部屋だった。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "つまり、あの試験装置みたいなのは\n全部なかったってことか？",
+    "translation": "つまり、あの試験装置みたいなのは\n全部なかったってことか？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "そうだ。\nだから、ここをポチッとやれば…",
+    "translation": "そうだ。\nだから、ここをポチッとやれば…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ぐふふ。\nこれで、もう試験ナシで通れるぞ！",
+    "translation": "ぐふふ。\nこれで、もう試験ナシで通れるぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "マジかよ！？\n嬉しいような、悲しいような…",
+    "translation": "マジかよ！？\n嬉しいような、悲しいような…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_021_0",
+    "original": "分かる",
+    "translation": "分かる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_021_1",
+    "original": "あの努力は一体…",
+    "translation": "あの努力は一体…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_021_2",
+    "original": "もう一回テストするか？",
+    "translation": "もう一回テストするか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "だよな。こんな苦労して、\n全部ウソだったんかい！　みたいな？",
+    "translation": "だよな。こんな苦労して、\n全部ウソだったんかい！　みたいな？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "まあ、あれだけ苦労して、\n全部シミュレーターの出来ごとじゃね。",
+    "translation": "まあ、あれだけ苦労して、\n全部シミュレーターの出来ごとじゃね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "でも、あの苦労があったからこそ\nこうして解除も出来たんだし…ね？",
+    "translation": "でも、あの苦労があったからこそ\nこうして解除も出来たんだし…ね？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうじゃねーって！\nつか、ゲームやってたようなモンだろ？",
+    "translation": "そうじゃねーって！\nつか、ゲームやってたようなモンだろ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "なんかビミョーに疲れ損ってか、\nウソだったんかい！　みたいな？",
+    "translation": "なんかビミョーに疲れ損ってか、\nウソだったんかい！　みたいな？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "でもよ、二度目はカンベンてか、\n出来ればもうやりたくねっス…",
+    "translation": "でもよ、二度目はカンベンてか、\n出来ればもうやりたくねっス…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "みなさん、セキュリティの解除により\n研究施設の入口が開いたのを確認しました！",
+    "translation": "みなさん、セキュリティの解除により\n研究施設の入口が開いたのを確認しました！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "うん、あの扉はもう自由に\n行き来できるみたいだよ。",
+    "translation": "うん、あの扉はもう自由に\n行き来できるみたいだよ。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "とは言っても、この先もまだ長そうだから\n気をつけて進んでね！",
+    "translation": "とは言っても、この先もまだ長そうだから\n気をつけて進んでね！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "なるほど、分かった。\nではみんな、行くぞ！",
+    "translation": "なるほど、分かった。\nではみんな、行くぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

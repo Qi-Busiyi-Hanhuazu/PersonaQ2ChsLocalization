@@ -1,0 +1,107 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "これで３体討伐！\n残りあと１体ですよ！",
+    "translation": "これで３体討伐！\n残りあと１体ですよ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、体も充分に温まった。\nこのままフィニッシュを決めるぞ！",
+    "translation": "ああ、体も充分に温まった。\nこのままフィニッシュを決めるぞ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "まったく…これじゃあ明彦のトレーニングに\n付き合っている気分になってくるな。",
+    "translation": "まったく…これじゃあ明彦のトレーニングに\n付き合っている気分になってくるな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ふふっ、ホントですね。",
+    "translation": "ふふっ、ホントですね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "でも、真田先輩と荒垣先輩のおかげもあって\nいいペースで討伐できてますよ！",
+    "translation": "でも、真田先輩と荒垣先輩のおかげもあって\nいいペースで討伐できてますよ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "君の妙案が、功を奏しているようだな。\n感謝しているよ。",
+    "translation": "君の妙案が、功を奏しているようだな。\n感謝しているよ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "フッ、そちらの世界では[P3P姓]が\n隊のリーダーを務めている…か。",
+    "translation": "フッ、そちらの世界では[P3P姓]が\n隊のリーダーを務めている…か。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_004_2",
+    "original": "その理由が、改めてよく分かったような\n気がするよ。",
+    "translation": "その理由が、改めてよく分かったような\n気がするよ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そんな、美鶴先輩…",
+    "translation": "そんな、美鶴先輩…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "おい、４体目の討伐に向かうぞ！\n早く準備しろ。",
+    "translation": "おい、４体目の討伐に向かうぞ！\n早く準備しろ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "あっ、はい！　いま行きます！",
+    "translation": "あっ、はい！　いま行きます！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ふう…では、出発するとするか。",
+    "translation": "ふう…では、出発するとするか。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

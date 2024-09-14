@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おっと、行き止まりかよ。",
+    "translation": "おっと、行き止まりかよ。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "ここ、ややこしいっスね。\n上行ったり下行ったりして。",
+    "translation": "ここ、ややこしいっスね。\n上行ったり下行ったりして。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、頭も使わされるからな。\n少し休憩するか。",
+    "translation": "ああ、頭も使わされるからな。\n少し休憩するか。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ナビのみんなも、一息入れて。\nずっと気を張ってると疲れるよね。",
+    "translation": "ナビのみんなも、一息入れて。\nずっと気を張ってると疲れるよね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ありがとうございます！\nじゃあ、お言葉に甘えて。",
+    "translation": "ありがとうございます！\nじゃあ、お言葉に甘えて。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "あー、お腹すいちゃった。\nちょっと何かつまみたい気分かも。",
+    "translation": "あー、お腹すいちゃった。\nちょっと何かつまみたい気分かも。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "わたしも…",
+    "translation": "わたしも…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ハハッ、デケえ腹の虫だな。\nおいナビ、こっちまで聞こえてんぞ。",
+    "translation": "ハハッ、デケえ腹の虫だな。\nおいナビ、こっちまで聞こえてんぞ。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うー、カレー食べたい！",
+    "translation": "うー、カレー食べたい！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "てか、完二のせいなんだぞ！\n完二見てると、無性にカレー食べたくなる！",
+    "translation": "てか、完二のせいなんだぞ！\n完二見てると、無性にカレー食べたくなる！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ハァ？　カレー？\n意味わかんねえ。",
+    "translation": "ハァ？　カレー？\n意味わかんねえ。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "その髪の色といい、そのデカイ身体といい…",
+    "translation": "その髪の色といい、そのデカイ身体といい…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "な、オマエもわかるだろ、[P5名]！",
+    "translation": "な、オマエもわかるだろ、[P5名]！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "わからない",
+    "translation": "わからない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "なんとなく",
+    "translation": "なんとなく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "なんでだ！\nガツガツ食べてる絵が浮かぶだろ。",
+    "translation": "なんでだ！\nガツガツ食べてる絵が浮かぶだろ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "イエローはパワータイプでカレー好き。\nこれ常識だぞ。",
+    "translation": "イエローはパワータイプでカレー好き。\nこれ常識だぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "だろ！　ガツガツ食べてそうだよな。",
+    "translation": "だろ！　ガツガツ食べてそうだよな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "イエローはパワータイプでカレー好き。\nこれ常識だからな。",
+    "translation": "イエローはパワータイプでカレー好き。\nこれ常識だからな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ぜんっぜん、話が見えねーんスけど…",
+    "translation": "ぜんっぜん、話が見えねーんスけど…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ああ、フェザーオウルですね？",
+    "translation": "ああ、フェザーオウルですね？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "イエローがカレー好きなのは、\n特撮のお約束なんですよ。",
+    "translation": "イエローがカレー好きなのは、\n特撮のお約束なんですよ。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "おお、オウルはフェザーマンＲだ！\nさてはおヌシ、話せるな？",
+    "translation": "おお、オウルはフェザーマンＲだ！\nさてはおヌシ、話せるな？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "い、いや…友達から聞いただけで、\nそんなに詳しいってわけじゃ…",
+    "translation": "い、いや…友達から聞いただけで、\nそんなに詳しいってわけじゃ…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "でも、双葉さんも\nフェザーマンお好きなんですね。",
+    "translation": "でも、双葉さんも\nフェザーマンお好きなんですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ふっふっふ…\n映像もグッズもカンペキに押さえてるぞ。",
+    "translation": "ふっふっふ…\n映像もグッズもカンペキに押さえてるぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "今やってるシリーズだって…\nおっと、これ以上はネタバレか？",
+    "translation": "今やってるシリーズだって…\nおっと、これ以上はネタバレか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "うわー、双葉さんの時代にも\nフェザーマン続いてるんですね！",
+    "translation": "うわー、双葉さんの時代にも\nフェザーマン続いてるんですね！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "もちろんだ！\n不死鳥戦隊は不滅のヒーローだからな。",
+    "translation": "もちろんだ！\n不死鳥戦隊は不滅のヒーローだからな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ほんと、憧れちゃいますよね。",
+    "translation": "ほんと、憧れちゃいますよね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "どんな強い相手にも勇気を持って\n向かっていく姿…見習いたいです。",
+    "translation": "どんな強い相手にも勇気を持って\n向かっていく姿…見習いたいです。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_019_2",
+    "original": "…って、友達が言ってました。",
+    "translation": "…って、友達が言ってました。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そーいえば、わたしたちも\nちょうど五人が前に出て戦ってるな。",
+    "translation": "そーいえば、わたしたちも\nちょうど五人が前に出て戦ってるな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "乾がやるならレッドか？\nクールな感じのブラックか？",
+    "translation": "乾がやるならレッドか？\nクールな感じのブラックか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ぼ、僕はみんなより年下だし、\nレッドは[P5姓]さんとか[P3姓]さんかな。",
+    "translation": "ぼ、僕はみんなより年下だし、\nレッドは[P5姓]さんとか[P3姓]さんかな。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_022_0",
+    "original": "不死鳥戦隊！",
+    "translation": "不死鳥戦隊！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_022_1",
+    "original": "ピンクがいい",
+    "translation": "ピンクがいい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ぬふふ、ノリノリだな！\nコスプレするなら手伝うぞ！",
+    "translation": "ぬふふ、ノリノリだな！\nコスプレするなら手伝うぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "リーダーがピンクでヒロイン枠か。\n斬新すぎるぞ！",
+    "translation": "リーダーがピンクでヒロイン枠か。\n斬新すぎるぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "お、オレは？\nその…イエローってやつか？",
+    "translation": "お、オレは？\nその…イエローってやつか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "やっぱ完二は、怪人パツキンデカドクロ。",
+    "translation": "やっぱ完二は、怪人パツキンデカドクロ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "そうですね、身体も大きいし、\n倒し甲斐がありそうですね。",
+    "translation": "そうですね、身体も大きいし、\n倒し甲斐がありそうですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "悪役になってんじゃねーか！",
+    "translation": "悪役になってんじゃねーか！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "特別上映『怪人の教え』が\nチケットカウンターに追加されました。",
+    "translation": "特別上映『怪人の教え』が\nチケットカウンターに追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  }
+]

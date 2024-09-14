@@ -1,0 +1,289 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ナイトクラブか…\nそれっぽいトコなんてあったっけか？",
+    "translation": "ナイトクラブか…\nそれっぽいトコなんてあったっけか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "俺はそういう場所には疎いからな。",
+    "translation": "俺はそういう場所には疎いからな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "さっきの話では[P3姓]が\nその道の達人と聞いているが…",
+    "translation": "さっきの話では[P3姓]が\nその道の達人と聞いているが…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "達人って…\nまあ、たまに行くぐらいだよ。",
+    "translation": "達人って…\nまあ、たまに行くぐらいだよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ボロニアンモールの\nエスカペイドか…",
+    "translation": "ボロニアンモールの\nエスカペイドか…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ああ！　あそこ！\n俺たちも修学旅行で行ったっス！",
+    "translation": "ああ！　あそこ！\n俺たちも修学旅行で行ったっス！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "みんなバイヴスアゲアゲで\nエンジョイしたクマ！",
+    "translation": "みんなバイヴスアゲアゲで\nエンジョイしたクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "お前らのは場酔いだった気もすっけど…",
+    "translation": "お前らのは場酔いだった気もすっけど…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "やっぱ[P3姓]も仲間と\nワイワイしたり？",
+    "translation": "やっぱ[P3姓]も仲間と\nワイワイしたり？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いや、僕は一人だけど…",
+    "translation": "いや、僕は一人だけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "す、すげー…オトナっスね…",
+    "translation": "す、すげー…オトナっスね…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "でもクラブとかバーとか、\n一人で行って何するんすか？",
+    "translation": "でもクラブとかバーとか、\n一人で行って何するんすか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "大人と話す",
+    "translation": "大人と話す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "アルバイトする",
+    "translation": "アルバイトする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_2",
+    "original": "酔っ払いの愚痴を聞く",
+    "translation": "酔っ払いの愚痴を聞く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "それだね。ああいう場だと\n普段話さないような人と話ができるんだ。",
+    "translation": "それだね。ああいう場だと\n普段話さないような人と話ができるんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "例えば、お坊さんとか…",
+    "translation": "例えば、お坊さんとか…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ああいう場所のバイトか…\n注文覚えたりするの大変だよね。",
+    "translation": "ああいう場所のバイトか…\n注文覚えたりするの大変だよね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "僕もお坊さんに\nお酒持って来いって言われて困ったっけ…",
+    "translation": "僕もお坊さんに\nお酒持って来いって言われて困ったっけ…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "思いがけないような\n話を聞いたりするよね。",
+    "translation": "思いがけないような\n話を聞いたりするよね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "たとえばお坊さんの説法とか…",
+    "translation": "たとえばお坊さんの説法とか…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "坊さん！？\nお前、そんなんとも交流あったのかよ！？",
+    "translation": "坊さん！？\nお前、そんなんとも交流あったのかよ！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "[P3姓]さんは底が知れないというか\n未だに謎の部分が多いですよね…",
+    "translation": "[P3姓]さんは底が知れないというか\n未だに謎の部分が多いですよね…",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こういう謎なトコ、\nなんかお前とも被るよな…",
+    "translation": "こういう謎なトコ、\nなんかお前とも被るよな…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_016_0",
+    "original": "どこが？",
+    "translation": "どこが？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_016_1",
+    "original": "何のこと？",
+    "translation": "何のこと？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "お前もしょっちゅう謎交流してんだろ！\n女医とか！　女流棋士とか！",
+    "translation": "お前もしょっちゅう謎交流してんだろ！\n女医とか！　女流棋士とか！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "なに！？　聞き捨てならないクマね！\nその話、詳しく！　プリーズ！",
+    "translation": "なに！？　聞き捨てならないクマね！\nその話、詳しく！　プリーズ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "そろそろ出発しない？",
+    "translation": "そろそろ出発しない？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "秘密の社交場っていうからには、\n街の外れとか、奥まった所じゃないかな。",
+    "translation": "秘密の社交場っていうからには、\n街の外れとか、奥まった所じゃないかな。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "[P3姓]の言う通りだ。\nそろそろ行くぞ。",
+    "translation": "[P3姓]の言う通りだ。\nそろそろ行くぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,730 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "う…ここは…",
+    "translation": "う…ここは…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "みなさん！　大丈夫ですか！？",
+    "translation": "みなさん！　大丈夫ですか！？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "山岸…？\nということは、ここはひかりの映画館か？",
+    "translation": "山岸…？\nということは、ここはひかりの映画館か？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うん。みんな一気に、\nここまで飛ばされちゃったみたい。",
+    "translation": "うん。みんな一気に、\nここまで飛ばされちゃったみたい。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "エンリルの力もヤバいけど…",
+    "translation": "エンリルの力もヤバいけど…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "それより何より、映画館にいる人たちが\nわたしたちを拒絶する力がすげー強いぞ。",
+    "translation": "それより何より、映画館にいる人たちが\nわたしたちを拒絶する力がすげー強いぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "クソッ…！\nなんでアイツら、分かってくれねえんだよ！",
+    "translation": "クソッ…！\nなんでアイツら、分かってくれねえんだよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "でも、あの人たち…\n少し戸惑ってなかった？",
+    "translation": "でも、あの人たち…\n少し戸惑ってなかった？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ああ。勇気さえあれば…\nそんな声だってあった。",
+    "translation": "ああ。勇気さえあれば…\nそんな声だってあった。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "でも結局、一人、また一人…って、\nみんな諦めモードに入ってたよね。",
+    "translation": "でも結局、一人、また一人…って、\nみんな諦めモードに入ってたよね。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "きっとみんな、私と同じだと思う…",
+    "translation": "きっとみんな、私と同じだと思う…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "同じって？",
+    "translation": "同じって？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "過去の傷ついた記憶や、諦めた方が\n楽って気持ちを呼び起こすような映画…",
+    "translation": "過去の傷ついた記憶や、諦めた方が\n楽って気持ちを呼び起こすような映画…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "そういうのをずっと見てると、本当に、\n諦めるのが正しいって思えてくるの。",
+    "translation": "そういうのをずっと見てると、本当に、\n諦めるのが正しいって思えてくるの。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "最早、マインドコントロールに近いな…\n僕たちが何を言っても聞こえるかどうか。",
+    "translation": "最早、マインドコントロールに近いな…\n僕たちが何を言っても聞こえるかどうか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "でも、私は変われた。\nみんなが変えてくれた映画のおかげで。",
+    "translation": "でも、私は変われた。\nみんなが変えてくれた映画のおかげで。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "我慢せずに、前を向こうって。\n映画って本来そういうもののはずなんだよ。",
+    "translation": "我慢せずに、前を向こうって。\n映画って本来そういうもののはずなんだよ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_013_2",
+    "original": "自分を否定するためのものじゃない。\nあの映画を見れば、みんなだって…",
+    "translation": "自分を否定するためのものじゃない。\nあの映画を見れば、みんなだって…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "SEL_014_0",
+    "original": "それだ！",
+    "translation": "それだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_1",
+    "original": "見せてやろう",
+    "translation": "見せてやろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "え！？　突然、どうしたの？",
+    "translation": "え！？　突然、どうしたの？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "なにか思いついたのか？",
+    "translation": "なにか思いついたのか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ひょっとして、私たちが\n今まで変えてきた映画のこと？",
+    "translation": "ひょっとして、私たちが\n今まで変えてきた映画のこと？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "あれを、みんなに見せる…？",
+    "translation": "あれを、みんなに見せる…？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "…なるほどな。上手くいきゃ、\nアイツらも考えが変わるかもしれねえ。",
+    "translation": "…なるほどな。上手くいきゃ、\nアイツらも考えが変わるかもしれねえ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "たしかに、理屈としては正しいですが…",
+    "translation": "たしかに、理屈としては正しいですが…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ストップ、ストップ！\nええと…ごめん、つまりどういうこと？",
+    "translation": "ストップ、ストップ！\nええと…ごめん、つまりどういうこと？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "一人一人を説得するんじゃなくて、\n映画の力で、みんなの心をまとめて変える…",
+    "translation": "一人一人を説得するんじゃなくて、\n映画の力で、みんなの心をまとめて変える…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "そういうことじゃないかな？",
+    "translation": "そういうことじゃないかな？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ああ。映画を見て、勇気が芽生えれば、\n鍵は外れる…",
+    "translation": "ああ。映画を見て、勇気が芽生えれば、\n鍵は外れる…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "みんな、映画館から出てくるかもしれない。",
+    "translation": "みんな、映画館から出てくるかもしれない。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "…で、どうやってアイツらに\n映画を見せるつもりだ？",
+    "translation": "…で、どうやってアイツらに\n映画を見せるつもりだ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "うーん…映画館って普通、劇場ごとに\n作品が違いますもんね。",
+    "translation": "うーん…映画館って普通、劇場ごとに\n作品が違いますもんね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "ひかりちゃんの映画を一斉に流す…\n一体、どうすれば…？",
+    "translation": "ひかりちゃんの映画を一斉に流す…\n一体、どうすれば…？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "SEL_025_0",
+    "original": "映写機があった",
+    "translation": "映写機があった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_025_1",
+    "original": "フィルムを替えよう",
+    "translation": "フィルムを替えよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_025_2",
+    "original": "ひかりに任せよう",
+    "translation": "ひかりに任せよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "確かに、映写機が４つほど\n設置されていたことは確認しています。",
+    "translation": "確かに、映写機が４つほど\n設置されていたことは確認しています。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "でも、どうやって使うんですか？\n映写機ってフィルムを流す機械ですよね。",
+    "translation": "でも、どうやって使うんですか？\n映写機ってフィルムを流す機械ですよね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "フィルムって、地面に流れてたアレだよね？\nそれを替えるってこと？",
+    "translation": "フィルムって、地面に流れてたアレだよね？\nそれを替えるってこと？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "もしかして、４つ置いてあった映写機は\nあのフィルムと関係があるのかな？",
+    "translation": "もしかして、４つ置いてあった映写機は\nあのフィルムと関係があるのかな？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "オイオイ、いくら映画監督志望つったって、\nそりゃ無茶ぶりすぎっしょ！？",
+    "translation": "オイオイ、いくら映画監督志望つったって、\nそりゃ無茶ぶりすぎっしょ！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "あ…でも、もしかしたら…\nあの４つの映写機を利用すれば…",
+    "translation": "あ…でも、もしかしたら…\nあの４つの映写機を利用すれば…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "え、ホントに何か思いついた？",
+    "translation": "え、ホントに何か思いついた？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "…そうか！\n４つの映写機とフィルムを利用すればいい！",
+    "translation": "…そうか！\n４つの映写機とフィルムを利用すればいい！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "映画館街の道はどうも、全ての映画館に\n影響を与えてる１つの長いフィルムっぽい。",
+    "translation": "映画館街の道はどうも、全ての映画館に\n影響を与えてる１つの長いフィルムっぽい。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "暗い感じのフィルムだったよね。\n単に、色が暗いというだけじゃなくて…",
+    "translation": "暗い感じのフィルムだったよね。\n単に、色が暗いというだけじゃなくて…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "ひょっとして、あれがこの世界にいる\n人たちにネガティブな影響を？",
+    "translation": "ひょっとして、あれがこの世界にいる\n人たちにネガティブな影響を？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "きっと、あの長いフィルムは、みんなの\n暗い記憶で構築されているんだと思う…",
+    "translation": "きっと、あの長いフィルムは、みんなの\n暗い記憶で構築されているんだと思う…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "つまり、人々の記憶の集合体か…\n何だか『アカシックレコード』みたいだね。",
+    "translation": "つまり、人々の記憶の集合体か…\n何だか『アカシックレコード』みたいだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "あ？　なんスか、それ？",
+    "translation": "あ？　なんスか、それ？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "世界のあらゆる事象や感情の記録、という\n概念…確かに近いものはありますね。",
+    "translation": "世界のあらゆる事象や感情の記録、という\n概念…確かに近いものはありますね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_039_1",
+    "original": "ですが、あらゆる記録と呼ぶには、\nここに映るものは偏りすぎです。",
+    "translation": "ですが、あらゆる記録と呼ぶには、\nここに映るものは偏りすぎです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "つまり、人々の記憶の集合体か…",
+    "translation": "つまり、人々の記憶の集合体か…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "ええ。\nですが、ここに映る記憶には偏りがある…",
+    "translation": "ええ。\nですが、ここに映る記憶には偏りがある…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "…うん。\nこれはみんな、編集された記憶。",
+    "translation": "…うん。\nこれはみんな、編集された記憶。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_042_1",
+    "original": "楽しかったことや、嬉しかったことは\nフィルムから切り取られてる。",
+    "translation": "楽しかったことや、嬉しかったことは\nフィルムから切り取られてる。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "フィルムには『ネガ』と『ポジ』があるが、\n本当にネガティブな部分を抽出したとはな。",
+    "translation": "フィルムには『ネガ』と『ポジ』があるが、\n本当にネガティブな部分を抽出したとはな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "ひかりの見ていた映画は、\n私たちがひとつずつ変えたけれど…",
+    "translation": "ひかりの見ていた映画は、\n私たちがひとつずつ変えたけれど…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_044_1",
+    "original": "ここの人たちの意識をまとめて変えるには、\n大元を断ち切る必要がある、ということね。",
+    "translation": "ここの人たちの意識をまとめて変えるには、\n大元を断ち切る必要がある、ということね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "そっか、このフィルムをひかりちゃんの\n新しい映画に取り替えちゃえばいいんだ。",
+    "translation": "そっか、このフィルムをひかりちゃんの\n新しい映画に取り替えちゃえばいいんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_045_1",
+    "original": "そうすれば、みんなきっと…",
+    "translation": "そうすれば、みんなきっと…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_046_0",
+    "original": "勇気を持つ",
+    "translation": "勇気を持つ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_046_1",
+    "original": "映画館から出てくる",
+    "translation": "映画館から出てくる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_046_2",
+    "original": "どうなるか分からない",
+    "translation": "どうなるか分からない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "みんな、ヒカリンみたいに\n元気になれるクマ？",
+    "translation": "みんな、ヒカリンみたいに\n元気になれるクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "なら、やるしかないっしょ！",
+    "translation": "なら、やるしかないっしょ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "うん。\nきっと、みんなにも伝わってくれるはず！",
+    "translation": "うん。\nきっと、みんなにも伝わってくれるはず！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "確かに、ひかりの映画を流せば\n変わるという確証はない。だが…",
+    "translation": "確かに、ひかりの映画を流せば\n変わるという確証はない。だが…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_051_1",
+    "original": "我々は、何もやらないうちに諦めるような\n人間ではないだろう？",
+    "translation": "我々は、何もやらないうちに諦めるような\n人間ではないだろう？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "その通りだ。ひかりの映画を流す以上、\n俺たちが前を向かなくてどうする。",
+    "translation": "その通りだ。ひかりの映画を流す以上、\n俺たちが前を向かなくてどうする。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "決まりだな。ネガティブな映画を、\nひかりの映画に変えよう。",
+    "translation": "決まりだな。ネガティブな映画を、\nひかりの映画に変えよう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "さっきの４つの映写機の\nフィルムを取り替えればいいんだね？",
+    "translation": "さっきの４つの映写機の\nフィルムを取り替えればいいんだね？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "となると、ヒカリの映画フィルムを\n取りに行く必要があるな。",
+    "translation": "となると、ヒカリの映画フィルムを\n取りに行く必要があるな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_055_1",
+    "original": "よし、映写室に行くぞ！",
+    "translation": "よし、映写室に行くぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

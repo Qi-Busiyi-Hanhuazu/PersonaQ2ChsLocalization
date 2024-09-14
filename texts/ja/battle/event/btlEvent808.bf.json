@@ -1,0 +1,905 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "私は…お前たち人間が\n『エンリル』と呼び習わす、暴嵐の化身…",
+    "translation": "私は…お前たち人間が\n『エンリル』と呼び習わす、暴嵐の化身…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "お前たちの覚悟、決意、信念…\n紛い物で無いと言うのなら、見せてみよ！",
+    "translation": "お前たちの覚悟、決意、信念…\n紛い物で無いと言うのなら、見せてみよ！",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "す、すごい力を感じるぞ！",
+    "translation": "す、すごい力を感じるぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "かなりの強敵です。\n皆さん、気をつけて！",
+    "translation": "かなりの強敵です。\n皆さん、気をつけて！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_002_3_0",
+    "original": "みんな頑張って！ ",
+    "translation": "みんな頑張って！ ",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_002_5_0",
+    "original": "人々の願いと仲間たちの想いが\n立ち向かう力に変わる…！",
+    "translation": "人々の願いと仲間たちの想いが\n立ち向かう力に変わる…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "幾度と無く繰り返された、\n破壊と再生から何も学ばず…",
+    "translation": "幾度と無く繰り返された、\n破壊と再生から何も学ばず…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "摂理に逆らい…刃向かう。\n可能性と言う妄念に踊らされながら…",
+    "translation": "摂理に逆らい…刃向かう。\n可能性と言う妄念に踊らされながら…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "その誤りは、偏に人間が\n弱き存在であるが故…",
+    "translation": "その誤りは、偏に人間が\n弱き存在であるが故…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "差し伸ばされた救いの手さえ、\n悪と定め、矛を向ける…",
+    "translation": "差し伸ばされた救いの手さえ、\n悪と定め、矛を向ける…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "人間とは、愚かで矮小な存在…\n天意を理解できぬのも無理はない…",
+    "translation": "人間とは、愚かで矮小な存在…\n天意を理解できぬのも無理はない…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_004_2",
+    "original": "だが、それでも私は\n庇護の手を差し伸べてやろう…",
+    "translation": "だが、それでも私は\n庇護の手を差し伸べてやろう…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "それが人を狂奔らせる毒とも知らず、\n希望という言葉に縋り付く…",
+    "translation": "それが人を狂奔らせる毒とも知らず、\n希望という言葉に縋り付く…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "そして後悔するのだ。\n絶望と失意に塗れながら…",
+    "translation": "そして後悔するのだ。\n絶望と失意に塗れながら…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "それならば、私が救ってやるしかあるまい。",
+    "translation": "それならば、私が救ってやるしかあるまい。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "憐れな…",
+    "translation": "憐れな…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "希望など抱かずにいれば…\n迷いもしなかったものを…",
+    "translation": "希望など抱かずにいれば…\n迷いもしなかったものを…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ちょ、ちょっと待て！\nなんだ今のはっ！",
+    "translation": "ちょ、ちょっと待て！\nなんだ今のはっ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "可能性など知らなければ…\n諦めもついたものを…",
+    "translation": "可能性など知らなければ…\n諦めもついたものを…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "そ、そんな…！",
+    "translation": "そ、そんな…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_043_5_0",
+    "original": "思い知っただろう…？\nお前たち人間の無力さが。",
+    "translation": "思い知っただろう…？\nお前たち人間の無力さが。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "力なき人間が救済される唯一の術は、\n私が創った世界に、その身を委ねること…",
+    "translation": "力なき人間が救済される唯一の術は、\n私が創った世界に、その身を委ねること…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_043_1",
+    "original": "お前たちのような賊は、\nこの安寧秩序を乱す危険因子に過ぎぬ…",
+    "translation": "お前たちのような賊は、\nこの安寧秩序を乱す危険因子に過ぎぬ…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_043_2",
+    "original": "ならば、私の手で消滅させるまで。",
+    "translation": "ならば、私の手で消滅させるまで。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "み、みなさんっ！",
+    "translation": "み、みなさんっ！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "あ、ああ…",
+    "translation": "あ、ああ…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ウソでしょ…！？\nみんな…みんなーっ！！",
+    "translation": "ウソでしょ…！？\nみんな…みんなーっ！！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "皆の反応が…\n感じられません…",
+    "translation": "皆の反応が…\n感じられません…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "わ、わたしたちの…負けなのか…？",
+    "translation": "わ、わたしたちの…負けなのか…？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "う、う…うううっ！",
+    "translation": "う、う…うううっ！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "ひ、ひかりっ！",
+    "translation": "ひ、ひかりっ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ひ、ひかりちゃん…",
+    "translation": "ひ、ひかりちゃん…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "…逃げてください！\nこのままじゃ、ひかりちゃんまで！",
+    "translation": "…逃げてください！\nこのままじゃ、ひかりちゃんまで！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "全ては、風の前の塵に同じ…\n無駄だったのだ。",
+    "translation": "全ては、風の前の塵に同じ…\n無駄だったのだ。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "…じゃない。",
+    "translation": "…じゃない。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_047_1",
+    "original": "無駄なんかじゃないっ！",
+    "translation": "無駄なんかじゃないっ！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "私、知ってるもの！\nずっと、みんなを見てたから…！",
+    "translation": "私、知ってるもの！\nずっと、みんなを見てたから…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_049_1",
+    "original": "みんなは諦めなかった…\nあの映画の中で、一度だって…！",
+    "translation": "みんなは諦めなかった…\nあの映画の中で、一度だって…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_049_2",
+    "original": "どんなに辛くても…苦しくても…",
+    "translation": "どんなに辛くても…苦しくても…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "ひかり！！",
+    "translation": "ひかり！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "まだ、負けてない！\nみんなの力を…",
+    "translation": "まだ、負けてない！\nみんなの力を…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_051_1",
+    "original": "私は信じてる！！",
+    "translation": "私は信じてる！！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "ひかりちゃん…！",
+    "translation": "ひかりちゃん…！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "なぜ解らぬ…",
+    "translation": "なぜ解らぬ…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_053_1",
+    "original": "お前が信じたものは、全て幻。\n銀幕に映し出された『虚像』に過ぎない。",
+    "translation": "お前が信じたものは、全て幻。\n銀幕に映し出された『虚像』に過ぎない。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_053_2",
+    "original": "それを知って尚、お前は\nこの世界を受け入れたのだろう？",
+    "translation": "それを知って尚、お前は\nこの世界を受け入れたのだろう？",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "思い出したから…\nみんなのおかげで、思い出したから…！",
+    "translation": "思い出したから…\nみんなのおかげで、思い出したから…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_054_1",
+    "original": "みんなが、大切なことを\n思い出させてくれたから！！",
+    "translation": "みんなが、大切なことを\n思い出させてくれたから！！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_054_2",
+    "original": "だから私は、みんなを信じる！\n絶対に負けない！",
+    "translation": "だから私は、みんなを信じる！\n絶対に負けない！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "ひかり…",
+    "translation": "ひかり…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "諦めるもんか…！",
+    "translation": "諦めるもんか…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_057_1",
+    "original": "みんなが、支えてくれたから…\n今度は…私が…！",
+    "translation": "みんなが、支えてくれたから…\n今度は…私が…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "みんなは、どんな困難だって\n解決してきた…逃げ出さなかった！",
+    "translation": "みんなは、どんな困難だって\n解決してきた…逃げ出さなかった！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_059_1",
+    "original": "みんななら…\nきっと…きっと…！",
+    "translation": "みんななら…\nきっと…きっと…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "みんな、お願いっ！",
+    "translation": "みんな、お願いっ！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "これは…",
+    "translation": "これは…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_062_0",
+    "original": "ひかりちゃんの声、聞こえたよ。",
+    "translation": "ひかりちゃんの声、聞こえたよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_063_0",
+    "original": "待たせたね。",
+    "translation": "待たせたね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_064_0",
+    "original": "あとは任せてくれ。",
+    "translation": "あとは任せてくれ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_065_0",
+    "original": "お前たちは、まだ…",
+    "translation": "お前たちは、まだ…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_066_0",
+    "original": "見くびらないで。\n私たちの決意を！",
+    "translation": "見くびらないで。\n私たちの決意を！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_067_0",
+    "original": "俺たちは今まで、\n何度も立ち上がってきた…！",
+    "translation": "俺たちは今まで、\n何度も立ち上がってきた…！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_068_0",
+    "original": "僕たちは勝つよ。\n諦めることなんて、ないからね。",
+    "translation": "僕たちは勝つよ。\n諦めることなんて、ないからね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "SEL_069_0",
+    "original": "決着をつけよう！",
+    "translation": "決着をつけよう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_069_1",
+    "original": "覚悟はいいか？",
+    "translation": "覚悟はいいか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_069_2",
+    "original": "ひかり、頑張ったな",
+    "translation": "ひかり、頑張ったな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_070_0",
+    "original": "みんなっ！",
+    "translation": "みんなっ！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_071_0",
+    "original": "おおおおおーっ！",
+    "translation": "おおおおおーっ！",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "力が上がってる…\nこれ…かなりヤバイよ！！",
+    "translation": "力が上がってる…\nこれ…かなりヤバイよ！！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "ウソでしょ…\n立って、みんな…立ち上がって！",
+    "translation": "ウソでしょ…\n立って、みんな…立ち上がって！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "まさか、全員…やられたのか！？",
+    "translation": "まさか、全員…やられたのか！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "みんな、立ち上がって！",
+    "translation": "みんな、立ち上がって！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "う、うう…",
+    "translation": "う、うう…",
+    "stage": 1,
+    "context": "（ＳＥ）高巻 杏"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ぐおおっ…",
+    "translation": "ぐおおっ…",
+    "stage": 1,
+    "context": "（ＳＥ）坂本 竜司"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "くっ…う…",
+    "translation": "くっ…う…",
+    "stage": 1,
+    "context": "（ＳＥ）喜多川 祐介"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ううう…",
+    "translation": "ううう…",
+    "stage": 1,
+    "context": "（ＳＥ）新島 真"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "うぬぬ…",
+    "translation": "うぬぬ…",
+    "stage": 1,
+    "context": "（ＳＥ）モルガナ"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あああ…",
+    "translation": "あああ…",
+    "stage": 1,
+    "context": "（ＳＥ）奥村 春"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ぐうぅ…",
+    "translation": "ぐうぅ…",
+    "stage": 1,
+    "context": "（ＳＥ）明智 吾郎"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "うう…",
+    "translation": "うう…",
+    "stage": 1,
+    "context": "（ＳＥ）Ｐ４主人公"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ううう…",
+    "translation": "ううう…",
+    "stage": 1,
+    "context": "（ＳＥ）里中 千枝"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "あああ…",
+    "translation": "あああ…",
+    "stage": 1,
+    "context": "（ＳＥ）天城 雪子"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ぐうう…",
+    "translation": "ぐうう…",
+    "stage": 1,
+    "context": "（ＳＥ）花村 陽介"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "くっそ…",
+    "translation": "くっそ…",
+    "stage": 1,
+    "context": "（ＳＥ）巽 完二"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ううう…",
+    "translation": "ううう…",
+    "stage": 1,
+    "context": "（ＳＥ）白鐘 直斗"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ぐぬぬぅ…",
+    "translation": "ぐぬぬぅ…",
+    "stage": 1,
+    "context": "（ＳＥ）クマ"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ううっ…",
+    "translation": "ううっ…",
+    "stage": 1,
+    "context": "（ＳＥ）岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "あああ…",
+    "translation": "あああ…",
+    "stage": 1,
+    "context": "（ＳＥ）伊織 順平"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "うぐっ…",
+    "translation": "うぐっ…",
+    "stage": 1,
+    "context": "（ＳＥ）真田 明彦"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "ぐっ…う…",
+    "translation": "ぐっ…う…",
+    "stage": 1,
+    "context": "（ＳＥ）荒垣 真次郎"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ううっ…",
+    "translation": "ううっ…",
+    "stage": 1,
+    "context": "（ＳＥ）桐条 美鶴"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "うああ…",
+    "translation": "うああ…",
+    "stage": 1,
+    "context": "（ＳＥ）天田 乾"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "クウウウン…",
+    "translation": "クウウウン…",
+    "stage": 1,
+    "context": "（ＳＥ）コロマル"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "う…うう…",
+    "translation": "う…うう…",
+    "stage": 1,
+    "context": "（ＳＥ）アイギス"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "ぐっ…う…",
+    "translation": "ぐっ…う…",
+    "stage": 1,
+    "context": "（ＳＥ）Ｐ３主人公"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "うううっ…",
+    "translation": "うううっ…",
+    "stage": 1,
+    "context": "（ＳＥ）Ｐ３主人公（女）"
+  },
+  {
+    "key": "speaker_エンリル",
+    "original": "エンリル",
+    "translation": "エンリル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）高巻 杏",
+    "original": "（ＳＥ）高巻 杏",
+    "translation": "（ＳＥ）高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）坂本 竜司",
+    "original": "（ＳＥ）坂本 竜司",
+    "translation": "（ＳＥ）坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）喜多川 祐介",
+    "original": "（ＳＥ）喜多川 祐介",
+    "translation": "（ＳＥ）喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）新島 真",
+    "original": "（ＳＥ）新島 真",
+    "translation": "（ＳＥ）新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）モルガナ",
+    "original": "（ＳＥ）モルガナ",
+    "translation": "（ＳＥ）モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）奥村 春",
+    "original": "（ＳＥ）奥村 春",
+    "translation": "（ＳＥ）奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）明智 吾郎",
+    "original": "（ＳＥ）明智 吾郎",
+    "translation": "（ＳＥ）明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）Ｐ４主人公",
+    "original": "（ＳＥ）Ｐ４主人公",
+    "translation": "（ＳＥ）Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）里中 千枝",
+    "original": "（ＳＥ）里中 千枝",
+    "translation": "（ＳＥ）里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）天城 雪子",
+    "original": "（ＳＥ）天城 雪子",
+    "translation": "（ＳＥ）天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）花村 陽介",
+    "original": "（ＳＥ）花村 陽介",
+    "translation": "（ＳＥ）花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）巽 完二",
+    "original": "（ＳＥ）巽 完二",
+    "translation": "（ＳＥ）巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）白鐘 直斗",
+    "original": "（ＳＥ）白鐘 直斗",
+    "translation": "（ＳＥ）白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）クマ",
+    "original": "（ＳＥ）クマ",
+    "translation": "（ＳＥ）クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）岳羽 ゆかり",
+    "original": "（ＳＥ）岳羽 ゆかり",
+    "translation": "（ＳＥ）岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）伊織 順平",
+    "original": "（ＳＥ）伊織 順平",
+    "translation": "（ＳＥ）伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）真田 明彦",
+    "original": "（ＳＥ）真田 明彦",
+    "translation": "（ＳＥ）真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）荒垣 真次郎",
+    "original": "（ＳＥ）荒垣 真次郎",
+    "translation": "（ＳＥ）荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）桐条 美鶴",
+    "original": "（ＳＥ）桐条 美鶴",
+    "translation": "（ＳＥ）桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）天田 乾",
+    "original": "（ＳＥ）天田 乾",
+    "translation": "（ＳＥ）天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）コロマル",
+    "original": "（ＳＥ）コロマル",
+    "translation": "（ＳＥ）コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）アイギス",
+    "original": "（ＳＥ）アイギス",
+    "translation": "（ＳＥ）アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）Ｐ３主人公",
+    "original": "（ＳＥ）Ｐ３主人公",
+    "translation": "（ＳＥ）Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_（ＳＥ）Ｐ３主人公（女）",
+    "original": "（ＳＥ）Ｐ３主人公（女）",
+    "translation": "（ＳＥ）Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

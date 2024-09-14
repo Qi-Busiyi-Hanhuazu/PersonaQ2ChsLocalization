@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ち、違う…違う、違う！",
+    "translation": "ち、違う…違う、違う！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "私、そんなこと…言われてない。",
+    "translation": "私、そんなこと…言われてない。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "何を言っている？\nこれが、お前の知っている僕だろう？",
+    "translation": "何を言っている？\nこれが、お前の知っている僕だろう？",
+    "stage": 1,
+    "context": "黒縁メガネの男性"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "違う！\n本当は…そうじゃなかった！",
+    "translation": "違う！\n本当は…そうじゃなかった！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "ぜんぶ、私の…私の…！",
+    "translation": "ぜんぶ、私の…私の…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ひかり…\nどうしてお前は…",
+    "translation": "ひかり…\nどうしてお前は…",
+    "stage": 1,
+    "context": "黒縁メガネの男性"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ひかりちゃん、危ないっ！",
+    "translation": "ひかりちゃん、危ないっ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そうなんだぁぁぁぁぁぁぁ！！",
+    "translation": "そうなんだぁぁぁぁぁぁぁ！！",
+    "stage": 1,
+    "context": "黒縁メガネの男性"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いやああああっ！",
+    "translation": "いやああああっ！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "来るぞ！\nみんな、ひかりを守れ！！",
+    "translation": "来るぞ！\nみんな、ひかりを守れ！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "言われなくても！\n行くぜ！！",
+    "translation": "言われなくても！\n行くぜ！！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_黒縁メガネの男性",
+    "original": "黒縁メガネの男性",
+    "translation": "黒縁メガネの男性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

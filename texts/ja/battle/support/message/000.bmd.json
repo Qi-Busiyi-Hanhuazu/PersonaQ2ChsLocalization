@@ -1,0 +1,331 @@
+[
+  {
+    "key": "BTL_MES_000_001_0",
+    "original": "[颜色 03]物理属性[颜色 01]で攻撃してくれ！",
+    "translation": "[颜色 03]物理属性[颜色 01]で攻撃してくれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_002_0",
+    "original": "[颜色 03]火炎属性[颜色 01]で攻撃してくれ！",
+    "translation": "[颜色 03]火炎属性[颜色 01]で攻撃してくれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_003_0",
+    "original": "[颜色 03]氷結属性[颜色 01]で攻撃してくれ！",
+    "translation": "[颜色 03]氷結属性[颜色 01]で攻撃してくれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_004_0",
+    "original": "[颜色 03]電撃属性[颜色 01]で攻撃してくれ！",
+    "translation": "[颜色 03]電撃属性[颜色 01]で攻撃してくれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_005_0",
+    "original": "[颜色 03]疾風属性[颜色 01]で攻撃してくれ！",
+    "translation": "[颜色 03]疾風属性[颜色 01]で攻撃してくれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_006_0",
+    "original": "[颜色 03]念動属性[颜色 01]で攻撃してくれ！",
+    "translation": "[颜色 03]念動属性[颜色 01]で攻撃してくれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_007_0",
+    "original": "[颜色 03]核熱属性[颜色 01]で攻撃してくれ！",
+    "translation": "[颜色 03]核熱属性[颜色 01]で攻撃してくれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_008_0",
+    "original": "次は[颜色 03]物理属性[颜色 01]での攻撃を頼む！",
+    "translation": "次は[颜色 03]物理属性[颜色 01]での攻撃を頼む！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_009_0",
+    "original": "次は[颜色 03]火炎属性[颜色 01]での攻撃を頼む！",
+    "translation": "次は[颜色 03]火炎属性[颜色 01]での攻撃を頼む！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_010_0",
+    "original": "次は[颜色 03]氷結属性[颜色 01]での攻撃を頼む！",
+    "translation": "次は[颜色 03]氷結属性[颜色 01]での攻撃を頼む！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_011_0",
+    "original": "次は[颜色 03]電撃属性[颜色 01]での攻撃を頼む！",
+    "translation": "次は[颜色 03]電撃属性[颜色 01]での攻撃を頼む！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_012_0",
+    "original": "次は[颜色 03]疾風属性[颜色 01]での攻撃を頼む！",
+    "translation": "次は[颜色 03]疾風属性[颜色 01]での攻撃を頼む！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_013_0",
+    "original": "次は[颜色 03]念動属性[颜色 01]での攻撃を頼む！",
+    "translation": "次は[颜色 03]念動属性[颜色 01]での攻撃を頼む！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_014_0",
+    "original": "次は[颜色 03]核熱属性[颜色 01]での攻撃を頼む！",
+    "translation": "次は[颜色 03]核熱属性[颜色 01]での攻撃を頼む！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_015_0",
+    "original": "しまった…\nプロテクトを書き換えられた！",
+    "translation": "しまった…\nプロテクトを書き換えられた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_016_0",
+    "original": "やった！防壁突破だ！",
+    "translation": "やった！防壁突破だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_017_0",
+    "original": "いいぞ！ハッキング成功！",
+    "translation": "いいぞ！ハッキング成功！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_018_0",
+    "original": "解析率 １０％！",
+    "translation": "解析率 １０％！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_019_0",
+    "original": "解析率 ２０％！",
+    "translation": "解析率 ２０％！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_020_0",
+    "original": "解析率 ３０％！",
+    "translation": "解析率 ３０％！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_021_0",
+    "original": "解析率 ４０％！",
+    "translation": "解析率 ４０％！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_022_0",
+    "original": "解析率 ５０％！",
+    "translation": "解析率 ５０％！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_023_0",
+    "original": "解析率 ６０％！",
+    "translation": "解析率 ６０％！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_024_0",
+    "original": "解析率 ７０％！",
+    "translation": "解析率 ７０％！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_025_0",
+    "original": "解析率 ８０％！",
+    "translation": "解析率 ８０％！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_026_0",
+    "original": "解析率 ９０％！",
+    "translation": "解析率 ９０％！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_027_0",
+    "original": "ちょ、ちょっと待て！\nなんだ今のはっ！",
+    "translation": "ちょ、ちょっと待て！\nなんだ今のはっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_028_0",
+    "original": "そ、そんな…！",
+    "translation": "そ、そんな…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_029_0",
+    "original": "み、みなさんっ！",
+    "translation": "み、みなさんっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_030_0",
+    "original": "あ、ああ…",
+    "translation": "あ、ああ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_031_0",
+    "original": "ウソでしょ…！？\nみんな…みんなーっ！！",
+    "translation": "ウソでしょ…！？\nみんな…みんなーっ！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_032_0",
+    "original": "皆の反応が…\n感じられません…",
+    "translation": "皆の反応が…\n感じられません…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_033_0",
+    "original": "わ、わたしたちの…\n負けなのか…？",
+    "translation": "わ、わたしたちの…\n負けなのか…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_034_0",
+    "original": "う、う…うううっ！",
+    "translation": "う、う…うううっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_035_0",
+    "original": "ひ、ひかりっ！",
+    "translation": "ひ、ひかりっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_036_0",
+    "original": "ひ、ひかりちゃん…",
+    "translation": "ひ、ひかりちゃん…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_037_0",
+    "original": "…逃げてください！\nこのままじゃ、ひかりちゃんまで！",
+    "translation": "…逃げてください！\nこのままじゃ、ひかりちゃんまで！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_038_0",
+    "original": "ひかり！！",
+    "translation": "ひかり！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_039_0",
+    "original": "ひかりちゃん…！",
+    "translation": "ひかりちゃん…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_040_0",
+    "original": "ひかりちゃんの声、聞こえたよ。",
+    "translation": "ひかりちゃんの声、聞こえたよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_041_0",
+    "original": "待たせたね。",
+    "translation": "待たせたね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_042_0",
+    "original": "あとは任せてくれ。",
+    "translation": "あとは任せてくれ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_043_0",
+    "original": "みんなっ！",
+    "translation": "みんなっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_044_0",
+    "original": "みんな… \n私が助けるから…",
+    "translation": "みんな… \n私が助けるから…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_045_0",
+    "original": "私の応援が…\n みんなの力になるなら…",
+    "translation": "私の応援が…\n みんなの力になるなら…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_046_0",
+    "original": "私にもできること…！ ",
+    "translation": "私にもできること…！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_MES_000_047_0",
+    "original": "みんなの力になるなら…！ ",
+    "translation": "みんなの力になるなら…！ ",
+    "stage": 1,
+    "context": ""
+  }
+]

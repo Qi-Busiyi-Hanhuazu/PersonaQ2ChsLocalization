@@ -1,0 +1,135 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さてと…これからどう探すっかな。",
+    "translation": "さてと…これからどう探すっかな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "映画の中、めちゃくちゃ広いし、\nやみくもに歩くのも効率悪ぃよな。",
+    "translation": "映画の中、めちゃくちゃ広いし、\nやみくもに歩くのも効率悪ぃよな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "確か『花』が手がかりになると言ってたな。\nならば、『花』を当たるしかないだろう。",
+    "translation": "確か『花』が手がかりになると言ってたな。\nならば、『花』を当たるしかないだろう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うーん…でも、一概に『花』と言っても\nかなりの数がありそうだね。",
+    "translation": "うーん…でも、一概に『花』と言っても\nかなりの数がありそうだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ひかり、なんか感じねーか？\n大体の方角とか、ボンヤリでもいいからさ。",
+    "translation": "ひかり、なんか感じねーか？\n大体の方角とか、ボンヤリでもいいからさ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "えっと…ごめん、まだ何も…",
+    "translation": "えっと…ごめん、まだ何も…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ねえねえ。\nこんな話を知ってるかしら？",
+    "translation": "ねえねえ。\nこんな話を知ってるかしら？",
+    "stage": 1,
+    "context": "？？？"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "まあまあ。\nもしかして『黒い何か』のお話かしら？",
+    "translation": "まあまあ。\nもしかして『黒い何か』のお話かしら？",
+    "stage": 1,
+    "context": "？？？"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "フフフ…あの子が持っていた、\n『黒い何か』のウワサのお話よ。",
+    "translation": "フフフ…あの子が持っていた、\n『黒い何か』のウワサのお話よ。",
+    "stage": 1,
+    "context": "？？？"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ホホホ…あの子が持っていた、\n『黒い何か』のお話をしましょうか。",
+    "translation": "ホホホ…あの子が持っていた、\n『黒い何か』のお話をしましょうか。",
+    "stage": 1,
+    "context": "？？？"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "この声…近くに誰かいるのか？",
+    "translation": "この声…近くに誰かいるのか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "気になるな。\nちょっと行ってみようぜ！",
+    "translation": "気になるな。\nちょっと行ってみようぜ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_？？？",
+    "original": "？？？",
+    "translation": "？？？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

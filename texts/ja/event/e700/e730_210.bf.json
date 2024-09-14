@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あ！　その先、敵の反応があります。\n気をつけて進んでください！",
+    "translation": "あ！　その先、敵の反応があります。\n気をつけて進んでください！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "なら、一度戻って準備を整えるのも\n手かもしれないな。",
+    "translation": "なら、一度戻って準備を整えるのも\n手かもしれないな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "どうする？　大丈夫か？",
+    "translation": "どうする？　大丈夫か？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "この先に敵の反応があります。\n大丈夫ですか？",
+    "translation": "この先に敵の反応があります。\n大丈夫ですか？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "準備万端だ",
+    "translation": "準備万端だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "引き返そう",
+    "translation": "引き返そう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "アイアイサー！\nいっちょ、やっちゃいますか！",
+    "translation": "アイアイサー！\nいっちょ、やっちゃいますか！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ええ、何があるか分かりませんし。\n念には念を入れておきましょう。",
+    "translation": "ええ、何があるか分かりませんし。\n念には念を入れておきましょう。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  }
+]

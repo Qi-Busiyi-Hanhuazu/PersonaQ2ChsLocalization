@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ニャムムッ！　この感覚…\n近くにオタカラがあるんじゃニャいか！？",
+    "translation": "ニャムムッ！　この感覚…\n近くにオタカラがあるんじゃニャいか！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あ！　あれじゃないかな？",
+    "translation": "あ！　あれじゃないかな？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ほら、オタカラスポット！",
+    "translation": "ほら、オタカラスポット！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "む？　何か今までと違う気が…？",
+    "translation": "む？　何か今までと違う気が…？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "なぁジョーカー！　あれは\n調べておいた方がよさそうだ！",
+    "translation": "なぁジョーカー！　あれは\n調べておいた方がよさそうだ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

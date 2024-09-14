@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "警官いたぞ、確保だー！",
+    "translation": "警官いたぞ、確保だー！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "フフ、話を聞くだけですよ。\nでは行ってきます。",
+    "translation": "フフ、話を聞くだけですよ。\nでは行ってきます。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "お待たせしました。",
+    "translation": "お待たせしました。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "『ナンバー「１１－１０」のパトカーに\n　乗っている警官が怪しい』",
+    "translation": "『ナンバー「１１－１０」のパトカーに\n　乗っている警官が怪しい』",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "…だそうです。",
+    "translation": "…だそうです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "りょーかい、記憶した！",
+    "translation": "りょーかい、記憶した！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "そんで、この警官のパトカーのナンバーは…",
+    "translation": "そんで、この警官のパトカーのナンバーは…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "『１１－７７』な。\n１と７のゾロ目…いいななな。",
+    "translation": "『１１－７７』な。\n１と７のゾロ目…いいななな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "よ、よくわかりませんが…\nでは、次へいきましょうか。",
+    "translation": "よ、よくわかりませんが…\nでは、次へいきましょうか。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "『ナンバー「１１－１０」のパトカーに\n　乗っている警官が怪しい』\nと言っていた…",
+    "translation": "『ナンバー「１１－１０」のパトカーに\n　乗っている警官が怪しい』\nと言っていた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

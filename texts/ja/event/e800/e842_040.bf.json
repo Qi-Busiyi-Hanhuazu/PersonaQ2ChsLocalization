@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "いたよ！　あそこの穴のとこ！",
+    "translation": "いたよ！　あそこの穴のとこ！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "あっ、待って…！",
+    "translation": "あっ、待って…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "蝶は穴の中へ飛び去ってしまった…",
+    "translation": "蝶は穴の中へ飛び去ってしまった…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ムキー！\n往生際の悪いチョウチョだクマ！",
+    "translation": "ムキー！\n往生際の悪いチョウチョだクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "仕方ないよ、たくさん人がいるから\nびっくりしちゃったのかも。",
+    "translation": "仕方ないよ、たくさん人がいるから\nびっくりしちゃったのかも。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "下に行って追いかけたいけど、\nここは降りられないね。",
+    "translation": "下に行って追いかけたいけど、\nここは降りられないね。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "迂回しよう",
+    "translation": "迂回しよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "スイッチを探そう",
+    "translation": "スイッチを探そう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うん、下のフロアに行けば、\nきっとまた会えると思う。",
+    "translation": "うん、下のフロアに行けば、\nきっとまた会えると思う。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "よし、降りる仕掛けを探して\nそこから追いかけるぞ！",
+    "translation": "よし、降りる仕掛けを探して\nそこから追いかけるぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "警官を発見！　直斗、頼むぞ！",
+    "translation": "警官を発見！　直斗、頼むぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "わかりました、待っていてください。",
+    "translation": "わかりました、待っていてください。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "お待たせしました。",
+    "translation": "お待たせしました。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "『４のゾロ目のナンバーのパトカーに\n　乗っているのは本物の警官だ』",
+    "translation": "『４のゾロ目のナンバーのパトカーに\n　乗っているのは本物の警官だ』",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "…だそうです。",
+    "translation": "…だそうです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おつかれだ、直斗！\nそんで、この警官のパトカーのナンバーは…",
+    "translation": "おつかれだ、直斗！\nそんで、この警官のパトカーのナンバーは…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "『１１－２２』だな。\n１も２もゾロ目になってるぞ！",
+    "translation": "『１１－２２』だな。\n１も２もゾロ目になってるぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "必要な情報は得られましたね。\n次へ行ってみましょう。",
+    "translation": "必要な情報は得られましたね。\n次へ行ってみましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "『４のゾロ目のナンバーのパトカーに\n　乗っているのは本物の警官だ』\nと言っていた…",
+    "translation": "『４のゾロ目のナンバーのパトカーに\n　乗っているのは本物の警官だ』\nと言っていた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

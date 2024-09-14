@@ -1,0 +1,310 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "この柵でビリビリさせれば、\nあの風味がだせるっちゅーワケね。",
+    "translation": "この柵でビリビリさせれば、\nあの風味がだせるっちゅーワケね。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ですが、まだ扉が閉じていませんね。\n時間が経ってから来ましょう。",
+    "translation": "ですが、まだ扉が閉じていませんね。\n時間が経ってから来ましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "電気柵でビリビリさせれば、\nあの風味がだせるっちゅーワケね。",
+    "translation": "電気柵でビリビリさせれば、\nあの風味がだせるっちゅーワケね。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ええ、早速始めましょう。",
+    "translation": "ええ、早速始めましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "できたね。",
+    "translation": "できたね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "では、代表してクマが味見を…",
+    "translation": "では、代表してクマが味見を…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "ん、ンンっ！！？",
+    "translation": "ん、ンンっ！！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "んホーーーッッッッ！！！",
+    "translation": "んホーーーッッッッ！！！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "えっ？　獣みたいな叫び声がしたけど、\nクマさん大丈夫！？",
+    "translation": "えっ？　獣みたいな叫び声がしたけど、\nクマさん大丈夫！？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "キタキタ～、この脳天カチ割るような刺激！\nまさにあのポップコーンの味クマ！！",
+    "translation": "キタキタ～、この脳天カチ割るような刺激！\nまさにあのポップコーンの味クマ！！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "オッシャ！　じゃあ、テオドアさんに\n持ってってやろうぜ。",
+    "translation": "オッシャ！　じゃあ、テオドアさんに\n持ってってやろうぜ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "よーし、戻るぞよ。",
+    "translation": "よーし、戻るぞよ。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ねーねー…",
+    "translation": "ねーねー…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ん？　どうしたんだい？",
+    "translation": "ん？　どうしたんだい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "結局のところ、犯人って誰クマ？\nやっぱり、犯人はこの中に…",
+    "translation": "結局のところ、犯人って誰クマ？\nやっぱり、犯人はこの中に…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "SEL_013_0",
+    "original": "いる",
+    "translation": "いる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_013_1",
+    "original": "いない",
+    "translation": "いない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "いえ、犯人はここにいるメンバーでは\nありません。",
+    "translation": "いえ、犯人はここにいるメンバーでは\nありません。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "付け加えると、ナビたちも違うよ。",
+    "translation": "付け加えると、ナビたちも違うよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "おや、気付いていましたか？",
+    "translation": "おや、気付いていましたか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "そうです。犯人はここにいるメンバーでは\nありません。",
+    "translation": "そうです。犯人はここにいるメンバーでは\nありません。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "付け加えると、ナビたちも違うよ。",
+    "translation": "付け加えると、ナビたちも違うよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "そ、そうなのクマ！？",
+    "translation": "そ、そうなのクマ！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "犯人の狙いがポップコーンである以上、\n貰える立場にあった僕らは除外されます。",
+    "translation": "犯人の狙いがポップコーンである以上、\n貰える立場にあった僕らは除外されます。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "貰えなかった人や食べきった人もいたけど、\nみんなで分けるって話だったしね。",
+    "translation": "貰えなかった人や食べきった人もいたけど、\nみんなで分けるって話だったしね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "残りの情報を整理しましょう。",
+    "translation": "残りの情報を整理しましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "犯人は言えばもらえるポップコーンを\nわざわざ強奪している。",
+    "translation": "犯人は言えばもらえるポップコーンを\nわざわざ強奪している。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_021_2",
+    "original": "その際、クマくんの姿をした犯人は\n不自然にフラフラしていた。",
+    "translation": "その際、クマくんの姿をした犯人は\n不自然にフラフラしていた。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "さてジョーカー、君は誰が\nクマ君になりすましていたか分かるかい？",
+    "translation": "さてジョーカー、君は誰が\nクマ君になりすましていたか分かるかい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_023_0",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_023_1",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_023_2",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_023_3",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_023_4",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_023_5",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "なるほど。\n君はそう思うんだね。",
+    "translation": "なるほど。\n君はそう思うんだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "まあ、何が正解かは\nすぐに分かるよ。",
+    "translation": "まあ、何が正解かは\nすぐに分かるよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "では、僕らも戻りましょうか。",
+    "translation": "では、僕らも戻りましょうか。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  }
+]

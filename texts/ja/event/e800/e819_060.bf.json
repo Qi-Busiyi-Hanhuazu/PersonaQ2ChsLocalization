@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よーし、勝負アリだ！\n連戦を見事に突破したな！",
+    "translation": "よーし、勝負アリだ！\n連戦を見事に突破したな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ふっふーん、痛快アクション上映、\n大勝利でハッピーエンドだ。",
+    "translation": "ふっふーん、痛快アクション上映、\n大勝利でハッピーエンドだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "オレっちたち最強！\nあとは感動のエンドロールでご帰還だぜ。",
+    "translation": "オレっちたち最強！\nあとは感動のエンドロールでご帰還だぜ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "双子ちゃんたち、観ててくれたかな。\n楽しんでくれてたらいいんだけど。",
+    "translation": "双子ちゃんたち、観ててくれたかな。\n楽しんでくれてたらいいんだけど。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

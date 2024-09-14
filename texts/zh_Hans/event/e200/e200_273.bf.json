@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "待って！　花村先輩の反応、\nそっちじゃないよ！",
+    "translation": "等等！花村学长的反应\n不在那边！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n等等！花村学长的反应\n不是那边！\n\n等一下！花村学长的反应，\n不是那边哦！\n\n等等！花村学长的反应，\n不是你！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おっけー！　こっちの方向ね！",
+    "translation": "OK！是这边！",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\nOK！是这个方向！\n\n喂！这边的方向啊！\n\n喂！这个方向啊！"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

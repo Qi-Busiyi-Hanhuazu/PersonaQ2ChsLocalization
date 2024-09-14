@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ねえ。今、像が動かなかった？",
+    "translation": "喂，刚才雕像是不是动了？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n喂，刚才雕像动了吗？\n\n是吧。刚才雕像没动吗？\n\n喂。现在，像没有动？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、僕も見た。でもおかしいな、\n風が吹いただけで銅像が動くなんて…",
+    "translation": "是啊，我也看到了。不过很奇怪啊\n雕像怎么会被风给吹动呢……",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n是啊，我也看到了。不过好奇怪啊\n光是风吹，铜像怎么会动……\n\n啊，我也看见了。但是奇怪啊，只要刮风铜像就会动……\n\n\n啊，我也看到了。但是很奇怪啊，只要一刮风铜像就会动……"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "何をごちゃごちゃ言っている！\n覚悟しろ、悪党ども！",
+    "translation": "你们在啰哩吧嗦什么！\n觉悟吧，恶棍们！",
+    "stage": 1,
+    "context": "说话人：カモシダーマン\n\n机翻辅助：\n\n你们在啰哩啰嗦什么！\n觉悟吧，恶棍们！\n\n你乱说什么！\n做好觉悟吧，坏蛋们！\n\n说什么乱七八糟的！觉悟吧，坏蛋们！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "来るぜ！　ジョーカー！",
+    "translation": "要来了！JOKER！",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n要来了！JOKER！\n\n来吧！JOKER！\n\n来啦！JOKER ！"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_カモシダーマン",
+    "original": "カモシダーマン",
+    "translation": "鸭志田超人",
+    "stage": 0,
+    "context": "机翻辅助：\n\n鸭志田超人"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

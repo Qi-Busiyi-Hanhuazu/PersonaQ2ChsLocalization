@@ -1,0 +1,387 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "待っててね、すぐに直してあげるから…！",
+    "translation": "待っててね、すぐに直してあげるから…！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "では、早速修理に取り掛かります。\n少々お待ちください。",
+    "translation": "では、早速修理に取り掛かります。\n少々お待ちください。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うん、お願い。アイギス！",
+    "translation": "うん、お願い。アイギス！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "やった、動きましたよ！",
+    "translation": "やった、動きましたよ！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "壊れていたロボット"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "…………。",
+    "translation": "…………。",
+    "stage": 1,
+    "context": "壊れていたロボット"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あれ、どうしたんだろ…？\nまさか直ってない？",
+    "translation": "あれ、どうしたんだろ…？\nまさか直ってない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ガ、ガガ…ガ…",
+    "translation": "ガ、ガガ…ガ…",
+    "stage": 1,
+    "context": "壊れていたロボット"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "システムの修復が完全ではないようですね。",
+    "translation": "システムの修復が完全ではないようですね。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "プログラムは起動しているようですので、\nそのうち言語システムも復旧するかと。",
+    "translation": "プログラムは起動しているようですので、\nそのうち言語システムも復旧するかと。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "そうなんだ…良かったぁ…",
+    "translation": "そうなんだ…良かったぁ…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ガガ…ガ…ガ…",
+    "translation": "ガガ…ガ…ガ…",
+    "stage": 1,
+    "context": "壊れていたロボット"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "あの…この音って、エラー音ですか？",
+    "translation": "あの…この音って、エラー音ですか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "いえ、これは…",
+    "translation": "いえ、これは…",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ガガガ…ガガッ！",
+    "translation": "ガガガ…ガガッ！",
+    "stage": 1,
+    "context": "壊れていたロボット"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "この方は、みなさんに感謝の言葉を\n必死に伝えているようです。",
+    "translation": "この方は、みなさんに感謝の言葉を\n必死に伝えているようです。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "おかげで助かりました、と言っています。",
+    "translation": "おかげで助かりました、と言っています。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "そうだったんですね。\nふふっ…喜んでもらえて嬉しいですね！",
+    "translation": "そうだったんですね。\nふふっ…喜んでもらえて嬉しいですね！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ガ…ガガ…",
+    "translation": "ガ…ガガ…",
+    "stage": 1,
+    "context": "壊れていたロボット"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ガ…ガガガガ…ガガ！",
+    "translation": "ガ…ガガガガ…ガガ！",
+    "stage": 1,
+    "context": "壊れていたロボット"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ふむふむ、なるほどなぁ。\nこれが犬とロボットの会話…",
+    "translation": "ふむふむ、なるほどなぁ。\nこれが犬とロボットの会話…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "って、なに言ってんだか分かんねーよ！\nアイちゃん、翻訳プリーズ！！",
+    "translation": "って、なに言ってんだか分かんねーよ！\nアイちゃん、翻訳プリーズ！！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "コロマルさんは『ここにいるみんなの力で\n助けることが出来たんだ』…と。",
+    "translation": "コロマルさんは『ここにいるみんなの力で\n助けることが出来たんだ』…と。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "このロボットさんは『ステキな仲間が沢山\nいて羨ましいです』…と言っています。",
+    "translation": "このロボットさんは『ステキな仲間が沢山\nいて羨ましいです』…と言っています。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "SEL_021_0",
+    "original": "自慢の仲間だ",
+    "translation": "自慢の仲間だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_021_1",
+    "original": "お前にも仲間はいる",
+    "translation": "お前にも仲間はいる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "えへへ、そうだね！\nでも…それって私たちだけじゃないよね？",
+    "translation": "えへへ、そうだね！\nでも…それって私たちだけじゃないよね？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "だな！　この世界も、これから変わるんだ。",
+    "translation": "だな！　この世界も、これから変わるんだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "これからお前にも、もっともっと仲間が\n出来るんだぞ！　楽しみにしてろ！",
+    "translation": "これからお前にも、もっともっと仲間が\n出来るんだぞ！　楽しみにしてろ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ジョーカーの言うとおりだぞ！\nこの世界も、これから変わるんだ。",
+    "translation": "ジョーカーの言うとおりだぞ！\nこの世界も、これから変わるんだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "これからお前にも、もっともっと仲間が\n出来るんだぞ！　楽しみにしてろ！",
+    "translation": "これからお前にも、もっともっと仲間が\n出来るんだぞ！　楽しみにしてろ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ガ…ガガ…アリ…ガトウ…",
+    "translation": "ガ…ガガ…アリ…ガトウ…",
+    "stage": 1,
+    "context": "壊れていたロボット"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "えっ！？\nまた動かなくなっちゃった？",
+    "translation": "えっ！？\nまた動かなくなっちゃった？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "どうやら、充電が切れたようですね。",
+    "translation": "どうやら、充電が切れたようですね。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "太陽光発電のようですので、置いておけば\n自然にまた復活するでしょう。",
+    "translation": "太陽光発電のようですので、置いておけば\n自然にまた復活するでしょう。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_027_2",
+    "original": "システムもほぼ復旧していると思います。",
+    "translation": "システムもほぼ復旧していると思います。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ビックリしたぁ…\nでも、これで元気になれるんだね！",
+    "translation": "ビックリしたぁ…\nでも、これで元気になれるんだね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "それにしても、こんなに特徴的な\n機能を持ったロボットがいるなんて。",
+    "translation": "それにしても、こんなに特徴的な\n機能を持ったロボットがいるなんて。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "ここに初めて来た時は、リボンちゃんと同型\nのロボットばかりだったのに…驚きです。",
+    "translation": "ここに初めて来た時は、リボンちゃんと同型\nのロボットばかりだったのに…驚きです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "これも、映画を正したことによる\n影響なのでしょうね。",
+    "translation": "これも、映画を正したことによる\n影響なのでしょうね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ひとまず、これで目的は達成しました。\n映画館へ帰還しますか？",
+    "translation": "ひとまず、これで目的は達成しました。\n映画館へ帰還しますか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "うん、そうだね。\nエリザベスさんにも報告しないと。",
+    "translation": "うん、そうだね。\nエリザベスさんにも報告しないと。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_壊れていたロボット",
+    "original": "壊れていたロボット",
+    "translation": "壊れていたロボット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

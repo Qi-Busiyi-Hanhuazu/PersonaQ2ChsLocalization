@@ -1,0 +1,646 @@
+[
+  {
+    "key": "WSHOP_HELLO_NAGI_0_0",
+    "original": "まぁ、いらしたのね。",
+    "translation": "まぁ、いらしたのね。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "WSHOP_HELLO_NAGI_1_0",
+    "original": "よく来ましたね。",
+    "translation": "よく来ましたね。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "WSHOP_HELLO_THEODORE_0_0",
+    "original": "ようこそ、いらっしゃいませ。",
+    "translation": "ようこそ、いらっしゃいませ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_HELLO_THEODORE_1_0",
+    "original": "ようこそ、おいでくださいました。",
+    "translation": "ようこそ、おいでくださいました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_HELLO_THEODORE_2_0",
+    "original": "皆様、お待ちしておりました。",
+    "translation": "皆様、お待ちしておりました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P1_0",
+    "original": "ようこそ、いらっしゃいませ。",
+    "translation": "ようこそ、いらっしゃいませ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P1_1",
+    "original": "おや…\n[道具 0765]をお持ちのようですね。",
+    "translation": "おや…\n[道具 0765]をお持ちのようですね。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P1_2",
+    "original": "おめでとうございます！\nそちらは私お手製の割引券でございます！",
+    "translation": "おめでとうございます！\nそちらは私お手製の割引券でございます！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P1_3",
+    "original": "今後は[颜色 03]全商品が１０％の値引き価格[颜色 01]で\nお求め頂けます。",
+    "translation": "今後は[颜色 03]全商品が１０％の値引き価格[颜色 01]で\nお求め頂けます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P1_4",
+    "original": "皆様に、お買い物を楽しんで頂ければ\n幸いでございます。",
+    "translation": "皆様に、お買い物を楽しんで頂ければ\n幸いでございます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P2_0",
+    "original": "ようこそ、いらっしゃいませ。",
+    "translation": "ようこそ、いらっしゃいませ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P2_1",
+    "original": "おや…\n[道具 0766]をお持ちのようですね。",
+    "translation": "おや…\n[道具 0766]をお持ちのようですね。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P2_2",
+    "original": "おめでとうございます！\nそちらは私お手製の割引券でございます！",
+    "translation": "おめでとうございます！\nそちらは私お手製の割引券でございます！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P2_3",
+    "original": "今後は[颜色 03]全商品が１０％の値引き価格[颜色 01]で\nお求め頂けます。",
+    "translation": "今後は[颜色 03]全商品が１０％の値引き価格[颜色 01]で\nお求め頂けます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P2_4",
+    "original": "皆様に、お買い物を楽しんで頂ければ\n幸いでございます。",
+    "translation": "皆様に、お買い物を楽しんで頂ければ\n幸いでございます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P3_0",
+    "original": "ようこそ、いらっしゃいませ。",
+    "translation": "ようこそ、いらっしゃいませ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P3_1",
+    "original": "おや…\n[道具 0767]をお持ちのようですね。",
+    "translation": "おや…\n[道具 0767]をお持ちのようですね。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P3_2",
+    "original": "おめでとうございます！\nそちらは私お手製の割引券でございます！",
+    "translation": "おめでとうございます！\nそちらは私お手製の割引券でございます！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P3_3",
+    "original": "今後は[颜色 03]全商品が１０％の値引き価格[颜色 01]で\nお求め頂けます。",
+    "translation": "今後は[颜色 03]全商品が１０％の値引き価格[颜色 01]で\nお求め頂けます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT1_P3_4",
+    "original": "皆様に、お買い物を楽しんで頂ければ\n幸いでございます。",
+    "translation": "皆様に、お買い物を楽しんで頂ければ\n幸いでございます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P1_0",
+    "original": "ようこそ、いらっしゃいませ。",
+    "translation": "ようこそ、いらっしゃいませ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P1_1",
+    "original": "おお…\n[道具 0766]と[道具 0767]の\n２枚揃えて頂けたようですね。",
+    "translation": "おお…\n[道具 0766]と[道具 0767]の\n２枚揃えて頂けたようですね。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P1_2",
+    "original": "おめでとうございます！\nそれぞれ１０％割引ですので",
+    "translation": "おめでとうございます！\nそれぞれ１０％割引ですので",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P1_3",
+    "original": "今後は[颜色 03]全商品が２０％の値引き価格[颜色 01]で\nお求め頂けます。",
+    "translation": "今後は[颜色 03]全商品が２０％の値引き価格[颜色 01]で\nお求め頂けます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P1_4",
+    "original": "今後ともますますのごひいきを、\nよろしくお願いします。",
+    "translation": "今後ともますますのごひいきを、\nよろしくお願いします。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P2_0",
+    "original": "ようこそ、いらっしゃいませ。",
+    "translation": "ようこそ、いらっしゃいませ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P2_1",
+    "original": "おお…\n[道具 0765]と[道具 0767]の\n２枚揃えて頂けたようですね。",
+    "translation": "おお…\n[道具 0765]と[道具 0767]の\n２枚揃えて頂けたようですね。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P2_2",
+    "original": "おめでとうございます！\nそれぞれ１０％割引ですので",
+    "translation": "おめでとうございます！\nそれぞれ１０％割引ですので",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P2_3",
+    "original": "今後は[颜色 03]全商品が２０％の値引き価格[颜色 01]で\nお求め頂けます。",
+    "translation": "今後は[颜色 03]全商品が２０％の値引き価格[颜色 01]で\nお求め頂けます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P2_4",
+    "original": "今後ともますますのごひいきを、\nよろしくお願いします。",
+    "translation": "今後ともますますのごひいきを、\nよろしくお願いします。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P3_0",
+    "original": "ようこそ、いらっしゃいませ。",
+    "translation": "ようこそ、いらっしゃいませ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P3_1",
+    "original": "おお…\n[道具 0765]と[道具 0766]の\n２枚揃えて頂けたようですね。",
+    "translation": "おお…\n[道具 0765]と[道具 0766]の\n２枚揃えて頂けたようですね。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P3_2",
+    "original": "おめでとうございます！\nそれぞれ１０％割引ですので",
+    "translation": "おめでとうございます！\nそれぞれ１０％割引ですので",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P3_3",
+    "original": "今後は[颜色 03]全商品が２０％の値引き価格[颜色 01]で\nお求め頂けます。",
+    "translation": "今後は[颜色 03]全商品が２０％の値引き価格[颜色 01]で\nお求め頂けます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT2_P3_4",
+    "original": "今後ともますますのごひいきを、\nよろしくお願いします。",
+    "translation": "今後ともますますのごひいきを、\nよろしくお願いします。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT3_P1_0",
+    "original": "ようこそ、いらっしゃいませ。",
+    "translation": "ようこそ、いらっしゃいませ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT3_P1_1",
+    "original": "なんと素晴らしい…\n全ての割引券を揃えて頂けたようですね！",
+    "translation": "なんと素晴らしい…\n全ての割引券を揃えて頂けたようですね！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT3_P1_2",
+    "original": "今後は[颜色 03]全商品が３０％の値引き価格[颜色 01]で\nお求め頂けます！",
+    "translation": "今後は[颜色 03]全商品が３０％の値引き価格[颜色 01]で\nお求め頂けます！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_DISCOUNT3_P1_3",
+    "original": "これからも変わらぬご愛顧のほど\nよろしくお願いいたします。",
+    "translation": "これからも変わらぬご愛顧のほど\nよろしくお願いいたします。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_OUT_NAGI_0_0",
+    "original": "またいらっしゃってね。",
+    "translation": "またいらっしゃってね。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "WSHOP_OUT_NAGI_1_0",
+    "original": "気を付けて行ってらっしゃいね。",
+    "translation": "気を付けて行ってらっしゃいね。",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "WSHOP_OUT_THEODORE_0_0",
+    "original": "ご利用ありがとうございました。",
+    "translation": "ご利用ありがとうございました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_OUT_THEODORE_1_0",
+    "original": "お気をつけて、行ってらっしゃいませ。",
+    "translation": "お気をつけて、行ってらっしゃいませ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_OUT_THEODORE_2_0",
+    "original": "またのご利用をお待ちしております。",
+    "translation": "またのご利用をお待ちしております。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_THEO_SHOP_1ST_IN_M_0",
+    "original": "【新商品の追加】\n　\n迷宮で入手できる[颜色 03]素材を売却する[颜色 01]と、\nテオドアがポップコーンメーカーを駆使し、\n[颜色 03]新たな商品が追加される[颜色 01]ことがあります。",
+    "translation": "【新商品の追加】\n　\n迷宮で入手できる[颜色 03]素材を売却する[颜色 01]と、\nテオドアがポップコーンメーカーを駆使し、\n[颜色 03]新たな商品が追加される[颜色 01]ことがあります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "WSHOP_THEO_SHOP_1ST_IN_M_1",
+    "original": "【もうすぐ追加されそうな商品】\n　\n商品の追加には、\n[颜色 03]素材が複数必要になる[颜色 01]ことがあります。\n　\n必要素材が足りない場合は、\n[颜色 03]『ＷＡＮＴＥＤ』[颜色 01]と表示されます。",
+    "translation": "【もうすぐ追加されそうな商品】\n　\n商品の追加には、\n[颜色 03]素材が複数必要になる[颜色 01]ことがあります。\n　\n必要素材が足りない場合は、\n[颜色 03]『ＷＡＮＴＥＤ』[颜色 01]と表示されます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "WSHOP_THEO_SHOP_1ST_IN_M_2_0",
+    "original": "商品の上で[颜色 03]Ｙボタン[颜色 01]を押すと、\n不足素材の詳細を確認できます。",
+    "translation": "商品の上で[颜色 03]Ｙボタン[颜色 01]を押すと、\n不足素材の詳細を確認できます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "WSHOP_THEO_SHOP_1ST_IN_M_3_0",
+    "original": "【不足素材の情報】\n　\n[颜色 03]素材の入手方法や場所[颜色 01]などが\n確認できるので、欲しい商品がある際は\n活用するのもいいでしょう。",
+    "translation": "【不足素材の情報】\n　\n[颜色 03]素材の入手方法や場所[颜色 01]などが\n確認できるので、欲しい商品がある際は\n活用するのもいいでしょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "WSHOP_THEO_SHOP_1ST_IN_M_3_1",
+    "original": "素材を売却すればお金も入手できますし、\n新たな商品も追加されるので、\n積極的に売却してみましょう。",
+    "translation": "素材を売却すればお金も入手できますし、\n新たな商品も追加されるので、\n積極的に売却してみましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "WSHOP_TUTORIAL_UNKNOWN_0",
+    "original": "【鑑定】\n　\n拾った未鑑定品を[颜色 03]鑑定[颜色 01]することで、\n[颜色 03]様々な能力が付与されたアクセサリー[颜色 01]を\n入手することができます。\n　\n積極的に鑑定してみましょう。",
+    "translation": "【鑑定】\n　\n拾った未鑑定品を[颜色 03]鑑定[颜色 01]することで、\n[颜色 03]様々な能力が付与されたアクセサリー[颜色 01]を\n入手することができます。\n　\n積極的に鑑定してみましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_WSHOP_QUSET_02_010_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_WSHOP_QUSET_02_010_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_WSHOP_QUSET_12_010_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_WSHOP_QUSET_12_010_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_WSHOP_QUSET_22_010_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_WSHOP_QUSET_22_010_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "WSHOP_EXP_EFFECT_T_0",
+    "original": "武器は『攻撃力』、防具は『防御力』が高い\n物を選べば、基本的には問題ありません。",
+    "translation": "武器は『攻撃力』、防具は『防御力』が高い\n物を選べば、基本的には問題ありません。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_EFFECT_T_1",
+    "original": "ですが、それ以外にも『特殊な効果』を\n持った装備品も存在します。",
+    "translation": "ですが、それ以外にも『特殊な効果』を\n持った装備品も存在します。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_EFFECT_T_2",
+    "original": "例えば『状態異常』を与える効果や、\n『力』や『魔』などが増加する…等々。",
+    "translation": "例えば『状態異常』を与える効果や、\n『力』や『魔』などが増加する…等々。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_EFFECT_T_3",
+    "original": "シャドウとの戦いで、得られるお金が\n増えたりする効果の物もございます。",
+    "translation": "シャドウとの戦いで、得られるお金が\n増えたりする効果の物もございます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_EFFECT_T_4",
+    "original": "状況に応じて、『特殊な効果』を重視した\n装備を選択するのもひとつの手ですね。",
+    "translation": "状況に応じて、『特殊な効果』を重視した\n装備を選択するのもひとつの手ですね。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_DLC_ITEM_0_0",
+    "original": "席を外していたらあなた宛てに\nお荷物が届いていました。",
+    "translation": "席を外していたらあなた宛てに\nお荷物が届いていました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_DLC_ITEM_0_1",
+    "original": "きっと冒険に役立つアイテムです。\nぜひ、お受け取りください。",
+    "translation": "きっと冒険に役立つアイテムです。\nぜひ、お受け取りください。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_DLC_ITEM_1_0",
+    "original": "おっと、\nどうやら荷物がいっぱいみたいですね。",
+    "translation": "おっと、\nどうやら荷物がいっぱいみたいですね。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_DLC_ITEM_1_1",
+    "original": "少しスペースを空けてから\nもう一度お越しください。",
+    "translation": "少しスペースを空けてから\nもう一度お越しください。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_DLC_ITEM_2_0",
+    "original": "お受け取りください。",
+    "translation": "お受け取りください。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_DLC_ITEM_3_0",
+    "original": "仮実装になります。\nお受け取り下さい。",
+    "translation": "仮実装になります。\nお受け取り下さい。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_DLC_ITEM_3_1",
+    "original": "[占位B 01]　を手に入れた！",
+    "translation": "[占位B 01]　を手に入れた！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_DLC_ITEM_4_0",
+    "original": "仮実装になります。\nお受け取り下さい。",
+    "translation": "仮実装になります。\nお受け取り下さい。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_DLC_ITEM_4_1",
+    "original": "[占位B 01]　を手に入れた！",
+    "translation": "[占位B 01]　を手に入れた！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_DLC_ITEM_5_0",
+    "original": "仮実装になります。\nお受け取り下さい。",
+    "translation": "仮実装になります。\nお受け取り下さい。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_DLC_ITEM_5_1",
+    "original": "[占位B 01]　を手に入れた！",
+    "translation": "[占位B 01]　を手に入れた！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_HELLO_THEODORE_0",
+    "original": "ご質問はなんでしょうか？",
+    "translation": "ご質問はなんでしょうか？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_HELLO_NAGI_0",
+    "original": "ご質問はなんでしょうか？",
+    "translation": "ご質問はなんでしょうか？",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "WSHOP_EXP_ITEM_ADD_ABOUT_0",
+    "original": "素材の売却",
+    "translation": "素材の売却",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "WSHOP_EXP_ITEM_ADD_ABOUT_1",
+    "original": "特殊な条件で手に入る素材",
+    "translation": "特殊な条件で手に入る素材",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "WSHOP_EXP_ITEM_ADD_ABOUT_2",
+    "original": "もどる",
+    "translation": "もどる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "WSHOP_EXP_NEW_ITEM_T_0",
+    "original": "迷宮で入手した『素材』をお売り頂ければ、\n新たな商品を作れるかもしれません。",
+    "translation": "迷宮で入手した『素材』をお売り頂ければ、\n新たな商品を作れるかもしれません。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_NEW_ITEM_T_1",
+    "original": "ですが、商品によって『素材』が複数個\n必要になる場合もございます。",
+    "translation": "ですが、商品によって『素材』が複数個\n必要になる場合もございます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_NEW_ITEM_T_2",
+    "original": "その場合は『ＷＡＮＴＥＤ』として、\n商品一覧にてお知らせします。",
+    "translation": "その場合は『ＷＡＮＴＥＤ』として、\n商品一覧にてお知らせします。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_NEW_ITEM_T_3",
+    "original": "不足している『素材』を確認する場合は、\n『素材確認へ』をお申し付けください。",
+    "translation": "不足している『素材』を確認する場合は、\n『素材確認へ』をお申し付けください。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_NEW_ITEM_T_4",
+    "original": "不足素材を収集する際に、役立つ情報を\nお知らせできるかと思います。",
+    "translation": "不足素材を収集する際に、役立つ情報を\nお知らせできるかと思います。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_RARE_MATERIAL__0",
+    "original": "シャドウの中には『希少な素材』を\n落とす存在もいます。",
+    "translation": "シャドウの中には『希少な素材』を\n落とす存在もいます。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_RARE_MATERIAL__1",
+    "original": "入手するためには、シャドウを\n『特殊な条件』で倒す必要があります。",
+    "translation": "入手するためには、シャドウを\n『特殊な条件』で倒す必要があります。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_RARE_MATERIAL__2",
+    "original": "例えば、総攻撃や弱点属性をつくなどで\n止めを刺してみてはいかがでしょうか？",
+    "translation": "例えば、総攻撃や弱点属性をつくなどで\n止めを刺してみてはいかがでしょうか？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_RARE_MATERIAL__3",
+    "original": "『希少な素材』があれば、強力な装備を\n作ることができるかもしれませんよ。",
+    "translation": "『希少な素材』があれば、強力な装備を\n作ることができるかもしれませんよ。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "WSHOP_EXP_RARE_MATERIAL__4",
+    "original": "様々な方法で、シャドウを倒してみることを\nお勧めいたします。",
+    "translation": "様々な方法で、シャドウを倒してみることを\nお勧めいたします。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_堂島 菜々子",
+    "original": "堂島 菜々子",
+    "translation": "堂島 菜々子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_だいだら．のオヤジ",
+    "original": "だいだら．のオヤジ",
+    "translation": "だいだら．のオヤジ",
+    "stage": 1,
+    "context": ""
+  }
+]

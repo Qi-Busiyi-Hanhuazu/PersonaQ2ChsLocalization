@@ -1,0 +1,177 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "フルーツ求めて、のんべんだらり\nメルヘンな世界をご漫遊…",
+    "translation": "フルーツ求めて、のんべんだらり\nメルヘンな世界をご漫遊…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "スクリーンから伝わる、ゆる～い空気の\nリラクゼーション効果でぐっすりと…",
+    "translation": "スクリーンから伝わる、ゆる～い空気の\nリラクゼーション効果でぐっすりと…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "いえ、しっぽりまったり癒しの雰囲気を\n堪能させて頂いたところでございます。",
+    "translation": "いえ、しっぽりまったり癒しの雰囲気を\n堪能させて頂いたところでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "寝てたなこの人。",
+    "translation": "寝てたなこの人。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ええ、絶対寝てましたね。",
+    "translation": "ええ、絶対寝てましたね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "楽しかった",
+    "translation": "楽しかった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "面倒だった",
+    "translation": "面倒だった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うん、歩いて回るだけだったけど\nそれだけで十分。",
+    "translation": "うん、歩いて回るだけだったけど\nそれだけで十分。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "まあ、話し相手には困らんからな。\nなんたってこの大所帯だ。",
+    "translation": "まあ、話し相手には困らんからな。\nなんたってこの大所帯だ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ふふ、だいぶ歩いたからね。",
+    "translation": "ふふ、だいぶ歩いたからね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "でも、ちょっとのんびりできたかも。\n歩いてる間、みんなとお話できたし。",
+    "translation": "でも、ちょっとのんびりできたかも。\n歩いてる間、みんなとお話できたし。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "こういう機会も悪くないな。\nみんなの士気も上がったと思う。",
+    "translation": "こういう機会も悪くないな。\nみんなの士気も上がったと思う。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "ありがとう、エリザベスさん。",
+    "translation": "ありがとう、エリザベスさん。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "フフ…礼には及びません。",
+    "translation": "フフ…礼には及びません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "今回の上映で得られましたものは、\n束の間の休息、士気の高揚、そして…",
+    "translation": "今回の上映で得られましたものは、\n束の間の休息、士気の高揚、そして…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "みずみずしく輝く、\n山盛りのフルーツ！",
+    "translation": "みずみずしく輝く、\n山盛りのフルーツ！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_3",
+    "original": "こちらを私がまるっと頂戴して、\n閉幕とさせていただきます。",
+    "translation": "こちらを私がまるっと頂戴して、\n閉幕とさせていただきます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ちゃっかりしてるな、\nエリザベスは。",
+    "translation": "ちゃっかりしてるな、\nエリザベスは。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

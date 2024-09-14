@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ワンワンッ！",
+    "translation": "汪汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪汪！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "捜していたパーツが\nこのすぐ近くにあるそうです。",
+    "translation": "要找的零件似乎就在附近。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n\n正在寻找的零件似乎就在附近。\n\n正在找的零件\n据说就在这附近。\n\n正在找的零件就在这附近。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "この部屋ですね。捜してみましょう！",
+    "translation": "是这个房间吧，找找看吧！",
+    "stage": 0,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n是这个房间吧，找找看吧！\n\n是这个房间吧。让我们找找看吧！\n\n是这个房间吧。找找看吧！"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "虎狼丸",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "埃癸斯",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

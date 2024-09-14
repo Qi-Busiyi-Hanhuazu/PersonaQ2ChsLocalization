@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "オタカラの気配！\n採取するか？",
+    "translation": "宝物的气息！\n要采集吗？",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n有宝物的气息！\n要采集吗？\n\n宝物的气息！\n采取吗？\n\n宝物的气息！\n采集吗？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そうだな。\n警戒して探すぞ！",
+    "translation": "那样啊。\n保持警惕，继续探索！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n是啊。\n保持警戒，找找看！\n\n是啊。\n警惕地寻找！\n\n是啊。我会提高警惕寻找的！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "よし！\nレア物を見つけるぜ～！",
+    "translation": "好！\n去找稀有物品咯！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n好！\n找到稀有物品啦～！\n\n好！\n找到稀有物品～！\n\n好！\n发现稀有物品哦～！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "なんだ。\n止めるのか？",
+    "translation": "什么啊\n要停下来吗？",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n什么？\n要停手吗？\n\n什么啊。\n要停止吗？\n\n怎么回事？\n要阻止吗？"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全部だ！",
+    "translation": "这就是全部了！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n这些就是全部了吧！\n\n这就是全部！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いただくぜ！",
+    "translation": "收下了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我要收下啦！\n\n我吃了！\n\n我要了！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うむ！",
+    "translation": "嗯！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ほほーう。",
+    "translation": "吼吼。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嚯嚯～\n\n呵呵。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ビビったぜ…\nこれで全部だな。",
+    "translation": "吓了一跳……\n这就是全部了吧。",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n吓死我了……\n这些就是全部了吧。\n\n吓死我了……这就是全部了。\n\n\n这就是全部了。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "こ、これは！",
+    "translation": "这、这是！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这、这是！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "にゃーっ！",
+    "translation": "咪！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n喵～！\n\n喵！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "上玉だな！",
+    "translation": "好东西啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是上等货啊！\n\n是上玉啊！\n\n好漂亮啊！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカット発見だ！\n行くか？",
+    "translation": "发现捷径了！\n要去吗？",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n发现捷径了！\n要走吗？\n\n发现了快捷方式！\n去吗？\n\n发现快捷方式！\n去吗？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないみたいだな…",
+    "translation": "这边好像无法通过呢……",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n这边好像不能通过啊……"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ジョーカー！\nここはヤバい気配がするぞ！",
+    "translation": "JOKER！\n这里有一股危险的气息！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\nJOKER！\n这边有危险的气息！\n\nJOKER！\n这里感觉很糟糕！\n\nJOKER ！\n这里有危险的气息！"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "よ、よし！　分かった！\n気を抜くなよ！",
+    "translation": "好、好的！明白了！\n不要掉以轻心！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n好、好！知道了！\n别松懈了！\n\n好、好！明白了！\n不要放松哦！\n\n哟，好！我知道了！\n不要松懈啊！"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだな！\nしっかり準備しようぜ！",
+    "translation": "那好吧！\n要好好准备！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n是啊！\n好好准备吧！\n\n是啊！好好准备吧！"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "はぁ…かなりの強敵だったぜ…",
+    "translation": "哎呀……真是个强敌啊……",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n唉……真是个强敌啊……\n\n啊……是相当的强敌啊……\n\n哈……是相当厉害的强敌哦……"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "シャドウの反応が多いな…\n恐らく戦闘になるが、どうする？",
+    "translation": "暗影的反应很多啊……\n恐怕会发生战斗，怎么办？",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n暗影的气息很多啊……\n恐怕会变成战斗，怎么办？\n\n暗影的反应真多啊……\n恐怕要战斗了，怎么办？\n\n暗影的反应很多啊……\n恐怕会发生战斗，怎么办？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "よし！　気を抜くなよ！",
+    "translation": "好的！不要放松警惕！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n好！别松懈了！\n\n好！别泄气！\n\n好！不要松懈啊！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだな、止めておくか。",
+    "translation": "是吧，还是算了。",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n是啊，先停手吧。\n\n是啊，那就停下来吧。\n\n是啊，停下来吧。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "よっし！　これで終わりか？",
+    "translation": "好！这就结束了吗？",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n好！这样就结束了吧？\n\n好的！就这样结束了吗？\n\n嘿！这就结束了吗？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "映画館に戻るのか？",
+    "translation": "要回电影院了吗？",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n要回到电影院吗？\n\n要回电影院吗？\n\n回电影院吗？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

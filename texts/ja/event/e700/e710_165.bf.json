@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "はー、やっとさっきの階段の所まで\nたどり着いたね。",
+    "translation": "はー、やっとさっきの階段の所まで\nたどり着いたね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "ここから下に行けそうだけど…\nどうする？",
+    "translation": "ここから下に行けそうだけど…\nどうする？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "どうする？　もう下、行っちゃう？",
+    "translation": "どうする？　もう下、行っちゃう？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "降りよう",
+    "translation": "降りよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "まだだ",
+    "translation": "まだだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "オッケー！　行こっか！",
+    "translation": "オッケー！　行こっか！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ん？　まだどこか調べんのか？",
+    "translation": "ん？　まだどこか調べんのか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

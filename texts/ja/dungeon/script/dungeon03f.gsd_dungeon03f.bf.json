@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_KANSI_FOE_0",
+    "original": "＞監視ロボFOEを発見するイベント\n　通行の邪魔なのでどかす方法を模索する。",
+    "translation": "＞監視ロボFOEを発見するイベント\n　通行の邪魔なのでどかす方法を模索する。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_EV_MOVE_STOP_0",
+    "original": "＞移動静止イベント",
+    "translation": "＞移動静止イベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_KANSI_AB_SWITCH_0",
+    "original": "＞エリア切り替え型監視カメラの\n　チュートリアルイベント",
+    "translation": "＞エリア切り替え型監視カメラの\n　チュートリアルイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_GOTO_KANSI6_AB_SWITC_0",
+    "original": "＞切り替えスイッチを押すまで\n　先に進行できないことを説明する。",
+    "translation": "＞切り替えスイッチを押すまで\n　先に進行できないことを説明する。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_EV_KANSI_SWITCH_6A_0",
+    "original": "＞監視エリアを（緑）に切り替えた",
+    "translation": "＞監視エリアを（緑）に切り替えた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_EV_KANSI_SWITCH_6B_0",
+    "original": "＞監視エリアを（赤）に切り替えた",
+    "translation": "＞監視エリアを（赤）に切り替えた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_GET_TRESURE_MAP_0",
+    "original": "＞地図に宝の在り処が表示された。",
+    "translation": "＞地図に宝の在り処が表示された。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "何かが埋まっているようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理してからまた来よう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_SYS_SWITCH_ON_0",
+    "original": "スイッチを押した。",
+    "translation": "スイッチを押した。",
+    "stage": 1,
+    "context": ""
+  }
+]

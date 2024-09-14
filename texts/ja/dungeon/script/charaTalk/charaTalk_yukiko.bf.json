@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "オタカラスポットだよ！\n何か見つかるかも！",
+    "translation": "オタカラスポットだよ！\n何か見つかるかも！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "分かった。\n注意深く探してみよう？",
+    "translation": "分かった。\n注意深く探してみよう？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "分かった！\n集中して探すね。",
+    "translation": "分かった！\n集中して探すね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そっか。\nじゃあ、後でまた来よう。",
+    "translation": "そっか。\nじゃあ、後でまた来よう。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ええと…\nもう見つからないかな？",
+    "translation": "ええと…\nもう見つからないかな？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うんうん。",
+    "translation": "うんうん。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "楽しいね。",
+    "translation": "楽しいね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いい感じ。",
+    "translation": "いい感じ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "なんとかなったね。\nこれで終わりみたい。",
+    "translation": "なんとかなったね。\nこれで終わりみたい。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "凄くない？",
+    "translation": "凄くない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "レアだよ！",
+    "translation": "レアだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "やったね！",
+    "translation": "やったね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あ、ショートカットがあるよ。\n通っておこうか？",
+    "translation": "あ、ショートカットがあるよ。\n通っておこうか？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "あれ？\nこっちは通れないんだね。",
+    "translation": "あれ？\nこっちは通れないんだね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ここ、危ない気配がするけど…\nどうしよう？",
+    "translation": "ここ、危ない気配がするけど…\nどうしよう？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "うん、分かった。\n気をつけて調べよう。",
+    "translation": "うん、分かった。\n気をつけて調べよう。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "止めておくの？\n分かった。",
+    "translation": "止めておくの？\n分かった。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "凄く強いシャドウだったね。\nビックリしちゃった。",
+    "translation": "凄く強いシャドウだったね。\nビックリしちゃった。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "あれ？　シャドウの気配が凄いね…\n大丈夫かな？",
+    "translation": "あれ？　シャドウの気配が凄いね…\n大丈夫かな？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "探すんだね。\nじゃあ、気をつけて調べてみよう。",
+    "translation": "探すんだね。\nじゃあ、気をつけて調べてみよう。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだね。\n止めておこうか。",
+    "translation": "そうだね。\n止めておこうか。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "これで終わりかな？",
+    "translation": "これで終わりかな？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから映画館に戻れるみたい。\nどうする？　戻る？",
+    "translation": "ここから映画館に戻れるみたい。\nどうする？　戻る？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  }
+]

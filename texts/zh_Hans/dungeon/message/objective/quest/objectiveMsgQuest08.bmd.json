@@ -1,0 +1,37 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "ニセモノの警官を探し出せ！",
+    "translation": "找出假警察！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n找出假警察！\n\n找出冒牌警察！\n\n把假警察找出来！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "警官を探すか、スイッチへ向かえ",
+    "translation": "是寻找警察，还是前往开关处",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找警察，还是前往开关处\n\n找警察或者去开关\n\n去找警察，或者去开关"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "警官から情報を聞き出せ",
+    "translation": "从警察那里问出情报",
+    "stage": 0,
+    "context": "机翻辅助：\n\n从警察那里问出情报\n\n从警察那里打听情报\n\n从警察那里得到消息"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "警官の正体を暴け",
+    "translation": "揭露警察的真面目",
+    "stage": 1,
+    "context": "机翻辅助：\n\n揭穿警察的真面目\n\n揭露警察的真面目"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_4_0",
+    "original": "警官から話を聞こう",
+    "translation": "从警察那里问话",
+    "stage": 0,
+    "context": "机翻辅助：\n\n从警察那里问话\n\n听警察说吧\n\n向警察请教吧"
+  }
+]

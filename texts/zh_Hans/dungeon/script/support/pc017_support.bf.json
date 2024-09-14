@@ -1,0 +1,527 @@
+[
+  {
+    "key": "MONA_FOE_FOLLOW_START_1_0",
+    "original": "Ｆ．Ｏ．Ｅに気づかれたぞ！ ",
+    "translation": "被F.O.E发现了！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n被F.O.E发现了！ \n\nF.O.E注意到了！"
+  },
+  {
+    "key": "MONA_FOE_FOLLOW_START_2_0",
+    "original": "やべえのに見つかったな。",
+    "translation": "被很不妙的家伙发现了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n被很不妙的家伙发现了。\n\n被矢兵卫发现了。\n\n被胡乱发现了啊。"
+  },
+  {
+    "key": "MONA_FOE_FOLLOW_START_3_0",
+    "original": "おい、Ｆ．Ｏ．Ｅに尾けられてるぞ？ ",
+    "translation": "喂，被F.O.E跟踪了哦？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，被F.O.E跟踪了哦？ \n\n喂，被F.O.E跟踪了。"
+  },
+  {
+    "key": "MONA_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅが間近にいるぞ！ ",
+    "translation": "F.O.E就在附近哦！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E就在附近哦！ \n\nF.O.E就在眼前！ \n\nF.O.E就在你身边！"
+  },
+  {
+    "key": "MONA_FOE_NEAR_2_0",
+    "original": "おい、Ｆ．Ｏ．Ｅがいる！ ",
+    "translation": "喂，F.O.E来了！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，F.O.E来了！ \n\n喂，F.O.E在！"
+  },
+  {
+    "key": "MONA_FOE_NEAR_3_0",
+    "original": "あぶねえ、Ｆ．Ｏ．Ｅだ！　下がれ！",
+    "translation": "好险，是F.O.E！快退下！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好险，是F.O.E！快退下！\n\n危险，是F.O.E！退后！\n\n啊呀，是F.O.E！下去！"
+  },
+  {
+    "key": "MONA_FOE_FOLLOW_END_1_0",
+    "original": "よーし、撒いたな。",
+    "translation": "好，甩掉他了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，甩掉他了。\n\n好了，撒了啊。\n\n好，撒了吧。"
+  },
+  {
+    "key": "MONA_FOE_FOLLOW_END_2_0",
+    "original": "やれやれ、逃げ切れたみたいだな。",
+    "translation": "哎呀呀，看来是成功逃掉了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哎呀呀，看来是成功逃掉了。\n\n哎呀呀，好像逃过了。\n\n哎呀，好像跑完了。"
+  },
+  {
+    "key": "MONA_FOE_FOLLOW_END_3_0",
+    "original": "ふう、焦らせやがって… ",
+    "translation": "呼，居然让我着急…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呼，居然让我着急…… \n\n啊，让他着急了…… \n\n哼，让你着急……"
+  },
+  {
+    "key": "MONA_KANSI_REACTION_1_0",
+    "original": "動きをよく見ろよ…？ ",
+    "translation": "好好观察我的动作啊……？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好好观察我的动作啊……？ \n\n好好看动作吧……？ \n\n好好看看动态啊……？"
+  },
+  {
+    "key": "MONA_KANSI_REACTION_2_0",
+    "original": "落ち着いて動けよ。",
+    "translation": "冷静下来行动啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冷静下来行动啊。\n\n冷静点，动起来。\n\n冷静地行动吧。"
+  },
+  {
+    "key": "MONA_KANSI_REACTION_3_0",
+    "original": "いいか、焦らずにいけよ。",
+    "translation": "听好了，不要着急。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n听好了，不要着急。\n\n听好了，别着急。"
+  },
+  {
+    "key": "MONA_DENKISAKU_REACTION__0",
+    "original": "にゃ…毛がチリチリする… ",
+    "translation": "喵……毛都竖起来了…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喵……毛都竖起来了…… \n\n喵……毛叮叮的…… \n\n喵……毛很脆……"
+  },
+  {
+    "key": "MONA_DENKISAKU_REACTION__2_0",
+    "original": "こいつをどうするか…",
+    "translation": "要怎么处理这家伙……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要怎么处理这家伙……\n\n这家伙怎么办……\n\n该如何处置这家伙呢……"
+  },
+  {
+    "key": "MONA_DENKISAKU_REACTION__3_0",
+    "original": "触るなよ、こいつはやべえぞ。",
+    "translation": "别碰他，这家伙很不妙。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n别碰他，这家伙很不妙。\n\n别碰它，这家伙可糟了。\n\n别碰我，这家伙可糟了。"
+  },
+  {
+    "key": "MONA_KYOUHU_REACTION_1_0",
+    "original": "にゃふ！？ ",
+    "translation": "喵呼！？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喵呼！？ \n\n喵！？ \n\n喂！？"
+  },
+  {
+    "key": "MONA_KYOUHU_REACTION_2_0",
+    "original": "風が…！？ ",
+    "translation": "风……！？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n风……！？"
+  },
+  {
+    "key": "MONA_KYOUHU_REACTION_3_0",
+    "original": "おわっ！？ ",
+    "translation": "哦哇！？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦哇！？ \n\n哇！？ \n\n完了！？"
+  },
+  {
+    "key": "MONA_STAIR_FIND_1_0",
+    "original": "道が拓けたな！ ",
+    "translation": "路被清空了！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n路被清空了！ \n\n道路开拓了啊！ \n\n道路拓宽了！"
+  },
+  {
+    "key": "MONA_STAIR_FIND_2_0",
+    "original": "よし、新しい道だ！ ",
+    "translation": "好，是新的路！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，是新的路！ \n\n好，新的道路！ \n\n好，新路！"
+  },
+  {
+    "key": "MONA_STAIR_FIND_3_0",
+    "original": "行くんだろ、ジョーカー。",
+    "translation": "要走吧，JOKER。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要走吧，JOKER。\n\n去吧，JOKER。\n\n你要去吧，JOKER。"
+  },
+  {
+    "key": "MONA_TREASURE_FIND_1_0",
+    "original": "オタカラじゃねーか！ ",
+    "translation": "是宝物啊！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是宝物啊！ \n\n不是宝物吗！ \n\n这不是宝贝吗！"
+  },
+  {
+    "key": "MONA_TREASURE_FIND_2_0",
+    "original": "おい、オタカラだぞ！ ",
+    "translation": "喂，是宝物啊！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，是宝物啊！ \n\n喂，宝贝！"
+  },
+  {
+    "key": "MONA_TREASURE_FIND_3_0",
+    "original": "にゃにゃ―！　オタカラ！ ",
+    "translation": "喵喵——！宝物！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喵喵——！宝物！ \n\n喵——！宝贝！ \n\n喵喵——！宝贝！"
+  },
+  {
+    "key": "MONA_CHECK_WALL_1_0",
+    "original": "コイツはアヤシイな。",
+    "translation": "这家伙很可疑啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这家伙很可疑啊。\n\n这家伙真可怕啊。\n\n这家伙真奇怪。"
+  },
+  {
+    "key": "MONA_CHECK_WALL_2_0",
+    "original": "なにかあるぞ、ここ。",
+    "translation": "这里好像有什么。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这里好像有什么。\n\n有什么事，这里。\n\n这里有什么东西。"
+  },
+  {
+    "key": "MONA_CHECK_WALL_3_0",
+    "original": "なーんかニオうな… ",
+    "translation": "总觉得有股味道…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n总觉得有股味道…… \n\n你说什么呢…… \n\n什么……"
+  },
+  {
+    "key": "MONA_SWITCH_FIND_1_0",
+    "original": "スイッチって、押したくなるよな。",
+    "translation": "让人想按下开关呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n让人想按下开关呢。\n\n总想按下开关吧。\n\n开关真想按啊。"
+  },
+  {
+    "key": "MONA_SWITCH_FIND_2_0",
+    "original": "お、スイッチがあるぞ。",
+    "translation": "哦，有开关啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦，有开关啊。\n\n哦，有开关哦。\n\n哦，有开关。"
+  },
+  {
+    "key": "MONA_SWITCH_FIND_3_0",
+    "original": "スイッチか、慎重にな！ ",
+    "translation": "是开关啊，要慎重！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是开关啊，要慎重！ \n\n开关，小心！ \n\n开关啊，小心点！"
+  },
+  {
+    "key": "MONA_SHORTCUT_FIND_1_0",
+    "original": "そこ、近道出来そうだな。",
+    "translation": "那里，好像可以抄近路。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那里，好像可以抄近路。\n\n那里好像可以抄近路啊。\n\n那里好像可以抄近道。"
+  },
+  {
+    "key": "MONA_SHORTCUT_FIND_2_0",
+    "original": "おっ、ショートカットできそうだぞ！ ",
+    "translation": "哦，好像可以走捷径！ ",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦，好像可以抄捷径！ \n\n哦，好像可以剪短发哦！ \n\n哦，好像可以剪短发了！"
+  },
+  {
+    "key": "MONA_SHORTCUT_FIND_3_0",
+    "original": "そこ、通れそうじゃないか？ ",
+    "translation": "那里，好像可以过去？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那里，好像可以过去？ \n\n那里应该可以通过吧？ \n\n那里不是可以通过吗？"
+  },
+  {
+    "key": "MONA_FOE_WARNING_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅ、まだ来てるぞ！ ",
+    "translation": "F.O.E，又来了！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E，又来了！ \n\nF.O.E，还来着呢！ \n\nF.O.E，你还来了！"
+  },
+  {
+    "key": "MONA_FOE_WARNING_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅだ、来るぞ！ ",
+    "translation": "是F.O.E，要来了！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是F.O.E，要来了！ \n\nF.O.E来了！ \n\nF.O.E，来了！"
+  },
+  {
+    "key": "MONA_FOE_WARNING_NEAR_3_0",
+    "original": "油断するな、まだ来てるぞ！ ",
+    "translation": "别大意，敌人还在！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n别大意，敌人还在！ \n\n别大意，还来着呢！ \n\n别大意，还来了！"
+  },
+  {
+    "key": "MONA_1PERSON_HPTP10_1_0",
+    "original": "この程度で…うう… ",
+    "translation": "这种程度就……呜呜…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这种程度就……呜呜…… \n\n就这个程度……呜呜…… \n\n就这样……嗯……"
+  },
+  {
+    "key": "MONA_1PERSON_HPTP10_2_0",
+    "original": "なあ、休まないか…？ ",
+    "translation": "欸，要不要休息一下……？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n欸，要不要休息一下……？ \n\n喂，不休息吗……？"
+  },
+  {
+    "key": "MONA_1PERSON_HPTP10_3_0",
+    "original": "こいつはピンチだ… ",
+    "translation": "这下子真的危险了…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这下子真的危险了…… \n\n这家伙是危机…… \n\n这家伙有危机……"
+  },
+  {
+    "key": "MONA_1PERSON_HP10_1_0",
+    "original": "体力がもたないかもな… ",
+    "translation": "体力可能撑不住啊…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n体力可能撑不住啊…… \n\n体力可能不够啊…… \n\n体力可能吃不消了……"
+  },
+  {
+    "key": "MONA_1PERSON_HP10_2_0",
+    "original": "さすがに疲れてきたか… ",
+    "translation": "看来她也终于累了啊…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看来她也终于累了啊…… \n\n到底累了吗…… \n\n到底是累了吗……"
+  },
+  {
+    "key": "MONA_1PERSON_HP10_3_0",
+    "original": "回復、できるか…？ ",
+    "translation": "我能够……恢复吗？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我能够……恢复吗？ \n\n能恢复吗……？ \n\n能恢复吗？？"
+  },
+  {
+    "key": "MONA_1PERSON_TP10_1_0",
+    "original": "気力が限界だな… ",
+    "translation": "我的气力已经到极限了…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我的气力已经到极限了…… \n\n精力已经到极限了啊…… \n\n精力有限啊……"
+  },
+  {
+    "key": "MONA_1PERSON_TP10_2_0",
+    "original": "無理は禁物だぞ…？ ",
+    "translation": "逞强可是大忌哦……？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n逞强可是大忌哦……？ \n\n不能勉强啊……？ \n\n不要勉强哦……？"
+  },
+  {
+    "key": "MONA_1PERSON_TP10_3_0",
+    "original": "ちょっと、キツいかもな… ",
+    "translation": "这或许有点难熬啊…… ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这或许有点难熬啊…… \n\n可能有点辛苦吧…… \n\n有点，可能很辛苦吧……"
+  },
+  {
+    "key": "MONA_1PERSON_HP80_1_0",
+    "original": "回復は怠るなよ？ ",
+    "translation": "可别怠于回复哦。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n可别怠于回复哦。 \n\n不要懈怠恢复哟？ \n\n不要懈怠恢复啊？"
+  },
+  {
+    "key": "MONA_1PERSON_HP80_2_0",
+    "original": "よし、探索再開だ。 ",
+    "translation": "好，继续探索吧。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，继续探索吧。 \n\n好，重新开始探索。"
+  },
+  {
+    "key": "MONA_1PERSON_HP80_3_0",
+    "original": "行こうぜ、みんな。",
+    "translation": "我们走吧，各位。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我们走吧，各位。\n\n走吧，大家。"
+  },
+  {
+    "key": "MONA_DUNGEON_START_1_0",
+    "original": "ワガハイに任せとけ！ ",
+    "translation": "包在吾辈身上！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n包在吾辈身上！ \n\n交给吾辈吧！"
+  },
+  {
+    "key": "MONA_DUNGEON_START_2_0",
+    "original": "さあ、潜入開始だ。",
+    "translation": "好啦，开始潜入吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好啦，开始潜入吧。\n\n那么，开始潜入了。\n\n好了，潜入开始。"
+  },
+  {
+    "key": "MONA_DUNGEON_START_3_0",
+    "original": "やってやろうぜ！ ",
+    "translation": "我要大闹一场！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我要大闹一场！ \n\n做吧！ \n\n干吧！"
+  },
+  {
+    "key": "MONA_QUEST_START_1_0",
+    "original": "腕が鳴るぜ！ ",
+    "translation": "我跃跃欲试！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我跃跃欲试！ \n\n手腕响了！ \n\n手腕要响了！"
+  },
+  {
+    "key": "MONA_QUEST_START_2_0",
+    "original": "始めるとしようぜ。",
+    "translation": "那就开始吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那就开始吧。\n\n开始吧。\n\n我们开始吧。"
+  },
+  {
+    "key": "MONA_QUEST_START_3_0",
+    "original": "シゴトの時間だな。",
+    "translation": "是工作的时间了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是工作的时间了。\n\n是芝加哥的时间啊。\n\n工作时间到了。"
+  },
+  {
+    "key": "MONA_TOUHA_25_1_0",
+    "original": "まあまあ出来てきたな。",
+    "translation": "还算可以吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n还算可以吧。\n\n还可以啊。\n\n总算完成了。"
+  },
+  {
+    "key": "MONA_TOUHA_25_2_0",
+    "original": "お、ちょっと見えてきたな。",
+    "translation": "哦，开始看得见了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦，开始看得见了。\n\n哦，有点看见了。\n\n啊，看到了一点啊。"
+  },
+  {
+    "key": "MONA_TOUHA_50_1_0",
+    "original": "半分はきたぜ。 ",
+    "translation": "有一半来了。 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有一半来了。 \n\n来了一半。 \n\n已经来了一半。"
+  },
+  {
+    "key": "MONA_TOUHA_50_2_0",
+    "original": "もう半分、行こうぜ。",
+    "translation": "再走一半吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n再走一半吧。\n\n再去一半吧。"
+  },
+  {
+    "key": "MONA_TOUHA_75_1_0",
+    "original": "ここからが正念場だ。",
+    "translation": "接下来才是关键时刻。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n接下来才是关键时刻。\n\n从这里开始是关键时刻。\n\n接下来就是关键时刻了。"
+  },
+  {
+    "key": "MONA_TOUHA_75_2_0",
+    "original": "あともう少しだな。",
+    "translation": "就差那么一点点。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n就差那么一点点。\n\n还差一点点。\n\n还差一点呢。"
+  },
+  {
+    "key": "MONA_TOUHA_100_1_0",
+    "original": "ルートは完璧だ！ ",
+    "translation": "路线很完美！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n路线很完美！ \n\n平方根太完美了！ \n\n路线是完美的！"
+  },
+  {
+    "key": "MONA_TOUHA_100_2_0",
+    "original": "もう調べるところはないな。",
+    "translation": "已经没有地方可以调查了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n已经没有地方可以调查了。\n\n已经没有调查的地方了。\n\n已经没有可查的地方了。"
+  },
+  {
+    "key": "MONA_MAPPING_ICON_ALL_1_0",
+    "original": "やるじゃねぇか。",
+    "translation": "干得不错嘛。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n干得不错嘛。\n\n不是很干吗？\n\n不是要做吗。"
+  },
+  {
+    "key": "MONA_MAPPING_ICON_ALL_2_0",
+    "original": "ふむふむ、いいぞ。",
+    "translation": "嗯嗯，很好。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯嗯，很好。\n\n嗯嗯，好啊。"
+  },
+  {
+    "key": "MONA_MAPPING_ICON_KAIDAN_0",
+    "original": "道が出来たな。",
+    "translation": "路都铺好了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n路都铺好了。\n\n路修好了。\n\n路修好了啊。"
+  },
+  {
+    "key": "MONA_MAPPING_ICON_KAIDAN_2_0",
+    "original": "ルート完成だ！ ",
+    "translation": "路线完成！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n路线完成！ \n\n平方根完成了！ \n\n路线完成了！"
+  },
+  {
+    "key": "MONA_MAPPING_CHANGE_COLO_0",
+    "original": "色を変えるのか？",
+    "translation": "会改变颜色吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n会改变颜色吗？\n\n改变颜色吗？"
+  },
+  {
+    "key": "MONA_MAPPING_CHANGE_COLO_2_0",
+    "original": "おっ、やるじゃねーか。",
+    "translation": "哦，很有一套嘛。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦，很有一套嘛。\n\n哦，不是要做吗。\n\n啊，这不是很厉害吗？"
+  },
+  {
+    "key": "MONA_MAPPING_ICON_DEL_1_0",
+    "original": "整理も大切だな。",
+    "translation": "整理也很重要呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n整理也很重要呢。\n\n整理也很重要啊。\n\n整理也很重要。"
+  },
+  {
+    "key": "MONA_MAPPING_ICON_DEL_2_0",
+    "original": "いらないのか？ ",
+    "translation": "不需要吗？ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不需要吗？"
+  },
+  {
+    "key": "MONA_MAPPING_MEMO_1_0",
+    "original": "おお、偉いぞ。",
+    "translation": "哦哦，了不起。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦哦，了不起。\n\n啊，好伟大啊。\n\n哦，太了不起了。"
+  },
+  {
+    "key": "MONA_MAPPING_MEMO_2_0",
+    "original": "忘れないようにな！ ",
+    "translation": "可别忘了啊！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n可别忘了啊！ \n\n不要忘记！ \n\n不要忘记哦！"
+  },
+  {
+    "key": "MONA_DOOR_OPEN_1_0",
+    "original": "こっちだ。",
+    "translation": "在这边。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n在这边。\n\n这边。"
+  },
+  {
+    "key": "MONA_DOOR_OPEN_2_0",
+    "original": "ついてこい。",
+    "translation": "跟我来。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n跟我来。"
+  },
+  {
+    "key": "MONA_DOOR_OPEN_3_0",
+    "original": "行こうぜ。",
+    "translation": "我们走吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我们走吧。\n\n走吧。"
+  }
+]

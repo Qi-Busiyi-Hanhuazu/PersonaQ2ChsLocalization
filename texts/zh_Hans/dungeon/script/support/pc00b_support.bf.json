@@ -1,0 +1,527 @@
+[
+  {
+    "key": "JUNPEI_FOE_FOLLOW_START__0",
+    "original": "げげっ、Ｆ．Ｏ．Ｅじゃん！",
+    "translation": "哇，是F.O.E！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呃，是F.O.E耶！\n\n哈哈，不是F.O.E吗！\n\n哈哈，这不是F.O.E嘛！"
+  },
+  {
+    "key": "JUNPEI_FOE_FOLLOW_START__2_0",
+    "original": "Ｆ．Ｏ．Ｅが追ってきてんぞ！？",
+    "translation": "F.O.E正在追过来！？",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E追上来了耶！\n\nF.O.E追上来了！？\n\nF.O.E已经追上来了！？"
+  },
+  {
+    "key": "JUNPEI_FOE_FOLLOW_START__3_0",
+    "original": "まじかよ！\nＦ．Ｏ．Ｅこっち来てんじゃん！",
+    "translation": "真的吗！\nF.O.E过来了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真的假的！\nF.O.E跑过来了！\n\n真的假的！\nF.O.E这边来了嘛！\n\n真的吗！\nF.O.E你不是来了吗！"
+  },
+  {
+    "key": "JUNPEI_FOE_NEAR_1_0",
+    "original": "やべっ、Ｆ．Ｏ．Ｅいるじゃん！",
+    "translation": "糟糕，怎么F.O.E在这里！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n糟糕，F.O.E出现了！\n\n哎呀，不是有F.O.E吗！\n\n糟了，不是有F.O.E吗！"
+  },
+  {
+    "key": "JUNPEI_FOE_NEAR_2_0",
+    "original": "見るなよ～こっち見るなよ～。",
+    "translation": "不要看这边～不要看这边啊～",
+    "stage": 1,
+    "context": "机翻辅助：\n\n别看我～别看我这边～\n\n别看啊～别看这边啊～\n\n不要看～不要看这边～"
+  },
+  {
+    "key": "JUNPEI_FOE_NEAR_3_0",
+    "original": "見つからないように、コッソリな。",
+    "translation": "悄悄地，不被发现。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要偷偷地，不要被发现。\n\n为了不被发现，蝎子。\n\n不要被发现，偷偷摸摸的。"
+  },
+  {
+    "key": "JUNPEI_FOE_FOLLOW_END_1_0",
+    "original": "よっしゃ、なんとか撒いたみてーだな。",
+    "translation": "好的，看起来我成功地散播了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好、好像勉强甩掉了。\n\n好吧，总算撒下了。\n\n好了，想办法撒一下吧。"
+  },
+  {
+    "key": "JUNPEI_FOE_FOLLOW_END_2_0",
+    "original": "あんなのと律儀に\nやりあえるかってーの。",
+    "translation": "能和那样的东西和谐相处吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n谁要乖乖\n跟那种东西打啊。\n\n那种事和规矩能对付得了吗。\n\n\n能和那种人规规矩矩地相处吗？"
+  },
+  {
+    "key": "JUNPEI_FOE_FOLLOW_END_3_0",
+    "original": "伊織順平はＦ．Ｏ．Ｅから逃げ切った！",
+    "translation": "伊织顺平成功逃离了F.O.E！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n伊织顺平成功逃离F.O.E！\n\n伊织顺平从F.O.E逃开了！\n\n伊织顺平从F.O.E逃脱了！"
+  },
+  {
+    "key": "JUNPEI_KANSI_REACTION_1_0",
+    "original": "しーっ！　慎重にな。",
+    "translation": "嘘！小心谨慎一点！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嘘！小心点。\n\n嘘！要慎重。\n\n喂！要慎重。"
+  },
+  {
+    "key": "JUNPEI_KANSI_REACTION_2_0",
+    "original": "ニンジャ伊織順平、参る！",
+    "translation": "忍者伊织顺平，参上！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n忍者伊织顺平，要上了！\n\n忍者伊织顺平，来吧！\n\n忍者伊织顺平，我来了！"
+  },
+  {
+    "key": "JUNPEI_KANSI_REACTION_3_0",
+    "original": "うへ、なんかキンチョーするな…",
+    "translation": "哎呀，感觉有点紧张呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔呃，总觉得好紧张……\n\n嗯，不要生气……\n\n唔，怎么这么紧张啊……"
+  },
+  {
+    "key": "JUNPEI_DENKISAKU_REACTIO_0",
+    "original": "さすがに通れなさそうだなー…",
+    "translation": "真的过不去呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这实在过不去吧……\n\n真不愧是过不去啊……\n\n到底是无法通过啊……"
+  },
+  {
+    "key": "JUNPEI_DENKISAKU_REACTIO_2_0",
+    "original": "電流止めるスイッチ、\nどっかにあるかも？",
+    "translation": "电流断开的开关，\n可能在这附近？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n停止电流的开关\n会不会在某处？\n\n电流停止开关，\n可能在哪里？\n\n切断电流的开关，\n可能在哪里？"
+  },
+  {
+    "key": "JUNPEI_DENKISAKU_REACTIO_3_0",
+    "original": "新手の健康療法？　お先にどーぞ！",
+    "translation": "新手的健康疗法？请您先吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这是新的健康疗法？请先用！\n\n新的健康疗法？我先走了！"
+  },
+  {
+    "key": "JUNPEI_KYOUHU_REACTION_1_0",
+    "original": "飛びます飛びまーす。",
+    "translation": "要飞啦要飞——啦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我要跳了我要跳了。\n\n跳起来，跳起来。\n\n飞啊飞啊。"
+  },
+  {
+    "key": "JUNPEI_KYOUHU_REACTION_2_0",
+    "original": "うぉい！？",
+    "translation": "喂！？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n喂！\n\n哇！？"
+  },
+  {
+    "key": "JUNPEI_KYOUHU_REACTION_3_0",
+    "original": "うそぉ～ん！？",
+    "translation": "哎呀！？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不会吧～！\n\n骗人的！？\n\n骗人！？"
+  },
+  {
+    "key": "JUNPEI_STAIR_FIND_1_0",
+    "original": "お、あそこにあるの階段じゃね？",
+    "translation": "哦，那里有楼梯吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦，那边有楼梯耶。\n\n哦，是在那边的楼梯吧？\n\n哦，就是那边的楼梯吧？"
+  },
+  {
+    "key": "JUNPEI_STAIR_FIND_2_0",
+    "original": "次のエリア行けそうだな。どーすんの？",
+    "translation": "好像可以去下一个区域。怎么办？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像可以去下一个区域。要怎么办？\n\n好像可以去下一个区域。怎么办？\n\n好像可以去下一个区域啊。怎么办？"
+  },
+  {
+    "key": "JUNPEI_STAIR_FIND_3_0",
+    "original": "前方に見えますのは、\n階段でございまぁす♪",
+    "translation": "前方看到的是，楼梯♪",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前方可以看见\n楼梯♪\n\n前面看到的是\n楼梯♪\n\n前面看到的是\n楼梯嘛"
+  },
+  {
+    "key": "JUNPEI_TREASURE_FIND_1_0",
+    "original": "宝箱発見～！",
+    "translation": "发现宝箱～！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n发现宝箱～！"
+  },
+  {
+    "key": "JUNPEI_TREASURE_FIND_2_0",
+    "original": "ん？　あれ、宝箱じゃね？",
+    "translation": "嗯？　那个是宝箱嘛？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯？奇怪，这不是宝箱吗？\n\n嗯？咦，不是宝箱吗？\n\n？那是宝箱吧？"
+  },
+  {
+    "key": "JUNPEI_TREASURE_FIND_3_0",
+    "original": "オタカラー、だっけ？",
+    "translation": "是宝箱吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是宝物吗？\n\n宝贝，是吗？"
+  },
+  {
+    "key": "JUNPEI_CHECK_WALL_1_0",
+    "original": "な～んかあの辺り匂うよな～。",
+    "translation": "那边有点味道呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那附近好像有东西～\n\n那一带有味道呢～\n\n嗯，那附近有味道啊。"
+  },
+  {
+    "key": "JUNPEI_CHECK_WALL_2_0",
+    "original": "オイ、ちょっと調べてみよーぜ。",
+    "translation": "嘿，仔细调查一下吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n喂，稍微调查一下吧。\n\n喂，你去查一下。"
+  },
+  {
+    "key": "JUNPEI_CHECK_WALL_3_0",
+    "original": "あそこ、何かない？　あるよな？",
+    "translation": "那里有什么东西吗？一定有吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那边有没有东西？有吧？\n\n那里有什么吗？有吧？"
+  },
+  {
+    "key": "JUNPEI_SWITCH_FIND_1_0",
+    "original": "テッテテーン！　スイッチ発見！",
+    "translation": "噔噔！发现开关！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n叮叮当当！发现开关！\n\n太棒了！发现开关！\n\n铁啊铁啊！发现开关！"
+  },
+  {
+    "key": "JUNPEI_SWITCH_FIND_2_0",
+    "original": "スイッチ、はっけ～ん！",
+    "translation": "开关，打开！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现开关～！\n\n开关，打开！\n\n开关，八开～！"
+  },
+  {
+    "key": "JUNPEI_SWITCH_FIND_3_0",
+    "original": "お、スイッチ発見！",
+    "translation": "哦，发现了开关！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦，发现开关！\n\n啊，发现开关了！"
+  },
+  {
+    "key": "JUNPEI_SHORTCUT_FIND_1_0",
+    "original": "おっ、通れそうなトコ、はっけ～ん！",
+    "translation": "哦，找到了可以通过的地方，太好了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦，发现好像可以走的路！\n\n哦，好像能通过的小豆豆，开～！\n\n啊，能通过的地方，哈克～～！"
+  },
+  {
+    "key": "JUNPEI_SHORTCUT_FIND_2_0",
+    "original": "なあ、あそこ近道できそうだぜ。",
+    "translation": "呐，那里看起来有捷径。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n欸，那边好像可以抄捷径。\n\n喂，那边好像可以抄近路。\n\n喂，那里好像可以抄近道。"
+  },
+  {
+    "key": "JUNPEI_SHORTCUT_FIND_3_0",
+    "original": "おい、そこ通れそうだぜ！",
+    "translation": "嘿，那边看起来可以通过！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n喂，那边好像可以走耶！\n\n喂，好像可以通过那里！\n\n喂，那里好像可以通过！"
+  },
+  {
+    "key": "JUNPEI_FOE_WARNING_NEAR__0",
+    "original": "げっ、\nあのＦ．Ｏ．Ｅまだ追ってきてる！",
+    "translation": "可恶，\n那个F.O.E还在追着我们！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呃，\n那个F.O.E还在追！\n\n啊，\n那个F.O.E还在追！\n\n那个F.O.E还在追来！"
+  },
+  {
+    "key": "JUNPEI_FOE_WARNING_NEAR__2_0",
+    "original": "まだ来んのかよ！？\nしつこいヤローはもてねーぞ！",
+    "translation": "还在不断追来嘛！？\n烦人的家伙是不会受欢迎的！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n又来了哦！\n缠人的家伙没人爱哦！\n\n还没来吗！？\n纠缠不休的雅罗不受欢迎！\n\n怎么还不来啊！？纠缠不休的家伙是不受欢迎的！"
+  },
+  {
+    "key": "JUNPEI_FOE_WARNING_NEAR__3_0",
+    "original": "Ｆ．Ｏ．Ｅが仲間になりたそうに…\nって、こっち見んな！",
+    "translation": "F.O.E好像想要成为伙伴的样子……\n诶，别看这边呀！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E好像想加入我的队伍……\n喂，不要看我这边！\n\n好像F.O.E成为伙伴了……，\n别看这边！\n\nF.O.E好像成为了伙伴……\n不要往这边看！"
+  },
+  {
+    "key": "JUNPEI_1PERSON_HPTP10_1_0",
+    "original": "もー無理…",
+    "translation": "太难了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不行了……\n\n也不行……\n\n不可能……"
+  },
+  {
+    "key": "JUNPEI_1PERSON_HPTP10_2_0",
+    "original": "体力も気力もない。\n順平は大ピンチである！",
+    "translation": "体力和精力都没有了。\n顺平陷入了大危机！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我既没体力也没气力了。\n顺平陷入大危机！\n\n没有体力和精力。\n顺平是个大危机！\n\n体力和精力都没有。顺平面临大危机！"
+  },
+  {
+    "key": "JUNPEI_1PERSON_HPTP10_3_0",
+    "original": "わりー、もう動けない。\n助けてくれー。",
+    "translation": "对不起，我已经动不了了。\n快来帮帮我。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n抱歉，我已经动不了了。\n救救我吧～\n\n哇，已经动不了了。\n请帮帮我。\n\n哇，已经动不了了。救救我——"
+  },
+  {
+    "key": "JUNPEI_1PERSON_HP10_1_0",
+    "original": "体力やべー…",
+    "translation": "体力太差了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n体力快见底了……\n\n体力啊……"
+  },
+  {
+    "key": "JUNPEI_1PERSON_HP10_2_0",
+    "original": "一生のお願い！　回復して！",
+    "translation": "一生的请求！快给我治疗！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这是我这辈子最大的请求！快帮我回复！\n\n一生的愿望！恢复吧！\n\n一生的请求！回复我！"
+  },
+  {
+    "key": "JUNPEI_1PERSON_HP10_3_0",
+    "original": "体力赤ゲージって感じ…\n回復してくれー。",
+    "translation": "体力快要到极限的感觉……快给我恢复。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n感觉体力已经见底了……\n快帮我回复～\n\n体力红量规的感觉……\n恢复了。\n\n体力赤规的感觉……帮我恢复——"
+  },
+  {
+    "key": "JUNPEI_1PERSON_TP10_1_0",
+    "original": "うおー…気力やべーかも。",
+    "translation": "哇哦……可能是精力不足。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呜哦……气力好像也快见底了。\n\n嗯……也许很有力气。\n\n呜呜……精力和精力。"
+  },
+  {
+    "key": "JUNPEI_1PERSON_TP10_2_0",
+    "original": "やっべ、気力もたなくなってきたわ…",
+    "translation": "哎呀，我也开始感到精力不足了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n糟糕，气力也快用完了……\n\n终于没有力气了……\n\n哎呀，我已经没有力气了……"
+  },
+  {
+    "key": "JUNPEI_1PERSON_TP10_3_0",
+    "original": "わり、ガス欠だわ…\nつっかれた…",
+    "translation": "对不起，已经没有动力了…… \n累坏了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n抱歉，我快没油了……\n累死了……\n\n唉，煤气没了……\n被戳了……\n\n但是，煤气不足……\n被吐槽了……"
+  },
+  {
+    "key": "JUNPEI_1PERSON_HP80_1_0",
+    "original": "うーん。　楽勝って感じ？",
+    "translation": "嗯。轻松搞定的感觉？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯～感觉好像很轻松？\n\n嗯。轻松取胜的感觉？\n\n嗯。感觉轻松？"
+  },
+  {
+    "key": "JUNPEI_1PERSON_HP80_2_0",
+    "original": "ヒーローは必ず勝ーつ！",
+    "translation": "英雄必定会获胜！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n英雄一定会胜利！\n\n英雄一定要赢！\n\n英雄必胜！"
+  },
+  {
+    "key": "JUNPEI_1PERSON_HP80_3_0",
+    "original": "さっすがオレ！\nやったぜオレ！",
+    "translation": "了不起的我！\n我成功了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真不愧是我！\n我办到了！\n\n我就是我！\n我做到了！\n\n萨斯是我！\n我做到了！"
+  },
+  {
+    "key": "JUNPEI_DUNGEON_START_1_0",
+    "original": "いっちょやりますかー。",
+    "translation": "要再打一轮嘛？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n来大干一场吧～\n\n做一点吗。\n\n要做一做吗？"
+  },
+  {
+    "key": "JUNPEI_DUNGEON_START_2_0",
+    "original": "よーし、行くか。",
+    "translation": "好的，走吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好，上吧。\n\n好，去吗。\n\n好，走吧。"
+  },
+  {
+    "key": "JUNPEI_DUNGEON_START_3_0",
+    "original": "行くぜ、オレっち！",
+    "translation": "走吧，我们！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我要上了，小子！\n\n去吧，我！\n\n走吧，我！"
+  },
+  {
+    "key": "JUNPEI_QUEST_START_1_0",
+    "original": "パパッと片付けちまおうぜ。",
+    "translation": "赶快收拾一下吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n赶快把事情解决掉吧。\n\n好好收拾一下吧。\n\n赶紧收拾干净吧。"
+  },
+  {
+    "key": "JUNPEI_QUEST_START_2_0",
+    "original": "ヒーローに任せなさい！",
+    "translation": "把事情都交给英雄吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n交给英雄吧！"
+  },
+  {
+    "key": "JUNPEI_QUEST_START_3_0",
+    "original": "オレっちにかかれば楽勝だぜ！",
+    "translation": "如果是我来的话，肯定轻松搞定！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n只要我出马，一定轻松获胜！\n\n对我来说是轻松的胜利！\n\n对我来说轻而易举！"
+  },
+  {
+    "key": "JUNPEI_TOUHA_25_1_0",
+    "original": "まだ先は長いなー。\n体力には気をつけろよ？",
+    "translation": "还有很长的路要走呢。\n要注意保持体力哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前面的路还很长呢～\n要小心体力哦。\n\n路还很长啊。\n要注意体力啊？\n\n还有很长的路呢。\n要注意体力哦？"
+  },
+  {
+    "key": "JUNPEI_TOUHA_25_2_0",
+    "original": "うっへ、まだこんなあんのか…",
+    "translation": "哇，还有这种事情吗……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呜嘿，还有这么多啊……\n\n嗯，还这样吗……\n\n哦，原来还是这个样子啊……"
+  },
+  {
+    "key": "JUNPEI_TOUHA_50_1_0",
+    "original": "ちょうど半分って感じ？",
+    "translation": "刚好一半的感觉吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n感觉正好走到一半？\n\n正好是半分的感觉？\n\n正好是一半的感觉？"
+  },
+  {
+    "key": "JUNPEI_TOUHA_50_2_0",
+    "original": "お、いい感じに埋まってきてるじゃん！",
+    "translation": "哇，感觉很不错啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦，填得差不多了嘛！\n\n啊，感觉很好啊！"
+  },
+  {
+    "key": "JUNPEI_TOUHA_75_1_0",
+    "original": "お、けっこー埋まってきたじゃん！",
+    "translation": "哦，挺快就填满了嘛！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦，填得满多的嘛！\n\n喂，这不是被埋了吗！\n\n啊，已经满了！"
+  },
+  {
+    "key": "JUNPEI_TOUHA_75_2_0",
+    "original": "残りの場所、\n全部安地でありますよーにっ！",
+    "translation": "希望所有剩下的地方都是安全的！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n希望剩下的地方\n全都是安全地带！\n\n剩下的地方，\n全部都是安地哟！\n\n剩下的地方，全部都是廉价地！"
+  },
+  {
+    "key": "JUNPEI_TOUHA_100_1_0",
+    "original": "ジャジャーン！　地図が完成した！\nお疲れ！",
+    "translation": "锵锵！地图完成啦！辛苦啦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n锵锵～！地图完成了！\n辛苦啦！\n\n贾杰恩！地图完成了！\n辛苦了！\n\n唧唧！地图完成了！\n辛苦了！"
+  },
+  {
+    "key": "JUNPEI_TOUHA_100_2_0",
+    "original": "マッピング、お疲れさん！",
+    "translation": "地图制作辛苦了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n辛苦你画地图了！\n\n映射，辛苦了！\n\n绘图，辛苦了！"
+  },
+  {
+    "key": "JUNPEI_MAPPING_ICON_ALL__0",
+    "original": "お、正解！",
+    "translation": "哦，答对了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦，答对了！\n\n哦，正确答案！"
+  },
+  {
+    "key": "JUNPEI_MAPPING_ICON_ALL__2_0",
+    "original": "記憶力いいねぇ～感心、感心。",
+    "translation": "记忆力不错呢～真令人钦佩，真令人钦佩。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你的记忆力真好耶～佩服佩服。\n\n记忆力真好啊～佩服，佩服。\n\n记忆力真好～佩服，佩服。"
+  },
+  {
+    "key": "JUNPEI_MAPPING_ICON_KAID_0",
+    "original": "そうそう、そんな感じ！",
+    "translation": "是的，就是那种感觉！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n对对对，就是那种感觉！\n\n对了对了，就是这种感觉！"
+  },
+  {
+    "key": "JUNPEI_MAPPING_ICON_KAID_2_0",
+    "original": "ぴんぽーん！　当ったりー。",
+    "translation": "呯啵！中大奖啦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n叮咚～！猜对了～\n\n活该！猜中了。\n\n叮咚！中了。"
+  },
+  {
+    "key": "JUNPEI_MAPPING_CHANGE_CO_0",
+    "original": "気分変わっていいじゃん。",
+    "translation": "可以稍微改变一下心情呀。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n心情转换一下也不错嘛。\n\n换个心情不是很好吗？\n\n你可以改变心情。"
+  },
+  {
+    "key": "JUNPEI_MAPPING_CHANGE_CO_2_0",
+    "original": "お前、けっこーマメなんだな。",
+    "translation": "你真是个细心的人。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你这家伙，做事还挺认真的嘛。\n\n你真是个豆啊。\n\n你真是个豆子啊。"
+  },
+  {
+    "key": "JUNPEI_MAPPING_ICON_DEL__0",
+    "original": "潔く捨てるその姿…惚れちまうぜ。",
+    "translation": "清纯地扔掉东西的样子……真让人心动。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你干脆地舍弃道具的模样……让我迷上你了。\n\n果断舍弃的姿态……会迷上你的。\n\n干脆扔掉的样子……会爱上你的。"
+  },
+  {
+    "key": "JUNPEI_MAPPING_ICON_DEL__2_0",
+    "original": "それを捨てるなんてとんでもない！\nな～んてな。",
+    "translation": "扔掉它简直太过分了！\n嘿～才不会呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n居然把这东西给扔了，真是岂有此理！\n开玩笑的啦。\n\n把它扔了，太荒唐了！\n什么。\n\n怎么可能把它扔掉！什么嘛。"
+  },
+  {
+    "key": "JUNPEI_MAPPING_MEMO_1_0",
+    "original": "オレっちのサインも…え？　いらない？",
+    "translation": "我们的签名也……诶？不需要嘛？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n居然也不要我的签名……？！\n\n我的签名也……诶？不需要吗？\n\n我的签名也……呃？不需要？"
+  },
+  {
+    "key": "JUNPEI_MAPPING_MEMO_2_0",
+    "original": "はー、便利だねぇ～。",
+    "translation": "哇，真方便呢～",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哈，真方便啊～\n\n啊，真方便啊～\n\n好方便啊～"
+  },
+  {
+    "key": "JUNPEI_DOOR_OPEN_1_0",
+    "original": "おっさきー。",
+    "translation": "早安。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n出发吧～\n\n哎呀。\n\n小萨奇。"
+  },
+  {
+    "key": "JUNPEI_DOOR_OPEN_2_0",
+    "original": "行くぜー！",
+    "translation": "走吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n走喽～！\n\n去吧！\n\n走啦～！"
+  },
+  {
+    "key": "JUNPEI_DOOR_OPEN_3_0",
+    "original": "よっしゃ、行こうぜ！",
+    "translation": "好的，走吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好，我们走！\n\n好了，走吧！"
+  }
+]

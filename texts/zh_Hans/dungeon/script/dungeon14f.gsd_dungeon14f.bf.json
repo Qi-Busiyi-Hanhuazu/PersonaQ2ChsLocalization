@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_NOT_DENKISAKU_REPAIR_0",
+    "original": "＞電気柵を突破するまで\n　進行ロックするイベント",
+    "translation": "＞直到突破电栅栏为止\n　的进程封锁事件。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞直到突破电栅栏\n　的进行封锁事件。\n\n＞直到突破电栅栏\n　进行锁定的活动\n\n＞在突破电栅栏之前\n　进行锁定的事件"
+  },
+  {
+    "key": "MSG_14F_SWITCH_ON_0",
+    "original": "＞手前スイッチの強制起動イベント",
+    "translation": "＞强制启动前方开关的事件。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞强制启动前方开关的事件。\n\n＞前面开关的强制起动事件\n\n＞前置交换机的强制启动事件"
+  },
+  {
+    "key": "MSG_TREE_FIRST_0",
+    "original": "＞倒れた木を見て、\n　道を塞がれた事を確認する",
+    "translation": "＞看见倒下的树\n　确认道路被堵住。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞看见倒下的树\n　确认道路被堵住。\n\n＞看着倒下的树，确认道路被堵住了\n　\n\n＞看到倒下的树，确认路被堵了。"
+  },
+  {
+    "key": "MSG_TREE_BACK_0",
+    "original": "＞倒れた木を見て\n　裏に回ってきたことを確認するイベント",
+    "translation": "＞看见倒下的树\n　确认绕到后方的事件。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞看见倒下的树\n　确认绕到后方的事件。\n\n＞看着倒下的树\n　确认绕到后面的活动\n\n＞看到倒下的树，确认树转到后面的活动"
+  },
+  {
+    "key": "MSG_TREE_DEL_0",
+    "original": "＞倒れた木を除去するイベント",
+    "translation": "＞移除倒下的树的事件。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞移除倒下的树的事件。\n\n＞移除倒下的树的事件\n\n＞除去倒下的树的活动"
+  },
+  {
+    "key": "MSG_fishing_lock_0",
+    "original": "＞釣りするまでロックするイベント",
+    "translation": "＞直到钓鱼的进程封锁事件。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞直到钓鱼的进行封锁事件。\n\n＞在钓鱼之前锁定的活动\n\n＞锁定到钓鱼为止的活动"
+  },
+  {
+    "key": "MSG_SWITCH_LOCK_1_0",
+    "original": "スイッチが反応しないようだ…",
+    "translation": "开关似乎没有反应……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n开关似乎没有反应……\n\n开关好像没有反应……"
+  },
+  {
+    "key": "MSG_SWITCH_LOCK_1_2_0",
+    "original": "まだＦ．Ｏ．Ｅが入っていない。",
+    "translation": "F.O.E还没出现。",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E还没出现。\n\nF.O.E还没有加入。\n\n还没有F.O.E。"
+  },
+  {
+    "key": "MSG_SWITCH_LOCK_2_0",
+    "original": "もう操作する必要はないだろう。",
+    "translation": "应该不需要再操作了吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n应该不需要再操作了吧。\n\n已经没有必要操作了吧。\n\n你不用再操作了吧。"
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "好像有什么埋在里面……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像有什么埋在里面……\n\n好像埋了什么……\n\n好像埋着什么……"
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "好像有什么埋在里面，\n但背包已经装满了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像有什么埋在里面，\n背包里已经装满了……\n\n好像有什么东西被填满了，\n包里满满的……\n\n好像有什么东西被埋了……"
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理一下再来吧……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n整理一下再来吧……\n\n整理之后再来吧……"
+  },
+  {
+    "key": "MSG_SHORTCUT_NAOTO_0",
+    "original": "ショートカットです。 \n開けておきますか？ ",
+    "translation": "是捷径呢。\n要先打开吗？",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n这是捷径呢。\n要打开吗？ \n\n快捷键。\n要打开吗？ \n\n快捷方式。\n要打开吗？"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る ",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过 \n\n通过 \n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない ",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过 \n\n不通 \n\n不通过"
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白钟 直斗",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

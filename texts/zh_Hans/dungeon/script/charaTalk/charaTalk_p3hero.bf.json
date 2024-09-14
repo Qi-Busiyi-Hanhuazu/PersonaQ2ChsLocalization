@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "ここ、何かありそうだね。\n採取してみる？",
+    "translation": "这边好像有什么东西呢。\n要采集一下吗？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n这里好像有什么呢。\n要采集看看吗？\n\n这里好像有什么事。\n试着采集？\n\n这里好像有什么事。\n要不要采集一下？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そうだね。\n気を抜かずに探そう。",
+    "translation": "是呢。\n保持警惕找找吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n也是呢。\n小心地找找看吧。\n\n是啊。\n不要松懈，寻找吧。\n\n是啊。不要放松警惕，去寻找吧。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うん。\nしっかり探してみよう。",
+    "translation": "嗯。\n专心找找看吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n嗯。\n好好地找找看吧。\n\n嗯。\n好好找找看吧。\n\n嗯。好好找找看。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "気が向いたらまた調べよう。",
+    "translation": "改变主意了的话再来调查一下吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n等我有兴趣了再来调查吧。\n\n兴致来了再查吧。\n\n等你回心转意再查吧。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで終わりみたいだ。",
+    "translation": "看来只有这些了。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n这样好像就结束了呢。\n\n好像到此结束了。\n\n这似乎就结束了。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ふう～…",
+    "translation": "呼～……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呼……\n\n风～……\n\n唔～……"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いいね。",
+    "translation": "不错呀。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不错呢。\n\n好啊。\n\n真不错。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん！",
+    "translation": "嗯！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ふぅ…\nここでの採取はもう終わりかな。",
+    "translation": "呼……\n在这里的采集应该已经结束了吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n呼……\n这里的采集已经结束了吧。\n\n嗯……这里的采集已经结束了吧。\n\n\n呼……这里的采集已经结束了吧。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "凄いね！",
+    "translation": "真棒呀！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好厉害！\n\n好厉害啊！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "珍しいな。",
+    "translation": "很稀有呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真稀奇呢。\n\n真少见啊。"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "おめでとう！",
+    "translation": "恭喜！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n恭喜！\n\n恭喜恭喜！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "近道になりそうだね。\n通ってみる？",
+    "translation": "似乎是捷径呢，\n要通过看看吗？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n好像能成为捷径呢。\n要过去看看吗？\n\n好像是近路啊。\n去看看？\n\n好像是一条近路。\n去看看？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないみたいだね…",
+    "translation": "这边好像过不去呢……",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n这边好像不能通过呢……\n\n这边好像不能通过啊……"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "すごく危険な気配がするね…\nどうする？",
+    "translation": "有非常危险的气息呢……\n怎么办？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n有非常危险的气息呢……\n要怎么做？\n\n感觉很危险呢……\n怎么办？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かった。\n気をつけて調べよう。",
+    "translation": "明白了。\n小心地调查吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n知道了。\n小心地调查吧。\n\n我知道了。\n小心调查。\n\n我知道了。小心地调查吧。"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだね。\n止めておこうか。",
+    "translation": "是呢。\n还是先不要过去吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n是呢。\n就先别过去吧。\n\n是啊。\n停止吧。\n\n是啊。要不要阻止他？"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "かなりの強敵だったね…",
+    "translation": "相当强大的对手呢……",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n是相当厉害的强敌呢……\n\n是相当的强敌呢……"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "この辺、なんだか\nシャドウの気配が多いような…？",
+    "translation": "这附近，\n似乎有很多暗影的气息呢……？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n这附近，\n暗影的气息好像特别多耶。\n\n这附近，总觉得有很多暗影的气息……？\n\n\n这一带，总觉得暗影的气息比较多……？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "分かった。\n気をつけて調べよう。",
+    "translation": "明白了。\n小心地调查吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n知道了。\n小心地调查吧。\n\n我知道了。\n小心调查。\n\n我知道了。小心地调查吧。"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだね。\n止めておこう。",
+    "translation": "是呢。\n还是先不要过去吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n是啊。\n还是别采了吧。\n\n是啊。\n停止吧。\n\n是啊。还是算了吧。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "これで終わりかな？",
+    "translation": "似乎结束了吧？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n这样就结束了吧？\n\n就这样结束了吗？\n\n这就结束了吗？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから戻れるみたいだね。\nどうする？",
+    "translation": "看起来可以从这里返回呢。\n要怎么做？",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n好像可以从这里回去呢。\n怎么办？\n\n好像可以从这里回来呢。\n怎么办？\n\n好像可以从这里回来。\n怎么办？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

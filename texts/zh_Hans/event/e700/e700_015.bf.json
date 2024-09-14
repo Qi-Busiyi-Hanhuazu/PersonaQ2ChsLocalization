@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ジョーカー！　そっちは危険だ。\n今は、逃げることだけを考えよう。",
+    "translation": "JOKER！那边很危险。\n现在先不要考虑撤离以外的事情了。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\nJOKER！那边很危险。\n现在先专心逃跑吧。\n\nJOKER！ 那边很危险。\n现在只考虑逃跑。\n\nJOKER ！那里很危险。现在只想着逃跑吧。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、ここは退いた方が得策だな。",
+    "translation": "是啊，先行撤退才是明智之举。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n嗯，现在还是撤退为上。\n\n啊，还是退后为上策。\n\n啊，这里退后才是上策啊。"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

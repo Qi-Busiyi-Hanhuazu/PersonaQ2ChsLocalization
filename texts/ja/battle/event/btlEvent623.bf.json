@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "削除対象と認定。戦闘準備。\n『個』を持つエラーを破壊します。",
+    "translation": "削除対象と認定。戦闘準備。\n『個』を持つエラーを破壊します。",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "自分は、他の誰でもない。\n似てる事はあっても、全く同じ人はいない。",
+    "translation": "自分は、他の誰でもない。\n似てる事はあっても、全く同じ人はいない。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "その通りだ。生きている以上、\n『個』は生まれるものだからな。",
+    "translation": "その通りだ。生きている以上、\n『個』は生まれるものだからな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "私は、私を否定しない。\n人と違うことを、決して恐れない！",
+    "translation": "私は、私を否定しない。\n人と違うことを、決して恐れない！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "デリート開始…！",
+    "translation": "デリート開始…！",
+    "stage": 1,
+    "context": "マザーコンピュータ"
+  },
+  {
+    "key": "speaker_マザーコンピュータ",
+    "original": "マザーコンピュータ",
+    "translation": "マザーコンピュータ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

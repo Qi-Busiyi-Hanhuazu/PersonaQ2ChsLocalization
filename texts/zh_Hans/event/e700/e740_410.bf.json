@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ワンッ！　ワンワンッ！",
+    "translation": "汪！汪汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！汪汪！\n\n哇！汪汪！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "どうしたんだよ、コロマル…",
+    "translation": "怎么了吗，虎狼丸……",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n虎狼丸，你怎么了……\n\n怎么了，虎狼丸……"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "って、おお！？",
+    "translation": "等等，噢噢！？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n咦，哦哦！\n\n啊、啊！？\n\n哦、哦！？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あんなとこにＦ．Ｏ．Ｅが…",
+    "translation": "在那种地方，竟然有F.O.E……",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\nF.O.E竟然在那种地方……\n\n在那样的地方F.O.E……"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "コロちゃん、よく気付いたね！\n偉いぞー？　よーしよしよし！",
+    "translation": "小可，真亏你能发现啊！\n很了不起哦～？好乖——好乖好乖！",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n小可，真亏你能发现！\n了不起哦～？好乖好乖好乖！\n\n小罗，你注意到了！\n了不起啊？好了好了好了！\n\n可罗，你注意得真周到啊！\n了不起啊～～？好了好了好了！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ワンッ！",
+    "translation": "汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！\n\n哇！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あれ？　Ｆ．Ｏ．Ｅがあそこに\n乗っているということは、もしかして…",
+    "translation": "咦？既然F.O.E出现在了那里，\n难道说……",
+    "stage": 1,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n咦？F.O.E坐在那里，\n难道说……\n\n咦？F.O.E坐在那里，难道……\n\n\n咦？F.O.E坐在那里，莫非是……"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ぷぷぷ！　[颜色 03]このままスイッチを押したら、\nサヨ～ナラ～[颜色 01]クマね！",
+    "translation": "错啦！[颜色 03]如果就这样直接按下开关的话，\n就再～见～了[颜色 01]熊熊哦！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n噗噗噗！[颜色 03]只要直接按下开关，\n再见～了～[颜色 01]小熊～！\n\n噗噗！[颜色 03]就这样按下开关的话，\nSAYO～NARA～[颜色 01]小熊啊！\n\n噗噗！[颜色 03]就这样按下开关的话，\n再见～那～[颜色 01]小熊啊！"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "さっそく、スイッチ探しにれっつらごー！",
+    "translation": "那么就马上来找开关吧，Let's go——！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n那就马上来找开关吧！\n\n马上去寻找开关！\n\n赶快去寻找开关吧！"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "虎狼丸",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "小熊",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

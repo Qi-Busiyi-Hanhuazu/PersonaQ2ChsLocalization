@@ -1,0 +1,135 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "Ｆ．Ｏ．Ｅが追尾状態になったよ！\n戦闘に備えて！",
+    "translation": "Ｆ．Ｏ．Ｅが追尾状態になったよ！\n戦闘に備えて！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "承知した！　いよいよだな！",
+    "translation": "承知した！　いよいよだな！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "順平、巽！　一気に行くぞ！",
+    "translation": "順平、巽！　一気に行くぞ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ハァ、ハァ…ちっと…",
+    "translation": "ハァ、ハァ…ちっと…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "ゼー…ハー…\n待って…もらって…いいです？",
+    "translation": "ゼー…ハー…\n待って…もらって…いいです？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "見える…見えちまってる…",
+    "translation": "見える…見えちまってる…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "とっても、きれいな…お空が…",
+    "translation": "とっても、きれいな…お空が…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "がんばれ",
+    "translation": "がんばれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "だらしないな",
+    "translation": "だらしないな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "伊織…順平…\n人生イチ…頑張って…ますよ～…",
+    "translation": "伊織…順平…\n人生イチ…頑張って…ますよ～…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あはは…焚き付けたの私だし、\nちょっと同情しちゃったりして。",
+    "translation": "あはは…焚き付けたの私だし、\nちょっと同情しちゃったりして。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ああ、スキだらけだぞ。\n敵は目の前だ、気を引き締めろ。",
+    "translation": "ああ、スキだらけだぞ。\n敵は目の前だ、気を引き締めろ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "アンタら、鬼か…",
+    "translation": "アンタら、鬼か…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "さあ行くぞ、二人とも！\nここを乗り越えてこそ、真の強者だ！",
+    "translation": "さあ行くぞ、二人とも！\nここを乗り越えてこそ、真の強者だ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  }
+]

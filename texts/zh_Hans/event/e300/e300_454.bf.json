@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ううん…",
+    "translation": "唔……",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n嗯嗯……\n\n嗯……\n\n不……"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "この扉、ロックされているみたいです。\n通れそうにないですね…",
+    "translation": "这扇门，好像被锁住了。\n看来是无法通行的了……",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n这扇门好像锁住了。\n看来是过不去呢……\n\n这扇门好像被锁了。\n好像不能通过啊……\n\n这扇门好像是锁着的。\n不可能通过啊……"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "でも、他に道なんて…",
+    "translation": "可是，其他的路也……",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n可是，其他路又……\n\n但是，其他的路什么的……\n\n但是，没有其他的路……"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ワンッ！",
+    "translation": "汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！\n\n哇！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "コロマルさんは\nダクトがある、と言っています。",
+    "translation": "那里可以过去，\n虎狼丸先生是这么说的。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n\n虎狼丸先生说，有通风管。\n\n虎狼丸先生说有通风管。\n\n\n虎狼丸说有管道。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "う…やっぱりダクト通るの？",
+    "translation": "呜……果然还是要走通风管吗？",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n呜……果然要走通风管吗？\n\n嗯……果然还是通过管道吗？\n\n吧……还是通过通风管吗？"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "慣れちゃえば、意外と平気よ？",
+    "translation": "习惯之后，其实意外地能接受哦？",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n习惯之后，其实意外地不会怎样哦？\n\n习惯了的话，意外的平静哟。\n\n习惯了的话，意外的没关系吗？"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あはは…\n慣れるのもどうかと思うけどね。",
+    "translation": "啊哈哈……\n我觉得习惯这种事不太好。",
+    "stage": 0,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n啊哈哈……\n我觉得习惯这种事不太好。\n\n哈哈……我想习惯也不太好。\n\n\n哈哈哈……我觉得习惯起来也不太好。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "行くと決まれば、すぐ実行だ。\nダクトに戻るぞ！",
+    "translation": "既然决定了，那就立刻行动。\n我们回通风管吧！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n既然决定要走，那就立刻行动。\n我们回通风管吧！\n\n决定去的话，马上就实行。\n回到Duct！\n\n只要决定去，就马上实行。\n回到通风管！"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 由加莉",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "虎狼丸",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "埃癸斯",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

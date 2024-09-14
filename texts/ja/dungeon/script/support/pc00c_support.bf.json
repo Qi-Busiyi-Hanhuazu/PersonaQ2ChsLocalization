@@ -1,0 +1,527 @@
+[
+  {
+    "key": "SANADA_FOE_FOLLOW_START__0",
+    "original": "Ｆ．Ｏ．Ｅが追ってきてるようだな…",
+    "translation": "Ｆ．Ｏ．Ｅが追ってきてるようだな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_FOE_FOLLOW_START__2_0",
+    "original": "Ｆ．Ｏ．Ｅか…迎えうつか？",
+    "translation": "Ｆ．Ｏ．Ｅか…迎えうつか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_FOE_FOLLOW_START__3_0",
+    "original": "Ｆ．Ｏ．Ｅに狙われているな。",
+    "translation": "Ｆ．Ｏ．Ｅに狙われているな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅが近くにいる…気をつけろ。",
+    "translation": "Ｆ．Ｏ．Ｅが近くにいる…気をつけろ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_FOE_NEAR_2_0",
+    "original": "この気配…Ｆ．Ｏ．Ｅだな。",
+    "translation": "この気配…Ｆ．Ｏ．Ｅだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅのお出ましか！",
+    "translation": "Ｆ．Ｏ．Ｅのお出ましか！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_FOE_FOLLOW_END_1_0",
+    "original": "あいつ、もう追ってこないな。",
+    "translation": "あいつ、もう追ってこないな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_FOE_FOLLOW_END_2_0",
+    "original": "もう諦めたのか…\n根性のないＦ．Ｏ．Ｅだ。",
+    "translation": "もう諦めたのか…\n根性のないＦ．Ｏ．Ｅだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_FOE_FOLLOW_END_3_0",
+    "original": "撒いたようだな…はぁ、つまらん。",
+    "translation": "撒いたようだな…はぁ、つまらん。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_KANSI_REACTION_1_0",
+    "original": "ここは慎重にいこう。",
+    "translation": "ここは慎重にいこう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_KANSI_REACTION_2_0",
+    "original": "見つかっても、戦えばいいんだろ？",
+    "translation": "見つかっても、戦えばいいんだろ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_KANSI_REACTION_3_0",
+    "original": "コソコソするのは柄じゃないな。",
+    "translation": "コソコソするのは柄じゃないな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_DENKISAKU_REACTIO_0",
+    "original": "電気柵か…迂回するしかないな。",
+    "translation": "電気柵か…迂回するしかないな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_DENKISAKU_REACTIO_2_0",
+    "original": "適度な刺激は回復になるというが…\nこれは無理だな。",
+    "translation": "適度な刺激は回復になるというが…\nこれは無理だな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_DENKISAKU_REACTIO_3_0",
+    "original": "くっ、厄介なトラップだな…",
+    "translation": "くっ、厄介なトラップだな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_KYOUHU_REACTION_1_0",
+    "original": "くっ、風か！",
+    "translation": "くっ、風か！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_KYOUHU_REACTION_2_0",
+    "original": "なにっ！？",
+    "translation": "なにっ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_KYOUHU_REACTION_3_0",
+    "original": "うわっ！？",
+    "translation": "うわっ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_STAIR_FIND_1_0",
+    "original": "階段があるな。さっさと降りるぞ。",
+    "translation": "階段があるな。さっさと降りるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_STAIR_FIND_2_0",
+    "original": "この先、\nどんな手強いやつがいるんだろうな。",
+    "translation": "この先、\nどんな手強いやつがいるんだろうな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_STAIR_FIND_3_0",
+    "original": "あそこから次のエリアに行けそうだ。",
+    "translation": "あそこから次のエリアに行けそうだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_TREASURE_FIND_1_0",
+    "original": "おい、宝箱があるぞ。",
+    "translation": "おい、宝箱があるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_TREASURE_FIND_2_0",
+    "original": "宝箱か…開けてみるか？",
+    "translation": "宝箱か…開けてみるか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_TREASURE_FIND_3_0",
+    "original": "中身は何だろうな…プロテインか？",
+    "translation": "中身は何だろうな…プロテインか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_CHECK_WALL_1_0",
+    "original": "怪しいな…調べてみないか？",
+    "translation": "怪しいな…調べてみないか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_CHECK_WALL_2_0",
+    "original": "何かあるぞ…気になるな。",
+    "translation": "何かあるぞ…気になるな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_CHECK_WALL_3_0",
+    "original": "あれは何だ…？　調べてみないか？",
+    "translation": "あれは何だ…？　調べてみないか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_SWITCH_FIND_1_0",
+    "original": "スイッチか…押してみるか？",
+    "translation": "スイッチか…押してみるか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_SWITCH_FIND_2_0",
+    "original": "スイッチがあるぞ。どうする？",
+    "translation": "スイッチがあるぞ。どうする？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_SWITCH_FIND_3_0",
+    "original": "あのスイッチ、押すのか？",
+    "translation": "あのスイッチ、押すのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_SHORTCUT_FIND_1_0",
+    "original": "そこ、通れるんじゃないか？",
+    "translation": "そこ、通れるんじゃないか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_SHORTCUT_FIND_2_0",
+    "original": "近道できそうな場所があるぞ。",
+    "translation": "近道できそうな場所があるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_SHORTCUT_FIND_3_0",
+    "original": "近道ができそうだ、行くぞ。",
+    "translation": "近道ができそうだ、行くぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_FOE_WARNING_NEAR__0",
+    "original": "まだ終わってないようだぞ！",
+    "translation": "まだ終わってないようだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_FOE_WARNING_NEAR__2_0",
+    "original": "さっきのＦ．Ｏ．Ｅ。\nまだ追ってきてるな。",
+    "translation": "さっきのＦ．Ｏ．Ｅ。\nまだ追ってきてるな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_FOE_WARNING_NEAR__3_0",
+    "original": "Ｆ．Ｏ．Ｅか…体は温まっているぞ。",
+    "translation": "Ｆ．Ｏ．Ｅか…体は温まっているぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_1PERSON_HPTP10_1_0",
+    "original": "ゴングの音が聞こえる…幻聴か？",
+    "translation": "ゴングの音が聞こえる…幻聴か？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_1PERSON_HPTP10_2_0",
+    "original": "そろそろギブアップだ…",
+    "translation": "そろそろギブアップだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_1PERSON_HPTP10_3_0",
+    "original": "はぁ、はぁ…ここが俺の限界なのか…？",
+    "translation": "はぁ、はぁ…ここが俺の限界なのか…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_1PERSON_HP10_1_0",
+    "original": "ＫＯ寸前だ…回復を頼む。",
+    "translation": "ＫＯ寸前だ…回復を頼む。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_1PERSON_HP10_2_0",
+    "original": "この俺がスタミナ切れ…？",
+    "translation": "この俺がスタミナ切れ…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_1PERSON_HP10_3_0",
+    "original": "まずいな…回復を頼めるか？",
+    "translation": "まずいな…回復を頼めるか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_1PERSON_TP10_1_0",
+    "original": "クソッ…体が言うことを聞かん…",
+    "translation": "クソッ…体が言うことを聞かん…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_1PERSON_TP10_2_0",
+    "original": "こんな所で…倒れるワケにいくか…！",
+    "translation": "こんな所で…倒れるワケにいくか…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_1PERSON_TP10_3_0",
+    "original": "はぁ、はぁ…この俺が、情けない…",
+    "translation": "はぁ、はぁ…この俺が、情けない…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_1PERSON_HP80_1_0",
+    "original": "ウォーミングアップにもならんな。",
+    "translation": "ウォーミングアップにもならんな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_1PERSON_HP80_2_0",
+    "original": "もっと強いやつと戦いたいな。",
+    "translation": "もっと強いやつと戦いたいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_1PERSON_HP80_3_0",
+    "original": "采配が良かったな！　見事だ。",
+    "translation": "采配が良かったな！　見事だ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_DUNGEON_START_1_0",
+    "original": "よし、行くとしよう。",
+    "translation": "よし、行くとしよう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_DUNGEON_START_2_0",
+    "original": "体が疼いてる…さっさと行くぞ。",
+    "translation": "体が疼いてる…さっさと行くぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_DUNGEON_START_3_0",
+    "original": "早く行くぞ、体がなまりそうだ。",
+    "translation": "早く行くぞ、体がなまりそうだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_QUEST_START_1_0",
+    "original": "目標はどこだ？　さっさと片付けるぞ。",
+    "translation": "目標はどこだ？　さっさと片付けるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_QUEST_START_2_0",
+    "original": "トレーニングにちょうどいいな。",
+    "translation": "トレーニングにちょうどいいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_QUEST_START_3_0",
+    "original": "日頃の成果を試す時が来たようだな。",
+    "translation": "日頃の成果を試す時が来たようだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_TOUHA_25_1_0",
+    "original": "このフロアもずいぶん広いな。",
+    "translation": "このフロアもずいぶん広いな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_TOUHA_25_2_0",
+    "original": "まだ先は長い、体力に注意しろ。",
+    "translation": "まだ先は長い、体力に注意しろ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_TOUHA_50_1_0",
+    "original": "やっと半分といったところか。",
+    "translation": "やっと半分といったところか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_TOUHA_50_2_0",
+    "original": "ちょうど半分か。体力は大丈夫か？",
+    "translation": "ちょうど半分か。体力は大丈夫か？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_TOUHA_75_1_0",
+    "original": "もう少しでこのフロアも制覇できるな。",
+    "translation": "もう少しでこのフロアも制覇できるな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_TOUHA_75_2_0",
+    "original": "疲れたら、プロテインを飲むといいぞ。",
+    "translation": "疲れたら、プロテインを飲むといいぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_TOUHA_100_1_0",
+    "original": "うむ、この調子でどんどん行こう。",
+    "translation": "うむ、この調子でどんどん行こう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_TOUHA_100_2_0",
+    "original": "いいトレーニングになったな！",
+    "translation": "いいトレーニングになったな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_MAPPING_ICON_ALL__0",
+    "original": "ああ、正確な配置だ。",
+    "translation": "ああ、正確な配置だ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_MAPPING_ICON_ALL__2_0",
+    "original": "ずいぶん細かい作業だな…感心する。",
+    "translation": "ずいぶん細かい作業だな…感心する。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_MAPPING_ICON_KAID_0",
+    "original": "確かにその辺りにあったな。",
+    "translation": "確かにその辺りにあったな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_MAPPING_ICON_KAID_2_0",
+    "original": "うむ、記憶と違いないぞ。",
+    "translation": "うむ、記憶と違いないぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_MAPPING_CHANGE_CO_0",
+    "original": "ずいぶんとマメだな、有難い。",
+    "translation": "ずいぶんとマメだな、有難い。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_MAPPING_CHANGE_CO_2_0",
+    "original": "ほう、だいぶ見やすいな。",
+    "translation": "ほう、だいぶ見やすいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_MAPPING_ICON_DEL__0",
+    "original": "お、捨てたのか。",
+    "translation": "お、捨てたのか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_MAPPING_ICON_DEL__2_0",
+    "original": "減量は大事だよな。",
+    "translation": "減量は大事だよな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_MAPPING_MEMO_1_0",
+    "original": "これなら忘れないな。",
+    "translation": "これなら忘れないな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_MAPPING_MEMO_2_0",
+    "original": "練習メニューも貼っておこうか？",
+    "translation": "練習メニューも貼っておこうか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_DOOR_OPEN_1_0",
+    "original": "こっちだな。",
+    "translation": "こっちだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_DOOR_OPEN_2_0",
+    "original": "先に進むぞ。",
+    "translation": "先に進むぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SANADA_DOOR_OPEN_3_0",
+    "original": "ふっ…腕が鳴るな。",
+    "translation": "ふっ…腕が鳴るな。",
+    "stage": 1,
+    "context": ""
+  }
+]

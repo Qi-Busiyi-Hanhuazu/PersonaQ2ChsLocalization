@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ありゃ、行き止まりか。",
+    "translation": "ありゃ、行き止まりか。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "ガンガン進みたいのに、足止め食らうと\nテンション下がんなー…",
+    "translation": "ガンガン進みたいのに、足止め食らうと\nテンション下がんなー…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "急ぎたい気持ちは分かるけど、カリカリ\nしても仕方ないって。ね、ジョーカー？",
+    "translation": "急ぎたい気持ちは分かるけど、カリカリ\nしても仕方ないって。ね、ジョーカー？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "この世界を楽しもう",
+    "translation": "この世界を楽しもう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "さっさと進みたい…",
+    "translation": "さっさと進みたい…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうだね、せっかくなら\n楽しんだ方がいいと思うな。",
+    "translation": "そうだね、せっかくなら\n楽しんだ方がいいと思うな。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_1_0",
+    "original": "だって、恐竜がいた時代を歩けるなんて\nちょっとワクワクしない？",
+    "translation": "だって、恐竜がいた時代を歩けるなんて\nちょっとワクワクしない？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_1_1",
+    "original": "デスティニーランドのアトラクションも、\nこんなにリアルじゃないもの。",
+    "translation": "デスティニーランドのアトラクションも、\nこんなにリアルじゃないもの。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "でも、恐竜がいた時代を歩けるなんて\nちょっとワクワクしない？",
+    "translation": "でも、恐竜がいた時代を歩けるなんて\nちょっとワクワクしない？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "デスティニーランドのアトラクションも、\nこんなにリアルじゃないもの。",
+    "translation": "デスティニーランドのアトラクションも、\nこんなにリアルじゃないもの。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "リアルな恐竜は恐ろしいけど…\n確かに、得がたい体験ではあるわね。",
+    "translation": "リアルな恐竜は恐ろしいけど…\n確かに、得がたい体験ではあるわね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "俺も同感だな。",
+    "translation": "俺も同感だな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "この世界は刺激に満ちあふれている…\n新たな着想が得られそうだ。",
+    "translation": "この世界は刺激に満ちあふれている…\n新たな着想が得られそうだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "なんか、アトラクションって思ったら\nちょっと楽しくなってきたかも！",
+    "translation": "なんか、アトラクションって思ったら\nちょっと楽しくなってきたかも！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "気は持ちよう、ってか。\nうっし、じゃあ前向きに行くとするか！",
+    "translation": "気は持ちよう、ってか。\nうっし、じゃあ前向きに行くとするか！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_CURE_ALL_0",
+    "original": "全員のＨＰとＳＰが少し回復した！",
+    "translation": "全員のＨＰとＳＰが少し回復した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

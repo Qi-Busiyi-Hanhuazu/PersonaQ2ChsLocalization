@@ -1,0 +1,737 @@
+[
+  {
+    "key": "FUTABA_FOE_FOLLOW_START__0",
+    "original": "Ｆ．Ｏ．Ｅが来るぞ！",
+    "translation": "F.O.E要来了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E要来了！"
+  },
+  {
+    "key": "FUTABA_FOE_FOLLOW_START__2_0",
+    "original": "まずい、尾けられてる！",
+    "translation": "不好，被跟踪了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不好，被跟踪了！\n\n糟糕，被跟踪了！\n\n不好吃，被跟踪了！"
+  },
+  {
+    "key": "FUTABA_FOE_FOLLOW_START__3_0",
+    "original": "Ｆ．Ｏ．Ｅに反応！",
+    "translation": "有F.O.E反应了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E有反应了！\n\n对F.O.E有反应！"
+  },
+  {
+    "key": "FUTABA_FOE_NEAR_1_0",
+    "original": "目の前だ！　気をつけろ！",
+    "translation": "就在眼前！务必小心啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n就在眼前！小心啊！\n\n就在眼前！小心点！"
+  },
+  {
+    "key": "FUTABA_FOE_NEAR_2_0",
+    "original": "うおい、余裕かましすぎだろ！",
+    "translation": "喂，你太悠哉了吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，你太悠哉了吧！\n\n喂喂，太从容了吧！\n\n喂，太从容了吧！"
+  },
+  {
+    "key": "FUTABA_FOE_NEAR_3_0",
+    "original": "かなり近いぞ！　注意な！",
+    "translation": "相当近了！请小心！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n已经很近了！小心点！\n\n相当近哦！注意！\n\n相当近哟！小心！"
+  },
+  {
+    "key": "FUTABA_FOE_FOLLOW_END_1_0",
+    "original": "安心しろ、撒いたぞ！",
+    "translation": "放心吧，甩掉它了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放心吧，甩掉它了！\n\n放心吧，撒了！\n\n放心吧，我撒了！"
+  },
+  {
+    "key": "FUTABA_FOE_FOLLOW_END_2_0",
+    "original": "よし、逃げ切ったな。",
+    "translation": "太好了，成功逃脱了呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好，成功甩掉了呢。\n\n好，你逃过了。\n\n好吧，你跑完了。"
+  },
+  {
+    "key": "FUTABA_FOE_FOLLOW_END_3_0",
+    "original": "ふー…良かったな！",
+    "translation": "呼……太好了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呼……太好了！\n\n嗯……太好了！"
+  },
+  {
+    "key": "FUTABA_KANSI_REACTION_1_0",
+    "original": "パターンだ、観察してみろ！",
+    "translation": "这是套路，观察一下吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这是固定模式，观察一下吧！\n\n模式，观察一下吧！\n\n这是套路，你观察一下！"
+  },
+  {
+    "key": "FUTABA_KANSI_REACTION_2_0",
+    "original": "落ち着いて行動しろ、抜けられる！",
+    "translation": "冷静点行动，能甩掉他！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n冷静下来行动，这样就能甩掉它！\n\n冷静地行动吧，能脱身！\n\n冷静点行动，你能拔得头筹！"
+  },
+  {
+    "key": "FUTABA_KANSI_REACTION_3_0",
+    "original": "いいか…そっとだぞ…！",
+    "translation": "听好了……就这样悄悄地……！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n听好了……要悄悄地……！\n\n听好了……悄悄地……！\n\n听好了……小心点……！"
+  },
+  {
+    "key": "FUTABA_DENKISAKU_REACTIO_0",
+    "original": "まずは柵をなんとかするぞ！",
+    "translation": "首先要设法解决栅栏！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n首先要设法解决栅栏！\n\n首先要想办法解决栅栏！\n\n首先要想办法做栅栏！"
+  },
+  {
+    "key": "FUTABA_DENKISAKU_REACTIO_2_0",
+    "original": "絶対触るなよ！　フリじゃないからな！",
+    "translation": "绝对不能碰！这可不是在开玩笑！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n绝对不要碰！这可不是在开玩笑！\n\n绝对不要碰！因为不是假装的！\n\n绝对不要碰！不是装出来的！"
+  },
+  {
+    "key": "FUTABA_DENKISAKU_REACTIO_3_0",
+    "original": "電気を止めれば通れるぞ。",
+    "translation": "只要关掉电源就能通过了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n只要关掉电源就能通过了。\n\n把电关掉就能通了。\n\n你把电关了就可以通过啦。"
+  },
+  {
+    "key": "FUTABA_KYOUHU_REACTION_1_0",
+    "original": "おーい！？",
+    "translation": "喂——！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂——！？\n\n喂！？"
+  },
+  {
+    "key": "FUTABA_KYOUHU_REACTION_2_0",
+    "original": "飛んだ！？",
+    "translation": "飞起来了！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n飞起来了！？\n\n飞了！？"
+  },
+  {
+    "key": "FUTABA_KYOUHU_REACTION_3_0",
+    "original": "大丈夫か！？",
+    "translation": "没事吧！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n没事吧！？"
+  },
+  {
+    "key": "FUTABA_STAIR_FIND_1_0",
+    "original": "見えるか？　道があるぞ。",
+    "translation": "看到了吗？有路了哦。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看到了吗？有路了哦。\n\n看见了吗？有条路。"
+  },
+  {
+    "key": "FUTABA_STAIR_FIND_2_0",
+    "original": "近いぞ、先に続く道だ！",
+    "translation": "很近了，通往下一个区域的路！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n很近了，是通往下一个区域的路！\n\n很近啊，前面的路！\n\n很近，是继续向前的路！"
+  },
+  {
+    "key": "FUTABA_STAIR_FIND_3_0",
+    "original": "次のエリアへの道だ、やったな！",
+    "translation": "是通往下一个区域的路，太好了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是通往下一个区域的路，太好了！\n\n这是通往下一个区域的路，太好了！\n\n是通往下一个区域的路，太棒了！"
+  },
+  {
+    "key": "FUTABA_TREASURE_FIND_1_0",
+    "original": "む、オタカラの反応あり！",
+    "translation": "唔，有宝物的反应！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n唔，有宝物的反应！\n\n嗯，有宝贝的反应！\n\n嗯，有宝物的反应！"
+  },
+  {
+    "key": "FUTABA_TREASURE_FIND_2_0",
+    "original": "見えたか？　オタカラだぞ。",
+    "translation": "看到了吗？是宝物哦。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看到了吗？是宝物哦。\n\n看见了吗？宝贝啊。\n\n看到了吗？是宝贝哦。"
+  },
+  {
+    "key": "FUTABA_TREASURE_FIND_3_0",
+    "original": "発見、オタカラ探訪ー！",
+    "translation": "发现了，是宝物！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现宝物了，宝物探访！\n\n发现，宝物探访！\n\n发现，宝藏探访！"
+  },
+  {
+    "key": "FUTABA_CHECK_WALL_1_0",
+    "original": "そこそこ！　なにかないかー？",
+    "translation": "那边那边！有没有什么啊？！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那边那边！有没有什么啊？！\n\n马马虎虎！有什么事吗？\n\n马马虎虎！有什么吗？"
+  },
+  {
+    "key": "FUTABA_CHECK_WALL_2_0",
+    "original": "調べてみてくれ、反応がある。",
+    "translation": "去调查一下吧，有反应哦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n调查一下，有反应。\n\n你去查一下，有反应。\n\n你帮我查一下，我有反应。"
+  },
+  {
+    "key": "FUTABA_CHECK_WALL_3_0",
+    "original": "アヤしいな、ちょっと見てくれ。",
+    "translation": "有点可疑啊，稍稍看一眼吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有点可疑啊，看一下。\n\n好讨厌啊，看一下。\n\n真奇怪，你看一下。"
+  },
+  {
+    "key": "FUTABA_SWITCH_FIND_1_0",
+    "original": "スイッチか、なるほど。",
+    "translation": "是开关啊，原来如此。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是开关啊，原来如此。\n\n开关，原来如此。\n\n开关啊，原来如此。"
+  },
+  {
+    "key": "FUTABA_SWITCH_FIND_2_0",
+    "original": "おっ！　スイッチがあるみたいだぞ！",
+    "translation": "哦！好像有开关哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦！好像有开关！\n\n哦！好像有开关啊！\n\n噢！好像有开关！"
+  },
+  {
+    "key": "FUTABA_SWITCH_FIND_3_0",
+    "original": "慎重かつ大胆にポチっとな！",
+    "translation": "慎重且大胆地按下去吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n慎重且大胆地按下去！\n\n慎重且大胆地扑通一声！\n\n慎重而大胆地拍吧！"
+  },
+  {
+    "key": "FUTABA_SHORTCUT_FIND_1_0",
+    "original": "おっ、通れそうだぞ！",
+    "translation": "哦，好像能通过了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦，好像能通过了！\n\n哦，好像能通过哦！\n\n啊，好像可以通过了！"
+  },
+  {
+    "key": "FUTABA_SHORTCUT_FIND_2_0",
+    "original": "隠し通路だ、よく見つけたな！",
+    "translation": "是隐藏道路，真亏你能找到！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是隐藏通道，真亏你能找到！\n\n隐藏通道，你找到了！"
+  },
+  {
+    "key": "FUTABA_SHORTCUT_FIND_3_0",
+    "original": "通っても問題はなさそうだ！",
+    "translation": "这里似乎也能平安通过！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n通过这里似乎也没问题！\n\n通过好像也没有问题！\n\n通过也没有问题！"
+  },
+  {
+    "key": "FUTABA_PARTY_DEAD_1_0",
+    "original": "これ以上は無謀だ、引け！",
+    "translation": "再这样下去就太鲁莽了，撤退！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n再往前就太鲁莽了，撤退！\n\n再这样就太鲁莽了，退下！\n\n再这样下去就太鲁莽了，退！"
+  },
+  {
+    "key": "FUTABA_PARTY_DEAD_2_0",
+    "original": "マズイ！　戦略的撤退も考えろ！",
+    "translation": "不好！考虑一下战略性撤退！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不好！考虑一下战略性撤退！\n\n糟了！也要考虑战略撤退！\n\n糟糕！战略撤退也要考虑！"
+  },
+  {
+    "key": "FUTABA_PARTY_DEAD_3_0",
+    "original": "諦めろ、危険すぎるぞ！",
+    "translation": "放弃吧，太危险了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃吧，太危险了！"
+  },
+  {
+    "key": "FUTABA_FOE_WARNING_NEAR__0",
+    "original": "Ｆ．Ｏ．Ｅ健在！　気をつけろ！",
+    "translation": "F.O.E还在！小心点！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E还在！小心点！\n\nF.O.E健在！小心点！"
+  },
+  {
+    "key": "FUTABA_FOE_WARNING_NEAR__2_0",
+    "original": "気を抜くな、まだいるぞ！",
+    "translation": "别松懈，它还在哦！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n别松懈，它还在哦！\n\n别泄气，还有呢！\n\n别松懈，我还在呢！"
+  },
+  {
+    "key": "FUTABA_FOE_WARNING_NEAR__3_0",
+    "original": "みんな、追手がまだいる！",
+    "translation": "大家，追兵还在呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家，还有追兵在！\n\n大家，还有追兵！\n\n大家还有追兵！"
+  },
+  {
+    "key": "FUTABA_PARTY_HPTP10_1_0",
+    "original": "戦力的にかなりマズい状況だぞ…",
+    "translation": "从战力方面讲状况相当不妙啊……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n战力方面相当不妙啊……\n\n战力上相当糟糕的状况……\n\n从战斗力上来说是相当糟糕的状况……"
+  },
+  {
+    "key": "FUTABA_PARTY_HPTP10_2_0",
+    "original": "悪いことはいわん、帰ってこい！",
+    "translation": "我在为你着想，快回来！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我不会说难听的话，快回来！\n\n不说坏事，回来吧！\n\n不要说坏话，回来吧！"
+  },
+  {
+    "key": "FUTABA_PARTY_HPTP10_3_0",
+    "original": "おい、無茶はすんな！",
+    "translation": "喂，别乱来啊！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，别乱来啊！\n\n喂，别乱来！"
+  },
+  {
+    "key": "FUTABA_PARTY_HP10_1_0",
+    "original": "みんな息切れか…ちょっと休め。",
+    "translation": "大家都喘不过气了……稍微休息一下吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大家都喘不过气了……稍微休息一下吧。\n\n大家都喘不过气来吗……稍微休息一下。\n\n大家都气喘吁吁吗……休息一下。"
+  },
+  {
+    "key": "FUTABA_PARTY_HP10_2_0",
+    "original": "回復しろ、無理なら帰還だ！",
+    "translation": "快恢复，不行的话就回来！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n快恢复，不行的话就回来！\n\n恢复吧，不行的话就回去！"
+  },
+  {
+    "key": "FUTABA_PARTY_HP10_3_0",
+    "original": "全滅だけは回避しろ、絶対！",
+    "translation": "绝对要避免全灭！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n绝对要避免全灭！\n\n绝对要避免全军覆没！"
+  },
+  {
+    "key": "FUTABA_1PERSON_HPTP10_1_0",
+    "original": "立て直せるか？",
+    "translation": "能振作起来吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能重整态势吗？\n\n能修好吗？\n\n能振作起来吗？"
+  },
+  {
+    "key": "FUTABA_1PERSON_HPTP10_2_0",
+    "original": "いったん、態勢を整えた方がいいぞ！",
+    "translation": "最好先重整一下态势！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n最好先重整一下态势！\n\n还是先做好准备比较好！\n\n先做好准备吧！"
+  },
+  {
+    "key": "FUTABA_1PERSON_HPTP10_3_0",
+    "original": "回復しないとマズイぞ！",
+    "translation": "不恢复的话会很不妙！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不恢复的话会很不妙！\n\n不恢复的话就糟了！"
+  },
+  {
+    "key": "FUTABA_PARTY_TP10_1_0",
+    "original": "ドンパチやりすぎだ！",
+    "translation": "太过头了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n打过头了！\n\n啪啪啪做得太过分了！\n\n太过分了！"
+  },
+  {
+    "key": "FUTABA_PARTY_TP10_2_0",
+    "original": "気力が低下してる、無茶するな！",
+    "translation": "气力低下了，别胡来！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n气力降低，别乱来！\n\n气力低下了，不要胡闹！\n\n精力下降了，不要乱来！"
+  },
+  {
+    "key": "FUTABA_PARTY_TP10_3_0",
+    "original": "ストーップ！　みんな疲れすぎだ！",
+    "translation": "停下！大家都累坏了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n停！大家太累了！\n\n跟踪！大家都太累了！"
+  },
+  {
+    "key": "FUTABA_1PERSON_HP10_1_0",
+    "original": "体力低下中！　回復できるか？",
+    "translation": "体力降低中！能恢复吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n体力降低中！能恢复吗？\n\n体力低下中！能恢复吗？\n\n体力下降中！能恢复吗？"
+  },
+  {
+    "key": "FUTABA_1PERSON_HP10_2_0",
+    "original": "少し休んでもバチはあたらんぞ！",
+    "translation": "稍微休息一下也不会怎样！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n稍微休息一下也不会怎样！\n\n稍微休息一下也不会有蜜蜂的！\n\n稍微休息一下也不会有报应的！"
+  },
+  {
+    "key": "FUTABA_1PERSON_HP10_3_0",
+    "original": "この状態で戦闘は危険だ！",
+    "translation": "在这种状态下战斗很危险！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n在这种状态下战斗很危险！\n\n在这种状态下战斗是危险的！\n\n这种状态下战斗很危险！"
+  },
+  {
+    "key": "FUTABA_1PERSON_TP10_1_0",
+    "original": "気力切れだ…補給できるか？",
+    "translation": "气力用尽了……能补给吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n气力用尽了……能补给吗？\n\n没力气了……能补给吗？\n\n筋疲力尽……能补给吗？"
+  },
+  {
+    "key": "FUTABA_1PERSON_TP10_2_0",
+    "original": "ちょっと張り切りすぎじゃないか？",
+    "translation": "是不是有点太拼了？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是不是有点太拼了？\n\n是不是有点太紧张了？"
+  },
+  {
+    "key": "FUTABA_1PERSON_TP10_3_0",
+    "original": "休める時に休んでくれよな！",
+    "translation": "能休息的时候就休息吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n能休息的时候就休息吧！\n\n休息的时候休息吧！"
+  },
+  {
+    "key": "FUTABA_ITEM_90_BATTLE_1_0",
+    "original": "そろそろ荷物がパンパンだぞ！",
+    "translation": "背包差不多要满咯！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李差不多要满了！\n\n行李差不多该鼓鼓的了！\n\n我的行李快撑破了！"
+  },
+  {
+    "key": "FUTABA_ITEM_90_BATTLE_2_0",
+    "original": "荷物が多いな、戻ったらどうだ？",
+    "translation": "东西很多啊，要不要先回去？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李很多啊，要不要回去？\n\n行李真多啊，回去怎么样？\n\n行李很多啊，回去怎么样？"
+  },
+  {
+    "key": "FUTABA_ITEM_90_BATTLE_3_0",
+    "original": "荷物、整理した方がよくないか？",
+    "translation": "先把东西整理一下比较好吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n整理一下行李比较好吧？\n\n把行李整理一下不好吗？\n\n整理行李不好吗？"
+  },
+  {
+    "key": "FUTABA_1PERSON_HP80_1_0",
+    "original": "なかなかいい戦果だぞ。",
+    "translation": "战果很不错哦。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n战果很不错哦。\n\n很不错的战果。\n\n战果相当不错。"
+  },
+  {
+    "key": "FUTABA_1PERSON_HP80_2_0",
+    "original": "お疲れさん、この調子だ！",
+    "translation": "辛苦了，就照这幅样子！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n辛苦了，照这样继续下去！\n\n辛苦了，就是这个样子！\n\n辛苦了，这副样子！"
+  },
+  {
+    "key": "FUTABA_1PERSON_HP80_3_0",
+    "original": "調子いいみたいだな！\nこのまま行くぞ！",
+    "translation": "状态好像不错呢！\n就这样继续前进吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n状况好像不错呢！\n就这样继续前进吧！\n\n状态好像很好啊！\n就这样走吧！\n\n好像状态不错啊！\n就这样走吧！"
+  },
+  {
+    "key": "RISE_FUTABA_MAKASETA_1_0",
+    "original": "ナビ、次は任せたっ！",
+    "translation": "NAVI，接下来交给你了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n导航，接下来交给你了！\n\n导航，下次就交给你了！\n\n导航，接下来就交给你了！"
+  },
+  {
+    "key": "RISE_FUTABA_MAKASETA_2_0",
+    "original": "ナビ、出番だよ！　よろしくっ！",
+    "translation": "NAVI，轮到你出场了！拜托喽！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n导航，轮到你出场了！拜托喽！\n\n导航，该出场了！太好了！"
+  },
+  {
+    "key": "RISE_FUTABA_MAKASETA_3_0",
+    "original": "ナビにバトンタッチするね！",
+    "translation": "要交给NAVI咯！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要交给导航了！\n\n给导航接力棒！\n\n把接力棒交给导航吧！"
+  },
+  {
+    "key": "RISE_FUTABA_ANSWER_1_0",
+    "original": "りせ、ありがとな！\nここからはわたしが頑張る！",
+    "translation": "理世，谢谢你！\n接下来我会加油的！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n理世，谢谢你！\n接下来由我加油！\n\n理世，谢谢你！\n从这里开始我会加油的！\n\n理世，谢谢你！\n从这里开始我要加油了！"
+  },
+  {
+    "key": "RISE_FUTABA_ANSWER_2_0",
+    "original": "りせに代わって、\nこっからはわたしのナビだ！",
+    "translation": "代替理世，\n接下来是我NAVI哒！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n代替理世，\n接下来由我来导航！\n\n代替理世，\n从现在开始是我的导航！\n\n现在开始是我的导航！"
+  },
+  {
+    "key": "RISE_FUTABA_ANSWER_3_0",
+    "original": "よーし、わたしも全力で頑張る！\nみんな、行くぞ！",
+    "translation": "好～～我也要全力加油！\n大家，我们上吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好～～我也要全力加油！\n大家，要上喽！\n\n好，我也会全力以赴的！\n大家，走吧！\n\n好，我也要全力以赴！\n大家，走吧！"
+  },
+  {
+    "key": "FUKA_FUTABA_MAKASETA_1_0",
+    "original": "ナビ、\nあとはよろしくお願いします！",
+    "translation": "NAVI，\n接下来就拜托你了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n导航，\n接下来就拜托你了！\n\n导航，\n之后就拜托了！\n\n导航，\n之后请多关照！"
+  },
+  {
+    "key": "FUKA_FUTABA_MAKASETA_2_0",
+    "original": "交代ですね！\n勉強させてもらいます！",
+    "translation": "换班了呢！\n让我学习一下！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n换人了呢！\n让我学习一下！\n\n是交替！\n请让我学习！\n\n换班啊！\n我要学习！"
+  },
+  {
+    "key": "FUKA_FUTABA_MAKASETA_3_0",
+    "original": "ここからはナビに代わりますね！",
+    "translation": "接下来由我NAVI代班！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n接下来由我来代替导航！\n\n从这里开始代替导航！\n\n从这里开始就换成导航了！"
+  },
+  {
+    "key": "FUKA_FUTABA_ANSWER_1_0",
+    "original": "よーし風花、こっからは任せとけ！",
+    "translation": "好，风花，接下来就交给我吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，风花，接下来就交给我吧！\n\n好了，风花，从现在开始就交给你了！\n\n好的风花，就交给我吧！"
+  },
+  {
+    "key": "FUKA_FUTABA_ANSWER_2_0",
+    "original": "風花、ナイスナビ！\nここからはわたしがサポートするぞ！",
+    "translation": "风花，导航得很好！\n接下来就由我来支援吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n风花，导航干得好！\n接下来就由我来支援吧！\n\n风花，好导航！\n从这里开始我会支持你的！\n\n风花，奈之雨！\n从这里开始我来支持你！"
+  },
+  {
+    "key": "FUKA_FUTABA_ANSWER_3_0",
+    "original": "風花から任せられた！\n気合い入れてナビするぞ！",
+    "translation": "风花交给我了！\n我要鼓起干劲来导航！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n风花交给我了！\n我要鼓起干劲来导航！\n\n被风花托付了！\n鼓起干劲导航！\n\n风花交给我了！\n加油导航！"
+  },
+  {
+    "key": "FUTABA_ITEM_90_DUNGEON_1_0",
+    "original": "そろそろ荷物がパンパンだぞ！",
+    "translation": "背包差不多要满咯！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李差不多要满了！\n\n行李差不多该鼓鼓的了！\n\n我的行李快撑破了！"
+  },
+  {
+    "key": "FUTABA_ITEM_90_DUNGEON_2_0",
+    "original": "荷物が多いな、戻ったらどうだ？",
+    "translation": "东西很多啊，要不要先回去？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n行李很多啊，要不要回去？\n\n行李真多啊，回去怎么样？\n\n行李很多啊，回去怎么样？"
+  },
+  {
+    "key": "FUTABA_ITEM_90_DUNGEON_3_0",
+    "original": "荷物、整理した方がよくないか？",
+    "translation": "先把东西整理一下比较好吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n整理一下行李比较好吧？\n\n把行李整理一下不好吗？\n\n整理行李不好吗？"
+  },
+  {
+    "key": "FUTABA_DUNGEON_START_1_0",
+    "original": "ナビ、開始するぞ！",
+    "translation": "NAVI，开始喽！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n开始导航喽！\n\n导航开始了！\n\n导航，开始了！"
+  },
+  {
+    "key": "FUTABA_DUNGEON_START_2_0",
+    "original": "ドーンと行ってくれ！",
+    "translation": "要一口气冲过去！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要一口气冲过去！\n\n轰地一声走吧！\n\n跟我一起去！"
+  },
+  {
+    "key": "FUTABA_DUNGEON_START_3_0",
+    "original": "よし、始めるぞ！",
+    "translation": "好，开始吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，开始吧！"
+  },
+  {
+    "key": "FUTABA_QUEST_START_1_0",
+    "original": "冒険の始まりだぞ！",
+    "translation": "冒险要开始了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冒险要开始了！\n\n冒险的开始！"
+  },
+  {
+    "key": "FUTABA_QUEST_START_2_0",
+    "original": "サポートはまかせろー！",
+    "translation": "支援就交给我吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n支援就交给我吧！\n\n支持就交给我吧！"
+  },
+  {
+    "key": "FUTABA_QUEST_START_3_0",
+    "original": "くれぐれも油断するなよ！",
+    "translation": "千万不要大意！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n千万不要大意！\n\n千万不要疏忽大意！\n\n千万别大意！"
+  },
+  {
+    "key": "FUTABA_TOUHA_25_1_0",
+    "original": "これからガンガン埋めてくぞ！",
+    "translation": "接下来要拼命画哦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n接下来要拼命画！\n\n从现在开始要好好地埋了哦！\n\n从现在开始埋起来吧！"
+  },
+  {
+    "key": "FUTABA_TOUHA_25_2_0",
+    "original": "順調に描けてるかー？",
+    "translation": "画得还顺利吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n画得还顺利吗？\n\n画得顺利吗？"
+  },
+  {
+    "key": "FUTABA_TOUHA_50_1_0",
+    "original": "よし、半分くらいいったな！",
+    "translation": "好，差不多画了一半！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，差不多画了一半！\n\n好，说了一半吧！"
+  },
+  {
+    "key": "FUTABA_TOUHA_50_2_0",
+    "original": "こっからが本番だ！",
+    "translation": "接下来才是重头戏！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n接下来才是重头戏！\n\n现在才是正式演出！\n\n这才是真正的开始！"
+  },
+  {
+    "key": "FUTABA_TOUHA_75_1_0",
+    "original": "出来てきたな、ワクワクだ！",
+    "translation": "完成了呢，好兴奋啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n画得真好，好期待啊！\n\n做出来了，好兴奋啊！\n\n完成了呢，好兴奋啊！"
+  },
+  {
+    "key": "FUTABA_TOUHA_75_2_0",
+    "original": "あと残りはどのへんだ？",
+    "translation": "还剩下哪里呢？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n还剩下多少？\n\n剩下的呢？\n\n剩下的是哪里？"
+  },
+  {
+    "key": "FUTABA_TOUHA_100_1_0",
+    "original": "うおお、地図できたー！！",
+    "translation": "唔哦哦，地图画好了！！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n唔哦哦，地图画好了！！\n\n哦，地图出来了！！\n\n哦哦，地图出来了！！"
+  },
+  {
+    "key": "FUTABA_TOUHA_100_2_0",
+    "original": "うむ、良い仕事だったぞ！",
+    "translation": "嗯，干得漂亮！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯，干得漂亮！\n\n嗯，是个好工作哦！\n\n嗯，是个好工作！"
+  },
+  {
+    "key": "FUTABA_MAPPING_ICON_ALL__0",
+    "original": "なかなかやるな！",
+    "translation": "挺能干的嘛！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n挺能干的嘛！\n\n别干了！\n\n真够干的！"
+  },
+  {
+    "key": "FUTABA_MAPPING_ICON_ALL__2_0",
+    "original": "グッジョブだ！",
+    "translation": "干得漂亮！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n干得漂亮！\n\n好作业！\n\n是卧蚕！"
+  },
+  {
+    "key": "FUTABA_MAPPING_ICON_KAID_0",
+    "original": "よーし、繋がったぞ。",
+    "translation": "好，连上了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，连上了。\n\n好了，连上了。"
+  },
+  {
+    "key": "FUTABA_MAPPING_ICON_KAID_2_0",
+    "original": "バッチリだな！",
+    "translation": "真是完美！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n很完美！\n\n太棒了！\n\n很好啊！"
+  },
+  {
+    "key": "FUTABA_MAPPING_CHANGE_CO_0",
+    "original": "すげえセンスだな！",
+    "translation": "真有品味啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好厉害的才能啊！\n\n很有品位啊！\n\n好有品位啊！"
+  },
+  {
+    "key": "FUTABA_MAPPING_CHANGE_CO_2_0",
+    "original": "おっ、楽しそうだな。",
+    "translation": "哦，看起来很开心呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦，好像很开心。\n\n哦，看起来很开心啊。\n\n哦，看起来很开心呢。"
+  },
+  {
+    "key": "FUTABA_MAPPING_ICON_DEL__0",
+    "original": "この片付け上手め。",
+    "translation": "你在整理收纳方面很有一手嘛。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这个收拾得真干净。\n\n这个收拾得好。\n\n你这个收拾高手。"
+  },
+  {
+    "key": "FUTABA_MAPPING_ICON_DEL__2_0",
+    "original": "ぬお、捨てちゃうのか？",
+    "translation": "唔哦，要扔掉吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n唔哦，要扔掉吗？\n\n你要扔了吗？\n\n你要扔掉吗？"
+  },
+  {
+    "key": "FUTABA_MAPPING_MEMO_1_0",
+    "original": "メモメモー！",
+    "translation": "记下来记下来！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n记下来记下来！\n\n笔记笔记！\n\n真是的！"
+  },
+  {
+    "key": "FUTABA_MAPPING_MEMO_2_0",
+    "original": "なぁなぁ、なに書いたんだ？",
+    "translation": "喂喂，你写了什么？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂喂，你写了什么？\n\n喂，你写了什么？\n\n喂，写了什么？"
+  },
+  {
+    "key": "FUTABA_KARITORU_ENCOUNT__0",
+    "original": "”刈り取る者”だ…\nやばいのが来るぞ…！！",
+    "translation": "是“猎杀者”……\n危险的家伙来了……！！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是“收割者”……\n糟糕的家伙来了……！！\n\n“收割者”……\n危险的要来了……！！\n\n是“收割者”……\n危险的东西要来了……！！"
+  },
+  {
+    "key": "FUTABA_KARITORU_ENCOUNT__2_0",
+    "original": "この気配…”刈り取る者”だ！！",
+    "translation": "这个气息是……“猎杀者”！！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这个气息是……“收割者”！！\n\n这个样子……是“收割者”！！\n\n这种气息……”收割的人”！！"
+  },
+  {
+    "key": "FUTABA_KARITORU_ENCOUNT__3_0",
+    "original": "やばいのが来る！　対処急げ！",
+    "translation": "危险的家伙要来了！快做准备！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不妙的家伙要来了！快做准备！\n\n危险的来了！赶紧处理！\n\n危险的东西来了！赶紧应对！"
+  }
+]

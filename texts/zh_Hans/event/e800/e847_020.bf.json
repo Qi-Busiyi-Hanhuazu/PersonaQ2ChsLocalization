@@ -1,0 +1,37 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "でっかい反応！　気をつけろ！\n間違いなくアイツだ！",
+    "translation": "好巨大的反应！大家小心！\n肯定是那家伙！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n好大的反应！小心点！\n肯定是那家伙！\n\n巨大的反应！小心点！\n肯定是那家伙！\n\n巨大的反应！小心点！\n没错就是那家伙！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "なるほど…強敵らしいな。",
+    "translation": "原来如此……看来是强敌呢。",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n原来如此……似乎是强敌呢。\n\n原来如此……好像是强敌啊。\n\n原来如此……看来是强敌啊。"
+  },
+  {
+    "key": "MSG_001_1_0",
+    "original": "行くぞ、ジョーカー！\nオマエの力、見せつけてやれ！",
+    "translation": "上吧，JOKER！\n让他见识下你的力量！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n上吧，JOKER！\n让他见识你的力量！\n\n去吧，JOKER！\n让我看看你的力量！\n\n走吧，JOKER ！让我看看你的力量吧！"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "どうした？",
+    "translation": "どうした？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "腹でも減ったか？",
+    "translation": "腹でも減ったか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああ…すまない。\nこの落書きが気になってな。",
+    "translation": "ああ…すまない。\nこの落書きが気になってな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "いや、それはもちろんだが、\n飢えるレベルまではいっていない。",
+    "translation": "いや、それはもちろんだが、\n飢えるレベルまではいっていない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "それより、この落書きが気になってな。",
+    "translation": "それより、この落書きが気になってな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "見てみろ、この落書きは未完成だ。",
+    "translation": "見てみろ、この落書きは未完成だ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そういや、他のと違ってんな。\n途中で飽きたんじゃねーの？",
+    "translation": "そういや、他のと違ってんな。\n途中で飽きたんじゃねーの？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いや、俺にはそうは思えん。",
+    "translation": "いや、俺にはそうは思えん。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "この落書きから伝わってくるのは\n描き手の迷い、苦悩…",
+    "translation": "この落書きから伝わってくるのは\n描き手の迷い、苦悩…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_2",
+    "original": "意思に反して、ここで筆が止まって\nしまったように見える。",
+    "translation": "意思に反して、ここで筆が止まって\nしまったように見える。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "すごいね、フォックス。\nそんなことまで分かっちゃうんだ？",
+    "translation": "すごいね、フォックス。\nそんなことまで分かっちゃうんだ？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "落書きは犯罪行為だが、中には侮れないほど\n芸術性が込められているものもある。",
+    "translation": "落書きは犯罪行為だが、中には侮れないほど\n芸術性が込められているものもある。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "技巧だけではない。作者の思考や\n現代社会へのメッセージ…！",
+    "translation": "技巧だけではない。作者の思考や\n現代社会へのメッセージ…！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "そう、俺のインスピレーションを\n掻きたてて止まないものもある！",
+    "translation": "そう、俺のインスピレーションを\n掻きたてて止まないものもある！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_3",
+    "original": "ああ、これもいっそ俺が描き足して\n完成させてしまおうか…！",
+    "translation": "ああ、これもいっそ俺が描き足して\n完成させてしまおうか…！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_4",
+    "original": "クッ、ダメだ…\n静まれ、俺の右手ッ…！",
+    "translation": "クッ、ダメだ…\n静まれ、俺の右手ッ…！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あー、これ入っちゃってるわー。",
+    "translation": "あー、これ入っちゃってるわー。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ふーん。\n落書きなんて気にしたことなかったぜ。",
+    "translation": "ふーん。\n落書きなんて気にしたことなかったぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "でも犯罪行為なんだろ？　クイーンに\nバレたら、鉄拳制裁間違い無しだな。",
+    "translation": "でも犯罪行為なんだろ？　クイーンに\nバレたら、鉄拳制裁間違い無しだな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ほらほら、いつまでやってんの。\n二人が待ってるんだから、もう行くよ？",
+    "translation": "ほらほら、いつまでやってんの。\n二人が待ってるんだから、もう行くよ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "すまない、つい気を取られた…\nまずは救出が最優先だったな。",
+    "translation": "すまない、つい気を取られた…\nまずは救出が最優先だったな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "さあ行こう。\n偽りのヒーローを退治しに！",
+    "translation": "さあ行こう。\n偽りのヒーローを退治しに！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "壁には、描きかけの落書きがある…",
+    "translation": "壁には、描きかけの落書きがある…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "お！\nここ採取できるみたいだぜ！",
+    "translation": "お！\nここ採取できるみたいだぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おう！\nじゃあ、気をつけて探そうぜ！",
+    "translation": "おう！\nじゃあ、気をつけて探そうぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おっしゃ！\n根こそぎ取ってやるぜ！",
+    "translation": "おっしゃ！\n根こそぎ取ってやるぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "止めんのか？\nんじゃ、後で来ようぜ！",
+    "translation": "止めんのか？\nんじゃ、後で来ようぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うっし！\nこれで全部だな！",
+    "translation": "うっし！\nこれで全部だな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おっし！",
+    "translation": "おっし！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いっただきー！",
+    "translation": "いっただきー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "おっ！",
+    "translation": "おっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "っぶねぇ～…\n採取はこんなもんか？",
+    "translation": "っぶねぇ～…\n採取はこんなもんか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "やったな！",
+    "translation": "やったな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "レアじゃん！",
+    "translation": "レアじゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "お宝ゲット！",
+    "translation": "お宝ゲット！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "お！　近道じゃん！\nどうするよ？",
+    "translation": "お！　近道じゃん！\nどうするよ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "おっと、こっちは通れねえんだな。",
+    "translation": "おっと、こっちは通れねえんだな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "なぁ、おい…\nなんかここ、ヤバい気配しねぇ？",
+    "translation": "なぁ、おい…\nなんかここ、ヤバい気配しねぇ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "よ、よし！\n気合い入れて行くぜ！",
+    "translation": "よ、よし！\n気合い入れて行くぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "んだな。\n止めとくってのもアリだろ。",
+    "translation": "んだな。\n止めとくってのもアリだろ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あっぶねー！\nめっちゃ強かったな！",
+    "translation": "あっぶねー！\nめっちゃ強かったな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "なーんかシャドウの気配しねぇ？\nどうするよ？",
+    "translation": "なーんかシャドウの気配しねぇ？\nどうするよ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "オッケー！\n調べてみようぜ！",
+    "translation": "オッケー！\n調べてみようぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "お、止めとくのか？",
+    "translation": "お、止めとくのか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "おっし！\nこれで終わりじゃねぇか？",
+    "translation": "おっし！\nこれで終わりじゃねぇか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "お、こっから映画館戻れんじゃん！\nどうするよ？",
+    "translation": "お、こっから映画館戻れんじゃん！\nどうするよ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

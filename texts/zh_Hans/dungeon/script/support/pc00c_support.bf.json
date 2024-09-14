@@ -1,0 +1,527 @@
+[
+  {
+    "key": "SANADA_FOE_FOLLOW_START__0",
+    "original": "Ｆ．Ｏ．Ｅが追ってきてるようだな…",
+    "translation": "看起来F.O.E在追赶过来了呢……",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E似乎在追我呢……\n\nF.O.E好像追上来了……"
+  },
+  {
+    "key": "SANADA_FOE_FOLLOW_START__2_0",
+    "original": "Ｆ．Ｏ．Ｅか…迎えうつか？",
+    "translation": "是F.O.E啊……要迎击吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E吗……能迎战吗？\n\nF.O.E啊……迎接吗？\n\nF.O.E还是……迎接？"
+  },
+  {
+    "key": "SANADA_FOE_FOLLOW_START__3_0",
+    "original": "Ｆ．Ｏ．Ｅに狙われているな。",
+    "translation": "被F.O.E盯上了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我被F.O.E盯上了呢。\n\n被F.O.E盯上了。\n\n别被F.O.E盯上了。"
+  },
+  {
+    "key": "SANADA_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅが近くにいる…気をつけろ。",
+    "translation": "F.O.E就在附近……小心。",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E就在附近……小心点。\n\nF.O.E在附近……小心。"
+  },
+  {
+    "key": "SANADA_FOE_NEAR_2_0",
+    "original": "この気配…Ｆ．Ｏ．Ｅだな。",
+    "translation": "这种感觉……是F.O.E。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这股气息……是F.O.E吧。\n\n这个样子……F.O.E啊。\n\n这气息……是F.O.E吧。"
+  },
+  {
+    "key": "SANADA_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅのお出ましか！",
+    "translation": "F.O.E出现了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E出动了吗！\n\nF.O.E出来了吗！\n\nF.O.E出场了吗？"
+  },
+  {
+    "key": "SANADA_FOE_FOLLOW_END_1_0",
+    "original": "あいつ、もう追ってこないな。",
+    "translation": "那家伙、已经没有再追来了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那家伙已经不追我了呢。\n\n那家伙，已经不追了。\n\n那家伙已经追不上来了。"
+  },
+  {
+    "key": "SANADA_FOE_FOLLOW_END_2_0",
+    "original": "もう諦めたのか…\n根性のないＦ．Ｏ．Ｅだ。",
+    "translation": "已经放弃了吗……真是没毅力的F.O.E啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n已经放弃了吗……\n真是个没毅力的F.O.E。\n\n已经放弃了吗……\n没有毅力的F.O.E。\n\n已经放弃了吗？没有毅力的F.O.E。"
+  },
+  {
+    "key": "SANADA_FOE_FOLLOW_END_3_0",
+    "original": "撒いたようだな…はぁ、つまらん。",
+    "translation": "好像逃走了啊…… 哈啊、真无聊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看来是甩掉他了呢……唉，真无聊。\n\n好像撒了啊……啊，好无聊。\n\n好像撒了……啊，真无聊。"
+  },
+  {
+    "key": "SANADA_KANSI_REACTION_1_0",
+    "original": "ここは慎重にいこう。",
+    "translation": "这里要谨慎前行。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这里还是慎重一点吧。\n\n这里要慎重。"
+  },
+  {
+    "key": "SANADA_KANSI_REACTION_2_0",
+    "original": "見つかっても、戦えばいいんだろ？",
+    "translation": "即使被发现了，战斗的话就行了吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n就算被发现，只要战斗就行了吧？\n\n就算被发现了，只要战斗就行了吧？\n\n即使找到了，战斗就好了吧？"
+  },
+  {
+    "key": "SANADA_KANSI_REACTION_3_0",
+    "original": "コソコソするのは柄じゃないな。",
+    "translation": "偷偷摸摸的真不像话啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n偷偷摸摸的可不符合我的性格啊。\n\n咯吱咯吱的不是花纹啊。\n\n偷偷摸摸的不适合。"
+  },
+  {
+    "key": "SANADA_DENKISAKU_REACTIO_0",
+    "original": "電気柵か…迂回するしかないな。",
+    "translation": "电网栅栏啊……只能绕道走了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是电栅栏吗……只能绕路了呢。\n\n电栅栏啊……只能迂回了。\n\n电栅栏吗？只能迂回了。"
+  },
+  {
+    "key": "SANADA_DENKISAKU_REACTIO_2_0",
+    "original": "適度な刺激は回復になるというが…\nこれは無理だな。",
+    "translation": "虽说适度的刺激有助于恢复……\n但这太难了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n适度的刺激有助于恢复……\n但这可不行啊。\n\n据说适度的刺激能恢复……这是不可能的。\n\n\n据说适当的刺激有助于恢复……这是不可能的。"
+  },
+  {
+    "key": "SANADA_DENKISAKU_REACTIO_3_0",
+    "original": "くっ、厄介なトラップだな…",
+    "translation": "唔，真是个麻烦的陷阱啊……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n唔，真是个麻烦的陷阱啊……\n\n啊，真是个麻烦的陷阱啊……\n\n啊，真是麻烦的陷阱啊……"
+  },
+  {
+    "key": "SANADA_KYOUHU_REACTION_1_0",
+    "original": "くっ、風か！",
+    "translation": "唔，有风！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔，是风吗！\n\n啊，是风啊！"
+  },
+  {
+    "key": "SANADA_KYOUHU_REACTION_2_0",
+    "original": "なにっ！？",
+    "translation": "什么！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n什么！？"
+  },
+  {
+    "key": "SANADA_KYOUHU_REACTION_3_0",
+    "original": "うわっ！？",
+    "translation": "呜哇！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呜哇！？\n\n哇！？"
+  },
+  {
+    "key": "SANADA_STAIR_FIND_1_0",
+    "original": "階段があるな。さっさと降りるぞ。",
+    "translation": "有楼梯啊。赶紧下去吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有楼梯啊。赶快下去吧。\n\n有楼梯啊。赶紧下车。\n\n有楼梯。赶紧下车。"
+  },
+  {
+    "key": "SANADA_STAIR_FIND_2_0",
+    "original": "この先、\nどんな手強いやつがいるんだろうな。",
+    "translation": "在这之后、又会有多强大的家伙在呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这前面……\n会有什么难缠的家伙呢。\n\n今后，会有怎样厉害的家伙呢。\n\n\n今后，会有怎样厉害的家伙呢？"
+  },
+  {
+    "key": "SANADA_STAIR_FIND_3_0",
+    "original": "あそこから次のエリアに行けそうだ。",
+    "translation": "从那里似乎可以前往下一个区域。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n从那里似乎能去下一个区域。\n\n从那里好像可以去下一个区域。\n\n从那里好像可以到下一个区域。"
+  },
+  {
+    "key": "SANADA_TREASURE_FIND_1_0",
+    "original": "おい、宝箱があるぞ。",
+    "translation": "喂、这里有宝箱啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n喂，有宝箱啊。\n\n喂，有个宝箱。"
+  },
+  {
+    "key": "SANADA_TREASURE_FIND_2_0",
+    "original": "宝箱か…開けてみるか？",
+    "translation": "宝箱呢……要打开看看吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n宝箱吗……打开看看吧？\n\n宝箱啊……打开看看吗？\n\n宝箱啊……要不要打开看看？"
+  },
+  {
+    "key": "SANADA_TREASURE_FIND_3_0",
+    "original": "中身は何だろうな…プロテインか？",
+    "translation": "里面是什么呢……蛋白粉？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n里面会有什么呢……蛋白粉吗？\n\n里面是什么呢……蛋白粉吗？\n\n里面是什么呢……蛋白质吗？"
+  },
+  {
+    "key": "SANADA_CHECK_WALL_1_0",
+    "original": "怪しいな…調べてみないか？",
+    "translation": "很可疑啊……要调查看看吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真可疑啊……要调查一下吗？\n\n奇怪啊……不查一下吗？\n\n可疑啊……要不要调查一下？"
+  },
+  {
+    "key": "SANADA_CHECK_WALL_2_0",
+    "original": "何かあるぞ…気になるな。",
+    "translation": "好像有什么东西啊……让人在意呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有什么东西啊……真让人在意。\n\n有什么事啊……别在意。\n\n有什么事呢……别在意。"
+  },
+  {
+    "key": "SANADA_CHECK_WALL_3_0",
+    "original": "あれは何だ…？　調べてみないか？",
+    "translation": "那是什么……？　要调查看看吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那是什么……？要调查一下吗？\n\n那是什么……？不查一下吗？\n\n那是什么……？要不要调查一下？"
+  },
+  {
+    "key": "SANADA_SWITCH_FIND_1_0",
+    "original": "スイッチか…押してみるか？",
+    "translation": "开关吗……要按一下吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n开关吗……按按看吧？\n\n是开关吗……试着按一下吗？\n\n开关啊……要不要按一下？"
+  },
+  {
+    "key": "SANADA_SWITCH_FIND_2_0",
+    "original": "スイッチがあるぞ。どうする？",
+    "translation": "有开关啊。要怎么做？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有开关啊。怎么办？\n\n有开关哦。怎么办？"
+  },
+  {
+    "key": "SANADA_SWITCH_FIND_3_0",
+    "original": "あのスイッチ、押すのか？",
+    "translation": "那个开关，要按吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要按那个开关吗？\n\n那个开关，要按吗？"
+  },
+  {
+    "key": "SANADA_SHORTCUT_FIND_1_0",
+    "original": "そこ、通れるんじゃないか？",
+    "translation": "那里、好像能过去啊？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n那里，应该能通过吧？\n\n那里不是可以通过吗？\n\n那里能过去吗？"
+  },
+  {
+    "key": "SANADA_SHORTCUT_FIND_2_0",
+    "original": "近道できそうな場所があるぞ。",
+    "translation": "好像有个能成为近路的地方啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有个地方好像可以抄近路。\n\n有个可以抄近道的地方。\n\n有可以抄近路的地方哦。"
+  },
+  {
+    "key": "SANADA_SHORTCUT_FIND_3_0",
+    "original": "近道ができそうだ、行くぞ。",
+    "translation": "看起来可以抄近道，走吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像可以抄近路，走吧。\n\n好像可以抄近路了，走吧。\n\n可以抄近道了，走吧。"
+  },
+  {
+    "key": "SANADA_FOE_WARNING_NEAR__0",
+    "original": "まだ終わってないようだぞ！",
+    "translation": "看来还没了结呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看来还没结束啊！\n\n好像还没结束呢！"
+  },
+  {
+    "key": "SANADA_FOE_WARNING_NEAR__2_0",
+    "original": "さっきのＦ．Ｏ．Ｅ。\nまだ追ってきてるな。",
+    "translation": "是刚才的F.O.E。\n还在追着我们呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n刚才的F.O.E……\n还在追着我。\n\n刚才的F.O.E。\n还在追啊。\n\n刚才的F.O.E。还在追啊。"
+  },
+  {
+    "key": "SANADA_FOE_WARNING_NEAR__3_0",
+    "original": "Ｆ．Ｏ．Ｅか…体は温まっているぞ。",
+    "translation": "F.O.E吗……身体暖和起来了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E啊……身体热起来了。\n\nF.O.E啊……身体很暖和哦。"
+  },
+  {
+    "key": "SANADA_1PERSON_HPTP10_1_0",
+    "original": "ゴングの音が聞こえる…幻聴か？",
+    "translation": "能听见锣声……是幻听吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n听到了钟声……是幻听吗？\n\n听到贡格的声音……是幻听吗？\n\n听到铃声……是幻听吗？"
+  },
+  {
+    "key": "SANADA_1PERSON_HPTP10_2_0",
+    "original": "そろそろギブアップだ…",
+    "translation": "差不多要放弃了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n差不多该投降了……\n\n差不多该交换了……\n\n差不多该放弃了……"
+  },
+  {
+    "key": "SANADA_1PERSON_HPTP10_3_0",
+    "original": "はぁ、はぁ…ここが俺の限界なのか…？",
+    "translation": "呼呼，这就是我的极限吗……？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呼……呼……这就是我的极限吗……？\n\n啊、啊……这里是我的极限吗……？\n\n哈、哈……这就是我的极限了吗……？"
+  },
+  {
+    "key": "SANADA_1PERSON_HP10_1_0",
+    "original": "ＫＯ寸前だ…回復を頼む。",
+    "translation": "快要不行了……请求恢复。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n快被KO了……拜托恢复吧。\n\n差点被KO……拜托你恢复。\n\n眼看就要被KO了……拜托你恢复。"
+  },
+  {
+    "key": "SANADA_1PERSON_HP10_2_0",
+    "original": "この俺がスタミナ切れ…？",
+    "translation": "我居然会没力气了……？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我居然会耗尽体力……？\n\n这个我没有体力了……？\n\n这个我没耐性了……？"
+  },
+  {
+    "key": "SANADA_1PERSON_HP10_3_0",
+    "original": "まずいな…回復を頼めるか？",
+    "translation": "不好了……能请你帮我恢复一下吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n糟糕……能恢复吗？\n\n糟糕啊……能拜托他恢复吗？\n\n不好啊……能拜托你恢复吗？"
+  },
+  {
+    "key": "SANADA_1PERSON_TP10_1_0",
+    "original": "クソッ…体が言うことを聞かん…",
+    "translation": "可恶……身体不听使唤……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n可恶……身体不听使唤……"
+  },
+  {
+    "key": "SANADA_1PERSON_TP10_2_0",
+    "original": "こんな所で…倒れるワケにいくか…！",
+    "translation": "怎么能……在这种地方倒下……！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我怎么能……在这种地方倒下……！\n\n在这种地方……要倒下吗……！\n\n在这样的地方……倒下的理由……！"
+  },
+  {
+    "key": "SANADA_1PERSON_TP10_3_0",
+    "original": "はぁ、はぁ…この俺が、情けない…",
+    "translation": "哈啊，哈……这样的我，真是丢人……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呼……呼……我真没用……\n\n哈、哈……这个我，真没出息……\n\n啊、啊……这个我，真可怜……"
+  },
+  {
+    "key": "SANADA_1PERSON_HP80_1_0",
+    "original": "ウォーミングアップにもならんな。",
+    "translation": "连热身都算不上。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n连热身都算不上。\n\n也不能热身。"
+  },
+  {
+    "key": "SANADA_1PERSON_HP80_2_0",
+    "original": "もっと強いやつと戦いたいな。",
+    "translation": "真想和更强的家伙战斗啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真想和更强的家伙战斗。\n\n真想和更强的家伙战斗啊。\n\n我想和更强的家伙战斗。"
+  },
+  {
+    "key": "SANADA_1PERSON_HP80_3_0",
+    "original": "采配が良かったな！　見事だ。",
+    "translation": "指挥得很好！漂亮。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n指挥得真好！漂亮。\n\n指挥得真好啊！真漂亮。\n\n指挥很好啊！很漂亮。"
+  },
+  {
+    "key": "SANADA_DUNGEON_START_1_0",
+    "original": "よし、行くとしよう。",
+    "translation": "好了，我们走吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好，走吧。\n\n好吧，我们走吧。\n\n好，我们走吧。"
+  },
+  {
+    "key": "SANADA_DUNGEON_START_2_0",
+    "original": "体が疼いてる…さっさと行くぞ。",
+    "translation": "身体好疼……赶快走吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n身体在作痛……赶快走吧。\n\n身体很痛……快走吧。\n\n身体疼……快走吧。"
+  },
+  {
+    "key": "SANADA_DUNGEON_START_3_0",
+    "original": "早く行くぞ、体がなまりそうだ。",
+    "translation": "快走吧，身体像灌了铅一样重。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n赶快走吧，身体都变迟钝了。\n\n快去，我身上有口音。\n\n快走吧，我的身体都快流鼻涕了。"
+  },
+  {
+    "key": "SANADA_QUEST_START_1_0",
+    "original": "目標はどこだ？　さっさと片付けるぞ。",
+    "translation": "目标在哪？利索点解决吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n目标在哪里？赶快解决掉吧。\n\n目标是哪里？赶紧收拾吧。"
+  },
+  {
+    "key": "SANADA_QUEST_START_2_0",
+    "original": "トレーニングにちょうどいいな。",
+    "translation": "拿来练手正合适。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n正好用来训练。\n\n正好适合训练。\n\n正好适合锻炼啊。"
+  },
+  {
+    "key": "SANADA_QUEST_START_3_0",
+    "original": "日頃の成果を試す時が来たようだな。",
+    "translation": "检验平日成果的时候到了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n测试平日成果的时刻到了。\n\n考验平时成果的时候到了。\n\n看来是时候考验一下平时的成果了。"
+  },
+  {
+    "key": "SANADA_TOUHA_25_1_0",
+    "original": "このフロアもずいぶん広いな。",
+    "translation": "这一层也相当大啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这个楼层也相当大啊。\n\n这个楼层也很大啊。\n\n这个楼层也挺大的。"
+  },
+  {
+    "key": "SANADA_TOUHA_25_2_0",
+    "original": "まだ先は長い、体力に注意しろ。",
+    "translation": "还有很长的路要走，注意保存体力。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n路还很长，注意体力。\n\n路还很长，要注意体力。\n\n还有很长的路要走，注意体力。"
+  },
+  {
+    "key": "SANADA_TOUHA_50_1_0",
+    "original": "やっと半分といったところか。",
+    "translation": "终于差不多过去一半了吗。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n终于到一半了吗？\n\n总算是一半了。\n\n好不容易才到一半。"
+  },
+  {
+    "key": "SANADA_TOUHA_50_2_0",
+    "original": "ちょうど半分か。体力は大丈夫か？",
+    "translation": "刚好一半吗？体力还好吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n正好一半吗？体力没问题吗？\n\n正好一半。体力还好吗？\n\n正好一半吗？体力还好吗？"
+  },
+  {
+    "key": "SANADA_TOUHA_75_1_0",
+    "original": "もう少しでこのフロアも制覇できるな。",
+    "translation": "再过一会儿就能把这个楼层也征服了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n再走一会儿就能称霸这个楼层了。\n\n再过一会儿这个楼层也能称霸啊。\n\n差一点就能称霸这一层了。"
+  },
+  {
+    "key": "SANADA_TOUHA_75_2_0",
+    "original": "疲れたら、プロテインを飲むといいぞ。",
+    "translation": "累了的话，喝点蛋白粉会很不错。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n累了的话，喝点乳清蛋白吧。\n\n累了的话，喝蛋白粉就好了。\n\n累了的话，喝蛋白质就好了。"
+  },
+  {
+    "key": "SANADA_TOUHA_100_1_0",
+    "original": "うむ、この調子でどんどん行こう。",
+    "translation": "嗯，就以这个感觉继续前进吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯，就照这个节奏继续前进吧。\n\n嗯，就这样不断地走吧。\n\n嗯，就这样继续前进吧。"
+  },
+  {
+    "key": "SANADA_TOUHA_100_2_0",
+    "original": "いいトレーニングになったな！",
+    "translation": "是场很好的练习啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真是不错的训练！\n\n真是很好的训练啊！\n\n是很好的锻炼啊！"
+  },
+  {
+    "key": "SANADA_MAPPING_ICON_ALL__0",
+    "original": "ああ、正確な配置だ。",
+    "translation": "嗯，正确的配置。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n啊啊，配置很正确。\n\n啊，是正确的配置。"
+  },
+  {
+    "key": "SANADA_MAPPING_ICON_ALL__2_0",
+    "original": "ずいぶん細かい作業だな…感心する。",
+    "translation": "相当细致的工作啊……让人钦佩。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n作业相当细致啊……佩服。\n\n相当细致的工作啊……佩服。\n\n真是精细的工作啊……令人佩服。"
+  },
+  {
+    "key": "SANADA_MAPPING_ICON_KAID_0",
+    "original": "確かにその辺りにあったな。",
+    "translation": "我记得就在那附近。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n确实是在这附近啊。\n\n确实在那附近啊。\n\n确实在那附近。"
+  },
+  {
+    "key": "SANADA_MAPPING_ICON_KAID_2_0",
+    "original": "うむ、記憶と違いないぞ。",
+    "translation": "嗯，和记忆里的没有差别。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嗯，和记忆中的一样。\n\n嗯，一定是记忆。\n\n嗯，我记得没错。"
+  },
+  {
+    "key": "SANADA_MAPPING_CHANGE_CO_0",
+    "original": "ずいぶんとマメだな、有難い。",
+    "translation": "真是勤奋啊，太感谢了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真是个细心的人啊，真是感谢。\n\n真勤快啊，谢谢。\n\n真是太豆子了，谢谢。"
+  },
+  {
+    "key": "SANADA_MAPPING_CHANGE_CO_2_0",
+    "original": "ほう、だいぶ見やすいな。",
+    "translation": "哦，看得相当清楚啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n嚯，这下就容易看多了。\n\n哦，很容易看啊。\n\n哇，很容易看啊。"
+  },
+  {
+    "key": "SANADA_MAPPING_ICON_DEL__0",
+    "original": "お、捨てたのか。",
+    "translation": "哦，是扔掉了吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦，扔掉了啊。\n\n喂，你扔了吗。\n\n哦，扔了吗？"
+  },
+  {
+    "key": "SANADA_MAPPING_ICON_DEL__2_0",
+    "original": "減量は大事だよな。",
+    "translation": "减重很重要呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n减重也很重要呢。\n\n减重很重要。\n\n减肥很重要吧。"
+  },
+  {
+    "key": "SANADA_MAPPING_MEMO_1_0",
+    "original": "これなら忘れないな。",
+    "translation": "这样就不会忘记了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这样一来就不会忘记了。\n\n这样的话就不会忘记了。"
+  },
+  {
+    "key": "SANADA_MAPPING_MEMO_2_0",
+    "original": "練習メニューも貼っておこうか？",
+    "translation": "练习菜单也贴出来吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n也把练习菜单贴上去吧？\n\n也贴上练习菜单吧？\n\n要不要把练习菜单也贴上去？"
+  },
+  {
+    "key": "SANADA_DOOR_OPEN_1_0",
+    "original": "こっちだな。",
+    "translation": "是这边吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是这边啊。\n\n这边啊。\n\n是这边吧。"
+  },
+  {
+    "key": "SANADA_DOOR_OPEN_2_0",
+    "original": "先に進むぞ。",
+    "translation": "先往前走吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n继续前进吧。\n\n我先走了。\n\n我们继续前进。"
+  },
+  {
+    "key": "SANADA_DOOR_OPEN_3_0",
+    "original": "ふっ…腕が鳴るな。",
+    "translation": "嗯……大展身手啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哼……真是跃跃欲试啊。\n\n哼……胳膊不要响。\n\n呼……手腕别抖了。"
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お疲れサンっと。\nいやあ、今回もオレっちってば大活躍…",
+    "translation": "お疲れサンっと。\nいやあ、今回もオレっちってば大活躍…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "伊織！",
+    "translation": "伊織！",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ひっ…！\nふざけてスンマセン！",
+    "translation": "ひっ…！\nふざけてスンマセン！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "いや、その…ご苦労だった。",
+    "translation": "いや、その…ご苦労だった。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_003_1_0",
+    "original": "岳羽も、いい働きだった。",
+    "translation": "岳羽も、いい働きだった。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "え、あ、はい…",
+    "translation": "え、あ、はい…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "桐条さん、おざっす！",
+    "translation": "桐条さん、おざっす！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "美鶴さん、怪我してないですか？",
+    "translation": "美鶴さん、怪我してないですか？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ああ、君たちのおかげで\nこの通り大丈夫だ。",
+    "translation": "ああ、君たちのおかげで\nこの通り大丈夫だ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ふふ、上手くやれてたんじゃない？",
+    "translation": "ふふ、上手くやれてたんじゃない？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "囮か？\nだが、あれはみんなの協力あってこそだ。",
+    "translation": "囮か？\nだが、あれはみんなの協力あってこそだ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "そうじゃなくて、さっきの作戦、\n後輩とちゃんと連携取れてたと思って。",
+    "translation": "そうじゃなくて、さっきの作戦、\n後輩とちゃんと連携取れてたと思って。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_010_1_0",
+    "original": "伊織君だって、先陣切って\n頑張ってくれたじゃない。",
+    "translation": "伊織君だって、先陣切って\n頑張ってくれたじゃない。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "うむ…だが、あれは私に怒られるのが嫌で、\nああやっていたんじゃないだろうか？",
+    "translation": "うむ…だが、あれは私に怒られるのが嫌で、\nああやっていたんじゃないだろうか？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "SEL_012_0",
+    "original": "そうじゃない",
+    "translation": "そうじゃない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_012_1",
+    "original": "それもあるかも",
+    "translation": "それもあるかも",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_012_2",
+    "original": "先輩の覚悟に応えた",
+    "translation": "先輩の覚悟に応えた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ええ。桐条さんの年長者としての\n覚悟に、みんな気付いたんだと思う。",
+    "translation": "ええ。桐条さんの年長者としての\n覚悟に、みんな気付いたんだと思う。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_013_1_0",
+    "original": "だから、少しでもそれに\n応えようとしたのよ。",
+    "translation": "だから、少しでもそれに\n応えようとしたのよ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "まあ、ないとは言わないけど…\nでもそれだけじゃないと思う。",
+    "translation": "まあ、ないとは言わないけど…\nでもそれだけじゃないと思う。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_014_1_0",
+    "original": "桐条さんの年長者としての覚悟に、\nみんな気付いたんだと思う。",
+    "translation": "桐条さんの年長者としての覚悟に、\nみんな気付いたんだと思う。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_014_2_0",
+    "original": "だから、少しでもそれに\n応えようとしたのよ。",
+    "translation": "だから、少しでもそれに\n応えようとしたのよ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ええ。桐条さんの厳しさの裏にある\n責任感にみんな気付いたんだと思う。",
+    "translation": "ええ。桐条さんの厳しさの裏にある\n責任感にみんな気付いたんだと思う。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "そ、そうか…\nそれならよかった。",
+    "translation": "そ、そうか…\nそれならよかった。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_016_1_0",
+    "original": "だが、私としてはあともう少し\n打ち解けられたらとも思うんだが…",
+    "translation": "だが、私としてはあともう少し\n打ち解けられたらとも思うんだが…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "打ち解けるか…\nなら、何かきっかけとかほしいよね。",
+    "translation": "打ち解けるか…\nなら、何かきっかけとかほしいよね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_018_0",
+    "original": "共通の趣味とか？",
+    "translation": "共通の趣味とか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_1",
+    "original": "甘いものを一緒に食べる",
+    "translation": "甘いものを一緒に食べる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "それだな！\n趣味が合うと一気に話盛り上がるし。",
+    "translation": "それだな！\n趣味が合うと一気に話盛り上がるし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "趣味か…私の場合バイクだが…",
+    "translation": "趣味か…私の場合バイクだが…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "お、イイじゃないっスか！\nバイク！　男のロマン！",
+    "translation": "お、イイじゃないっスか！\nバイク！　男のロマン！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_021_1_0",
+    "original": "俺もクイーンがバイクで敵に突撃すんの見て、\nイメージ、ガラッと変わったし。",
+    "translation": "俺もクイーンがバイクで敵に突撃すんの見て、\nイメージ、ガラッと変わったし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "スカル！　その話は…！",
+    "translation": "スカル！　その話は…！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "…突撃？　よく分からないが、伊織は\nあまりバイクには興味なさそうだったな。",
+    "translation": "…突撃？　よく分からないが、伊織は\nあまりバイクには興味なさそうだったな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "まあ、美鶴さんと伊織くんで\n共通の趣味なんてそうない気がするし…",
+    "translation": "まあ、美鶴さんと伊織くんで\n共通の趣味なんてそうない気がするし…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "こうなったら美鶴さんが順平くんの\nレベルに合わせるしか…",
+    "translation": "こうなったら美鶴さんが順平くんの\nレベルに合わせるしか…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "あ、それイイかも！　ほら、私も\nクイーンと仲直りのクレープ食べたし！",
+    "translation": "あ、それイイかも！　ほら、私も\nクイーンと仲直りのクレープ食べたし！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "甘いものか…私もアフタヌーンティは嗜む。\n今度、伊織も誘ってみようか…",
+    "translation": "甘いものか…私もアフタヌーンティは嗜む。\n今度、伊織も誘ってみようか…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "うーん…私たちは盛りあがったけど、\n伊織君はそういうのむしろ苦手そう。",
+    "translation": "うーん…私たちは盛りあがったけど、\n伊織君はそういうのむしろ苦手そう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "ここは桐条さんのほうが伊織君の\nレベルに合わせるとか…",
+    "translation": "ここは桐条さんのほうが伊織君の\nレベルに合わせるとか…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "私が伊織に合わせる、か…\nなかなか難しいな。",
+    "translation": "私が伊織に合わせる、か…\nなかなか難しいな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_028_1_0",
+    "original": "それにしても、クイーン。\n君にも、色々きっかけが必要だったんだな。",
+    "translation": "それにしても、クイーン。\n君にも、色々きっかけが必要だったんだな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ええ、私もはじめは誤解とか衝突とか\nしょっちゅうだった。",
+    "translation": "ええ、私もはじめは誤解とか衝突とか\nしょっちゅうだった。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_029_1_0",
+    "original": "けど、何とかなるものよ。\n諦めなければね。",
+    "translation": "けど、何とかなるものよ。\n諦めなければね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "なるほど…\n君のことが少しわかった気がするな。",
+    "translation": "なるほど…\n君のことが少しわかった気がするな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ふふ、それじゃ、帰りましょう。",
+    "translation": "ふふ、それじゃ、帰りましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  }
+]

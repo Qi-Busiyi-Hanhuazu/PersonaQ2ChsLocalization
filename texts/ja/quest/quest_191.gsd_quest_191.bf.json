@@ -1,0 +1,37 @@
+[
+  {
+    "key": "MSG_QUESTCLEAR_0",
+    "original": "＞クエストクリア！",
+    "translation": "＞クエストクリア！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_PROTO2_PARTY_IN_1_0",
+    "original": "【仲間追加メッセージ】\n新たに「花村 陽介」・「伊織 順平」・\n「天田 乾」が仲間に加わりました。",
+    "translation": "【仲間追加メッセージ】\n新たに「花村 陽介」・「伊織 順平」・\n「天田 乾」が仲間に加わりました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_PROTO2_SYS_OPEN_1_0",
+    "original": "【システム解禁メッセージ】\n■「パーティ編成」が解禁されました。\n■「BP使用施設」が解禁されました。",
+    "translation": "【システム解禁メッセージ】\n■「パーティ編成」が解禁されました。\n■「BP使用施設」が解禁されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ITEMGET_0",
+    "original": "＞[颜色 05]カエリマクレール[颜色 01]を手に入れた。",
+    "translation": "＞[颜色 05]カエリマクレール[颜色 01]を手に入れた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  }
+]

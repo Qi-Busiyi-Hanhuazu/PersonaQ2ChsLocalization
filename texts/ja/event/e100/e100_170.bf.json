@@ -1,0 +1,205 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "むむむ…\nダメだ、開かねえ…",
+    "translation": "むむむ…\nダメだ、開かねえ…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "何やってんだ？",
+    "translation": "何やってんだ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "見りゃわかるだろ。\nここの鍵をピッキングで開けてるんだ。",
+    "translation": "見りゃわかるだろ。\nここの鍵をピッキングで開けてるんだ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "なんだ、まだ開けられないのか？",
+    "translation": "なんだ、まだ開けられないのか？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "今、始めたばかりだ！",
+    "translation": "今、始めたばかりだ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そういえばモルガナ、\n出入り口の鍵はどうだったの？",
+    "translation": "そういえばモルガナ、\n出入り口の鍵はどうだったの？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あ、あれは…もう一回試したけど、\nやっぱり開けられなかった…",
+    "translation": "あ、あれは…もう一回試したけど、\nやっぱり開けられなかった…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ニャッ！？",
+    "translation": "ニャッ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "中から物音がするな…\nもしや、誰かいるのか？",
+    "translation": "中から物音がするな…\nもしや、誰かいるのか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "閉じ込められてる人がいるってなら\nほっとけねぇよな？",
+    "translation": "閉じ込められてる人がいるってなら\nほっとけねぇよな？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_010_0",
+    "original": "もちろんだ",
+    "translation": "もちろんだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_010_1",
+    "original": "危険かもしれない",
+    "translation": "危険かもしれない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_010_2",
+    "original": "ほっとこう",
+    "translation": "ほっとこう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "開けるのか…\n警戒は怠らないようにしよう。",
+    "translation": "開けるのか…\n警戒は怠らないようにしよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "それでも開けるだろ？",
+    "translation": "それでも開けるだろ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "開けるなら、\n警戒は怠らないようにしよう。",
+    "translation": "開けるなら、\n警戒は怠らないようにしよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "おいおい！　誰か閉じ込められてっかも\nしれねーんだぜ！？",
+    "translation": "おいおい！　誰か閉じ込められてっかも\nしれねーんだぜ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "開けるなら、\n警戒は怠らないようにしよう。",
+    "translation": "開けるなら、\n警戒は怠らないようにしよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "モルガナ、ごめんね。\nもうちょっと頑張れる？",
+    "translation": "モルガナ、ごめんね。\nもうちょっと頑張れる？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "も、もちろんだ！\nアン殿、見ててくれ！",
+    "translation": "も、もちろんだ！\nアン殿、見ててくれ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "…番犬とか飛び出てきたら、\nオマエらすぐに助けろよ！？",
+    "translation": "…番犬とか飛び出てきたら、\nオマエらすぐに助けろよ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "犬程度ならいいが…",
+    "translation": "犬程度ならいいが…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "モナ、早く開けるべし。",
+    "translation": "モナ、早く開けるべし。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "わ、わかってるって…",
+    "translation": "わ、わかってるって…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ただいま。",
+    "translation": "ただいま。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あ、帰ってきた。おかえりー。",
+    "translation": "あ、帰ってきた。おかえりー。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ワン！",
+    "translation": "ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "[P3名]さん、\n何を持っているでありますか？",
+    "translation": "[P3名]さん、\n何を持っているでありますか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ああ、これ？\nＤＶＤ借りてきたんだ。",
+    "translation": "ああ、これ？\nＤＶＤ借りてきたんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "もしかして、ムフフなヤツ？\nやーん、[P3名]くんのエッチー。",
+    "translation": "もしかして、ムフフなヤツ？\nやーん、[P3名]くんのエッチー。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ンなワケないでしょ。\n順平じゃないんだから。",
+    "translation": "ンなワケないでしょ。\n順平じゃないんだから。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん、普通の映画だよ。\nなんか…無性に見たくなって。",
+    "translation": "うん、普通の映画だよ。\nなんか…無性に見たくなって。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "へえ、何を借りたんですか？",
+    "translation": "へえ、何を借りたんですか？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "[P3姓]さんのチョイス、\n気になります。",
+    "translation": "[P3姓]さんのチョイス、\n気になります。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "よかったら、みんなも見る？",
+    "translation": "よかったら、みんなも見る？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "いいですね。",
+    "translation": "いいですね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "みんな揃ってますし、\n折角ならここで一緒に見ませんか？",
+    "translation": "みんな揃ってますし、\n折角ならここで一緒に見ませんか？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "しかしな…\n寮の公共スペースで見るというのは…",
+    "translation": "しかしな…\n寮の公共スペースで見るというのは…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "まあ、そう堅いこと言うな。\n時には骨休めも大事だ。",
+    "translation": "まあ、そう堅いこと言うな。\n時には骨休めも大事だ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "それに[P3姓]が見たくなった映画、\n俺も興味がある。",
+    "translation": "それに[P3姓]が見たくなった映画、\n俺も興味がある。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "あ、じゃあ私、ポップコーン持ってきます。\nたしか部屋に買い置きが…",
+    "translation": "あ、じゃあ私、ポップコーン持ってきます。\nたしか部屋に買い置きが…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ポップコーン？",
+    "translation": "ポップコーン？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ふうん、ポップコーンか…\nまあ、映画の定番だな。",
+    "translation": "ふうん、ポップコーンか…\nまあ、映画の定番だな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "決まりですね！\nじゃあ私、飲み物を用意しますね。",
+    "translation": "決まりですね！\nじゃあ私、飲み物を用意しますね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "あ、僕も手伝います。",
+    "translation": "あ、僕も手伝います。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "映画か…まあ、こういうのもたまには\n悪くないのかもしれんな。",
+    "translation": "映画か…まあ、こういうのもたまには\n悪くないのかもしれんな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "会長、話がわかるであります。\nヨッ、太っ腹！",
+    "translation": "会長、話がわかるであります。\nヨッ、太っ腹！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "…前々から思ってたんだが、\n君はそういう言葉をどこで覚えてくるんだ？",
+    "translation": "…前々から思ってたんだが、\n君はそういう言葉をどこで覚えてくるんだ？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "[P3姓]、なんの映画だ？",
+    "translation": "[P3姓]、なんの映画だ？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "おー、ＳＦ？\nたしかこれ、昔メッチャ流行ったよな。",
+    "translation": "おー、ＳＦ？\nたしかこれ、昔メッチャ流行ったよな。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "お待たせー！\nポップコーン持って来たよ。",
+    "translation": "お待たせー！\nポップコーン持って来たよ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "あと、クッキーにチョコにグミに、\nそれからポテチでしょ…",
+    "translation": "あと、クッキーにチョコにグミに、\nそれからポテチでしょ…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ちょっ！？\nどんだけ隠し持ってんだよ？",
+    "translation": "ちょっ！？\nどんだけ隠し持ってんだよ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "お待たせしました！",
+    "translation": "お待たせしました！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "えっと、こっちがコーヒーで…\nあれ？　こっちがコーラだっけ…？",
+    "translation": "えっと、こっちがコーヒーで…\nあれ？　こっちがコーラだっけ…？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "…みんな揃ったね。\nじゃ、再生するよ？",
+    "translation": "…みんな揃ったね。\nじゃ、再生するよ？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  }
+]

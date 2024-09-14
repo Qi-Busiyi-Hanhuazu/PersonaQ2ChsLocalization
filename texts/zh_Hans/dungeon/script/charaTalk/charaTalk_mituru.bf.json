@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "その辺りは採取可能みたいだな。\nどうする？",
+    "translation": "那附近似乎可以进行采集。\n要去看一下吗？",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n这附近好像可以采集呢。\n怎么办？\n\n那附近好像可以采集啊。\n怎么办？\n\n那一带好像可以采集。\n怎么办？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "了解した。\n警戒して採取するとしよう。",
+    "translation": "了解了。\n谨慎地采集吧。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n了解。\n小心地采集吧。\n\n明白了。\n警戒着采集吧。\n\n明白了。\n要警惕地进行采集。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "よし。最大限の成果を目指そう。",
+    "translation": "好，尽量多采集一些吧。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n好。以最大限度的成果为目标吧。\n\n好吧。以最大限度的成果为目标吧。\n\n好啊。以最大限度的成果为目标吧。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうか。\nでは、止めておくとしよう。",
+    "translation": "这样啊。\n那就先停下来吧。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n这样啊。\n那么，还是别调查好了。\n\n是吗。\n那么，就先停止吧。\n\n是吗？那么，就让它停止吧。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全てのようだな。",
+    "translation": "看来这就是全部了。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n这些就是全部了呢。\n\n这就是全部了。\n\n这就是一切。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うむ。",
+    "translation": "嗯。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いいな。",
+    "translation": "不错。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不错呢。\n\n好啊。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "なかなかだな。",
+    "translation": "相当不错啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n相当不错呢。\n\n很不错啊。\n\n真不错啊。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "まったく…気が抜けないな。\nだが、無事に採り終えたようだ。",
+    "translation": "真是的……一刻也不能放松啊。\n不过，看来是顺利完成采集了。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n真是的……不能大意呢。\n不过，似乎顺利采集完毕了。\n\n真是的……真让人泄气啊。\n但是，好像顺利地采完了。\n\n真是的……不能松懈啊。但是，好像顺利地采集完了。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ブリリアント！",
+    "translation": "精彩！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nBrilliant！\n\n不列颠！\n\n亮！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "素晴らしい。",
+    "translation": "太棒了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n太棒了。"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "エクセレント！",
+    "translation": "卓越！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nExcellent！\n\n练习！\n\n卓越！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットだ。\nどうする？",
+    "translation": "是捷径啊。\n要怎么做？",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n是捷径呢。\n怎么办？\n\n是快捷方式。\n怎么办？\n\n短发。\n怎么办？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こちらは通れないか。",
+    "translation": "这里过不去啊。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n这边好像不能通过啊。\n\n这边能通过吗？\n\n这个不能通过吗。"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ここは…\n危険な気配がするな…",
+    "translation": "感觉这里……\n有股危险的气息啊……",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n这里……\n有危险的气息。\n\n这里……\n别有危险的迹象……\n\n这里……\n感觉到了危险的气息……"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かった。\n気を抜くなよ。",
+    "translation": "明白了。\n不要放松警惕。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n知道了。\n别松懈了。\n\n我知道了。\n不要放松哦。\n\n我知道了。不要松懈啊。"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだな。\n懸命な判断だ。",
+    "translation": "这样啊。\n不错的判断。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n是啊。\n很谨慎的判断。\n\n是啊。\n这是非常认真的判断。\n\n是啊。\n这是拼命的判断。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "強敵だったな…",
+    "translation": "真是强劲的对手……",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n真是个强敌啊……\n\n是强敌啊……"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここはシャドウの気配が多いな…\nどうする？",
+    "translation": "这里有很多暗影的气息……\n要怎么办？",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n这边有很多暗影的气息……\n怎么办？\n\n这里有很多暗影的气息……\n怎么办？\n\n这里暗影的气息很多啊……\n怎么办？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "気を抜かずに行くぞ。",
+    "translation": "不要放松警惕，继续前进。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n别松懈，继续前进。\n\n不要松懈，继续走吧。\n\n别松懈，走吧。"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだな。\n止めておこう。",
+    "translation": "说得也是。\n那就停下来吧。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n是啊。\n还是先停手吧。\n\n是啊。\n停止吧。\n\n是啊。还是算了吧。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "よし。これで終わりか。",
+    "translation": "好。这样就结束了吗。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n好。这样就结束了啊。\n\n好啊。就这样结束了吗。\n\n好吧。这就结束了吗？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから映画館に戻れるな。\nどうする？",
+    "translation": "可以从这回到电影院啊。\n要怎么办？",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n从这里可以回到电影院吧。\n怎么办？\n\n你不要从这里回电影院。\n怎么办？\n\n不要从这里回到电影院。\n怎么办？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鹤",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

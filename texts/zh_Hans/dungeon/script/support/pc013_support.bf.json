@@ -1,0 +1,527 @@
+[
+  {
+    "key": "P3_HERO2_FOE_FOLLOW_STAR_0",
+    "original": "Ｆ．Ｏ．Ｅに気付かれちゃったみたい！",
+    "translation": "F.O.E好像发现了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E好像发现了！\n\n好像被F.O.E发现了！"
+  },
+  {
+    "key": "P3_HERO2_FOE_FOLLOW_STAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅが追ってきてるよ！",
+    "translation": "F.O.E追上来了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E追上来了！"
+  },
+  {
+    "key": "P3_HERO2_FOE_FOLLOW_STAR_3_0",
+    "original": "気をつけて！\nＦ．Ｏ．Ｅが追ってきてる！",
+    "translation": "小心点！\nF.O.E追上来了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n小心点！\nF.O.E追上来了！\n\n小心点！\nF.O.E在追！\n\n小心点！\nF.O.E追来了！"
+  },
+  {
+    "key": "P3_HERO2_FOE_NEAR_1_0",
+    "original": "すぐ近くにＦ．Ｏ．Ｅがいるよ！",
+    "translation": "F.O.E就在附近！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E就在附近！\n\n附近有F.O.E哦！\n\nF.O.E就在附近哦！"
+  },
+  {
+    "key": "P3_HERO2_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅに気付かれちゃってる！",
+    "translation": "被F.O.E发现了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n被F.O.E发现了！"
+  },
+  {
+    "key": "P3_HERO2_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅがいる…気をつけて！",
+    "translation": "F.O.E在……小心点！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E在……小心点！\n\n有F.O.E在……小心！\n\n有F.O.E……小心点！"
+  },
+  {
+    "key": "P3_HERO2_FOE_FOLLOW_END__0",
+    "original": "Ｆ．Ｏ．Ｅ、諦めてくれたみたい。",
+    "translation": "F.O.E好像放弃了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E好像放弃了。\n\nF.O.E，你好像放弃了。"
+  },
+  {
+    "key": "P3_HERO2_FOE_FOLLOW_END__2_0",
+    "original": "Ｆ．Ｏ．Ｅ追いかけてきてないよ！",
+    "translation": "F.O.E没有追上来！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E没有追上来！\n\n我没有追你！\n\nF.O.E没有追来哦！"
+  },
+  {
+    "key": "P3_HERO2_FOE_FOLLOW_END__3_0",
+    "original": "逃げ切れたみたい…よかった。",
+    "translation": "好像逃掉了……太好了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像逃掉了……太好了。\n\n好像跑完了……太好了。\n\n好像逃过了……太好了。"
+  },
+  {
+    "key": "P3_HERO2_KANSI_REACTION__0",
+    "original": "わっ、警戒されてる！",
+    "translation": "哇，被警戒了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哇，被警戒了！"
+  },
+  {
+    "key": "P3_HERO2_KANSI_REACTION__2_0",
+    "original": "見つかると大変だよ、気をつけて！",
+    "translation": "被发现就麻烦了，小心点！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n被发现就麻烦了，小心点！\n\n被发现的话就麻烦了，小心点！\n\n要是被发现就麻烦了，小心点！"
+  },
+  {
+    "key": "P3_HERO2_KANSI_REACTION__3_0",
+    "original": "捕まらないもん！",
+    "translation": "不会被抓住的！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不会被抓住的！\n\n抓不到啊！\n\n不会被抓的！"
+  },
+  {
+    "key": "P3_HERO2_DENKISAKU_REACT_0",
+    "original": "電流を止めないと、\n丸焦げになっちゃうね。",
+    "translation": "不把电流关掉的话，\n会被电焦的。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不把电流关掉的话，\n会被电焦的。\n\n不关掉电流的话，\n会烧焦的。\n\n如果不停止电流的话，就会烧得焦黄。"
+  },
+  {
+    "key": "P3_HERO2_DENKISAKU_REACT_2_0",
+    "original": "電気柵か…\n先に電流を止めるが勝ちだね！",
+    "translation": "是带电栅栏啊……\n先关掉电流的人赢了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是带电栅栏啊……\n先关掉电流的人赢了！\n\n电栅栏吗……\n先停止电流才是胜利！\n\n电栅栏吗？先停止电流就是胜利！"
+  },
+  {
+    "key": "P3_HERO2_DENKISAKU_REACT_3_0",
+    "original": "危ない！　電気柵があるよ！",
+    "translation": "危险！有带电栅栏！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n危险！有带电栅栏！\n\n危险！有电栅栏！\n\n危险！有电栅栏哦！"
+  },
+  {
+    "key": "P3_HERO2_KYOUHU_REACTION_0",
+    "original": "うーわーー！",
+    "translation": "呜哇——！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呜哇——！\n\n哇——！\n\n哇哇！"
+  },
+  {
+    "key": "P3_HERO2_KYOUHU_REACTION_2_0",
+    "original": "きゃああっ！",
+    "translation": "呀啊啊！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呀啊啊！\n\n哎呀！\n\n啊啊啊！"
+  },
+  {
+    "key": "P3_HERO2_KYOUHU_REACTION_3_0",
+    "original": "ウソー！？",
+    "translation": "骗人！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n骗人！？\n\n乌鲁！？"
+  },
+  {
+    "key": "P3_HERO2_STAIR_FIND_1_0",
+    "original": "次のエリア進めそう！",
+    "translation": "好像能进到下一个区域了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像能进到下一个区域了！\n\n下一个区域前进吧！"
+  },
+  {
+    "key": "P3_HERO2_STAIR_FIND_2_0",
+    "original": "次のエリアに行くっきゃない！",
+    "translation": "只能去下一个区域了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n只能去下一个区域了！\n\n要去下一个区域！\n\n必须去下一个区域！"
+  },
+  {
+    "key": "P3_HERO2_STAIR_FIND_3_0",
+    "original": "やった、先に進めそうだね。",
+    "translation": "太好了，能前进了呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n太好了，能前进了呢。\n\n太好了，好像要往前走了。\n\n太好了，可以继续前进了。"
+  },
+  {
+    "key": "P3_HERO2_TREASURE_FIND_1_0",
+    "original": "見て！　宝箱があるよ！",
+    "translation": "快看！有宝箱！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n快看！有宝箱！\n\n看！有宝箱哦！\n\n你看！有宝箱哦！"
+  },
+  {
+    "key": "P3_HERO2_TREASURE_FIND_2_0",
+    "original": "宝箱があるね。開けてみよう！",
+    "translation": "有宝箱呢。打开看看吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有宝箱呢。打开看看吧！\n\n有宝箱啊。打开看看吧！\n\n有个宝箱呢。打开看看！"
+  },
+  {
+    "key": "P3_HERO2_TREASURE_FIND_3_0",
+    "original": "宝箱だ、中身は何かな！？",
+    "translation": "是宝箱啊，里面会有什么呢！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是宝箱啊，里面会有什么呢！？\n\n宝箱，里面是什么呢！？\n\n是百宝箱，里面装的是什么？？"
+  },
+  {
+    "key": "P3_HERO2_CHECK_WALL_1_0",
+    "original": "この辺り、気になるなぁ…",
+    "translation": "这边感觉有点可疑啊……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这边感觉有点可疑啊……\n\n这附近很在意啊……\n\n这附近，很在意啊……"
+  },
+  {
+    "key": "P3_HERO2_CHECK_WALL_2_0",
+    "original": "ここ、何かありそう。調べてみよう！",
+    "translation": "这里好像有什么，调查一下吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这里好像有什么，调查一下吧！\n\n这里好像有什么事。调查一下吧！\n\n这里好像有什么。调查一下吧！"
+  },
+  {
+    "key": "P3_HERO2_CHECK_WALL_3_0",
+    "original": "何かこの辺り…変じゃない？",
+    "translation": "这边好像有点……不太对劲？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这边好像有点……不太对劲？\n\n这附近有什么……不奇怪吗？\n\n这附近是不是很奇怪？"
+  },
+  {
+    "key": "P3_HERO2_SWITCH_FIND_1_0",
+    "original": "スイッチだ、押しちゃおうよ！",
+    "translation": "有开关，按下去看看吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有开关，按下去看看吧！\n\n按下开关吧！\n\n是开关，按下吧！"
+  },
+  {
+    "key": "P3_HERO2_SWITCH_FIND_2_0",
+    "original": "スイッチ発見、いざゆかん！",
+    "translation": "发现开关，出发吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n发现开关，出发吧！\n\n发现开关，马上就行了！\n\n发现开关，来吧！"
+  },
+  {
+    "key": "P3_HERO2_SWITCH_FIND_3_0",
+    "original": "あれ、スイッチじゃないかな？",
+    "translation": "咦，那是不是开关啊？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n咦，那是不是开关啊？\n\n咦，不是开关吗？\n\n那个，会不会是开关？"
+  },
+  {
+    "key": "P3_HERO2_SHORTCUT_FIND_1_0",
+    "original": "あっ、そこ通れそうじゃない？",
+    "translation": "啊，那里好像能过去？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啊，那里好像能过去？\n\n啊，那里不是可以通过吗？\n\n啊，那里好像可以通过吧？"
+  },
+  {
+    "key": "P3_HERO2_SHORTCUT_FIND_2_0",
+    "original": "見て、近道になりそうな場所があるよ！",
+    "translation": "快看，有个能抄近路的地方！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n快看，有个能抄近路的地方！\n\n看，有可以成为近路的地方哦！\n\n快看，有个地方可以抄近道哦！"
+  },
+  {
+    "key": "P3_HERO2_SHORTCUT_FIND_3_0",
+    "original": "あ、そこ近道できそう！",
+    "translation": "啊，那边能抄近路！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啊，那边能抄近路！\n\n啊，那里可以抄近路！\n\n啊，那里好像可以抄近道！"
+  },
+  {
+    "key": "P3_HERO2_FOE_WARNING_NEA_0",
+    "original": "Ｆ．Ｏ．Ｅがまだ近くにいる！\n気をつけて！",
+    "translation": "F.O.E还在附近！\n小心！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E还在附近！\n小心！"
+  },
+  {
+    "key": "P3_HERO2_FOE_WARNING_NEA_2_0",
+    "original": "さっきのＦ．Ｏ．Ｅ、まだいるみたい。",
+    "translation": "刚才的F.O.E好像还在。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n刚才的F.O.E好像还在。\n\n刚才的F.O.E，好像还在。"
+  },
+  {
+    "key": "P3_HERO2_FOE_WARNING_NEA_3_0",
+    "original": "Ｆ．Ｏ．Ｅが来てるよ！",
+    "translation": "F.O.E来了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E来了！\n\nF.O.E来啦！"
+  },
+  {
+    "key": "P3_HERO2_1PERSON_HPTP10__0",
+    "original": "うん、けっこーキツい！",
+    "translation": "嗯，还挺难打的！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯，还挺难打的！\n\n嗯，好辛苦！\n\n嗯，好厉害！"
+  },
+  {
+    "key": "P3_HERO2_1PERSON_HPTP10__2_0",
+    "original": "いったん拠点に戻らない？",
+    "translation": "要不要先回据点？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要不要先回据点？\n\n暂时不回据点？"
+  },
+  {
+    "key": "P3_HERO2_1PERSON_HPTP10__3_0",
+    "original": "はぁ、はぁ…ごめん、限界近い…",
+    "translation": "呼……呼……抱歉，我快不行了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呼……呼……抱歉，我快不行了……\n\n啊、啊……对不起，接近极限了……\n\n哈、哈……对不起，快到极限了……"
+  },
+  {
+    "key": "P3_HERO2_1PERSON_HP10_1_0",
+    "original": "うう…誰か回復してくれる人ー！",
+    "translation": "呜呜……谁来帮我恢复一下！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呜呜……谁来帮我恢复一下！\n\n呜呜……谁能帮我恢复！\n\n嗯……谁能恢复的人！"
+  },
+  {
+    "key": "P3_HERO2_1PERSON_HP10_2_0",
+    "original": "体力なくなりそう…",
+    "translation": "体力快没了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n体力快没了……\n\n体力好像没有了……\n\n体力不支了……"
+  },
+  {
+    "key": "P3_HERO2_1PERSON_HP10_3_0",
+    "original": "も、もうダメ…体力ピンチ…",
+    "translation": "不……不行了……体力危机……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不……不行了……体力危机……\n\n已经不行了……体力危机……\n\n但是，已经不行了……体力危机……"
+  },
+  {
+    "key": "P3_HERO2_1PERSON_TP10_1_0",
+    "original": "疲れちゃったかも…少し休まない？",
+    "translation": "我好像累了……稍微休息一下吧？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我好像累了……稍微休息一下吧？\n\n可能累了……要不要休息一下？\n\n可能累了……不稍微休息一下吗？"
+  },
+  {
+    "key": "P3_HERO2_1PERSON_TP10_2_0",
+    "original": "気力が…ごめん…",
+    "translation": "我快没力气了……抱歉……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我快没力气了……抱歉……\n\n气力……对不起……\n\n精力……对不起……"
+  },
+  {
+    "key": "P3_HERO2_1PERSON_TP10_3_0",
+    "original": "無理…もう元気でない…",
+    "translation": "不行了……我已经没精神了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不行了……我已经没精神了……\n\n不行……已经没有精神了……\n\n不可能……已经没有精神了……"
+  },
+  {
+    "key": "P3_HERO2_1PERSON_HP80_1_0",
+    "original": "次もこんな感じだといいね！",
+    "translation": "希望下次也能像这样！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n希望下次也能像这样！\n\n下次也是这样就好了！"
+  },
+  {
+    "key": "P3_HERO2_1PERSON_HP80_2_0",
+    "original": "楽勝、楽勝！",
+    "translation": "轻松，轻松！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n轻松，轻松！\n\n轻松获胜，轻松获胜！"
+  },
+  {
+    "key": "P3_HERO2_1PERSON_HP80_3_0",
+    "original": "バッチリ！",
+    "translation": "完美！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n完美！\n\n太棒了！\n\n妥妥的！"
+  },
+  {
+    "key": "P3_HERO2_DUNGEON_START_1_0",
+    "original": "いざゆかん！",
+    "translation": "出发吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n出发吧！\n\n不行！\n\n来吧！"
+  },
+  {
+    "key": "P3_HERO2_DUNGEON_START_2_0",
+    "original": "私に任せて！",
+    "translation": "交给我吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n交给我吧！"
+  },
+  {
+    "key": "P3_HERO2_DUNGEON_START_3_0",
+    "original": "皆の者、頑張ろー！",
+    "translation": "大家加油！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大家加油！\n\n大家，加油！"
+  },
+  {
+    "key": "P3_HERO2_QUEST_START_1_0",
+    "original": "よーし、早く解決しよう！",
+    "translation": "好，赶快解决掉吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，赶快解决掉吧！\n\n好，快点解决吧！"
+  },
+  {
+    "key": "P3_HERO2_QUEST_START_2_0",
+    "original": "皆の者、出動だ！",
+    "translation": "大家出动！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大家出动！\n\n大家都出动了！"
+  },
+  {
+    "key": "P3_HERO2_QUEST_START_3_0",
+    "original": "何だかワクワクしてきちゃった。",
+    "translation": "感觉有点兴奋起来了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n感觉有点兴奋起来了。\n\n总觉得很兴奋。"
+  },
+  {
+    "key": "P3_HERO2_TOUHA_25_1_0",
+    "original": "まだ先は長そう…体力は大丈夫？",
+    "translation": "感觉路还很长……体力没问题吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n感觉路还很长……体力没问题吗？\n\n前面好像还很长……体力还好吗？\n\n路还很长……体力没问题吧？"
+  },
+  {
+    "key": "P3_HERO2_TOUHA_25_2_0",
+    "original": "広そうだね…気をつけて進もう。",
+    "translation": "这里好大啊……小心前进吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这里好大啊……小心前进吧。\n\n看起来很宽敞呢……小心前进吧。\n\n看起来很宽敞……小心前进吧。"
+  },
+  {
+    "key": "P3_HERO2_TOUHA_50_1_0",
+    "original": "地図、いい感じに埋まってきたね！",
+    "translation": "地图填得差不多了呢！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n地图填得差不多了呢！\n\n地图，被很好的感觉填满了呢！\n\n地图，填得真好啊！"
+  },
+  {
+    "key": "P3_HERO2_TOUHA_50_2_0",
+    "original": "ちょうど半分くらいかな？",
+    "translation": "差不多到一半了吧？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n差不多到一半了吧？\n\n正好一半吧？\n\n正好是一半吧？"
+  },
+  {
+    "key": "P3_HERO2_TOUHA_75_1_0",
+    "original": "この調子でガンガンいこー！",
+    "translation": "就这样继续前进吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n就这样继续前进吧！\n\n就这样咣咣咣！\n\n就这样加油吧！"
+  },
+  {
+    "key": "P3_HERO2_TOUHA_75_2_0",
+    "original": "あとちょっとかな？",
+    "translation": "还差一点吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n还差一点吗？\n\n还有一点吗？\n\n再过一会儿吧？"
+  },
+  {
+    "key": "P3_HERO2_TOUHA_100_1_0",
+    "original": "うーん、達成感！",
+    "translation": "嗯，成就感！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯，成就感！"
+  },
+  {
+    "key": "P3_HERO2_TOUHA_100_2_0",
+    "original": "うん、バッチリ！　やったね。",
+    "translation": "嗯，完美！成功了呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯，完美！成功了呢。\n\n嗯，很棒！太好了。\n\n嗯，很好！太好了。"
+  },
+  {
+    "key": "P3_HERO2_MAPPING_ICON_AL_0",
+    "original": "うん、オッケー！",
+    "translation": "嗯，OK！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯，OK！\n\n嗯，好！\n\n嗯，OK ！"
+  },
+  {
+    "key": "P3_HERO2_MAPPING_ICON_AL_2_0",
+    "original": "これで忘れないね！",
+    "translation": "这样就不会忘记了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这样就不会忘记了！"
+  },
+  {
+    "key": "P3_HERO2_MAPPING_ICON_KA_0",
+    "original": "ここから別のフロアに行けるんだね。",
+    "translation": "从这里能去别的楼层呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n从这里能去别的楼层呢。\n\n从这里可以去别的楼层啊。\n\n从这里可以去别的楼层吧。"
+  },
+  {
+    "key": "P3_HERO2_MAPPING_ICON_KA_2_0",
+    "original": "これで迷わず移動できるね！",
+    "translation": "这样就能毫无顾虑地移动了呢！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这样就能毫无顾虑地移动了呢！\n\n这样就可以毫不犹豫地移动了呢！\n\n这样就可以毫不犹豫地移动了！"
+  },
+  {
+    "key": "P3_HERO2_MAPPING_CHANGE__0",
+    "original": "その色、見やすくてイイね！",
+    "translation": "这种颜色很好辨认，真不错！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这种颜色很好辨认，真不错！\n\n那个颜色，容易看好！\n\n那个颜色很容易看，很好看呢！"
+  },
+  {
+    "key": "P3_HERO2_MAPPING_CHANGE__2_0",
+    "original": "いいな、私もやってみたい！",
+    "translation": "真好，我也想试试看！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真好，我也想试试看！\n\n好啊，我也想试试看！\n\n好啊，我也想试试！"
+  },
+  {
+    "key": "P3_HERO2_MAPPING_ICON_DE_0",
+    "original": "地図が見やすくなったね。",
+    "translation": "地图变得很好看了呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n地图变得很好看了呢。\n\n地图变得容易看了呢。"
+  },
+  {
+    "key": "P3_HERO2_MAPPING_ICON_DE_2_0",
+    "original": "うん、要らないのはどーんと捨てよ！",
+    "translation": "嗯，不要的东西就全部扔掉吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯，不要的东西就全部扔掉吧！\n\n嗯，不需要的就扔了吧！\n\n嗯，不要的干脆扔掉！"
+  },
+  {
+    "key": "P3_HERO2_MAPPING_MEMO_1_0",
+    "original": "忘れないようにしないとね！",
+    "translation": "得小心别忘了才行！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n得小心别忘了才行！\n\n不要忘记哦！\n\n一定不要忘记哦！"
+  },
+  {
+    "key": "P3_HERO2_MAPPING_MEMO_2_0",
+    "original": "いたずら書きしちゃおっかな？\n…冗談だって！",
+    "translation": "来写些恶作剧的话吧？\n……开玩笑的啦！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n来写些恶作剧的话吧？\n……开玩笑的啦！\n\n是不是胡乱写了？\n……开玩笑！\n\n你怕我乱写吗？\n……开玩笑！"
+  },
+  {
+    "key": "P3_HERO2_DOOR_OPEN_1_0",
+    "original": "さあ、行こっ！",
+    "translation": "好了，走吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好了，走吧！\n\n来，走吧！"
+  },
+  {
+    "key": "P3_HERO2_DOOR_OPEN_2_0",
+    "original": "れっつごーごー！",
+    "translation": "Let's go！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nLet's go！\n\n喂喂！\n\n咳咳！"
+  },
+  {
+    "key": "P3_HERO2_DOOR_OPEN_3_0",
+    "original": "こっちだよ！",
+    "translation": "在这边！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n在这边！\n\n这边！\n\n是这边！"
+  }
+]

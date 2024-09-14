@@ -1,0 +1,170 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "ZABE_MSG_005_0",
+    "original": "悪くありません。",
+    "translation": "不错呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不错耶。\n\n不坏。\n\n还不错。"
+  },
+  {
+    "key": "THEO_MSG_005_0",
+    "original": "やりましたね。",
+    "translation": "做得好。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n成功了呢。\n\n做了啊。\n\n做得很好。"
+  },
+  {
+    "key": "ZABE_MSG_006_0",
+    "original": "おやおや。",
+    "translation": "哎呀哎呀。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哎呀哎呀。"
+  },
+  {
+    "key": "THEO_MSG_006_0",
+    "original": "いい調子です。",
+    "translation": "状态不错呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n状况不错。\n\n状态很好。"
+  },
+  {
+    "key": "ZABE_MSG_007_0",
+    "original": "おや、まぁ。",
+    "translation": "哎呀，这真是。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哎呀，嗯。\n\n哎呀，哎呀。\n\n哎，是啊。"
+  },
+  {
+    "key": "THEO_MSG_007_0",
+    "original": "これはなかなか…",
+    "translation": "这还真是……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这还挺……\n\n这个很不错……\n\n这还真是……"
+  },
+  {
+    "key": "ZABE_MSG_009_0",
+    "original": "素晴らしい！",
+    "translation": "太棒了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n棒的！\n\n太棒了！"
+  },
+  {
+    "key": "ZABE_MSG_010_0",
+    "original": "お、おぉ！！",
+    "translation": "哦、哦哦！！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦、哦哦！\n\n哦、哦！！"
+  },
+  {
+    "key": "THEO_MSG_010_0",
+    "original": "素晴らしい！",
+    "translation": "太棒了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n棒的！\n\n太棒了！"
+  },
+  {
+    "key": "ZABE_MSG_011_0",
+    "original": "おや、レア物！",
+    "translation": "哎呀，是稀有物品呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哎呀，稀有物！\n\n哎呀，稀有物品！"
+  },
+  {
+    "key": "THEO_MSG_011_0",
+    "original": "レア物です！",
+    "translation": "稀有物品！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是稀有物！"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "ZABE_MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "THEO_MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "伊莉莎白",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

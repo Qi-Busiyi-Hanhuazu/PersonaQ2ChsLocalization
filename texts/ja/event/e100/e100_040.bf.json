@@ -1,0 +1,170 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ダメだ、どこにもいない…",
+    "translation": "ダメだ、どこにもいない…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "扉があっても、開かなかったし…\nどうなってんの？",
+    "translation": "扉があっても、開かなかったし…\nどうなってんの？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "まるで神隠しにあったようだな。\nそもそも、この場所も謎が多い。",
+    "translation": "まるで神隠しにあったようだな。\nそもそも、この場所も謎が多い。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "映画館なのは間違いなさそうだけど、\nどこか変だね。",
+    "translation": "映画館なのは間違いなさそうだけど、\nどこか変だね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "人の気配もまったくしないし。",
+    "translation": "人の気配もまったくしないし。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "けどマジで、\n俺らどっからここに入ってきたんだ？",
+    "translation": "けどマジで、\n俺らどっからここに入ってきたんだ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "きっと上からだ",
+    "translation": "きっと上からだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "横からでは？",
+    "translation": "横からでは？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_2",
+    "original": "下から来たかも",
+    "translation": "下から来たかも",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うーん…落ちてきた感覚は\nなかったけどね。",
+    "translation": "うーん…落ちてきた感覚は\nなかったけどね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いやいやいや！\n上とか下とかって問題か！？",
+    "translation": "いやいやいや！\n上とか下とかって問題か！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "確かに…上下移動というよりは\n水平移動の感覚だったね。",
+    "translation": "確かに…上下移動というよりは\n水平移動の感覚だったね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "いや、だからどこからだよ！？",
+    "translation": "いや、だからどこからだよ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "湧き上がってきたってことかい？\nははっ、斬新な考え方だね。",
+    "translation": "湧き上がってきたってことかい？\nははっ、斬新な考え方だね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "え、どういう話になってんの！？",
+    "translation": "え、どういう話になってんの！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "おい！　ちょっとこっちに来い！",
+    "translation": "おい！　ちょっとこっちに来い！",
+    "stage": 1,
+    "context": "モルガナの声"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "モルガナ、なんか見つけたのかも！",
+    "translation": "モルガナ、なんか見つけたのかも！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "行ってみよう、[P5名]。",
+    "translation": "行ってみよう、[P5名]。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナの声",
+    "original": "モルガナの声",
+    "translation": "モルガナの声",
+    "stage": 1,
+    "context": ""
+  }
+]

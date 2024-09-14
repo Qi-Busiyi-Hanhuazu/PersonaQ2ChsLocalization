@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "やって参りました『Ａ．Ⅰ．Ｇ．Ⅰ．Ｓ』！\nいやー、見渡す限りＳＦしてんな～。",
+    "translation": "やって参りました『Ａ．Ⅰ．Ｇ．Ⅰ．Ｓ』！\nいやー、見渡す限りＳＦしてんな～。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "で、タマゴを探すんだっけ？",
+    "translation": "で、タマゴを探すんだっけ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ねえ、見てあれ！",
+    "translation": "ねえ、見てあれ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "モニターの絵が変わってる？\n矢印になってるな。",
+    "translation": "モニターの絵が変わってる？\n矢印になってるな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そういえば、小さい頃にやったかも。",
+    "translation": "そういえば、小さい頃にやったかも。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "イースターの卵探しって、ああいう看板で\n隠した場所を教えてあげたりするの。",
+    "translation": "イースターの卵探しって、ああいう看板で\n隠した場所を教えてあげたりするの。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おお、さすがパンサー国際派！",
+    "translation": "おお、さすがパンサー国際派！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "んじゃ、あの矢印の方向に\n辿ってけばいいんじゃね？",
+    "translation": "んじゃ、あの矢印の方向に\n辿ってけばいいんじゃね？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ふむ、その先に『イースターエッグ』が\n隠されてるってことか。",
+    "translation": "ふむ、その先に『イースターエッグ』が\n隠されてるってことか。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "よしジョーカー、あの矢印だ。\n矢印のモニターを探して、その方向に進め！",
+    "translation": "よしジョーカー、あの矢印だ。\n矢印のモニターを探して、その方向に進め！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

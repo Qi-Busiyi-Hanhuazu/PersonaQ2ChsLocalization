@@ -1,0 +1,422 @@
+[
+  {
+    "key": "MSG_0000_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_0000_1",
+    "original": "美鶴が、もの思わしげな雰囲気で\nなにやら考え込んでいる…",
+    "translation": "美鶴が、もの思わしげな雰囲気で\nなにやら考え込んでいる…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "なあ、[P3P姓]。\nお前の世界のことだが…",
+    "translation": "なあ、[P3P姓]。\nお前の世界のことだが…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "トイレいってますけど。",
+    "translation": "トイレいってますけど。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そうか…ハァ…",
+    "translation": "そうか…ハァ…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "浮かない顔だな。\nまぁ、気持ちは分かるが…",
+    "translation": "浮かない顔だな。\nまぁ、気持ちは分かるが…",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "[P3P名]の話がマジなら、\nそれこそＳＦみたいな話だよなー。",
+    "translation": "[P3P名]の話がマジなら、\nそれこそＳＦみたいな話だよなー。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "違う世界に、俺たちの知らない\n俺たちがいるってことだろ？",
+    "translation": "違う世界に、俺たちの知らない\n俺たちがいるってことだろ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そういうの、考えたことありますけど…\n本当にあるのかな…不思議ですね。",
+    "translation": "そういうの、考えたことありますけど…\n本当にあるのかな…不思議ですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "もう一人のオレっちかー。",
+    "translation": "もう一人のオレっちかー。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "超イケメンモデルで、全世界の女子に\nモテモテとかだったらどーするよ！？",
+    "translation": "超イケメンモデルで、全世界の女子に\nモテモテとかだったらどーするよ！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "それ別人でしょ。\n転生しない限り無理だから。",
+    "translation": "それ別人でしょ。\n転生しない限り無理だから。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "…ま、あの子の反応を見る限り\nそう変わらないっぽいけど。",
+    "translation": "…ま、あの子の反応を見る限り\nそう変わらないっぽいけど。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あの、言いそびれてたんですけど…",
+    "translation": "あの、言いそびれてたんですけど…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "映画の中で、怪盗団や特捜隊の\nみんなが助けに来てくれた時…",
+    "translation": "映画の中で、怪盗団や特捜隊の\nみんなが助けに来てくれた時…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "[P3P名]ちゃんを、一瞬だけ\nルキアがリーダーと誤認したんです。",
+    "translation": "[P3P名]ちゃんを、一瞬だけ\nルキアがリーダーと誤認したんです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "なに？",
+    "translation": "なに？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "わかる。性格は違うんだけど、\n雰囲気っつーの？",
+    "translation": "わかる。性格は違うんだけど、\n雰囲気っつーの？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "リーダーと似てるんだよな。\n上手く言えないんだけどさ。",
+    "translation": "リーダーと似てるんだよな。\n上手く言えないんだけどさ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "うん、初めて会うはずなのに、\n馴染むっていうか…なんでだろ。",
+    "translation": "うん、初めて会うはずなのに、\n馴染むっていうか…なんでだろ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "コロマルも同意してるみたいですね。",
+    "translation": "コロマルも同意してるみたいですね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ま、考えたとこで答えなんか出ねぇ。\n普通にしてりゃ問題ねーだろ。",
+    "translation": "ま、考えたとこで答えなんか出ねぇ。\n普通にしてりゃ問題ねーだろ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "…そうだな。なんにせよ、今はリーダーと\nアイギスの救出が先だ。",
+    "translation": "…そうだな。なんにせよ、今はリーダーと\nアイギスの救出が先だ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "[P3P名]が、離れたところから\n月光館学園のメンバーを見ている…",
+    "translation": "[P3P名]が、離れたところから\n月光館学園のメンバーを見ている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "[P3P姓]さん…",
+    "translation": "[P3P姓]さん…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ひゃっ？\nわ…びっくりしたぁ。",
+    "translation": "ひゃっ？\nわ…びっくりしたぁ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "ごめん、ぼーっとしてて…あはは。\nなになに、どうしたの？",
+    "translation": "ごめん、ぼーっとしてて…あはは。\nなになに、どうしたの？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "混ざってこいよ…って、難しいか。",
+    "translation": "混ざってこいよ…って、難しいか。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "まあ、あいつらが混乱する気持ちも\n分かるけどさ…",
+    "translation": "まあ、あいつらが混乱する気持ちも\n分かるけどさ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "[P3P名]ちゃんの気持ち考えたら、\nやるせないっつーか…つれぇよな。",
+    "translation": "[P3P名]ちゃんの気持ち考えたら、\nやるせないっつーか…つれぇよな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "あはは！　私、全然大丈夫だよ？\nパラレルとか、これぞＳＦって感じだし！",
+    "translation": "あはは！　私、全然大丈夫だよ？\nパラレルとか、これぞＳＦって感じだし！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_023_0",
+    "original": "無理するな",
+    "translation": "無理するな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_023_1",
+    "original": "俺たちを頼っていい",
+    "translation": "俺たちを頼っていい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ふふ、ありがとう…\n元気づけてくれてるんだね。",
+    "translation": "ふふ、ありがとう…\n元気づけてくれてるんだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "だって、[P3P姓]さん…\n仲間のこと、あんなに心配してたのに。",
+    "translation": "だって、[P3P姓]さん…\n仲間のこと、あんなに心配してたのに。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ありがとう…\nみんな本当に優しいね。",
+    "translation": "ありがとう…\nみんな本当に優しいね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "でも、たとえみんなが私のこと知らなくても\n私にとっては大事な仲間なんだ。",
+    "translation": "でも、たとえみんなが私のこと知らなくても\n私にとっては大事な仲間なんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_026_2",
+    "original": "それだけは変わらないし、変えたくない。",
+    "translation": "それだけは変わらないし、変えたくない。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_026_3",
+    "original": "だから、アイギスやリーダー捜しも\nバッチリ手伝うつもり！",
+    "translation": "だから、アイギスやリーダー捜しも\nバッチリ手伝うつもり！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "…[P3P姓]さんは、強いんだね。",
+    "translation": "…[P3P姓]さんは、強いんだね。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "えへへ、そーかな？\nたぶん、みんながいてくれるからだよ。",
+    "translation": "えへへ、そーかな？\nたぶん、みんながいてくれるからだよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "もし本当に独りきりだったら、\n私、ここまで来れなかったもん。",
+    "translation": "もし本当に独りきりだったら、\n私、ここまで来れなかったもん。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "……！",
+    "translation": "……！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "うん、私も…\nみんなとここで会えて、よかった…",
+    "translation": "うん、私も…\nみんなとここで会えて、よかった…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "よーし！\n次も頑張るから、見ててね！？",
+    "translation": "よーし！\n次も頑張るから、見ててね！？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "うん…！",
+    "translation": "うん…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  }
+]

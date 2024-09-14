@@ -1,0 +1,163 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "んじゃ、早速アンモナイトを探すとするか…\nって、どこ探せばいいんだ？",
+    "translation": "んじゃ、早速アンモナイトを探すとするか…\nって、どこ探せばいいんだ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "土の中",
+    "translation": "土の中",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "森の中",
+    "translation": "森の中",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_2",
+    "original": "海の中",
+    "translation": "海の中",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "じゃあ、ここらをしらみ潰しってこと？\nうーん、けっこう大変そう…",
+    "translation": "じゃあ、ここらをしらみ潰しってこと？\nうーん、けっこう大変そう…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "たしかに、アンモナイトって\n海の生きものだもんね。",
+    "translation": "たしかに、アンモナイトって\n海の生きものだもんね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "でも、ここら辺に海なんて…",
+    "translation": "でも、ここら辺に海なんて…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "アンモナイトの生態を考えると、\n水辺をあたるのがいいと思う。",
+    "translation": "アンモナイトの生態を考えると、\n水辺をあたるのがいいと思う。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "現代でも河原の地層から化石が\n発掘されたりするからね。",
+    "translation": "現代でも河原の地層から化石が\n発掘されたりするからね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ここから最も近い水場というと、\nたしか東の方角だったはずです。",
+    "translation": "ここから最も近い水場というと、\nたしか東の方角だったはずです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "皆、助かる…",
+    "translation": "皆、助かる…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "必ず、天城さんが情熱を解放できるような\n『アンモナイト』をこの手に！！",
+    "translation": "必ず、天城さんが情熱を解放できるような\n『アンモナイト』をこの手に！！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ありがたいんだけど…\n大声で言われると、ちょっと恥ずかしいな。",
+    "translation": "ありがたいんだけど…\n大声で言われると、ちょっと恥ずかしいな。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "悪気はないのだけど…ごめんなさいね。",
+    "translation": "悪気はないのだけど…ごめんなさいね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "ともかく、東の水場に行ってみましょう。",
+    "translation": "ともかく、東の水場に行ってみましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  }
+]

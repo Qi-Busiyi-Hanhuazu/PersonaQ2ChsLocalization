@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "出たな怪人クイーン・ジョー！\n成敗してくれる！",
+    "translation": "出たな怪人クイーン・ジョー！\n成敗してくれる！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "へへっ、ナビの奴すっかり\nなりきっちまってるな。",
+    "translation": "へへっ、ナビの奴すっかり\nなりきっちまってるな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "覚悟しろ、クイーン・ジョー！\n乱暴は許さないぞ！",
+    "translation": "覚悟しろ、クイーン・ジョー！\n乱暴は許さないぞ！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あはは、天田くんも生き生きしてるし。\nなんかよかったね。",
+    "translation": "あはは、天田くんも生き生きしてるし。\nなんかよかったね。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "さあフェザージョーカー！\n攻撃の合図を！",
+    "translation": "さあフェザージョーカー！\n攻撃の合図を！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "いくぞ！",
+    "translation": "いくぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "ショータイムだ！",
+    "translation": "ショータイムだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_2",
+    "original": "フェザー・チェンジ！",
+    "translation": "フェザー・チェンジ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "おお、ノリノリだねえ。\nそういうのキライじゃねーよ？",
+    "translation": "おお、ノリノリだねえ。\nそういうのキライじゃねーよ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いやもう君は変身はしてるだろ。\nそこは『いくぞ！』とかでしょ！",
+    "translation": "いやもう君は変身はしてるだろ。\nそこは『いくぞ！』とかでしょ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ジョーカー、一気に決めろ！\nＶＳジョー・第二幕だ！",
+    "translation": "ジョーカー、一気に決めろ！\nＶＳジョー・第二幕だ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "『サイドプテラ』を討伐せよ！",
+    "translation": "讨伐“飞行蜥蜴”！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n讨伐“飞行蜥蜴”！\n\n讨伐“侧面凶器”！\n\n讨伐“sideptera”！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "残り２体を探せ、討伐しろ",
+    "translation": "寻找剩下的2只并将其讨伐",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找剩下的2只，将其讨伐\n\n寻找剩下的两具，讨伐\n\n寻找剩下的2只，讨伐！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "残り１体を探し、討伐しろ",
+    "translation": "寻找剩下的1只并将其讨伐",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找剩下的1只，将其讨伐\n\n寻找剩下的一只，讨伐它。\n\n寻找剩下的一只，讨伐"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "クエストクリア報告に向かおう",
+    "translation": "去完成任务报告",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去完成任务报告\n\n向着任务完成报告前进吧\n\n前往任务通关报告"
+  }
+]

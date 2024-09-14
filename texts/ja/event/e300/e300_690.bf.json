@@ -1,0 +1,296 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "無事に開いたわね…",
+    "translation": "無事に開いたわね…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "これで、鍵は残り１つか。",
+    "translation": "これで、鍵は残り１つか。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "だが、今はそんなことを\n気にしている場合じゃないな。",
+    "translation": "だが、今はそんなことを\n気にしている場合じゃないな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そうだぞ！\n早く、ひかりを助けないと！",
+    "translation": "そうだぞ！\n早く、ひかりを助けないと！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "このブザーは…",
+    "translation": "このブザーは…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "館内の皆さまにお知らせいたします。",
+    "translation": "館内の皆さまにお知らせいたします。",
+    "stage": 1,
+    "context": "場内アナウンス"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "まもなく、第４シアターにおきまして\n新しい映画が上映されます。繰り返します…",
+    "translation": "まもなく、第４シアターにおきまして\n新しい映画が上映されます。繰り返します…",
+    "stage": 1,
+    "context": "場内アナウンス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "まもなく、第４シアターにおきまし…て…\n新しい…映画が…",
+    "translation": "まもなく、第４シアターにおきまし…て…\n新しい…映画が…",
+    "stage": 1,
+    "context": "場内アナウンス"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "ぜったいに…えいがを…\nみにきてください…",
+    "translation": "ぜったいに…えいがを…\nみにきてください…",
+    "stage": 1,
+    "context": "場内アナウンス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "今の文言って、確か…",
+    "translation": "今の文言って、確か…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "招待状だ",
+    "translation": "招待状だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "思い出せない",
+    "translation": "思い出せない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "…なるほど。",
+    "translation": "…なるほど。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "ひかりさんが持っていた招待状に\n書かれていた内容と同じだ。",
+    "translation": "ひかりさんが持っていた招待状に\n書かれていた内容と同じだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "たしかに…\nどうなっているんだ？",
+    "translation": "たしかに…\nどうなっているんだ？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ひかり…無事でいて。",
+    "translation": "ひかり…無事でいて。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "だーっ！\nここで喋ってても仕方ねぇ！",
+    "translation": "だーっ！\nここで喋ってても仕方ねぇ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "第４シアターだろ？\nさっさとひかりを助けに行こうぜ！",
+    "translation": "第４シアターだろ？\nさっさとひかりを助けに行こうぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ねえ、新しいシアターの扉が開いてたよ！",
+    "translation": "ねえ、新しいシアターの扉が開いてたよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "今のアナウンス…やっぱり\n新しい映画が始まる知らせだったんだ。",
+    "translation": "今のアナウンス…やっぱり\n新しい映画が始まる知らせだったんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "みんな！　ひかりは！？",
+    "translation": "みんな！　ひかりは！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "くまなく探しましたが…\n映画館の中にはいませんでした。",
+    "translation": "くまなく探しましたが…\n映画館の中にはいませんでした。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "同じく、こちらも見つからなかった。\nそうすると、残る場所は…",
+    "translation": "同じく、こちらも見つからなかった。\nそうすると、残る場所は…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "映画の中…だね。",
+    "translation": "映画の中…だね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "へっ、そんな気はしてたぜ。\nこっちはいつでも準備できてるっスよ。",
+    "translation": "へっ、そんな気はしてたぜ。\nこっちはいつでも準備できてるっスよ。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "よし、行くぞ。\nお前ら、気を抜くんじゃねえぞ！！",
+    "translation": "よし、行くぞ。\nお前ら、気を抜くんじゃねえぞ！！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_場内アナウンス",
+    "original": "場内アナウンス",
+    "translation": "場内アナウンス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  }
+]

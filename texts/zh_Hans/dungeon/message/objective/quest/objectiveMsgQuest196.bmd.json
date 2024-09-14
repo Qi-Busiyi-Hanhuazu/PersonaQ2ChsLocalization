@@ -1,0 +1,37 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "改造施設を停止しよう",
+    "translation": "停止改造设施",
+    "stage": 0,
+    "context": "机翻辅助：\n\n停止改造设施\n\n停止改造设施吧"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "目的地を目指そう",
+    "translation": "前往目的地吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前往目的地\n\n以目的地为目标"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "改造施設の場所に戻ろう",
+    "translation": "回到改造设施的场所",
+    "stage": 0,
+    "context": "机翻辅助：\n\n回到改造设施的场所\n\n回到改造设施的地方吧\n\n让我们回到改造设施的位置"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "クエストクリア報告に向かおう",
+    "translation": "去完成任务报告",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去完成任务报告\n\n向着任务完成报告前进吧\n\n前往任务通关报告"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_4_0",
+    "original": "クエスト６小目標０４",
+    "translation": "任务6小目标04",
+    "stage": 1,
+    "context": "机翻辅助：\n\n任务6 小目标04\n\n任务6小目标04"
+  }
+]

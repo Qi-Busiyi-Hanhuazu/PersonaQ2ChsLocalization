@@ -1,0 +1,527 @@
+[
+  {
+    "key": "AEGIS_FOE_FOLLOW_START_1_0",
+    "original": "Ｆ．Ｏ．Ｅの\n追尾を確認したであります！",
+    "translation": "已确认到F.O.E在追赶我们！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E的\n追踪确认完毕！\n\n确认了F.O.E的\n跟踪！"
+  },
+  {
+    "key": "AEGIS_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅが追ってきていますね。",
+    "translation": "F.O.E正在追赶过来。",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E追上来了呢。\n\nF.O.E在追呢。"
+  },
+  {
+    "key": "AEGIS_FOE_FOLLOW_START_3_0",
+    "original": "どうやらＦ．Ｏ．Ｅに\n気付かれたようです。",
+    "translation": "看来，\nF.O.E已经注意到我们了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看来\n被F.O.E发现了。\n\n似乎被F.O.E注意到了。\n\n\n好像被F.O.E注意到了。"
+  },
+  {
+    "key": "AEGIS_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅが近くにいるであります。",
+    "translation": "F.O.E就在附近。",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E就在附近。"
+  },
+  {
+    "key": "AEGIS_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅがいるでありまーす。",
+    "translation": "我们有F.O.E。",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E出现了。\n\n有F.O.E。\n\n有F.O.E在。"
+  },
+  {
+    "key": "AEGIS_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅの気配を探知、\nすぐ近くにいます。",
+    "translation": "已察觉到F.O.E的气息，\n就在附近的样子。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n侦测到F.O.E的气息，\n就在附近。\n\n探知F.O.E的气息，\n就在附近。\n\n探测到F.O.E的迹象，\n就在附近。"
+  },
+  {
+    "key": "AEGIS_FOE_FOLLOW_END_1_0",
+    "original": "Ｆ．Ｏ．Ｅを振り切ったようですね。",
+    "translation": "看起来已经完全超越了F.O.E。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看来是甩掉F.O.E了。\n\n好像甩掉了F.O.E。\n\n你好像甩掉F.O.E了。"
+  },
+  {
+    "key": "AEGIS_FOE_FOLLOW_END_2_0",
+    "original": "追尾を諦めたようであります。",
+    "translation": "看来放弃追赶了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n它似乎放弃追踪了。\n\n我好像放弃了跟踪。\n\n似乎放弃了跟踪。"
+  },
+  {
+    "key": "AEGIS_FOE_FOLLOW_END_3_0",
+    "original": "Ｆ．Ｏ．Ｅからの\n逃走に成功したようです。",
+    "translation": "看起来成功逃脱了F.O.E。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看来是成功\n逃离F.O.E了。\n\n好像从F.O.E成功逃走了。\n\n\n从F.O.E逃跑成功了。"
+  },
+  {
+    "key": "AEGIS_KANSI_REACTION_1_0",
+    "original": "感知されないよう、注意してください。",
+    "translation": "请注意不要被察觉到。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请小心别被它发现。\n\n注意不要被感知到。\n\n请注意不要被感知到。"
+  },
+  {
+    "key": "AEGIS_KANSI_REACTION_2_0",
+    "original": "しーっ…であります。",
+    "translation": "嘘……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嘘……\n\n嘘……就是这样。\n\n是。"
+  },
+  {
+    "key": "AEGIS_KANSI_REACTION_3_0",
+    "original": "そ～っと、そ～っと…",
+    "translation": "悄悄地，悄悄地……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n轻轻的，轻轻的……\n\n嗯、嗯……\n\n咻——咻——咻……"
+  },
+  {
+    "key": "AEGIS_DENKISAKU_REACTION_0",
+    "original": "これは感電しそうですね…\n恐ろしいです。",
+    "translation": "这看起来会被电到的样子，\n真可怕。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这样好像会触电呢……\n好可怕。\n\n这好像要触电了……\n很可怕。\n\n这会触电啊……\n太可怕了。"
+  },
+  {
+    "key": "AEGIS_DENKISAKU_REACTION_2_0",
+    "original": "この電流からチャージ…\nはできませんね。",
+    "translation": "可以从这个电流里充电嘛……\n肯定不行吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n从这股电流中充电……\n是办不到的。\n\n从这个电流充电……\n是做不到的。\n\n不能用这个电流充值。"
+  },
+  {
+    "key": "AEGIS_DENKISAKU_REACTION_3_0",
+    "original": "電気を止めてから\n進むことを提案します。",
+    "translation": "建议先断电再前进。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我提议\n等关掉电源后再前进。\n\n建议关灯后再前进。\n\n\n建议在断电后前进。"
+  },
+  {
+    "key": "AEGIS_KYOUHU_REACTION_1_0",
+    "original": "強風であります！",
+    "translation": "有强风！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有强风！\n\n是强风！\n\n强风！"
+  },
+  {
+    "key": "AEGIS_KYOUHU_REACTION_2_0",
+    "original": "あ、これは…",
+    "translation": "啊，这是……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啊，这是……"
+  },
+  {
+    "key": "AEGIS_KYOUHU_REACTION_3_0",
+    "original": "飛んでいくであります。",
+    "translation": "飞去了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我飞起来了。\n\n飞奔而去。\n\n飞过去了。"
+  },
+  {
+    "key": "AEGIS_STAIR_FIND_1_0",
+    "original": "階段を発見！\n先に進めそうです。",
+    "translation": "楼梯发现！\n看起来可以继续前进。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现阶梯！\n似乎可以前进。\n\n发现楼梯！\n好像要往前走了。\n\n发现楼梯！好像要继续下去了。"
+  },
+  {
+    "key": "AEGIS_STAIR_FIND_2_0",
+    "original": "階段を探知！\n突入しますか？",
+    "translation": "发现楼梯了！\n要下去嘛？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n侦测到阶梯！\n要冲进去吗？\n\n探知楼梯！\n突入吗？\n\n楼梯探测！\n要冲进去吗？"
+  },
+  {
+    "key": "AEGIS_STAIR_FIND_3_0",
+    "original": "新しいエリアへの突入を\n提案いたします。",
+    "translation": "我建议进入新的区域。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我提议\n冲进新区域。\n\n\n建议进入新的区域。\n\n我提议进入新的区域。"
+  },
+  {
+    "key": "AEGIS_TREASURE_FIND_1_0",
+    "original": "前方に宝箱を確認しました！",
+    "translation": "在前方看到了宝箱！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n前方确认到宝箱！\n\n前面确认了宝箱！\n\n前方确认了宝箱！"
+  },
+  {
+    "key": "AEGIS_TREASURE_FIND_2_0",
+    "original": "宝箱、発見。\n金銀財宝ザックザク…でしょうか？",
+    "translation": "发现宝箱！\n金银财宝满满的……是吧？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现宝箱。\n金银财宝满坑满谷……吗？\n\n宝箱，发现。\n金银财宝扎克扎克……是吗？\n\n发现宝箱。\n金银财宝哗啦哗啦……是吗？"
+  },
+  {
+    "key": "AEGIS_TREASURE_FIND_3_0",
+    "original": "宝箱…いわゆるオタカラでありますね！",
+    "translation": "宝箱..……就是所谓的宝藏呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n宝箱……也就是所谓的宝物呢！\n\n宝箱……也就是所谓的宝物啊！\n\n宝箱……也就是所谓的宝贝！"
+  },
+  {
+    "key": "AEGIS_CHECK_WALL_1_0",
+    "original": "前方に気になるものがあるであります。",
+    "translation": "前方有令人在意的东西。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前方有令人在意的东西。\n\n前方有个令人在意的东西。\n\n前面有在意的东西。"
+  },
+  {
+    "key": "AEGIS_CHECK_WALL_2_0",
+    "original": "前方に不審物発見！\n調査を提案します。",
+    "translation": "前方发现可疑物品！\n建议展开调查。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现前方有可疑物体！\n提议调查。\n\n前方发现可疑物！\n建议调查。\n\n前方发现可疑物！建议进行调查。"
+  },
+  {
+    "key": "AEGIS_CHECK_WALL_3_0",
+    "original": "この辺りを調べることを提案します。",
+    "translation": "建议调查一下这附近。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我提议调查这附近。\n\n我建议调查这一带。"
+  },
+  {
+    "key": "AEGIS_SWITCH_FIND_1_0",
+    "original": "スイッチを発見したであります！",
+    "translation": "我找到了开关！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现开关！\n\n发现了开关！\n\n我发现了一个开关！"
+  },
+  {
+    "key": "AEGIS_SWITCH_FIND_2_0",
+    "original": "スイッチを確認、どうしますか？",
+    "translation": "发现开关，要怎么做？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n确认开关，要怎么做？\n\n确认开关，怎么办？"
+  },
+  {
+    "key": "AEGIS_SWITCH_FIND_3_0",
+    "original": "スイッチ発見。\n押しますか？　破壊しますか？",
+    "translation": "发现开关。\n要按下去吗？还是破坏掉？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现开关。\n要按吗？要破坏吗？\n\n发现开关。\n要按吗？破坏吗？\n\n发现开关。\n要按吗？破坏？"
+  },
+  {
+    "key": "AEGIS_SHORTCUT_FIND_1_0",
+    "original": "近道になりそうな場所を発見しました。",
+    "translation": "我发现了看起来像是捷径地方。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现似乎能成为捷径的地点。\n\n我发现了可以抄近道的地方。\n\n我发现了可以抄近路的地方。"
+  },
+  {
+    "key": "AEGIS_SHORTCUT_FIND_2_0",
+    "original": "通れそうな場所を感知しました。",
+    "translation": "我感知到了一个可以通过的地方。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n侦测到似乎能通过的地点。\n\n感知到了可能通过的地方。\n\n我感觉到了可以通过的地方。"
+  },
+  {
+    "key": "AEGIS_SHORTCUT_FIND_3_0",
+    "original": "近道になりそうなポイントを発見。",
+    "translation": "发现了看起来像是捷径的地方。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n发现似乎能成为捷径的地点。\n\n发现了可能成为近道的要点。\n\n发现可能成为捷径的点。"
+  },
+  {
+    "key": "AEGIS_FOE_WARNING_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅのロックオン、\n継続中です！",
+    "translation": "F.O.E的锁定，\n持续中！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E的锁定，\n仍在持续！\n\nF.O.E的锁定，\n继续中！\n\nF.O.E的摇滚，\n继续中！"
+  },
+  {
+    "key": "AEGIS_FOE_WARNING_NEAR_2_0",
+    "original": "まだＦ．Ｏ．Ｅが\n追いかけてきています！",
+    "translation": "还有F.O.E在追赶着我们！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nF.O.E还在\n追过来！\n\n还在追F.O.E！\n\n\nF.O.E还在追上来！"
+  },
+  {
+    "key": "AEGIS_FOE_WARNING_NEAR_3_0",
+    "original": "敵Ｆ．Ｏ．Ｅ、こちらに進攻中です！",
+    "translation": "敌方F.O.E正在向这里发动进攻！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n敌方F.O.E正在朝我方进攻！\n\n敌人F.O.E，正在向这边进攻！\n\n敌人F.O.E正在向这边进攻！"
+  },
+  {
+    "key": "AEGIS_1PERSON_HPTP10_1_0",
+    "original": "オーバーヒートしそう…です…",
+    "translation": "好像会过热……的样子……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n感觉脑袋快要……过热了……\n\n好像过热了……\n\n过热的思想……是……"
+  },
+  {
+    "key": "AEGIS_1PERSON_HPTP10_2_0",
+    "original": "帰還を提案いたします。",
+    "translation": "我建议现在回基地。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我提议撤退。\n\n我提议返航。\n\n我提议返回。"
+  },
+  {
+    "key": "AEGIS_1PERSON_HPTP10_3_0",
+    "original": "このままですと、\n活動停止の危険があります。",
+    "translation": "如果继续这样下去的话，\n就会有停止活动的危险。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n这样下去的话，\n有活动停止的危险。\n\n这样下去的话，\n有停止活动的危险。\n\n这样下去的话，有停止活动的危险。"
+  },
+  {
+    "key": "AEGIS_1PERSON_HP10_1_0",
+    "original": "体力の低下を報告いたします。",
+    "translation": "报告身体状况在下降。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n报告体力降低。\n\n报告体力的下降。\n\n报告体力下降。"
+  },
+  {
+    "key": "AEGIS_1PERSON_HP10_2_0",
+    "original": "機能停止の可能性があります。",
+    "translation": "可能会发生活动停止的情况。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n可能会停止机能。\n\n有功能停止的可能性。\n\n可能是功能停止。"
+  },
+  {
+    "key": "AEGIS_1PERSON_HP10_3_0",
+    "original": "体力が危険水域であります！",
+    "translation": "体力处于危险水平！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n体力已经进入危险水域了！\n\n体力是危险水域！\n\n体力是危险的水域！"
+  },
+  {
+    "key": "AEGIS_1PERSON_TP10_1_0",
+    "original": "気力の低下を報告いたします。",
+    "translation": "报告精力下降的情况。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n报告气力降低。\n\n报告气力下降。"
+  },
+  {
+    "key": "AEGIS_1PERSON_TP10_2_0",
+    "original": "気力が…限界値であります…",
+    "translation": "精力已经到达极限值了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我的气力……已经到达极限了……\n\n气力……是极限值……\n\n气力是……极限值……"
+  },
+  {
+    "key": "AEGIS_1PERSON_TP10_3_0",
+    "original": "気力、低下。\n疲れた、というやつであります。",
+    "translation": "精神状态下降，\n感到疲倦。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n精力，降低。\n这就是所谓的累了。\n\n气力，低下。\n累了。\n\n精力下降。\n累了。"
+  },
+  {
+    "key": "AEGIS_1PERSON_HP80_1_0",
+    "original": "見事な戦闘でした。\nバッチグーであります。",
+    "translation": "这是一场精彩的战斗，\n太棒了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真是场精采的战斗。\n太棒了。\n\n是一场漂亮的战斗。\n是batch - go。\n\n是漂亮的战斗。\n是批古。"
+  },
+  {
+    "key": "AEGIS_1PERSON_HP80_2_0",
+    "original": "すばらしい戦闘結果でしたね。",
+    "translation": "这是一个很棒的战斗结果。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真是漂亮的战斗结果。\n\n真是精彩的战斗结果啊。\n\n真是了不起的战斗结果呢。"
+  },
+  {
+    "key": "AEGIS_1PERSON_HP80_3_0",
+    "original": "ランクトリプルＳの戦闘でした。",
+    "translation": "这是一场SSS级的战斗。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是三重S的战斗。\n\n是等级triple S的战斗。\n\n是等级三S的战斗。"
+  },
+  {
+    "key": "AEGIS_DUNGEON_START_1_0",
+    "original": "気合いを入れて行くであります！",
+    "translation": "加油！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n鼓起干劲上吧！\n\n鼓起干劲去！\n\n打起精神去！"
+  },
+  {
+    "key": "AEGIS_DUNGEON_START_2_0",
+    "original": "れっつらごー、であります！",
+    "translation": "let's go！",
+    "stage": 1,
+    "context": "机翻辅助：\n\nLet's go！\n\n是雷兹拉戈！\n\n这就是！"
+  },
+  {
+    "key": "AEGIS_DUNGEON_START_3_0",
+    "original": "目指せ、完全制圧…であります！",
+    "translation": "目标是……完全压制！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n目标是完全压制……！\n\n目标，完全压制……是！\n\n目标，完全压制……就是这样！"
+  },
+  {
+    "key": "AEGIS_QUEST_START_1_0",
+    "original": "アイギス、いきますであります！",
+    "translation": "埃癸斯，出发！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n埃癸斯，我要出招了！\n\n埃癸斯，我走了！\n\n埃癸斯，我要去了！"
+  },
+  {
+    "key": "AEGIS_QUEST_START_2_0",
+    "original": "ミッション、スタートです。",
+    "translation": "任务，开始。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n任务，开始。\n\n使命，是开始。\n\n任务，开始了。"
+  },
+  {
+    "key": "AEGIS_QUEST_START_3_0",
+    "original": "早期解決を提案するであります！",
+    "translation": "提出尽早解决的提案！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我提议趁早解决！\n\n建议早日解决！\n\n建议尽早解决！"
+  },
+  {
+    "key": "AEGIS_TOUHA_25_1_0",
+    "original": "まだまだ先は長いであります。",
+    "translation": "还有很长的路要走。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n未来还很漫长。\n\n路还很长。\n\n还有很长的路要走。"
+  },
+  {
+    "key": "AEGIS_TOUHA_25_2_0",
+    "original": "休みながら行くことを提案します。",
+    "translation": "提出先休息一会再继续往前的提案。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我提议边休息边走。\n\n我建议你一边休息一边去。\n\n我建议一边休息一边去。"
+  },
+  {
+    "key": "AEGIS_TOUHA_50_1_0",
+    "original": "やっと半分到達です！",
+    "translation": "终于达到了一半了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n终于抵达一半了！\n\n终于到达一半了！\n\n才到一半！"
+  },
+  {
+    "key": "AEGIS_TOUHA_50_2_0",
+    "original": "地図が埋まって、\n探索効率アップが期待できそうです。",
+    "translation": "地图还被盖着，\n期待探索效率的提升。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n地图被填满，\n探索效率提升应该可以期待。\n\n地图被填满，\n探索效率提高似乎可以期待。\n\n地图被埋了，\n可以期待搜索效率的提高。"
+  },
+  {
+    "key": "AEGIS_TOUHA_75_1_0",
+    "original": "あと少し…であります！",
+    "translation": "再稍微一点点就好了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n还差一点……就成功了！\n\n还有一点！\n\n还有一点……就是这样！"
+  },
+  {
+    "key": "AEGIS_TOUHA_75_2_0",
+    "original": "残りの部分、早く埋めたいですね。",
+    "translation": "剩下的部分，希望能尽快探索完整。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真想快点填满剩下的部分。\n\n剩下的部分，我想早点埋。\n\n想快点把剩下的部分填满。"
+  },
+  {
+    "key": "AEGIS_TOUHA_100_1_0",
+    "original": "このフロアは完全に制圧した…\nであります！",
+    "translation": "这个楼层已经被完全镇压了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我们完全压制了这层楼……！\n\n\n这个楼层完全被压制了……\n是的！\n\n这个楼层完全压制住了……\n是！"
+  },
+  {
+    "key": "AEGIS_TOUHA_100_2_0",
+    "original": "地図が埋まりました、お疲れ様です。",
+    "translation": "地图探索完成了，辛苦了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n地图填满了，辛苦了。\n\n地图填好了，辛苦了。"
+  },
+  {
+    "key": "AEGIS_MAPPING_ICON_ALL_1_0",
+    "original": "１ミリの狂いもありません。",
+    "translation": "没有一丝差错。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n连一毫米的误差都没有。\n\n没有1毫米的疯狂。\n\n毫厘不差。"
+  },
+  {
+    "key": "AEGIS_MAPPING_ICON_ALL_2_0",
+    "original": "さすがであります！",
+    "translation": "不愧是你！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真不愧是老师！\n\n不愧是！"
+  },
+  {
+    "key": "AEGIS_MAPPING_ICON_KAIDA_0",
+    "original": "そこで相違ないであります。",
+    "translation": "那里毫无疑问。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n就是这里没错。\n\n在那里没错。\n\n一定是这样。"
+  },
+  {
+    "key": "AEGIS_MAPPING_ICON_KAIDA_2_0",
+    "original": "迷わずフロア移動できそうであります。",
+    "translation": "看起来可以毫不迷茫地移动到另一个楼层了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看来可以毫不犹豫地在楼层内移动。\n\n可以毫不犹豫地移动楼层。"
+  },
+  {
+    "key": "AEGIS_MAPPING_CHANGE_COL_0",
+    "original": "なるほど、特別さが読み取れますね。",
+    "translation": "明白了，能感受到了特别之处。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n原来如此，看得出是特别的礼物呢。\n\n原来如此，能读懂特别。\n\n原来如此，可以看出特别之处。"
+  },
+  {
+    "key": "AEGIS_MAPPING_CHANGE_COL_2_0",
+    "original": "センスが爆発しているでありますね。",
+    "translation": "你的品味简直爆炸了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n才能大爆发呢。\n\n品位爆发了呢。\n\n你的品味爆炸了。"
+  },
+  {
+    "key": "AEGIS_MAPPING_ICON_DEL_1_0",
+    "original": "不要物は廃棄するであります！",
+    "translation": "不要的物品应该被丢掉！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n废物就该丢掉！\n\n不要的东西要废弃！\n\n把不需要的东西扔掉！"
+  },
+  {
+    "key": "AEGIS_MAPPING_ICON_DEL_2_0",
+    "original": "スッキリ快適であります。",
+    "translation": "清爽舒适。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n清爽又舒适。\n\n畅快舒适。\n\n清爽舒适。"
+  },
+  {
+    "key": "AEGIS_MAPPING_MEMO_1_0",
+    "original": "メモをすれば忘れません。",
+    "translation": "记下笔记就不会忘记。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n写在便条上就不会忘记。\n\n做笔记的话就不会忘记。\n\n记笔记的话就不会忘记了。"
+  },
+  {
+    "key": "AEGIS_MAPPING_MEMO_2_0",
+    "original": "メモを忘れないようにメモを…あれれ？",
+    "translation": "记得要记笔记……咦？我忘了要记笔记吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n为了不忘记便条而写便条……咦？\n\n为了不忘记记笔记，记笔记？\n\n不要忘记记笔记记笔记……哎哟？"
+  },
+  {
+    "key": "AEGIS_DOOR_OPEN_1_0",
+    "original": "お先に、であります。",
+    "translation": "请先走。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我先走一步了。\n\n我先走了。"
+  },
+  {
+    "key": "AEGIS_DOOR_OPEN_2_0",
+    "original": "こちらです！",
+    "translation": "这里！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n往这边！\n\n在这里！"
+  },
+  {
+    "key": "AEGIS_DOOR_OPEN_3_0",
+    "original": "偵察はお任せください！",
+    "translation": "侦察就交给我吧！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n侦查就交给我吧！\n\n侦察就交给我吧！\n\n侦察就交给你了！"
+  }
+]

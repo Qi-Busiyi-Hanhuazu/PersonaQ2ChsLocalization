@@ -1,0 +1,23 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "事件を解決せよ！",
+    "translation": "解决事件吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n解决事件吧！\n\n破案！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "地図の印の位置で情報を集めろ",
+    "translation": "在地图上标记的地点收集情报",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在地图上标记的位置收集情报\n\n在地图标记的位置收集信息\n\n按地图上标记的位置收集信息"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "中央の裏路地へ向かえ",
+    "translation": "前往中央的后巷",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前往中央的后巷\n\n走向中央的小巷\n\n向中间的小巷走去"
+  }
+]

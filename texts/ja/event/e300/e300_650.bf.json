@@ -1,0 +1,198 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よーっし、映画も無事に解決したし、\n映画館に戻ろうぜ！",
+    "translation": "よーっし、映画も無事に解決したし、\n映画館に戻ろうぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "これで、鍵がまた一つ開くはずだよね？",
+    "translation": "これで、鍵がまた一つ開くはずだよね？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "鍵って…映画のエンディングを迎えると、\n映写技師の体から出てくるんだっけ？",
+    "translation": "鍵って…映画のエンディングを迎えると、\n映写技師の体から出てくるんだっけ？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうクマ。",
+    "translation": "そうクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "『ウグウォォォォォ』って苦しんだあとに、\n体の中からブニョッて出るクマ。",
+    "translation": "『ウグウォォォォォ』って苦しんだあとに、\n体の中からブニョッて出るクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うわ、なんかグロ…",
+    "translation": "うわ、なんかグロ…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "クマの説明がよくない！",
+    "translation": "クマの説明がよくない！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "実際はもっとこう、ボロンッっていうか。\nポロリって感じ？",
+    "translation": "実際はもっとこう、ボロンッっていうか。\nポロリって感じ？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ポロリって響きは大好きなんだけどな～。\nドーのポロリは…マニア向けすぎるわ。",
+    "translation": "ポロリって響きは大好きなんだけどな～。\nドーのポロリは…マニア向けすぎるわ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "み、皆さん！　大変です！！",
+    "translation": "み、皆さん！　大変です！！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "どうかしたのか？",
+    "translation": "どうかしたのか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "先輩！　みんな！！\nごめん、私たちが目を離した隙に…",
+    "translation": "先輩！　みんな！！\nごめん、私たちが目を離した隙に…",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ひかりちゃんが…！",
+    "translation": "ひかりちゃんが…！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "落ち着いて、風花。\nひかりちゃんが、どうしたの！？",
+    "translation": "落ち着いて、風花。\nひかりちゃんが、どうしたの！？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "とにかく戻ってきてください！\nお願いします！！",
+    "translation": "とにかく戻ってきてください！\nお願いします！！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "…緊急事態みたいね。\n急いで戻りましょう！",
+    "translation": "…緊急事態みたいね。\n急いで戻りましょう！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "はい、これでメンドーなことは終わり。",
+    "translation": "はい、これでメンドーなことは終わり。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "あとは好きに書き換えて使ってよ。",
+    "translation": "あとは好きに書き換えて使ってよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  }
+]

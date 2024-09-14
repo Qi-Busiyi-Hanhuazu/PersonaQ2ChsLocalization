@@ -1,0 +1,170 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "警戒しながら探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "採取に専念する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "やめる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "通らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "戻る",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "戻らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ZABE_MSG_005_0",
+    "original": "悪くありません。",
+    "translation": "悪くありません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEO_MSG_005_0",
+    "original": "やりましたね。",
+    "translation": "やりましたね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ZABE_MSG_006_0",
+    "original": "おやおや。",
+    "translation": "おやおや。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEO_MSG_006_0",
+    "original": "いい調子です。",
+    "translation": "いい調子です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ZABE_MSG_007_0",
+    "original": "おや、まぁ。",
+    "translation": "おや、まぁ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEO_MSG_007_0",
+    "original": "これはなかなか…",
+    "translation": "これはなかなか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ZABE_MSG_009_0",
+    "original": "素晴らしい！",
+    "translation": "素晴らしい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ZABE_MSG_010_0",
+    "original": "お、おぉ！！",
+    "translation": "お、おぉ！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEO_MSG_010_0",
+    "original": "素晴らしい！",
+    "translation": "素晴らしい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ZABE_MSG_011_0",
+    "original": "おや、レア物！",
+    "translation": "おや、レア物！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEO_MSG_011_0",
+    "original": "レア物です！",
+    "translation": "レア物です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ZABE_MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "THEO_MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！ああっと！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  }
+]

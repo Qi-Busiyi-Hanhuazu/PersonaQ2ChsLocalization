@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "売店のようだ…",
+    "translation": "売店のようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "店頭には、ポップコーンや\n映画グッズが置いてある…",
+    "translation": "店頭には、ポップコーンや\n映画グッズが置いてある…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "旨そうだな…",
+    "translation": "旨そうだな…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "勝手に食べちゃダメだからね！？",
+    "translation": "勝手に食べちゃダメだからね！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ここに真と春がいる…わけねえか。\nほか行こうぜ。",
+    "translation": "ここに真と春がいる…わけねえか。\nほか行こうぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

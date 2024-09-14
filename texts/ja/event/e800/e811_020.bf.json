@@ -1,0 +1,345 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よーしオマエら、まずは作戦会議だ！",
+    "translation": "よーしオマエら、まずは作戦会議だ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おお、いきなり怪盗っぽいな。\nモナが生き生きしてんぞ…",
+    "translation": "おお、いきなり怪盗っぽいな。\nモナが生き生きしてんぞ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "本領発揮って感じ？",
+    "translation": "本領発揮って感じ？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "まあ、いつもモナが先頭に立って、\nチームで息合わせるって感じだな。",
+    "translation": "まあ、いつもモナが先頭に立って、\nチームで息合わせるって感じだな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ちょっと前まで、\n大ゲンカしてたのに？",
+    "translation": "ちょっと前まで、\n大ゲンカしてたのに？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そ、それはさ…\n色々あるんだよ、男には！",
+    "translation": "そ、それはさ…\n色々あるんだよ、男には！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "…二人、なんかあったんスか？",
+    "translation": "…二人、なんかあったんスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "行き違いだった",
+    "translation": "行き違いだった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "色々あった",
+    "translation": "色々あった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_2",
+    "original": "モナに謝れ",
+    "translation": "モナに謝れ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_3",
+    "original": "二人とも悪かった",
+    "translation": "二人とも悪かった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "なんか、そうキレイにまとめられっと、\nむずがゆい気がするけどよ…",
+    "translation": "なんか、そうキレイにまとめられっと、\nむずがゆい気がするけどよ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "なんかあん時は、俺も普通じゃなかった\nっつーか…",
+    "translation": "なんかあん時は、俺も普通じゃなかった\nっつーか…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "だな…",
+    "translation": "だな…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "すぐカッとなっちまうの、\nマジでそろそろ直さねーとな…",
+    "translation": "すぐカッとなっちまうの、\nマジでそろそろ直さねーとな…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "あー…だから悪かったって。",
+    "translation": "あー…だから悪かったって。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "つーかジョーカー、\nお前も謝ったの見てただろ！？",
+    "translation": "つーかジョーカー、\nお前も謝ったの見てただろ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "あーいや、俺がカッとなったのが\nトドメだったっつーか…",
+    "translation": "あーいや、俺がカッとなったのが\nトドメだったっつーか…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "…てか、あの時はウチらも\n悪かったんだよね。",
+    "translation": "…てか、あの時はウチらも\n悪かったんだよね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "いつものケンカだと思って、\nちゃんと止められなかったから。",
+    "translation": "いつものケンカだと思って、\nちゃんと止められなかったから。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "いいんじゃないですか。\n時にはすれ違うこともあるでしょう。",
+    "translation": "いいんじゃないですか。\n時にはすれ違うこともあるでしょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "でも、何かしらの衝突を乗り越えてこそ、\n本当に信じ合える仲になれたりもします。",
+    "translation": "でも、何かしらの衝突を乗り越えてこそ、\n本当に信じ合える仲になれたりもします。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "うん、そうやって相手のことを\n少しずつ理解していけたらいいね。",
+    "translation": "うん、そうやって相手のことを\n少しずつ理解していけたらいいね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ふふ、なんだかずいぶん真面目な\n話になったわね。",
+    "translation": "ふふ、なんだかずいぶん真面目な\n話になったわね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "ここでも力を合わせていきましょう。\nまずは目的の物を探さないと…",
+    "translation": "ここでも力を合わせていきましょう。\nまずは目的の物を探さないと…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "えっと、オタカラが隠されてそうな\n場所を見つけるんだっけ。",
+    "translation": "えっと、オタカラが隠されてそうな\n場所を見つけるんだっけ。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "サイドプテラがオタカラを隠す場所…\nジョーカー、思い当たるか？",
+    "translation": "サイドプテラがオタカラを隠す場所…\nジョーカー、思い当たるか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_018_0",
+    "original": "縄張りの近く",
+    "translation": "縄張りの近く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_1",
+    "original": "オタカラスポット",
+    "translation": "オタカラスポット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "なるほど、自分の目の届くところに\n隠す可能性は高そうです。",
+    "translation": "なるほど、自分の目の届くところに\n隠す可能性は高そうです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "なるほど、オタカラスポットに隠し\nその周辺を守る…あり得る話です。",
+    "translation": "なるほど、オタカラスポットに隠し\nその周辺を守る…あり得る話です。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "よし、サイドプテラを探すのが\n手っ取り早そうだな。",
+    "translation": "よし、サイドプテラを探すのが\n手っ取り早そうだな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "サイドプテラはＦ．Ｏ．Ｅだ。\n位置は地図で確認できるだろ？",
+    "translation": "サイドプテラはＦ．Ｏ．Ｅだ。\n位置は地図で確認できるだろ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "２体いるね。\n１つずつ隠してるってことかな？",
+    "translation": "２体いるね。\n１つずつ隠してるってことかな？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ま、行ってみりゃわかるって。",
+    "translation": "ま、行ってみりゃわかるって。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "うっし、サイドプテラの近くまで\n行ってみようぜ！",
+    "translation": "うっし、サイドプテラの近くまで\n行ってみようぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "了解っす！\nそれじゃ、作戦開始ぞよ～！",
+    "translation": "了解っす！\nそれじゃ、作戦開始ぞよ～！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  }
+]

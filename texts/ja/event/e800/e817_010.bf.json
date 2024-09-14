@@ -1,0 +1,219 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "今回の特別上映は\nなんとクライム・サスペンス…",
+    "translation": "今回の特別上映は\nなんとクライム・サスペンス…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "カモシティで多発している不審事件…\nその解決が今回の目的でございます。",
+    "translation": "カモシティで多発している不審事件…\nその解決が今回の目的でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "悪事は見過ごせないわね。",
+    "translation": "悪事は見過ごせないわね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "それで、不審な事件というのは？",
+    "translation": "それで、不審な事件というのは？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "事件のあらましですが…\nぶっちゃけ存じ上げません。",
+    "translation": "事件のあらましですが…\nぶっちゃけ存じ上げません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ぶっちゃけすぎだろ…",
+    "translation": "ぶっちゃけすぎだろ…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "何が起こったか、事件の詳細を調べるのは\nデカの役目。ベスの役目ではございません。",
+    "translation": "何が起こったか、事件の詳細を調べるのは\nデカの役目。ベスの役目ではございません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いや、どんな事件が起こったかも\nわかんねえんじゃ、これもう…",
+    "translation": "いや、どんな事件が起こったかも\nわかんねえんじゃ、これもう…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "迷宮入りだな",
+    "translation": "迷宮入りだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "お手上げ侍",
+    "translation": "お手上げ侍",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "まあ、映画の迷宮で起こったことですので。",
+    "translation": "まあ、映画の迷宮で起こったことですので。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "お、なかなかウマいこと言うねえ。",
+    "translation": "お、なかなかウマいこと言うねえ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "お、分かってんねえ。\nそう、これぞまさしくお手上げ侍！",
+    "translation": "お、分かってんねえ。\nそう、これぞまさしくお手上げ侍！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "君たち、あまり茶化すな…",
+    "translation": "君たち、あまり茶化すな…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_011_1_0",
+    "original": "しかし、手掛かりがなさすぎる。\nどうしたものか…",
+    "translation": "しかし、手掛かりがなさすぎる。\nどうしたものか…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "…捜査の基本は足で稼ぐことよ。",
+    "translation": "…捜査の基本は足で稼ぐことよ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_012_1_0",
+    "original": "事件現場で手掛かりを探すのが\n一番だと思うわ。",
+    "translation": "事件現場で手掛かりを探すのが\n一番だと思うわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "なるほど…",
+    "translation": "なるほど…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "さすがデカの娘。\n頼りになるなー。",
+    "translation": "さすがデカの娘。\n頼りになるなー。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "そう！　事件はここではなく\n現場で起こっているのでございます。",
+    "translation": "そう！　事件はここではなく\n現場で起こっているのでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_015_1_0",
+    "original": "というわけで、この上映に限り、\n事件のあった所に印をつけておきました。",
+    "translation": "というわけで、この上映に限り、\n事件のあった所に印をつけておきました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "そういう準備はいいんだな…",
+    "translation": "そういう準備はいいんだな…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "まあ、いいじゃない。\nやってやりましょう。",
+    "translation": "まあ、いいじゃない。\nやってやりましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "それでは皆さまの捕物帳、\nワクッと期待しております。",
+    "translation": "それでは皆さまの捕物帳、\nワクッと期待しております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

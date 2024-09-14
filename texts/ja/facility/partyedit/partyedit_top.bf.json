@@ -1,0 +1,51 @@
+[
+  {
+    "key": "OK_SEL_0",
+    "original": "ＯＫ",
+    "translation": "ＯＫ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FIRST_LEADER_NOT_EXIST_0",
+    "original": "＞ＦＩＲＳＴチームに\n　リーダーが存在しません",
+    "translation": "＞ＦＩＲＳＴチームに\n　リーダーが存在しません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SECOND_LEADER_NOT_EXIST_0",
+    "original": "＞ＳＥＣＯＮＤチームに\n　リーダーが存在しません",
+    "translation": "＞ＳＥＣＯＮＤチームに\n　リーダーが存在しません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FIRST_NAVI_NOT_EXIST_0",
+    "original": "＞ＦＩＲＳＴチームに\n　ナビが存在しません",
+    "translation": "＞ＦＩＲＳＴチームに\n　ナビが存在しません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SECOND_NAVI_NOT_EXIST_0",
+    "original": "＞ＳＥＣＯＮＤチームに\n　ナビが存在しません",
+    "translation": "＞ＳＥＣＯＮＤチームに\n　ナビが存在しません",
+    "stage": 1,
+    "context": ""
+  }
+]

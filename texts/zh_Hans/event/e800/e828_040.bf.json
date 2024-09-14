@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ワンワン！",
+    "translation": "汪汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪汪！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "真っ直ぐ進むと危険だ、\n左の方向へ進めば安全…と言っています。",
+    "translation": "直走会很危险，\n向左走会更安全……它这样说。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n直直前进很危险，\n往左边走比较安全……它这么说。\n\n笔直前进危险，\n向左行驶安全……说着。\n\n他说，笔直前进很危险，向左走就安全了。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "スゲー、そこまで分かんの？\nさっすが犬だな！",
+    "translation": "厉害，这都能知道？\n不愧是狗狗啊！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好厉害，连这个都知道？\n不愧是狗！\n\n你不明白吗？\n你是狗啊！\n\n好厉害，你连这个都知道吗？\n赛斯是狗啊！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "はい、コロちゃんの言うとおりですね。",
+    "translation": "是的，就和小虎所说的一样。",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n是的，小柯罗说得没错。\n\n是的，小可罗说得没错。\n\n是的，骰子说得对。"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "真っ直ぐ進んだ場合、この先でＦ．Ｏ．Ｅと\n遭遇しそうです。",
+    "translation": "如果直直地前进，\n可能会在前方遇到F.O.E。",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n直直前进的话，前方\n可能会遇到F.O.E。\n\n笔直前进的话，会在这前面遇到F.O.E。\n\n\n直走的话，前面可能会遇到F.O.E。"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "宝箱もありそうですが…少し危険ですね。",
+    "translation": "看起来也许有宝箱，但是可能有点危险呢。",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n虽然好像有宝箱……但有点危险。\n\n好像也有宝箱……有点危险呢。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "オタカラだと！？",
+    "translation": "有宝物吗！？",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n宝箱！？\n\n是宝物！？\n\n是宝贝！？"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "怪盗団としては、オタカラがあると知って\nいながら、黙ってスルーは出来ねえぞ！",
+    "translation": "作为怪盗团，\n知道有宝物就决不能放过！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n对怪盗团来说，知道有宝箱\n却视而不见是不可能的！\n\n作为怪盗团，明知有宝藏，却不能置之不理！\n\n\n作为怪盗团，虽然知道有宝物，但不能沉默无视！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "でも、Ｆ．Ｏ．Ｅがいるんですよね。\n左の方向へ行けば、道は安全…どうします？",
+    "translation": "但是，有F.O.E在那里。\n如果向左走，倒是安全的……怎么办？",
+    "stage": 1,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n可是，F.O.E也在对吧。\n往左边走的话，道路就安全了……怎么办？\n\n但是，有F.O.E吧。\n往左走道路安全……怎么办？\n\n但是，有F.O.E吧。\n往左走，路很安全……怎么办？"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "左の方向へ進もう",
+    "translation": "向左走",
+    "stage": 1,
+    "context": "机翻辅助：\n\n往左边走\n\n往左边走吧\n\n往左走"
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "真っ直ぐ進もう",
+    "translation": "直直地前进吧",
+    "stage": 1,
+    "context": "机翻辅助：\n\n直直前进\n\n笔直前进吧"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "Ｆ．Ｏ．Ｅを避けてくルートだね。\nオッケー！",
+    "translation": "避开F.O.E的路线吧。\nOK！",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n是避开F.O.E的路线呢。\nOK！\n\n这是避开F.O.E的路线。\nOK ！\n\n这是避开F.O.E的路线。\n好！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "さすがはジョーカー！\nオタカラを放っては行けないよな！",
+    "translation": "不愧是JOKER！\n宝物可不能就这样放着不管啊！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n不愧是JOKER！\n不能放着宝箱不管呢！\n\n不愧是JOKER！\n不能放任宝物不管啊！\n\n不愧是JOKER ！不能丢下宝贝不管啊！"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "了承しました。\nリーダーについていくであります。",
+    "translation": "明白了。\n跟着Leader。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n我明白了。\n我会跟着队长。\n\n我明白了。\n跟着领导走。\n\n我同意了。\n跟着领导走。"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "虎狼丸",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "埃癸斯",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

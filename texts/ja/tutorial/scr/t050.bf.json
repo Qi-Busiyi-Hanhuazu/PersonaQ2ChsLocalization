@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_TUTORIAL_TREASURE_MA_0",
+    "original": "迷宮内では、宝箱から[颜色 03]『宝の地図』[颜色 01]を\n入手する事があります。",
+    "translation": "迷宮内では、宝箱から[颜色 03]『宝の地図』[颜色 01]を\n入手する事があります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_TREASURE_MA_1",
+    "original": "[颜色 03]『宝の地図』[颜色 01]を入手すると、\n画像のようなアイコンがマップに配置されます。",
+    "translation": "[颜色 03]『宝の地図』[颜色 01]を入手すると、\n画像のようなアイコンがマップに配置されます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_TREASURE_MA_2",
+    "original": "アイコンの場所を調べると、\nアイテム等が入手出来ます。",
+    "translation": "アイコンの場所を調べると、\nアイテム等が入手出来ます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_TREASURE_MA_3",
+    "original": "[颜色 03]『宝の地図』[颜色 01]を入手したら、\n積極的に調べてみましょう。",
+    "translation": "[颜色 03]『宝の地図』[颜色 01]を入手したら、\n積極的に調べてみましょう。",
+    "stage": 1,
+    "context": ""
+  }
+]

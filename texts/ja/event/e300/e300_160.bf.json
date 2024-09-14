@@ -1,0 +1,639 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "やった！　全て撃破しましたよ！",
+    "translation": "やった！　全て撃破しましたよ！",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "アオーン！",
+    "translation": "アオーン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ねぇ、あのロボットは？　無事！？",
+    "translation": "ねぇ、あのロボットは？　無事！？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おい、大丈夫か？\n間に合ってよかった…",
+    "translation": "おい、大丈夫か？\n間に合ってよかった…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "アナタ方は誰デスカ？",
+    "translation": "アナタ方は誰デスカ？",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "ワタシは、助ケは頼ンデオリマセン。",
+    "translation": "ワタシは、助ケは頼ンデオリマセン。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "えっ？",
+    "translation": "えっ？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ワタシは、初期化サレルべき\nだったのデス。",
+    "translation": "ワタシは、初期化サレルべき\nだったのデス。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "な、なんでそんなこと言うんだ？\n初期化なんて、死ぬのと一緒だろ！",
+    "translation": "な、なんでそんなこと言うんだ？\n初期化なんて、死ぬのと一緒だろ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ワタシは、他の個体と違イマス。",
+    "translation": "ワタシは、他の個体と違イマス。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "姿も考え方も違ウ、いれぎゅらーデス。\nえらーを持ツ、欠陥のアル個体デス。",
+    "translation": "姿も考え方も違ウ、いれぎゅらーデス。\nえらーを持ツ、欠陥のアル個体デス。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "欠陥って、ただ花を大事にしたいって\n思っただけだろ？",
+    "translation": "欠陥って、ただ花を大事にしたいって\n思っただけだろ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "何故ソレを？",
+    "translation": "何故ソレを？",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "説明するとややこしいけど、\n予告で見たんだよ。",
+    "translation": "説明するとややこしいけど、\n予告で見たんだよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ヨコク…？",
+    "translation": "ヨコク…？",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "とにかく、初期化なんて不要だ。",
+    "translation": "とにかく、初期化なんて不要だ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "他と違ったらイレギュラーだなんて、\n決め付けるのはやめろ。",
+    "translation": "他と違ったらイレギュラーだなんて、\n決め付けるのはやめろ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "デスが、指導者様が決メタことデス。\nワタシたちハ、それに従ッてイマス。",
+    "translation": "デスが、指導者様が決メタことデス。\nワタシたちハ、それに従ッてイマス。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "SEL_016_0",
+    "original": "従う必要はない",
+    "translation": "従う必要はない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_016_1",
+    "original": "指導者とは何者だ？",
+    "translation": "指導者とは何者だ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "何故デスカ？",
+    "translation": "何故デスカ？",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "他人の命令にだけ従ってたら、自分の\n存在する意味がなくなっちゃうでしょう？",
+    "translation": "他人の命令にだけ従ってたら、自分の\n存在する意味がなくなっちゃうでしょう？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ジブン…？",
+    "translation": "ジブン…？",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ワタシたちヲ、在るベキ姿ニ導き続ケル者…\nそうインプットされてイマス。",
+    "translation": "ワタシたちヲ、在るベキ姿ニ導き続ケル者…\nそうインプットされてイマス。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "徹底した管理っぷりだな。\nだが、そんなもん取っ払ってやる！",
+    "translation": "徹底した管理っぷりだな。\nだが、そんなもん取っ払ってやる！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ところで、アイギスというロボットを\n知らないか？　君によく似ているんだが…",
+    "translation": "ところで、アイギスというロボットを\n知らないか？　君によく似ているんだが…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "それと、腕章を付けた男子も。\n前髪が長くて、片目が隠れてるんだけど…",
+    "translation": "それと、腕章を付けた男子も。\n前髪が長くて、片目が隠れてるんだけど…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "人間は見テイマセン。",
+    "translation": "人間は見テイマセン。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "そっか…",
+    "translation": "そっか…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "デスガ、ワタシと同じ色のリボンを\nつけたロボットは見マシタ。",
+    "translation": "デスガ、ワタシと同じ色のリボンを\nつけたロボットは見マシタ。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "それ、絶対アイちゃんっしょ！",
+    "translation": "それ、絶対アイちゃんっしょ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "そのロボットの行方は知らないか？",
+    "translation": "そのロボットの行方は知らないか？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "危険因子トシテ、コノ先にある\n研究所に連行サレマシタ。",
+    "translation": "危険因子トシテ、コノ先にある\n研究所に連行サレマシタ。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "なんだと！？",
+    "translation": "なんだと！？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "チッ…研究所とやらに\n早く行かねぇとマズいな。",
+    "translation": "チッ…研究所とやらに\n早く行かねぇとマズいな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "ああ、急いで向かおう。",
+    "translation": "ああ、急いで向かおう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "待て！\nこのロボットはどうするつもりだ？",
+    "translation": "待て！\nこのロボットはどうするつもりだ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_035_0",
+    "original": "連れて行こう",
+    "translation": "連れて行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_035_1",
+    "original": "どこかに隠そう",
+    "translation": "どこかに隠そう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "そうだな。道案内してくれるかもだし、\nきっと役に立つと思うぞ！",
+    "translation": "そうだな。道案内してくれるかもだし、\nきっと役に立つと思うぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "クマも大歓迎ですクマ！\nいざっちゅー時は、クマもお守りしますぞ！",
+    "translation": "クマも大歓迎ですクマ！\nいざっちゅー時は、クマもお守りしますぞ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "確かに、ここにいたら\nまた別のロボットがきちゃいますね。",
+    "translation": "確かに、ここにいたら\nまた別のロボットがきちゃいますね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_038_1",
+    "original": "でも、他に安全な所というのも\nなさそうですし…",
+    "translation": "でも、他に安全な所というのも\nなさそうですし…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "なら一緒に行くクマ！\nいざっちゅー時は、クマもお守りしますし！",
+    "translation": "なら一緒に行くクマ！\nいざっちゅー時は、クマもお守りしますし！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "そうだな。道案内してくれるかもだし、\nきっと役に立つと思うぞ！",
+    "translation": "そうだな。道案内してくれるかもだし、\nきっと役に立つと思うぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "ワタシに、道案内の機能はアリマセン。",
+    "translation": "ワタシに、道案内の機能はアリマセン。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "研究所の場所、知ってるんでしょ？\n普通に連れてってくれればいいから。",
+    "translation": "研究所の場所、知ってるんでしょ？\n普通に連れてってくれればいいから。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "デスガ、勝手な行動を取ルノハ…",
+    "translation": "デスガ、勝手な行動を取ルノハ…",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "お前、べつに初期化されたい\nわけじゃねえだろ？",
+    "translation": "お前、べつに初期化されたい\nわけじゃねえだろ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "……？",
+    "translation": "……？",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "お前の意志じゃないんだろ、ってこと。\nそう決まってるから従ってるだけ、つーか。",
+    "translation": "お前の意志じゃないんだろ、ってこと。\nそう決まってるから従ってるだけ、つーか。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "ワタシの、意志？",
+    "translation": "ワタシの、意志？",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_047_1",
+    "original": "…ワカリマセン。何故、貴方タチは、\nワタシを保護シヨウとするのデスカ？",
+    "translation": "…ワカリマセン。何故、貴方タチは、\nワタシを保護シヨウとするのデスカ？",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "アイギス…ええと、私たちの仲間に\n似てるってこともあるけど…",
+    "translation": "アイギス…ええと、私たちの仲間に\n似てるってこともあるけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_048_1",
+    "original": "あなたの、何かを大切に思う気持ちを\n大切にしてほしいから…かな？",
+    "translation": "あなたの、何かを大切に思う気持ちを\n大切にしてほしいから…かな？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "『何かを大切に思う気持ち』…？",
+    "translation": "『何かを大切に思う気持ち』…？",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_049_1",
+    "original": "ドウシテ…？",
+    "translation": "ドウシテ…？",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_049_2",
+    "original": "ドウシテ…ワタシ…\nドウシテ…花を大切にシタイ…？",
+    "translation": "ドウシテ…ワタシ…\nドウシテ…花を大切にシタイ…？",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_049_3",
+    "original": "…コレが、知リたいとイウ感情…？",
+    "translation": "…コレが、知リたいとイウ感情…？",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "私たちと一緒に行こう？\nもしかしたら、答えが見つかるかも。",
+    "translation": "私たちと一緒に行こう？\nもしかしたら、答えが見つかるかも。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "それがいい。今のままじゃ、\nどっちにしろ初期化されるんだろ？",
+    "translation": "それがいい。今のままじゃ、\nどっちにしろ初期化されるんだろ？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_051_1",
+    "original": "だったら、感情の赴くまま動けばいい。",
+    "translation": "だったら、感情の赴くまま動けばいい。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_052_1",
+    "original": "ワカリマシタ、一緒に行キマス。\n知リたい気持ち…満タシたい。",
+    "translation": "ワカリマシタ、一緒に行キマス。\n知リたい気持ち…満タシたい。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "うん、決まりだね！",
+    "translation": "うん、決まりだね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "安心しろ！\n回路がトラブったら、いつでも分解…",
+    "translation": "安心しろ！\n回路がトラブったら、いつでも分解…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "分解！？",
+    "translation": "分解！？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "おおっと…訂正！\nトラブらなければそれでよし、だ！",
+    "translation": "おおっと…訂正！\nトラブらなければそれでよし、だ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "とにかく、映画の鍵となるロボットは\n見つかった。目的の１つは達成だ。",
+    "translation": "とにかく、映画の鍵となるロボットは\n見つかった。目的の１つは達成だ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "次の目的は、特別課外活動部の\nメンバーを探し出すこと、か。",
+    "translation": "次の目的は、特別課外活動部の\nメンバーを探し出すこと、か。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_058_1",
+    "original": "みんな、行こう！",
+    "translation": "みんな、行こう！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボンを付けたロボット",
+    "original": "リボンを付けたロボット",
+    "translation": "リボンを付けたロボット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

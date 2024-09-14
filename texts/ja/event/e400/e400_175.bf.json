@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あ…今の…は…",
+    "translation": "あ…今の…は…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "な、なにあれ？\nこれも、ひかりちゃんの記憶…？",
+    "translation": "な、なにあれ？\nこれも、ひかりちゃんの記憶…？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああ、小学生時代の彼女だね。\n『ひかり』と呼ばれていた。",
+    "translation": "ああ、小学生時代の彼女だね。\n『ひかり』と呼ばれていた。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "お父さんと言っていたのは、つまり…",
+    "translation": "お父さんと言っていたのは、つまり…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あ…私の…うう…",
+    "translation": "あ…私の…うう…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "大丈夫か、ひかり？\n思い出すのが負担なら、無理はするな。",
+    "translation": "大丈夫か、ひかり？\n思い出すのが負担なら、無理はするな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "…ご、ごめんなさい。\n頭が混乱して…",
+    "translation": "…ご、ごめんなさい。\n頭が混乱して…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "彼女の記憶を基にした映画だから、\n記憶が混濁しているのかもしれないね。",
+    "translation": "彼女の記憶を基にした映画だから、\n記憶が混濁しているのかもしれないね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "僕たちから刺激するのは\n避けたほうが良いかもしれない。",
+    "translation": "僕たちから刺激するのは\n避けたほうが良いかもしれない。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "少しずつで大丈夫だよ、ひかりちゃん。\nゆっくり、一緒に辿っていこう？",
+    "translation": "少しずつで大丈夫だよ、ひかりちゃん。\nゆっくり、一緒に辿っていこう？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "うん…先を目指そう。",
+    "translation": "うん…先を目指そう。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

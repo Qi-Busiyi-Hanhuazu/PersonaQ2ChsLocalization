@@ -1,0 +1,331 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "これ以上、進めなさそうっスね。\n引き返すしか…",
+    "translation": "これ以上、進めなさそうっスね。\n引き返すしか…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "って、うおっ！？",
+    "translation": "って、うおっ！？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "そこ、めちゃくちゃデケー骨が\n落ちてるっスよ！",
+    "translation": "そこ、めちゃくちゃデケー骨が\n落ちてるっスよ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "見事だ…この造形、滑らかな骨密度！\n石膏像では再現できない自然の美しさ！",
+    "translation": "見事だ…この造形、滑らかな骨密度！\n石膏像では再現できない自然の美しさ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_002_1_0",
+    "original": "大地を駆け回る姿が目に浮かぶようだ！\n俺のセンサーが反応しているッ！！",
+    "translation": "大地を駆け回る姿が目に浮かぶようだ！\n俺のセンサーが反応しているッ！！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "なあなあ！　これ、持ち帰って\n武器の素材とかにできねえかな？",
+    "translation": "なあなあ！　これ、持ち帰って\n武器の素材とかにできねえかな？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おっ、恐竜の骨から作った武器とか\nめちゃくちゃ夢あるな！",
+    "translation": "おっ、恐竜の骨から作った武器とか\nめちゃくちゃ夢あるな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "ロマンだ",
+    "translation": "ロマンだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "そうか？",
+    "translation": "そうか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_2",
+    "original": "それより肉だ",
+    "translation": "それより肉だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "骨で作る武器か…現実にはなかなか\n無いものだし、興味深いね。",
+    "translation": "骨で作る武器か…現実にはなかなか\n無いものだし、興味深いね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "でも、ちょっと強度が心配かな。\nこの骨は、少し風化もしてるみたいだから。",
+    "translation": "でも、ちょっと強度が心配かな。\nこの骨は、少し風化もしてるみたいだから。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ああ、残念だが、\n激しい戦闘には不向きかもしれない。",
+    "translation": "ああ、残念だが、\n激しい戦闘には不向きかもしれない。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "面白い発想だと思うよ。\n現実にはなかなか無いものだし。",
+    "translation": "面白い発想だと思うよ。\n現実にはなかなか無いものだし。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "ただ、ちょっと強度が心配かな。\nこの骨は、少し風化もしてるみたいだから。",
+    "translation": "ただ、ちょっと強度が心配かな。\nこの骨は、少し風化もしてるみたいだから。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ああ、残念だが、\n激しい戦闘には不向きかもしれない。",
+    "translation": "ああ、残念だが、\n激しい戦闘には不向きかもしれない。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "はーい、あたしも賛成！\n骨よりも肉！　大事なのは外側！",
+    "translation": "はーい、あたしも賛成！\n骨よりも肉！　大事なのは外側！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "はは…里中さんもジョーカーも\n興味があるのは肉のほうか。",
+    "translation": "はは…里中さんもジョーカーも\n興味があるのは肉のほうか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "僕は、恐竜の骨で作る武器、\n見てみたい気もするけどね。",
+    "translation": "僕は、恐竜の骨で作る武器、\n見てみたい気もするけどね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_2",
+    "original": "でも、ちょっと難しそうかな。\nこの骨は、少し風化もしてるみたいだから。",
+    "translation": "でも、ちょっと難しそうかな。\nこの骨は、少し風化もしてるみたいだから。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ああ、残念だが、\n激しい戦闘には不向きかもしれない。",
+    "translation": "ああ、残念だが、\n激しい戦闘には不向きかもしれない。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "骨…骨か…\n骨付きカルビ…恐竜のカルビ…",
+    "translation": "骨…骨か…\n骨付きカルビ…恐竜のカルビ…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "え、まさか食べる気！？",
+    "translation": "え、まさか食べる気！？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "私も恐竜の肉、食べてみたい。\nきっと精がつくんじゃないかな。",
+    "translation": "私も恐竜の肉、食べてみたい。\nきっと精がつくんじゃないかな。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "わ、わわわわたしも！\n夢にまで見た、憧れの漫画肉をこの手に…！",
+    "translation": "わ、わわわわたしも！\n夢にまで見た、憧れの漫画肉をこの手に…！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "味も気になるよね。\n私、ドラムスティックがいい！",
+    "translation": "味も気になるよね。\n私、ドラムスティックがいい！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "うっ…私がおかしいのかしら…",
+    "translation": "うっ…私がおかしいのかしら…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "だって、恐竜よ…？\n恐竜を食べるなんて…",
+    "translation": "だって、恐竜よ…？\n恐竜を食べるなんて…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "うーん、ちょっと興味はあったけど\n口に入れるのは、やっぱり抵抗あるかな…",
+    "translation": "うーん、ちょっと興味はあったけど\n口に入れるのは、やっぱり抵抗あるかな…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そ、そうよね！？\n良かった、私がおかしいのかと…",
+    "translation": "そ、そうよね！？\n良かった、私がおかしいのかと…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "それより、草食恐竜のフンから作った\nコーヒーって美味しそうじゃない？",
+    "translation": "それより、草食恐竜のフンから作った\nコーヒーって美味しそうじゃない？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "…ソウネ。\nオイシインジャナイカシラ。",
+    "translation": "…ソウネ。\nオイシインジャナイカシラ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ついにクイーンが、考えるのをやめたぞ。",
+    "translation": "ついにクイーンが、考えるのをやめたぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "その…そっちのメンバーは、\nみんな個性が豊かなんだな。",
+    "translation": "その…そっちのメンバーは、\nみんな個性が豊かなんだな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "そっちこそな…",
+    "translation": "そっちこそな…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

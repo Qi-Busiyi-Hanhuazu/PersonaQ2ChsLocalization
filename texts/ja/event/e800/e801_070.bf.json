@@ -1,0 +1,366 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "バザルト８体の討伐、\n大変お見事でございました。",
+    "translation": "バザルト８体の討伐、\n大変お見事でございました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "私、手に汗とポップコーンとコーラを握り、\n拝見させていただいておりましたが…",
+    "translation": "私、手に汗とポップコーンとコーラを握り、\n拝見させていただいておりましたが…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "新島様、奥村様が敵をなぎ倒していく\n快進撃は、まさに痛快・爽快でございました。",
+    "translation": "新島様、奥村様が敵をなぎ倒していく\n快進撃は、まさに痛快・爽快でございました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そ、そこまで凄い勢いだったかな…？",
+    "translation": "そ、そこまで凄い勢いだったかな…？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "まあ、シャドウがただのゴミに見えた\nくらいには容赦なかったな。",
+    "translation": "まあ、シャドウがただのゴミに見えた\nくらいには容赦なかったな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "さっきマコトが、思うところがあったって\n言ってたよな。何があったんだ？",
+    "translation": "さっきマコトが、思うところがあったって\n言ってたよな。何があったんだ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "本当は話すつもりなかったんだけど、\nここまでバレちゃったら仕方ないか…",
+    "translation": "本当は話すつもりなかったんだけど、\nここまでバレちゃったら仕方ないか…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "…うん、黙っててごめんなさい。\nちゃんと説明するね。",
+    "translation": "…うん、黙っててごめんなさい。\nちゃんと説明するね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あのね、私たちカモシダーマンの映画で\nずっと捕まってたでしょ？",
+    "translation": "あのね、私たちカモシダーマンの映画で\nずっと捕まってたでしょ？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "それでみんなの足を引っ張っちゃったから、\n何か穴埋め出来ないかなって考えてたの。",
+    "translation": "それでみんなの足を引っ張っちゃったから、\n何か穴埋め出来ないかなって考えてたの。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "前線復帰も出来たし、『特別上映』なら\n私たちも役に立てるかも、って思って…",
+    "translation": "前線復帰も出来たし、『特別上映』なら\n私たちも役に立てるかも、って思って…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "『特別上映』なら、戦力アップになる\n装備品が『報酬』で手に入るでしょう？",
+    "translation": "『特別上映』なら、戦力アップになる\n装備品が『報酬』で手に入るでしょう？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "なるほど。みんなのために、と\n気がはやったわけですね。",
+    "translation": "なるほど。みんなのために、と\n気がはやったわけですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "そういうことになるのかしら…？",
+    "translation": "そういうことになるのかしら…？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "隠してたつもりなのに、みんなにバレバレ\nだったなんて…少し恥ずかしいわ。",
+    "translation": "隠してたつもりなのに、みんなにバレバレ\nだったなんて…少し恥ずかしいわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "SEL_010_0",
+    "original": "ありがとう",
+    "translation": "ありがとう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_010_1",
+    "original": "ワキが甘いな",
+    "translation": "ワキが甘いな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "そんな、それはこっちのセリフだよ。",
+    "translation": "そんな、それはこっちのセリフだよ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "みんなが迎えに来てくれたから、\n私たちも助かったんだもの。",
+    "translation": "みんなが迎えに来てくれたから、\n私たちも助かったんだもの。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "確かにマコトは、完璧に見えていて\nたまに抜けてたりするよな。",
+    "translation": "確かにマコトは、完璧に見えていて\nたまに抜けてたりするよな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "うっ…そ、そんなこと…",
+    "translation": "うっ…そ、そんなこと…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "たまにはあるかもしれないけど…",
+    "translation": "たまにはあるかもしれないけど…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "あははっ！\nでも、その何倍も頼もしいよ！",
+    "translation": "あははっ！\nでも、その何倍も頼もしいよ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "マコちゃんも私も、\nみんなにお礼がしたかったんだ。",
+    "translation": "マコちゃんも私も、\nみんなにお礼がしたかったんだ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "みんなが迎えに来てくれたから、\n私たちも助かったんだもの。",
+    "translation": "みんなが迎えに来てくれたから、\n私たちも助かったんだもの。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ま、そんなに気ィ張ることねえんじゃね？",
+    "translation": "ま、そんなに気ィ張ることねえんじゃね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "大体、カモシダーマンの像のことだって\nクイーンたちの情報に助けられたし。",
+    "translation": "大体、カモシダーマンの像のことだって\nクイーンたちの情報に助けられたし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ああ、お互い様だな。",
+    "translation": "ああ、お互い様だな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "それに仲間なら助けるのは当然のことだ、\n見返りなど求めていない。",
+    "translation": "それに仲間なら助けるのは当然のことだ、\n見返りなど求めていない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "おお…誰よりも見返りを求めそうな\nおイナリが、なんかいいコト言ってる。",
+    "translation": "おお…誰よりも見返りを求めそうな\nおイナリが、なんかいいコト言ってる。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "失礼だな。",
+    "translation": "失礼だな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "確かにタダ飯には心を動かされるが、\n俺はそこまで現金じゃない…はずだ。",
+    "translation": "確かにタダ飯には心を動かされるが、\n俺はそこまで現金じゃない…はずだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そこは言い切れよっ！",
+    "translation": "そこは言い切れよっ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ふふっ…みんな、改めてありがとう。\nこれからも仲間として、よろしくね。",
+    "translation": "ふふっ…みんな、改めてありがとう。\nこれからも仲間として、よろしくね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "もちろん、怪盗団だけじゃないわ。",
+    "translation": "もちろん、怪盗団だけじゃないわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "[P3P姓]さんや、特別捜査隊の皆も、\n今は仲間として助け合いましょう。",
+    "translation": "[P3P姓]さんや、特別捜査隊の皆も、\n今は仲間として助け合いましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "うん！　もちろん、そのつもり！",
+    "translation": "うん！　もちろん、そのつもり！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "こそらこそ、よろしく頼む。",
+    "translation": "こそらこそ、よろしく頼む。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ああ、なんと美しきハッピーエンド！\n皆様の想いあふれる作品、堪能致しました。",
+    "translation": "ああ、なんと美しきハッピーエンド！\n皆様の想いあふれる作品、堪能致しました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "それでは、こちらが『報酬』となります。\nお受け取りくださいませ。",
+    "translation": "それでは、こちらが『報酬』となります。\nお受け取りくださいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_025_2",
+    "original": "また、入手されました『素材』は\nテオの店で売却されることもお忘れなく…",
+    "translation": "また、入手されました『素材』は\nテオの店で売却されることもお忘れなく…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

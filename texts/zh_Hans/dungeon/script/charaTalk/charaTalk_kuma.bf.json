@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "オタカラスポット発見クマ！\n採取するクマ？",
+    "translation": "发现藏宝地点熊熊！\n要采集吗熊熊？",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n发现宝藏景点的熊熊！\n采集的熊熊？\n\n发现宝物的熊熊！\n采集的熊熊？\n\n小熊发现宝藏！\n采集熊熊？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "クマレーダーに任せんしゃい！",
+    "translation": "交给熊熊雷达吧！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n交给小熊雷达吧！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "クマが一番見つけるクマー！",
+    "translation": "小熊是最先发现的熊熊！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n小熊最会找小熊了！\n\n小熊最能找到的小熊！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "およ、止めとくの？\n分かったクマ～！",
+    "translation": "哦，要先暂停吗？\n知道了熊熊～！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n哦哟，要停手吗？\n知道了熊熊～！\n\n喂，要停下来吗？\n明白了熊熊～！\n\n哦，你要阻止我吗？\n明白了熊熊～！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ぜーんぶ採ったクマ！",
+    "translation": "全部收集完了熊熊！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n小熊采到所有菇类！\n\n采到的熊熊！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ここ掘れクマクマ。",
+    "translation": "挖这里熊熊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n挖这里吧小熊小熊。\n\n挖这里小熊小熊。\n\n这里挖小熊小熊。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ざっくざく～！",
+    "translation": "好多钱钱～！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n沙沙沙～～！\n\n粗略～！\n\n哗啦啦～！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ゲッチュー！",
+    "translation": "get you！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n泼水！\n\n加油！\n\n咔嚓！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ふぃ～…なんとか乗りきったクマ。\n採取もバッチリできたクマね！",
+    "translation": "呼～……总算是解决了熊熊。\n采集也完成了熊熊！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n呼～～……小熊总算撑过去了。\n小熊采药草采得好棒哦！\n\n菲～……好不容易熬过去的熊熊。\n采集也做好了的小熊呢！\n\n呵呵……总算坐过站的熊熊。\n采集也很好的小熊啊！"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ひょーい！",
+    "translation": "呼——！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n咻～！\n\n好厉害！\n\n呸！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "うほ～！",
+    "translation": "唔吼～！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n呜哦～～！\n\n呵呵～！\n\n嗬嗬～！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "当たりクマ～！",
+    "translation": "中大奖啦熊熊～！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n中奖小熊～！\n\n中了小熊～！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカット発見クマ！\n通るクマ？",
+    "translation": "发现捷径熊熊！\n要走这里吗熊熊？",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n发现捷径熊熊！\n通过熊熊？\n\n发现快捷方式的熊熊！\n通过的熊熊？\n\n小小熊发现快捷键！\n路过的熊熊？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないクマー…",
+    "translation": "这边走不了呢熊熊……",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n小熊过不去……\n\n这边是过不去的小熊……\n\n这边不能通过的小熊……"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ココはマズイって\nクマの鼻が言ってるクマ！",
+    "translation": "熊熊的鼻子感觉\n这里很不妙熊熊！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n\n小熊的鼻子说这里很糟糕熊熊！\n\n小熊的鼻子告诉我，这里很不妙！\n\n\n小熊的鼻子说的熊熊！"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "よーし！\nやっちゃるクマー！",
+    "translation": "好——！\n交给我熊熊——！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n好～～！\n小熊上啦～～！\n\n好！\n小熊！\n\n好啊！\n大熊！"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "さんせー！\nクマもそう思いまクマ！",
+    "translation": "赞成——！\n小熊也这么觉得熊熊！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n赞成！\n小熊也这么想熊熊！\n\n小姐！\n小熊也是这么想的熊熊！\n\n谢谢！\n小熊也这么想熊熊！"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ゼェ…ハァ…\n危険なヤツだったクマ～…",
+    "translation": "呼……哈……\n真是危险的家伙啊熊熊～……",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n呼……哈……\n小熊是个危险的家伙～～……\n\n哇……\n危险的熊熊……\n\n哎……哈……\n小熊是个危险的家伙……"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ふんふん…\nここはシャドウの気配が多いクマね…",
+    "translation": "嗯嗯……\n这里有很多暗影的气息呢熊熊……",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n嗯嗯……\n这里是暗影气息较多的小熊呢……\n\n哼哼……\n这里有很多暗影的小熊啊……\n\n哼哼……\n这里暗影的气息很多的小熊啊……"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "オッケー！　やるクマ～！",
+    "translation": "OK！ 要上了熊熊～！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\nOK！小熊你真行～！\n\n好！喂，熊熊！\n\nOK ！干熊熊～！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "止めておくのね。\n了解しまクマ！",
+    "translation": "先暂停吗。\n明白了熊熊！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n要先停下来对吧。\n了解，熊熊！\n\n你要停下来啊。\n了解熊熊！\n\n停一停吧。\n明白岛熊熊！"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "これで終わりクマ？",
+    "translation": "这样就结束了吗熊熊？",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n这样就结束了吗，熊熊？\n\n到此结束熊熊？\n\n这就结束了熊熊？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "およ？　映画館に戻るクマ？",
+    "translation": "哦呀？回电影院吗熊熊？",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n咦？小熊要回电影院？\n\n哦？回电影院的熊熊？\n\n哟？回电影院的熊熊？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "小熊",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

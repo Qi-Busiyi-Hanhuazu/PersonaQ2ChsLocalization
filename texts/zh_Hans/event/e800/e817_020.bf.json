@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "えっと、事件現場で犯人の手掛かりを\n探すんだよね。",
+    "translation": "额，我们要去事件现场\n寻找犯人线索对吧。",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n呃，我们要在案发现场\n找犯人的线索吧。\n\n嗯，在事件现场寻找犯人的线索对吧。\n\n\n嗯，是在案发现场寻找犯人的线索吧。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ええ。場所はエリザベスさんが印を\nつけてくれてるわ。",
+    "translation": "没错。伊莉莎白小姐\n已经把地点标记好了。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n是的。伊莉莎白已经\n做好标记了。\n\n是的。地点是伊莉莎白给我做的记号。\n\n\n嗯。地点是伊莉莎白做的记号。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "へへ、楽勝だな！",
+    "translation": "嘿嘿，小菜一碟！",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n嘿嘿，轻松搞定！\n\n嘿嘿，轻松获胜啊！\n\n嘿嘿，轻松啊！"
+  },
+  {
+    "key": "MSG_002_1_0",
+    "original": "伊織行きまーす！",
+    "translation": "伊织出发！",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n伊织出发——！\n\n我要去伊织！\n\n去伊织吧！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "やる気があるのは良いんだが…",
+    "translation": "有干劲是好事没错，不过……",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n有干劲是好事……\n\n有干劲是好的……\n\n有干劲是好事，但是……"
+  },
+  {
+    "key": "MSG_003_1_0",
+    "original": "まあ、いい。我々も行こう。",
+    "translation": "算了。我们也走吧。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n不过，算了。我们也走吧。\n\n好吧，好吧。我们也去吧。\n\n算了，算了。我们也去吧。"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊织 顺平",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鹤",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

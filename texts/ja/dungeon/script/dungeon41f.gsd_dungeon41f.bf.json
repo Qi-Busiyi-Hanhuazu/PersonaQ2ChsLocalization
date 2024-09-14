@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_CLASH_BLOCK_TUTORIAL_0",
+    "original": "＞破壊可能ブロックを見て、\n　このままでは進めない…",
+    "translation": "＞破壊可能ブロックを見て、\n　このままでは進めない…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_CLASH_BLOCK_TUTORIAL_1",
+    "original": "＞もしかしたらＦ.Ｏ.Ｅ.を使えば、\n　破壊して進行できるかも？　と話すイベント",
+    "translation": "＞もしかしたらＦ.Ｏ.Ｅ.を使えば、\n　破壊して進行できるかも？　と話すイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_HUMBABA_TUTORIAL_A_0",
+    "original": "＞フンババＦ.Ｏ.Ｅ.を見て、こいつを使えば\n　さっきの壁を破壊して進行できるかも？…",
+    "translation": "＞フンババＦ.Ｏ.Ｅ.を見て、こいつを使えば\n　さっきの壁を破壊して進行できるかも？…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_HUMBABA_TUTORIAL_A_1",
+    "original": "＞接触しないように\n　うまくコイツを誘導して進もう。と話すイベント",
+    "translation": "＞接触しないように\n　うまくコイツを誘導して進もう。と話すイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_HUMBABA_TUTORIAL_B_0",
+    "original": "＞あれ？　動かないみたい…\n　数ターンに一度動くのかも？ と話すイベント",
+    "translation": "＞あれ？　動かないみたい…\n　数ターンに一度動くのかも？ と話すイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_STORONG_WIND_TUTORIA_0",
+    "original": "＞強風ギミックで\n　壁まで吹き飛ばされてしまう…",
+    "translation": "＞強風ギミックで\n　壁まで吹き飛ばされてしまう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_STORONG_WIND_TUTORIA_1",
+    "original": "＞ただ、これを使えば、床に空いた\n　穴を超えることができるかも！ と話すイベント",
+    "translation": "＞ただ、これを使えば、床に空いた\n　穴を超えることができるかも！ と話すイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_HUMBABA_CLASH_BLOCK_0",
+    "original": "＞何かが壊れた音に気がつく一同\n　（ブロック見える箇所にカメラ遷移）",
+    "translation": "＞何かが壊れた音に気がつく一同\n　（ブロック見える箇所にカメラ遷移）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "何かが埋まっているようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理してからまた来よう…",
+    "stage": 1,
+    "context": ""
+  }
+]

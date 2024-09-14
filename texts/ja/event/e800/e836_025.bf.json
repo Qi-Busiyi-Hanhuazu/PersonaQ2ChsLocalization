@@ -1,0 +1,37 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ダメです！\nまた新しいＦ．Ｏ．Ｅが現れました…！",
+    "translation": "ダメです！\nまた新しいＦ．Ｏ．Ｅが現れました…！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うーん、これじゃキリがない。",
+    "translation": "うーん、これじゃキリがない。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "無理に戦っても消耗するだけだ。\n上手くかわしながら歩くしかないね。",
+    "translation": "無理に戦っても消耗するだけだ。\n上手くかわしながら歩くしかないね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

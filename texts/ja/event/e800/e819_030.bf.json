@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "Ｆ．Ｏ．Ｅ、撃破を確認しました！\nやりましたね！",
+    "translation": "Ｆ．Ｏ．Ｅ、撃破を確認しました！\nやりましたね！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "よし、ここまでは順調だな。",
+    "translation": "よし、ここまでは順調だな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "どうする、続けて次もいけるか？",
+    "translation": "どうする、続けて次もいけるか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "もちろんだ",
+    "translation": "もちろんだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "ちょっと不安",
+    "translation": "ちょっと不安",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ああ、問題なさそうだな。\nこの勢いで一気にいこう。",
+    "translation": "ああ、問題なさそうだな。\nこの勢いで一気にいこう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ああ、やはり相手は強敵だ。\n無理はせず、慎重にいこう。",
+    "translation": "ああ、やはり相手は強敵だ。\n無理はせず、慎重にいこう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "残るはあと１体だよ！\nみんな、頑張って！",
+    "translation": "残るはあと１体だよ！\nみんな、頑張って！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  }
+]

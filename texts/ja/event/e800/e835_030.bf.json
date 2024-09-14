@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "矢印あったよ！　右だって！",
+    "translation": "矢印あったよ！　右だって！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "オッケーだぜ、パンサー！\n面舵いっぱーい！",
+    "translation": "オッケーだぜ、パンサー！\n面舵いっぱーい！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "右の方へ向かってみようか…",
+    "translation": "右の方へ向かってみようか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "矢印は『右』を指している。\n右の方へ向かおうか…",
+    "translation": "矢印は『右』を指している。\n右の方へ向かおうか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  }
+]

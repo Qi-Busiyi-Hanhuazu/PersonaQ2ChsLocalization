@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…ふう。\n上手くいったね。",
+    "translation": "…ふう。\n上手くいったね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "え！？\n今のアドリブ！？",
+    "translation": "え！？\n今のアドリブ！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "すっげー！\nさすがは探偵王子ジュニアだな！",
+    "translation": "すっげー！\nさすがは探偵王子ジュニアだな！",
+    "stage": 1,
+    "context": "佐倉 双葉（ナビ）"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あまりにも鮮やか過ぎて\nちょっと怖いくらいだったぜ…",
+    "translation": "あまりにも鮮やか過ぎて\nちょっと怖いくらいだったぜ…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "このくらい、どうってことないよ。\nリーダーも協力してくれたしね。",
+    "translation": "このくらい、どうってことないよ。\nリーダーも協力してくれたしね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "それより、Ｆ．Ｏ．Ｅが動き出したよ。\n見つからないよう気をつけながら\nベルトを探そう。",
+    "translation": "それより、Ｆ．Ｏ．Ｅが動き出したよ。\n見つからないよう気をつけながら\nベルトを探そう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ああ。\nせっかく生まれたチャンスだ、\nムダにはできねーよな！",
+    "translation": "ああ。\nせっかく生まれたチャンスだ、\nムダにはできねーよな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉（ナビ）",
+    "original": "佐倉 双葉（ナビ）",
+    "translation": "佐倉 双葉（ナビ）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ヒーロー改造施設を停止する、\nそれが今回、皆様にお願いしたい\n目的でございます。",
+    "translation": "ヒーロー改造施設を停止する、\nそれが今回、皆様にお願いしたい\n目的でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "どうやら、あちらの施設では、\n改造とは名ばかりに、電気を使った\n人体実験が行われているようです。",
+    "translation": "どうやら、あちらの施設では、\n改造とは名ばかりに、電気を使った\n人体実験が行われているようです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ひどい…\nじゃあ、あの時叫んでいた人って…",
+    "translation": "ひどい…\nじゃあ、あの時叫んでいた人って…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "彼らもまた、\n人体実験の被害者ということでしょう。",
+    "translation": "彼らもまた、\n人体実験の被害者ということでしょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そんなん見過ごせるかよ！\n施設をぶっこわして、助けにいこうぜ！",
+    "translation": "そんなん見過ごせるかよ！\n施設をぶっこわして、助けにいこうぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "しかし…施設を止める以前に、\n入り口の電流をどうにかしなければ。",
+    "translation": "しかし…施設を止める以前に、\n入り口の電流をどうにかしなければ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "でしたら、電気の供給を\n停止させればよろしいかと。",
+    "translation": "でしたら、電気の供給を\n停止させればよろしいかと。",
+    "stage": 1,
+    "context": "エリザエス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そんなことできんのか！？",
+    "translation": "そんなことできんのか！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ええ。専用の発電所があるので、\nそちらを止めれば、\n電力供給を遮断できます。",
+    "translation": "ええ。専用の発電所があるので、\nそちらを止めれば、\n電力供給を遮断できます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "確かに…発電所を停止させれば、\n入り口の電流をなんとかできそうだな。",
+    "translation": "確かに…発電所を停止させれば、\n入り口の電流をなんとかできそうだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "それに、施設もろとも\n停止させることができるかもしれない。",
+    "translation": "それに、施設もろとも\n停止させることができるかもしれない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "よーし！　じゃあさっそく、\n発電所を探してみようぜ！",
+    "translation": "よーし！　じゃあさっそく、\n発電所を探してみようぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザエス",
+    "original": "エリザエス",
+    "translation": "エリザエス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おっ、階段をはっけーん！\nこりゃ、次のフロアもすぐじゃね？",
+    "translation": "おっ、階段をはっけーん！\nこりゃ、次のフロアもすぐじゃね？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "でも、手前の格子って、\n壁かなにかじゃない？",
+    "translation": "でも、手前の格子って、\n壁かなにかじゃない？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "このまま真っ直ぐは行けなさそうだね。",
+    "translation": "このまま真っ直ぐは行けなさそうだね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "んじゃ、今度は…",
+    "translation": "んじゃ、今度は…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おっ、手前に扉をはっけーん！",
+    "translation": "おっ、手前に扉をはっけーん！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あ、待って。\n扉の向こうに敵反応！　気をつけて！",
+    "translation": "あ、待って。\n扉の向こうに敵反応！　気をつけて！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おっ、おっ…",
+    "translation": "おっ、おっ…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "…もう他に道はありまっせーん！",
+    "translation": "…もう他に道はありまっせーん！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "なんかわかんねーけど、このガッカリさ…\nキャラが被るっつーか…",
+    "translation": "なんかわかんねーけど、このガッカリさ…\nキャラが被るっつーか…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "おう、呼んだか？",
+    "translation": "おう、呼んだか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "呼んでねーよ！",
+    "translation": "呼んでねーよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "ったく、扉の向こうに敵がいんだぞ！？\n気合い入れろっての！",
+    "translation": "ったく、扉の向こうに敵がいんだぞ！？\n気合い入れろっての！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  }
+]

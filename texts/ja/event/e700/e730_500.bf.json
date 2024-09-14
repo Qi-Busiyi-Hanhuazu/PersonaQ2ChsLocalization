@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "この先、強力な気配がします！\nみなさん、気を付けて…！",
+    "translation": "この先、強力な気配がします！\nみなさん、気を付けて…！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "この奥が、ロボットを操っている中心…\nマザーコンピュータのいる指令室かもね。",
+    "translation": "この奥が、ロボットを操っている中心…\nマザーコンピュータのいる指令室かもね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "戦闘になる可能性は、\n非常に高いかと思われます。",
+    "translation": "戦闘になる可能性は、\n非常に高いかと思われます。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "早速、行きますか？",
+    "translation": "早速、行きますか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "この先、激戦は必須かと思われます。\n準備は大丈夫でありますか？",
+    "translation": "この先、激戦は必須かと思われます。\n準備は大丈夫でありますか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "突っ込むぞ",
+    "translation": "突っ込むぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "まだだ",
+    "translation": "まだだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "了解しました。行くであります！",
+    "translation": "了解しました。行くであります！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "わかりました。\n待機するであります。",
+    "translation": "わかりました。\n待機するであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  }
+]

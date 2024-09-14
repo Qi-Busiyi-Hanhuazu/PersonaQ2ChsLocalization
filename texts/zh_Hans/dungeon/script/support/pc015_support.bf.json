@@ -1,0 +1,527 @@
+[
+  {
+    "key": "RYUJI_FOE_FOLLOW_START_1_0",
+    "original": "うおっ、Ｆ．Ｏ．Ｅ！",
+    "translation": "唔噢，F.O.E！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n唔噢，F.O.E！\n\n哦，F.O.E！\n\n噢，F.O.E！"
+  },
+  {
+    "key": "RYUJI_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅ来んぞ！",
+    "translation": "F.O.E来了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E来了！\n\n来吧！"
+  },
+  {
+    "key": "RYUJI_FOE_FOLLOW_START_3_0",
+    "original": "見つかっちまった！",
+    "translation": "被发现了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n被发现了！\n\n找到了！"
+  },
+  {
+    "key": "RYUJI_FOE_NEAR_1_0",
+    "original": "やべえ、Ｆ．Ｏ．Ｅちけえ！",
+    "translation": "糟糕，F.O.E好近！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n糟糕，F.O.E好近！\n\n哎呀，F.O.E！\n\n矢兵卫，F.O.E智家！"
+  },
+  {
+    "key": "RYUJI_FOE_NEAR_2_0",
+    "original": "おい、Ｆ．Ｏ．Ｅがいんぞ！",
+    "translation": "喂，F.O.E来了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，F.O.E来了！\n\n喂，有F.O.E！"
+  },
+  {
+    "key": "RYUJI_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅ近すぎだぞ、おい！",
+    "translation": "F.O.E太近了，喂！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.O.E太近了，喂！\n\n太近了，喂！"
+  },
+  {
+    "key": "RYUJI_FOE_FOLLOW_END_1_0",
+    "original": "あっぶねー…逃げ切ったか。",
+    "translation": "好险……甩掉了吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好险……甩掉了吗？\n\n哎呀……跑完了吗。\n\n阿芙娜……逃走了吗？"
+  },
+  {
+    "key": "RYUJI_FOE_FOLLOW_END_2_0",
+    "original": "よっしゃ、まいたな！",
+    "translation": "好耶，甩掉了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好耶，甩掉了！\n\n太好了，撒了！\n\n好，撒了吧！"
+  },
+  {
+    "key": "RYUJI_FOE_FOLLOW_END_3_0",
+    "original": "へへっ、諦めたみたいだな。",
+    "translation": "嘿嘿，好像放弃了呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嘿嘿，好像放弃了呢。\n\n嘿嘿，你好像放弃了。\n\n嘿嘿，好像放弃了。"
+  },
+  {
+    "key": "RYUJI_KANSI_REACTION_1_0",
+    "original": "見つかんね―ようにな。",
+    "translation": "不会被发现……吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不会被发现……吧。\n\n好像找不到似的。\n\n一定要找到哦。"
+  },
+  {
+    "key": "RYUJI_KANSI_REACTION_2_0",
+    "original": "ゲッ、面倒クセーのがあるぞ。",
+    "translation": "呃，有麻烦的家伙来了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呃，有麻烦的家伙来了。\n\n哇，有麻烦的事。\n\n哦，有个麻烦的。"
+  },
+  {
+    "key": "RYUJI_KANSI_REACTION_3_0",
+    "original": "ふいー、緊張するー…",
+    "translation": "呼，好紧张……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呼，好紧张……\n\n哎呀，好紧张啊……\n\n嗯，好紧张啊……"
+  },
+  {
+    "key": "RYUJI_DENKISAKU_REACTION_0",
+    "original": "このままじゃ通れねえな…",
+    "translation": "这样下去没办法通过啊……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这样下去没办法通过啊……\n\n这样下去没法通过啊……\n\n这样下去过不去啊……"
+  },
+  {
+    "key": "RYUJI_DENKISAKU_REACTION_2_0",
+    "original": "電気止めるスイッチ探そうぜ！",
+    "translation": "来找关灯的开关吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n来找关灯的开关吧！\n\n寻找断电开关吧！\n\n找个断电开关吧！"
+  },
+  {
+    "key": "RYUJI_DENKISAKU_REACTION_3_0",
+    "original": "あっぶね、電気柵だぞ！",
+    "translation": "好险，是电栅栏！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好险，是电栅栏！\n\n哎呀，是电栅栏！\n\n啊哈，这是电栅栏！"
+  },
+  {
+    "key": "RYUJI_KYOUHU_REACTION_1_0",
+    "original": "どわぁーっ！",
+    "translation": "唔哇！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n唔哇！\n\n哇！"
+  },
+  {
+    "key": "RYUJI_KYOUHU_REACTION_2_0",
+    "original": "風強え！？",
+    "translation": "风好强！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n风好强！？\n\n风好大！？\n\n风很大！？"
+  },
+  {
+    "key": "RYUJI_KYOUHU_REACTION_3_0",
+    "original": "マジかよ！？",
+    "translation": "真的假的！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真的假的！？\n\n真的吗！？"
+  },
+  {
+    "key": "RYUJI_STAIR_FIND_1_0",
+    "original": "先進めそうなトコ、発見！",
+    "translation": "发现可以前进的地方了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n发现可以前进的地方了！\n\n看起来很先进的小豆豆，发现了！\n\n发现有进展的地方！"
+  },
+  {
+    "key": "RYUJI_STAIR_FIND_2_0",
+    "original": "先進もうぜ！",
+    "translation": "快走吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n快走吧！\n\n先进！\n\n继续前进吧！"
+  },
+  {
+    "key": "RYUJI_STAIR_FIND_3_0",
+    "original": "なあ、こっから進めそうだぜ！",
+    "translation": "喂，这里好像可以前进！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，这里好像可以前进！\n\n喂，从这里开始就要前进了！\n\n喂，看来要从这里开始了！"
+  },
+  {
+    "key": "RYUJI_TREASURE_FIND_1_0",
+    "original": "オタカラ、発見！",
+    "translation": "发现宝物了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n发现宝物了！\n\n发现宝物！\n\n发现宝藏！"
+  },
+  {
+    "key": "RYUJI_TREASURE_FIND_2_0",
+    "original": "よっしゃ、オタカラいただきぃ！",
+    "translation": "好耶，宝物到手！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好耶，宝物到手！\n\n太好了，太好了！\n\n好了，宝贝开动了！"
+  },
+  {
+    "key": "RYUJI_TREASURE_FIND_3_0",
+    "original": "宝箱見っけ！",
+    "translation": "发现宝箱了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n发现宝箱了！\n\n来看看宝箱吧！\n\n找到宝箱！"
+  },
+  {
+    "key": "RYUJI_CHECK_WALL_1_0",
+    "original": "このへん怪しくねーか？",
+    "translation": "这边好像很可疑啊？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这边好像很可疑啊？\n\n这不奇怪吗？\n\n这不是很奇怪吗？"
+  },
+  {
+    "key": "RYUJI_CHECK_WALL_2_0",
+    "original": "おい、調べてみねえか？",
+    "translation": "喂，要不要调查一下？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，要不要调查一下？\n\n喂，要不要查一下？"
+  },
+  {
+    "key": "RYUJI_CHECK_WALL_3_0",
+    "original": "なーんか引っかかんだよなぁ…",
+    "translation": "总觉得有点不对劲……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n总觉得有点不对劲……\n\n不知道怎么抓到了啊……\n\n怎么了……"
+  },
+  {
+    "key": "RYUJI_SWITCH_FIND_1_0",
+    "original": "あれスイッチじゃね？",
+    "translation": "那是开关吧？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那是开关吧？\n\n是那个开关吧？\n\n那不是开关吗？"
+  },
+  {
+    "key": "RYUJI_SWITCH_FIND_2_0",
+    "original": "ボタンみてえのあるな。",
+    "translation": "有个像是按钮的东西。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有个像是按钮的东西。\n\n有纽扣啊。\n\n看起来像纽扣。"
+  },
+  {
+    "key": "RYUJI_SWITCH_FIND_3_0",
+    "original": "押す？　押しちゃう？",
+    "translation": "要按吗？要按吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要按吗？要按吗？\n\n推？推？\n\n按？推挤？"
+  },
+  {
+    "key": "RYUJI_SHORTCUT_FIND_1_0",
+    "original": "なあ、そこ通れんじゃね？",
+    "translation": "喂，那边应该能通过吧？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，那边应该能通过吧？\n\n喂，那里不能通过吧？\n\n喂，那里行不通吧？"
+  },
+  {
+    "key": "RYUJI_SHORTCUT_FIND_2_0",
+    "original": "あそこ、近道にできそうじゃねえか？",
+    "translation": "那边好像能当捷径啊？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那边好像能当捷径啊？\n\n那里是不是可以抄近道呢？\n\n那里不是可以抄近路吗？"
+  },
+  {
+    "key": "RYUJI_SHORTCUT_FIND_3_0",
+    "original": "見ろよ、近道になりそうじゃね？",
+    "translation": "快看，能当捷径吧？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n快看，能当捷径吧？\n\n看吧，会成为近路吧？\n\n你看，这不是一条近道吗？"
+  },
+  {
+    "key": "RYUJI_FOE_WARNING_NEAR_1_0",
+    "original": "おいおい、まだＦ．Ｏ．Ｅ来てんぞ！",
+    "translation": "喂喂，F.O.E又来了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂喂，F.O.E又来了！\n\n喂喂，还在F.O.E来呢！\n\n喂喂，F.O.E还来了！"
+  },
+  {
+    "key": "RYUJI_FOE_WARNING_NEAR_2_0",
+    "original": "しつけーな、あのＦ．Ｏ．Ｅ！",
+    "translation": "那个F.O.E有够啰嗦的！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那个F.O.E有够啰嗦的！\n\n那个F.O.E！\n\n训导员，那个F.O.E！"
+  },
+  {
+    "key": "RYUJI_FOE_WARNING_NEAR_3_0",
+    "original": "まだＦ．Ｏ．Ｅいんぞ、油断すんなよ！",
+    "translation": "还有F.O.E在，别大意啊！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n还有F.O.E在，别大意啊！\n\n还有F.O.E哦，别大意哦！\n\n还有F.O.E哦，不要大意哦！"
+  },
+  {
+    "key": "RYUJI_1PERSON_HPTP10_1_0",
+    "original": "限界ちけえ…",
+    "translation": "快到极限了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n快到极限了……\n\n极限了……\n\n极限智慧……"
+  },
+  {
+    "key": "RYUJI_1PERSON_HPTP10_2_0",
+    "original": "わりぃ、しんどいわ…",
+    "translation": "抱歉，我快不行了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n抱歉，我快不行了……\n\n哇，好累啊……"
+  },
+  {
+    "key": "RYUJI_1PERSON_HPTP10_3_0",
+    "original": "おぇ…しんど…",
+    "translation": "呜……好难受……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呜……好难受……\n\n啊……真的……\n\n喂……进度……"
+  },
+  {
+    "key": "RYUJI_1PERSON_HP10_1_0",
+    "original": "あー…きちいな…",
+    "translation": "啊……好险……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啊……好险……\n\n啊……好可爱……\n\n啊……好吉啊……"
+  },
+  {
+    "key": "RYUJI_1PERSON_HP10_2_0",
+    "original": "回復頼むわぁ…",
+    "translation": "麻烦你回复了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n麻烦你回复了……\n\n请恢复啊……\n\n拜托你恢复……"
+  },
+  {
+    "key": "RYUJI_1PERSON_HP10_3_0",
+    "original": "やべ、ぶっ倒れそう…",
+    "translation": "糟糕，我快昏倒了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n糟糕，我快昏倒了……\n\n哎呀，快要倒下了……\n\n啊，要倒下了……"
+  },
+  {
+    "key": "RYUJI_1PERSON_TP10_1_0",
+    "original": "マジ心折れそ…",
+    "translation": "我真的快被打败了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我真的快被打败了……\n\n真的会心碎……\n\n真是令人心碎啊……"
+  },
+  {
+    "key": "RYUJI_1PERSON_TP10_2_0",
+    "original": "腹減った…もムリ…",
+    "translation": "肚子饿了……也撑不住了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n肚子饿了……也撑不住了……\n\n肚子饿了……也不行……"
+  },
+  {
+    "key": "RYUJI_1PERSON_TP10_3_0",
+    "original": "疲れがピークだわ…",
+    "translation": "疲劳也累积到极限了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n疲劳也累积到极限了……\n\n疲劳是顶峰……\n\n累到极点了……"
+  },
+  {
+    "key": "RYUJI_1PERSON_HP80_1_0",
+    "original": "余裕の勝利だったな！",
+    "translation": "赢得真是轻松！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n赢得真是轻松！\n\n真是从容的胜利啊！\n\n真是轻松的胜利啊！"
+  },
+  {
+    "key": "RYUJI_1PERSON_HP80_2_0",
+    "original": "ガンガン行こうぜ！",
+    "translation": "继续努力吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n继续努力吧！\n\n咣咣地走吧！\n\n加油走吧！"
+  },
+  {
+    "key": "RYUJI_1PERSON_HP80_3_0",
+    "original": "さあ、次行くぜ！",
+    "translation": "好，继续前进吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，继续前进吧！\n\n那么，下一个走吧！\n\n好了，下一站！"
+  },
+  {
+    "key": "RYUJI_DUNGEON_START_1_0",
+    "original": "さぁて、やりますか。",
+    "translation": "好啦，开始吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好啦，开始吧。\n\n那么，做吗。\n\n那么，做吗？"
+  },
+  {
+    "key": "RYUJI_DUNGEON_START_2_0",
+    "original": "準備バッチシ！　いつでも行けるぜ！",
+    "translation": "准备万全！随时都能出发！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n准备万全！随时都能出发！\n\n准备批！什么时候都可以去！\n\n准备好了！随时都可以去！"
+  },
+  {
+    "key": "RYUJI_DUNGEON_START_3_0",
+    "original": "んじゃ、行くとすっか！",
+    "translation": "好，那就出发吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，那就出发吧！\n\n那么，去吧！\n\n那就去吧！"
+  },
+  {
+    "key": "RYUJI_QUEST_START_1_0",
+    "original": "うし、作戦開始だ！",
+    "translation": "好，作战开始！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，作战开始！\n\n开始作战了！\n\n牛，作战开始！"
+  },
+  {
+    "key": "RYUJI_QUEST_START_2_0",
+    "original": "さっさと解決しようぜ！",
+    "translation": "赶快解决吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n赶快解决吧！\n\n赶紧解决吧！"
+  },
+  {
+    "key": "RYUJI_QUEST_START_3_0",
+    "original": "いつも通りいけば余裕だろ！",
+    "translation": "只要照平常那样做，应该很轻松吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n只要照平常那样做，应该很轻松吧！\n\n和往常一样的话就很从容了吧！\n\n跟平常一样就游刃有余了！"
+  },
+  {
+    "key": "RYUJI_TOUHA_25_1_0",
+    "original": "まだ先は長そうだな～。",
+    "translation": "看来还有很长一段路要走呢～",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看来还有很长一段路要走呢～\n\n前面好像还很长啊～\n\n看来路还很长呢～"
+  },
+  {
+    "key": "RYUJI_TOUHA_25_2_0",
+    "original": "ま、ぼちぼち頑張ろうぜ！",
+    "translation": "总之，就一点一点努力吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n总之，就一点一点努力吧！\n\n加油吧！\n\n算了，加油吧！"
+  },
+  {
+    "key": "RYUJI_TOUHA_50_1_0",
+    "original": "お、半分ってとこか。",
+    "translation": "哦，差不多一半吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦，差不多一半吧。\n\n哦，是一半吗？\n\n啊，大概半分钟吧。"
+  },
+  {
+    "key": "RYUJI_TOUHA_50_2_0",
+    "original": "こっからが勝負だな！",
+    "translation": "接下来才是胜负关键！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n接下来才是胜负关键！\n\n从现在开始就是胜负！\n\n从现在开始就要一决胜负了！"
+  },
+  {
+    "key": "RYUJI_TOUHA_75_1_0",
+    "original": "結構、行ったろ！",
+    "translation": "不是去过了吗！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不是去过了吗！\n\n够了，走了吧！\n\n够了，够了吧！"
+  },
+  {
+    "key": "RYUJI_TOUHA_75_2_0",
+    "original": "おう、イイ感じだな！",
+    "translation": "哦，感觉不错！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦，感觉不错！\n\n哦，感觉真好啊！\n\n啊，感觉真好啊！"
+  },
+  {
+    "key": "RYUJI_TOUHA_100_1_0",
+    "original": "おっしゃ、完璧っしょ！",
+    "translation": "好耶，完美！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好耶，完美！\n\n你说，完美！\n\n完蛋了！完美！"
+  },
+  {
+    "key": "RYUJI_TOUHA_100_2_0",
+    "original": "このフロアは制覇だな！",
+    "translation": "我一定要称霸这个楼层！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我一定要称霸这个楼层！\n\n这个楼层是称霸！\n\n这一层真是称霸啊！"
+  },
+  {
+    "key": "RYUJI_MAPPING_ICON_ALL_1_0",
+    "original": "いいじゃん！",
+    "translation": "不错嘛！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不错嘛！\n\n不是很好吗！\n\n很好嘛！"
+  },
+  {
+    "key": "RYUJI_MAPPING_ICON_ALL_2_0",
+    "original": "お、ナイス！",
+    "translation": "哦，干得好！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦，干得好！\n\n哦，好棒！\n\n哦，好样的！"
+  },
+  {
+    "key": "RYUJI_MAPPING_ICON_KAIDA_0",
+    "original": "そうそう、そこ！",
+    "translation": "对对对，就是那里！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n对对对，就是那里！\n\n对了对了，那里！\n\n对了对了，就是那里！"
+  },
+  {
+    "key": "RYUJI_MAPPING_ICON_KAIDA_2_0",
+    "original": "バッチリだぜ。",
+    "translation": "完美。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n完美。\n\n很好哦。\n\n很棒哦。"
+  },
+  {
+    "key": "RYUJI_MAPPING_CHANGE_COL_0",
+    "original": "お、イイかんじ！",
+    "translation": "哦，感觉不错！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦，感觉不错！\n\n喂，感觉不错！"
+  },
+  {
+    "key": "RYUJI_MAPPING_CHANGE_COL_2_0",
+    "original": "イケてんな！",
+    "translation": "这下有搞头！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这下有搞头！\n\n好帅啊！\n\n很好啊！"
+  },
+  {
+    "key": "RYUJI_MAPPING_ICON_DEL_1_0",
+    "original": "だよなー。",
+    "translation": "也是啦。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n也是啦。\n\n是啊。"
+  },
+  {
+    "key": "RYUJI_MAPPING_ICON_DEL_2_0",
+    "original": "はい、ポイっと。",
+    "translation": "好，丢出去。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，丢出去。\n\n好，随便。\n\n是的，扑通一声。"
+  },
+  {
+    "key": "RYUJI_MAPPING_MEMO_1_0",
+    "original": "おー、マメだな。",
+    "translation": "哦～～真认真。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦～～真认真。\n\n喂，真豆子啊。\n\n啊，真勤快。"
+  },
+  {
+    "key": "RYUJI_MAPPING_MEMO_2_0",
+    "original": "おー、さっすが。",
+    "translation": "哦～不愧是小润。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦～不愧是小润。\n\n哦，萨斯。\n\n喂、喂。"
+  },
+  {
+    "key": "RYUJI_DOOR_OPEN_1_0",
+    "original": "よっしゃ、行こうぜ！",
+    "translation": "好，我们走！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，我们走！\n\n好了，走吧！"
+  },
+  {
+    "key": "RYUJI_DOOR_OPEN_2_0",
+    "original": "へへっ、進もうぜ。",
+    "translation": "嘿嘿，我们前进吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嘿嘿，我们前进吧。\n\n嘿嘿，前进吧。"
+  },
+  {
+    "key": "RYUJI_DOOR_OPEN_3_0",
+    "original": "おっさきー！",
+    "translation": "冲啊～～！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n冲啊～～！\n\n哎呀！\n\n喂！"
+  }
+]

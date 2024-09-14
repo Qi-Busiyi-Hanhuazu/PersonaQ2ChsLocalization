@@ -1,0 +1,527 @@
+[
+  {
+    "key": "ARAGAKI_FOE_FOLLOW_START_0",
+    "original": "チッ、追いかけてきやがったか…",
+    "translation": "啧，追上来了吗……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啧，追上来了吗……\n\n嘁，你追上来了吗……\n\n哇，追上来了吗……"
+  },
+  {
+    "key": "ARAGAKI_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅに気付かれたみてぇだな。",
+    "translation": "看来是被F.E.A.R.发现了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看来是被F.E.A.R.发现了。\n\n好像被F.O.E发现了。\n\n想让F.O.E注意到啊。"
+  },
+  {
+    "key": "ARAGAKI_FOE_FOLLOW_START_3_0",
+    "original": "気ィつけろ。\nＦ．Ｏ．Ｅが追ってきてやがる。",
+    "translation": "小心点。\nF.E.A.R.追上来了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n小心点。\nF.E.A.R.追上来了。\n\n小心点。\nF.O.E正在追赶。\n\n小心点。F.O.E追上来了。"
+  },
+  {
+    "key": "ARAGAKI_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅがすぐそばにいやがんな…",
+    "translation": "F.E.A.R.就在旁边……",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.E.A.R.就在旁边……\n\nF.O.E就在旁边……\n\nF.O.E就在旁边骚扰……"
+  },
+  {
+    "key": "ARAGAKI_FOE_NEAR_2_0",
+    "original": "おーおー、Ｆ．Ｏ．Ｅのお出ましだぜ。",
+    "translation": "哦——哦——F.E.A.R.出现了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦——哦——F.E.A.R.出现了。\n\n喂，F.O.E出来了。\n\n喂，F.O.E出场了。"
+  },
+  {
+    "key": "ARAGAKI_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅか…\n見つからねーよう注意しな。",
+    "translation": "F.E.A.R.吗……\n小心别被发现。",
+    "stage": 0,
+    "context": "机翻辅助：\n\nF.E.A.R.吗……\n小心别被发现。\n\nF.O.E吗……\n注意不要找到。\n\nF.O.E啊……小心别被发现。"
+  },
+  {
+    "key": "ARAGAKI_FOE_FOLLOW_END_1_0",
+    "original": "ようやく諦めてくれたみてーだな。",
+    "translation": "看来它终于放弃了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看来它终于放弃了。\n\n终于放弃了。"
+  },
+  {
+    "key": "ARAGAKI_FOE_FOLLOW_END_2_0",
+    "original": "あっちに行ったみてぇだな。",
+    "translation": "好像跑到那边去了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像跑到那边去了。\n\n好像去了那边。\n\n你想去那边看看啊。"
+  },
+  {
+    "key": "ARAGAKI_FOE_FOLLOW_END_3_0",
+    "original": "Ｆ．Ｏ．Ｅ、上手く撒いたな。",
+    "translation": "顺利甩掉F.E.A.R.了呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n顺利甩掉F.E.A.R.了呢。\n\nF.O.E，撒得好啊。\n\nF.O.E，撒得真好。"
+  },
+  {
+    "key": "ARAGAKI_KANSI_REACTION_1_0",
+    "original": "チッ、動きづらそうだな。",
+    "translation": "啧，好像很难行动。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啧，好像很难行动。\n\n哇，好像很难动啊。\n\n啧啧，好像动不了。"
+  },
+  {
+    "key": "ARAGAKI_KANSI_REACTION_2_0",
+    "original": "気ィつけな、見つかると面倒だぜ。",
+    "translation": "小心点，被发现就麻烦了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n小心点，被发现就麻烦了。\n\n小心点，找到的话会很麻烦的。\n\n小心点，被发现了就麻烦了。"
+  },
+  {
+    "key": "ARAGAKI_KANSI_REACTION_3_0",
+    "original": "厄介な罠だな。",
+    "translation": "真是个麻烦的陷阱。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真是个麻烦的陷阱。\n\n真是个麻烦的陷阱啊。"
+  },
+  {
+    "key": "ARAGAKI_DENKISAKU_REACTI_0",
+    "original": "電気柵か…\n面倒くせーけど、遠回りすんぞ。",
+    "translation": "是带电栅栏吗……\n虽然很麻烦，但是要绕远路哦。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是带电栅栏吗……\n虽然很麻烦，但是要绕远路哦。\n\n电栅栏啊……\n虽然很麻烦，但是要绕远路哦。\n\n电栅栏吗？虽然很麻烦，但是要绕远路哦。"
+  },
+  {
+    "key": "ARAGAKI_DENKISAKU_REACTI_2_0",
+    "original": "電気を切るスイッチを探そうぜ。",
+    "translation": "去找关掉电的开关吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去找关掉电的开关吧。\n\n我们找一个关灯的开关啊。\n\n去找断电的开关吧。"
+  },
+  {
+    "key": "ARAGAKI_DENKISAKU_REACTI_3_0",
+    "original": "こりゃ、電気を止めるのが先決だな。",
+    "translation": "看来，要先关掉电呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看来，要先关掉电呢。\n\n这样的话，先把电关掉才是最重要的。\n\n这个嘛，首先要断电啊。"
+  },
+  {
+    "key": "ARAGAKI_KYOUHU_REACTION__0",
+    "original": "どわっ！？",
+    "translation": "呜哇！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n呜哇！？\n\n怎么了！？\n\n哇！？"
+  },
+  {
+    "key": "ARAGAKI_KYOUHU_REACTION__2_0",
+    "original": "マジかよ…っ！",
+    "translation": "真的假的……！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真的假的……！\n\n真的吗……！\n\n真的吗！"
+  },
+  {
+    "key": "ARAGAKI_KYOUHU_REACTION__3_0",
+    "original": "チッ…！",
+    "translation": "啧……！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啧……！\n\n哇……！"
+  },
+  {
+    "key": "ARAGAKI_STAIR_FIND_1_0",
+    "original": "おい、階段があるぞ。",
+    "translation": "喂，有楼梯哦。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，有楼梯哦。\n\n喂，有楼梯。"
+  },
+  {
+    "key": "ARAGAKI_STAIR_FIND_2_0",
+    "original": "先に進めそうだな、行くか？",
+    "translation": "好像能继续前进，要走吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像能继续前进，要走吗？\n\n好像要往前走了，走吗？\n\n好像可以继续前进，走吧？"
+  },
+  {
+    "key": "ARAGAKI_STAIR_FIND_3_0",
+    "original": "まだ先があるのか。どうする？",
+    "translation": "还有路吗？怎么办？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n还有路吗？怎么办？\n\n还有前途吗。怎么办？"
+  },
+  {
+    "key": "ARAGAKI_TREASURE_FIND_1_0",
+    "original": "宝箱があるぜ…開けるか？",
+    "translation": "有宝箱啊……要开吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n有宝箱啊……要开吗？\n\n有宝箱啊……能打开吗？\n\n有宝箱哦……要打开吗？"
+  },
+  {
+    "key": "ARAGAKI_TREASURE_FIND_2_0",
+    "original": "宝箱か…いいモン入ってるといいな。",
+    "translation": "宝箱啊……要是里面有好东西就好了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n宝箱啊……要是里面有好东西就好了。\n\n宝箱啊……要是有好的东西就好了。"
+  },
+  {
+    "key": "ARAGAKI_TREASURE_FIND_3_0",
+    "original": "おい、そこに宝箱あんぞ。",
+    "translation": "喂，那边有宝箱啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，那边有宝箱啊。\n\n喂，那里有宝箱。\n\n喂，那里有个宝箱。"
+  },
+  {
+    "key": "ARAGAKI_CHECK_WALL_1_0",
+    "original": "怪しい気配がすんな…解除するか？",
+    "translation": "感觉有点可疑啊……要解除吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n感觉有点可疑啊……要解除吗？\n\n有可疑的迹象……解除吗？\n\n不要有可疑的迹象……解除吗？"
+  },
+  {
+    "key": "ARAGAKI_CHECK_WALL_2_0",
+    "original": "おい、ありゃなんだ？",
+    "translation": "喂，那是什么？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，那是什么？"
+  },
+  {
+    "key": "ARAGAKI_CHECK_WALL_3_0",
+    "original": "あそこ、何かあんな。",
+    "translation": "那边好像有什么。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那边好像有什么。\n\n那里，好像有什么东西。\n\n那里有什么那样的。"
+  },
+  {
+    "key": "ARAGAKI_SWITCH_FIND_1_0",
+    "original": "スイッチか…押すか？",
+    "translation": "是开关吗……要按吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是开关吗……要按吗？\n\n开关啊……要推吗？\n\n是开关还是……按下？"
+  },
+  {
+    "key": "ARAGAKI_SWITCH_FIND_2_0",
+    "original": "おい、あれ…スイッチじゃねえか？",
+    "translation": "喂，那个……不就是开关吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，那个……不就是开关吗？\n\n喂，那个……不是开关吗？\n\n喂，那个……这不是开关吗？"
+  },
+  {
+    "key": "ARAGAKI_SWITCH_FIND_3_0",
+    "original": "スイッチか…どうする？",
+    "translation": "开关吗……怎么办？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n开关吗……怎么办？\n\n开关啊……怎么办？"
+  },
+  {
+    "key": "ARAGAKI_SHORTCUT_FIND_1_0",
+    "original": "そこ、通れるんじゃねえか？",
+    "translation": "那里好像能过去啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那里好像能过去啊。\n\n那里不是可以通过吗？\n\n那里能过去吗？"
+  },
+  {
+    "key": "ARAGAKI_SHORTCUT_FIND_2_0",
+    "original": "見ろ、近道にできそうだぞ。",
+    "translation": "看，好像能抄近路。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看，好像能抄近路。\n\n看，好像可以抄近路。\n\n你看，好像可以抄近道。"
+  },
+  {
+    "key": "ARAGAKI_SHORTCUT_FIND_3_0",
+    "original": "そこ、ショートカットになんねえか？",
+    "translation": "那里能成为捷径吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那里能成为捷径吗？\n\n那里有快捷方式吗？\n\n那里，剪个短发怎么样？"
+  },
+  {
+    "key": "ARAGAKI_FOE_WARNING_NEAR_0",
+    "original": "さっきの、\nまだ追ってきてるみてーだな。",
+    "translation": "刚才的\n好像还在追着我。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n刚才的\n好像还在追着我。\n\n刚才的，还在追来呢。\n\n\n刚才那个，好像还在追呢。"
+  },
+  {
+    "key": "ARAGAKI_FOE_WARNING_NEAR_2_0",
+    "original": "そう簡単に見逃しちゃくれねーか…",
+    "translation": "不会这么简单就放过我吧……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不会这么简单就放过我吧……\n\n能那么简单地放过我吗……\n\n不要轻易放过我啊……"
+  },
+  {
+    "key": "ARAGAKI_FOE_WARNING_NEAR_3_0",
+    "original": "まだ終わってねーみたいだな。",
+    "translation": "看来还没结束啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看来还没结束啊。\n\n好像还没结束呢。"
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HPTP10_1_0",
+    "original": "チッ、そろそろ限界だな…",
+    "translation": "啧，差不多到极限了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啧，差不多到极限了……\n\n嘁，差不多快到极限了……\n\n哇，快到极限了……"
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HPTP10_2_0",
+    "original": "おい、そろそろ戻んねーか？",
+    "translation": "喂，差不多该回去了吧？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n喂，差不多该回去了吧？"
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HPTP10_3_0",
+    "original": "ぶっ倒れそうだぜ…",
+    "translation": "感觉要倒下了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n感觉要倒下了……\n\n快要倒下了……\n\n我都要晕倒了……"
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HP10_1_0",
+    "original": "チッ、フラフラしやがる…",
+    "translation": "啧，摇摇晃晃的……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啧，摇摇晃晃的……\n\n哇，摇摇晃晃的……"
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HP10_2_0",
+    "original": "悪い、回復頼む。",
+    "translation": "抱歉，拜托回复了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n抱歉，拜托回复了。\n\n不好意思，拜托你恢复。\n\n不好，请恢复。"
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HP10_3_0",
+    "original": "体力がやべーな…",
+    "translation": "体力不太妙啊……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n体力不太妙啊……\n\n体力很好啊……\n\n体力不济……"
+  },
+  {
+    "key": "ARAGAKI_1PERSON_TP10_1_0",
+    "original": "気力がもたねぇ…",
+    "translation": "气力也快没了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n气力也快没了……\n\n没有力气……"
+  },
+  {
+    "key": "ARAGAKI_1PERSON_TP10_2_0",
+    "original": "気力がそろそろやばそうだ。",
+    "translation": "气力差不多快没了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n气力差不多快没了。\n\n我的力气快垮啦。\n\n精力快要耗尽了。"
+  },
+  {
+    "key": "ARAGAKI_1PERSON_TP10_3_0",
+    "original": "スタミナ切れか…チッ、情けねぇ。",
+    "translation": "耐力用完了啊……啧，真没用。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n耐力用完了啊……啧，真没用。\n\n体力耗尽了吗……哇，真可怜。\n\n体力耗尽了吗……啧啧，真可怜。"
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HP80_1_0",
+    "original": "やるじゃねぇか。",
+    "translation": "干得不错嘛。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n干得不错嘛。\n\n不是很干吗？\n\n不是要做吗。"
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HP80_2_0",
+    "original": "悪くない動きだったな。",
+    "translation": "动作不坏啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n动作不坏啊。\n\n动作还不错啊。\n\n动作还不错。"
+  },
+  {
+    "key": "ARAGAKI_1PERSON_HP80_3_0",
+    "original": "次もこうだといいな。",
+    "translation": "下次也这样就好了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n下次也这样就好了。\n\n下次也是这样就好了。"
+  },
+  {
+    "key": "ARAGAKI_DUNGEON_START_1_0",
+    "original": "さっさと終わらせようぜ。",
+    "translation": "赶快结束吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n赶快结束吧。\n\n赶紧结束吧。\n\n快点结束吧。"
+  },
+  {
+    "key": "ARAGAKI_DUNGEON_START_2_0",
+    "original": "よし、行くか。",
+    "translation": "好，上吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，上吧。\n\n好，去吗。\n\n好，走吧。"
+  },
+  {
+    "key": "ARAGAKI_DUNGEON_START_3_0",
+    "original": "気合い入れていけよ。",
+    "translation": "鼓起干劲上吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n鼓起干劲上吧。\n\n鼓起干劲吧。\n\n加油啊。"
+  },
+  {
+    "key": "ARAGAKI_QUEST_START_1_0",
+    "original": "…とっとと片付けるぞ。",
+    "translation": "……赶快收拾掉吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n……赶快收拾掉吧。\n\n……马上收拾好。\n\n……我马上就收拾了。"
+  },
+  {
+    "key": "ARAGAKI_QUEST_START_2_0",
+    "original": "気抜くんじゃねーぞ？",
+    "translation": "可别松懈了啊？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n可别松懈了啊？\n\n别泄气啊？\n\n别泄气啊～～？"
+  },
+  {
+    "key": "ARAGAKI_QUEST_START_3_0",
+    "original": "んじゃ、始めるとするか。",
+    "translation": "那么，开始吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那么，开始吧。\n\n那就开始吧。"
+  },
+  {
+    "key": "ARAGAKI_TOUHA_25_1_0",
+    "original": "ここもずいぶん広そうだな。",
+    "translation": "这里好像也很宽啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这里好像也很宽啊。\n\n这里好像也很宽敞。\n\n这里好像也很大啊。"
+  },
+  {
+    "key": "ARAGAKI_TOUHA_25_2_0",
+    "original": "焦っても仕方ねぇ、\n落ち着いて行こうぜ。",
+    "translation": "着急也没用，\n冷静地走吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n着急也没用，\n冷静地走吧。\n\n着急也没用，冷静点走吧。\n\n\n着急也没办法，我们冷静下来吧。"
+  },
+  {
+    "key": "ARAGAKI_TOUHA_50_1_0",
+    "original": "半分か…先はまだ長そうだな。",
+    "translation": "一半吗……看来还很漫长啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n一半吗……看来还很漫长啊。\n\n一半吗……看来路还很长呢。\n\n一半啊……前面好像还很长啊。"
+  },
+  {
+    "key": "ARAGAKI_TOUHA_50_2_0",
+    "original": "そろそろゴールかと思ったんだがな。",
+    "translation": "还以为差不多到终点了呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n还以为差不多到终点了呢。\n\n我想差不多该到终点了。\n\n我还以为快到终点了呢。"
+  },
+  {
+    "key": "ARAGAKI_TOUHA_75_1_0",
+    "original": "地図らしくなってきたじゃねーか。",
+    "translation": "变得有点像地图了啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n变得有点像地图了啊。\n\n变得像地图了吧。\n\n越来越像地图了。"
+  },
+  {
+    "key": "ARAGAKI_TOUHA_75_2_0",
+    "original": "ペース、悪くねぇんじゃねーか？",
+    "translation": "步调不坏啊？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n步调不坏啊？\n\n步调，不坏吧？\n\n节奏还不错吧？"
+  },
+  {
+    "key": "ARAGAKI_TOUHA_100_1_0",
+    "original": "地図埋まったのか、お疲れさん。",
+    "translation": "地图填满了啊，辛苦你了。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n地图填满了啊，辛苦你了。\n\n地图埋了吗，辛苦了。\n\n地图埋好了吗，辛苦了。"
+  },
+  {
+    "key": "ARAGAKI_TOUHA_100_2_0",
+    "original": "完成させるたあ、なかなかのもんだな。",
+    "translation": "能填满地图，还真是了不起啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n能填满地图，还真是了不起啊。\n\n完成了，真不错啊。\n\n完成了，真了不起啊。"
+  },
+  {
+    "key": "ARAGAKI_MAPPING_ICON_ALL_0",
+    "original": "なかなかマメじゃねえか。",
+    "translation": "你还挺认真的嘛。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n你还挺认真的嘛。\n\n这不是很勤快吗？\n\n不是很豆子吗。"
+  },
+  {
+    "key": "ARAGAKI_MAPPING_ICON_ALL_2_0",
+    "original": "ああ、その辺りにあったな。",
+    "translation": "啊，是在那附近啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n啊，是在那附近啊。\n\n啊，在那附近啊。\n\n啊，就在那附近。"
+  },
+  {
+    "key": "ARAGAKI_MAPPING_ICON_KAI_0",
+    "original": "あってると思うぜ。",
+    "translation": "我想应该没错。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我想应该没错。\n\n我觉得很合适。\n\n我觉得有啊。"
+  },
+  {
+    "key": "ARAGAKI_MAPPING_ICON_KAI_2_0",
+    "original": "出入り口の情報は大事だからな。",
+    "translation": "因为出入口的情报很重要嘛。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n因为出入口的情报很重要嘛。\n\n因为出入口的信息很重要。"
+  },
+  {
+    "key": "ARAGAKI_MAPPING_CHANGE_C_0",
+    "original": "色変えたのか…悪くねぇな。",
+    "translation": "颜色变了啊……不错嘛。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n颜色变了啊……不错嘛。\n\n颜色变了吗……还不错啊。\n\n改变颜色了吗……还不错。"
+  },
+  {
+    "key": "ARAGAKI_MAPPING_CHANGE_C_2_0",
+    "original": "へぇ、なかなかイイんじゃねーか？",
+    "translation": "嘿，还挺不错的嘛。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嘿，还挺不错的嘛。\n\n啊，不是很好吗？\n\n哦，这不是很好吗？"
+  },
+  {
+    "key": "ARAGAKI_MAPPING_ICON_DEL_0",
+    "original": "アキなら、\n減量がどうたら言いそうだな…",
+    "translation": "如果是明，感觉会说\n减重什么的……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n如果是明，感觉会说\n减重什么的……\n\n如果是秋的话，\n减肥怎么说呢……\n\n秋天的话，会说减重怎么样呢……"
+  },
+  {
+    "key": "ARAGAKI_MAPPING_ICON_DEL_2_0",
+    "original": "整理整頓は大事だからな。",
+    "translation": "因为整理整顿很重要嘛。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n因为整理整顿很重要嘛。\n\n因为整理整顿很重要。\n\n整理整顿很重要啊。"
+  },
+  {
+    "key": "ARAGAKI_MAPPING_MEMO_1_0",
+    "original": "メモは大事だからな。",
+    "translation": "因为笔记很重要嘛。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n因为笔记很重要嘛。\n\n因为笔记很重要。\n\n因为笔记很重要啊。"
+  },
+  {
+    "key": "ARAGAKI_MAPPING_MEMO_2_0",
+    "original": "ほう…感心なこった。",
+    "translation": "哦……真让人佩服。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦……真让人佩服。\n\n哦……真是佩服。\n\n啊……真佩服。"
+  },
+  {
+    "key": "ARAGAKI_DOOR_OPEN_1_0",
+    "original": "早く行くぞ。",
+    "translation": "快走吧。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n快走吧。\n\n快点去。"
+  },
+  {
+    "key": "ARAGAKI_DOOR_OPEN_2_0",
+    "original": "ほら、来い。",
+    "translation": "来，快走。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n来，快走。\n\n来、来。\n\n来、来吧。"
+  },
+  {
+    "key": "ARAGAKI_DOOR_OPEN_3_0",
+    "original": "気ぃつけろよ。",
+    "translation": "小心点啊。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n小心点啊。\n\n小心点。\n\n要小心哦。"
+  }
+]

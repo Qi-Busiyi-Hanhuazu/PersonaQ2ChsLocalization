@@ -1,0 +1,156 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あ？　なんだこれ？",
+    "translation": "あ？　なんだこれ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うーん、見た感じ座標…なのかな？",
+    "translation": "うーん、見た感じ座標…なのかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "でも、なんでそんな物が\n宝箱に入ってるの？",
+    "translation": "でも、なんでそんな物が\n宝箱に入ってるの？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おいおい、オマエ達は\n本当に分かってないな！",
+    "translation": "おいおい、オマエ達は\n本当に分かってないな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_1_0",
+    "original": "宝箱に、地図の座標…と、くれば\n宝の地図に決まってるだろ！",
+    "translation": "宝箱に、地図の座標…と、くれば\n宝の地図に決まってるだろ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "た…確かに！　モナ、頭いいな！！",
+    "translation": "た…確かに！　モナ、頭いいな！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おい、頭いい…か？",
+    "translation": "おい、頭いい…か？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "よく分からない",
+    "translation": "よく分からない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "天才だ",
+    "translation": "天才だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん、私もわかんない。\n宝の地図とは限らないしさ…",
+    "translation": "うん、私もわかんない。\n宝の地図とは限らないしさ…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "でも、本物かもしれないよ？\nとりあえず、ナビに見てもらおうよ。",
+    "translation": "でも、本物かもしれないよ？\nとりあえず、ナビに見てもらおうよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "あ、オマエもそっち側なんだ。",
+    "translation": "あ、オマエもそっち側なんだ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "まぁ、他になんなのか予想できてねぇし、\nいいけどさ。",
+    "translation": "まぁ、他になんなのか予想できてねぇし、\nいいけどさ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "うん、本物かもしれないしね。\nとりあえず、ナビに見てもらおうよ。",
+    "translation": "うん、本物かもしれないしね。\nとりあえず、ナビに見てもらおうよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ふむふむ…\nこれによると座標は地図のここと、ここ…",
+    "translation": "ふむふむ…\nこれによると座標は地図のここと、ここ…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "…これだ！\n絶対、なんかあるから調べてみてくれ！",
+    "translation": "…これだ！\n絶対、なんかあるから調べてみてくれ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

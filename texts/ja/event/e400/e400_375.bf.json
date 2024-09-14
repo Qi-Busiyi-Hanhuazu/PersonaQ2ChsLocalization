@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あ…あ、ああ…",
+    "translation": "あ…あ、ああ…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ちょっ、大丈夫！？\n顔色が悪いよ！",
+    "translation": "ちょっ、大丈夫！？\n顔色が悪いよ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "どうして…どうして、って…",
+    "translation": "どうして…どうして、って…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おい、ヒカリ！？",
+    "translation": "おい、ヒカリ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ひかりさんの拒絶反応が、\n今までに比べて強いであります。",
+    "translation": "ひかりさんの拒絶反応が、\n今までに比べて強いであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "しばらく、安静にしたほうが良いかと。",
+    "translation": "しばらく、安静にしたほうが良いかと。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ご、ごめんなさい…\n大丈夫だから…",
+    "translation": "ご、ごめんなさい…\n大丈夫だから…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "それよりも、今は先に進みたいの。\n気持ちが負けないうちに…お願い…",
+    "translation": "それよりも、今は先に進みたいの。\n気持ちが負けないうちに…お願い…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ひかりちゃん…",
+    "translation": "ひかりちゃん…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "…分かった。\nでも、無理だけはダメだからね？　約束。",
+    "translation": "…分かった。\nでも、無理だけはダメだからね？　約束。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん、約束する…ありがとう。",
+    "translation": "うん、約束する…ありがとう。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

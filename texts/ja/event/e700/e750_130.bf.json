@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "この辺り、急に風が強いな。",
+    "translation": "この辺り、急に風が強いな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ビル風ってゆーの？\n建物が多いからかな？",
+    "translation": "ビル風ってゆーの？\n建物が多いからかな？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ちょ…風、強すぎ…\n先、急ご？　髪、ぐちゃぐちゃになるし…",
+    "translation": "ちょ…風、強すぎ…\n先、急ご？　髪、ぐちゃぐちゃになるし…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "はっ！　みなしゃ～ん！\nお先にどーぞクマ、どーぞクマ～！",
+    "translation": "はっ！　みなしゃ～ん！\nお先にどーぞクマ、どーぞクマ～！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あ、うん。\n言われなくても先に行くけど…",
+    "translation": "あ、うん。\n言われなくても先に行くけど…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あーっと、ちょっと待った！\nその手には乗らんからね！？",
+    "translation": "あーっと、ちょっと待った！\nその手には乗らんからね！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "…男性陣、先に行って。はやく！",
+    "translation": "…男性陣、先に行って。はやく！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "…サイテー。",
+    "translation": "…サイテー。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "よよよ…\nそんな殺生な～！",
+    "translation": "よよよ…\nそんな殺生な～！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  }
+]

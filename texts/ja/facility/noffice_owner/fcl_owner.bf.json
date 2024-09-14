@@ -1,0 +1,23 @@
+[
+  {
+    "key": "YESNO_SEL_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TEST_0",
+    "original": "支配人を呼ぶを選んだ\nメッセージテストです。",
+    "translation": "支配人を呼ぶを選んだ\nメッセージテストです。",
+    "stage": 1,
+    "context": ""
+  }
+]

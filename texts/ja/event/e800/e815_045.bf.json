@@ -1,0 +1,142 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あった、骨！",
+    "translation": "あった、骨！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "しかし、これは…\nクロウが調べるまでもありませんね。",
+    "translation": "しかし、これは…\nクロウが調べるまでもありませんね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "明らかに襲われた直後だ。\n『肉食獣』はすぐ近くにいる。",
+    "translation": "明らかに襲われた直後だ。\n『肉食獣』はすぐ近くにいる。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ムムム、クマクマレーダーにも\nビンビン来とるクマ！",
+    "translation": "ムムム、クマクマレーダーにも\nビンビン来とるクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "気合いを入れよう",
+    "translation": "気合いを入れよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "慎重にいこう",
+    "translation": "慎重にいこう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_2",
+    "original": "もう逃げよう",
+    "translation": "もう逃げよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そうだね、備えはしておこう。\nかなり凶暴な相手のようだから。",
+    "translation": "そうだね、備えはしておこう。\nかなり凶暴な相手のようだから。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ワウッ！",
+    "translation": "ワウッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ああ、いつ襲われてもおかしくない。\n警戒は怠らない方がいいね。",
+    "translation": "ああ、いつ襲われてもおかしくない。\n警戒は怠らない方がいいね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ワウッ！",
+    "translation": "ワウッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "クーン？",
+    "translation": "クーン？",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "まあ、強敵なのは間違いなさそうだ。\n態勢を立て直すのも手かな。",
+    "translation": "まあ、強敵なのは間違いなさそうだ。\n態勢を立て直すのも手かな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "とにかく敵は目の前だ！\n油断すんなよー！",
+    "translation": "とにかく敵は目の前だ！\n油断すんなよー！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

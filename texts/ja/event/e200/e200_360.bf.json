@@ -1,0 +1,331 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "到着っと！\nじゃ、早速料理をセットしよ！",
+    "translation": "到着っと！\nじゃ、早速料理をセットしよ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_000_3_0",
+    "original": "肉食恐竜の風上に\n料理を置いてきた…",
+    "translation": "肉食恐竜の風上に\n料理を置いてきた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_5_0",
+    "original": "恐竜が料理の匂いに\n反応するといいけど…",
+    "translation": "恐竜が料理の匂いに\n反応するといいけど…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ぬおおおお！　肉の匂いよ、届け～！\nふーっ！　ふーっ！",
+    "translation": "ぬおおおお！　肉の匂いよ、届け～！\nふーっ！　ふーっ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "いや、口で吹いただけじゃ\nこの距離はムリだろ…",
+    "translation": "いや、口で吹いただけじゃ\nこの距離はムリだろ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "むっ！？\n恐竜が鼻をヒクヒクさせてるぞ！",
+    "translation": "むっ！？\n恐竜が鼻をヒクヒクさせてるぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うおっ、マジでか！？",
+    "translation": "うおっ、マジでか！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "きた！　肉食恐竜が動いてるよ！",
+    "translation": "きた！　肉食恐竜が動いてるよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "やった、食べてる！\n大成功じゃん！",
+    "translation": "やった、食べてる！\n大成功じゃん！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "今のうちに、隙をついて\n通り抜けられるか？",
+    "translation": "今のうちに、隙をついて\n通り抜けられるか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "いや、待て。\nアイツ、もう食い終わりそうだぞ。",
+    "translation": "いや、待て。\nアイツ、もう食い終わりそうだぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "早っ！\nこれじゃ、作戦の意味ねーじゃん…",
+    "translation": "早っ！\nこれじゃ、作戦の意味ねーじゃん…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "って、あれ？\nどっか行っちまった…？",
+    "translation": "って、あれ？\nどっか行っちまった…？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "もしかしたら、満腹になって\nねぐらに帰っていったのかもしれませんね。",
+    "translation": "もしかしたら、満腹になって\nねぐらに帰っていったのかもしれませんね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "まあ、結果オーライ…か？",
+    "translation": "まあ、結果オーライ…か？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "肉食恐竜がいなくなってくれたし、\n結果オーライでしょ！",
+    "translation": "肉食恐竜がいなくなってくれたし、\n結果オーライでしょ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "でもあの肉、恐竜に食わすには\nちょっと勿体なかったよなー。",
+    "translation": "でもあの肉、恐竜に食わすには\nちょっと勿体なかったよなー。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "同意だ。あれだけの肉塊に\nありつける機会など、滅多に無い…！",
+    "translation": "同意だ。あれだけの肉塊に\nありつける機会など、滅多に無い…！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_016_0",
+    "original": "また作ろう",
+    "translation": "また作ろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_016_1",
+    "original": "残ってない？",
+    "translation": "残ってない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "うん、みんなで料理するのも\n楽しかったしね。",
+    "translation": "うん、みんなで料理するのも\n楽しかったしね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "でも、またあの材料を集めるのは\nちょっと…命がけよね。",
+    "translation": "でも、またあの材料を集めるのは\nちょっと…命がけよね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "肉汁ぐらいは残ってるかもしれん。\nどれ、確認しに…",
+    "translation": "肉汁ぐらいは残ってるかもしれん。\nどれ、確認しに…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "はいはい。\nお行儀の悪い真似はしないの。",
+    "translation": "はいはい。\nお行儀の悪い真似はしないの。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あ、特製ソースならまだたっぷりあるよ！\n栄養満点だし、お土産に持って帰る？",
+    "translation": "あ、特製ソースならまだたっぷりあるよ！\n栄養満点だし、お土産に持って帰る？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "これ、うちの旅館でも出せないかな。\n身近な食材で代用して、同じの作れそう。",
+    "translation": "これ、うちの旅館でも出せないかな。\n身近な食材で代用して、同じの作れそう。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "やめろ、普及しようとすんな！\n『物体Ｘ』のジェネリック版か！？",
+    "translation": "やめろ、普及しようとすんな！\n『物体Ｘ』のジェネリック版か！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "『物体Ｘ』ってなに？",
+    "translation": "『物体Ｘ』ってなに？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "それは…知らないほうがいい。",
+    "translation": "それは…知らないほうがいい。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "盛り上がってるところ悪いけど、いつまた\n恐竜が戻ってくるか分からないよ。",
+    "translation": "盛り上がってるところ悪いけど、いつまた\n恐竜が戻ってくるか分からないよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "おっと…そうだったな。\nよし、今のうちに行こうぜ！",
+    "translation": "おっと…そうだったな。\nよし、今のうちに行こうぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

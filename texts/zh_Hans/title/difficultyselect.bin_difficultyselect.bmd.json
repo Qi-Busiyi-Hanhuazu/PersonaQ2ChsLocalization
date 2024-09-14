@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_DIFFICULTY_SELECT_01_0",
+    "original": "＞はじめにゲームの難易度を\n　お選びください。",
+    "translation": "＞请首先选择\n　游戏难度。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞请\n　选择游戏难易度。\n\n＞\n　请先选择游戏的难易度。\n\n＞首先请选择\n　游戏的难易度。"
+  },
+  {
+    "key": "MSG_DIFFICULTY_SELECT_01_1",
+    "original": "＞どの難易度を選んでも、物語に変化は\n　ありませんので、遊び方に合った\n　難易度をお勧めいたします。",
+    "translation": "＞无论选择哪种难度，\n　故事情节都不会有所变化。\n　请选择适合自己的游戏难度。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞无论选择哪个难易度，故事\n　都没有变化，建议选择适合游玩方式的\n　难易度。\n\n＞无论选择哪个难易度，故事都没有变化，所以推荐适合玩法的难易度。"
+  },
+  {
+    "key": "MSG_DIFFICULTY_SELECT_01_2",
+    "original": "＞難易度は、ゲーム開始後も\n　途中で変更が可能です。",
+    "translation": "＞游戏开始后，也可以在\n　游戏过程中变更游戏难度。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞游戏开始后，难易度\n　也能中途变更。\n\n＞难易度，游戏开始后\n　也可以中途变更。\n\n＞难度在游戏开始后\n　中途也可以变更。"
+  },
+  {
+    "key": "MSG_DIFFICULTY_SELECT_01_3",
+    "original": "＞ただし難易度“ＲＩＳＫＹ”だけは、\n　途中変更はできません。\n　ご注意ください。",
+    "translation": "＞请注意。\n　只有RISKY难度的游戏\n　无法在游戏过程中变更游戏难度。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞但只有难易度“RISKY”\n　不能中途变更。\n　请注意。\n\n＞只是难易度“RISKY”不能中途变更。\n　请注意。\n　\n\n＞只是难易度“RISKY”，\n　中途不能变更。请注意。"
+  },
+  {
+    "key": "MSG_DIFFICULTY_CONFIRM_0",
+    "original": "＞難易度“[占位A 01]”で\n　始めてよろしいですか？",
+    "translation": "＞要以游戏难度“[占位A 01]”\n　开始游戏吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞要以难易度“[占位A 01]”\n　开始吗？\n\n＞难易度“[占位A 01]”\n　可以开始了吗？\n\n＞以难易度“[占位A 01]”开始\n　可以吗？"
+  },
+  {
+    "key": "SEL_DIFFICULTY_CONFIRM_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "SEL_DIFFICULTY_CONFIRM_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "MSG_DIFFICULTY_CONFIRM_R_0",
+    "original": "＞難易度“ＲＩＳＫＹ”は、\n　ゲームの途中で変更できません。",
+    "translation": "＞“RISKY”难度的游戏\n　无法在游戏中改变难度。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞难易度“RISKY”\n　不能在游戏途中变更。\n\n＞难易度“RISKY”，\n　游戏的中途不能变更。\n\n＞难易度“RISKY”在\n　游戏中途不能变更。"
+  },
+  {
+    "key": "MSG_DIFFICULTY_CONFIRM_R_1",
+    "original": "＞難易度“ＲＩＳＫＹ”で\n　始めてよろしいですか？",
+    "translation": "＞是否要以“RISKY”难度\n　开始游戏？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞\n　可以开始进行难度“RISKY”吗？\n\n＞难易度“RISKY”\n　可以开始了吗？\n\n＞难易度“RISKY”\n　可以开始吗？"
+  },
+  {
+    "key": "MSG_DIFFICULTY_CONFIRM_R_2_0",
+    "original": "＞本当によろしいですか？",
+    "translation": "＞真的要选择该难度吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞真的可以吗？"
+  },
+  {
+    "key": "MSG_RETURN_TITLE_0",
+    "original": "＞タイトル画面に戻りますか？",
+    "translation": "＞要回到标题画面吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞要回到标题画面吗？\n\n＞返回标题画面吗？"
+  },
+  {
+    "key": "SEL_RETURN_TITLE_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "SEL_RETURN_TITLE_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  }
+]

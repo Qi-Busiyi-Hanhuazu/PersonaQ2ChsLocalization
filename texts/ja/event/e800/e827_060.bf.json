@@ -1,0 +1,317 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よし、２つ揃ったな。",
+    "translation": "よし、２つ揃ったな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "お疲れ様です。\nこれでフライヤーが直せるはずです。",
+    "translation": "お疲れ様です。\nこれでフライヤーが直せるはずです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "いよいよ決戦の時ってか。",
+    "translation": "いよいよ決戦の時ってか。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "なんだか楽しそうだな。",
+    "translation": "なんだか楽しそうだな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "そりゃあ、お前の本気が見られるわけだし？\n応援してんぜ、相棒。",
+    "translation": "そりゃあ、お前の本気が見られるわけだし？\n応援してんぜ、相棒。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "応援ならこちらも負けない\nであります。",
+    "translation": "応援ならこちらも負けない\nであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "アオーン！",
+    "translation": "アオーン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "まあ、頑張るよ。",
+    "translation": "まあ、頑張るよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "期待されてるな",
+    "translation": "期待されてるな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "対決を受け入れたのか",
+    "translation": "対決を受け入れたのか",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "僕だけじゃない。\n[P4名]もだよ。",
+    "translation": "僕だけじゃない。\n[P4名]もだよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "これだけ応援してもらったらね。\n[P4名]も同じだと思うよ。",
+    "translation": "これだけ応援してもらったらね。\n[P4名]も同じだと思うよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "[P4姓]先輩！　こっちの\n応援団長は俺に任せてください！",
+    "translation": "[P4姓]先輩！　こっちの\n応援団長は俺に任せてください！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "いざって時は全力で背中さするんで！\nもし倒れてもすぐ担いで運びます！",
+    "translation": "いざって時は全力で背中さするんで！\nもし倒れてもすぐ担いで運びます！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "あ、ああ…",
+    "translation": "あ、ああ…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "そこまで壮絶なファイトを\n期待されてるのか…",
+    "translation": "そこまで壮絶なファイトを\n期待されてるのか…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "君は強いからね。\nみんな君を信じてるんだ。",
+    "translation": "君は強いからね。\nみんな君を信じてるんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "強いから信じてくれるか…\nそれはきっと逆だな。",
+    "translation": "強いから信じてくれるか…\nそれはきっと逆だな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "え？",
+    "translation": "え？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "俺を信じてくれる仲間がいるから、\n俺は強くあれるんだと思う。",
+    "translation": "俺を信じてくれる仲間がいるから、\n俺は強くあれるんだと思う。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "信じてくれる仲間に応えるために、な。",
+    "translation": "信じてくれる仲間に応えるために、な。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_017_0",
+    "original": "わかる気がする",
+    "translation": "わかる気がする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_017_1",
+    "original": "みんなそうだ",
+    "translation": "みんなそうだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "フフ、そうだね。\n僕も仲間がいるから戦える。",
+    "translation": "フフ、そうだね。\n僕も仲間がいるから戦える。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "誰よりも仲間を頼りにしてるのは、\nきっと僕たちの方だ。",
+    "translation": "誰よりも仲間を頼りにしてるのは、\nきっと僕たちの方だ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "おい、二人ともさっさと行こうぜ。\nじゃないと真田先輩が…",
+    "translation": "おい、二人ともさっさと行こうぜ。\nじゃないと真田先輩が…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "せっかくだし、二人分の応援旗を\n作るのはどうだ？",
+    "translation": "せっかくだし、二人分の応援旗を\n作るのはどうだ？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "男と男の対決、\n俺はどっちも応援するぞ。",
+    "translation": "男と男の対決、\n俺はどっちも応援するぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "さすがにそれは…",
+    "translation": "さすがにそれは…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "二人がいっぱい食べられるよう\n私、付け合わせ用意しとくね。",
+    "translation": "二人がいっぱい食べられるよう\n私、付け合わせ用意しとくね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "サッパリ行くならポン酢かな？\nあ、わさび醤油とかもいいかも。",
+    "translation": "サッパリ行くならポン酢かな？\nあ、わさび醤油とかもいいかも。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ドーナツに？",
+    "translation": "ドーナツに？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "…ありがとう。\nただ、気持ちだけで十分だ。",
+    "translation": "…ありがとう。\nただ、気持ちだけで十分だ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "マズいことになる前に、\nさっさと対決した方が良さそうだね。",
+    "translation": "マズいことになる前に、\nさっさと対決した方が良さそうだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ああ、映画館へ戻ろう。",
+    "translation": "ああ、映画館へ戻ろう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  }
+]

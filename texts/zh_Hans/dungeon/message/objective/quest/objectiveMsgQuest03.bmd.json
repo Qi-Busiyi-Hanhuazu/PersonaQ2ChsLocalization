@@ -1,0 +1,30 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "『闘魂のギガス』を討伐せよ！",
+    "translation": "讨伐“斗魂的基加斯”！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n讨伐“斗魂的基加斯”！\n\n讨伐“斗魂的gigas”！\n\n讨伐“斗魂之吉瓦斯”！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "残り３ヶ所を巡れ",
+    "translation": "去剩下3个地方巡视",
+    "stage": 1,
+    "context": "机翻辅助：\n\n去剩下3个地方巡游\n\n在剩下的三个地方巡游\n\n巡视剩下的三个地方"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "残り２ヶ所を巡れ",
+    "translation": "去剩下2个地方巡视",
+    "stage": 1,
+    "context": "机翻辅助：\n\n去剩下2个地方巡游\n\n在剩下的两个地方巡游\n\n在剩下的两个地方巡视"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "残り１ヶ所を巡れ",
+    "translation": "去剩下1个地方巡视",
+    "stage": 1,
+    "context": "机翻辅助：\n\n去剩下1个地方巡游\n\n在剩下的一个地方巡游\n\n巡视剩下的一个地方"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "まずは、子供の恐竜を探しましょう。\n保護しないと危険だわ。",
+    "translation": "まずは、子供の恐竜を探しましょう。\n保護しないと危険だわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "りせ、近くに反応はあるか？",
+    "translation": "りせ、近くに反応はあるか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "えっと、ちょっと待ってね…",
+    "translation": "えっと、ちょっと待ってね…",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "あっ、この付近に小さな反応！\nそう遠くない場所に、何かいるみたい！",
+    "translation": "あっ、この付近に小さな反応！\nそう遠くない場所に、何かいるみたい！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ちゅーか、クマたちが肉食恐竜とご対面…\nってならんことを祈るクマ…",
+    "translation": "ちゅーか、クマたちが肉食恐竜とご対面…\nってならんことを祈るクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "そんときゃ、お前がオトリになれ。\nそのスキに子供助けっから。",
+    "translation": "そんときゃ、お前がオトリになれ。\nそのスキに子供助けっから。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "クマ肉ランチは嫌クマ！\nその時はヨースケも一緒クマ！",
+    "translation": "クマ肉ランチは嫌クマ！\nその時はヨースケも一緒クマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うん、料理には色取りも必要だよね。\nパセリとか。",
+    "translation": "うん、料理には色取りも必要だよね。\nパセリとか。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "俺、付け合わせかよ…",
+    "translation": "俺、付け合わせかよ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "いいかも。\nジビエの獣臭さが苦手な人もいるし。",
+    "translation": "いいかも。\nジビエの獣臭さが苦手な人もいるし。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "臭う前提ですし！？",
+    "translation": "臭う前提ですし！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "それと、子供の恐竜がケガをしてるなら\n手当てもしてあげなくちゃ。",
+    "translation": "それと、子供の恐竜がケガをしてるなら\n手当てもしてあげなくちゃ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "人間用の傷薬が効くか分からないし、\nこの世界に合った薬がいいと思うんだけど…",
+    "translation": "人間用の傷薬が効くか分からないし、\nこの世界に合った薬がいいと思うんだけど…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "そうね。ここで薬草も一緒に\n探せればいいんだけど…",
+    "translation": "そうね。ここで薬草も一緒に\n探せればいいんだけど…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "でも、まずは子供恐竜の保護が\n何よりの優先事項だと思うわ。",
+    "translation": "でも、まずは子供恐竜の保護が\n何よりの優先事項だと思うわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "とにかく行きましょう。\n早くお母さんに会わせてあげたい。",
+    "translation": "とにかく行きましょう。\n早くお母さんに会わせてあげたい。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "うん、独りにしておけないものね。\n急いで見つけてあげないと。",
+    "translation": "うん、独りにしておけないものね。\n急いで見つけてあげないと。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

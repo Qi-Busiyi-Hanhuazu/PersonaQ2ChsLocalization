@@ -1,0 +1,212 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "『ここを踏破しろ』っていう話だったよね。",
+    "translation": "『ここを踏破しろ』っていう話だったよね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "フロアが複雑に変化してるって聞いたけど\nそんな風に見えないな…",
+    "translation": "フロアが複雑に変化してるって聞いたけど\nそんな風に見えないな…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "むむ！\nワープの配置がいつもと違う！",
+    "translation": "むむ！\nワープの配置がいつもと違う！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "それは厄介だな。\nただでさえ混乱する仕掛けなのに。",
+    "translation": "それは厄介だな。\nただでさえ混乱する仕掛けなのに。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そもそも僕らは『このフロアを踏破しろ』\nとしか聞いていない。",
+    "translation": "そもそも僕らは『このフロアを踏破しろ』\nとしか聞いていない。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "何か、目的地や道順のヒントになるものが\nあればいいんだけど…",
+    "translation": "何か、目的地や道順のヒントになるものが\nあればいいんだけど…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ワンワン、ワン！",
+    "translation": "ワンワン、ワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "コロマルが、一枚の紙をくわえてきた…",
+    "translation": "コロマルが、一枚の紙をくわえてきた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "これは…何か書いてありますね。",
+    "translation": "これは…何か書いてありますね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "Ｇ、Ｒ、Ｏ、Ｗ…？",
+    "translation": "Ｇ、Ｒ、Ｏ、Ｗ…？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "『ＧＲＯＷ』…英語で『育つ』とか\n『成長する』って意味だけど。",
+    "translation": "『ＧＲＯＷ』…英語で『育つ』とか\n『成長する』って意味だけど。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "何かの暗号か？",
+    "translation": "何かの暗号か？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "いずれにせよ、この特別上映に関係する\n手がかりだと考えるのが自然だろう。",
+    "translation": "いずれにせよ、この特別上映に関係する\n手がかりだと考えるのが自然だろう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "配置が変わったワープポイントに、\n謎の『Ｇ・Ｒ・Ｏ・Ｗ』の文字…",
+    "translation": "配置が変わったワープポイントに、\n謎の『Ｇ・Ｒ・Ｏ・Ｗ』の文字…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "どうだジョーカー、なにか思いつくか？",
+    "translation": "どうだジョーカー、なにか思いつくか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_010_0",
+    "original": "見当もつかない",
+    "translation": "見当もつかない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_010_1",
+    "original": "謎は全て解けた",
+    "translation": "謎は全て解けた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "推理するにも材料が少な過ぎますね。\n少し進めば、何かわかるかもしれません。",
+    "translation": "推理するにも材料が少な過ぎますね。\n少し進めば、何かわかるかもしれません。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "本当ですか！？\nたったこれだけの材料で…さすがですね。",
+    "translation": "本当ですか！？\nたったこれだけの材料で…さすがですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "とにかく、ジョーカーの指示に従います。\nまずは進んでみましょう。",
+    "translation": "とにかく、ジョーカーの指示に従います。\nまずは進んでみましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

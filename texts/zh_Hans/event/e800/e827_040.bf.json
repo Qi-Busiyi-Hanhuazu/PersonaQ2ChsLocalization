@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よし、あと１つだね。",
+    "translation": "好，还剩一个。",
+    "stage": 0,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n好，还剩一个。\n\n好，还差一个吧。\n\n好吧，还有一个。"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "夢のドーナツ食べ放題までもう少しだ！",
+    "translation": "离梦寐以求的甜甜圈吃到饱\n只有一步之遥了！",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n离梦寐以求的甜甜圈吃到饱就差一步了！\n\n离梦想中的甜甜圈自助还差一点点！\n\n离梦想中的甜甜圈自助餐还有一段时间！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "採取ポイントは他にもあるはずだよ。\n引き続き探してみて！",
+    "translation": "应该还有其他采集点才对。\n继续找找看吧！",
+    "stage": 0,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n应该还有其他采集点才对。\n继续找找看吧！\n\n采集点应该还有其他的。\n继续寻找！\n\n应该还有其他的采集点。\n继续找找看！"
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

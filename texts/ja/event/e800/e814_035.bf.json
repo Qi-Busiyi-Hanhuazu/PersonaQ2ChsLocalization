@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あったぜ、ツタの扉！",
+    "translation": "あったぜ、ツタの扉！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "えーっと、ちょっと待ってね。\n探してみる。",
+    "translation": "えーっと、ちょっと待ってね。\n探してみる。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うーん、ここには薬草ないみたい。",
+    "translation": "うーん、ここには薬草ないみたい。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "扉の反対側も見てみろ。\n確か、そっちにも生えてたはずだぞ！",
+    "translation": "扉の反対側も見てみろ。\n確か、そっちにも生えてたはずだぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "分かった。行ってみるね。",
+    "translation": "分かった。行ってみるね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  }
+]

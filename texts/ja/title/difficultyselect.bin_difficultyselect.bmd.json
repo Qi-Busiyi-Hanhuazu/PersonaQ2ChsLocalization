@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_DIFFICULTY_SELECT_01_0",
+    "original": "＞はじめにゲームの難易度を\n　お選びください。",
+    "translation": "＞はじめにゲームの難易度を\n　お選びください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_DIFFICULTY_SELECT_01_1",
+    "original": "＞どの難易度を選んでも、物語に変化は\n　ありませんので、遊び方に合った\n　難易度をお勧めいたします。",
+    "translation": "＞どの難易度を選んでも、物語に変化は\n　ありませんので、遊び方に合った\n　難易度をお勧めいたします。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_DIFFICULTY_SELECT_01_2",
+    "original": "＞難易度は、ゲーム開始後も\n　途中で変更が可能です。",
+    "translation": "＞難易度は、ゲーム開始後も\n　途中で変更が可能です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_DIFFICULTY_SELECT_01_3",
+    "original": "＞ただし難易度“ＲＩＳＫＹ”だけは、\n　途中変更はできません。\n　ご注意ください。",
+    "translation": "＞ただし難易度“ＲＩＳＫＹ”だけは、\n　途中変更はできません。\n　ご注意ください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_DIFFICULTY_CONFIRM_0",
+    "original": "＞難易度“[占位A 01]”で\n　始めてよろしいですか？",
+    "translation": "＞難易度“[占位A 01]”で\n　始めてよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_DIFFICULTY_CONFIRM_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_DIFFICULTY_CONFIRM_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_DIFFICULTY_CONFIRM_R_0",
+    "original": "＞難易度“ＲＩＳＫＹ”は、\n　ゲームの途中で変更できません。",
+    "translation": "＞難易度“ＲＩＳＫＹ”は、\n　ゲームの途中で変更できません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_DIFFICULTY_CONFIRM_R_1",
+    "original": "＞難易度“ＲＩＳＫＹ”で\n　始めてよろしいですか？",
+    "translation": "＞難易度“ＲＩＳＫＹ”で\n　始めてよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_DIFFICULTY_CONFIRM_R_2_0",
+    "original": "＞本当によろしいですか？",
+    "translation": "＞本当によろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_RETURN_TITLE_0",
+    "original": "＞タイトル画面に戻りますか？",
+    "translation": "＞タイトル画面に戻りますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_RETURN_TITLE_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_RETURN_TITLE_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  }
+]

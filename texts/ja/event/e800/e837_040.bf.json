@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ついに追い詰めたぞ。",
+    "translation": "ついに追い詰めたぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "神妙にお縄につけっての！",
+    "translation": "神妙にお縄につけっての！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "厄介な相手だったけど、ここまで\n来たら、やるべきことは一つよ。",
+    "translation": "厄介な相手だったけど、ここまで\n来たら、やるべきことは一つよ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "任せろ、既に準備は出来てる！\n里中も、いいな？",
+    "translation": "任せろ、既に準備は出来てる！\n里中も、いいな？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うっす！\n考えるな、感じろ、ですね？",
+    "translation": "うっす！\n考えるな、感じろ、ですね？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "頼もしいわ。\nサポートはまかせて！",
+    "translation": "頼もしいわ。\nサポートはまかせて！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "行くぞ",
+    "translation": "行くぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "突撃だ",
+    "translation": "突撃だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "フッ、この時を待っていた！",
+    "translation": "フッ、この時を待っていた！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "アチョー！",
+    "translation": "アチョー！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  }
+]

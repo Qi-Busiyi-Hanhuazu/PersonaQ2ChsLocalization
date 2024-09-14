@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…ど、どう？\n何か変わった…？",
+    "translation": "…ど、どう？\n何か変わった…？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "特に、何も変わったように思えないが…",
+    "translation": "特に、何も変わったように思えないが…",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "ナビに訊こう",
+    "translation": "ナビに訊こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "空気が…",
+    "translation": "空気が…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うい、ちょっと待て。\nうーん…風花、りせ、どう思う？",
+    "translation": "うい、ちょっと待て。\nうーん…風花、りせ、どう思う？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "えっと…\n少し、空気が変わったような…？",
+    "translation": "えっと…\n少し、空気が変わったような…？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うん、私も同じ意見。\nこれって、[颜色 03]風の向きが変わった[颜色 01]んじゃない？",
+    "translation": "うん、私も同じ意見。\nこれって、[颜色 03]風の向きが変わった[颜色 01]んじゃない？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "しかし、だからといって\nどうしろというんだ？　他に何が…",
+    "translation": "しかし、だからといって\nどうしろというんだ？　他に何が…",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "…もしかして、さっきの装置と何か関係が？",
+    "translation": "…もしかして、さっきの装置と何か関係が？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_1_0",
+    "original": "確認しに行ってみないかい、ジョーカー。",
+    "translation": "確認しに行ってみないかい、ジョーカー。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

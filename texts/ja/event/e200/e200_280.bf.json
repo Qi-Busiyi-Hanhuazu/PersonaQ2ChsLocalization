@@ -1,0 +1,401 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お、お前ら！　来てくれたのか！",
+    "translation": "お、お前ら！　来てくれたのか！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あそこに一緒にいるのは、\n連れ去られた草食恐竜か！？",
+    "translation": "あそこに一緒にいるのは、\n連れ去られた草食恐竜か！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ＧＲＲＲＲＯＯＯＯＡＮ！",
+    "translation": "ＧＲＲＲＲＯＯＯＯＡＮ！",
+    "stage": 1,
+    "context": "派手な肉食恐竜"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ぎゃ～！　このままだとヨースケが\nパックンチョされちゃうクマ～！",
+    "translation": "ぎゃ～！　このままだとヨースケが\nパックンチョされちゃうクマ～！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "センパイ！\n今、助けるっス！",
+    "translation": "センパイ！\n今、助けるっス！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "おい、そこの肉食う方の恐竜！\nこっちが相手だゴラァ！",
+    "translation": "おい、そこの肉食う方の恐竜！\nこっちが相手だゴラァ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おい、待て！\nアイツ、めちゃくちゃ強いんだぞ！",
+    "translation": "おい、待て！\nアイツ、めちゃくちゃ強いんだぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "じゃあ、どうしろっつーんだよ！？\n先輩が食われちまうだろうが！",
+    "translation": "じゃあ、どうしろっつーんだよ！？\n先輩が食われちまうだろうが！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "どうにかして、あの肉食恐竜を\n引き離すことができれば…",
+    "translation": "どうにかして、あの肉食恐竜を\n引き離すことができれば…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あっ、そうだ！\nアレが使えるんじゃない？",
+    "translation": "あっ、そうだ！\nアレが使えるんじゃない？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "ほら、ここに来る途中にあった…\nアレなら、恐竜を動けなくできるかも！",
+    "translation": "ほら、ここに来る途中にあった…\nアレなら、恐竜を動けなくできるかも！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "柵だな",
+    "translation": "柵だな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "ナワだな",
+    "translation": "ナワだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_2",
+    "original": "ワナだな",
+    "translation": "ワナだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "そっか！　確かに、開きっぱなしに\nなってるのがあったわ！",
+    "translation": "そっか！　確かに、開きっぱなしに\nなってるのがあったわ！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "カウボーイか！\nナワなんて持ってねーぞ！",
+    "translation": "カウボーイか！\nナワなんて持ってねーぞ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ナワ、ナワ…ワナ…",
+    "translation": "ナワ、ナワ…ワナ…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "あ。ひょっとして、柵のことじゃない？",
+    "translation": "あ。ひょっとして、柵のことじゃない？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "確かに、開きっぱなしに\nなってるのがあったわ！",
+    "translation": "確かに、開きっぱなしに\nなってるのがあったわ！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ワナ？\nワナなんてあったっけ…",
+    "translation": "ワナ？\nワナなんてあったっけ…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "[P3P姓]さんが言ってるのは、\n柵のことだろう。",
+    "translation": "[P3P姓]さんが言ってるのは、\n柵のことだろう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "そういえば、開きっぱなしに\nなってるのがあったわ！",
+    "translation": "そういえば、開きっぱなしに\nなってるのがあったわ！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "じゃあ、そこまで行けばアイツを\n電気柵の中に閉じ込められるってわけか！",
+    "translation": "じゃあ、そこまで行けばアイツを\n電気柵の中に閉じ込められるってわけか！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_018_0",
+    "original": "それでいこう",
+    "translation": "それでいこう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_1",
+    "original": "どうやってやる？",
+    "translation": "どうやってやる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_2",
+    "original": "頼んだぞスカル",
+    "translation": "頼んだぞスカル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "でも、どうやって肉食恐竜を\n柵の中まで追い込めばいいのかな？",
+    "translation": "でも、どうやって肉食恐竜を\n柵の中まで追い込めばいいのかな？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "どうって、そりゃ…どうやんの！？",
+    "translation": "どうって、そりゃ…どうやんの！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "おう任せとけ…って、\nさすがに無理あんだろ！？",
+    "translation": "おう任せとけ…って、\nさすがに無理あんだろ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここはクマに任せんしゃい！\n手頃な石ころを、肉食恐竜に向けて…",
+    "translation": "ここはクマに任せんしゃい！\n手頃な石ころを、肉食恐竜に向けて…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "どっせえぇぇぇーーいッ！",
+    "translation": "どっせえぇぇぇーーいッ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "えええっ？　投げた！？",
+    "translation": "えええっ？　投げた！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ズドーンと、ど真ん中に命中クマ！\nクマのチョーゼツコントロール見たクマ！？",
+    "translation": "ズドーンと、ど真ん中に命中クマ！\nクマのチョーゼツコントロール見たクマ！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ＧＷＯＯＯＯＯＯＯＯ！",
+    "translation": "ＧＷＯＯＯＯＯＯＯＯ！",
+    "stage": 1,
+    "context": "派手な肉食恐竜"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ちょ、ちょっと！\nめちゃくちゃ怒ってんだけど！？",
+    "translation": "ちょ、ちょっと！\nめちゃくちゃ怒ってんだけど！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "わざと怒らせて、追っかけさせるクマ！",
+    "translation": "わざと怒らせて、追っかけさせるクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "オトリ作戦ってわけだね。",
+    "translation": "オトリ作戦ってわけだね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "みんな、今来た道を戻って！\n柵まで全速力だよ！",
+    "translation": "みんな、今来た道を戻って！\n柵まで全速力だよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "作戦開始だな。陽介を助けるまで、\n一気に駆け抜ける！",
+    "translation": "作戦開始だな。陽介を助けるまで、\n一気に駆け抜ける！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "オッケー。\n映画館に戻ってる暇はなさそうだね。",
+    "translation": "オッケー。\n映画館に戻ってる暇はなさそうだね。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "とにかく時間がない、走れ！",
+    "translation": "とにかく時間がない、走れ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_派手な肉食恐竜",
+    "original": "派手な肉食恐竜",
+    "translation": "派手な肉食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

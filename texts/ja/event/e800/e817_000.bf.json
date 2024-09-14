@@ -1,0 +1,177 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "だー、疲れた。",
+    "translation": "だー、疲れた。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_000_1_0",
+    "original": "ここ行き止まりだし、\n戻る前に少し休んで行っていいよな？",
+    "translation": "ここ行き止まりだし、\n戻る前に少し休んで行っていいよな？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "休もうか",
+    "translation": "休もうか",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "仕方ないな",
+    "translation": "仕方ないな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_2",
+    "original": "走れ",
+    "translation": "走れ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "さっすが、話が分かるぅ～！",
+    "translation": "さっすが、話が分かるぅ～！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_1_0",
+    "original": "その優しさ、さては女子にモテモテだな？\nなぁなぁ、実は誰かと付き合ってたり…",
+    "translation": "その優しさ、さては女子にモテモテだな？\nなぁなぁ、実は誰かと付き合ってたり…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "スパルタか！\nつか、そんなんじゃ女子にモテねえだろ？",
+    "translation": "スパルタか！\nつか、そんなんじゃ女子にモテねえだろ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_1_0",
+    "original": "なんだったら彼女のいるオレっちが\nモテのコツを…",
+    "translation": "なんだったら彼女のいるオレっちが\nモテのコツを…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "伊織！",
+    "translation": "伊織！",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "は、ハイ！！",
+    "translation": "は、ハイ！！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "無駄口を叩けるのだから、\nまだ体力はあるのだろう？",
+    "translation": "無駄口を叩けるのだから、\nまだ体力はあるのだろう？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_006_1_0",
+    "original": "口ではなく足を動かせ！\n行くぞ！",
+    "translation": "口ではなく足を動かせ！\n行くぞ！",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "へーい…",
+    "translation": "へーい…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "やれやれ…",
+    "translation": "やれやれ…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "大丈夫？",
+    "translation": "大丈夫？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ああ、騒がしくしてしまってすまない。\n私の監督不行き届きだ。",
+    "translation": "ああ、騒がしくしてしまってすまない。\n私の監督不行き届きだ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_010_1_0",
+    "original": "悪いやつではないのだが、気が緩み易い\nというか、緊張感がないというか…",
+    "translation": "悪いやつではないのだが、気が緩み易い\nというか、緊張感がないというか…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "年長者同士、苦労が絶えないものね。",
+    "translation": "年長者同士、苦労が絶えないものね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そうか、君も三年生だったな。\nぜひ、ゆっくり話をしたいものだが…",
+    "translation": "そうか、君も三年生だったな。\nぜひ、ゆっくり話をしたいものだが…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_012_1_0",
+    "original": "ああ言ってしまった手前だ。\n今は行くとしよう。",
+    "translation": "ああ言ってしまった手前だ。\n今は行くとしよう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "特別上映『上に立つ者として』が\nチケットカウンターに追加されました。",
+    "translation": "特別上映『上に立つ者として』が\nチケットカウンターに追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  }
+]

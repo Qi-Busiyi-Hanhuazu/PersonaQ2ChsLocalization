@@ -1,0 +1,23 @@
+[
+  {
+    "key": "P_GET_MSGID_GET_0",
+    "original": "＞ペルソナ“[颜色 02][占位A 01][颜色 01]”を\n　手に入れた！",
+    "translation": "＞ペルソナ“[颜色 02][占位A 01][颜色 01]”を\n　手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P_GET_MSGID_RUNKUP_0",
+    "original": "＞レベルが上がった！",
+    "translation": "＞レベルが上がった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "P_GET_MSGID_TUTORIAL_0",
+    "original": "＞チュートリアルです",
+    "translation": "＞チュートリアルです",
+    "stage": 1,
+    "context": ""
+  }
+]

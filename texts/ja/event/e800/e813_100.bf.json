@@ -1,0 +1,79 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふう…皆様、お待たせいたしました。",
+    "translation": "ふう…皆様、お待たせいたしました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "新作のポップコーンの用意ができました、\nこちらをお持ちください。",
+    "translation": "新作のポップコーンの用意ができました、\nこちらをお持ちください。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ありがとうございます。",
+    "translation": "ありがとうございます。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "それと、新作のポップコーンが出来た件は\nくれぐれも内密にお願いします。",
+    "translation": "それと、新作のポップコーンが出来た件は\nくれぐれも内密にお願いします。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "承知しました。",
+    "translation": "承知しました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "このテオドア、新作ポップコーンに誓って\n口外いたしません。ご安心ください。",
+    "translation": "このテオドア、新作ポップコーンに誓って\n口外いたしません。ご安心ください。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "では、あとはクマくんの着ぐるみを\n試写室の前に置くだけですね。",
+    "translation": "では、あとはクマくんの着ぐるみを\n試写室の前に置くだけですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ああ、計画通りに作戦を実行しよう。",
+    "translation": "ああ、計画通りに作戦を実行しよう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

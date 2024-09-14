@@ -1,0 +1,373 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なによこれ！？",
+    "translation": "这是什么？！",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n这是什么！？\n\n这是什么啊！？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "フィルムが巻き付いてる…？",
+    "translation": "被胶片缠住了吗？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n卷轴缠住了……？\n\n胶片缠上了……？\n\n胶片缠绕着……？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おい。ひかりが作った存在と言っていたが、\n攻撃しても平気なのか？",
+    "translation": "喂。\n虽说是光创造的存在，攻击它也没关系吗？",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n喂，它说是光创造出来的，\n攻击它也没事吗？\n\n喂。说是光创造的存在，\n攻击也没关系吗？\n\n喂！说是光制造的存在，\n攻击也无所谓吗？"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "このままにしたら、ひかりが危ない！\nとにかく守れ！",
+    "translation": "如果再这样下去，光就危险了！\n一定要保护好她！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n再这样下去，光会有危险！\n总之先保护她！\n\n照这样下去，光很危险！\n总之要遵守！\n\n再这样下去，光就危险了！\n总之要守住！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ひかり…ひかり…",
+    "translation": "光……光……",
+    "stage": 0,
+    "context": "说话人：ドー\n\n机翻辅助：\n\n光……光……"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ひかりちゃん、ここは私たちに任せて！",
+    "translation": "小光，这里就交给我们了！",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n小光，这里就交给我们！\n\n小光，这里就交给我们吧！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ひかり…ひかりひかりひかり！",
+    "translation": "光……光光光光！",
+    "stage": 1,
+    "context": "说话人：ドー\n\n机翻辅助：\n\n光……光光光！\n\n光……光！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "チッ、手ぇ出させるかよ！\n行くぞコラァァァァ！",
+    "translation": "切，不会让你得逞的！\n我们冲啊啊啊啊啊啊！",
+    "stage": 1,
+    "context": "说话人：巽 完二\n\n机翻辅助：\n\n啧，休想出手！\n接招吧啊啊啊啊！\n\n啧，让我出手吗！\n走吧啦啦！\n\n让我动手吧！\n走吧！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ねえ、あの目って、もしかして…",
+    "translation": "嘿，那双眼睛，难道说……",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n欸，那对眼睛，该不会……\n\n喂，那双眼睛，难道是……\n\n喂，那个眼睛，该不会是……"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ええ、あれが弱点のようね。",
+    "translation": "嗯，那好像是弱点呢。",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n对，那似乎是它的弱点。\n\n嗯，那好像是弱点。"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ってことは、目のあるトコを\nぶっ叩けばいいんだな。",
+    "translation": "这就是说，\n只要攻击眼睛那块就可以了吧。",
+    "stage": 1,
+    "context": "说话人：荒垣 真次郎\n\n机翻辅助：\n\n也就是说，\n只要打中眼睛就行了吧。\n\n也就是说，只要击打有眼睛的地方就可以了。\n\n\n这样的话，打有眼睛的小豆豆就好了。"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "了解です。\n一気に決めるであります！",
+    "translation": "了解了。\n一口气解决吧！",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n了解。\n一口气解决它！\n\n明白了。\n一口气决定！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "…やったか？",
+    "translation": "……成功了吗？",
+    "stage": 0,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n……成功了吗？\n\n……做了吗？"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "待て…様子がおかしい。\nなんだ、これ…",
+    "translation": "等一下……情况有点奇怪。\n这是什么……",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n等等……情况不太对劲。\n这是什么……\n\n等等……样子很奇怪。\n这是什么……\n\n等等……情况很奇怪。\n这是什么？"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "何があったんですか？",
+    "translation": "发生了什么事？",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n发生什么事了？\n\n发生了什么事？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "うそ！？　敵の反応…\nさっきよりも強くなってる！？",
+    "translation": "不会吧？！\n敌人的反应……比刚才更强了？！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n不会吧！？敌人的反应……\n变得比刚才更强了！？\n\n骗人！？敌人的反应……\n比刚才更强了！？\n\n骗人！？敌人的反应……比刚才更强了！？"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "うっそ、マジかよ！？",
+    "translation": "不会吧，真的吗？！",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n骗人的吧，真的假的！？\n\n嗯，真的吗！？\n\n不，真的假的！？"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "き、来ます！　皆さん！",
+    "translation": "来、来了，大家！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n来、来了！各位！\n\n来、来！各位！"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "か、体が…！？",
+    "translation": "啊，身体……？！",
+    "stage": 1,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n身、身体……！？\n\n身体……！？\n\n吗，身体……！？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "動かない…！？",
+    "translation": "动不了……？！",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n动不了……！？\n\n不动……！？"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "くっ！　このままじゃ…",
+    "translation": "呃！再这样下去的话……",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n唔！再这样下去……\n\n哇！这样下去的话……\n\n喂！再这样下去……"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "みんな…！",
+    "translation": "大家……！",
+    "stage": 0,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n大家……！"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "このぐらい…っく！\n何故、動かん！",
+    "translation": "这种程度……呃！\n为什么身体动不了！",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n这点程度……唔！\n为什么动不了！\n\n这个程度！\n为什么不动！\n\n这点程度……OK ！\n为什么不动！"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ぐ、ぐるじぃ…けど、ヒカリン…\n今、ぜったい助けるクマ…",
+    "translation": "好、好难受……但是，小光光……\n我，这就去救你熊熊……",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n好、好难受……可是，光光……\n现在，我绝对会救你熊熊……\n\n古、古……但是，hikarin……\n现在，我一定会救你的熊熊……\n\n但是，光……\n现在，绝对要救的熊熊……"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "みんな、このままじゃ…！",
+    "translation": "大家，再这样继续下去的话……！",
+    "stage": 1,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n大家，再这样下去……！\n\n大家，这样下去的话……！"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ヒカリ…ドウシテ…\nオマエハ…",
+    "translation": "光……为什么……你……",
+    "stage": 1,
+    "context": "说话人：ドー\n\n机翻辅助：\n\n光……为什么……\n你……\n\n光……多乌西特……\n奥马哈……\n\n光……为什么……\n你是……"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "違う、こんなの…",
+    "translation": "不对，怎么会……",
+    "stage": 1,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n不对，这……\n\n不对，是这样的……\n\n不，是这样的……"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "待ってて、みんな…\n私が…何とかしてみせるから！",
+    "translation": "等等，大家……\n我……来想办法解决！",
+    "stage": 1,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n等等我，大家……\n我……会想办法的！\n\n等着，大家……\n我……我会想办法给你看的！\n\n等一下，大家……\n我会想办法给大家看的！"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "だめ！　危ない！",
+    "translation": "不行！太危险！",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n不行！危险！"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "おい！　ひかり！？",
+    "translation": "喂！光？！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n喂！光！？"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "私、みんなに助けてもらった…\nだから…今度こそ、私が助ける番！",
+    "translation": "我得到了大家的帮助……\n所以……这次轮到我来帮助大家！",
+    "stage": 1,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n我被大家帮助了……\n所以……这次轮到我帮助大家了！\n\n我得到了大家的帮助……\n所以……这次轮到我帮忙了！\n\n大家帮了我……\n所以……这次，轮到我来帮忙了！"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 由加莉",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鹤",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_ドー",
+    "original": "ドー",
+    "translation": "哆",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "埃癸斯",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白钟 直斗",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊织 顺平",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "光",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "小熊",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_STAFFROLL_0",
+    "original": "ここでスタッフロールが入ります。",
+    "translation": "ここでスタッフロールが入ります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_CLEAR_DATA_SAVE_0",
+    "original": "ここでクリアーデータセーブが入ります。",
+    "translation": "ここでクリアーデータセーブが入ります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_BACK_TO_TITLE_0",
+    "original": "ここでタイトルに戻ります。",
+    "translation": "ここでタイトルに戻ります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_DEBUG_SKIP_0",
+    "original": "ボス戦をスキップしますか？",
+    "translation": "ボス戦をスキップしますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_0",
+    "original": "する",
+    "translation": "する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_1",
+    "original": "しない",
+    "translation": "しない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_DEBUG_SKIP_ON_0",
+    "original": "ボス戦をスキップし、タウンに戻ります。",
+    "translation": "ボス戦をスキップし、タウンに戻ります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_DEBUG_SKIP_ENDING_0",
+    "original": "エンディングをスキップしますか？",
+    "translation": "エンディングをスキップしますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_ENDING_0",
+    "original": "しない",
+    "translation": "しない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_ENDING_1",
+    "original": "ひかりが扉に消えるまで進める",
+    "translation": "ひかりが扉に消えるまで進める",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_ENDING_2",
+    "original": "Ｐ５主人公のデモまで進める",
+    "translation": "Ｐ５主人公のデモまで進める",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_ENDING_3",
+    "original": "各主人公のその後まで進める",
+    "translation": "各主人公のその後まで進める",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_ENDING_4",
+    "original": "スタッフロールまで進める",
+    "translation": "スタッフロールまで進める",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_DEBUG_SKIP_ENDING_5",
+    "original": "Ｐ５主人公のその後まで進める",
+    "translation": "Ｐ５主人公のその後まで進める",
+    "stage": 1,
+    "context": ""
+  }
+]

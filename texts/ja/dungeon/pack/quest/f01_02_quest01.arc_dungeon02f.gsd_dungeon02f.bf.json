@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_EV_GOTO_SAISYU_GET_0",
+    "original": "＞採取ポイント取得までロックイベント\n一度、採取ポイントを見ることを促す",
+    "translation": "＞採取ポイント取得までロックイベント\n一度、採取ポイントを見ることを促す",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_SYS_SWITCH_ON_0",
+    "original": "＞スイッチを押した",
+    "translation": "＞スイッチを押した",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ITEMPOINT_MODOKI_0",
+    "original": "＞採取ポイントを調べた…",
+    "translation": "＞採取ポイントを調べた…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_ITEMPOINT_MODOKI_1",
+    "original": "＞…？",
+    "translation": "＞…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_SAISYU_0",
+    "original": "【オタカラスポットについて】\n[颜色 03]”オタカラスポット”[颜色 01]\nについて、ここで説明する。",
+    "translation": "【オタカラスポットについて】\n[颜色 03]”オタカラスポット”[颜色 01]\nについて、ここで説明する。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TUTORIAL_POWERSPOT_0",
+    "original": "■オタカラスポットについて\nここでは[颜色 03]様々な素材[颜色 01]を入手することができます。\n入手できる回数は限られていますが、\n[颜色 03]一度迷宮から出ると再度入手可能[颜色 01]になります。\n有効に活用していきましょう。",
+    "translation": "■オタカラスポットについて\nここでは[颜色 03]様々な素材[颜色 01]を入手することができます。\n入手できる回数は限られていますが、\n[颜色 03]一度迷宮から出ると再度入手可能[颜色 01]になります。\n有効に活用していきましょう。",
+    "stage": 1,
+    "context": ""
+  }
+]

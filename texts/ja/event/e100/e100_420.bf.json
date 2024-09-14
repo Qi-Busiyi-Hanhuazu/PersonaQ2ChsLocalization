@@ -1,0 +1,303 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "映画館、チケット売り場…",
+    "translation": "映画館、チケット売り場…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "明智がエリザベスに話しかけている…",
+    "translation": "明智がエリザベスに話しかけている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やあ、来たのかい？",
+    "translation": "やあ、来たのかい？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "お邪魔します",
+    "translation": "お邪魔します",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "珍しい組み合わせだ",
+    "translation": "珍しい組み合わせだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そんな大仰なことでもないんだけどね。",
+    "translation": "そんな大仰なことでもないんだけどね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "個人的に気になる事があったから、\n話を聞かせてもらおうと思ったんだ。",
+    "translation": "個人的に気になる事があったから、\n話を聞かせてもらおうと思ったんだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ほほう、これが世に言う取り調べ…\n私、いささか興奮しております。",
+    "translation": "ほほう、これが世に言う取り調べ…\n私、いささか興奮しております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "取り調べ？",
+    "translation": "取り調べ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "そうなのか？",
+    "translation": "そうなのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "別に、そんな大げさなものじゃないって。\nただの質問だよ。",
+    "translation": "別に、そんな大げさなものじゃないって。\nただの質問だよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "それは残念…カツドゥーンなるものを\n供して頂けると、期待していたのですが…",
+    "translation": "それは残念…カツドゥーンなるものを\n供して頂けると、期待していたのですが…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ハハ…\nそういうのはドラマの世界だけですって。",
+    "translation": "ハハ…\nそういうのはドラマの世界だけですって。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "それにこれはあくまで\n僕のちょっとした疑問です。",
+    "translation": "それにこれはあくまで\n僕のちょっとした疑問です。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "前にベルベットルームでは、全く無意味な\nことは起こらない、と言っていましたが…",
+    "translation": "前にベルベットルームでは、全く無意味な\nことは起こらない、と言っていましたが…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "では、[P3P姓]さんの件は\nどうなんですか？",
+    "translation": "では、[P3P姓]さんの件は\nどうなんですか？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_010_0",
+    "original": "どういうこと？",
+    "translation": "どういうこと？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_010_1",
+    "original": "まさか犯人は…",
+    "translation": "まさか犯人は…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "フフ…そこに気付いてしまうとは…\n流石、名探偵様でございます。",
+    "translation": "フフ…そこに気付いてしまうとは…\n流石、名探偵様でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "たしか[P3P姓]さんがここに来たのは、\nベルベットルームからって話だ。",
+    "translation": "たしか[P3P姓]さんがここに来たのは、\nベルベットルームからって話だ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "僕が訊きたいのは、それにも\n意味があるんじゃないかって事だよ。",
+    "translation": "僕が訊きたいのは、それにも\n意味があるんじゃないかって事だよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ええ、[P3P姓]様がお一人でこちらに\nいらした事も、決して偶然ではないかと。",
+    "translation": "ええ、[P3P姓]様がお一人でこちらに\nいらした事も、決して偶然ではないかと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "ですが、[P3P姓]様だけでは\nございません。",
+    "translation": "ですが、[P3P姓]様だけでは\nございません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "どういうことかな？",
+    "translation": "どういうことかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ベルベットルームに仕える私どもと\n相対した以上…",
+    "translation": "ベルベットルームに仕える私どもと\n相対した以上…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "貴方様がここにいるのもまた必然であり、\n何かしらの意味があるかと…",
+    "translation": "貴方様がここにいるのもまた必然であり、\n何かしらの意味があるかと…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "…意味、ね。でも、その意味もまた\n君たちの預かり知らぬ所なんだろう？",
+    "translation": "…意味、ね。でも、その意味もまた\n君たちの預かり知らぬ所なんだろう？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "全ての答えは、映画の結末の先ってことか…",
+    "translation": "全ての答えは、映画の結末の先ってことか…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_017_0",
+    "original": "結末が気になる",
+    "translation": "結末が気になる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_017_1",
+    "original": "今は作戦を成功させよう",
+    "translation": "今は作戦を成功させよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "そこにたどり着くかは、皆様次第…",
+    "translation": "そこにたどり着くかは、皆様次第…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "皆様、何やらご計画なさってるようで、\n私もドキドキワクワクでございます。",
+    "translation": "皆様、何やらご計画なさってるようで、\n私もドキドキワクワクでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "全てを知るには、\nまずこの計画を成功させないとね。",
+    "translation": "全てを知るには、\nまずこの計画を成功させないとね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ええ。正しい判断かと存じます。",
+    "translation": "ええ。正しい判断かと存じます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "結末にたどり着くかは\n皆さま次第なのですから。",
+    "translation": "結末にたどり着くかは\n皆さま次第なのですから。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ああ、今はまず\nこの計画を成功させないとね。",
+    "translation": "ああ、今はまず\nこの計画を成功させないとね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここは大丈夫そうだ。\n一旦、戻ろう…",
+    "translation": "ここは大丈夫そうだ。\n一旦、戻ろう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ここは大丈夫そうだ。\n他の仲間の様子を見に行こうか…",
+    "translation": "ここは大丈夫そうだ。\n他の仲間の様子を見に行こうか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_0",
+    "original": "[P3P名]と祐介の所に行く",
+    "translation": "[P3P名]と祐介の所に行く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_1",
+    "original": "杏と竜司の所に行く",
+    "translation": "杏と竜司の所に行く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_2",
+    "original": "モルガナと双葉の所に行く",
+    "translation": "モルガナと双葉の所に行く",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  }
+]

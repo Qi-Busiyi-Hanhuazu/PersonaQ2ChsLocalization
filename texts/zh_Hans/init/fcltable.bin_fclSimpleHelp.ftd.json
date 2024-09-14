@@ -1,0 +1,226 @@
+[
+  {
+    "key": "text_001_0",
+    "original": "何をしますか？",
+    "translation": "要做什么？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n做什么？\n\n你要做什么？"
+  },
+  {
+    "key": "text_002_0",
+    "original": "何について聞きますか？",
+    "translation": "要问什么？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n问什么？\n\n关于什么要问？"
+  },
+  {
+    "key": "text_003_0",
+    "original": "ペルソナフィルム閲覧",
+    "translation": "阅览人格面具胶片",
+    "stage": 1,
+    "context": "机翻辅助：\n\n人格面具\n\n人格面具胶片阅览"
+  },
+  {
+    "key": "text_004_0",
+    "original": "ペルソナフィルム上書き",
+    "translation": "覆盖人格面具胶片",
+    "stage": 1,
+    "context": "机翻辅助：\n\n人格面具胶片覆盖\n\n人格面具薄膜覆盖"
+  },
+  {
+    "key": "text_005_0",
+    "original": "所持ペルソナ一覧",
+    "translation": "持有人格面具一览",
+    "stage": 0,
+    "context": "机翻辅助：\n\n持有人格面具一览\n\n所持人格面具一览"
+  },
+  {
+    "key": "text_006_0",
+    "original": "オススメ合体",
+    "translation": "推荐合体",
+    "stage": 0,
+    "context": "机翻辅助：\n\n推荐合体\n\n合体推荐"
+  },
+  {
+    "key": "text_007_0",
+    "original": "検索合体",
+    "translation": "搜索合体",
+    "stage": 1,
+    "context": "机翻辅助：\n\n搜索合并\n\n搜索合体"
+  },
+  {
+    "key": "text_008_0",
+    "original": "特殊合体",
+    "translation": "特殊合体",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "text_009_0",
+    "original": "合体予報",
+    "translation": "合体预报",
+    "stage": 0,
+    "context": "机翻辅助：\n\n合体预报"
+  },
+  {
+    "key": "text_010_0",
+    "original": "スキルカード購入",
+    "translation": "购买技能卡",
+    "stage": 0,
+    "context": "机翻辅助：\n\n购买技能卡\n\n技能卡购买"
+  },
+  {
+    "key": "text_011_0",
+    "original": "スキルカード登録",
+    "translation": "登录技能卡",
+    "stage": 1,
+    "context": "机翻辅助：\n\n技能卡注册\n\n技能卡登录"
+  },
+  {
+    "key": "text_012_0",
+    "original": "救援ログ確認",
+    "translation": "确认救援日志",
+    "stage": 0,
+    "context": "机翻辅助：\n\n确认救援日志"
+  },
+  {
+    "key": "text_013_0",
+    "original": "救援ログ詳細",
+    "translation": "救援日志详情",
+    "stage": 1,
+    "context": "机翻辅助：\n\n救援日志详细信息\n\n救援日志详情"
+  },
+  {
+    "key": "text_014_0",
+    "original": "メッセージ作成",
+    "translation": "创建消息",
+    "stage": 0,
+    "context": "机翻辅助：\n\n创建消息\n\n信息制作"
+  },
+  {
+    "key": "text_015_0",
+    "original": "アイコン選択",
+    "translation": "选择图标",
+    "stage": 1,
+    "context": "机翻辅助：\n\n图标选择"
+  },
+  {
+    "key": "text_016_0",
+    "original": "作成終了",
+    "translation": "结束创建",
+    "stage": 1,
+    "context": "机翻辅助：\n\n创建结束\n\n完成制作"
+  },
+  {
+    "key": "text_017_0",
+    "original": "何を作りますか？",
+    "translation": "要做什么？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n做什么？\n\n你做什么？"
+  },
+  {
+    "key": "text_018_0",
+    "original": "１体目を選んでください",
+    "translation": "请选择第1只。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请选择第1只"
+  },
+  {
+    "key": "text_019_0",
+    "original": "２体目を選んでください",
+    "translation": "请选择第2只。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请选择第2只"
+  },
+  {
+    "key": "text_020_0",
+    "original": "３体目を選んでください",
+    "translation": "请选择第3只。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请选择第三个\n\n请选择第三个。"
+  },
+  {
+    "key": "text_021_0",
+    "original": "武器を選んでください",
+    "translation": "请选择武器。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请选择武器\n\n请选择武器。"
+  },
+  {
+    "key": "text_022_0",
+    "original": "ペルソナを選んでください",
+    "translation": "请选择人格面具。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请选择人格面具\n\n请选择人格面具。"
+  },
+  {
+    "key": "text_023_0",
+    "original": "すれちがい手帳閲覧",
+    "translation": "阅览瞬缘笔记",
+    "stage": 1,
+    "context": "机翻辅助：\n\n阅览错字本\n\n擦身而过阅览手册"
+  },
+  {
+    "key": "text_024_0",
+    "original": "配るペルソナを選んでください",
+    "translation": "请选择要发送的人格面具。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请选择分发的人格面具\n\n请选择分发的人格面具。"
+  },
+  {
+    "key": "text_025_0",
+    "original": "イケニエにするペルソナを選んでください",
+    "translation": "请选择作为祭品的人格面具。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请选择作为祭品的人格面具\n\n请选择献祭的人格面具。"
+  },
+  {
+    "key": "text_026_0",
+    "original": "２枚目のイケニエを選んでください",
+    "translation": "请选择第2个祭品。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请选择第二张祭品\n\n请选择第二个牺牲品。"
+  },
+  {
+    "key": "text_027_0",
+    "original": "成長させるペルソナを選んでください",
+    "translation": "请选择要成长的人格面具。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请选择能让你成长的人格面具\n\n请选择能让你成长的人格面具。"
+  },
+  {
+    "key": "text_028_0",
+    "original": "成長させるペルソナを選んでください",
+    "translation": "请选择要成长的人格面具。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请选择能让你成长的人格面具\n\n请选择能让你成长的人格面具。"
+  },
+  {
+    "key": "text_029_0",
+    "original": "アクセサリー合体",
+    "translation": "饰品合体",
+    "stage": 1,
+    "context": "机翻辅助：\n\n配件合体\n\n配饰合体"
+  },
+  {
+    "key": "text_030_0",
+    "original": "素材にするペルソナを選んでください",
+    "translation": "请选择作为素材的人格面具。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请选择作为素材的人格面具\n\n请选择作为素材的人格面具。"
+  },
+  {
+    "key": "text_031_0",
+    "original": "合体するアクセサリーを選んでください",
+    "translation": "请选择要合体的饰品。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请选择合体的饰品\n\n请选择合体的饰品。"
+  },
+  {
+    "key": "text_032_0",
+    "original": "スロットを選択してください",
+    "translation": "请选择位置。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n请选择插槽\n\n请选择插槽。"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "みんな、大変だよ！\n肉食恐竜がすぐそこに…！！",
+    "translation": "不好了，大家！\n肉食恐龙就在那边……！！",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n大家，不好了！\n肉食恐龙就在附近……！！\n\n大家辛苦了！\n肉食恐龙就在那里……！！\n\n大家都很辛苦！\n肉食恐龙就在眼前……！！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ＧＲＥＥＥＥＥＥＥＥＤ！",
+    "translation": "GREEEEEEEED！",
+    "stage": 1,
+    "context": "说话人：派手な肉食恐竜\n\n机翻辅助：\n\nGRREEEEEED！\n\nGREEEEEEED！\n\nGREEEEEEEED ！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "きゃああああ…っ！",
+    "translation": "哇啊啊啊……！",
+    "stage": 1,
+    "context": "说话人：気弱そうな草食恐竜\n\n机翻辅助：\n\n呀啊啊啊啊……！\n\n啊啊啊啊啊啊！\n\n啊啊啊啊……！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "や、やっば！？\nちょ、あれ、どうしたら…！",
+    "translation": "糟、糟啦！\n那、那个，该怎么办……！",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n糟、糟糕！\n等等，那个，该怎么办……！\n\n呀，做吧！？\n喂，那个，怎么办才好……！\n\n啊呀，啊呀！？\n那，怎么办……！"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_派手な肉食恐竜",
+    "original": "派手な肉食恐竜",
+    "translation": "华丽的肉食恐龙",
+    "stage": 0,
+    "context": "机翻辅助：\n\n华丽的肉食恐龙\n\n华丽的食肉恐龙"
+  },
+  {
+    "key": "speaker_気弱そうな草食恐竜",
+    "original": "気弱そうな草食恐竜",
+    "translation": "看上去很怯弱的草食恐龙",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看起来很懦弱的草食恐龙\n\n软弱的草食性恐龙\n\n看起来很虚弱的草食恐龙"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

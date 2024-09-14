@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "この先が目的の場所だ。",
+    "translation": "この先が目的の場所だ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "サーチライトの設置数はこれまで以上…\n更に奥にはＦ．Ｏ．Ｅの気配もするぞ。",
+    "translation": "サーチライトの設置数はこれまで以上…\n更に奥にはＦ．Ｏ．Ｅの気配もするぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "でっけえＦ．Ｏ．Ｅに当たらねえように\nサーチライトも避けねーとなのか…",
+    "translation": "でっけえＦ．Ｏ．Ｅに当たらねえように\nサーチライトも避けねーとなのか…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "ま、指示はいつも通り\nジョーカーに任せっからよ…頼んだぜ？",
+    "translation": "ま、指示はいつも通り\nジョーカーに任せっからよ…頼んだぜ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ああ、失敗は出来ない。\n今まで以上に慎重に進むぞ。",
+    "translation": "ああ、失敗は出来ない。\n今まで以上に慎重に進むぞ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

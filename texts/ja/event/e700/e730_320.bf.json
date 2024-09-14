@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "その扉の向こう、強い反応があるよ！\nしかも複数…気をつけて！",
+    "translation": "その扉の向こう、強い反応があるよ！\nしかも複数…気をつけて！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "行くぞ",
+    "translation": "行くぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "やめておこう",
+    "translation": "やめておこう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "フッ、強敵か…腕が鳴るな。\n楽しみだ！",
+    "translation": "フッ、強敵か…腕が鳴るな。\n楽しみだ！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "リョーカイクマ！\n戦いへの準備は、バッチシしないとですな！",
+    "translation": "リョーカイクマ！\n戦いへの準備は、バッチシしないとですな！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  }
+]

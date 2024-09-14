@@ -1,0 +1,156 @@
+[
+  {
+    "key": "town_sel_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_sel_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_warning_quest_0",
+    "original": "特別上映を受けてないけどいいの？",
+    "translation": "特別上映を受けてないけどいいの？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "town_warning_persona_0",
+    "original": "先輩、パーティに“サブ”のペルソナを\n装備していない人が居るよ、気をつけて。",
+    "translation": "先輩、パーティに“サブ”のペルソナを\n装備していない人が居るよ、気をつけて。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "town_warning_both_0",
+    "original": "先輩、パーティに“サブ”のペルソナを\n装備していない人が居るよ、気をつけて。",
+    "translation": "先輩、パーティに“サブ”のペルソナを\n装備していない人が居るよ、気をつけて。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "town_warning_both_1",
+    "original": "あと、[道具 0636]持ってないけど、\nいいの？",
+    "translation": "あと、[道具 0636]持ってないけど、\nいいの？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "town_goukon_event_p3_0",
+    "original": "リーダー、その迷宮はまた後にして、\n今は次の迷宮へ行ってみましょう。",
+    "translation": "リーダー、その迷宮はまた後にして、\n今は次の迷宮へ行ってみましょう。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "town_goukon_event_p4_0",
+    "original": "先輩、その迷宮はまた後にして、\n今は次の迷宮へ行ってみようよ。",
+    "translation": "先輩、その迷宮はまた後にして、\n今は次の迷宮へ行ってみようよ。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "town_odekake_alone_0",
+    "original": "＞校内で目立ったことは起きていない。\n　変化があったらまた訪れようか…",
+    "translation": "＞校内で目立ったことは起きていない。\n　変化があったらまた訪れようか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_1st_warning_p4_0",
+    "original": "先輩、その迷宮はまた後にして、\n今は次の迷宮へ行ってみようよ。",
+    "translation": "先輩、その迷宮はまた後にして、\n今は次の迷宮へ行ってみようよ。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "town_warning_dungeon_p4_0",
+    "original": "センパイ、“カエレール”は持った？",
+    "translation": "センパイ、“カエレール”は持った？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "town_warning_dungeon_p4_1",
+    "original": "“カエレール”を迷宮内で使うと、\nここに戻って来れると思うよ。",
+    "translation": "“カエレール”を迷宮内で使うと、\nここに戻って来れると思うよ。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "town_warning_dungeon_p4_2",
+    "original": "ムリはしないで、体力がピンチに\nなったりしたら、すぐ使ってね。",
+    "translation": "ムリはしないで、体力がピンチに\nなったりしたら、すぐ使ってね。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "town_warning_dungeon_p4_3",
+    "original": "こっちなら体力回復できるし、\n装備も変えられるから、\n焦んないで行こ！",
+    "translation": "こっちなら体力回復できるし、\n装備も変えられるから、\n焦んないで行こ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "town_warning_dungeon_p3_0",
+    "original": "リーダー、テオさんからもらった\n“カエレール”は持ちましたか？",
+    "translation": "リーダー、テオさんからもらった\n“カエレール”は持ちましたか？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "town_warning_dungeon_p3_1",
+    "original": "“カエレール”を迷宮内で使うと、\nここに戻って来られるみたいです。",
+    "translation": "“カエレール”を迷宮内で使うと、\nここに戻って来られるみたいです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "town_warning_dungeon_p3_2",
+    "original": "体力がピンチになったりしたら、\n無理せず、すぐ使ってくださいね。",
+    "translation": "体力がピンチになったりしたら、\n無理せず、すぐ使ってくださいね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "town_warning_dungeon_p3_3",
+    "original": "こちらで体力を回復できますし、\n装備も変えられますから、\n焦らないで行きましょう。",
+    "translation": "こちらで体力を回復できますし、\n装備も変えられますから、\n焦らないで行きましょう。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "town_quest_find_0",
+    "original": "新たな特別上映が発生しました。\n『チケット』に行ってみましょう。",
+    "translation": "新たな特別上映が発生しました。\n『チケット』に行ってみましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_party_ng_0",
+    "original": "特別上映に必要なキャラクターが\nパーティに参加していません。",
+    "translation": "特別上映に必要なキャラクターが\nパーティに参加していません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  }
+]

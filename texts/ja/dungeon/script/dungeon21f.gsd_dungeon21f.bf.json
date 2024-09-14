@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_AB_GATE_SETUMEI_1_0",
+    "original": "＞AB扉について説明する（1）",
+    "translation": "＞AB扉について説明する（1）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_AB_GATE_SETUMEI_1_1",
+    "original": "「前の扉が開くと同時に\n通ってきた扉が閉じている事に驚く。」\nイベント。",
+    "translation": "「前の扉が開くと同時に\n通ってきた扉が閉じている事に驚く。」\nイベント。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_AB_GATE_SETUMEI_2_0",
+    "original": "＞AB扉について説明する（2）",
+    "translation": "＞AB扉について説明する（2）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_AB_GATE_SETUMEI_2_1",
+    "original": "「（1）と同じ現象により\nギミック挙動に憶測をつけて説明する。」\nイベント",
+    "translation": "「（1）と同じ現象により\nギミック挙動に憶測をつけて説明する。」\nイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_KANSI_SHOBATU_FOE_SE_0",
+    "original": "＞監視＆処罰FOEαについて説明する(1)",
+    "translation": "＞監視＆処罰FOEαについて説明する(1)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_KANSI_SHOBATU_FOE_SE_1",
+    "original": "「監視FOEに見つかってしまったぞ！」",
+    "translation": "「監視FOEに見つかってしまったぞ！」",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_KANSI_SHOBATU_FOE_SE_2_0",
+    "original": "「処罰FOEが起動したぞ！\nアイツ、こっちを追ってくる！」\nといったイベント。　",
+    "translation": "「処罰FOEが起動したぞ！\nアイツ、こっちを追ってくる！」\nといったイベント。　",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_KANSI_SHOBATU_FOE_SE_3_0",
+    "original": "＞監視＆処罰FOEαについて説明する(2)",
+    "translation": "＞監視＆処罰FOEαについて説明する(2)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_KANSI_SHOBATU_FOE_SE_3_1",
+    "original": "「監視＆処罰FOEの関係性を憶測。\n監視FOEを倒せば、処罰FOEの起動を\n阻止できるのかも！」といったイベント",
+    "translation": "「監視＆処罰FOEの関係性を憶測。\n監視FOEを倒せば、処罰FOEの起動を\n阻止できるのかも！」といったイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_FOE_AB_GATE_SETUMEI__0",
+    "original": "＞処罰FOE＆ABゲートの関係性ついて説明する(1)",
+    "translation": "＞処罰FOE＆ABゲートの関係性ついて説明する(1)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_FOE_AB_GATE_SETUMEI__1",
+    "original": "「扉が閉まっていて進めない！」\nといったイベント。",
+    "translation": "「扉が閉まっていて進めない！」\nといったイベント。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_FOE_AB_GATE_SETUMEI__2_0",
+    "original": "＞処罰FOE＆ABゲートの関係性ついて説明する(2)",
+    "translation": "＞処罰FOE＆ABゲートの関係性ついて説明する(2)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_FOE_AB_GATE_SETUMEI__2_1",
+    "original": "「FOEが通ったら、扉が開いたぞ！\nあの扉はFOEにも反応して動くのか！」\nといったイベント。",
+    "translation": "「FOEが通ったら、扉が開いたぞ！\nあの扉はFOEにも反応して動くのか！」\nといったイベント。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "何かが埋まっているようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理してからまた来よう…",
+    "stage": 1,
+    "context": ""
+  }
+]

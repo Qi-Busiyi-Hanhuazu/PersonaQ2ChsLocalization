@@ -1,0 +1,310 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さーて、今しゅ…\n今回の特別上映は～！？",
+    "translation": "さーて、今しゅ…\n今回の特別上映は～！？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ほほう、これは無性にジャンケンが\nしたくなる言い方…",
+    "translation": "ほほう、これは無性にジャンケンが\nしたくなる言い方…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "じゃんけん？　なぜだ？",
+    "translation": "じゃんけん？　なぜだ？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "なぜもヘチマもない。\n日本人のＤＮＡに刻まれた真理だ！",
+    "translation": "なぜもヘチマもない。\n日本人のＤＮＡに刻まれた真理だ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "そ、そうなんですか？\n僕にはよくわかりませんが…",
+    "translation": "そ、そうなんですか？\n僕にはよくわかりませんが…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "静粛にお願いいたします！\n特別上映は遊びではございません。",
+    "translation": "静粛にお願いいたします！\n特別上映は遊びではございません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "真剣に耳を傾けてくださいませんと、\nこのエリザベス…んまフッフ。",
+    "translation": "真剣に耳を傾けてくださいませんと、\nこのエリザベス…んまフッフ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "また飛ばしてんな…\nついてける気しねーわ。",
+    "translation": "また飛ばしてんな…\nついてける気しねーわ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "それで、僕らはどうすれば？\n説明をお願いします、エリザベスさん。",
+    "translation": "それで、僕らはどうすれば？\n説明をお願いします、エリザベスさん。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "よくぞ聞いて下さいました。",
+    "translation": "よくぞ聞いて下さいました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "今回の上映は『ニセ警官を捜し出せ！』\nというものでございます。",
+    "translation": "今回の上映は『ニセ警官を捜し出せ！』\nというものでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "舞台はカモシティ。\nシャドウが市民を混乱に陥れている様子。",
+    "translation": "舞台はカモシティ。\nシャドウが市民を混乱に陥れている様子。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "許せないな",
+    "translation": "許せないな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "倒せばいい？",
+    "translation": "倒せばいい？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "おうっス！\nシャドウなんざ軽くヒネってやんぜ！",
+    "translation": "おうっス！\nシャドウなんざ軽くヒネってやんぜ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "事はそう簡単に参りません。",
+    "translation": "事はそう簡単に参りません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "シャドウは市民を守る警官に紛れ\n悪事を働いているとのこと。",
+    "translation": "シャドウは市民を守る警官に紛れ\n悪事を働いているとのこと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_011_2",
+    "original": "正体を暴くには、警官たちを探し、\n話を聞いてみるよりほかありません。",
+    "translation": "正体を暴くには、警官たちを探し、\n話を聞いてみるよりほかありません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "おお、聞き込みってやつ？\nなんか刑事みたい！",
+    "translation": "おお、聞き込みってやつ？\nなんか刑事みたい！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "しかし、自分がニセ警官などと\n素直に白状するでしょうか？",
+    "translation": "しかし、自分がニセ警官などと\n素直に白状するでしょうか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "はい、シャドウのニセ警官は\nウソで皆様を欺こうとするでしょう。",
+    "translation": "はい、シャドウのニセ警官は\nウソで皆様を欺こうとするでしょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "そこで、警官たちの話をヒントに\nニセモノを突き止めて下さいませ。",
+    "translation": "そこで、警官たちの話をヒントに\nニセモノを突き止めて下さいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "でも、誰がウソついてるかなんて\nわからなくない…？",
+    "translation": "でも、誰がウソついてるかなんて\nわからなくない…？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "なるほど…\n『論理パズル』のようなものですね。",
+    "translation": "なるほど…\n『論理パズル』のようなものですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ろんりパズル？",
+    "translation": "ろんりパズル？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "はい、与えられたいくつかの条件を\n照らし合わせ、矛盾しているものを探す。",
+    "translation": "はい、与えられたいくつかの条件を\n照らし合わせ、矛盾しているものを探す。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "この場合だと、警官に話を聞き、\n集めた証言の矛盾を見つけるんです。",
+    "translation": "この場合だと、警官に話を聞き、\n集めた証言の矛盾を見つけるんです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "『嘘つきを探せ』ってやつか！\nおもしろそーだな！",
+    "translation": "『嘘つきを探せ』ってやつか！\nおもしろそーだな！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_020_0",
+    "original": "わかった",
+    "translation": "わかった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_020_1",
+    "original": "ややこしいな…",
+    "translation": "ややこしいな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "うそ、全然わかんなかった…\nやっぱ[P5名]、頭いい…",
+    "translation": "うそ、全然わかんなかった…\nやっぱ[P5名]、頭いい…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "心配すんな、わたしがフォローする！",
+    "translation": "心配すんな、わたしがフォローする！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "大丈夫です、やってみれば\nみんなすぐに理解できますよ。",
+    "translation": "大丈夫です、やってみれば\nみんなすぐに理解できますよ。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "まずは警官を探すところからです。\nさっそく行ってみましょう。",
+    "translation": "まずは警官を探すところからです。\nさっそく行ってみましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "初代探偵王子か…さて、お手並み拝見。",
+    "translation": "初代探偵王子か…さて、お手並み拝見。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "そこを抜ければ、\n目的のマンホールだよ。",
+    "translation": "そこを抜ければ、\n目的のマンホールだよ。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "つっても、目の前の広場から\nシャドウの気配がビンビンすんだけど…",
+    "translation": "つっても、目の前の広場から\nシャドウの気配がビンビンすんだけど…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "残念なお知らせだが、他に道はない。",
+    "translation": "残念なお知らせだが、他に道はない。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "えーっと、こういう時、\n怪盗としての正解は？",
+    "translation": "えーっと、こういう時、\n怪盗としての正解は？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "戦おう",
+    "translation": "戦おう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "正面突破だ",
+    "translation": "正面突破だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_2",
+    "original": "準備はいいな？",
+    "translation": "準備はいいな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "慎重かつ大胆に…\nそれが怪盗の流儀ってモンだぜ。",
+    "translation": "慎重かつ大胆に…\nそれが怪盗の流儀ってモンだぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "私たちなら、やれる！\n行くよ！",
+    "translation": "私たちなら、やれる！\n行くよ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

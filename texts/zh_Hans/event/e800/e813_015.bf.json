@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "きゃあああああああああ！！",
+    "translation": "呀啊啊啊啊啊啊啊啊啊！！",
+    "stage": 0,
+    "context": "说话人：誰かの叫び声\n\n机翻辅助：\n\n呀啊啊啊啊啊啊啊啊啊！！\n\n啊啊啊啊啊啊啊啊！！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "こ、この声は…！？",
+    "translation": "这、这个声音是……！？",
+    "stage": 0,
+    "context": "说话人：テオドア\n\n机翻辅助：\n\n这、这个声音是……！？\n\n这个，这个声音……！？\n\n这、这声音……！？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おい、行ってみようぜ！",
+    "translation": "喂，我们去看看吧！",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n喂，我们去看看吧！\n\n喂，去看看吧！"
+  },
+  {
+    "key": "speaker_誰かの叫び声",
+    "original": "誰かの叫び声",
+    "translation": "某人的叫声",
+    "stage": 0,
+    "context": "机翻辅助：\n\n某人的叫声\n\n谁的叫声"
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "西奥多",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "お！\nここ採取できるみたいだぜ！",
+    "translation": "哦！\n这里看起来可以采集！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n哦！\n这里好像可以采哦！\n\n哦！\n这里好像可以采集！\n\n您！\n这里好像可以采集！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おう！\nじゃあ、気をつけて探そうぜ！",
+    "translation": "哦！\n那小心点采集吧！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好！\n那就小心地找吧！\n\n哦！\n那么，小心寻找吧！\n\n喔！那么，小心寻找吧！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おっしゃ！\n根こそぎ取ってやるぜ！",
+    "translation": "哦！\n看我把这里挖个底朝天！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好！\n我要把它们全部拔光！\n\n你说！\n我会连根拔起的！\n\n喂！我要连根拔起！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "止めんのか？\nんじゃ、後で来ようぜ！",
+    "translation": "先停下来？\n好吧，之后再来把！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n不阻止吗？\n那我们晚点再来吧！\n\n停止了吗？\n那么，以后再来吧！\n\n你要阻止他吗？那我们一会儿再来吧！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うっし！\nこれで全部だな！",
+    "translation": "好了！\n就下完成了！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好！\n这样就全部采完了！\n\n可恶！\n这就是全部了！\n\n嗯！\n这就是全部！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おっし！",
+    "translation": "好！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好耶！\n\n喂！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いっただきー！",
+    "translation": "我开动喽——！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n开动！\n\n我走了！\n\n去了！"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "おっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦！\n\n噢！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "っぶねぇ～…\n採取はこんなもんか？",
+    "translation": "好险啊～……\n采集就先这样吗",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好险……\n采集就采到这里吧？\n\n是吧～……\n采集是这样的吗？\n\n采集是这样的吗？"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "やったな！",
+    "translation": "干得好！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太棒啦！\n\n太好了！\n\n太棒了！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "レアじゃん！",
+    "translation": "稀有物品啊！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好稀有！\n\n这不是稀有嘛！\n\n很稀有啊！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "お宝ゲット！",
+    "translation": "宝物到手！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n拿到宝物了！\n\n得到宝物！\n\n获得宝物！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "お！　近道じゃん！\nどうするよ？",
+    "translation": "哦！是近路啊！ \n怎么办？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n哦！有捷径耶！\n怎么办？\n\n哦！这不是近道吗！\n怎么办？\n\n您！这不是捷径嘛！\n怎么办？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "おっと、こっちは通れねえんだな。",
+    "translation": "哦呀，这边过不去啊。",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n哎呀，这边不能走耶。\n\n哎呀，这边过不去啊。\n\n啊，这条路没法走啊。"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "なぁ、おい…\nなんかここ、ヤバい気配しねぇ？",
+    "translation": "喂，我说……\n感觉这里是不是不太妙？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n喂，我说啊……\n这里好像有很不妙的气息耶。\n\n喂、喂……\n这里，感觉很糟糕吧？\n\n喂、喂……\n总觉得这里有点不对劲吧？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "よ、よし！\n気合い入れて行くぜ！",
+    "translation": "好、好的！\n加油上把！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n很……很好！\n加把劲上吧！\n\n好、好！\n鼓起干劲去吧！\n\n哟，好！\n加油去吧！"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "んだな。\n止めとくってのもアリだろ。",
+    "translation": "是啊。\n先停下感觉也行呢。",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n是啊。\n也可以选择不走这条路吧。\n\n是啊。\n阻止也是有可能的。\n\n是啊。也有阻止和制止的吧。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あっぶねー！\nめっちゃ強かったな！",
+    "translation": "好危险啊——！\n刚刚那个太厉害了吧！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好险！\n有够强的耶！\n\n啊啊啊！\n真是太强了！\n\n阿布奈！\n超级强啊！"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "なーんかシャドウの気配しねぇ？\nどうするよ？",
+    "translation": "是不是有暗隐的气息？\n怎么办？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好像没有暗影的气息耶？\n怎么办？\n\n有什么暗影的迹象吗？\n怎么办？\n\n怎么没有暗影的动静？\n怎么办？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "オッケー！\n調べてみようぜ！",
+    "translation": "OK！\n调查一下吧！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\nOK！\n来调查一下吧！\n\n好！\n调查一下吧！\n\nOK ！\n调查一下吧！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "お、止めとくのか？",
+    "translation": "哦，要停下来吗？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n要……要停在这吗？\n\n哦，要停下来吗？\n\n哦，你要阻止我吗？"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "おっし！\nこれで終わりじゃねぇか？",
+    "translation": "干得漂亮！\n这样就结束了吧？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n好！\n这样就结束了吧？\n\n喂！\n这样不就结束了吗？\n\n喂！\n这不就结束了吗？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "お、こっから映画館戻れんじゃん！\nどうするよ？",
+    "translation": "哦，这里可以回电影院啊！\n怎么办？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n哦，从这边回不了电影院耶！\n怎么办？\n\n喂，从这里不能回电影院了吧！\n怎么办？\n\n啊，这下可不能回电影院了！\n怎么办？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

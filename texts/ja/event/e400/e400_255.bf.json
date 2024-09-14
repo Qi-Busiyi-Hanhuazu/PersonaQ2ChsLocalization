@@ -1,0 +1,135 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "またこれか…\nこれも、ヒカリの記憶なのか？",
+    "translation": "またこれか…\nこれも、ヒカリの記憶なのか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "さっきと同じパターンだね。",
+    "translation": "さっきと同じパターンだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "映っていたのは、ミュージカルにもいた\n過去のひかりさんだ。",
+    "translation": "映っていたのは、ミュージカルにもいた\n過去のひかりさんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "でも、やっぱミュージカルとは違うよね。\n普通の生活の風景っていうか。",
+    "translation": "でも、やっぱミュージカルとは違うよね。\n普通の生活の風景っていうか。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "私の記憶…すごく大切な…",
+    "translation": "私の記憶…すごく大切な…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "でも、思い出せない…",
+    "translation": "でも、思い出せない…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ひかりちゃん…",
+    "translation": "ひかりちゃん…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "どうしてだろう？\n私の記憶なのに…思い出したいのに…",
+    "translation": "どうしてだろう？\n私の記憶なのに…思い出したいのに…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_5_0",
+    "original": "まだ、心の奥で…\n思い出すことを、拒絶しようとしてるの…",
+    "translation": "まだ、心の奥で…\n思い出すことを、拒絶しようとしてるの…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "無理はしなくていい",
+    "translation": "無理はしなくていい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "いつか思い出せる",
+    "translation": "いつか思い出せる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ありがとう…\n私、ちゃんと向き合うから…",
+    "translation": "ありがとう…\n私、ちゃんと向き合うから…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ああ、俺たちも傍にいる。行こう。",
+    "translation": "ああ、俺たちも傍にいる。行こう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

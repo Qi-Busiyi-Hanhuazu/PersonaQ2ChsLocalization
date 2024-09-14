@@ -1,0 +1,268 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "皆様、お疲れ様でございます。",
+    "translation": "皆様、お疲れ様でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "かつての強敵Ｆ．Ｏ．Ｅも、\n今の皆様の前では赤子同然。",
+    "translation": "かつての強敵Ｆ．Ｏ．Ｅも、\n今の皆様の前では赤子同然。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_2",
+    "original": "皆様のご成長ぶりに、ただただ\n驚くばかりの私でございました。",
+    "translation": "皆様のご成長ぶりに、ただただ\n驚くばかりの私でございました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "フン、褒めすぎだ。\n観ていてアクビが出たぞ。",
+    "translation": "フン、褒めすぎだ。\n観ていてアクビが出たぞ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "勝ちはしましたが、あの程度にモタモタと。\nずいぶん退屈な時間でした。",
+    "translation": "勝ちはしましたが、あの程度にモタモタと。\nずいぶん退屈な時間でした。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "退屈…はて？",
+    "translation": "退屈…はて？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "スクリーンに映る[P5姓]様たちに\nハラハラドキドキ、一喜一憂する姿…",
+    "translation": "スクリーンに映る[P5姓]様たちに\nハラハラドキドキ、一喜一憂する姿…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "あれは幻でしたでしょうか？",
+    "translation": "あれは幻でしたでしょうか？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ちちち、違うッ！",
+    "translation": "ちちち、違うッ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "あれは…囚人の更生の様子を\n監視していただけだ！",
+    "translation": "あれは…囚人の更生の様子を\n監視していただけだ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そうです、\nあくまで職務の一環です。",
+    "translation": "そうです、\nあくまで職務の一環です。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ふふ、[P5姓]くんのことが\n気になって仕方ないんだね。",
+    "translation": "ふふ、[P5姓]くんのことが\n気になって仕方ないんだね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ある意味、映画の主役だもんな。\n[P5姓]のファンってとこか。",
+    "translation": "ある意味、映画の主役だもんな。\n[P5姓]のファンってとこか。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "惚れるなよ",
+    "translation": "惚れるなよ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "サインあげようか",
+    "translation": "サインあげようか",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "……！",
+    "translation": "……！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "……！",
+    "translation": "……！",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "うう、う、自惚れるなッ！\n不敬だぞ！",
+    "translation": "うう、う、自惚れるなッ！\n不敬だぞ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "し、四六時中監視するのが\n職務であるだけのこと。",
+    "translation": "し、四六時中監視するのが\n職務であるだけのこと。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "囚人のことは全て把握するのが、\n我らの使命であって…",
+    "translation": "囚人のことは全て把握するのが、\n我らの使命であって…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "にひひ、テンプレすぎて\n見てるこっちが恥ずかしくなるな。",
+    "translation": "にひひ、テンプレすぎて\n見てるこっちが恥ずかしくなるな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "サイン…？　貴様の署名か？",
+    "translation": "サイン…？　貴様の署名か？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "フン、人間のすることはよくわからん。\nそんなくだらないもの…",
+    "translation": "フン、人間のすることはよくわからん。\nそんなくだらないもの…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_014_2",
+    "original": "くだらないもの…",
+    "translation": "くだらないもの…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "あとでリストの隅にでも書かせます。",
+    "translation": "あとでリストの隅にでも書かせます。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "あっ、ズルいぞお前！",
+    "translation": "あっ、ズルいぞお前！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "にひひ、大人気だな。\nファンは大事にしてやれよ？",
+    "translation": "にひひ、大人気だな。\nファンは大事にしてやれよ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "それにしましても、さすがは\n『心の怪盗団』の皆様。",
+    "translation": "それにしましても、さすがは\n『心の怪盗団』の皆様。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "観る者の期待に応え、心を奪うのは\nお手の物といったところでしょうか。",
+    "translation": "観る者の期待に応え、心を奪うのは\nお手の物といったところでしょうか。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_018_2",
+    "original": "兎にも角にも、お見事でございました。",
+    "translation": "兎にも角にも、お見事でございました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_018_3",
+    "original": "報酬のご用意がありますので、\nお受け取り下さい。",
+    "translation": "報酬のご用意がありますので、\nお受け取り下さい。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "key": "market_sel_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "market_sel_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSHOP_BUY_MSG2_0",
+    "original": "＞[占位A 02]個で[占位A 03]円になります。\n　購入しますか？",
+    "translation": "＞[占位A 02]個で[占位A 03]円になります。\n　購入しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "market_conf_0",
+    "original": "＞これで売りにだしますが宜しいですか？",
+    "translation": "＞これで売りにだしますが宜しいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_　",
+    "original": "　",
+    "translation": "　",
+    "stage": 1,
+    "context": ""
+  }
+]

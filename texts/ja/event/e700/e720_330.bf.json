@@ -1,0 +1,142 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "やっべえぇぇ、アイツがいるっ！\nは、早く逃げなきゃ…！",
+    "translation": "やっべえぇぇ、アイツがいるっ！\nは、早く逃げなきゃ…！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ちょ、なにアレ！？　デカっ！",
+    "translation": "ちょ、なにアレ！？　デカっ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "待って待って、あんなのに襲われたら\nひとたまりもないじゃん！",
+    "translation": "待って待って、あんなのに襲われたら\nひとたまりもないじゃん！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "お、おお落ち着け！\nまだ距離があるから大丈夫だ。",
+    "translation": "お、おお落ち着け！\nまだ距離があるから大丈夫だ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "それにアイツ、体の割に手足が細いだろ？\nきっとスピードはない、よく観察しとけ。",
+    "translation": "それにアイツ、体の割に手足が細いだろ？\nきっとスピードはない、よく観察しとけ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "な、なるほどクマ…",
+    "translation": "な、なるほどクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "いざとなったら死んだフリって思ったけど、\n逃げ切れる可能性もあるクマね？",
+    "translation": "いざとなったら死んだフリって思ったけど、\n逃げ切れる可能性もあるクマね？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おお、さっすが。\n動物のことは、同じ動物に聞けってか。",
+    "translation": "おお、さっすが。\n動物のことは、同じ動物に聞けってか。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うるせーよっ！\nそれよりボケっとすんな、食われちまうぞ？",
+    "translation": "うるせーよっ！\nそれよりボケっとすんな、食われちまうぞ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あんな凶暴そうなＦ．Ｏ．Ｅに捕まったら、\nあっという間にエサにされるな。",
+    "translation": "あんな凶暴そうなＦ．Ｏ．Ｅに捕まったら、\nあっという間にエサにされるな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "ここは、いつも以上に気をつけて\n進まないと危険だ。",
+    "translation": "ここは、いつも以上に気をつけて\n進まないと危険だ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "でも、ヘタに焦るのも良くないね。\nこういう時こそ冷静な判断力が必要だ。",
+    "translation": "でも、ヘタに焦るのも良くないね。\nこういう時こそ冷静な判断力が必要だ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "ジョーカー、[颜色 03]追いつかれないように\n回り込みながら進もう[颜色 01]か。",
+    "translation": "ジョーカー、[颜色 03]追いつかれないように\n回り込みながら進もう[颜色 01]か。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_ヨウスケサウルス",
+    "original": "ヨウスケサウルス",
+    "translation": "ヨウスケサウルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

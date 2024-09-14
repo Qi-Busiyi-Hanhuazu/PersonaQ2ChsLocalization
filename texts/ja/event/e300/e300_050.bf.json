@@ -1,0 +1,184 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "伊織、そっちに行ったぞ！\n気をつけろ！",
+    "translation": "伊織、そっちに行ったぞ！\n気をつけろ！",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "へヘイヘーイ、こんなんでやられる\nオレっちじゃないぜ～？",
+    "translation": "へヘイヘーイ、こんなんでやられる\nオレっちじゃないぜ～？",
+    "stage": 1,
+    "context": "キャップの少年"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "おい、ふざけてる場合じゃねえぞ。\nコイツら、どんどん湧いてきやがる！",
+    "translation": "おい、ふざけてる場合じゃねえぞ。\nコイツら、どんどん湧いてきやがる！",
+    "stage": 1,
+    "context": "ニット帽の少年"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "もー、しつこいなぁ！\nキリがないんだけど！？",
+    "translation": "もー、しつこいなぁ！\nキリがないんだけど！？",
+    "stage": 1,
+    "context": "勝ち気そうな少女"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…だ、ダメです！\n増援がまた来ます！",
+    "translation": "…だ、ダメです！\n増援がまた来ます！",
+    "stage": 1,
+    "context": "大人しそうな少女"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "異分子ハイジョ。\nいれぎゅらーハイジョ！",
+    "translation": "異分子ハイジョ。\nいれぎゅらーハイジョ！",
+    "stage": 1,
+    "context": "量産ロボ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "チッ…埒があかんぞ！",
+    "translation": "チッ…埒があかんぞ！",
+    "stage": 1,
+    "context": "好戦的な少年"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "異分子ハイジョ。\nいれぎゅらーハイジョ！",
+    "translation": "異分子ハイジョ。\nいれぎゅらーハイジョ！",
+    "stage": 1,
+    "context": "量産ロボ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ハァ、ハァッ…僕だって…\nこんな所で負けられませんっ！",
+    "translation": "ハァ、ハァッ…僕だって…\nこんな所で負けられませんっ！",
+    "stage": 1,
+    "context": "大人びた小学生"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "天田くん、危険です！\n体力が…！",
+    "translation": "天田くん、危険です！\n体力が…！",
+    "stage": 1,
+    "context": "大人しそうな少女"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "くっ…さすがにマズいな。\n劣勢になってきたか…",
+    "translation": "くっ…さすがにマズいな。\n劣勢になってきたか…",
+    "stage": 1,
+    "context": "好戦的な少年"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ワンワンッ！",
+    "translation": "ワンワンッ！",
+    "stage": 1,
+    "context": "白い犬"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "みんなっ！",
+    "translation": "みんなっ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "キミたちは…！？",
+    "translation": "キミたちは…！？",
+    "stage": 1,
+    "context": "聡明そうな少女"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "感動の再会は後だ。\n俺たちも、すぐに加勢しよう！",
+    "translation": "感動の再会は後だ。\n俺たちも、すぐに加勢しよう！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_聡明そうな少女",
+    "original": "聡明そうな少女",
+    "translation": "聡明そうな少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_キャップの少年",
+    "original": "キャップの少年",
+    "translation": "キャップの少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ニット帽の少年",
+    "original": "ニット帽の少年",
+    "translation": "ニット帽の少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_勝ち気そうな少女",
+    "original": "勝ち気そうな少女",
+    "translation": "勝ち気そうな少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_大人しそうな少女",
+    "original": "大人しそうな少女",
+    "translation": "大人しそうな少女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_量産ロボ",
+    "original": "量産ロボ",
+    "translation": "量産ロボ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_好戦的な少年",
+    "original": "好戦的な少年",
+    "translation": "好戦的な少年",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_大人びた小学生",
+    "original": "大人びた小学生",
+    "translation": "大人びた小学生",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白い犬",
+    "original": "白い犬",
+    "translation": "白い犬",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

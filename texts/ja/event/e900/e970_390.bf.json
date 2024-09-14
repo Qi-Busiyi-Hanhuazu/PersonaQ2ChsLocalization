@@ -1,0 +1,170 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "機械が動かない…\nこれじゃあ改造手術が受けられないよ…",
+    "translation": "機械が動かない…\nこれじゃあ改造手術が受けられないよ…",
+    "stage": 1,
+    "context": "大柄な男性"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "良かったじゃねえか。\n人体実験から解放されたんだぜ？",
+    "translation": "良かったじゃねえか。\n人体実験から解放されたんだぜ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "良くないよ！\nこれじゃあ、ヒーローになれない！",
+    "translation": "良くないよ！\nこれじゃあ、ヒーローになれない！",
+    "stage": 1,
+    "context": "小柄な男性"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "無事でいられるかわかんねぇのに、\n改造を受け続ける必要なんてあんのか？",
+    "translation": "無事でいられるかわかんねぇのに、\n改造を受け続ける必要なんてあんのか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "もし、死んじまったら…\nヒーローになるどころの\n話じゃねえんだぞ！",
+    "translation": "もし、死んじまったら…\nヒーローになるどころの\n話じゃねえんだぞ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "ヒーローになる方法は他にもある",
+    "translation": "ヒーローになる方法は他にもある",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "改造にこだわらなくてもいい",
+    "translation": "改造にこだわらなくてもいい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_2",
+    "original": "身体は大事にしたほうがいい",
+    "translation": "身体は大事にしたほうがいい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ああ、その通りだな。",
+    "translation": "ああ、その通りだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "なぁ、お前ら。\n一回考え直してみねえか？",
+    "translation": "なぁ、お前ら。\n一回考え直してみねえか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "でも、自分からここに来たのに、\nやっぱり嫌だ…なんて言えないよ。",
+    "translation": "でも、自分からここに来たのに、\nやっぱり嫌だ…なんて言えないよ。",
+    "stage": 1,
+    "context": "大柄な男性"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "…俺もかつて、自分から望んだことは、\n何もかも相手に従わなければ\nいけないと思っていた。",
+    "translation": "…俺もかつて、自分から望んだことは、\n何もかも相手に従わなければ\nいけないと思っていた。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "けれど、みんなと出会って、\nそれではいけないと気づかされた。",
+    "translation": "けれど、みんなと出会って、\nそれではいけないと気づかされた。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_2",
+    "original": "自分から望んだことでも…\n間違っていると思うことは、\n勇気を持って伝えるべきだと。",
+    "translation": "自分から望んだことでも…\n間違っていると思うことは、\n勇気を持って伝えるべきだと。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "きみたちは…\n強い心を持っているんだね。",
+    "translation": "きみたちは…\n強い心を持っているんだね。",
+    "stage": 1,
+    "context": "大柄な男性"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "きっかけ次第で、\n誰にでも持つことができるさ。",
+    "translation": "きっかけ次第で、\n誰にでも持つことができるさ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "そっか…\nああ、そうだよな…！",
+    "translation": "そっか…\nああ、そうだよな…！",
+    "stage": 1,
+    "context": "大柄な男性"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "俺たち、\n今日で改造施設を出て行くよ。",
+    "translation": "俺たち、\n今日で改造施設を出て行くよ。",
+    "stage": 1,
+    "context": "小柄な男性"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "きみたちのような、\n強い心を持つヒーローを目指して、\n頑張ってみるよ！",
+    "translation": "きみたちのような、\n強い心を持つヒーローを目指して、\n頑張ってみるよ！",
+    "stage": 1,
+    "context": "小柄な男性"
+  },
+  {
+    "key": "speaker_大柄な男性",
+    "original": "大柄な男性",
+    "translation": "大柄な男性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_小柄な男性",
+    "original": "小柄な男性",
+    "translation": "小柄な男性",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "これ、なんだろ？",
+    "translation": "これ、なんだろ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うーん…ここからだと反応が上手く拾えん。\nよって、わからん！　謎だ！",
+    "translation": "うーん…ここからだと反応が上手く拾えん。\nよって、わからん！　謎だ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "つか、こういう時は動物の鼻だろ。\nおいモナ、ニオイで分かんねーか？",
+    "translation": "つか、こういう時は動物の鼻だろ。\nおいモナ、ニオイで分かんねーか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ワガハイはニーンーゲーンーだー！\n警察犬じゃねーっての！",
+    "translation": "ワガハイはニーンーゲーンーだー！\n警察犬じゃねーっての！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "…けど、キレーに輝いてるな。\nまるでオタカラみたいだぜ。",
+    "translation": "…けど、キレーに輝いてるな。\nまるでオタカラみたいだぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "オタカラか…それなら便宜上、この光を\n『オタカラスポット』と呼ばない？",
+    "translation": "オタカラか…それなら便宜上、この光を\n『オタカラスポット』と呼ばない？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "入手した物も、もしかしたら良い値で\n売れるかもしれないしね。",
+    "translation": "入手した物も、もしかしたら良い値で\n売れるかもしれないしね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いいんじゃねーの？\n俺らにとっちゃわかりやすいし。",
+    "translation": "いいんじゃねーの？\n俺らにとっちゃわかりやすいし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あの輝きは、採取すると\n消えてしまうのか…",
+    "translation": "あの輝きは、採取すると\n消えてしまうのか…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "だが、その儚さもまたいいものだ。",
+    "translation": "だが、その儚さもまたいいものだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "とにかく、輝いてる光を見つけたら\nチェックだね。よろしく、ジョーカー！",
+    "translation": "とにかく、輝いてる光を見つけたら\nチェックだね。よろしく、ジョーカー！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,723 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "リボンちゃん…リボンちゃん！\nしっかりして！",
+    "translation": "リボンちゃん…リボンちゃん！\nしっかりして！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "どうしたんだ！？",
+    "translation": "どうしたんだ！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "リボンちゃんが動いてないの！\nもしかして、さっきの攻撃で…",
+    "translation": "リボンちゃんが動いてないの！\nもしかして、さっきの攻撃で…",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ナビ、機体に異常がないか\n調べてもらえませんか！？",
+    "translation": "ナビ、機体に異常がないか\n調べてもらえませんか！？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ああ、任せろ。わたしが見る！",
+    "translation": "ああ、任せろ。わたしが見る！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ええと…ここが背面カバーで、\nここはタッチセンサー…",
+    "translation": "ええと…ここが背面カバーで、\nここはタッチセンサー…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "…おっ、ここか！？",
+    "translation": "…おっ、ここか！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ワタシ…ワタシは？",
+    "translation": "ワタシ…ワタシは？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "う、動いたあぁぁ！",
+    "translation": "う、動いたあぁぁ！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "攻撃の衝撃で、スリープモードの\nスイッチが入ってたみたいだな。",
+    "translation": "攻撃の衝撃で、スリープモードの\nスイッチが入ってたみたいだな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "復旧状態を確認…\n自己スキャン開始…",
+    "translation": "復旧状態を確認…\n自己スキャン開始…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "動作状況、思考プログラム…\nイズれも正常…オールグリーンデス。",
+    "translation": "動作状況、思考プログラム…\nイズれも正常…オールグリーンデス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "よかった…\nリボンちゃん、無事だったんだね！",
+    "translation": "よかった…\nリボンちゃん、無事だったんだね！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "うん、安心した…本当に…",
+    "translation": "うん、安心した…本当に…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "[P3P名]さん…泣イテマス。\n悲シイのデスカ？",
+    "translation": "[P3P名]さん…泣イテマス。\n悲シイのデスカ？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "えっ…？",
+    "translation": "えっ…？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "データによれバ、人は『悲シイ』という\n感情の時、涙という物質ヲ流すとありマス。",
+    "translation": "データによれバ、人は『悲シイ』という\n感情の時、涙という物質ヲ流すとありマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "ダカラ、『悲シイ』でスカ？",
+    "translation": "ダカラ、『悲シイ』でスカ？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "そこは難しいところだね。\n人間は、悲しくても嬉しくても泣くから。",
+    "translation": "そこは難しいところだね。\n人間は、悲しくても嬉しくても泣くから。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "クマもねー、ゴハンが美味しかったり、\nみんなと楽しい時は、泣きそうになるクマ。",
+    "translation": "クマもねー、ゴハンが美味しかったり、\nみんなと楽しい時は、泣きそうになるクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "そうだな…安心した時や、\n感動した時だって泣くことはある。",
+    "translation": "そうだな…安心した時や、\n感動した時だって泣くことはある。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "悲シイ以外もデスカ…？\n嬉シイ…？　安心、感動シタ…？？",
+    "translation": "悲シイ以外もデスカ…？\n嬉シイ…？　安心、感動シタ…？？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "色んな感情がごちゃ混ぜになって、\n気持ちが昂ぶる、って時かな。",
+    "translation": "色んな感情がごちゃ混ぜになって、\n気持ちが昂ぶる、って時かな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "色ンナ感情…あの時のワタシも、\nそんな状態だったのデショウカ？",
+    "translation": "色ンナ感情…あの時のワタシも、\nそんな状態だったのデショウカ？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "あの時とは？",
+    "translation": "あの時とは？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "指導者は、ワタシをえらーと呼ビマシタ。\n確かにワタシはロボットとして間違ってる…",
+    "translation": "指導者は、ワタシをえらーと呼ビマシタ。\n確かにワタシはロボットとして間違ってる…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "自分でもワカッテいるのニ、思考が渋滞シテ\n段々、胸が熱クナッテ…あの感情は一体？",
+    "translation": "自分でもワカッテいるのニ、思考が渋滞シテ\n段々、胸が熱クナッテ…あの感情は一体？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "SEL_024_0",
+    "original": "怒りだ",
+    "translation": "怒りだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_1",
+    "original": "悔しさだ",
+    "translation": "悔しさだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_024_2",
+    "original": "反逆の心だ",
+    "translation": "反逆の心だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "…だな。自分が自分でいることを\n否定されりゃ、怒るのは当然だ。",
+    "translation": "…だな。自分が自分でいることを\n否定されりゃ、怒るのは当然だ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "なんかそれ、分かんぜ…",
+    "translation": "なんかそれ、分かんぜ…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_026_1",
+    "original": "テメェのこと、他人に一方的に\n決めつけられるのって、腹立つしよ。",
+    "translation": "テメェのこと、他人に一方的に\n決めつけられるのって、腹立つしよ。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "だな。アイツはリボンの心を否定した。\n許せなくて当たり前だ。",
+    "translation": "だな。アイツはリボンの心を否定した。\n許せなくて当たり前だ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "なるほど…\n感情とは複雑で難シイデス。",
+    "translation": "なるほど…\n感情とは複雑で難シイデス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "まぁ、これだけは考えるより\n感じるしかないだろうな。",
+    "translation": "まぁ、これだけは考えるより\n感じるしかないだろうな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "でもリボンちゃんなら、\nきっと分かるよ。",
+    "translation": "でもリボンちゃんなら、\nきっと分かるよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ハイ。分かってミタイデス。",
+    "translation": "ハイ。分かってミタイデス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "パトロールに当たっている諸君！",
+    "translation": "パトロールに当たっている諸君！",
+    "stage": 1,
+    "context": "ロボットたちの指導者"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "アイツ…指導者！？",
+    "translation": "アイツ…指導者！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "施設内で、例のイレギュラーたちが暴走中。\n至急、警戒を強化しなさい。",
+    "translation": "施設内で、例のイレギュラーたちが暴走中。\n至急、警戒を強化しなさい。",
+    "stage": 1,
+    "context": "ロボットたちの指導者"
+  },
+  {
+    "key": "MSG_034_1",
+    "original": "見つけ次第、対象は適切に処置すること。\n怠慢はショーチせん！",
+    "translation": "見つけ次第、対象は適切に処置すること。\n怠慢はショーチせん！",
+    "stage": 1,
+    "context": "ロボットたちの指導者"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "どうなってんだ？\nあいつはもう倒したはずだろ！？",
+    "translation": "どうなってんだ？\nあいつはもう倒したはずだろ！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "それとも、まさかアイツまで\n量産されてんのかよ！？",
+    "translation": "それとも、まさかアイツまで\n量産されてんのかよ！？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "ひょっとすると、マザーコンピュータが\nあるのかもしれませんね。",
+    "translation": "ひょっとすると、マザーコンピュータが\nあるのかもしれませんね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "マザーコンピュータ？",
+    "translation": "マザーコンピュータ？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "この世界を支配する大元のコンピュータ。\nＳＦ映画の定番だね。",
+    "translation": "この世界を支配する大元のコンピュータ。\nＳＦ映画の定番だね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_038_1",
+    "original": "僕たちが倒した指導者は、あくまで\nその一部にすぎないってこと。",
+    "translation": "僕たちが倒した指導者は、あくまで\nその一部にすぎないってこと。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "つまり、元凶を断たない限り、\nこの世界を正すことは出来ない、か…",
+    "translation": "つまり、元凶を断たない限り、\nこの世界を正すことは出来ない、か…",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "だな。このままじゃ、リボンも\n他のロボットもまた苦しめられる。",
+    "translation": "だな。このままじゃ、リボンも\n他のロボットもまた苦しめられる。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "なら、俺たちのやるべきことは一つだ。",
+    "translation": "なら、俺たちのやるべきことは一つだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_041_1",
+    "original": "マザーコンピュータを見つけて叩く。\n…それでいいか？",
+    "translation": "マザーコンピュータを見つけて叩く。\n…それでいいか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_042_0",
+    "original": "言おうと思ってた",
+    "translation": "言おうと思ってた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_042_1",
+    "original": "決着をつけよう",
+    "translation": "決着をつけよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "全員の意見は一致してる。\n迷うことはねえぜ！",
+    "translation": "全員の意見は一致してる。\n迷うことはねえぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "ああ、大元をぶっ叩けばいい。\n遠慮はいらなそうだ。",
+    "translation": "ああ、大元をぶっ叩けばいい。\n遠慮はいらなそうだ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "やりマショウ！",
+    "translation": "やりマショウ！",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "おお、リボンちゃんもやる気か？",
+    "translation": "おお、リボンちゃんもやる気か？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "ハイ。胸のあたりガ、\nまた熱くなってイマス。",
+    "translation": "ハイ。胸のあたりガ、\nまた熱くなってイマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "はは、リボンちゃんは戦闘機能ねーんだろ？\n叩くのは俺たちに任せてくれよな。",
+    "translation": "はは、リボンちゃんは戦闘機能ねーんだろ？\n叩くのは俺たちに任せてくれよな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "その事なのデスガ…\nナビさん、チョット…",
+    "translation": "その事なのデスガ…\nナビさん、チョット…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "ん、どした？",
+    "translation": "ん、どした？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "な、なんだと？",
+    "translation": "な、なんだと？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "ハイ…スキャン中に発見シマシタ。\nコレを解除すれバ…ドウデショウか？",
+    "translation": "ハイ…スキャン中に発見シマシタ。\nコレを解除すれバ…ドウデショウか？",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "まあ、プログラムの書き換え程度なら\nできるが…でもリボン、本気か？",
+    "translation": "まあ、プログラムの書き換え程度なら\nできるが…でもリボン、本気か？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "ハイ…ワタシの意思、デス。",
+    "translation": "ハイ…ワタシの意思、デス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "リボン…",
+    "translation": "リボン…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "おい、二人とも。そろそろ行くぞ。",
+    "translation": "おい、二人とも。そろそろ行くぞ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "あ…ちょ、ちょっとタンマ！",
+    "translation": "あ…ちょ、ちょっとタンマ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_057_1",
+    "original": "本当に損傷がないか、念のため\nリボンのプログラムをチェックしたい。",
+    "translation": "本当に損傷がないか、念のため\nリボンのプログラムをチェックしたい。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "じゃあ、二人の準備が済むまで\n待ってましょうか。",
+    "translation": "じゃあ、二人の準備が済むまで\n待ってましょうか。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "すまん、すぐ終わる。\n待っててくれ！",
+    "translation": "すまん、すぐ終わる。\n待っててくれ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "ナビさん…\nよろしくお願イしマス。",
+    "translation": "ナビさん…\nよろしくお願イしマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "そういえば、指導者から『カードキー』を\n入手したが…あれはどこの鍵だ？",
+    "translation": "そういえば、指導者から『カードキー』を\n入手したが…あれはどこの鍵だ？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_062_0",
+    "original": "さっき、ロックされた扉があったな。\nそこで使えるんじゃないか？",
+    "translation": "さっき、ロックされた扉があったな。\nそこで使えるんじゃないか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_063_0",
+    "original": "その可能性はあるな。\n扉が開けば、先へ進めるかもしれん。",
+    "translation": "その可能性はあるな。\n扉が開けば、先へ進めるかもしれん。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_064_0",
+    "original": "分からんが、どこかにこの鍵を使う\n場所があると考えていいんじゃないか？",
+    "translation": "分からんが、どこかにこの鍵を使う\n場所があると考えていいんじゃないか？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_065_0",
+    "original": "ああ、そうだな。もしかしたら、\n新しい道が拓けるかもしれない。",
+    "translation": "ああ、そうだな。もしかしたら、\n新しい道が拓けるかもしれない。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_066_0",
+    "original": "これでよし…と。",
+    "translation": "これでよし…と。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_066_5_0",
+    "original": "みんな、待たせたな。\nいつでも出発できるぞ！",
+    "translation": "みんな、待たせたな。\nいつでも出発できるぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ロボットたちの指導者",
+    "original": "ロボットたちの指導者",
+    "translation": "ロボットたちの指導者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

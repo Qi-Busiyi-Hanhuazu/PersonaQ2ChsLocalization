@@ -1,0 +1,191 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "市民の諸君！",
+    "translation": "各位市民！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n各位市民！"
+  },
+  {
+    "key": "MSG_000_1_0",
+    "original": "待たせたな！",
+    "translation": "让你们久等了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n让你们久等了！\n\n让你久等了！"
+  },
+  {
+    "key": "MSG_000_2_0",
+    "original": "賊の対応に追われ、遅れてしまったが…",
+    "translation": "虽然因为忙着应付贼人而迟到了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n虽然因为忙着应付盗贼而迟到了……\n\n被贼的对应追赶，迟到了……"
+  },
+  {
+    "key": "MSG_000_3_0",
+    "original": "お仕置きショーの始まりだ！",
+    "translation": "但惩罚秀现在开始！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n但惩罚秀现在开始！\n\n惩罚秀开始了！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そんな…",
+    "translation": "怎么会……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n怎么会……\n\n那样的……"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "まだ、諦めないわ…",
+    "translation": "还不能放弃……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我不会放弃的……\n\n还没放弃呢……\n\n我还不会放弃的……"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "さぁ、カウントダウンだ！",
+    "translation": "来吧，倒数计时！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n来吧，倒数计时！\n\n来吧，倒计时！\n\n来，倒计时！"
+  },
+  {
+    "key": "MSG_003_1_0",
+    "original": "平和を乱す者は、こうやって私が\n制裁するしかない！！",
+    "translation": "扰乱和平的人，就该像这样\n接受制裁！！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n扰乱和平的人，就该像这样\n接受制裁！！\n\n破坏和平的人，只能这样由我来制裁！！\n\n\n扰乱和平的人，只有这样由我来制裁！！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "５！",
+    "translation": "5！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n5！\n\n5 ！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "４！",
+    "translation": "4！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n4！\n\n4 ！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "まずいわ…",
+    "translation": "糟糕……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n糟糕……\n\n不好吃啊……\n\n糟了……"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "もう、時間がない…",
+    "translation": "已经没时间了……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n已经没时间了……\n\n已经没有时间了……"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "３…",
+    "translation": "3……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n3……"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ん！？　なにごとだ！？",
+    "translation": "嗯！？怎么回事！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯！？怎么回事！？\n\n嗯！？什么事！？\n\n！？什么事！？"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "停電か？",
+    "translation": "停电吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n停电吗？\n\n停电了吗？"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "演出？",
+    "translation": "还是演出效果？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n还是演出效果？\n\n演出？"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "予備電源をつけろ！　早くしろ！",
+    "translation": "快打开预备电源！快点！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n快打开预备电源！快点！\n\n打开备用电源！快点！"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "なっ！？",
+    "translation": "什……！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n什……！？\n\n啊！？\n\n哼！？"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "カモシティの秩序を乱す輩どもめ。\nわざわざ成敗されに来たか！",
+    "translation": "扰乱鸭志市秩序的家伙们。\n是特地来接受制裁的吗！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n扰乱鸭志市秩序的家伙们。\n特地来接受制裁吗！\n\n扰乱鸭志市秩序的家伙们。\n是特意来被打败的吗！\n\n这些家伙扰乱鸭志市的秩序。你是特意来决定成败的吗！"
+  },
+  {
+    "key": "MSG_016_1_0",
+    "original": "だが、我が正義は無敵なのだ！",
+    "translation": "但是，我的正义是无敌的！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不过，我的正义是无敌的！\n\n但是，我的正义是无敌的！"
+  },
+  {
+    "key": "MSG_016_2_0",
+    "original": "ＨＡＨＡＨＡＨＡ！",
+    "translation": "HAHAHAHA！",
+    "stage": 0,
+    "context": "机翻辅助：\n\nHAHAHAHA！\n\nHAHAHAHA ！"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "カモシダーマン様！　背中に紙が…！",
+    "translation": "鸭志田超人！您的背上有纸……！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n鸭志田超人！您的背上……！\n\n鸭志田超人大人！背上有纸……！\n\n鸭志田超人先生！背上有纸……！"
+  },
+  {
+    "key": "MSG_017_1_0",
+    "original": "『予告状』と書いてあります！",
+    "translation": "上面写着“预告信”！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n上面写着“预告信”！\n\n上面写着“预告书”！"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "予告状！？",
+    "translation": "预告信！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n预告信！？\n\n预告片！？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "『カモシダーマン像は頂戴する』\n…だと！？",
+    "translation": "“鸭志田超人像就由我收下了。”\n……什么！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n“鸭志田超人像就由我收下了。”\n……什么！\n\n“鸭志田超人像顶上”\n……是这样的！？\n\n“鸭志田超人像”……就是这样！？"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "なっ…！",
+    "translation": "什……！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n什……！\n\n啊……！\n\n成……！"
+  },
+  {
+    "key": "MSG_020_1_0",
+    "original": "なにぃぃぃぃ！？",
+    "translation": "什么————！？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n什么————！？\n\n什么啊！？\n\n妮蒂蒂！？"
+  }
+]

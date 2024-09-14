@@ -1,0 +1,345 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おや、これは皆様。\nごきげんいかがでしょうか。",
+    "translation": "おや、これは皆様。\nごきげんいかがでしょうか。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "…曲者！？",
+    "translation": "…曲者！？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "正気と思えぬ面妖な姿…\nそこへ直れ、叩き斬ってくれる！",
+    "translation": "正気と思えぬ面妖な姿…\nそこへ直れ、叩き斬ってくれる！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あ、姉上落ち着いて。\n私です、テオドアです。",
+    "translation": "あ、姉上落ち着いて。\n私です、テオドアです。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "おや…？",
+    "translation": "おや…？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "こいつはうっかり早とちり。\nよく見れば、愛しき我が弟。",
+    "translation": "こいつはうっかり早とちり。\nよく見れば、愛しき我が弟。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "テオ？　どうしてここに？",
+    "translation": "テオ？　どうしてここに？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "はい、実は…姉上と皆様に\nお願いがあってこちらへ参りました。",
+    "translation": "はい、実は…姉上と皆様に\nお願いがあってこちらへ参りました。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "お願い？",
+    "translation": "お願い？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "なにか問題が？",
+    "translation": "なにか問題が？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いえ、もし可能ならばでよいのですが…",
+    "translation": "いえ、もし可能ならばでよいのですが…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "私、ぜひこの手に取って\n見てみたい物がございまして。",
+    "translation": "私、ぜひこの手に取って\n見てみたい物がございまして。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_007_2",
+    "original": "その名も、『次代の機構』！",
+    "translation": "その名も、『次代の機構』！",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "次代の機構…？",
+    "translation": "次代の機構…？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "はい、皆様が奮闘なさいました\n映画『ジュネシック・ランド』…",
+    "translation": "はい、皆様が奮闘なさいました\n映画『ジュネシック・ランド』…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "そこでは、まだ見ぬ未来の技術が使われた\n多くの物が放置されているとか。",
+    "translation": "そこでは、まだ見ぬ未来の技術が使われた\n多くの物が放置されているとか。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "そういえば、\nあれも未来が舞台だったわね。",
+    "translation": "そういえば、\nあれも未来が舞台だったわね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "恐竜を復活させたのもそうだし、\nいろいろな仕掛けがあったものね。",
+    "translation": "恐竜を復活させたのもそうだし、\nいろいろな仕掛けがあったものね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "でもよ、未来っつーなら\n『Ａ．Ⅰ．Ｇ．Ⅰ．Ｓ』じゃねーの？",
+    "translation": "でもよ、未来っつーなら\n『Ａ．Ⅰ．Ｇ．Ⅰ．Ｓ』じゃねーの？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "あそこも機械だらけじゃん。\nてか、あっちの方がスゴくね？",
+    "translation": "あそこも機械だらけじゃん。\nてか、あっちの方がスゴくね？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ええっと、それについては…",
+    "translation": "ええっと、それについては…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "『ジュネシック・ランド』の技術と\n『Ａ．Ⅰ．Ｇ．Ⅰ．Ｓ』では少し違うんです。",
+    "translation": "『ジュネシック・ランド』の技術と\n『Ａ．Ⅰ．Ｇ．Ⅰ．Ｓ』では少し違うんです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "『Ａ．Ⅰ．Ｇ．Ⅰ．Ｓ』は空想が主な\n架空の物理法則を元に作られていたりして…",
+    "translation": "『Ａ．Ⅰ．Ｇ．Ⅰ．Ｓ』は空想が主な\n架空の物理法則を元に作られていたりして…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "そうなんです、わかりますか！",
+    "translation": "そうなんです、わかりますか！",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "対して『ジュネシック・ランド』は\nあくまで現実をベースに技術を描いています。",
+    "translation": "対して『ジュネシック・ランド』は\nあくまで現実をベースに技術を描いています。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_014_2",
+    "original": "ですから、同じ機械といえど\n全く系統が異なり、全く別の存在だといえる。",
+    "translation": "ですから、同じ機械といえど\n全く系統が異なり、全く別の存在だといえる。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "お、おお？\nブツリの何が何だって？",
+    "translation": "お、おお？\nブツリの何が何だって？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "うーむ。\n一般人ガン無視のオタトーク炸裂してるな。",
+    "translation": "うーむ。\n一般人ガン無視のオタトーク炸裂してるな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ああ、お二人はお詳しいのですね。\nこれは頼もしい。",
+    "translation": "ああ、お二人はお詳しいのですね。\nこれは頼もしい。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "[P5姓]さん、『次代の機構』\n探しに行ってみませんか？",
+    "translation": "[P5姓]さん、『次代の機構』\n探しに行ってみませんか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_019_0",
+    "original": "わかった",
+    "translation": "わかった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_019_1",
+    "original": "仕方ないな",
+    "translation": "仕方ないな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "これは恐れ入ります、[P5姓]様。",
+    "translation": "これは恐れ入ります、[P5姓]様。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "その折には、『特別上映』という形なら\n報酬もお渡しできて良いかと思います。",
+    "translation": "その折には、『特別上映』という形なら\n報酬もお渡しできて良いかと思います。",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_020_2",
+    "original": "そこで姉上、そのようなチケットの\n手配をお願いしたく…",
+    "translation": "そこで姉上、そのようなチケットの\n手配をお願いしたく…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "…姉上？",
+    "translation": "…姉上？",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ややっ、妙なかぶりものの\n妖しげな輩がいつの間に…！？",
+    "translation": "ややっ、妙なかぶりものの\n妖しげな輩がいつの間に…！？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ハァ…",
+    "translation": "ハァ…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "特別上映『失われたテクノロジー？』が\nチケットカウンターに追加されました。",
+    "translation": "特別上映『失われたテクノロジー？』が\nチケットカウンターに追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

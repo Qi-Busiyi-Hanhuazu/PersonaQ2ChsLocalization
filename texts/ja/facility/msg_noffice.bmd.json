@@ -1,0 +1,282 @@
+[
+  {
+    "key": "noffice_yesno_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "noffice_yesno_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "noffice_yesno_accept_che_0",
+    "original": "発券する",
+    "translation": "発券する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "noffice_yesno_accept_che_1",
+    "original": "やめておく",
+    "translation": "やめておく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "noffice_yesno_accept_ove_0",
+    "original": "発券する",
+    "translation": "発券する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "noffice_yesno_accept_ove_1",
+    "original": "やめておく",
+    "translation": "やめておく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "noffice_yesno_cancel_che_0",
+    "original": "破棄する",
+    "translation": "破棄する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "noffice_yesno_cancel_che_1",
+    "original": "やめておく",
+    "translation": "やめておく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "cure_ng_E_0",
+    "original": "失礼ながら、\n所持金が足りないようです。",
+    "translation": "失礼ながら、\n所持金が足りないようです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "not_accept_E_0",
+    "original": "現在、発券できるチケットは\nございません。",
+    "translation": "現在、発券できるチケットは\nございません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "not_cancel_E_0",
+    "original": "発券中のチケットはないようです。",
+    "translation": "発券中のチケットはないようです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "accept_check_E_0",
+    "original": "こちらのチケットを発券いたしますか？",
+    "translation": "こちらのチケットを発券いたしますか？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "accept_overwrite_check_E_0",
+    "original": "現在発券中のチケットを破棄して\nこちらのチケットを発券いたしますか？",
+    "translation": "現在発券中のチケットを破棄して\nこちらのチケットを発券いたしますか？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "cancel_check_E_0",
+    "original": "こちらのチケットを破棄なさいますか？",
+    "translation": "こちらのチケットを破棄なさいますか？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "cancel_refuse_check_E_0",
+    "original": "こちらのチケットは破棄できません。",
+    "translation": "こちらのチケットは破棄できません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "cancel_end_E_0",
+    "original": "チケットを破棄いたしました。",
+    "translation": "チケットを破棄いたしました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP001_QUEST_E_0",
+    "original": "『特別上映』とは、映画内で皆様が発見した\n不思議な出来事が形となったもの。",
+    "translation": "『特別上映』とは、映画内で皆様が発見した\n不思議な出来事が形となったもの。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP001_QUEST_E_1",
+    "original": "『特別上映』は、本来の映画世界とは\n異なる姿かたちをしております。",
+    "translation": "『特別上映』は、本来の映画世界とは\n異なる姿かたちをしております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP001_QUEST_E_2",
+    "original": "普段の探索では見つからなかった、新たな\n発見や出来事と出会えるかもしれません。",
+    "translation": "普段の探索では見つからなかった、新たな\n発見や出来事と出会えるかもしれません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP001_QUEST_E_3",
+    "original": "探索に疲れた時や、行き詰った時などの\n気分転換として楽しまれては如何でしょう？",
+    "translation": "探索に疲れた時や、行き詰った時などの\n気分転換として楽しまれては如何でしょう？",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP001_QUEST_E_4",
+    "original": "また、特別上映をこなしていただいた際は、\n対価として『報酬』をご用意しております。",
+    "translation": "また、特別上映をこなしていただいた際は、\n対価として『報酬』をご用意しております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP001_QUEST_E_5",
+    "original": "こちらも是非、ご期待くださいませ。",
+    "translation": "こちらも是非、ご期待くださいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP003_QUEST_REWARD_E_0",
+    "original": "『特別上映』を無事こなしていただければ、\n対価として『報酬』を差し上げます。",
+    "translation": "『特別上映』を無事こなしていただければ、\n対価として『報酬』を差し上げます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP003_QUEST_REWARD_E_1",
+    "original": "また、メリットはそれだけでは\nございません。",
+    "translation": "また、メリットはそれだけでは\nございません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP003_QUEST_REWARD_E_2",
+    "original": "『特別上映』をこなした『経験値』は、\n皆様をより高みへと導くでしょう。",
+    "translation": "『特別上映』をこなした『経験値』は、\n皆様をより高みへと導くでしょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP003_QUEST_REWARD_E_3",
+    "original": "この『経験値』はパーティ編成に関係なく、\n等しく皆様の糧となります。",
+    "translation": "この『経験値』はパーティ編成に関係なく、\n等しく皆様の糧となります。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP003_QUEST_REWARD_E_4",
+    "original": "あなた方には『経験値』と『報酬』が。\n私には素晴らしい映像体験が。",
+    "translation": "あなた方には『経験値』と『報酬』が。\n私には素晴らしい映像体験が。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP003_QUEST_REWARD_E_5",
+    "original": "これぞウィンウィンでございます。\n是非とも、お引き受けください。",
+    "translation": "これぞウィンウィンでございます。\n是非とも、お引き受けください。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP003_QUEST_REWARD_E_6",
+    "original": "なお、一度達成されました特別上映には\n再び挑むことはできません。",
+    "translation": "なお、一度達成されました特別上映には\n再び挑むことはできません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP003_QUEST_REWARD_E_7",
+    "original": "ですので、達成なさるまでの間に隅々まで\nムシャブリ尽くして頂くのがよろしいかと。",
+    "translation": "ですので、達成なさるまでの間に隅々まで\nムシャブリ尽くして頂くのがよろしいかと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP005_QUEST_CANCEL_E_0",
+    "original": "チケットを発券した後でも、\n『チケットを破棄』することが可能です。",
+    "translation": "チケットを発券した後でも、\n『チケットを破棄』することが可能です。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP005_QUEST_CANCEL_E_1",
+    "original": "他の特別上映を見たい時や、進行に迷った時\nなどは、思いきって破棄なさってください。",
+    "translation": "他の特別上映を見たい時や、進行に迷った時\nなどは、思いきって破棄なさってください。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP005_QUEST_CANCEL_E_2",
+    "original": "もちろん、再発券も自由でございます。",
+    "translation": "もちろん、再発券も自由でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP005_QUEST_CANCEL_E_3",
+    "original": "上映が達成されるまでは、何度でも\nチケットの発券が出来ますので、ご活用を。",
+    "translation": "上映が達成されるまでは、何度でも\nチケットの発券が出来ますので、ご活用を。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP005_QUEST_CANCEL_E_4",
+    "original": "そしてそして、な・ん・と～！\nチケットの発券・破棄は全て無料！",
+    "translation": "そしてそして、な・ん・と～！\nチケットの発券・破棄は全て無料！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "NHELP005_QUEST_CANCEL_E_5",
+    "original": "是非とも、ふるってご利用くださいませ。",
+    "translation": "是非とも、ふるってご利用くださいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "quest_find_0",
+    "original": "新たな特別上映が発生しました。\nここでチケットを発券してみましょう。",
+    "translation": "新たな特別上映が発生しました。\nここでチケットを発券してみましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ダミー",
+    "original": "ダミー",
+    "translation": "ダミー",
+    "stage": 1,
+    "context": ""
+  }
+]

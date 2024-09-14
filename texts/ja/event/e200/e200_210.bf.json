@@ -1,0 +1,198 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なーんか、ヤバそうな柵だな…",
+    "translation": "なーんか、ヤバそうな柵だな…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ああ、ワガハイの怪盗のカンも\n危険そうだと告げているぜ。",
+    "translation": "ああ、ワガハイの怪盗のカンも\n危険そうだと告げているぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "触るなよ？",
+    "translation": "触るなよ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "触ってみよう",
+    "translation": "触ってみよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_2",
+    "original": "気のせいだ",
+    "translation": "気のせいだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "触るなよ、触るなよ…って、\nそれ『触れ』っていうフリか？",
+    "translation": "触るなよ、触るなよ…って、\nそれ『触れ』っていうフリか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "待ってください。\n迂闊に触るのは止めたほうがいいかと。",
+    "translation": "待ってください。\n迂闊に触るのは止めたほうがいいかと。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "待ってください。\nきちんと調べてみませんか？",
+    "translation": "待ってください。\nきちんと調べてみませんか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あっ！　俺、これ知ってるぜ！",
+    "translation": "あっ！　俺、これ知ってるぜ！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "肉食恐竜を閉じ込めるキカイだ。\n[颜色 03]触ると、めっちゃビリビリ[颜色 01]すんだよ！",
+    "translation": "肉食恐竜を閉じ込めるキカイだ。\n[颜色 03]触ると、めっちゃビリビリ[颜色 01]すんだよ！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "むっ…？\n電気が通っているのか？",
+    "translation": "むっ…？\n電気が通っているのか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "てか、待って。肉食恐竜用って、\n人間が触ったらヤバいでしょ！？",
+    "translation": "てか、待って。肉食恐竜用って、\n人間が触ったらヤバいでしょ！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "うーむ…これじゃあ、\nよじ登ったりするのも無理そうだな。",
+    "translation": "うーむ…これじゃあ、\nよじ登ったりするのも無理そうだな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "へへっ、大丈夫！\n俺、スゲーこと知ってるんだ！",
+    "translation": "へへっ、大丈夫！\n俺、スゲーこと知ってるんだ！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "もしかして、これの通り方とか？",
+    "translation": "もしかして、これの通り方とか？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そうそう！\n別の場所にも同じ柵があってさ。",
+    "translation": "そうそう！\n別の場所にも同じ柵があってさ。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "たしか…柵のそばに、\n[颜色 03]取っ手のついた鉄の箱[颜色 01]があるんだ。",
+    "translation": "たしか…柵のそばに、\n[颜色 03]取っ手のついた鉄の箱[颜色 01]があるんだ。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_012_2",
+    "original": "取っ手を動かすと、[颜色 03]一瞬だけ\nビリビリが止まる[颜色 01]んだよ。",
+    "translation": "取っ手を動かすと、[颜色 03]一瞬だけ\nビリビリが止まる[颜色 01]んだよ。",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "そんじゃ、そのスキに\n通っちまえばいいんだな？",
+    "translation": "そんじゃ、そのスキに\n通っちまえばいいんだな？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "つまり、柵のスイッチだよな。\n探してみようぜ！",
+    "translation": "つまり、柵のスイッチだよな。\n探してみようぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ヨウスケサウルス",
+    "original": "ヨウスケサウルス",
+    "translation": "ヨウスケサウルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  }
+]

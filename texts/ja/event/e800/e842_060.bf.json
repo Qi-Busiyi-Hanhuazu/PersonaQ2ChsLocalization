@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふー、危なかったな。\n花畑の肥やしにされるとこだったぞ。",
+    "translation": "ふー、危なかったな。\n花畑の肥やしにされるとこだったぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やれやれ…この美しい花と甘い香りは、\n天然の罠といったところか。",
+    "translation": "やれやれ…この美しい花と甘い香りは、\n天然の罠といったところか。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ごめん、ゲームとかなら襲われフラグが\nビンビンのシチュなのに油断してた。",
+    "translation": "ごめん、ゲームとかなら襲われフラグが\nビンビンのシチュなのに油断してた。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "またシャドウが現れないとも限りません、\nすぐにそこから離れてください！",
+    "translation": "またシャドウが現れないとも限りません、\nすぐにそこから離れてください！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "のんびりピクニックとは\nいかないみたいだな。",
+    "translation": "のんびりピクニックとは\nいかないみたいだな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "目的の蝶は頂いたんだ、\nまっすぐ拠点に戻るとするか。",
+    "translation": "目的の蝶は頂いたんだ、\nまっすぐ拠点に戻るとするか。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

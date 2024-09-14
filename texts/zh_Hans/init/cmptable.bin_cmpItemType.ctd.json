@@ -1,0 +1,58 @@
+[
+  {
+    "key": "text_000_0",
+    "original": "武器",
+    "translation": "武器",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "text_001_0",
+    "original": "防具・体",
+    "translation": "防具·身体",
+    "stage": 0,
+    "context": "机翻辅助：\n\n防具·身体\n\n防具"
+  },
+  {
+    "key": "text_002_0",
+    "original": "アクセサリー",
+    "translation": "饰品",
+    "stage": 0,
+    "context": "机翻辅助：\n\n饰品"
+  },
+  {
+    "key": "text_003_0",
+    "original": "衣装",
+    "translation": "服装",
+    "stage": 0,
+    "context": "机翻辅助：\n\n服装"
+  },
+  {
+    "key": "text_004_0",
+    "original": "消費物",
+    "translation": "消耗品",
+    "stage": 0,
+    "context": "机翻辅助：\n\n消耗品\n\n消费物\n\n消费品"
+  },
+  {
+    "key": "text_005_0",
+    "original": "貴重品",
+    "translation": "贵重物品",
+    "stage": 0,
+    "context": "机翻辅助：\n\n贵重物品"
+  },
+  {
+    "key": "text_006_0",
+    "original": "素材",
+    "translation": "材料",
+    "stage": 0,
+    "context": "机翻辅助：\n\n材料"
+  },
+  {
+    "key": "text_007_0",
+    "original": "スキルカード",
+    "translation": "技能卡",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能卡"
+  }
+]

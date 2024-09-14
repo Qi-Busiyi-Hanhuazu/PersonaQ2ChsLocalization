@@ -1,0 +1,23 @@
+[
+  {
+    "key": "MSG_CANCEL_0",
+    "original": "[颜色 03]『[占位A 01]』[颜色 01]を\n破棄いたします。",
+    "translation": "[颜色 03]『[占位A 01]』[颜色 01]を\n破棄いたします。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_QUESTCLEAR_0",
+    "original": "＞クエストクリア！",
+    "translation": "＞クエストクリア！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  }
+]

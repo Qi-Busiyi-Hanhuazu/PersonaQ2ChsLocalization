@@ -1,0 +1,779 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "それでは、[P4姓]様方は\n私どもがお送りいたします。",
+    "translation": "それでは、[P4姓]様方は\n私どもがお送りいたします。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "ほら、マリー。\nご案内してさしあげなさい。",
+    "translation": "ほら、マリー。\nご案内してさしあげなさい。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "はいはい。\nみんな準備できてる？　こっちだから。",
+    "translation": "はいはい。\nみんな準備できてる？　こっちだから。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "また会えた時は、\nゆっくりお茶でもしましょう。",
+    "translation": "また会えた時は、\nゆっくりお茶でもしましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "俺はラーメン屋。\n旨いトコあっからさ、食いに行こうぜ。",
+    "translation": "俺はラーメン屋。\n旨いトコあっからさ、食いに行こうぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おっ、ラーメンいっちゃう？\nこっちにも、とっておきの店あるぜ。",
+    "translation": "おっ、ラーメンいっちゃう？\nこっちにも、とっておきの店あるぜ。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ラーメンもいいけど、\nスイーツビュッフェとかもどう？",
+    "translation": "ラーメンもいいけど、\nスイーツビュッフェとかもどう？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いいね！　女子会もやりたーい！",
+    "translation": "いいね！　女子会もやりたーい！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うっ、カロリーやばそう…",
+    "translation": "うっ、カロリーやばそう…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ゆかりさん。こういう時は\nダイエットは明日から、と言うであります。",
+    "translation": "ゆかりさん。こういう時は\nダイエットは明日から、と言うであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "集まるなら、うちのフードコートも\n悪くないぜ？",
+    "translation": "集まるなら、うちのフードコートも\n悪くないぜ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "っつーわけで、ジュネス八十稲羽店、\nよろしくお願いしまーす！",
+    "translation": "っつーわけで、ジュネス八十稲羽店、\nよろしくお願いしまーす！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "宣伝か！",
+    "translation": "宣伝か！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "皆様方、そろそろ…",
+    "translation": "皆様方、そろそろ…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "…時間みたいだな。",
+    "translation": "…時間みたいだな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "皆さん、お世話になりました。",
+    "translation": "皆さん、お世話になりました。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "みんなー！\nクマのこと、忘れないでクマー！",
+    "translation": "みんなー！\nクマのこと、忘れないでクマー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "また会える日を、楽しみにしてるね。",
+    "translation": "また会える日を、楽しみにしてるね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "今度こそ、ホントにバイバイ！",
+    "translation": "今度こそ、ホントにバイバイ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "また会おうねー！",
+    "translation": "また会おうねー！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "世話になったっス。",
+    "translation": "世話になったっス。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "楽しかったぜ、またな！",
+    "translation": "楽しかったぜ、またな！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "それじゃあみんな、また。",
+    "translation": "それじゃあみんな、また。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "それでは、私のお客人の世界は\nこちらになります。",
+    "translation": "それでは、私のお客人の世界は\nこちらになります。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "えっと、私は…",
+    "translation": "えっと、私は…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "[P3P姓]様は、こちらです。\n私がご案内いたしますので…",
+    "translation": "[P3P姓]様は、こちらです。\n私がご案内いたしますので…",
+    "stage": 1,
+    "context": "テオドア"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "テオ…\nうん、よろしく。",
+    "translation": "テオ…\nうん、よろしく。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "では、我々も帰るとしよう。",
+    "translation": "では、我々も帰るとしよう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "君たちと出会えたこと…\n感謝する。",
+    "translation": "君たちと出会えたこと…\n感謝する。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "皆さん、お世話になりました。\nまたどこかでお会いしましょう。",
+    "translation": "皆さん、お世話になりました。\nまたどこかでお会いしましょう。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "別れの挨拶は、佐倉さんに\nさっき教えていただきました。",
+    "translation": "別れの挨拶は、佐倉さんに\nさっき教えていただきました。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "皆の者、サラダバー！\nであります。",
+    "translation": "皆の者、サラダバー！\nであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "ふふっ、アイギスったら。",
+    "translation": "ふふっ、アイギスったら。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "それではみなさん、どうかお元気で…！",
+    "translation": "それではみなさん、どうかお元気で…！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "みんな、それじゃね！",
+    "translation": "みんな、それじゃね！",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "…お前たちとは、\nまたすぐに会う気がするな。",
+    "translation": "…お前たちとは、\nまたすぐに会う気がするな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "みんな、元気でなー！",
+    "translation": "みんな、元気でなー！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "世話になった…またな。",
+    "translation": "世話になった…またな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "…待って、[P3P名]。",
+    "translation": "…待って、[P3P名]。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "え…？",
+    "translation": "え…？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "君に、出会えてよかった。",
+    "translation": "君に、出会えてよかった。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "うん、私も！",
+    "translation": "うん、私も！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "ねえ、[P3名]くん。\n私たち、またいつか…",
+    "translation": "ねえ、[P3名]くん。\n私たち、またいつか…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_038_1",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "…ううん、なんでもない。\n元気でね！",
+    "translation": "…ううん、なんでもない。\n元気でね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "ああ、君も。",
+    "translation": "ああ、君も。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "みんなも、バイバイ！",
+    "translation": "みんなも、バイバイ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "それじゃあ、また。",
+    "translation": "それじゃあ、また。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "…みんな、帰っちゃったね。",
+    "translation": "…みんな、帰っちゃったね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "あれだけ大変な思いをしたのに、\nなんだか、思い返すとあっという間だね。",
+    "translation": "あれだけ大変な思いをしたのに、\nなんだか、思い返すとあっという間だね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "ああ。だが、美しいエンディングだ。",
+    "translation": "ああ。だが、美しいエンディングだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "ええ。ここでのことは、私たちの\n大切な人生の一部になる…",
+    "translation": "ええ。ここでのことは、私たちの\n大切な人生の一部になる…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_046_1",
+    "original": "でも、どうして私たちが\nこの場所に集められたのかしら？",
+    "translation": "でも、どうして私たちが\nこの場所に集められたのかしら？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "さあな。だが…",
+    "translation": "さあな。だが…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "この結末は、お前たちだからこそ導けた。\n理由など、それで十分だろう！",
+    "translation": "この結末は、お前たちだからこそ導けた。\n理由など、それで十分だろう！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "囚人…ここでのことが、貴方の更生に\n良い影響を与えてくれるといいのですが。",
+    "translation": "囚人…ここでのことが、貴方の更生に\n良い影響を与えてくれるといいのですが。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_049_1",
+    "original": "もしかしたら…貴方以外にも…",
+    "translation": "もしかしたら…貴方以外にも…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "いえ、なんでもありません。",
+    "translation": "いえ、なんでもありません。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "さあ、我々もさっさと帰るぞ！\n用意はいいか？　囚人とその仲間たち！",
+    "translation": "さあ、我々もさっさと帰るぞ！\n用意はいいか？　囚人とその仲間たち！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "第１シアター…\nここから始まったんだよね。",
+    "translation": "第１シアター…\nここから始まったんだよね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "よっし！　早く帰って、\nそうじろうのカレーを食うぞ！",
+    "translation": "よっし！　早く帰って、\nそうじろうのカレーを食うぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "私も食べたい！\nみんなでルブラン行こうよ。",
+    "translation": "私も食べたい！\nみんなでルブラン行こうよ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "ここの記憶、覚えてねーんだろ？\nま、ルブランならいつも行ってっけど。",
+    "translation": "ここの記憶、覚えてねーんだろ？\nま、ルブランならいつも行ってっけど。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "ついでに、コーヒーも淹れてもらいたい。",
+    "translation": "ついでに、コーヒーも淹れてもらいたい。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "オマエら、遠慮ねーな！\nじゃあワガハイは、高級寿司を所望する！",
+    "translation": "オマエら、遠慮ねーな！\nじゃあワガハイは、高級寿司を所望する！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "モルガナの自腹なら\nいいんじゃないかしら？",
+    "translation": "モルガナの自腹なら\nいいんじゃないかしら？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "おおー、モナ太っ腹だな！\nゴチになる！",
+    "translation": "おおー、モナ太っ腹だな！\nゴチになる！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "そうじゃねーよっ！　\nつかオマエら、少しは気前の良さ見せろーッ！",
+    "translation": "そうじゃねーよっ！　\nつかオマエら、少しは気前の良さ見せろーッ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_062_0",
+    "original": "どうした？",
+    "translation": "どうした？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_062_1",
+    "original": "帰ろう",
+    "translation": "帰ろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_063_0",
+    "original": "え、ああ…うん…。\nごめん、ボーっとしてたみたいだ。",
+    "translation": "え、ああ…うん…。\nごめん、ボーっとしてたみたいだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_064_0",
+    "original": "帰る、か…うん。そうだね。",
+    "translation": "帰る、か…うん。そうだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_065_0",
+    "original": "帰らないと…",
+    "translation": "帰らないと…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_066_0",
+    "original": "どうした、[P5名]？",
+    "translation": "どうした、[P5名]？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_067_0",
+    "original": "オマエらー、置いてくぞー！",
+    "translation": "オマエらー、置いてくぞー！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_068_0",
+    "original": "みんなが呼んでるね。\n…行こうか、[P5名]。",
+    "translation": "みんなが呼んでるね。\n…行こうか、[P5名]。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_テオドア",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

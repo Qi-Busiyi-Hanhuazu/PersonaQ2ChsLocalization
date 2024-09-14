@@ -1,0 +1,128 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "皆様、おかえりなさいませ。\n無事、ベルトを届けることが\nできたようですね。",
+    "translation": "皆様、おかえりなさいませ。\n無事、ベルトを届けることが\nできたようですね。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "疲れた",
+    "translation": "疲れた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "ばっちりだ",
+    "translation": "ばっちりだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_2",
+    "original": "あれ、欲しかったな…",
+    "translation": "あれ、欲しかったな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うんうん。\nシャドウに邪魔される中、よくやった。",
+    "translation": "うんうん。\nシャドウに邪魔される中、よくやった。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "確かに、ヒーローベルトって\n一度は憧れるよな…って、マジかよ！？",
+    "translation": "確かに、ヒーローベルトって\n一度は憧れるよな…って、マジかよ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…別に、ベルトなんて\n届けなくてもよかったのに。",
+    "translation": "…別に、ベルトなんて\n届けなくてもよかったのに。",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そうでしょうか？\n持ち主の方は喜んでいたように\n見受けられましたが…",
+    "translation": "そうでしょうか？\n持ち主の方は喜んでいたように\n見受けられましたが…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "…………。",
+    "translation": "…………。",
+    "stage": 1,
+    "context": "マヨイ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "大事なもんを取られたまま…\nってのも、つれーからよ。\n届けて正解だったと思うぜ。",
+    "translation": "大事なもんを取られたまま…\nってのも、つれーからよ。\n届けて正解だったと思うぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "…皆様のおかげで、また一つ\n歪みが解消されたようでございます。\nこれで、さらに奥へと進めるでしょう。",
+    "translation": "…皆様のおかげで、また一つ\n歪みが解消されたようでございます。\nこれで、さらに奥へと進めるでしょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "やったぜ！\nこの分なら、もう少しで\nマコトとハルを助けられそうだな！",
+    "translation": "やったぜ！\nこの分なら、もう少しで\nマコトとハルを助けられそうだな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "それと、こちらが\n今回の報酬になります。\n皆様、お受け取りください。",
+    "translation": "それと、こちらが\n今回の報酬になります。\n皆様、お受け取りください。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マヨイ",
+    "original": "マヨイ",
+    "translation": "マヨイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

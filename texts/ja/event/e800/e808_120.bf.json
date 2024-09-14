@@ -1,0 +1,107 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "サーチライトの操作スイッチですね。\nナビ、お願いできますか？",
+    "translation": "サーチライトの操作スイッチですね。\nナビ、お願いできますか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "どれどれ～？",
+    "translation": "どれどれ～？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "すまん、想定外だ…\nこの端末はネットワークに繋がってない。",
+    "translation": "すまん、想定外だ…\nこの端末はネットワークに繋がってない。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "これじゃいくらハッキングしても、\nパトカーの位置が取れない。",
+    "translation": "これじゃいくらハッキングしても、\nパトカーの位置が取れない。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "困りましたね。\nとなると、歩きまわって探すしか…",
+    "translation": "困りましたね。\nとなると、歩きまわって探すしか…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "なんとかしてくれ",
+    "translation": "なんとかしてくれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "他に手は？",
+    "translation": "他に手は？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いや、待てよ？\nスイッチはもう一個あったろ？",
+    "translation": "いや、待てよ？\nスイッチはもう一個あったろ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "そっちからアクセスできるかも。\nうん、きっとできる。",
+    "translation": "そっちからアクセスできるかも。\nうん、きっとできる。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "わかりました、パトカーの位置を知るなら\nもう１つのスイッチですね？",
+    "translation": "わかりました、パトカーの位置を知るなら\nもう１つのスイッチですね？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "パトカーを直接探すか、端末を探すか…\n引き続き、ジョーカーに任せます。",
+    "translation": "パトカーを直接探すか、端末を探すか…\n引き続き、ジョーカーに任せます。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "この端末じゃダメだ。\nハッキングなら、もう１つのスイッチな。",
+    "translation": "この端末じゃダメだ。\nハッキングなら、もう１つのスイッチな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "もうこいつに用はないぞ。\nパトカーの位置は全て把握したからな。",
+    "translation": "もうこいつに用はないぞ。\nパトカーの位置は全て把握したからな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

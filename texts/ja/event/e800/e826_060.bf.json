@@ -1,0 +1,590 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ここだな…",
+    "translation": "ここだな…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "って言っても特に見当たらないけど…",
+    "translation": "って言っても特に見当たらないけど…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そもそもお宝がどんな形をしてるかも\n分からないからな。",
+    "translation": "そもそもお宝がどんな形をしてるかも\n分からないからな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "そのあたりを調べて見てくれ。\nそれっぽい物があるはずだ。",
+    "translation": "そのあたりを調べて見てくれ。\nそれっぽい物があるはずだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "それっぽいものなんて、\n全然ないんだけど…",
+    "translation": "それっぽいものなんて、\n全然ないんだけど…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "だよなー…\nどこも木と茂みばっかだし…",
+    "translation": "だよなー…\nどこも木と茂みばっかだし…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ふぉおおお！　あった！　あったクマ！\nクマが一番乗りクマ！",
+    "translation": "ふぉおおお！　あった！　あったクマ！\nクマが一番乗りクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "なんだと！？",
+    "translation": "なんだと！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "これはたしかに、色も神秘的でキレイ…\nもらったら嬉しいクマ！",
+    "translation": "これはたしかに、色も神秘的でキレイ…\nもらったら嬉しいクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "ほれほれ、女子たちよ、\nプレゼントフォーユー！",
+    "translation": "ほれほれ、女子たちよ、\nプレゼントフォーユー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "綺麗っていうか…これは…",
+    "translation": "綺麗っていうか…これは…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ごめん、ムリ…普通にムリ。",
+    "translation": "ごめん、ムリ…普通にムリ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "クマさん、すぐ返してきなさい。",
+    "translation": "クマさん、すぐ返してきなさい。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "なんですと！？　このＧ級な\nカブトムシの何が不満クマ！？",
+    "translation": "なんですと！？　このＧ級な\nカブトムシの何が不満クマ！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "SEL_012_0",
+    "original": "虫は苦手だ",
+    "translation": "虫は苦手だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_012_1",
+    "original": "自分は欲しい",
+    "translation": "自分は欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_012_2",
+    "original": "クマが喜ぶものだな",
+    "translation": "クマが喜ぶものだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "性別関係なく、\n虫嫌いは一定いるからな。",
+    "translation": "性別関係なく、\n虫嫌いは一定いるからな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "常識的に考えても異性に\n贈るものではないだろう。",
+    "translation": "常識的に考えても異性に\n贈るものではないだろう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ああ。色といい大きさといい、\nそそられるものがある。",
+    "translation": "ああ。色といい大きさといい、\nそそられるものがある。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "だが、常識的に考えて異性に\n贈るものではないだろう。",
+    "translation": "だが、常識的に考えて異性に\n贈るものではないだろう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ああ、君はいいのかもしれないが、\nこれを喜ぶ女性は限られるだろう。",
+    "translation": "ああ、君はいいのかもしれないが、\nこれを喜ぶ女性は限られるだろう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "どう考えてもこれじゃねえな。",
+    "translation": "どう考えてもこれじゃねえな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "そんなぁ～、オヨヨ…",
+    "translation": "そんなぁ～、オヨヨ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "見つけたぁ！！",
+    "translation": "見つけたぁ！！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "この色といい、形といい女子なら\nハートを掴まれること間違いなし。",
+    "translation": "この色といい、形といい女子なら\nハートを掴まれること間違いなし。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_019_2",
+    "original": "しかも、見た目だけじゃなく腹も満たせる\nというまさに一石二鳥の…",
+    "translation": "しかも、見た目だけじゃなく腹も満たせる\nというまさに一石二鳥の…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "説明はいいから。\nほら、さっさと出せ。",
+    "translation": "説明はいいから。\nほら、さっさと出せ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ワガハイのは…コレだ！",
+    "translation": "ワガハイのは…コレだ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_021_02_0",
+    "original": "どうだ、このハイソなセンス。\n恐れ入っただろ？",
+    "translation": "どうだ、このハイソなセンス。\n恐れ入っただろ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_022_0",
+    "original": "綺麗？",
+    "translation": "綺麗？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_022_1",
+    "original": "毒々しい",
+    "translation": "毒々しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_022_2",
+    "original": "戻してきなさい",
+    "translation": "戻してきなさい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "綺麗だよな？　なぁ！？",
+    "translation": "綺麗だよな？　なぁ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ああ。\n本能的に危険を感じる色だな。",
+    "translation": "ああ。\n本能的に危険を感じる色だな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "こういうカエル、図鑑で見ました。\nたしかもの凄い猛毒の…",
+    "translation": "こういうカエル、図鑑で見ました。\nたしかもの凄い猛毒の…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "毒ガエル扱い！？",
+    "translation": "毒ガエル扱い！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "なんで！？",
+    "translation": "なんで！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "この色味…なんというか、生理的に\nゾワゾワしますね…",
+    "translation": "この色味…なんというか、生理的に\nゾワゾワしますね…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "…きもっ。",
+    "translation": "…きもっ。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "見るのも嫌！？",
+    "translation": "見るのも嫌！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "スキャンの結果、毒性の物質が致死量を\n大きく上回っているであります。",
+    "translation": "スキャンの結果、毒性の物質が致死量を\n大きく上回っているであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ぐおおおおおお…！",
+    "translation": "ぐおおおおおお…！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "もうこれ見つからないんじゃ…",
+    "translation": "もうこれ見つからないんじゃ…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "ん？　茂みの中に何かあるの？",
+    "translation": "ん？　茂みの中に何かあるの？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "ワオーン。",
+    "translation": "ワオーン。",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "ほう…これは美しい…",
+    "translation": "ほう…これは美しい…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "あ、しかもすごく良い香り…",
+    "translation": "あ、しかもすごく良い香り…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "見たことのない種類の花ですね。\n新種かもしれません。",
+    "translation": "見たことのない種類の花ですね。\n新種かもしれません。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "でもでもー、所詮タダの花クマ。\nそれが秘宝なワケ…",
+    "translation": "でもでもー、所詮タダの花クマ。\nそれが秘宝なワケ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "そ、そうだな。\nその花が秘宝と決まったわけじゃ…",
+    "translation": "そ、そうだな。\nその花が秘宝と決まったわけじゃ…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "虫と木の実がよく言うぜ…",
+    "translation": "虫と木の実がよく言うぜ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "ん？　花の根元に何か埋まってますね。",
+    "translation": "ん？　花の根元に何か埋まってますね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_045_1",
+    "original": "これは、プレート？\n文字が刻まれてるようですが…",
+    "translation": "これは、プレート？\n文字が刻まれてるようですが…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_045_2",
+    "original": "『愛しの君にこの花をささげます』",
+    "translation": "『愛しの君にこの花をささげます』",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "なるほど、研究者の思いが詰まった\n一輪と言うわけか。",
+    "translation": "なるほど、研究者の思いが詰まった\n一輪と言うわけか。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_046_1",
+    "original": "間違いなく、これが彼の残した宝だな。",
+    "translation": "間違いなく、これが彼の残した宝だな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "SEL_047_0",
+    "original": "勝負あったな",
+    "translation": "勝負あったな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_047_1",
+    "original": "よくやったコロマル",
+    "translation": "よくやったコロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "ワオーン！",
+    "translation": "ワオーン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "ングマアアアアア……！",
+    "translation": "ングマアアアアア……！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "ニャオオオオオオ……！",
+    "translation": "ニャオオオオオオ……！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "んじゃ、ジャングルの中心で叫んでる\n２匹はほっといて…",
+    "translation": "んじゃ、ジャングルの中心で叫んでる\n２匹はほっといて…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_051_1",
+    "original": "みんな、帰還して来い！",
+    "translation": "みんな、帰還して来い！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  }
+]

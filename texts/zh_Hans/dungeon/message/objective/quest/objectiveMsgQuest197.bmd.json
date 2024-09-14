@@ -1,0 +1,37 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "パワースポットから素材を集めよう",
+    "translation": "从能量点收集素材",
+    "stage": 0,
+    "context": "机翻辅助：\n\n从能量点收集素材\n\n从能量场收集素材吧\n\n从能量地点收集素材"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "パワースポットを３箇所調べよう",
+    "translation": "调查3个能量点",
+    "stage": 1,
+    "context": "机翻辅助：\n\n调查三个能量点\n\n调查3个能量场吧\n\n调查3个能量释放点"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "パワースポットを２箇所調べよう",
+    "translation": "调查2个能量点",
+    "stage": 1,
+    "context": "机翻辅助：\n\n调查两个能量点\n\n调查两个能量场吧"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "パワースポットをあと１箇所調べよう",
+    "translation": "调查1个能量点",
+    "stage": 1,
+    "context": "机翻辅助：\n\n调查一个能量点\n\n再查一个能量场吧\n\n再调查一个能量点吧"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_4_0",
+    "original": "クエストクリア報告に向かおう",
+    "translation": "去完成任务报告",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去完成任务报告\n\n向着任务完成报告前进吧\n\n前往任务通关报告"
+  }
+]

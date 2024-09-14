@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "では、パーツ集めとやらを始めるか。",
+    "translation": "では、パーツ集めとやらを始めるか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "たしか、『爆轟の砲座』を\n討伐するんだったな。この付近にいるのか？",
+    "translation": "たしか、『爆轟の砲座』を\n討伐するんだったな。この付近にいるのか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "探ってみたところ、『爆轟の砲座』は\n地図の左下の辺り…",
+    "translation": "探ってみたところ、『爆轟の砲座』は\n地図の左下の辺り…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "セキュリティゲートの辺りに、\n反応が多くみられます！",
+    "translation": "セキュリティゲートの辺りに、\n反応が多くみられます！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "みんな、まずはそこへ向かって！",
+    "translation": "みんな、まずはそこへ向かって！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "集めてほしいパーツは、\n『未来の機構』を三つだよ！",
+    "translation": "集めてほしいパーツは、\n『未来の機構』を三つだよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "シンプルで分かりやすいじゃねぇか。\nおっしゃ！　いっちょ暴れてやんぜ！",
+    "translation": "シンプルで分かりやすいじゃねぇか。\nおっしゃ！　いっちょ暴れてやんぜ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "くれぐれも無理は禁物だからな？\nみんな、よろしく頼む！",
+    "translation": "くれぐれも無理は禁物だからな？\nみんな、よろしく頼む！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "珍しく役に立ちそうな物を\n持っているな、囚人！",
+    "translation": "珍しく役に立ちそうな物を\n持っているな、囚人！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "ちょっと見せてみろ！",
+    "translation": "ちょっと見せてみろ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "＞[道具 0743]を手渡した…",
+    "translation": "＞[道具 0743]を手渡した…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "なるほど…\nこれは興味深いですね…",
+    "translation": "なるほど…\nこれは興味深いですね…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "これを利用すれば、ベルベットルームの\n機能を更に高めることができそうです。",
+    "translation": "これを利用すれば、ベルベットルームの\n機能を更に高めることができそうです。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "というわけで、\nちょっとここで待っているがいい！",
+    "translation": "というわけで、\nちょっとここで待っているがいい！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "＞数分後……",
+    "translation": "＞数分後……",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ふう…少々苦労しましたが、\nこれで囚人の更生もはかどるでしょう。",
+    "translation": "ふう…少々苦労しましたが、\nこれで囚人の更生もはかどるでしょう。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "＞３体のペルソナを素材に\n　新たなペルソナを生成する、\n　[颜色 03]『３体合体』[颜色 01]が使えるようになった！",
+    "translation": "＞３体のペルソナを素材に\n　新たなペルソナを生成する、\n　[颜色 03]『３体合体』[颜色 01]が使えるようになった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "我らの助力を無駄にするなよ、囚人！",
+    "translation": "我らの助力を無駄にするなよ、囚人！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  }
+]

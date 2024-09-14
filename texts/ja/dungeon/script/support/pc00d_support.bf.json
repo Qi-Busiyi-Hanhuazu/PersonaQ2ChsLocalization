@@ -1,0 +1,527 @@
+[
+  {
+    "key": "MITURU_FOE_FOLLOW_START__0",
+    "original": "Ｆ．Ｏ．Ｅに見つかったか！ ",
+    "translation": "Ｆ．Ｏ．Ｅに見つかったか！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_FOE_FOLLOW_START__2_0",
+    "original": "くっ…Ｆ．Ｏ．Ｅが追ってきてるぞ！ ",
+    "translation": "くっ…Ｆ．Ｏ．Ｅが追ってきてるぞ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_FOE_FOLLOW_START__3_0",
+    "original": "Ｆ．Ｏ．Ｅに追尾されているぞ！ ",
+    "translation": "Ｆ．Ｏ．Ｅに追尾されているぞ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_FOE_NEAR_1_0",
+    "original": "近くにＦ．Ｏ．Ｅがいるな… ",
+    "translation": "近くにＦ．Ｏ．Ｅがいるな… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅめ。 \nこんなところにもいるとはな。 ",
+    "translation": "Ｆ．Ｏ．Ｅめ。 \nこんなところにもいるとはな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅだ、気をつけろ！ ",
+    "translation": "Ｆ．Ｏ．Ｅだ、気をつけろ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_FOE_FOLLOW_END_1_0",
+    "original": "Ｆ．Ｏ．Ｅを撒いたようだな。 ",
+    "translation": "Ｆ．Ｏ．Ｅを撒いたようだな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_FOE_FOLLOW_END_2_0",
+    "original": "ふぅ、諦めてくれたようだな。 ",
+    "translation": "ふぅ、諦めてくれたようだな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_FOE_FOLLOW_END_3_0",
+    "original": "うまく逃げ切れたようだ… ",
+    "translation": "うまく逃げ切れたようだ… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_KANSI_REACTION_1_0",
+    "original": "ここは気をつけろ。 ",
+    "translation": "ここは気をつけろ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_KANSI_REACTION_2_0",
+    "original": "厄介なトラップだな。 ",
+    "translation": "厄介なトラップだな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_KANSI_REACTION_3_0",
+    "original": "見つからないように注意しろ。 ",
+    "translation": "見つからないように注意しろ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_DENKISAKU_REACTIO_0",
+    "original": "触らないように注意しろ。 ",
+    "translation": "触らないように注意しろ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_DENKISAKU_REACTIO_2_0",
+    "original": "電流を止めてから進むとしよう。 ",
+    "translation": "電流を止めてから進むとしよう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_DENKISAKU_REACTIO_3_0",
+    "original": "電気を止めたほうがよさそうだな。 ",
+    "translation": "電気を止めたほうがよさそうだな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_KYOUHU_REACTION_1_0",
+    "original": "くっ…！ ",
+    "translation": "くっ…！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_KYOUHU_REACTION_2_0",
+    "original": "これは！？ ",
+    "translation": "これは！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_KYOUHU_REACTION_3_0",
+    "original": "う、風が！？ ",
+    "translation": "う、風が！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_STAIR_FIND_1_0",
+    "original": "先に進めそうだが、どうする？ ",
+    "translation": "先に進めそうだが、どうする？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_STAIR_FIND_2_0",
+    "original": "あそこに階段があるな。 ",
+    "translation": "あそこに階段があるな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_STAIR_FIND_3_0",
+    "original": "階段か…次のフロアに進めそうだ。 ",
+    "translation": "階段か…次のフロアに進めそうだ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_TREASURE_FIND_1_0",
+    "original": "宝箱があるな…開けてみるか。 ",
+    "translation": "宝箱があるな…開けてみるか。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_TREASURE_FIND_2_0",
+    "original": "む…宝箱があるな。 ",
+    "translation": "む…宝箱があるな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_TREASURE_FIND_3_0",
+    "original": "前方に宝箱だ。 ",
+    "translation": "前方に宝箱だ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_CHECK_WALL_1_0",
+    "original": "む…あれはなんだ？ ",
+    "translation": "む…あれはなんだ？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_CHECK_WALL_2_0",
+    "original": "…気になるな、調べてもらえないか？ ",
+    "translation": "…気になるな、調べてもらえないか？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_CHECK_WALL_3_0",
+    "original": "あれは何だ…？　調べてみよう。 ",
+    "translation": "あれは何だ…？　調べてみよう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_SWITCH_FIND_1_0",
+    "original": "ん？　これは…スイッチか？ ",
+    "translation": "ん？　これは…スイッチか？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_SWITCH_FIND_2_0",
+    "original": "見ろ、ここにスイッチがあるぞ。 ",
+    "translation": "見ろ、ここにスイッチがあるぞ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_SWITCH_FIND_3_0",
+    "original": "スイッチか…判断は任せる。 ",
+    "translation": "スイッチか…判断は任せる。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_SHORTCUT_FIND_1_0",
+    "original": "ん？　そこから通れそうだな。 ",
+    "translation": "ん？　そこから通れそうだな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_SHORTCUT_FIND_2_0",
+    "original": "よし、近道にできそうだな。 ",
+    "translation": "よし、近道にできそうだな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_SHORTCUT_FIND_3_0",
+    "original": "見ろ、ショートカットになりそうだ。 ",
+    "translation": "見ろ、ショートカットになりそうだ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_FOE_WARNING_NEAR__0",
+    "original": "油断するな！\nまだＦ．Ｏ．Ｅがいるぞ！ ",
+    "translation": "油断するな！\nまだＦ．Ｏ．Ｅがいるぞ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_FOE_WARNING_NEAR__2_0",
+    "original": "あのＦ．Ｏ．Ｅ、 \nまだ追ってきてるのか… ",
+    "translation": "あのＦ．Ｏ．Ｅ、 \nまだ追ってきてるのか… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_FOE_WARNING_NEAR__3_0",
+    "original": "気を抜くな！\nＦ．Ｏ．Ｅもいるぞ！ ",
+    "translation": "気を抜くな！\nＦ．Ｏ．Ｅもいるぞ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_1PERSON_HPTP10_1_0",
+    "original": "くっ…大丈夫だ、まだ、いける… ",
+    "translation": "くっ…大丈夫だ、まだ、いける… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_1PERSON_HPTP10_2_0",
+    "original": "私としたことが…不覚を取った… ",
+    "translation": "私としたことが…不覚を取った… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_1PERSON_HPTP10_3_0",
+    "original": "足手まといにはなりたくないのだがな… ",
+    "translation": "足手まといにはなりたくないのだがな… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_1PERSON_HP10_1_0",
+    "original": "ハァっ…悪いが、回復を頼めないか？ ",
+    "translation": "ハァっ…悪いが、回復を頼めないか？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_1PERSON_HP10_2_0",
+    "original": "くっ…体力が厳しいな… ",
+    "translation": "くっ…体力が厳しいな… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_1PERSON_HP10_3_0",
+    "original": "すまない、体力の限界が近い… ",
+    "translation": "すまない、体力の限界が近い… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_1PERSON_TP10_1_0",
+    "original": "気力が尽きそうだ…すまない… ",
+    "translation": "気力が尽きそうだ…すまない… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_1PERSON_TP10_2_0",
+    "original": "少し疲弊してきたようだ… ",
+    "translation": "少し疲弊してきたようだ… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_1PERSON_TP10_3_0",
+    "original": "すまない…少し休まないか？ ",
+    "translation": "すまない…少し休まないか？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_1PERSON_HP80_1_0",
+    "original": "次もこの調子でいきたいものだな。 ",
+    "translation": "次もこの調子でいきたいものだな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_1PERSON_HP80_2_0",
+    "original": "我々も成長しているということだな。 ",
+    "translation": "我々も成長しているということだな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_1PERSON_HP80_3_0",
+    "original": "ブリリアント！　見事な戦いだった。 ",
+    "translation": "ブリリアント！　見事な戦いだった。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_DUNGEON_START_1_0",
+    "original": "指揮は任せる。 ",
+    "translation": "指揮は任せる。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_DUNGEON_START_2_0",
+    "original": "行くぞ！ ",
+    "translation": "行くぞ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_DUNGEON_START_3_0",
+    "original": "探索を開始する！ ",
+    "translation": "探索を開始する！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_QUEST_START_1_0",
+    "original": "では行くとしよう。 ",
+    "translation": "では行くとしよう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_QUEST_START_2_0",
+    "original": "ミッションを開始する！ ",
+    "translation": "ミッションを開始する！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_QUEST_START_3_0",
+    "original": "始めるぞ、みんな。 ",
+    "translation": "始めるぞ、みんな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_TOUHA_25_1_0",
+    "original": "まだまだ先は長そうだな。 ",
+    "translation": "まだまだ先は長そうだな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_TOUHA_25_2_0",
+    "original": "無理せずに進もう。 ",
+    "translation": "無理せずに進もう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_TOUHA_50_1_0",
+    "original": "任せっきりですまない、疲れてないか？ ",
+    "translation": "任せっきりですまない、疲れてないか？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_TOUHA_50_2_0",
+    "original": "このフロアもだいぶ入り組んでいるな。 ",
+    "translation": "このフロアもだいぶ入り組んでいるな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_TOUHA_75_1_0",
+    "original": "かなり歩いたな、体力は大丈夫か？ ",
+    "translation": "かなり歩いたな、体力は大丈夫か？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_TOUHA_75_2_0",
+    "original": "全体の構造が見えてきたな… ",
+    "translation": "全体の構造が見えてきたな… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_TOUHA_100_1_0",
+    "original": "これでこのフロアは \n迷わず移動できるな。 ",
+    "translation": "これでこのフロアは \n迷わず移動できるな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_TOUHA_100_2_0",
+    "original": "君に任せて正解だった。 ",
+    "translation": "君に任せて正解だった。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_MAPPING_ICON_ALL__0",
+    "original": "私の記憶と相違ない。 ",
+    "translation": "私の記憶と相違ない。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_MAPPING_ICON_ALL__2_0",
+    "original": "そういえば、そんなものもあったな。 ",
+    "translation": "そういえば、そんなものもあったな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_MAPPING_ICON_KAID_0",
+    "original": "これで階段まで迷わないな。 ",
+    "translation": "これで階段まで迷わないな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_MAPPING_ICON_KAID_2_0",
+    "original": "ここからフロア移動できるのだな。 ",
+    "translation": "ここからフロア移動できるのだな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_MAPPING_CHANGE_CO_0",
+    "original": "ほう…悪くないセンスだ。 ",
+    "translation": "ほう…悪くないセンスだ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_MAPPING_CHANGE_CO_2_0",
+    "original": "その発想は無かったぞ。 ",
+    "translation": "その発想は無かったぞ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_MAPPING_ICON_DEL__0",
+    "original": "スッキリしたな。 ",
+    "translation": "スッキリしたな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_MAPPING_ICON_DEL__2_0",
+    "original": "無駄の無い美しい地図だ。 ",
+    "translation": "無駄の無い美しい地図だ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_MAPPING_MEMO_1_0",
+    "original": "ああ、これで忘れないな。 ",
+    "translation": "ああ、これで忘れないな。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_MAPPING_MEMO_2_0",
+    "original": "後で確認しよう。 ",
+    "translation": "後で確認しよう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_DOOR_OPEN_1_0",
+    "original": "先に進もう。 ",
+    "translation": "先に進もう。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_DOOR_OPEN_2_0",
+    "original": "よし、前進だ。 ",
+    "translation": "よし、前進だ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MITURU_DOOR_OPEN_3_0",
+    "original": "早く来い。 ",
+    "translation": "早く来い。 ",
+    "stage": 1,
+    "context": ""
+  }
+]

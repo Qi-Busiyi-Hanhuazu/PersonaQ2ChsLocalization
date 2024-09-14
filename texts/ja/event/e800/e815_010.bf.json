@@ -1,0 +1,233 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "さて、こちらの特別上映は…",
+    "translation": "さて、こちらの特別上映は…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "『ジュネシック・ランド』にて暴虐の限りを\n尽くす『肉食獣』を退治せよ、というもの。",
+    "translation": "『ジュネシック・ランド』にて暴虐の限りを\n尽くす『肉食獣』を退治せよ、というもの。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "肉食…って、Ｆ．Ｏ．Ｅの\n肉食恐竜とは違うの？",
+    "translation": "肉食…って、Ｆ．Ｏ．Ｅの\n肉食恐竜とは違うの？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "はい…こちら、恐竜など目ではない\n危険度メガ盛りＭＡＸのヤンチャな野郎。",
+    "translation": "はい…こちら、恐竜など目ではない\n危険度メガ盛りＭＡＸのヤンチャな野郎。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "目に入る物全てを喰い散らかすという、\nまさにケ・ダ・モ・ノでございます。",
+    "translation": "目に入る物全てを喰い散らかすという、\nまさにケ・ダ・モ・ノでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "彼奴は、風の向くまま気の向くまま\n暴れまくっている様子…",
+    "translation": "彼奴は、風の向くまま気の向くまま\n暴れまくっている様子…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_3",
+    "original": "退治しなければ、皆様もいずれ餌食となって\nしまわれるのでは…と心を砕いております。",
+    "translation": "退治しなければ、皆様もいずれ餌食となって\nしまわれるのでは…と心を砕いております。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "なんっか言ってることと表情が\n合ってねェな…",
+    "translation": "なんっか言ってることと表情が\n合ってねェな…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ほう、それは恐ろしい奴だな。",
+    "translation": "ほう、それは恐ろしい奴だな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "テメエもな…",
+    "translation": "テメエもな…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "で、そいつをどうやって見つける？\nナビで探せんのか？",
+    "translation": "で、そいつをどうやって見つける？\nナビで探せんのか？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うーん、あちこち動き回られたら\n場所を特定できないかも…",
+    "translation": "うーん、あちこち動き回られたら\n場所を特定できないかも…",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "なにか手掛かりないかな。\nそいつがいそうな場所…",
+    "translation": "なにか手掛かりないかな。\nそいつがいそうな場所…",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "骨を探そう",
+    "translation": "骨を探そう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "エサの近くだ",
+    "translation": "エサの近くだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "なるほど、まずは『肉食獣』とやらの\n痕跡を探せばいい。",
+    "translation": "なるほど、まずは『肉食獣』とやらの\n痕跡を探せばいい。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "獲物を手当たり次第に襲って食うなら、\n食事の跡を辿って行けば…",
+    "translation": "獲物を手当たり次第に襲って食うなら、\n食事の跡を辿って行けば…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "いずれそいつとご対面ってわけか。\nゾッとしねえな。",
+    "translation": "いずれそいつとご対面ってわけか。\nゾッとしねえな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "新しい食事の跡…\nつまり新しい『骨』を探していく。",
+    "translation": "新しい食事の跡…\nつまり新しい『骨』を探していく。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "それでいいよね、[P5名]。",
+    "translation": "それでいいよね、[P5名]。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "任せた",
+    "translation": "任せた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "好きにしろ",
+    "translation": "好きにしろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "僕に…？",
+    "translation": "僕に…？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "はは、わかった。\nたまには活躍させてもらわないとね。",
+    "translation": "はは、わかった。\nたまには活躍させてもらわないとね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "はは、僕に任せてくれるってこと？",
+    "translation": "はは、僕に任せてくれるってこと？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "わかった。\n『肉食獣』がどんなヤツか興味もあるし。",
+    "translation": "わかった。\n『肉食獣』がどんなヤツか興味もあるし。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "とにかく、骨のある相手に違いない。\n早く会わせてくれ。",
+    "translation": "とにかく、骨のある相手に違いない。\n早く会わせてくれ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "はは、頼りにしてるよ。\n僕も期待に沿えるように頑張るから。",
+    "translation": "はは、頼りにしてるよ。\n僕も期待に沿えるように頑張るから。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

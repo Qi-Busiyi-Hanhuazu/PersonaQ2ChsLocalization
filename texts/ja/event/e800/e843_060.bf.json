@@ -1,0 +1,373 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "およ？　行き止まりクマか？\nここがきっとゴールね！",
+    "translation": "およ？　行き止まりクマか？\nここがきっとゴールね！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "お、おい、ちょっと待て。\nもしハズレのゴールだったら…",
+    "translation": "お、おい、ちょっと待て。\nもしハズレのゴールだったら…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "床がパカっと割れて落っこったり、\n粉まみれにされちゃったりして…？",
+    "translation": "床がパカっと割れて落っこったり、\n粉まみれにされちゃったりして…？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "わわっ、何！？",
+    "translation": "わわっ、何！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "皆様、お疲れ様でした。\nこちらがゴールとなります。",
+    "translation": "皆様、お疲れ様でした。\nこちらがゴールとなります。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "はぁー、ビビったぜ。\n最初んときのオネーサンか…",
+    "translation": "はぁー、ビビったぜ。\n最初んときのオネーサンか…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "貴方がたの選択、\n興味深く拝見させて頂いたわ。",
+    "translation": "貴方がたの選択、\n興味深く拝見させて頂いたわ。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "お気付きかも知れないけれど、\n用意した『質問』に正解はありません。",
+    "translation": "お気付きかも知れないけれど、\n用意した『質問』に正解はありません。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "貴方がたがどう考え、何を感じるか\nそれを知りたかっただけ。",
+    "translation": "貴方がたがどう考え、何を感じるか\nそれを知りたかっただけ。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "面白かった",
+    "translation": "面白かった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "趣味が悪いな",
+    "translation": "趣味が悪いな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "フフ、気に入ってもらえて何より。",
+    "translation": "フフ、気に入ってもらえて何より。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "こうして考えることは、\n決して無駄にはならないはずよ。",
+    "translation": "こうして考えることは、\n決して無駄にはならないはずよ。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あら、お気に召さなかったかしら？",
+    "translation": "あら、お気に召さなかったかしら？",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "少々、極端な質問だったけれど、\n真剣に考えてもらうために必要だったの。",
+    "translation": "少々、極端な質問だったけれど、\n真剣に考えてもらうために必要だったの。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "とにかく、興味深いものが見られたお礼に、\nささやかな贈り物を用意してあります。",
+    "translation": "とにかく、興味深いものが見られたお礼に、\nささやかな贈り物を用意してあります。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "貴方は、とても合理的な考えを\n持っていたわね。",
+    "translation": "貴方は、とても合理的な考えを\n持っていたわね。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "状況に惑わされず、冷静な判断ができる…\nそんな強さを持った人なのかしら。",
+    "translation": "状況に惑わされず、冷静な判断ができる…\nそんな強さを持った人なのかしら。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_010_2",
+    "original": "そんな貴方には、こちらを。",
+    "translation": "そんな貴方には、こちらを。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "足元に何か落ちている…",
+    "translation": "足元に何か落ちている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "『ロゴスの鏡』を手に入れた！",
+    "translation": "『ロゴスの鏡』を手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "貴方は、とても優しい人なのかしら。\nいえ、きっとそれだけじゃない。",
+    "translation": "貴方は、とても優しい人なのかしら。\nいえ、きっとそれだけじゃない。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "いかなる時も、守るべき信念を曲げない…\nその姿勢に周囲は心惹かれるのね。",
+    "translation": "いかなる時も、守るべき信念を曲げない…\nその姿勢に周囲は心惹かれるのね。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_012_2",
+    "original": "そんな貴方には、こちらを。",
+    "translation": "そんな貴方には、こちらを。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "足元に何か落ちている…",
+    "translation": "足元に何か落ちている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "『ロマンの鏡』を手に入れた！",
+    "translation": "『ロマンの鏡』を手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "貴方には、直感をそのまま行動に移せる、\n素直な一面を感じるわ。",
+    "translation": "貴方には、直感をそのまま行動に移せる、\n素直な一面を感じるわ。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "その天性のバランスの取れた感覚は、\n多くの人の共感を得ることでしょう。",
+    "translation": "その天性のバランスの取れた感覚は、\n多くの人の共感を得ることでしょう。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_014_2",
+    "original": "そんな貴方には、こちらを。",
+    "translation": "そんな貴方には、こちらを。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "足元に何か落ちている…",
+    "translation": "足元に何か落ちている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "『センスの鏡』を手に入れた！",
+    "translation": "『センスの鏡』を手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "あら…貴方は多くの人とは違う、\nとても個性的な考えの持ち主のようね。",
+    "translation": "あら…貴方は多くの人とは違う、\nとても個性的な考えの持ち主のようね。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "世に変革をもたらす者とは、そういうもの。\nその感性、大事にするといいわ。",
+    "translation": "世に変革をもたらす者とは、そういうもの。\nその感性、大事にするといいわ。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_016_2",
+    "original": "そんな貴方には、こちらを。",
+    "translation": "そんな貴方には、こちらを。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "足元に何か落ちている…",
+    "translation": "足元に何か落ちている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "『イタンの鏡』を手に入れた！",
+    "translation": "『イタンの鏡』を手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "今しがた、貴方の意志でした選択も、\n時間が経てば移ろうかもしれない。",
+    "translation": "今しがた、貴方の意志でした選択も、\n時間が経てば移ろうかもしれない。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "機会があればまた考えてみるのも、\n面白いかもしれないわね。",
+    "translation": "機会があればまた考えてみるのも、\n面白いかもしれないわね。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_018_2",
+    "original": "短い間だったけれど、\nとても有意義な時間だった。",
+    "translation": "短い間だったけれど、\nとても有意義な時間だった。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_018_3",
+    "original": "それでは、ごきげんよう。",
+    "translation": "それでは、ごきげんよう。",
+    "stage": 1,
+    "context": "艶やかな声"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "はー、セクシーなお声…\n間違いなく美女に違いない、うん。",
+    "translation": "はー、セクシーなお声…\n間違いなく美女に違いない、うん。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ハァ…この期に及んで感想がそれって、\n一度トロッコに轢かれとけば？",
+    "translation": "ハァ…この期に及んで感想がそれって、\n一度トロッコに轢かれとけば？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "てか、たった２つの質問なのに、\n頭めっちゃ使ったー！",
+    "translation": "てか、たった２つの質問なのに、\n頭めっちゃ使ったー！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "いろいろ考えさせられる内容だったね。",
+    "translation": "いろいろ考えさせられる内容だったね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "ジョーカーの考え方も垣間見えたし、\nとても楽しかった。",
+    "translation": "ジョーカーの考え方も垣間見えたし、\nとても楽しかった。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "これにて終了みたいだな。\nじゃ、戻るとするか。",
+    "translation": "これにて終了みたいだな。\nじゃ、戻るとするか。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_艶やかな声",
+    "original": "艶やかな声",
+    "translation": "艶やかな声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

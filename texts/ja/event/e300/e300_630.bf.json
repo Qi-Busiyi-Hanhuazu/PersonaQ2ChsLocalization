@@ -1,0 +1,674 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "あ…ワタ…シ…ハ…",
+    "translation": "あ…ワタ…シ…ハ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "目が覚めたでありますか？",
+    "translation": "目が覚めたでありますか？",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "リボン…\nよかった、起動してくれた。",
+    "translation": "リボン…\nよかった、起動してくれた。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ワ…ワタシ…ハ…",
+    "translation": "ワ…ワタシ…ハ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "どう？　自分が誰か分かる？",
+    "translation": "どう？　自分が誰か分かる？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ワタシは…ＵＩＹ－２２４９…",
+    "translation": "ワタシは…ＵＩＹ－２２４９…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あ…",
+    "translation": "あ…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "…いいえ。\n私は、リボン…リボンです。",
+    "translation": "…いいえ。\n私は、リボン…リボンです。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "リボン！！",
+    "translation": "リボン！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "よっしゃー！\nやったな！",
+    "translation": "よっしゃー！\nやったな！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "私は…いったい…",
+    "translation": "私は…いったい…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "オルギアモードによる著しい消耗です。\n起動に問題が発生していました。",
+    "translation": "オルギアモードによる著しい消耗です。\n起動に問題が発生していました。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "なので、一時的にわたしの回路と\n接続することでそこから復旧を試みました。",
+    "translation": "なので、一時的にわたしの回路と\n接続することでそこから復旧を試みました。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "賭けだったが、無事に成功したようだな。",
+    "translation": "賭けだったが、無事に成功したようだな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "だが、リボンもオルギアモードを\n使えるとは…ナビ、あれは君の仕業か？",
+    "translation": "だが、リボンもオルギアモードを\n使えるとは…ナビ、あれは君の仕業か？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "くふふ…わたしはリミッターの解除に\n協力しただけだぞ。",
+    "translation": "くふふ…わたしはリミッターの解除に\n協力しただけだぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "リボンが自分の意志で解除できるように、\nちょっとプログラムを書き換えてな。",
+    "translation": "リボンが自分の意志で解除できるように、\nちょっとプログラムを書き換えてな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ハイ。私モ、皆さんト戦うコトヲ\n選びマシタ。",
+    "translation": "ハイ。私モ、皆さんト戦うコトヲ\n選びマシタ。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "フッ、立派な心がけだったぞ。\nお前も変わったんだな、リボン。",
+    "translation": "フッ、立派な心がけだったぞ。\nお前も変わったんだな、リボン。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "おかげで、マザーコンピュータは消えた。\nこれでリボンは自由の身だ。",
+    "translation": "おかげで、マザーコンピュータは消えた。\nこれでリボンは自由の身だ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_017_0",
+    "original": "やったな",
+    "translation": "やったな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_017_1",
+    "original": "この世界はどうなる？",
+    "translation": "この世界はどうなる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ええ。ですが、これで全てが\n終わりではありません。",
+    "translation": "ええ。ですが、これで全てが\n終わりではありません。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_018_1",
+    "original": "リボンさんもそうですが、\nこれからこの世界はどうなるのでしょう？",
+    "translation": "リボンさんもそうですが、\nこれからこの世界はどうなるのでしょう？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "この世界もそうですが、リボンさんは\nこれからどうするつもりですか？",
+    "translation": "この世界もそうですが、リボンさんは\nこれからどうするつもりですか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "いずれ私以外にも『個』を\n獲得スル仲間が出テクルと思イマス。",
+    "translation": "いずれ私以外にも『個』を\n獲得スル仲間が出テクルと思イマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "その時、排除スルことなく、\n共に生キテいける世界を作リたいデス。",
+    "translation": "その時、排除スルことなく、\n共に生キテいける世界を作リたいデス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "おお、そりゃスゲーな！\n応援するぜ！　なあ、ジョーカー？",
+    "translation": "おお、そりゃスゲーな！\n応援するぜ！　なあ、ジョーカー？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_022_0",
+    "original": "この世界を頼む",
+    "translation": "この世界を頼む",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_022_1",
+    "original": "リボンならできる",
+    "translation": "リボンならできる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ありがとうございマス。\n必ズ、実現シテみせマス。",
+    "translation": "ありがとうございマス。\n必ズ、実現シテみせマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "立派な目標であります。",
+    "translation": "立派な目標であります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "アイギスさん…\nアイギスさんは、特別デシタ…",
+    "translation": "アイギスさん…\nアイギスさんは、特別デシタ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "同じロボットなのニ、とても自由デ、\nハジメはとても混乱シマシタ。",
+    "translation": "同じロボットなのニ、とても自由デ、\nハジメはとても混乱シマシタ。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "だって、アイギス。",
+    "translation": "だって、アイギス。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "わたしは特別ではありません。\nただ仮に、特別があるとすれば…",
+    "translation": "わたしは特別ではありません。\nただ仮に、特別があるとすれば…",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_027_1",
+    "original": "それは、ありのままのわたしを\n受け入れてくれるみなさんであります。",
+    "translation": "それは、ありのままのわたしを\n受け入れてくれるみなさんであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "ありノまま…",
+    "translation": "ありノまま…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "わたしたちだけじゃない。この先も、\nリボンを受け入れてくれる奴は必ずいる。",
+    "translation": "わたしたちだけじゃない。この先も、\nリボンを受け入れてくれる奴は必ずいる。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "だから、オマエも新しい仲間を作れ。\nそうしたらきっと、毎日楽しい。",
+    "translation": "だから、オマエも新しい仲間を作れ。\nそうしたらきっと、毎日楽しい。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "リボンさん。\nあなたの『特別』を見つけてください。",
+    "translation": "リボンさん。\nあなたの『特別』を見つけてください。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ハイ…\n私、ガンバルでありマス！",
+    "translation": "ハイ…\n私、ガンバルでありマス！",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ガンバレであります！",
+    "translation": "ガンバレであります！",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "最高のロボになれよ、リボン！\nぜったい、ぜったいにだからな！？",
+    "translation": "最高のロボになれよ、リボン！\nぜったい、ぜったいにだからな！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "約束しマス、ナビさん。",
+    "translation": "約束しマス、ナビさん。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_034_5_0",
+    "original": "皆さんも、有難うゴザイマシタ。\nどうかお元気デ…",
+    "translation": "皆さんも、有難うゴザイマシタ。\nどうかお元気デ…",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "行っちゃいましたね。",
+    "translation": "行っちゃいましたね。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "…これにて、一件落着か。\nめでたしめでたし…だね。",
+    "translation": "…これにて、一件落着か。\nめでたしめでたし…だね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "お、めずらしく[P3P名]ちゃんも\nしんみりモードか？",
+    "translation": "お、めずらしく[P3P名]ちゃんも\nしんみりモードか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "うん…\nなんか、胸がいっぱいになっちゃって。",
+    "translation": "うん…\nなんか、胸がいっぱいになっちゃって。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_038_1",
+    "original": "リボンちゃんも、ずっと一人だったから…\n何だか、他人みたいに思えなかったんだ。",
+    "translation": "リボンちゃんも、ずっと一人だったから…\n何だか、他人みたいに思えなかったんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_039_0",
+    "original": "大丈夫か？",
+    "translation": "大丈夫か？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_039_1",
+    "original": "寂しい？",
+    "translation": "寂しい？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_039_2",
+    "original": "みんな一人じゃない",
+    "translation": "みんな一人じゃない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "ありがとう、大丈夫！\nそれに、悲しい結末じゃないもんね。",
+    "translation": "ありがとう、大丈夫！\nそれに、悲しい結末じゃないもんね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_040_1",
+    "original": "リボンちゃんは、もう自分の居場所を\n見つけられるようになるんだよね。",
+    "translation": "リボンちゃんは、もう自分の居場所を\n見つけられるようになるんだよね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_040_3_0",
+    "original": "今ね、すごく嬉しい気持ちだよ。",
+    "translation": "今ね、すごく嬉しい気持ちだよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_040_5_0",
+    "original": "フッ…まるで自分のことのようだな。",
+    "translation": "フッ…まるで自分のことのようだな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "泣きたいなら、クマの胸を貸すクマ。\nさあ、いくらでも泣きんしゃい！",
+    "translation": "泣きたいなら、クマの胸を貸すクマ。\nさあ、いくらでも泣きんしゃい！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "あはは、ありがと。\n大丈夫だよ、悲しい結末じゃないもん。",
+    "translation": "あはは、ありがと。\n大丈夫だよ、悲しい結末じゃないもん。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_042_1",
+    "original": "リボンちゃんは、もう自分の居場所を\n見つけられるようになるんだよね。",
+    "translation": "リボンちゃんは、もう自分の居場所を\n見つけられるようになるんだよね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_042_5_0",
+    "original": "今ね、すごく嬉しい気持ちだよ。",
+    "translation": "今ね、すごく嬉しい気持ちだよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "フッ…まるで自分のことのようだな。",
+    "translation": "フッ…まるで自分のことのようだな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "ああ、そうだな。",
+    "translation": "ああ、そうだな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "リボンも一人だったから、\n他人事に思えなかった、と言っていたが…",
+    "translation": "リボンも一人だったから、\n他人事に思えなかった、と言っていたが…",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_046_1",
+    "original": "君だって、今は一人じゃないだろう？",
+    "translation": "君だって、今は一人じゃないだろう？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "…え？",
+    "translation": "…え？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "共に戦う者として、とっくに\n君への信頼は充分だと判断している。",
+    "translation": "共に戦う者として、とっくに\n君への信頼は充分だと判断している。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_048_1",
+    "original": "もっときちんと言葉にするならば、\nこの関係を『仲間』と呼ばせてほしい。",
+    "translation": "もっときちんと言葉にするならば、\nこの関係を『仲間』と呼ばせてほしい。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "美鶴先輩…！",
+    "translation": "美鶴先輩…！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "オレっちのことも、もう一人のオレっち\n以上に頼りにしてくれていいぜ？",
+    "translation": "オレっちのことも、もう一人のオレっち\n以上に頼りにしてくれていいぜ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_052_1",
+    "original": "世界を救う、真のヒーロー！\nこの伊織順平サマに任せたまえ！",
+    "translation": "世界を救う、真のヒーロー！\nこの伊織順平サマに任せたまえ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "あー、こんなのが他の世界にもいるとか、\n考えただけでゲンナリする…",
+    "translation": "あー、こんなのが他の世界にもいるとか、\n考えただけでゲンナリする…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_053_1",
+    "original": "今でさえ、順平一人でも多いくらいなのに。",
+    "translation": "今でさえ、順平一人でも多いくらいなのに。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "オイ！　一人より少なくしたら、\nオレの存在消えちゃうだろーが！！",
+    "translation": "オイ！　一人より少なくしたら、\nオレの存在消えちゃうだろーが！！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "あははっ！",
+    "translation": "あははっ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "ふふっ。それでは皆さん、\n改めてよろしくお願いしますね。",
+    "translation": "ふふっ。それでは皆さん、\n改めてよろしくお願いしますね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_056_1",
+    "original": "私も精いっぱいナビしますから、\n必ずみんなで、ここを脱出しましょう。",
+    "translation": "私も精いっぱいナビしますから、\n必ずみんなで、ここを脱出しましょう。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  }
+]

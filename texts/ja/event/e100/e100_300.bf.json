@@ -1,0 +1,429 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "スクリーンから、中に入るんだよね…？\n少し緊張しちゃうな。",
+    "translation": "スクリーンから、中に入るんだよね…？\n少し緊張しちゃうな。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "…行くの？",
+    "translation": "…行くの？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ひかりちゃん？",
+    "translation": "ひかりちゃん？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "どうして…？　あなたの捜してる人は\nみんなと違う…",
+    "translation": "どうして…？　あなたの捜してる人は\nみんなと違う…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "みんなと行っても、\n見つからないんじゃ…",
+    "translation": "みんなと行っても、\n見つからないんじゃ…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あはは、確かにそうだね。",
+    "translation": "あはは、確かにそうだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "でも、絶対なんて誰にも分からない…\n誰かが決めることでもない。",
+    "translation": "でも、絶対なんて誰にも分からない…\n誰かが決めることでもない。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_2",
+    "original": "私がどうしたいのか考えてみたら、\n一緒に行きたいって、そう思っただけだよ。",
+    "translation": "私がどうしたいのか考えてみたら、\n一緒に行きたいって、そう思っただけだよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "助けてもらったから…？\nみんなに…恩返しする、ため？",
+    "translation": "助けてもらったから…？\nみんなに…恩返しする、ため？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "それももちろんだけど、何より\n仲間を心配する気持ち、わかるんだ。",
+    "translation": "それももちろんだけど、何より\n仲間を心配する気持ち、わかるんだ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "…私にも、大切な仲間がいるから。",
+    "translation": "…私にも、大切な仲間がいるから。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "仲間…",
+    "translation": "仲間…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "その仲間も、\nひょっとしてペルソナ使い？",
+    "translation": "その仲間も、\nひょっとしてペルソナ使い？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "うん、『特別課外活動部』って言ってね。\nみんなこの腕章をつけてるの。",
+    "translation": "うん、『特別課外活動部』って言ってね。\nみんなこの腕章をつけてるの。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "へー。仲間の証って感じでイイな。",
+    "translation": "へー。仲間の証って感じでイイな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "へへ、そうでしょ？\n今は私だけしかいないけどね。",
+    "translation": "へへ、そうでしょ？\n今は私だけしかいないけどね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "大丈夫、私たちもついてるから。\n一緒にガンバろ！",
+    "translation": "大丈夫、私たちもついてるから。\n一緒にガンバろ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "じゃあ、みんな見つかるまで、私も怪盗団！",
+    "translation": "じゃあ、みんな見つかるまで、私も怪盗団！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "なんて…ダメかな？",
+    "translation": "なんて…ダメかな？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_014_0",
+    "original": "そのつもりだ",
+    "translation": "そのつもりだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_1",
+    "original": "やめたほうがいい",
+    "translation": "やめたほうがいい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_2",
+    "original": "怪盗服がないと…",
+    "translation": "怪盗服がないと…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "だな！\nなんつーか、もうすっかり馴染んでるし。",
+    "translation": "だな！\nなんつーか、もうすっかり馴染んでるし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "うおお…すげえ…\nさすが、コミュ力お化けだな。",
+    "translation": "うおお…すげえ…\nさすが、コミュ力お化けだな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ああ、生半可な気持ちで言ってると\nイタイ目を見るぜ。",
+    "translation": "ああ、生半可な気持ちで言ってると\nイタイ目を見るぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "こーら、アンタたち！\n新しい仲間を脅かさないの！",
+    "translation": "こーら、アンタたち！\n新しい仲間を脅かさないの！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "うーん…この服じゃダメ？\nやっぱりマスク必須？",
+    "translation": "うーん…この服じゃダメ？\nやっぱりマスク必須？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ならば、ボディペイントという手もあるが。\n直に肌へ筆を走らせるのも、興味がある。",
+    "translation": "ならば、ボディペイントという手もあるが。\n直に肌へ筆を走らせるのも、興味がある。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "それ以上はやめとけ、おイナリ。\nなんか捕まりそうな臭いする。",
+    "translation": "それ以上はやめとけ、おイナリ。\nなんか捕まりそうな臭いする。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "仲間って…分からない…",
+    "translation": "仲間って…分からない…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ひかりちゃん…？",
+    "translation": "ひかりちゃん…？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "…なんでも、ない……",
+    "translation": "…なんでも、ない……",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "ひかりさん…",
+    "translation": "ひかりさん…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ひっ、ひかり…！",
+    "translation": "ひっ、ひかり…！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "……？",
+    "translation": "……？",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "わたしも…前は一人のほうがラクとか\n考えてて、でも…みんなと会って、その…",
+    "translation": "わたしも…前は一人のほうがラクとか\n考えてて、でも…みんなと会って、その…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_028_5_0",
+    "original": "今は、仲間も悪くないなーって…思ってる！\nだ、だよな、[P5名]！？",
+    "translation": "今は、仲間も悪くないなーって…思ってる！\nだ、だよな、[P5名]！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "SEL_029_0",
+    "original": "確かに悪くない",
+    "translation": "確かに悪くない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_029_1",
+    "original": "仲間がいると強くなれる",
+    "translation": "仲間がいると強くなれる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_029_2",
+    "original": "なぜ、自分に？",
+    "translation": "なぜ、自分に？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "そう…",
+    "translation": "そう…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_030_1",
+    "original": "でも、私には…よく分からない…",
+    "translation": "でも、私には…よく分からない…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "こういうのは、\nやっぱ[P5名]の役目だろ！",
+    "translation": "こういうのは、\nやっぱ[P5名]の役目だろ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_031_1",
+    "original": "とっとと…とにかくだ！\n仲間は良いぞ！！",
+    "translation": "とっとと…とにかくだ！\n仲間は良いぞ！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "私には…よく分からない…",
+    "translation": "私には…よく分からない…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "まあまあ…今はそれよりも、\nやるべきことがあるのでしょう？",
+    "translation": "まあまあ…今はそれよりも、\nやるべきことがあるのでしょう？",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "この映画は、皆さまが進まなければ\n変化が起こらないようですから…",
+    "translation": "この映画は、皆さまが進まなければ\n変化が起こらないようですから…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "うん…今までは、なにも…\n映画に、変化なんて無かった…",
+    "translation": "うん…今までは、なにも…\n映画に、変化なんて無かった…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_034_1",
+    "original": "なのに、みんなが来て…\n急に、話が進みだした…",
+    "translation": "なのに、みんなが来て…\n急に、話が進みだした…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "ふうむ…ならば尚更、映画の世界に\n戻らないとだな。二人が心配だ。",
+    "translation": "ふうむ…ならば尚更、映画の世界に\n戻らないとだな。二人が心配だ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "ああ、ここが何かを知るためにも、\n行く必要があるね。",
+    "translation": "ああ、ここが何かを知るためにも、\n行く必要があるね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "よし、[P5名]。\n突入の合図は任せたぞ！",
+    "translation": "よし、[P5名]。\n突入の合図は任せたぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  }
+]

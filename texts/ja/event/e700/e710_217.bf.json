@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ちょっと待って。\n今は、持ち物がいっぱいみたいだね。",
+    "translation": "ちょっと待って。\n今は、持ち物がいっぱいみたいだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "これじゃ、何か見つけても持ち切れない。\nいったん整理すべきじゃないかな。",
+    "translation": "これじゃ、何か見つけても持ち切れない。\nいったん整理すべきじゃないかな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ふむ…\nここに何かありそうなのは間違いない。",
+    "translation": "ふむ…\nここに何かありそうなのは間違いない。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "戻って整理するとか、持ち物に余裕が\nあるときに調べようぜ、ジョーカー。",
+    "translation": "戻って整理するとか、持ち物に余裕が\nあるときに調べようぜ、ジョーカー。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

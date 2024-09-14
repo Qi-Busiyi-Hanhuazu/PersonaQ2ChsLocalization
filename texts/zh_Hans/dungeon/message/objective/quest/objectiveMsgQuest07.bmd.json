@@ -1,0 +1,37 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "『チキン・キッド』を討伐せよ！",
+    "translation": "讨伐“炸鸡小子”！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n讨伐“胆小鬼奇德”！\n\n讨伐“鸡·基德”！\n\n讨伐“炸鸡小子”！"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "オタカラハントか、目標討伐に向かえ",
+    "translation": "是寻宝还是去讨伐目标",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是寻宝还是讨伐目标\n\n宝贝猎手，向着目标讨伐前进吧！\n\n宝亨特啊，去讨伐目标吧"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "ＦＯＥがいる場所へ向かおう",
+    "translation": "前往有F.O.E的地方",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前往有F.O.E的地方\n\n去有FOE的地方吧\n\n去FOE所在的地方"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "ＦＯＥがいる場所へ向かおう",
+    "translation": "前往有F.O.E的地方",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前往有F.O.E的地方\n\n去有FOE的地方吧\n\n去FOE所在的地方"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_4_0",
+    "original": "クエストクリア報告に向かおう",
+    "translation": "去完成任务报告",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去完成任务报告\n\n向着任务完成报告前进吧\n\n前往任务通关报告"
+  }
+]

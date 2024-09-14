@@ -1,0 +1,443 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "＞映画『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』\n　第１ゾーン…",
+    "translation": "＞映画『Ａ．Ｉ．Ｇ．Ｉ．Ｓ』\n　第１ゾーン…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "実際に入ってみると、すごっ…\n八十稲羽と全っ然ちがう！",
+    "translation": "実際に入ってみると、すごっ…\n八十稲羽と全っ然ちがう！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "まるで、ＣＧで創られた世界みたいね。\n全てが画一的だわ。",
+    "translation": "まるで、ＣＧで創られた世界みたいね。\n全てが画一的だわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "えっ、なに！？",
+    "translation": "えっ、なに！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "個体識別番号…照合不可。",
+    "translation": "個体識別番号…照合不可。",
+    "stage": 1,
+    "context": "機械音声"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "同型の存在確認できず。\nニュータイプとして申請…",
+    "translation": "同型の存在確認できず。\nニュータイプとして申請…",
+    "stage": 1,
+    "context": "機械音声"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "照合？　ニュータイプ？",
+    "translation": "照合？　ニュータイプ？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "個体識別番号…ＴＫ－００から０８…\nＹＳ－００から０７…ＩＷ－００を登録…",
+    "translation": "個体識別番号…ＴＫ－００から０８…\nＹＳ－００から０７…ＩＷ－００を登録…",
+    "stage": 1,
+    "context": "機械音声"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "識別番号による個体管理…？\nディストピア系ＳＦの世界観ですね。",
+    "translation": "識別番号による個体管理…？\nディストピア系ＳＦの世界観ですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "すっげー、マジＳＦ映画みてーじゃん！\nや、ＳＦ映画なんだけどさ！！",
+    "translation": "すっげー、マジＳＦ映画みてーじゃん！\nや、ＳＦ映画なんだけどさ！！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "まさに近・未・来！！",
+    "translation": "まさに近・未・来！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ＳＦって、独特な世界で面白いよね。\nワクワクする気持ち、分かるかも。",
+    "translation": "ＳＦって、独特な世界で面白いよね。\nワクワクする気持ち、分かるかも。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "好きなのか？",
+    "translation": "好きなのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "ＳＦはいいぞ",
+    "translation": "ＳＦはいいぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "うん。ＳＦだけじゃないけどね。\n映画は色んなジャンルを見るよ。",
+    "translation": "うん。ＳＦだけじゃないけどね。\n映画は色んなジャンルを見るよ。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "少し意外かも。天城さんって、\n古式ゆかしいイメージだったから…",
+    "translation": "少し意外かも。天城さんって、\n古式ゆかしいイメージだったから…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "いやぁ～…天城は意外性の\nカタマリっつーかさ…うん。",
+    "translation": "いやぁ～…天城は意外性の\nカタマリっつーかさ…うん。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "え？　どういう意味？",
+    "translation": "え？　どういう意味？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "人は見かけで判断してはいけない、\nってことだ…",
+    "translation": "人は見かけで判断してはいけない、\nってことだ…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ああ。この機能美とも言うべき、\n幾何学的オブジェの数々…心が躍る！",
+    "translation": "ああ。この機能美とも言うべき、\n幾何学的オブジェの数々…心が躍る！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "未来人がなに食ってるかとか、\nちょっと面白そうっスね。",
+    "translation": "未来人がなに食ってるかとか、\nちょっと面白そうっスね。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ハイハイ！　あたしも気になる！\nやっぱ人工肉とか？",
+    "translation": "ハイハイ！　あたしも気になる！\nやっぱ人工肉とか？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "人類絶滅後の世界みたいだし、\n食べ物はないんじゃない？",
+    "translation": "人類絶滅後の世界みたいだし、\n食べ物はないんじゃない？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "ハイテクだけど、無機質と言うか。\nちょっと不気味よね…",
+    "translation": "ハイテクだけど、無機質と言うか。\nちょっと不気味よね…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ＳＦ、か…",
+    "translation": "ＳＦ、か…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "大丈夫か、ノワール？",
+    "translation": "大丈夫か、ノワール？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "うん…ちょっと思い出しちゃって。\nお父様のパレスのこと…",
+    "translation": "うん…ちょっと思い出しちゃって。\nお父様のパレスのこと…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "でも、もう大丈夫だよ。\nありがとう。",
+    "translation": "でも、もう大丈夫だよ。\nありがとう。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ところで、これからどこに向かうクマ？\n映画を変えるクマよね？",
+    "translation": "ところで、これからどこに向かうクマ？\n映画を変えるクマよね？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "まずは、あの赤いリボンのロボットを\n探すところからかな？",
+    "translation": "まずは、あの赤いリボンのロボットを\n探すところからかな？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "けど、ムダに歩き回ってもしょうがないし、\n敵もいそうだし…どうやって行こうか。",
+    "translation": "けど、ムダに歩き回ってもしょうがないし、\n敵もいそうだし…どうやって行こうか。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "アンチャン、不安クマ？\nクマの片手が空いてますぞ？",
+    "translation": "アンチャン、不安クマ？\nクマの片手が空いてますぞ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "こら、エログマ！　どさくさに紛れて、\nパンサーと手を繋ごうなんて許さん！",
+    "translation": "こら、エログマ！　どさくさに紛れて、\nパンサーと手を繋ごうなんて許さん！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "しょうがないクマね～。\nじゃあ、片手ずつ分ければ平等クマ。",
+    "translation": "しょうがないクマね～。\nじゃあ、片手ずつ分ければ平等クマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ムッ…？\nまぁ…それならいいが。",
+    "translation": "ムッ…？\nまぁ…それならいいが。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "いや、良くないでしょ。\n背丈が違いすぎて、腰痛めるし。",
+    "translation": "いや、良くないでしょ。\n背丈が違いすぎて、腰痛めるし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ガーン…！",
+    "translation": "ガーン…！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "ええと…話を戻そう。",
+    "translation": "ええと…話を戻そう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_033_1",
+    "original": "まずは、リボン付きのロボットを\n探すということに問題ないか？",
+    "translation": "まずは、リボン付きのロボットを\n探すということに問題ないか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "ええ。おそらく今回の映画では、\nあのロボットが鍵を握っているはず。",
+    "translation": "ええ。おそらく今回の映画では、\nあのロボットが鍵を握っているはず。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_035_0",
+    "original": "異論はない",
+    "translation": "異論はない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_035_1",
+    "original": "人工肉が食べたい",
+    "translation": "人工肉が食べたい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "決まりだね。\n早く探しに向かおう！",
+    "translation": "決まりだね。\n早く探しに向かおう！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "ハハ…そう言えば、ＳＦに出てくる\n人工肉の定番材料って知ってる？",
+    "translation": "ハハ…そう言えば、ＳＦに出てくる\n人工肉の定番材料って知ってる？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "なになに？\nそういや、何の肉か気になる！",
+    "translation": "なになに？\nそういや、何の肉か気になる！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "そ、その話はまた今度にしませんか？\n今は早く、先へ進まなければ。",
+    "translation": "そ、その話はまた今度にしませんか？\n今は早く、先へ進まなければ。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "ほら、行くぞ！\nオマエら、気を抜くなよ！",
+    "translation": "ほら、行くぞ！\nオマエら、気を抜くなよ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_機械音声",
+    "original": "機械音声",
+    "translation": "機械音声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

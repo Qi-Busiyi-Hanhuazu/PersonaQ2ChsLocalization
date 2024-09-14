@@ -1,0 +1,44 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "指定されたポイントまで行け",
+    "translation": "指定されたポイントまで行け",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "看板へ向かえ",
+    "translation": "看板へ向かえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "看板の質問に答えろ",
+    "translation": "看板の質問に答えろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "看板へ向かえ",
+    "translation": "看板へ向かえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_4_0",
+    "original": "看板の質問に答えろ",
+    "translation": "看板の質問に答えろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_5_0",
+    "original": "先へ進め",
+    "translation": "先へ進め",
+    "stage": 1,
+    "context": ""
+  }
+]

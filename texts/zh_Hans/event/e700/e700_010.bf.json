@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おい、ジョーカー！？\n今、そっち行くのはマズイぞ！",
+    "translation": "喂，JOKER！？\n现在去那边可不妙啊！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n喂，JOKER！？\n现在过去那边很不妙啊！\n\n喂，JOKER！？\n现在去那边可不行！\n\n喂，JOKER ！？现在去那里可不好哦！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ナビの言うとおりだよ。\nここは一旦退いて、態勢を立て直そう？",
+    "translation": "NAVI说得没错。\n我们就先撤退，重新调整一下吧？",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n导航说得没错。\n先暂时撤退，重整态势吧？\n\n导航说得没错。\n暂且退后，重整旗鼓吧？\n\n导航说的对。\n暂时离开这里，重新做好准备吧？"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

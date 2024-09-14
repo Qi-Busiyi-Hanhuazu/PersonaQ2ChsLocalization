@@ -1,0 +1,247 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ようこそ、おいでくださいました。\n今回の特別上映ですが…",
+    "translation": "ようこそ、おいでくださいました。\n今回の特別上映ですが…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "歌う花を探して来て。",
+    "translation": "歌う花を探して来て。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あれ？\nなんでマリーちゃんが？",
+    "translation": "あれ？\nなんでマリーちゃんが？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "実は彼女、\nこの映画に格別の思い入れがあるの。",
+    "translation": "実は彼女、\nこの映画に格別の思い入れがあるの。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "うぉ！　お姉サマまで！",
+    "translation": "うぉ！　お姉サマまで！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "歌う花って…ひかりの映画にいた\nやつのことっスよね？",
+    "translation": "歌う花って…ひかりの映画にいた\nやつのことっスよね？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "歌っつか、ワケわかんねえ内容だったけど、\nそんなもんに興味あるんスか？",
+    "translation": "歌っつか、ワケわかんねえ内容だったけど、\nそんなもんに興味あるんスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "変わってるな",
+    "translation": "変わってるな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "感じるものがあった？",
+    "translation": "感じるものがあった？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "…！",
+    "translation": "…！",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ひかり様の映画を見た時から\nあの花に興味があったみたいでね。",
+    "translation": "ひかり様の映画を見た時から\nあの花に興味があったみたいでね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "特に近頃ポエムがスランプ気味だったから\n刺激がほしいみたいなの。",
+    "translation": "特に近頃ポエムがスランプ気味だったから\n刺激がほしいみたいなの。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ちょ！？　何勝手に言ってんの？\nポエムとか全然関係ないし。",
+    "translation": "ちょ！？　何勝手に言ってんの？\nポエムとか全然関係ないし。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "ただ、ここ何もないし、つまんないし。\n刺激がないと…パトスが…",
+    "translation": "ただ、ここ何もないし、つまんないし。\n刺激がないと…パトスが…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "というわけでこの上映、マリーも\n同行させてもらえないかしら？",
+    "translation": "というわけでこの上映、マリーも\n同行させてもらえないかしら？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "SEL_012_0",
+    "original": "かまわない",
+    "translation": "かまわない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_012_1",
+    "original": "同行？",
+    "translation": "同行？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_012_2",
+    "original": "危なくない？",
+    "translation": "危なくない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ええ。皆さまだったら、\n安心して預けられるわ。",
+    "translation": "ええ。皆さまだったら、\n安心して預けられるわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ええ。実物からの方が\n得られるものが多いでしょう？",
+    "translation": "ええ。実物からの方が\n得られるものが多いでしょう？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "皆さまの腕を見込んでの\nお願いになるわ。",
+    "translation": "皆さまの腕を見込んでの\nお願いになるわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "べ、別に…ムリにとは言わないし…\n嫌ならいいんだけど…",
+    "translation": "べ、別に…ムリにとは言わないし…\n嫌ならいいんだけど…",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "イヤなワケないクマ！\nマリチャンとお出かけヤッホー！",
+    "translation": "イヤなワケないクマ！\nマリチャンとお出かけヤッホー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ああ。\nそんなことでよければ、力になろう。",
+    "translation": "ああ。\nそんなことでよければ、力になろう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "え…あ、その……\nあ、ありがと。",
+    "translation": "え…あ、その……\nあ、ありがと。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "では、マリーさん含め皆さま…\nどうぞお気をつけて行ってらっしゃいませ。",
+    "translation": "では、マリーさん含め皆さま…\nどうぞお気をつけて行ってらっしゃいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

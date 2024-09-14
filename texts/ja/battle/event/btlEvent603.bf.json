@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "んんん！？\nあの奥のシャドウ、他とは反応が違う…？",
+    "translation": "んんん！？\nあの奥のシャドウ、他とは反応が違う…？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "なんかありそうな予感がビンビンするぞ！",
+    "translation": "なんかありそうな予感がビンビンするぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "特殊なシャドウか。興味深いね。",
+    "translation": "特殊なシャドウか。興味深いね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "先に狙うか、周りを片付けるか…\nジョーカー、判断は任せた。",
+    "translation": "先に狙うか、周りを片付けるか…\nジョーカー、判断は任せた。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

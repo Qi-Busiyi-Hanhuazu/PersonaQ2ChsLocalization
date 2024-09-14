@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ま、また出たああ！？\nににに逃げようぜ、アイボウ！　今すぐ！",
+    "translation": "ま、また出たああ！？\nににに逃げようぜ、アイボウ！　今すぐ！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ちっ、またか。肉食恐竜がいる度に\nこれじゃあ、探索のペースが上がらないぞ。",
+    "translation": "ちっ、またか。肉食恐竜がいる度に\nこれじゃあ、探索のペースが上がらないぞ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "…なら、今回はあれを使えないかな。",
+    "translation": "…なら、今回はあれを使えないかな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あ！　柵だ。電気ビリビリのやつ。",
+    "translation": "あ！　柵だ。電気ビリビリのやつ。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "…そっか！　これで肉食恐竜を\n閉じ込めちゃえばいいってスンポー！？",
+    "translation": "…そっか！　これで肉食恐竜を\n閉じ込めちゃえばいいってスンポー！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ただ、スイッチを解除しないと\n僕たちも先へ進めないのが難点ですが。",
+    "translation": "ただ、スイッチを解除しないと\n僕たちも先へ進めないのが難点ですが。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ガーン！\n…ってことは結局、同じ！？　意味ない！？",
+    "translation": "ガーン！\n…ってことは結局、同じ！？　意味ない！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いえ、うまく使えば\nかなり有利に働くはずです。",
+    "translation": "いえ、うまく使えば\nかなり有利に働くはずです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "ですから、まずはスイッチを探すこと…\nそして、向かうべき道を探しましょう。",
+    "translation": "ですから、まずはスイッチを探すこと…\nそして、向かうべき道を探しましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "speaker_ヨウスケサウルス",
+    "original": "ヨウスケサウルス",
+    "translation": "ヨウスケサウルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

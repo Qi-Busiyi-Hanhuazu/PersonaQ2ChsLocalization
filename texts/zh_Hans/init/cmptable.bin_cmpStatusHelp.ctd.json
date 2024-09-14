@@ -1,0 +1,16 @@
+[
+  {
+    "key": "text_000_0",
+    "original": "誰のステータスを見ますか？",
+    "translation": "要查看谁的状态？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要查看谁的状态？\n\n看谁的身份？\n\n看谁的状态？"
+  },
+  {
+    "key": "text_001_0",
+    "original": "ステータスを確認します",
+    "translation": "确认状态。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n确认状态\n\n检查状态\n\n来确认状态。"
+  }
+]

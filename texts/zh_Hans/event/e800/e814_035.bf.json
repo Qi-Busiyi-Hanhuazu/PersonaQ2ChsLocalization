@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あったぜ、ツタの扉！",
+    "translation": "找到了，是常春藤的门！",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n找到了，是藤蔓门！\n\n有了，爬山虎之门！\n\n有啊，爬山虎的门！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "えーっと、ちょっと待ってね。\n探してみる。",
+    "translation": "嗯，稍等一下哦！\n我来找找看。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n呃，你等一下哦。\n我找找看。\n\n嗯，等一下哦。\n试着寻找。\n\n嗯，等一下。试着找找看。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うーん、ここには薬草ないみたい。",
+    "translation": "嗯……这里好像没有草药。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n嗯……这里好像没有药草。\n\n嗯，这里好像没有药草。\n\n嗯，这里好像没有草药。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "扉の反対側も見てみろ。\n確か、そっちにも生えてたはずだぞ！",
+    "translation": "去看看门的另一边吧。\n我记得那边应该也生长着植物。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n也看看门的另一边吧。\n我记得那边也有长药草！\n\n也看看门的另一侧。\n确实，那边也长着呢！\n\n你也看看门的另一边。\n确实，那边应该也长了！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "分かった。行ってみるね。",
+    "translation": "知道了。我去看看。",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n知道了，我过去看看。\n\n我知道了。我去看看。"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

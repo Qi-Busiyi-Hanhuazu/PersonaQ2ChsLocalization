@@ -1,0 +1,128 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…柵？　何でジャングルにあんだ？",
+    "translation": "…柵？　何でジャングルにあんだ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "映画の予告で見たでしょ。ここは恐竜を\n観察するテーマパークらしいわ。",
+    "translation": "映画の予告で見たでしょ。ここは恐竜を\n観察するテーマパークらしいわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "つまり、恐竜を管理するための\n柵ということか。",
+    "translation": "つまり、恐竜を管理するための\n柵ということか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ひょっとして、この柵は動くのかな？\n土台部分が回転しそうな構造だね。",
+    "translation": "ひょっとして、この柵は動くのかな？\n土台部分が回転しそうな構造だね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "もう人間は去ったという話だったから、\n使われていないみたいだけど。",
+    "translation": "もう人間は去ったという話だったから、\n使われていないみたいだけど。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "じゃ、じゃあ…この先は…",
+    "translation": "じゃ、じゃあ…この先は…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "肉食恐竜から草食恐竜まで、\n放し飼いの恐竜がワラワラいるかもな。",
+    "translation": "肉食恐竜から草食恐竜まで、\n放し飼いの恐竜がワラワラいるかもな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "マジかよ…",
+    "translation": "マジかよ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "心配するな。\n危険が迫ったら教えてやる。",
+    "translation": "心配するな。\n危険が迫ったら教えてやる。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ナビ、お願いね。\n頼りにしてるから。",
+    "translation": "ナビ、お願いね。\n頼りにしてるから。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "おー！　任せとけ！",
+    "translation": "おー！　任せとけ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

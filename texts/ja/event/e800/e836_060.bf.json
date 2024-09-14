@@ -1,0 +1,128 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "不審者発見、不審者発見。\nただちに現場へ急行せよ…",
+    "translation": "不審者発見、不審者発見。\nただちに現場へ急行せよ…",
+    "stage": 1,
+    "context": "研究所セキュリティ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "まだいんのかよ！？\nマジでわらわら出てきやがんな！",
+    "translation": "まだいんのかよ！？\nマジでわらわら出てきやがんな！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "倒しても倒しても、キリがないクマ…\nクマ、お花畑が見えてきそう…",
+    "translation": "倒しても倒しても、キリがないクマ…\nクマ、お花畑が見えてきそう…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "しっかりしろクマ！\nあっち側に行こうとすんじゃねえ！",
+    "translation": "しっかりしろクマ！\nあっち側に行こうとすんじゃねえ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "みんな、お待たせ！\n解析が終わったよ！",
+    "translation": "みんな、お待たせ！\n解析が終わったよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "セキュリティシステムの発動で\n敵が次々に集まってきています。",
+    "translation": "セキュリティシステムの発動で\n敵が次々に集まってきています。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "そのセキュリティシステムを壊すよりも、\nここは退いた方が安全です！",
+    "translation": "そのセキュリティシステムを壊すよりも、\nここは退いた方が安全です！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "退路はあるのか？",
+    "translation": "退路はあるのか？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "もちろん確保した！\n今からルートに誘導する、こっちだ！",
+    "translation": "もちろん確保した！\n今からルートに誘導する、こっちだ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "よし、さっさと撤退するぞ！",
+    "translation": "よし、さっさと撤退するぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_研究所セキュリティ",
+    "original": "研究所セキュリティ",
+    "translation": "研究所セキュリティ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

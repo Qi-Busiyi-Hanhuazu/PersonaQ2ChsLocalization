@@ -1,0 +1,387 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…よし。今日はメメントスの攻略で、\n全会一致だな。",
+    "translation": "…よし。今日はメメントスの攻略で、\n全会一致だな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "いいな、フタバ？",
+    "translation": "いいな、フタバ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "りょーかい。ナビがんばる。",
+    "translation": "りょーかい。ナビがんばる。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "佐倉双葉。居候先のマスターの養女。",
+    "translation": "佐倉双葉。居候先のマスターの養女。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "元引きこもりで人見知り。\n天才的ハッキング能力を持つ。",
+    "translation": "元引きこもりで人見知り。\n天才的ハッキング能力を持つ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "怪盗としてのコードネームは『ナビ』。",
+    "translation": "怪盗としてのコードネームは『ナビ』。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "私は、まだみんなに比べて不慣れだし、\n精進しないと。",
+    "translation": "私は、まだみんなに比べて不慣れだし、\n精進しないと。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "奥村春。秀尽学園高校３年の先輩。",
+    "translation": "奥村春。秀尽学園高校３年の先輩。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "大企業『オクムラフーズ』の社長令嬢。\n世間知らずな一面がある。",
+    "translation": "大企業『オクムラフーズ』の社長令嬢。\n世間知らずな一面がある。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_2",
+    "original": "コードネームは『ノワール』。",
+    "translation": "コードネームは『ノワール』。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "春は全然やってけるよ。\n上達早すぎ。",
+    "translation": "春は全然やってけるよ。\n上達早すぎ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "高巻杏。高校２年、クラスメイト。",
+    "translation": "高巻杏。高校２年、クラスメイト。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "明るくて友達思いのクォーター。\n読者モデルのバイトもしている。",
+    "translation": "明るくて友達思いのクォーター。\n読者モデルのバイトもしている。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_2",
+    "original": "コードネームは『パンサー』。",
+    "translation": "コードネームは『パンサー』。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ねえ、真。メメントスもいいけど、\nパレス攻略は…大丈夫？",
+    "translation": "ねえ、真。メメントスもいいけど、\nパレス攻略は…大丈夫？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "問題ないわ。実力を磨くのは大事よ。\n失敗は許されない作戦だしね。",
+    "translation": "問題ないわ。実力を磨くのは大事よ。\n失敗は許されない作戦だしね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "新島真。３年生の先輩。",
+    "translation": "新島真。３年生の先輩。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "文武両道、品行方正の生徒会長。\n時折、抜けたところも見せる。",
+    "translation": "文武両道、品行方正の生徒会長。\n時折、抜けたところも見せる。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_2",
+    "original": "コードネームは『クイーン』。",
+    "translation": "コードネームは『クイーン』。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "俺はメメントスの探索、好きだぞ。\nあの空間、感じるものが多い…",
+    "translation": "俺はメメントスの探索、好きだぞ。\nあの空間、感じるものが多い…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "喜多川祐介。\n洸星高校の２年で、美術科。",
+    "translation": "喜多川祐介。\n洸星高校の２年で、美術科。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "画家として将来を期待されている。\n独特の感性を持ち、マイペース。",
+    "translation": "画家として将来を期待されている。\n独特の感性を持ち、マイペース。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_2",
+    "original": "コードネームは『フォックス』。",
+    "translation": "コードネームは『フォックス』。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ワガハイもあそこには興味津々だ。\n何かあると思うんだよな…",
+    "translation": "ワガハイもあそこには興味津々だ。\n何かあると思うんだよな…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "モルガナ。異世界で出会った謎の猫。",
+    "translation": "モルガナ。異世界で出会った謎の猫。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "ただの黒猫から奇妙なマスコット形態、\nそして車へと様々な姿に変化する。",
+    "translation": "ただの黒猫から奇妙なマスコット形態、\nそして車へと様々な姿に変化する。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_013_2",
+    "original": "コードネームは『モナ』。",
+    "translation": "コードネームは『モナ』。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ま、パレスでもメメントスでも、\nやることやるだけだ。",
+    "translation": "ま、パレスでもメメントスでも、\nやることやるだけだ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "坂本竜司。高校２年。\n元陸上部のエース。",
+    "translation": "坂本竜司。高校２年。\n元陸上部のエース。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "熱血漢で情に厚い。\n突っ走りやすいのが玉にキズ。",
+    "translation": "熱血漢で情に厚い。\n突っ走りやすいのが玉にキズ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_2",
+    "original": "コードネームは『スカル』。",
+    "translation": "コードネームは『スカル』。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "つーか、あいつは？\nメメントスに連れてくの初めてだよな？",
+    "translation": "つーか、あいつは？\nメメントスに連れてくの初めてだよな？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "なんなら置いてっちまっても…",
+    "translation": "なんなら置いてっちまっても…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "待たせたね。",
+    "translation": "待たせたね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "げっ…",
+    "translation": "げっ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ウワサをすれば。",
+    "translation": "ウワサをすれば。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "遅くなってごめん。\n仕事が立て込んでいてね。",
+    "translation": "遅くなってごめん。\n仕事が立て込んでいてね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "明智吾郎。３年生。\n高校生探偵として活躍。",
+    "translation": "明智吾郎。３年生。\n高校生探偵として活躍。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "鋭い推理と容姿で人気を集める。\n『探偵王子の再来』と言われることも。",
+    "translation": "鋭い推理と容姿で人気を集める。\n『探偵王子の再来』と言われることも。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_021_2",
+    "original": "コードネームは『クロウ』。",
+    "translation": "コードネームは『クロウ』。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ところで、聞こえたんだけど…\nメメントスだって？",
+    "translation": "ところで、聞こえたんだけど…\nメメントスだって？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "SEL_023_0",
+    "original": "そうだ",
+    "translation": "そうだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_023_1",
+    "original": "決定した",
+    "translation": "決定した",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "了解だ、[P5名]。",
+    "translation": "了解だ、[P5名]。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "コードネームは『ジョーカー』。\n怪盗団のリーダーをしている。",
+    "translation": "コードネームは『ジョーカー』。\n怪盗団のリーダーをしている。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "秀尽学園高校の２年生。\n冤罪により保護観察中の身だ。",
+    "translation": "秀尽学園高校の２年生。\n冤罪により保護観察中の身だ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "これで全員そろったな！",
+    "translation": "これで全員そろったな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

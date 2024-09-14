@@ -1,0 +1,268 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "このあたり、採取出来るみたいだね。\nどうする？",
+    "translation": "这附近好像可以采集到东西。\n你想怎么办？",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n这附近好像可以采集呢。\n要怎么做？\n\n这附近好像可以采集。\n怎么办？\n\n这一带好像可以采集。\n怎么办？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "そうだね。\n敵に気をつけながら探そう。",
+    "translation": "嗯，小心敌人的同时\n继续探索吧。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n这个嘛。\n一边警戒敌人一边找吧。\n\n是啊。\n一边注意敌人一边寻找吧。\n\n是啊。一边注意敌人一边寻找吧。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うん。\nじゃあしっかり探そう。",
+    "translation": "好的。\n那就好好认真去找吧。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n嗯。\n那就仔细找吧。\n\n嗯。\n那就好好找找吧。\n\n嗯。那就好好找找吧。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "分かったよ。\n今は止めておこう。",
+    "translation": "知道了。\n现在先停下来吧。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n知道了。\n现在先别采集吧。\n\n我知道啦。\n现在就停止吧。\n\n我知道了。现在就停止吧。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "もう見つからないみたいだね。",
+    "translation": "好像已经没东西可找了呢。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n好像已经找不到喽。\n\n你好像已经找不到了。\n\n好像已经找不到了。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "よし。",
+    "translation": "好。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n很好。\n\n好吧。\n\n好啊。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いいね。",
+    "translation": "好啊。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不错呢。\n\n好啊。\n\n真不错。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん！",
+    "translation": "嗯！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "危なかったね。\nここでの採取は終わりにしよう。",
+    "translation": "真是危险。\n我们的采集就到此为止吧。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n真是好险呢。\n就先别在这里采集了吧。\n\n真危险啊。\n这里的采集结束吧。\n\n太危险了。在这里的采集结束吧。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "凄いね！",
+    "translation": "厉害呀！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好厉害！\n\n好厉害啊！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "これは…！",
+    "translation": "这是……！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这是……！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "素晴らしいよ！",
+    "translation": "太棒了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n太棒了！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットだよ。\n開通しておくかい？",
+    "translation": "是捷径。\n要通过吗？",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n是捷径呢。\n要先开通吗？\n\n是快捷方式哦。\n是否开通？\n\n短发哦。\n要开通吗？"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ショートカットだよ。\n開通しておくかい？",
+    "translation": "是捷径。\n要通过吗？",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n是捷径呢。\n要先开通吗？\n\n是快捷方式哦。\n是否开通？\n\n短发哦。\n要开通吗？"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ショートカットだよ。\n開通しておくかい？",
+    "translation": "是捷径。\n要通过吗？",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n是捷径呢。\n要先开通吗？\n\n是快捷方式哦。\n是否开通？\n\n短发哦。\n要开通吗？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こちらからは通れないみたいだね…",
+    "translation": "这边好像走不通呢……",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n这边好像无法通行呢……\n\n从这边好像不能通过呢……\n\n从这里好像不能通过啊……"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "こちらからは通れないみたいだね…",
+    "translation": "这边好像走不通呢……",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n这边好像无法通行呢……\n\n从这边好像不能通过呢……\n\n从这里好像不能通过啊……"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "こちらからは通れないみたいだね…",
+    "translation": "这边好像走不通呢……",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n这边好像无法通行呢……\n\n从这边好像不能通过呢……\n\n从这里好像不能通过啊……"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "これは…\nかなり危険な空気を感じるね…",
+    "translation": "这是……\n感觉到相当危险的气息呢……",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n这是……\n感觉气氛相当危险呢……\n\n这是……\n感觉到相当危险的空气……\n\n这是……\n感觉空气相当危险呢……"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "うん。\n気をつけて調べようか。",
+    "translation": "好的。\n小心地调查一下吧。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n嗯。\n小心地调查吧。\n\n嗯。\n要小心调查吗。\n\n嗯。要注意检查吗？"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだね。\n迂闊に調べない方が良さそうだ。",
+    "translation": "是啊，\n看起来最好不要草率地调查。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n这个嘛。\n还是别随便调查比较好。\n\n是啊。\n最好不要随便调查。\n\n是啊。看来还是不要贸然调查比较好。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "かなりの強敵だったね。\nみんな、無事かい？",
+    "translation": "相当强大的对手啊。\n大家都没事吗？",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n那里的敌人相当强大呢。\n大家都没事吧？\n\n真是个劲敌啊。\n大家都没事吧？\n\n真是个强劲的对手。大家都没事吧？"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "シャドウの気配がするね。\nどうしようか？",
+    "translation": "感觉到有暗影的气息呢。\n要怎么办？",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n有暗影的气息呢。\n要怎么做？\n\n有暗影的迹象呢。\n怎么办？\n\n有暗影的动静。\n怎么办？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "よし、調べてみよう。",
+    "translation": "好的，来调查一下吧。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n好，来调查吧。\n\n好吧，我查一下。\n\n好，查一下吧。"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだね。\n気をつけるに越したことはないよ。",
+    "translation": "是呢。\n小心驶得万年船。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n这个嘛。\n小心一点总是比较好。\n\n是啊。\n最好小心点。\n\n是啊。最好小心一点。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "フゥ…なんとかなったかな？",
+    "translation": "呼……总算解决了吧？",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n呼……总算解决了吗？\n\n呵呵……有办法了吗？\n\n呼……有办法了吗？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ん？　映画館に戻るのかい？",
+    "translation": "嗯？要回电影院吗？",
+    "stage": 0,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n嗯？要回电影院吗？\n\n嗯？回电影院吗？\n\n？要回电影院吗？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

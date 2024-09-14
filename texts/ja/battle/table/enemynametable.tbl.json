@@ -1,0 +1,3040 @@
+[
+  {
+    "key": "text_001_0",
+    "original": "臆病のマーヤ",
+    "translation": "臆病のマーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_002_0",
+    "original": "我欲のバザルト",
+    "translation": "我欲のバザルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_003_0",
+    "original": "霧雨姉妹の四女",
+    "translation": "霧雨姉妹の四女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_004_0",
+    "original": "失言のアブルリー",
+    "translation": "失言のアブルリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_005_0",
+    "original": "マジックハンド",
+    "translation": "マジックハンド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_006_0",
+    "original": "ダンシングハンド",
+    "translation": "ダンシングハンド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_007_0",
+    "original": "キリングハンド",
+    "translation": "キリングハンド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_008_0",
+    "original": "ゴッドハンド",
+    "translation": "ゴッドハンド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_009_0",
+    "original": "笑うテーブル",
+    "translation": "笑うテーブル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_010_0",
+    "original": "泣くテーブル",
+    "translation": "泣くテーブル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_011_0",
+    "original": "怒るテーブル",
+    "translation": "怒るテーブル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_012_0",
+    "original": "眠るテーブル",
+    "translation": "眠るテーブル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_013_0",
+    "original": "マジカルマグス",
+    "translation": "マジカルマグス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_014_0",
+    "original": "ワンダーマグス",
+    "translation": "ワンダーマグス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_015_0",
+    "original": "インテリマグス",
+    "translation": "インテリマグス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_016_0",
+    "original": "グランドマグス",
+    "translation": "グランドマグス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_017_0",
+    "original": "虚言のアブルリー",
+    "translation": "虚言のアブルリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_018_0",
+    "original": "妄言のアブルリー",
+    "translation": "妄言のアブルリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_019_0",
+    "original": "甘言のアブルリー",
+    "translation": "甘言のアブルリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_020_0",
+    "original": "翻弄のアブルリー",
+    "translation": "翻弄のアブルリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_021_0",
+    "original": "残酷のマーヤ",
+    "translation": "残酷のマーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_022_0",
+    "original": "自律のバザルト",
+    "translation": "自律のバザルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_023_0",
+    "original": "霧雨兄弟の四男",
+    "translation": "霧雨兄弟の四男",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_024_0",
+    "original": "失言のアブルリー",
+    "translation": "失言のアブルリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_025_0",
+    "original": "雨女の壷",
+    "translation": "雨女の壷",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_026_0",
+    "original": "雨見の壷",
+    "translation": "雨見の壷",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_027_0",
+    "original": "慕い女の壷",
+    "translation": "慕い女の壷",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_028_0",
+    "original": "囲ひ女の壷",
+    "translation": "囲ひ女の壷",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_029_0",
+    "original": "偽りの聖典",
+    "translation": "偽りの聖典",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_030_0",
+    "original": "狂気の聖典",
+    "translation": "狂気の聖典",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_031_0",
+    "original": "沈黙の聖典",
+    "translation": "沈黙の聖典",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_032_0",
+    "original": "怒りの聖典",
+    "translation": "怒りの聖典",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_033_0",
+    "original": "静寂のマリア",
+    "translation": "静寂のマリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_034_0",
+    "original": "解放のマリア",
+    "translation": "解放のマリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_035_0",
+    "original": "原初のマリア",
+    "translation": "原初のマリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_036_0",
+    "original": "狂乱のマリア",
+    "translation": "狂乱のマリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_037_0",
+    "original": "導きのマリア",
+    "translation": "導きのマリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_038_0",
+    "original": "冷静のペーシェ",
+    "translation": "冷静のペーシェ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_039_0",
+    "original": "探求のペーシェ",
+    "translation": "探求のペーシェ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_040_0",
+    "original": "真理のペーシェ",
+    "translation": "真理のペーシェ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_041_0",
+    "original": "天啓のペーシェ",
+    "translation": "天啓のペーシェ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_042_0",
+    "original": "虚栄のマーヤ",
+    "translation": "虚栄のマーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_043_0",
+    "original": "無為のバザルト",
+    "translation": "無為のバザルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_044_0",
+    "original": "霧雨姉妹の三女",
+    "translation": "霧雨姉妹の三女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_046_0",
+    "original": "ヴィーナスイーグル",
+    "translation": "ヴィーナスイーグル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_047_0",
+    "original": "ダークイーグル",
+    "translation": "ダークイーグル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_048_0",
+    "original": "ジュピターイーグル",
+    "translation": "ジュピターイーグル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_049_0",
+    "original": "エターナルイーグル",
+    "translation": "エターナルイーグル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_050_0",
+    "original": "生成の彫像",
+    "translation": "生成の彫像",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_051_0",
+    "original": "維持の彫像",
+    "translation": "維持の彫像",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_052_0",
+    "original": "育成の彫像",
+    "translation": "育成の彫像",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_053_0",
+    "original": "変容の彫像",
+    "translation": "変容の彫像",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_054_0",
+    "original": "イデアマザー",
+    "translation": "イデアマザー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_055_0",
+    "original": "スカルプマザー",
+    "translation": "スカルプマザー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_056_0",
+    "original": "ピスティルマザー",
+    "translation": "ピスティルマザー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_057_0",
+    "original": "ディバインマザー",
+    "translation": "ディバインマザー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_058_0",
+    "original": "秘密のバンビーノ",
+    "translation": "秘密のバンビーノ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_059_0",
+    "original": "狂い咲きバンビーノ",
+    "translation": "狂い咲きバンビーノ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_060_0",
+    "original": "貪欲のバンビーノ",
+    "translation": "貪欲のバンビーノ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_061_0",
+    "original": "自由のバンビーノ",
+    "translation": "自由のバンビーノ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_062_0",
+    "original": "傲慢のマーヤ",
+    "translation": "傲慢のマーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_063_0",
+    "original": "肥大のバザルト",
+    "translation": "肥大のバザルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_064_0",
+    "original": "霧雨兄弟の三男",
+    "translation": "霧雨兄弟の三男",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_066_0",
+    "original": "死甲蟲",
+    "translation": "死甲蟲",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_067_0",
+    "original": "金剛蟲",
+    "translation": "金剛蟲",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_068_0",
+    "original": "剛毅蟲",
+    "translation": "剛毅蟲",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_069_0",
+    "original": "帝王蟲",
+    "translation": "帝王蟲",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_071_0",
+    "original": "征服の騎士",
+    "translation": "征服の騎士",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_072_0",
+    "original": "凱旋の騎士",
+    "translation": "凱旋の騎士",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_073_0",
+    "original": "地獄の騎士",
+    "translation": "地獄の騎士",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_074_0",
+    "original": "不屈の騎士",
+    "translation": "不屈の騎士",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_075_0",
+    "original": "雨見の城",
+    "translation": "雨見の城",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_076_0",
+    "original": "パワーキャッスル",
+    "translation": "パワーキャッスル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_077_0",
+    "original": "雨つぶての城",
+    "translation": "雨つぶての城",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_078_0",
+    "original": "キングキャッスル",
+    "translation": "キングキャッスル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_079_0",
+    "original": "ぽじてぶキング",
+    "translation": "ぽじてぶキング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_080_0",
+    "original": "えごいすとキング",
+    "translation": "えごいすとキング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_081_0",
+    "original": "ぐれぇとキング",
+    "translation": "ぐれぇとキング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_082_0",
+    "original": "ぶりりあんとキング",
+    "translation": "ぶりりあんとキング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_083_0",
+    "original": "怠惰のマーヤ",
+    "translation": "怠惰のマーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_084_0",
+    "original": "依存のバザルト",
+    "translation": "依存のバザルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_085_0",
+    "original": "霧雨姉妹の次女",
+    "translation": "霧雨姉妹の次女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_087_0",
+    "original": "トランスツインズ",
+    "translation": "トランスツインズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_088_0",
+    "original": "キラーツインズ",
+    "translation": "キラーツインズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_089_0",
+    "original": "雨明かりの双子",
+    "translation": "雨明かりの双子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_090_0",
+    "original": "クレイジーツインズ",
+    "translation": "クレイジーツインズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_091_0",
+    "original": "狂信の塔",
+    "translation": "狂信の塔",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_092_0",
+    "original": "教条の塔",
+    "translation": "教条の塔",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_093_0",
+    "original": "教条の塔",
+    "translation": "教条の塔",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_094_0",
+    "original": "破戒の塔",
+    "translation": "破戒の塔",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_095_0",
+    "original": "怨恨の塔",
+    "translation": "怨恨の塔",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_096_0",
+    "original": "青のシジル",
+    "translation": "青のシジル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_097_0",
+    "original": "赤のシジル",
+    "translation": "赤のシジル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_098_0",
+    "original": "緑のシジル",
+    "translation": "緑のシジル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_099_0",
+    "original": "紫のシジル",
+    "translation": "紫のシジル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_100_0",
+    "original": "収賄のファズ",
+    "translation": "収賄のファズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_101_0",
+    "original": "固執のファズ",
+    "translation": "固執のファズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_102_0",
+    "original": "偏執のファズ",
+    "translation": "偏執のファズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_103_0",
+    "original": "無秩序のファズ",
+    "translation": "無秩序のファズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_104_0",
+    "original": "裏切りのマーヤ",
+    "translation": "裏切りのマーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_105_0",
+    "original": "苦悩のバザルト",
+    "translation": "苦悩のバザルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_106_0",
+    "original": "霧雨兄弟の次男",
+    "translation": "霧雨兄弟の次男",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_108_0",
+    "original": "独占のクビド",
+    "translation": "独占のクビド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_109_0",
+    "original": "盲愛のクビド",
+    "translation": "盲愛のクビド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_110_0",
+    "original": "偏愛のクビド",
+    "translation": "偏愛のクビド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_111_0",
+    "original": "博愛のクビド",
+    "translation": "博愛のクビド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_112_0",
+    "original": "ソウルダンサー",
+    "translation": "ソウルダンサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_113_0",
+    "original": "ライフダンサー",
+    "translation": "ライフダンサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_114_0",
+    "original": "ロイヤルダンサー",
+    "translation": "ロイヤルダンサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_115_0",
+    "original": "クラリスダンサー",
+    "translation": "クラリスダンサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_116_0",
+    "original": "ハレムダンサー",
+    "translation": "ハレムダンサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_117_0",
+    "original": "情欲の蛇",
+    "translation": "情欲の蛇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_118_0",
+    "original": "愛欲の蛇",
+    "translation": "愛欲の蛇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_119_0",
+    "original": "肉欲の蛇",
+    "translation": "肉欲の蛇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_120_0",
+    "original": "淫欲の蛇",
+    "translation": "淫欲の蛇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_121_0",
+    "original": "禁欲の蛇",
+    "translation": "禁欲の蛇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_122_0",
+    "original": "浮気のパピヨン",
+    "translation": "浮気のパピヨン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_123_0",
+    "original": "目移りのパピヨン",
+    "translation": "目移りのパピヨン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_124_0",
+    "original": "移り気のパピヨン",
+    "translation": "移り気のパピヨン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_125_0",
+    "original": "純情のパピヨン",
+    "translation": "純情のパピヨン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_126_0",
+    "original": "挫折のマーヤ",
+    "translation": "挫折のマーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_127_0",
+    "original": "不遜のバザルト",
+    "translation": "不遜のバザルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_128_0",
+    "original": "霧雨姉妹の長女",
+    "translation": "霧雨姉妹の長女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_130_0",
+    "original": "雨脚の滑車",
+    "translation": "雨脚の滑車",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_131_0",
+    "original": "マッハフォート",
+    "translation": "マッハフォート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_132_0",
+    "original": "雨脚の滑車",
+    "translation": "雨脚の滑車",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_133_0",
+    "original": "バトルフォート",
+    "translation": "バトルフォート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_134_0",
+    "original": "ワイルドドライブ",
+    "translation": "ワイルドドライブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_135_0",
+    "original": "キラードライブ",
+    "translation": "キラードライブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_136_0",
+    "original": "スロータードライブ",
+    "translation": "スロータードライブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_137_0",
+    "original": "バスタードライブ",
+    "translation": "バスタードライブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_138_0",
+    "original": "魔弾の砲座",
+    "translation": "魔弾の砲座",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_139_0",
+    "original": "真紅の砲座",
+    "translation": "真紅の砲座",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_140_0",
+    "original": "邪悪の砲座",
+    "translation": "邪悪の砲座",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_141_0",
+    "original": "洗礼の砲座",
+    "translation": "洗礼の砲座",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_142_0",
+    "original": "爆轟の砲座",
+    "translation": "爆轟の砲座",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_143_0",
+    "original": "暴走の砲座",
+    "translation": "暴走の砲座",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_144_0",
+    "original": "狼狽のパンツァー",
+    "translation": "狼狽のパンツァー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_145_0",
+    "original": "無謀のパンツァー",
+    "translation": "無謀のパンツァー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_146_0",
+    "original": "慢心のパンツァー",
+    "translation": "慢心のパンツァー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_147_0",
+    "original": "雷鳥のパンツァー",
+    "translation": "雷鳥のパンツァー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_148_0",
+    "original": "本性のマーヤ",
+    "translation": "本性のマーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_149_0",
+    "original": "源泉のバザルト",
+    "translation": "源泉のバザルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_150_0",
+    "original": "霧雨兄弟の長男",
+    "translation": "霧雨兄弟の長男",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_152_0",
+    "original": "白狼の武者",
+    "translation": "白狼の武者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_153_0",
+    "original": "雨明かりの武者",
+    "translation": "雨明かりの武者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_154_0",
+    "original": "雨つぶての武者",
+    "translation": "雨つぶての武者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_155_0",
+    "original": "雨東風の武者",
+    "translation": "雨東風の武者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_156_0",
+    "original": "闘魂のギガス",
+    "translation": "闘魂のギガス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_157_0",
+    "original": "鋼鉄のギガス",
+    "translation": "鋼鉄のギガス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_158_0",
+    "original": "激震のギガス",
+    "translation": "激震のギガス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_159_0",
+    "original": "神話のギガス",
+    "translation": "神話のギガス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_160_0",
+    "original": "不滅のギガス",
+    "translation": "不滅のギガス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_161_0",
+    "original": "ニザームアニマル",
+    "translation": "ニザームアニマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_162_0",
+    "original": "スレイヴアニマル",
+    "translation": "スレイヴアニマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_163_0",
+    "original": "フォースアニマル",
+    "translation": "フォースアニマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_164_0",
+    "original": "ネメアンアニマル",
+    "translation": "ネメアンアニマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_165_0",
+    "original": "エルドラアニマル",
+    "translation": "エルドラアニマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_166_0",
+    "original": "招きの女御",
+    "translation": "招きの女御",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_167_0",
+    "original": "徒花の女御",
+    "translation": "徒花の女御",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_168_0",
+    "original": "惜愛の女御",
+    "translation": "惜愛の女御",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_169_0",
+    "original": "寂滅の女御",
+    "translation": "寂滅の女御",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_170_0",
+    "original": "貪欲のマーヤ",
+    "translation": "貪欲のマーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_171_0",
+    "original": "帰順のバザルト",
+    "translation": "帰順のバザルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_172_0",
+    "original": "霧雨姉妹の次女",
+    "translation": "霧雨姉妹の次女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_174_0",
+    "original": "ブラックレイヴン",
+    "translation": "ブラックレイヴン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_175_0",
+    "original": "スマッシュレイヴン",
+    "translation": "スマッシュレイヴン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_176_0",
+    "original": "ソニックレイヴン",
+    "translation": "ソニックレイヴン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_177_0",
+    "original": "アメンティレイヴン",
+    "translation": "アメンティレイヴン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_178_0",
+    "original": "ファントムメイジ",
+    "translation": "ファントムメイジ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_179_0",
+    "original": "ファントムマスター",
+    "translation": "ファントムマスター",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_180_0",
+    "original": "ファントムロード",
+    "translation": "ファントムロード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_181_0",
+    "original": "ファントムキング",
+    "translation": "ファントムキング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_182_0",
+    "original": "ファントムナイト",
+    "translation": "ファントムナイト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_183_0",
+    "original": "デスサーチャー",
+    "translation": "デスサーチャー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_184_0",
+    "original": "フェイトサーチャー",
+    "translation": "フェイトサーチャー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_185_0",
+    "original": "ノーブルサーチャー",
+    "translation": "ノーブルサーチャー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_186_0",
+    "original": "アケロンサーチャー",
+    "translation": "アケロンサーチャー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_187_0",
+    "original": "浅薄の翁",
+    "translation": "浅薄の翁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_188_0",
+    "original": "軽挙の翁",
+    "translation": "軽挙の翁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_189_0",
+    "original": "世直しの翁",
+    "translation": "世直しの翁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_190_0",
+    "original": "月形の翁",
+    "translation": "月形の翁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_191_0",
+    "original": "誤算のマーヤ",
+    "translation": "誤算のマーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_192_0",
+    "original": "偶発のバザルト",
+    "translation": "偶発のバザルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_193_0",
+    "original": "霧雨兄弟の次男",
+    "translation": "霧雨兄弟の次男",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_195_0",
+    "original": "ブロンズダイス",
+    "translation": "ブロンズダイス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_196_0",
+    "original": "アイアンダイス",
+    "translation": "アイアンダイス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_197_0",
+    "original": "シルバーダイス",
+    "translation": "シルバーダイス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_198_0",
+    "original": "プラチナダイス",
+    "translation": "プラチナダイス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_199_0",
+    "original": "精神のダイス",
+    "translation": "精神のダイス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_200_0",
+    "original": "呪いのダイス",
+    "translation": "呪いのダイス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_201_0",
+    "original": "死のダイス",
+    "translation": "死のダイス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_202_0",
+    "original": "天罰のダイス",
+    "translation": "天罰のダイス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_203_0",
+    "original": "時の砂時計",
+    "translation": "時の砂時計",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_204_0",
+    "original": "逆行の砂時計",
+    "translation": "逆行の砂時計",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_205_0",
+    "original": "無限の砂時計",
+    "translation": "無限の砂時計",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_206_0",
+    "original": "永遠の砂時計",
+    "translation": "永遠の砂時計",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_207_0",
+    "original": "ミス・ジェーン",
+    "translation": "ミス・ジェーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_208_0",
+    "original": "フェイルジェーン",
+    "translation": "フェイルジェーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_209_0",
+    "original": "ハッピージェーン",
+    "translation": "ハッピージェーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_210_0",
+    "original": "ネクスト・ジェーン",
+    "translation": "ネクスト・ジェーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_211_0",
+    "original": "偏見のマーヤ",
+    "translation": "偏見のマーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_212_0",
+    "original": "断罪のバザルト",
+    "translation": "断罪のバザルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_213_0",
+    "original": "霧雨姉妹の長女",
+    "translation": "霧雨姉妹の長女",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_215_0",
+    "original": "正義の剣",
+    "translation": "正義の剣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_216_0",
+    "original": "審判の剣",
+    "translation": "審判の剣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_217_0",
+    "original": "判決の剣",
+    "translation": "判決の剣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_218_0",
+    "original": "断罪の剣",
+    "translation": "断罪の剣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_219_0",
+    "original": "炎と氷のバランサー",
+    "translation": "炎と氷のバランサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_220_0",
+    "original": "雷と風のバランサー",
+    "translation": "雷と風のバランサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_221_0",
+    "original": "全能のバランサー",
+    "translation": "全能のバランサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_222_0",
+    "original": "光と闇のバランサー",
+    "translation": "光と闇のバランサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_223_0",
+    "original": "均衡の巨人",
+    "translation": "均衡の巨人",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_224_0",
+    "original": "平衡の巨人",
+    "translation": "平衡の巨人",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_225_0",
+    "original": "調和の巨人",
+    "translation": "調和の巨人",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_226_0",
+    "original": "無の巨人",
+    "translation": "無の巨人",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_227_0",
+    "original": "鋼鉄の巨兵",
+    "translation": "鋼鉄の巨兵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_228_0",
+    "original": "圧倒の巨兵",
+    "translation": "圧倒の巨兵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_229_0",
+    "original": "厳粛の巨兵",
+    "translation": "厳粛の巨兵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_230_0",
+    "original": "無慈悲の巨兵",
+    "translation": "無慈悲の巨兵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_231_0",
+    "original": "犠牲のマーヤ",
+    "translation": "犠牲のマーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_232_0",
+    "original": "抑圧のバザルト",
+    "translation": "抑圧のバザルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_233_0",
+    "original": "霧雨兄弟の長男",
+    "translation": "霧雨兄弟の長男",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_235_0",
+    "original": "ミノタウロス四号",
+    "translation": "ミノタウロス四号",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_236_0",
+    "original": "ミノタウロス参号",
+    "translation": "ミノタウロス参号",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_237_0",
+    "original": "ミノタウロス弐号",
+    "translation": "ミノタウロス弐号",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_238_0",
+    "original": "ミノタウロス壱号",
+    "translation": "ミノタウロス壱号",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_239_0",
+    "original": "ネオミノタウロス",
+    "translation": "ネオミノタウロス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_240_0",
+    "original": "力のヘカトンケイル",
+    "translation": "力のヘカトンケイル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_241_0",
+    "original": "血のヘカトンケイル",
+    "translation": "血のヘカトンケイル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_242_0",
+    "original": "魔のヘカトンケイル",
+    "translation": "魔のヘカトンケイル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_243_0",
+    "original": "哀のヘカトンケイル",
+    "translation": "哀のヘカトンケイル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_244_0",
+    "original": "豪腕のキュクロプス",
+    "translation": "豪腕のキュクロプス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_245_0",
+    "original": "狂気のキュクロプス",
+    "translation": "狂気のキュクロプス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_246_0",
+    "original": "憤怒のキュクロプス",
+    "translation": "憤怒のキュクロプス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_247_0",
+    "original": "混沌のキュクロプス",
+    "translation": "混沌のキュクロプス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_248_0",
+    "original": "光輝のキュクロプス",
+    "translation": "光輝のキュクロプス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_249_0",
+    "original": "反逆のキュクロプス",
+    "translation": "反逆のキュクロプス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_250_0",
+    "original": "お守りレキシー",
+    "translation": "お守りレキシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_251_0",
+    "original": "ドライデキシー",
+    "translation": "ドライデキシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_252_0",
+    "original": "真面目カロシー",
+    "translation": "真面目カロシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_253_0",
+    "original": "出世ジュンシー",
+    "translation": "出世ジュンシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_254_0",
+    "original": "テストレア",
+    "translation": "テストレア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_256_0",
+    "original": "陽介の影",
+    "translation": "陽介の影",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_257_0",
+    "original": "カモシダーマン",
+    "translation": "カモシダーマン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_258_0",
+    "original": "スーパーカモシダーマン",
+    "translation": "スーパーカモシダーマン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_259_0",
+    "original": "ライトキャロット",
+    "translation": "ライトキャロット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_260_0",
+    "original": "レフトキャロット",
+    "translation": "レフトキャロット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_261_0",
+    "original": "カモシダーマン",
+    "translation": "カモシダーマン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_262_0",
+    "original": "ヨウスケサウルス",
+    "translation": "ヨウスケサウルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_263_0",
+    "original": "草食恐竜",
+    "translation": "草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_264_0",
+    "original": "草食恐竜",
+    "translation": "草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_265_0",
+    "original": "草食恐竜",
+    "translation": "草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_266_0",
+    "original": "マザーコンピュータ",
+    "translation": "マザーコンピュータ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_267_0",
+    "original": "マザーコンピュータ",
+    "translation": "マザーコンピュータ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_268_0",
+    "original": "指導者",
+    "translation": "指導者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_269_0",
+    "original": "ドーの右腕",
+    "translation": "ドーの右腕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_270_0",
+    "original": "ドーの左腕",
+    "translation": "ドーの左腕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_271_0",
+    "original": "ドーの頭",
+    "translation": "ドーの頭",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_272_0",
+    "original": "ドー",
+    "translation": "ドー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_273_0",
+    "original": "ドーの目",
+    "translation": "ドーの目",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_274_0",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_275_0",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_276_0",
+    "original": "金甲蟲",
+    "translation": "金甲蟲",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_277_0",
+    "original": "えんげーじキング",
+    "translation": "えんげーじキング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_278_0",
+    "original": "ソウルサーチャー",
+    "translation": "ソウルサーチャー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_279_0",
+    "original": "守護の巨兵",
+    "translation": "守護の巨兵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_280_0",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_281_0",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_282_0",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_283_0",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_284_0",
+    "original": "テオドア",
+    "translation": "テオドア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_285_0",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_286_0",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_287_0",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_288_0",
+    "original": "バスター・ガール",
+    "translation": "バスター・ガール",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_289_0",
+    "original": "チキン・キッド",
+    "translation": "チキン・キッド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_290_0",
+    "original": "クイーン・ジョー",
+    "translation": "クイーン・ジョー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_291_0",
+    "original": "サイドプテラ",
+    "translation": "サイドプテラ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_292_0",
+    "original": "チキン・キッド",
+    "translation": "チキン・キッド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_293_0",
+    "original": "ＫＮＳ－１０００",
+    "translation": "ＫＮＳ－１０００",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_294_0",
+    "original": "ＳＣＭ－８８０１",
+    "translation": "ＳＣＭ－８８０１",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_295_0",
+    "original": "ＳＣＭ－９８２１",
+    "translation": "ＳＣＭ－９８２１",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_296_0",
+    "original": "くまさん",
+    "translation": "くまさん",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_297_0",
+    "original": "こびとさん",
+    "translation": "こびとさん",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_298_0",
+    "original": "きこりさん",
+    "translation": "きこりさん",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_299_0",
+    "original": "フンババ",
+    "translation": "フンババ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_300_0",
+    "original": "ナムタル",
+    "translation": "ナムタル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_301_0",
+    "original": "きこりさん",
+    "translation": "きこりさん",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_302_0",
+    "original": "刈り取るもの",
+    "translation": "刈り取るもの",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_303_0",
+    "original": "ＵＩＹ－＊＊＊＊",
+    "translation": "ＵＩＹ－＊＊＊＊",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_304_0",
+    "original": "カモシダーマン",
+    "translation": "カモシダーマン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_305_0",
+    "original": "ヨウスケサウルス",
+    "translation": "ヨウスケサウルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_306_0",
+    "original": "マザーコンピュータ",
+    "translation": "マザーコンピュータ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_307_0",
+    "original": "マザーコンピュータ",
+    "translation": "マザーコンピュータ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_308_0",
+    "original": "ドー",
+    "translation": "ドー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_309_0",
+    "original": "エンリル",
+    "translation": "エンリル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_310_0",
+    "original": "エンリル",
+    "translation": "エンリル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_311_0",
+    "original": "エンリル",
+    "translation": "エンリル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_312_0",
+    "original": "黄金のアブルリー",
+    "translation": "黄金のアブルリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_313_0",
+    "original": "黄金のレキシー",
+    "translation": "黄金のレキシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_314_0",
+    "original": "宝物の手",
+    "translation": "宝物の手",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_315_0",
+    "original": "財宝の手",
+    "translation": "財宝の手",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_316_0",
+    "original": "至高の手",
+    "translation": "至高の手",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_317_0",
+    "original": "全盛の手",
+    "translation": "全盛の手",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_318_0",
+    "original": "栄華の手",
+    "translation": "栄華の手",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_319_0",
+    "original": "栄光の手",
+    "translation": "栄光の手",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_320_0",
+    "original": "熱甲蟲",
+    "translation": "熱甲蟲",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_322_0",
+    "original": "ごーじゃすキング",
+    "translation": "ごーじゃすキング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_323_0",
+    "original": "でんじゃらすキング",
+    "translation": "でんじゃらすキング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_324_0",
+    "original": "ホラーＬＬシャドウ",
+    "translation": "ホラーＬＬシャドウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_325_0",
+    "original": "フェイトサーチャー",
+    "translation": "フェイトサーチャー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_326_0",
+    "original": "憤激の巨兵",
+    "translation": "憤激の巨兵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_328_0",
+    "original": "均衡の大巨人",
+    "translation": "均衡の大巨人",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_336_0",
+    "original": "ガントレットハンド",
+    "translation": "ガントレットハンド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_337_0",
+    "original": "剣のトランプ兵",
+    "translation": "剣のトランプ兵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_338_0",
+    "original": "槍のトランプ兵",
+    "translation": "槍のトランプ兵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_339_0",
+    "original": "杖のトランプ兵",
+    "translation": "杖のトランプ兵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_340_0",
+    "original": "ワンドのトランプ兵",
+    "translation": "ワンドのトランプ兵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_341_0",
+    "original": "がりがりガーシー",
+    "translation": "がりがりガーシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_342_0",
+    "original": "執行の剣",
+    "translation": "執行の剣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_343_0",
+    "original": "呪い女の壷",
+    "translation": "呪い女の壷",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_344_0",
+    "original": "回天の彫像",
+    "translation": "回天の彫像",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_345_0",
+    "original": "ごーじゃすキング",
+    "translation": "ごーじゃすキング",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_346_0",
+    "original": "スペクトルレイヴン",
+    "translation": "スペクトルレイヴン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_347_0",
+    "original": "祈祷の女御",
+    "translation": "祈祷の女御",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_348_0",
+    "original": "俗信の翁",
+    "translation": "俗信の翁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_349_0",
+    "original": "無法のファズ",
+    "translation": "無法のファズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_350_0",
+    "original": "石楼のパンツァー",
+    "translation": "石楼のパンツァー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_351_0",
+    "original": "融和の巨人",
+    "translation": "融和の巨人",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_352_0",
+    "original": "新雪の武者",
+    "translation": "新雪の武者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_353_0",
+    "original": "沈静の巨兵",
+    "translation": "沈静の巨兵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_354_0",
+    "original": "雪晴れの武者",
+    "translation": "雪晴れの武者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_355_0",
+    "original": "憤激の巨兵",
+    "translation": "憤激の巨兵",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_356_0",
+    "original": "天空の巨人",
+    "translation": "天空の巨人",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_359_0",
+    "original": "テストＳサイズ",
+    "translation": "テストＳサイズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_360_0",
+    "original": "テストＭサイズ",
+    "translation": "テストＭサイズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_361_0",
+    "original": "テストＬサイズ",
+    "translation": "テストＬサイズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_368_0",
+    "original": "黄金のフォート",
+    "translation": "黄金のフォート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_369_0",
+    "original": "黄金のバランサー",
+    "translation": "黄金のバランサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_370_0",
+    "original": "黄金のテーブル",
+    "translation": "黄金のテーブル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_371_0",
+    "original": "黄金の聖典",
+    "translation": "黄金の聖典",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_372_0",
+    "original": "黄金のバンビーノ",
+    "translation": "黄金のバンビーノ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_373_0",
+    "original": "黄金のダイス",
+    "translation": "黄金のダイス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_374_0",
+    "original": "黄金の剣",
+    "translation": "黄金の剣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_375_0",
+    "original": "黄金の肉体",
+    "translation": "黄金の肉体",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_376_0",
+    "original": "黄金の蛇",
+    "translation": "黄金の蛇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_377_0",
+    "original": "黄金のアニマル",
+    "translation": "黄金のアニマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_378_0",
+    "original": "黄金の侍",
+    "translation": "黄金の侍",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_382_0",
+    "original": "飢餓の猛獣",
+    "translation": "飢餓の猛獣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_383_0",
+    "original": "傲慢な権力者",
+    "translation": "傲慢な権力者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_384_0",
+    "original": "孤独な扇動者",
+    "translation": "孤独な扇動者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_385_0",
+    "original": "画一な同調者",
+    "translation": "画一な同調者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_386_0",
+    "original": "過剰な保護者",
+    "translation": "過剰な保護者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_388_0",
+    "original": "臆病のマーヤ",
+    "translation": "臆病のマーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_389_0",
+    "original": "虚言のアブルリー",
+    "translation": "虚言のアブルリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_390_0",
+    "original": "笑うテーブル",
+    "translation": "笑うテーブル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_391_0",
+    "original": "我欲のバザルト",
+    "translation": "我欲のバザルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_392_0",
+    "original": "偽りの聖典",
+    "translation": "偽りの聖典",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_393_0",
+    "original": "収賄のファズ",
+    "translation": "収賄のファズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_394_0",
+    "original": "炎と氷のバランサー",
+    "translation": "炎と氷のバランサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_395_0",
+    "original": "生成の彫像",
+    "translation": "生成の彫像",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_396_0",
+    "original": "臆病のマーヤ",
+    "translation": "臆病のマーヤ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_397_0",
+    "original": "虚言のアブルリー",
+    "translation": "虚言のアブルリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_398_0",
+    "original": "偽りの聖典",
+    "translation": "偽りの聖典",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_399_0",
+    "original": "生成の彫像",
+    "translation": "生成の彫像",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_400_0",
+    "original": "笑うテーブル",
+    "translation": "笑うテーブル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_401_0",
+    "original": "我欲のバザルト",
+    "translation": "我欲のバザルト",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_402_0",
+    "original": "収賄のファズ",
+    "translation": "収賄のファズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_403_0",
+    "original": "炎と氷のバランサー",
+    "translation": "炎と氷のバランサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_404_0",
+    "original": "虚言のアブルリー",
+    "translation": "虚言のアブルリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_405_0",
+    "original": "生成の彫像",
+    "translation": "生成の彫像",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_406_0",
+    "original": "収賄のファズ",
+    "translation": "収賄のファズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_407_0",
+    "original": "炎と氷のバランサー",
+    "translation": "炎と氷のバランサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_408_0",
+    "original": "盲愛のクビド",
+    "translation": "盲愛のクビド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_409_0",
+    "original": "スレイヴアニマル",
+    "translation": "スレイヴアニマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_410_0",
+    "original": "招きの女御",
+    "translation": "招きの女御",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_411_0",
+    "original": "ジュピターイーグル",
+    "translation": "ジュピターイーグル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_412_0",
+    "original": "情欲の蛇",
+    "translation": "情欲の蛇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_413_0",
+    "original": "浮気のパピヨン",
+    "translation": "浮気のパピヨン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_414_0",
+    "original": "冷静のペーシェ",
+    "translation": "冷静のペーシェ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_415_0",
+    "original": "秘密のバンビーノ",
+    "translation": "秘密のバンビーノ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_416_0",
+    "original": "霧雨兄弟の次男",
+    "translation": "霧雨兄弟の次男",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_417_0",
+    "original": "ブラックレイヴン",
+    "translation": "ブラックレイヴン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_418_0",
+    "original": "ハッピージェーン",
+    "translation": "ハッピージェーン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_419_0",
+    "original": "ミノタウロス壱号",
+    "translation": "ミノタウロス壱号",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_420_0",
+    "original": "スレイヴアニマル",
+    "translation": "スレイヴアニマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_421_0",
+    "original": "冷静のペーシェ",
+    "translation": "冷静のペーシェ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_422_0",
+    "original": "ブラックレイヴン",
+    "translation": "ブラックレイヴン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_423_0",
+    "original": "ミノタウロス壱号",
+    "translation": "ミノタウロス壱号",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_424_0",
+    "original": "マッハフォート",
+    "translation": "マッハフォート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_425_0",
+    "original": "バスタードライブ",
+    "translation": "バスタードライブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_426_0",
+    "original": "ファントムメイジ",
+    "translation": "ファントムメイジ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_427_0",
+    "original": "時の砂時計",
+    "translation": "時の砂時計",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_428_0",
+    "original": "雨見の壷",
+    "translation": "雨見の壷",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_429_0",
+    "original": "トランスツインズ",
+    "translation": "トランスツインズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_430_0",
+    "original": "浅薄の翁",
+    "translation": "浅薄の翁",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_431_0",
+    "original": "静寂のマリア",
+    "translation": "静寂のマリア",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_432_0",
+    "original": "お守りレキシー",
+    "translation": "お守りレキシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_433_0",
+    "original": "ワンダーマグス",
+    "translation": "ワンダーマグス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_434_0",
+    "original": "イデアマザー",
+    "translation": "イデアマザー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_435_0",
+    "original": "不屈の騎士",
+    "translation": "不屈の騎士",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_436_0",
+    "original": "ソウルダンサー",
+    "translation": "ソウルダンサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_437_0",
+    "original": "雨見の壷",
+    "translation": "雨見の壷",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_438_0",
+    "original": "お守りレキシー",
+    "translation": "お守りレキシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_439_0",
+    "original": "不屈の騎士",
+    "translation": "不屈の騎士",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_450_0",
+    "original": "祝福禁じのレキシー",
+    "translation": "祝福禁じのレキシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_451_0",
+    "original": "電撃禁じのレキシー",
+    "translation": "電撃禁じのレキシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_452_0",
+    "original": "疾風禁じのレキシー",
+    "translation": "疾風禁じのレキシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_453_0",
+    "original": "氷結禁じのレキシー",
+    "translation": "氷結禁じのレキシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_454_0",
+    "original": "核熱禁じのアブルリー",
+    "translation": "核熱禁じのアブルリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_455_0",
+    "original": "念動禁じのアブルリー",
+    "translation": "念動禁じのアブルリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_456_0",
+    "original": "氷電禁じのフォート",
+    "translation": "氷電禁じのフォート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_457_0",
+    "original": "風炎禁じのフォート",
+    "translation": "風炎禁じのフォート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_458_0",
+    "original": "物理禁じのアブルリー",
+    "translation": "物理禁じのアブルリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_459_0",
+    "original": "火炎禁じのバランサー",
+    "translation": "火炎禁じのバランサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_460_0",
+    "original": "氷結禁じのバランサー",
+    "translation": "氷結禁じのバランサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_461_0",
+    "original": "電撃禁じのバランサー",
+    "translation": "電撃禁じのバランサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_462_0",
+    "original": "疾風禁じのバランサー",
+    "translation": "疾風禁じのバランサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_463_0",
+    "original": "念動禁じのバランサー",
+    "translation": "念動禁じのバランサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_464_0",
+    "original": "核熱禁じのバランサー",
+    "translation": "核熱禁じのバランサー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_465_0",
+    "original": "祝福禁じの聖典",
+    "translation": "祝福禁じの聖典",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_466_0",
+    "original": "呪怨禁じの聖典",
+    "translation": "呪怨禁じの聖典",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_467_0",
+    "original": "物理禁じのテーブル",
+    "translation": "物理禁じのテーブル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_468_0",
+    "original": "氷炎禁じの剣",
+    "translation": "氷炎禁じの剣",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_469_0",
+    "original": "風電禁じのダイス",
+    "translation": "風電禁じのダイス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_470_0",
+    "original": "念核禁じのバンビーノ",
+    "translation": "念核禁じのバンビーノ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_471_0",
+    "original": "表四属性禁じの蛇",
+    "translation": "表四属性禁じの蛇",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_472_0",
+    "original": "裏四属性禁じのアニマル",
+    "translation": "裏四属性禁じのアニマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_473_0",
+    "original": "七属性禁じの人形",
+    "translation": "七属性禁じの人形",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_474_0",
+    "original": "禁じ隠しの武者",
+    "translation": "禁じ隠しの武者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_475_0",
+    "original": "禁じ隠しの鎧武者",
+    "translation": "禁じ隠しの鎧武者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_476_0",
+    "original": "禁じ隠しの荒武者",
+    "translation": "禁じ隠しの荒武者",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_477_0",
+    "original": "禁じ隠しの若武者",
+    "translation": "禁じ隠しの若武者",
+    "stage": 1,
+    "context": ""
+  }
+]

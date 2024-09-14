@@ -1,0 +1,226 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "果物あったね！\n見たことないやつだけど、うまそう！",
+    "translation": "果物あったね！\n見たことないやつだけど、うまそう！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "果物は、こういう行き止まりの\n採取スポットにあるようだね。",
+    "translation": "果物は、こういう行き止まりの\n採取スポットにあるようだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "エリザベスさんは、果物は４ヶ所にある\nと言っていました。",
+    "translation": "エリザベスさんは、果物は４ヶ所にある\nと言っていました。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "残るは３ヶ所であります。\nシャドウに注意して、捜索しましょう。",
+    "translation": "残るは３ヶ所であります。\nシャドウに注意して、捜索しましょう。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "よっし、２つめ発見したな。",
+    "translation": "よっし、２つめ発見したな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ヒントなしだと、なかなか大変ね。\n次もうまく見つかるといいけど。",
+    "translation": "ヒントなしだと、なかなか大変ね。\n次もうまく見つかるといいけど。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "焦らず行きましょう。\nどこかにあるのは間違いないですから。",
+    "translation": "焦らず行きましょう。\nどこかにあるのは間違いないですから。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "残りは２ヶ所。\n引き続き、探してみましょう。",
+    "translation": "残りは２ヶ所。\n引き続き、探してみましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "これで３つだね、残るはあと１つ！",
+    "translation": "これで３つだね、残るはあと１つ！",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "フフ、不思議なものだな。",
+    "translation": "フフ、不思議なものだな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "こうして皆で歩き回るのも悪くない、\nなどと思っている自分がいるよ。",
+    "translation": "こうして皆で歩き回るのも悪くない、\nなどと思っている自分がいるよ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ああ、いい骨休めといったところか。\nエリザベスさんに感謝だな。",
+    "translation": "ああ、いい骨休めといったところか。\nエリザベスさんに感謝だな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "はは、適当なだけな気もするけど。\n残りの時間、楽しませてもらおうか。",
+    "translation": "はは、適当なだけな気もするけど。\n残りの時間、楽しませてもらおうか。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "それじゃあ行こう、次で最後だ。",
+    "translation": "それじゃあ行こう、次で最後だ。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "そいつでラストだぞー！\n果物集め、これにて終了だ！",
+    "translation": "そいつでラストだぞー！\n果物集め、これにて終了だ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "いっぱい歩きましたね。\nでも、あんまり疲れてないや。",
+    "translation": "いっぱい歩きましたね。\nでも、あんまり疲れてないや。",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ワウ、ワウッ！",
+    "translation": "ワウ、ワウッ！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "コロマルさんも、お散歩できて\n楽しかったと言っています。",
+    "translation": "コロマルさんも、お散歩できて\n楽しかったと言っています。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "名残惜しいですが、戻りましょう。\nエリザベスさんが待っているであります。",
+    "translation": "名残惜しいですが、戻りましょう。\nエリザベスさんが待っているであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  }
+]

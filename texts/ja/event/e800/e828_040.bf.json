@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "真っ直ぐ進むと危険だ、\n左の方向へ進めば安全…と言っています。",
+    "translation": "真っ直ぐ進むと危険だ、\n左の方向へ進めば安全…と言っています。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "スゲー、そこまで分かんの？\nさっすが犬だな！",
+    "translation": "スゲー、そこまで分かんの？\nさっすが犬だな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "はい、コロちゃんの言うとおりですね。",
+    "translation": "はい、コロちゃんの言うとおりですね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "真っ直ぐ進んだ場合、この先でＦ．Ｏ．Ｅと\n遭遇しそうです。",
+    "translation": "真っ直ぐ進んだ場合、この先でＦ．Ｏ．Ｅと\n遭遇しそうです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "宝箱もありそうですが…少し危険ですね。",
+    "translation": "宝箱もありそうですが…少し危険ですね。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "オタカラだと！？",
+    "translation": "オタカラだと！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "怪盗団としては、オタカラがあると知って\nいながら、黙ってスルーは出来ねえぞ！",
+    "translation": "怪盗団としては、オタカラがあると知って\nいながら、黙ってスルーは出来ねえぞ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "でも、Ｆ．Ｏ．Ｅがいるんですよね。\n左の方向へ行けば、道は安全…どうします？",
+    "translation": "でも、Ｆ．Ｏ．Ｅがいるんですよね。\n左の方向へ行けば、道は安全…どうします？",
+    "stage": 1,
+    "context": "天田 乾"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "左の方向へ進もう",
+    "translation": "左の方向へ進もう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "真っ直ぐ進もう",
+    "translation": "真っ直ぐ進もう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "Ｆ．Ｏ．Ｅを避けてくルートだね。\nオッケー！",
+    "translation": "Ｆ．Ｏ．Ｅを避けてくルートだね。\nオッケー！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "さすがはジョーカー！\nオタカラを放っては行けないよな！",
+    "translation": "さすがはジョーカー！\nオタカラを放っては行けないよな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "了承しました。\nリーダーについていくであります。",
+    "translation": "了承しました。\nリーダーについていくであります。",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

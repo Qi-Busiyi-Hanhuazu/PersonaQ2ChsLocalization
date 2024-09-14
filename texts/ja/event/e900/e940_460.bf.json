@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "うわっ、何だ！？",
+    "translation": "うわっ、何だ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "オ、オトコ…！？",
+    "translation": "オ、オトコ…！？",
+    "stage": 1,
+    "context": "荒ぶる監視員"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "オトコォォォォォオ！！！\nオトコ無理！！\nオトコ排除ォオ！！",
+    "translation": "オトコォォォォォオ！！！\nオトコ無理！！\nオトコ排除ォオ！！",
+    "stage": 1,
+    "context": "荒ぶる監視員"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "くっ、問答無用か！",
+    "translation": "くっ、問答無用か！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒ぶる監視員",
+    "original": "荒ぶる監視員",
+    "translation": "荒ぶる監視員",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

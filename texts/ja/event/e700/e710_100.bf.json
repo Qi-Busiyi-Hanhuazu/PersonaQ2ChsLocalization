@@ -1,0 +1,121 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あれは…ハシゴかな？\nどこに通じているんだろう。",
+    "translation": "あれは…ハシゴかな？\nどこに通じているんだろう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "結構たけぇな…",
+    "translation": "結構たけぇな…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "でも、スカルなら届くかもよ？\n陸上部で脚、鍛えてるんだしさ。",
+    "translation": "でも、スカルなら届くかもよ？\n陸上部で脚、鍛えてるんだしさ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "こう、棒高跳びみたいに\nぴょーんって…",
+    "translation": "こう、棒高跳びみたいに\nぴょーんって…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "いやいや、流石に無理だろ！？\nつーか俺、短距離専門だし…",
+    "translation": "いやいや、流石に無理だろ！？\nつーか俺、短距離専門だし…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_05_0",
+    "original": "そうなのか？",
+    "translation": "そうなのか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_05_1",
+    "original": "スカルの華麗な跳躍が見られると\n期待していたんだが…",
+    "translation": "スカルの華麗な跳躍が見られると\n期待していたんだが…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "無理だな",
+    "translation": "無理だな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "跳んでみろ",
+    "translation": "跳んでみろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "だろ？\nこんなん普通、届かねーって…",
+    "translation": "だろ？\nこんなん普通、届かねーって…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "だから、無茶振りはやめろっつーの！\n俺はびっくり鳥人間か！？",
+    "translation": "だから、無茶振りはやめろっつーの！\n俺はびっくり鳥人間か！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "…もしかしたら、他にアクセス\nできる場所があるのかもしれないね。",
+    "translation": "…もしかしたら、他にアクセス\nできる場所があるのかもしれないね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_008_5_0",
+    "original": "ともかく、こうしていてもしょうがないし\n今は先に進んでみようか。",
+    "translation": "ともかく、こうしていてもしょうがないし\n今は先に進んでみようか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

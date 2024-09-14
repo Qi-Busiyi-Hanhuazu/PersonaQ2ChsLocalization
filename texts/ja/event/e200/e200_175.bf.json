@@ -1,0 +1,562 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "お忙しい中、\nご足労ありがとうございます。",
+    "translation": "お忙しい中、\nご足労ありがとうございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "皆さんお待ちかねの券売機が、\nとうとう満を持して始動いたしました。",
+    "translation": "皆さんお待ちかねの券売機が、\nとうとう満を持して始動いたしました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "発券機って、電源は入ってたけど\nずっと動いてなかったよね？",
+    "translation": "発券機って、電源は入ってたけど\nずっと動いてなかったよね？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "左様でございます。",
+    "translation": "左様でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ですが今、発券機が命を宿したかのように\n光り輝いているよう…",
+    "translation": "ですが今、発券機が命を宿したかのように\n光り輝いているよう…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "お分かりいただけたでしょうか。",
+    "translation": "お分かりいただけたでしょうか。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_2",
+    "original": "なに？　よく分からなかった？\nでは分からなかった方のために、ワンモア…",
+    "translation": "なに？　よく分からなかった？\nでは分からなかった方のために、ワンモア…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "いや、いい！　分かったって！",
+    "translation": "いや、いい！　分かったって！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "それより、その服！\n青かったのに、なんか変わってね？",
+    "translation": "それより、その服！\n青かったのに、なんか変わってね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "倉庫をあさっ…\nいえ、整頓していたら見つけました。",
+    "translation": "倉庫をあさっ…\nいえ、整頓していたら見つけました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "私の役割に相応しい衣装でしたので、\n着替えさせていただきました。",
+    "translation": "私の役割に相応しい衣装でしたので、\n着替えさせていただきました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "エリザベスさんの役割？",
+    "translation": "エリザベスさんの役割？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ええ、この経緯を含めて\nご説明いたしましょう。",
+    "translation": "ええ、この経緯を含めて\nご説明いたしましょう。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "私がポップコーンをほお張りまくり、\nウトウトと睡魔に襲われていたところ…",
+    "translation": "私がポップコーンをほお張りまくり、\nウトウトと睡魔に襲われていたところ…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_007_2",
+    "original": "突・然！\nこの発券機が、光を放ったのでございます。",
+    "translation": "突・然！\nこの発券機が、光を放ったのでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "俺たちが必死こいてる時に、\nポップコーン食って寝てたんか…この人…",
+    "translation": "俺たちが必死こいてる時に、\nポップコーン食って寝てたんか…この人…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "そのせいで、私は！　ヨダレを拭いながら、\n起きる羽目になってしまったのです！",
+    "translation": "そのせいで、私は！　ヨダレを拭いながら、\n起きる羽目になってしまったのです！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "なんか、責められているような…",
+    "translation": "なんか、責められているような…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ねーねー。\nそいで、この券売機で何ができるクマ？",
+    "translation": "ねーねー。\nそいで、この券売機で何ができるクマ？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "こちら、『特別上映』のチケットが\n発行されるようでございます。",
+    "translation": "こちら、『特別上映』のチケットが\n発行されるようでございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "…特別上映？",
+    "translation": "…特別上映？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "『カモシダーマン』が長編映画だとすれば、\n『特別上映』は、あくまで短編映画。",
+    "translation": "『カモシダーマン』が長編映画だとすれば、\n『特別上映』は、あくまで短編映画。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "結末を変えるのではなく、定められた目標を\n達成することで、上映終了となる…",
+    "translation": "結末を変えるのではなく、定められた目標を\n達成することで、上映終了となる…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_014_2",
+    "original": "…と、この『取り扱い説明書』には\n記載されていました。",
+    "translation": "…と、この『取り扱い説明書』には\n記載されていました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_015_0",
+    "original": "取り扱い説明書？",
+    "translation": "取り扱い説明書？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_015_1",
+    "original": "意味が分からない",
+    "translation": "意味が分からない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ええ、こちらご丁寧に\n券売機にくっついておりました。",
+    "translation": "ええ、こちらご丁寧に\n券売機にくっついておりました。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "そう申されましても、こちらは\n券売機にくっついておりましたので…",
+    "translation": "そう申されましても、こちらは\n券売機にくっついておりましたので…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "その、特別上映…？\n達成したら、何かあるんですか？",
+    "translation": "その、特別上映…？\n達成したら、何かあるんですか？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "こちらまで報告にいらして下されば、\n超・豪華報酬をご用意いたします。",
+    "translation": "こちらまで報告にいらして下されば、\n超・豪華報酬をご用意いたします。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "豪華報酬…だと？",
+    "translation": "豪華報酬…だと？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "な！　頬っぺた落ちそうだろ？\nそこまでしてくれる意味は分からんが。",
+    "translation": "な！　頬っぺた落ちそうだろ？\nそこまでしてくれる意味は分からんが。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "面白い映画を拝見させて頂けるのならば、\nお安いもの…ほんの、お礼でございます。",
+    "translation": "面白い映画を拝見させて頂けるのならば、\nお安いもの…ほんの、お礼でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "満喫してるな…完全に。",
+    "translation": "満喫してるな…完全に。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "説明書によると、私はチケットの発行や\n管理を定められている様子。",
+    "translation": "説明書によると、私はチケットの発行や\n管理を定められている様子。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "つまり私は、ここの売り子…\nいわば看板娘！",
+    "translation": "つまり私は、ここの売り子…\nいわば看板娘！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_024_2",
+    "original": "それに従って、メ～イク・ア～ップ！\n…した次第でございます。",
+    "translation": "それに従って、メ～イク・ア～ップ！\n…した次第でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "SEL_025_0",
+    "original": "似合ってる",
+    "translation": "似合ってる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_025_1",
+    "original": "自分も着たい",
+    "translation": "自分も着たい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "これはこれは、マンモス嬉しいお言葉…\n私も、張り切りがいがあるというものです。",
+    "translation": "これはこれは、マンモス嬉しいお言葉…\n私も、張り切りがいがあるというものです。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "あらまぁ…申し訳ございません。\nこちらは一点もの、替えはございません。",
+    "translation": "あらまぁ…申し訳ございません。\nこちらは一点もの、替えはございません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "おま、なに着ようとしてんの？\nつーか、何でガッカリしてんだよ！？",
+    "translation": "おま、なに着ようとしてんの？\nつーか、何でガッカリしてんだよ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "そっとしておこう…",
+    "translation": "そっとしておこう…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ちょうど１枚、チケットが発行可能と\nなっていますので、早速…",
+    "translation": "ちょうど１枚、チケットが発行可能と\nなっていますので、早速…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "む…？\nこのチケット、何も書かれていないが。",
+    "translation": "む…？\nこのチケット、何も書かれていないが。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "チケットの絵柄は、映画の中に入れば\n自然と浮かび上がるそうな…",
+    "translation": "チケットの絵柄は、映画の中に入れば\n自然と浮かび上がるそうな…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_032_1",
+    "original": "今回のこちらの特別上映は、\n敵をバッタバッタとなぎ倒すというもの。",
+    "translation": "今回のこちらの特別上映は、\n敵をバッタバッタとなぎ倒すというもの。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_032_2",
+    "original": "具体的に申し上げますと『バザルトを\n８体、討伐せよ』…でございます。",
+    "translation": "具体的に申し上げますと『バザルトを\n８体、討伐せよ』…でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "ほほう？\nそれで、この映画の報酬は何だ？",
+    "translation": "ほほう？\nそれで、この映画の報酬は何だ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "成功した暁には、先立つ物を少々…",
+    "translation": "成功した暁には、先立つ物を少々…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_034_1",
+    "original": "副次的に、敵が落とした素材から作れる\n『治癒の腕輪』も、店頭に並ぶかと。",
+    "translation": "副次的に、敵が落とした素材から作れる\n『治癒の腕輪』も、店頭に並ぶかと。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "『治癒の腕輪』？",
+    "translation": "『治癒の腕輪』？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "こちら、身につけた者が\n回復の術を使えるようになるスグレモノ…",
+    "translation": "こちら、身につけた者が\n回復の術を使えるようになるスグレモノ…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_036_1",
+    "original": "そんなウルトラスーパーな装備を、なんと！\n購入することが可能に！！",
+    "translation": "そんなウルトラスーパーな装備を、なんと！\n購入することが可能に！！",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "やっぱ金取んのかよ！？",
+    "translation": "やっぱ金取んのかよ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "報酬を出しつつ、その金を使わせるとは…\nなかなかの商売人と見た。",
+    "translation": "報酬を出しつつ、その金を使わせるとは…\nなかなかの商売人と見た。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "しかし、新しい装備は助かるな…\n戦力にも影響する。",
+    "translation": "しかし、新しい装備は助かるな…\n戦力にも影響する。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "役に立ちそうだし、\nやってみていいんじゃないかな？",
+    "translation": "役に立ちそうだし、\nやってみていいんじゃないかな？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "SEL_041_0",
+    "original": "わかった",
+    "translation": "わかった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_041_1",
+    "original": "時間があったら",
+    "translation": "時間があったら",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "ええ、報酬で戦力アップ出来れば、\n今後の探索もはかどるはずよ。",
+    "translation": "ええ、報酬で戦力アップ出来れば、\n今後の探索もはかどるはずよ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_042_1",
+    "original": "それに、いつもと違う経験をすることで、\n私たち自身、より強くなれると思う。",
+    "translation": "それに、いつもと違う経験をすることで、\n私たち自身、より強くなれると思う。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_042_2",
+    "original": "急がば回れとも言うし、\nこっちの映画もこなしていきましょう。",
+    "translation": "急がば回れとも言うし、\nこっちの映画もこなしていきましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "ちなみに、こちらのチケット、\n特に期限はございません。",
+    "translation": "ちなみに、こちらのチケット、\n特に期限はございません。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_043_1",
+    "original": "別の『特別上映』が見たければ、\nチケットを破棄することも可能。",
+    "translation": "別の『特別上映』が見たければ、\nチケットを破棄することも可能。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_043_2",
+    "original": "その際の再発行も可能でございます。",
+    "translation": "その際の再発行も可能でございます。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "なるほど。\n自分たちのペースでこなせそうだな。",
+    "translation": "なるほど。\n自分たちのペースでこなせそうだな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "それでは皆様、奮ってジャンジャンと\nご参加くださいませ。",
+    "translation": "それでは皆様、奮ってジャンジャンと\nご参加くださいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

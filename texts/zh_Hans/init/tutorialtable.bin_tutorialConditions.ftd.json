@@ -1,0 +1,380 @@
+[
+  {
+    "key": "text_000_0",
+    "original": "【迷宮】エネミーアピアランスについて",
+    "translation": "【迷宫】关于强敌预警",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【迷宫】关于埃内米阿皮亚兰斯\n\n【迷宫】关于公敌"
+  },
+  {
+    "key": "text_001_0",
+    "original": "【迷宮】オタカラスポットについて",
+    "translation": "【迷宫】关于藏宝地点",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【迷宫】关于宝物景点\n\n【迷宫】关于宝藏地点"
+  },
+  {
+    "key": "text_002_0",
+    "original": "【迷宮】抜け道について",
+    "translation": "【迷宫】关于近路",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【迷宫】关于近道"
+  },
+  {
+    "key": "text_003_0",
+    "original": "【迷宮】映画館へ帰還した時の回復について",
+    "translation": "【迷宫】关于返回电影院时的恢复",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【迷宫】关于返回电影院时的恢复\n\n【迷宫】关于回到电影院时的恢复"
+  },
+  {
+    "key": "text_004_0",
+    "original": "【迷宮】踏破率１００％で開く宝箱について",
+    "translation": "【迷宫】关于探索度100%打开的宝箱",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【迷宫】关于踏破率100%打开的宝箱"
+  },
+  {
+    "key": "text_005_0",
+    "original": "【迷宮】HPの回復について",
+    "translation": "【迷宫】关于HP的恢复",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【迷宫】关于HP的恢复\n\n【迷宫】关于生命值的回复"
+  },
+  {
+    "key": "text_006_0",
+    "original": "【迷宮】オートリカバー",
+    "translation": "【迷宫】自动恢复",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【迷宫】自动恢复器\n\n【迷宫】自动翻盖"
+  },
+  {
+    "key": "text_007_0",
+    "original": "【迷宮】基本操作について",
+    "translation": "【迷宫】关于基本操作",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【迷宫】关于基本操作"
+  },
+  {
+    "key": "text_008_0",
+    "original": "【迷宮】宝箱について",
+    "translation": "【迷宫】关于宝箱",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【迷宫】关于宝箱"
+  },
+  {
+    "key": "text_009_0",
+    "original": "【迷宮】宝の地図について",
+    "translation": "【迷宫】关于宝箱的地图",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【迷宫】关于宝物的地图\n\n【迷宫】关于藏宝图"
+  },
+  {
+    "key": "text_010_0",
+    "original": "【迷宮】赤いオタカラスポットについて",
+    "translation": "【迷宫】关于红色的藏宝地点",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【迷宫】关于红色的宝物景点\n\n【迷宫】关于红色的宝藏地点"
+  },
+  {
+    "key": "text_011_0",
+    "original": "【地図】地図の記載方法について",
+    "translation": "【地图】关于地图的记录方法",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【地图】关于地图的记载方法"
+  },
+  {
+    "key": "text_012_0",
+    "original": "【地図】Ｆ．Ｏ．Ｅアイコンについて（基礎）",
+    "translation": "【地图】关于F.O.E图标（基础）",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【地图】关于F.O.E图标（基础）\n\n【地图】F.O.E图标（基础）"
+  },
+  {
+    "key": "text_013_0",
+    "original": "【地図】Ｆ．Ｏ．Ｅアイコンについて（応用１）",
+    "translation": "【地图】关于F.O.E图标（应用1）",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【地图】关于F.O.E图标（应用1）"
+  },
+  {
+    "key": "text_014_0",
+    "original": "【地図】Ｆ．Ｏ．Ｅアイコンについて（応用２）",
+    "translation": "【地图】关于F.O.E图标（应用2）",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【地图】关于F.O.E图标（应用2）"
+  },
+  {
+    "key": "text_015_0",
+    "original": "【バトル】属性と弱点",
+    "translation": "【战斗】属性和弱点",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【战斗】属性和弱点"
+  },
+  {
+    "key": "text_016_0",
+    "original": "【バトル】ブースト",
+    "translation": "【战斗】BOOST",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【战斗】提升\n\n【战斗】助推"
+  },
+  {
+    "key": "text_017_0",
+    "original": "【バトル】フィニッシュボーナス",
+    "translation": "【战斗】结束奖励",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【战斗】结束奖金"
+  },
+  {
+    "key": "text_018_0",
+    "original": "【バトル】レア素材",
+    "translation": "【战斗】稀有材料",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【战斗】稀有素材"
+  },
+  {
+    "key": "text_019_0",
+    "original": "【バトル】ブーストの解除と戦略",
+    "translation": "【战斗】BOOST的解除和战略",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【战斗】提升的解除和战略"
+  },
+  {
+    "key": "text_020_0",
+    "original": "【バトル】アナライズ",
+    "translation": "【战斗】分析",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【战斗】模拟\n\n【战斗】分析"
+  },
+  {
+    "key": "text_021_0",
+    "original": "【バトル】レアシャドウ",
+    "translation": "【战斗】稀有暗影",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【战斗】稀有暗影"
+  },
+  {
+    "key": "text_022_0",
+    "original": "【バトル】サブペルソナ",
+    "translation": "【战斗】副人格面具",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【战斗】副人格面具"
+  },
+  {
+    "key": "text_023_0",
+    "original": "【バトル】総攻撃",
+    "translation": "【战斗】总攻击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【战斗】总攻击"
+  },
+  {
+    "key": "text_024_0",
+    "original": "【バトル】サポートスキル",
+    "translation": "【战斗】支援技能",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【战斗】支援技能"
+  },
+  {
+    "key": "text_025_0",
+    "original": "【バトル】バトンタッチ",
+    "translation": "【战斗】换手",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【战斗】接力棒\n\n【战斗】交接"
+  },
+  {
+    "key": "text_026_0",
+    "original": "【バトル】控えメンバーの追撃",
+    "translation": "【战斗】候补成员的追击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【战斗】候补成员的追击"
+  },
+  {
+    "key": "text_027_0",
+    "original": "【バトル】属性攻撃が効かないシャドウ",
+    "translation": "【战斗】属性攻击无效的暗影",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【战斗】属性攻击无效的暗影"
+  },
+  {
+    "key": "text_028_0",
+    "original": "【バトル】サブペルソナの装着",
+    "translation": "【战斗】副人格面具的装备",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【战斗】副人格面具的安装\n\n【战斗】副人格面具的装载"
+  },
+  {
+    "key": "text_029_0",
+    "original": "【バトル】状態異常",
+    "translation": "【战斗】异常状态",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【战斗】状态异常"
+  },
+  {
+    "key": "text_030_0",
+    "original": "【バトル】逃走",
+    "translation": "【战斗】逃走",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【战斗】逃走\n\n【战斗】逃跑"
+  },
+  {
+    "key": "text_031_0",
+    "original": "【バトル】協力技について",
+    "translation": "【战斗】关于协力技",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【战斗】关于合作技能\n\n【战斗】关于合作技巧"
+  },
+  {
+    "key": "text_032_0",
+    "original": "【バトル】協力技の発動について",
+    "translation": "【战斗】关于协力技的发动",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【战斗】关于合作技的发动"
+  },
+  {
+    "key": "text_033_0",
+    "original": "【バトル】バトル中のアイテム使用",
+    "translation": "【战斗】战斗中的道具使用",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【战斗】战斗中的道具使用"
+  },
+  {
+    "key": "text_034_0",
+    "original": "【バトル】バトルBGMの変更について",
+    "translation": "【战斗】关于战斗BGM的变更",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【战斗】关于战斗BGM的变更"
+  },
+  {
+    "key": "text_035_0",
+    "original": "【映画館】ショップについて",
+    "translation": "【电影院】关于商店",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【电影院】关于商店\n\n关于【电影院】商店"
+  },
+  {
+    "key": "text_036_0",
+    "original": "【映画館】ナビ設定について",
+    "translation": "【电影院】关于导航设定",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【电影院】关于导航设定\n\n关于【电影院】导航设定"
+  },
+  {
+    "key": "text_037_0",
+    "original": "【映画館】ヤル気状態について",
+    "translation": "【电影院】关于斗志状态",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【电影院】关于干劲状态"
+  },
+  {
+    "key": "text_038_0",
+    "original": "【映画館】すれちがい通信について",
+    "translation": "【电影院】关于瞬缘连接",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【电影院】关于瞬缘连接"
+  },
+  {
+    "key": "text_039_0",
+    "original": "【映画館】パーティ編成について",
+    "translation": "【电影院】关于队伍的编辑",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【电影院】关于队伍的编排\n\n关于【电影院】队伍编排"
+  },
+  {
+    "key": "text_040_0",
+    "original": "【映画館】素材と新商品について",
+    "translation": "【电影院】关于材料和新商品",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【电影院】关于素材和新商品"
+  },
+  {
+    "key": "text_041_0",
+    "original": "【映画館】鑑定について",
+    "translation": "【电影院】关于鉴定",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【电影院】关于鉴定"
+  },
+  {
+    "key": "text_042_0",
+    "original": "【映画館】武器や防具に付いている効果について",
+    "translation": "【电影院】关于武器和防具的效果",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【电影院】关于武器和防具的效果\n\n【电影院】关于武器和防具附带的效果"
+  },
+  {
+    "key": "text_043_0",
+    "original": "【映画館】特別上映について",
+    "translation": "【电影院】关于特别上映",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【电影院】关于特别上映\n\n关于【电影院】特别上映"
+  },
+  {
+    "key": "text_044_0",
+    "original": "【合体】ペルソナ合体について",
+    "translation": "【合体】关于人格面具合体",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【合体】关于人格面具合体"
+  },
+  {
+    "key": "text_045_0",
+    "original": "【合体】イケニエ合体について",
+    "translation": "【合体】关于献祭合体",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【合体】关于献祭合体"
+  },
+  {
+    "key": "text_046_0",
+    "original": "【合体】ブランクカードについて",
+    "translation": "【合体】关于空白卡片",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【合体】关于空白卡片"
+  },
+  {
+    "key": "text_047_0",
+    "original": "【合体】ワイルドカードについて",
+    "translation": "【合体】关于不羁之卡",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【合体】关于通配符\n\n【合体】关于百搭"
+  },
+  {
+    "key": "text_048_0",
+    "original": "【合体】特殊合体について",
+    "translation": "【合体】关于特殊合体 ",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【合体】关于特殊合体"
+  },
+  {
+    "key": "text_049_0",
+    "original": "【特別上映】特別上映用の地図について",
+    "translation": "【特别上映】关于特别上映用的地图",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【特别上映】关于特别上映用的地图"
+  },
+  {
+    "key": "text_050_0",
+    "original": "【特別上映】特別上映時のみ出現する宝箱について",
+    "translation": "【特别上映】关于只在特别上映时出现的宝箱",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【特别上映】关于只在特别上映时出现的宝箱"
+  },
+  {
+    "key": "text_051_0",
+    "original": "【特別上映】チケットの発券について",
+    "translation": "【特别上映】关于电影票的发行",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【特别上映】关于门票的发行\n\n关于【特别上映】门票的发行"
+  },
+  {
+    "key": "text_052_0",
+    "original": "【ＤＬＣ】ＤＬＣ専用サブペルソナについて",
+    "translation": "【DLC】关于DLC专用辅助人格面具",
+    "stage": 0,
+    "context": "机翻辅助：\n\n【DLC】关于DLC专用辅助人格面具\n\nDLC：关于DLC专用副人格面具"
+  },
+  {
+    "key": "text_053_0",
+    "original": "【ＤＬＣ】ＤＬＣ専用アイテムセットについて",
+    "translation": "【DLC】关于DLC专用道具包",
+    "stage": 1,
+    "context": "机翻辅助：\n\n【DLC】关于DLC专用项目集\n\n【DLC】关于DLC专用道具套装"
+  }
+]

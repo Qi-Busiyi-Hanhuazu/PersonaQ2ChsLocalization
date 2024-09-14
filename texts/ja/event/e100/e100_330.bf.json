@@ -1,0 +1,387 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "うう、ダメだ…\nやっぱ、どうしても気になって仕方ない！",
+    "translation": "うう、ダメだ…\nやっぱ、どうしても気になって仕方ない！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ど、どしたの急に！？\n気になることあるなら、何でも言って？",
+    "translation": "ど、どしたの急に！？\n気になることあるなら、何でも言って？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ニャっ、ニャンでも！？",
+    "translation": "ニャっ、ニャンでも！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "なんでも…だと？",
+    "translation": "なんでも…だと？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なんでアンタたちが食いつくの。\n変なのは無視して、どうぞ。",
+    "translation": "なんでアンタたちが食いつくの。\n変なのは無視して、どうぞ。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "じゃあ、遠慮なく訊くんだけど…",
+    "translation": "じゃあ、遠慮なく訊くんだけど…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "その服のデザイン、どうやって決めたの？\nみんなとっても独特だよね！",
+    "translation": "その服のデザイン、どうやって決めたの？\nみんなとっても独特だよね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "え？　えーっと…なんて言うか…\nなんでだろう？",
+    "translation": "え？　えーっと…なんて言うか…\nなんでだろう？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "改めて訊かれると、難しいな…",
+    "translation": "改めて訊かれると、難しいな…",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "この服装は、なりゆきというか…\n自分で決めたわけではない。",
+    "translation": "この服装は、なりゆきというか…\n自分で決めたわけではない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "そうなんだ？　じゃあ、その格好は\nあんまり気に入ってないの？",
+    "translation": "そうなんだ？　じゃあ、その格好は\nあんまり気に入ってないの？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "気に入ってる",
+    "translation": "気に入ってる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "諦めている",
+    "translation": "諦めている",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "じゃあ、問題ないね。\nみんな凄く似合ってるし！",
+    "translation": "じゃあ、問題ないね。\nみんな凄く似合ってるし！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "そっかー。\nでも、みんな凄く似合ってるよ？",
+    "translation": "そっかー。\nでも、みんな凄く似合ってるよ？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ところで、どうやって変身してるのかな？\n魔法少女みたいな感じ？",
+    "translation": "ところで、どうやって変身してるのかな？\n魔法少女みたいな感じ？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "や、分かんねぇけど。\nまあ…その、アレだな。",
+    "translation": "や、分かんねぇけど。\nまあ…その、アレだな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "フォックス、パス。",
+    "translation": "フォックス、パス。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "…パス？\nなるほど、そういうのもあるのか。",
+    "translation": "…パス？\nなるほど、そういうのもあるのか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "ならば、俺もパンサーにパスしよう。",
+    "translation": "ならば、俺もパンサーにパスしよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "いやいや、こっち投げないでよ！？",
+    "translation": "いやいや、こっち投げないでよ！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "えっと、えーっと…\nジョーカー、パス！",
+    "translation": "えっと、えーっと…\nジョーカー、パス！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_016_0",
+    "original": "自分もパス",
+    "translation": "自分もパス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_016_1",
+    "original": "もっと適任がいる",
+    "translation": "もっと適任がいる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ったく、仕方ねえなぁ…\nワガハイがキチンと説明してやろう。",
+    "translation": "ったく、仕方ねえなぁ…\nワガハイがキチンと説明してやろう。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "この怪盗服は歪んだ世界に立ち向かう、\nワガハイたちの反逆の意志のあらわれ。",
+    "translation": "この怪盗服は歪んだ世界に立ち向かう、\nワガハイたちの反逆の意志のあらわれ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_017_5_0",
+    "original": "つまりだ…\n状況によって自然とこうなる！",
+    "translation": "つまりだ…\n状況によって自然とこうなる！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "おおー、なるほど！\nよく分からない！",
+    "translation": "おおー、なるほど！\nよく分からない！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "まあ、俺らも全部分かってる\nわけじゃねーからな。",
+    "translation": "まあ、俺らも全部分かってる\nわけじゃねーからな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "…てか、やっぱりヘン？",
+    "translation": "…てか、やっぱりヘン？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "今は慣れたけど、最初は恥ずかしくて\n気になっちゃってたし…",
+    "translation": "今は慣れたけど、最初は恥ずかしくて\n気になっちゃってたし…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ううん、怪盗団っぽくてイイと思う！\n私も変装してみたいなぁ。",
+    "translation": "ううん、怪盗団っぽくてイイと思う！\n私も変装してみたいなぁ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "フフフ、これも怪盗の醍醐味だからな。\nその気持ち、分からなくはないぞ。",
+    "translation": "フフフ、これも怪盗の醍醐味だからな。\nその気持ち、分からなくはないぞ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "うんうん。\nそれで、モナは？",
+    "translation": "うんうん。\nそれで、モナは？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "その着ぐるみの中、どうなってるの？\n頭、とってみていい？",
+    "translation": "その着ぐるみの中、どうなってるの？\n頭、とってみていい？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "取れねーし！\n着ぐるみじゃねーしっ！",
+    "translation": "取れねーし！\n着ぐるみじゃねーしっ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "えっ！？\nそ、そっか…普通にネ…",
+    "translation": "えっ！？\nそ、そっか…普通にネ…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "猫でもねーしっっ！\nワガハイは、ニーンーゲーンーだー！",
+    "translation": "猫でもねーしっっ！\nワガハイは、ニーンーゲーンーだー！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "この流れ、安心感あるわー…",
+    "translation": "この流れ、安心感あるわー…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "そうだ、私も[P3P名]ちゃんに\n訊きたいことあったんだ！",
+    "translation": "そうだ、私も[P3P名]ちゃんに\n訊きたいことあったんだ！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_028_1",
+    "original": "ペルソナを召喚する時、どうして\n頭に銃を突きつけてるの？",
+    "translation": "ペルソナを召喚する時、どうして\n頭に銃を突きつけてるの？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "あ、これ？\nそういえば、みんなは銃使ってないよね。",
+    "translation": "あ、これ？\nそういえば、みんなは銃使ってないよね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "特別課外活動部のメンバーはみんな、\n銃型の召喚器を使ってるんだよ。",
+    "translation": "特別課外活動部のメンバーはみんな、\n銃型の召喚器を使ってるんだよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_029_2",
+    "original": "頭に突きつけて、自分の意思で引き金を\n引くことでペルソナを召喚してるの。",
+    "translation": "頭に突きつけて、自分の意思で引き金を\n引くことでペルソナを召喚してるの。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "スゲー。\nなんか、覚悟キメてる感じだな。",
+    "translation": "スゲー。\nなんか、覚悟キメてる感じだな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "ふふっ。怪盗服だったり召喚器だったり、\n色んな形があって面白いね。",
+    "translation": "ふふっ。怪盗服だったり召喚器だったり、\n色んな形があって面白いね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "ふむ。俺もペルソナの召喚方法に\nもう少し個性を出してもいいかもしれんな。",
+    "translation": "ふむ。俺もペルソナの召喚方法に\nもう少し個性を出してもいいかもしれんな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "こう…もっと情熱的に！\n愁いを込めつつも、激しくっ！！",
+    "translation": "こう…もっと情熱的に！\n愁いを込めつつも、激しくっ！！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "はいはい、分かったから先に進も？\nまだまだ長いかもしれないよ？",
+    "translation": "はいはい、分かったから先に進も？\nまだまだ長いかもしれないよ？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "ハァ、そうだったな…\n今は進むとするか。",
+    "translation": "ハァ、そうだったな…\n今は進むとするか。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

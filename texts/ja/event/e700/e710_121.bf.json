@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ホントに通れた！\n…ここ、入ってすぐの所？",
+    "translation": "ホントに通れた！\n…ここ、入ってすぐの所？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "こんなとこまで戻ってこられるなんて…\nすごい便利かも！",
+    "translation": "こんなとこまで戻ってこられるなんて…\nすごい便利かも！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "確かに一回通ってハシゴさえ降ろしちまえば\n同じ道、通らなくてもいいしな。",
+    "translation": "確かに一回通ってハシゴさえ降ろしちまえば\n同じ道、通らなくてもいいしな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "ほら、何つったっけ…あの…\nショー…ショートケーキじゃなくて…",
+    "translation": "ほら、何つったっけ…あの…\nショー…ショートケーキじゃなくて…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "えっと、ショートカットって\n言いたいのかな？",
+    "translation": "えっと、ショートカットって\n言いたいのかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "確かに、これを活用すれば\n探索もかなり楽になりそうだね。",
+    "translation": "確かに、これを活用すれば\n探索もかなり楽になりそうだね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "同じような場所を見つけたら\n積極的に調べてみようか。",
+    "translation": "同じような場所を見つけたら\n積極的に調べてみようか。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ならば、地図に印をつけるといいだろう。\n次に使うとき、役に立つはずだからな。",
+    "translation": "ならば、地図に印をつけるといいだろう。\n次に使うとき、役に立つはずだからな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

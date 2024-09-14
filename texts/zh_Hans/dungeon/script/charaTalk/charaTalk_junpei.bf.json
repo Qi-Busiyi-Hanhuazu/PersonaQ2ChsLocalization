@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "おっと！　オタカラスポット！\n採っちゃう？　採っちゃう？",
+    "translation": "哦！是藏宝地点诶！\n要采吗？要采吗？",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n哦！宝物地点！\n要采吗？要采吗？\n\n哎呀！宝物景点！\n采用？采了吗？\n\n噢！宝藏地点！\n摘下来？采下来？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おう！\n気は抜かないぜ！",
+    "translation": "哦！\n我可不会松懈！",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n哦！\n不能掉以轻心！\n\n哦！\n不要松懈！\n\n喔！\n绝不松懈！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "んじゃ専念するぜ！\n任せとけ！",
+    "translation": "那就先专心做这个吧！\n交给我！",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n那我要专心了！\n包在我身上！\n\n那就专心吧！\n交给我吧！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "お？　止めとく？\n了解了解！",
+    "translation": "哦？先暂停？\n了解了解！",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n哦？要停手吗？\n了解了解！\n\n哦？停止吧？\n了解了解了解！\n\n您？阻止他？\n了解了解！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全部だぜ！",
+    "translation": "一共是这些！",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n这样就全部采完了！\n\n这就是全部了！"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いいじゃん。",
+    "translation": "不错嘛。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不错嘛。\n\n不是很好吗。\n\n很好嘛。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ほほー。",
+    "translation": "吼吼——",
+    "stage": 1,
+    "context": "机翻辅助：\n\n哦哦～\n\n呵呵。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "おっ。",
+    "translation": "哦。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n哦。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "び、びびったぜ…\nとにかく採取はカンペキだな！",
+    "translation": "还、还真是被吓一跳……\n总之，采集工作完成得很完美对吧！",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n吓、吓死我了……\n总之采集工作完美结束！\n\n我好害怕啊……\n总之采集很完美啊！\n\n总之采集的时候是干巴巴的！"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "レアゲットだぜ！",
+    "translation": "是稀有物品诶！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我拿到稀有道具了！\n\n是稀有入手！\n\n是稀有入手哟！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "マジか！！",
+    "translation": "真假！！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n真的假的！\n\n真的吗！！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "来たー！",
+    "translation": "来啦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n来了——！\n\n来了！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "おっと、近道発見！\nどうするよ？",
+    "translation": "哦哦，发现近路了！\n怎么办？",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n哦，我发现捷径了！\n怎么办？\n\n哎呀，发现近道！\n怎么办？\n\n啊，发现捷径了！\n怎么办？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こっちは通れないかー。",
+    "translation": "这边过不去啊——",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n这边好像不能走耶。\n\n这边不能通过吗？\n\n这边不能通过吗。"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "なぁ…ここヤバいよな？\n絶対に出ちゃう系だよな？",
+    "translation": "我说……这里有點不妙啊？\n感觉是那种百分百遇怪的地方",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n欸……这里很危险吧？\n感觉是绝对会出事的类型。\n\n啊……这里很糟糕吧？\n是绝对会出现的类型吧？\n\n是吧……这里很奇怪吧？\n是绝对会出现的系吧？"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "マジ！？\nよ、よし！　調べるぞ？",
+    "translation": "真假！？\n知、知道了！开始调查吧？",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n真的假的！\n好、好！我要调查一下。\n\n真的！？\n好，好！要调查吗？"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "だよな、止めとこうぜ。\n順平、危うきに近寄らず！",
+    "translation": "也是啊，停下来吧。\n顺平，从不靠近危险！",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n就是说啊，还是别过去吧。\n顺平，不要靠近危险！\n\n是啊，停下来吧。顺平，不要靠近危险！\n\n\n是吧，算了吧。顺平，勿近危！"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "やっべ、強すぎだろ…\n採取も命がけだな。",
+    "translation": "要命，强过头了吧……\n采集工作也有要命的时候啊。",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n糟糕，太强了吧……\n采集也是要赌命的呢。\n\n太厉害了吧……采集也是冒着生命危险啊。\n\n\n真是的，太强了吧。"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここ、シャドウの気配多くね？\nどうするよ？",
+    "translation": "这里感觉暗影有点多啊？\n怎么办？",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n这里暗影的气息好像很多？\n怎么办？\n\n这里，暗影的气息很多吧？\n怎么办？\n\n这里暗影的动静很多吧？\n怎么办？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "おっし！　気をつけて調べようぜ！",
+    "translation": "好！小心点调查吧！",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n好！小心地调查吧！\n\n喂！小心调查吧！\n\n喂！小心检查吧！"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "お？　止めとくか。",
+    "translation": "哦？要暂停吗？",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n哦？要停手吗？\n\n哦？停下来。\n\n您？阻止他吗？"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "おっし！　これで終わりだな！",
+    "translation": "干得漂亮！这下就结束了呢！",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n好！这样就结束了！\n\n喂！就这样结束了！\n\n喂！这就结束了吧！"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "おっと、こっから映画館戻れるぜー？\nどうすんよ？",
+    "translation": "哦，这里可以回电影院诶——？\n怎么办？",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n哦，从这边可以回到电影院耶\n怎么办？\n\n哦，从这里可以回电影院了～～？\n怎么办？\n\n哎呀，从这里可以回电影院了吧？\n怎么办？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊织 顺平",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

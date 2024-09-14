@@ -1,0 +1,58 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…この先に、カモシダーマンがいる。\n一度入ったら、もう引き返せないぞ。",
+    "translation": "…この先に、カモシダーマンがいる。\n一度入ったら、もう引き返せないぞ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ここまで来たら、あとは実行あるのみだね。\n慎重、かつ大胆にやっちゃお！",
+    "translation": "ここまで来たら、あとは実行あるのみだね。\n慎重、かつ大胆にやっちゃお！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ジョーカー、行くか？",
+    "translation": "ジョーカー、行くか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "行こう",
+    "translation": "行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "まだだ",
+    "translation": "まだだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "そうか…まあ、タイミングも重要だしな。\nそこら辺はジョーカーに任せるぜ！",
+    "translation": "そうか…まあ、タイミングも重要だしな。\nそこら辺はジョーカーに任せるぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

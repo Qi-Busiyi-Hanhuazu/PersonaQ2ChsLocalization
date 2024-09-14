@@ -1,0 +1,443 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "えっ、子ども…？\nもしかして迷子！？",
+    "translation": "えっ、子ども…？\nもしかして迷子！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "どうかな。\n迷子にしては様子がおかしいね。",
+    "translation": "どうかな。\n迷子にしては様子がおかしいね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ここは…",
+    "translation": "ここは…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "主は、どこに…",
+    "translation": "主は、どこに…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ジュスティーヌ！　見ろ！",
+    "translation": "ジュスティーヌ！　見ろ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "囚人、あなたもいたのですね。",
+    "translation": "囚人、あなたもいたのですね。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "おい、囚人！　ここはどこだ！？\nなぜいきなり現れた！？",
+    "translation": "おい、囚人！　ここはどこだ！？\nなぜいきなり現れた！？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "SEL_007_0",
+    "original": "知らない",
+    "translation": "知らない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_1",
+    "original": "こっちの台詞だ",
+    "translation": "こっちの台詞だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_007_2",
+    "original": "当ててみろ",
+    "translation": "当ててみろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "その顔…本当に知らないようだな。",
+    "translation": "その顔…本当に知らないようだな。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "なんだと！",
+    "translation": "なんだと！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "待ちなさいカロリーヌ。",
+    "translation": "待ちなさいカロリーヌ。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "あの顔…本当に知らないようです。",
+    "translation": "あの顔…本当に知らないようです。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "お前の仕業か！？",
+    "translation": "お前の仕業か！？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "待ちなさいカロリーヌ。\n囚人風情にそんな力があると思えません。",
+    "translation": "待ちなさいカロリーヌ。\n囚人風情にそんな力があると思えません。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "おそらく囚人も、何も知らないはず。",
+    "translation": "おそらく囚人も、何も知らないはず。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "だったら、何が起きたんだ…",
+    "translation": "だったら、何が起きたんだ…",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "それはわかりません。",
+    "translation": "それはわかりません。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "おおお、幼女キター！\nしかも双子属性か！？",
+    "translation": "おおお、幼女キター！\nしかも双子属性か！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "つーか、こんなチビっこの\n知り合いいんのかよ、[P5名]？",
+    "translation": "つーか、こんなチビっこの\n知り合いいんのかよ、[P5名]？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "チビっこだと！？",
+    "translation": "チビっこだと！？",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "不敬な…",
+    "translation": "不敬な…",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "そうだぞオマエら、\nあんまりナメた口を利くな！",
+    "translation": "そうだぞオマエら、\nあんまりナメた口を利くな！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_020_0",
+    "original": "モルガナも知り合い？",
+    "translation": "モルガナも知り合い？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_020_1",
+    "original": "急に寝返ったな",
+    "translation": "急に寝返ったな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "いや、そういうワケじゃないが…\nな、なんとなく？",
+    "translation": "いや、そういうワケじゃないが…\nな、なんとなく？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "囚人、とにかく\n私たちにも事情を教えなさい。",
+    "translation": "囚人、とにかく\n私たちにも事情を教えなさい。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "話は部屋の中で聞いてやる。\n…おい、そこの猫！",
+    "translation": "話は部屋の中で聞いてやる。\n…おい、そこの猫！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "は、ハイっ！",
+    "translation": "は、ハイっ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "お前、囚人を部屋まで連れて来い。\nサッサとしろよ！",
+    "translation": "お前、囚人を部屋まで連れて来い。\nサッサとしろよ！",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "な、なんでワガハイ…？",
+    "translation": "な、なんでワガハイ…？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": "ジュスティーヌ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "や、やります！\nモチロン！　喜んで！",
+    "translation": "や、やります！\nモチロン！　喜んで！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "フン、その他のヤツらも忘れるなよ。",
+    "translation": "フン、その他のヤツらも忘れるなよ。",
+    "stage": 1,
+    "context": "カロリーヌ"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "その他、扱いか…",
+    "translation": "その他、扱いか…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "マジ、誰なんだよ？",
+    "translation": "マジ、誰なんだよ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_031_1",
+    "original": "てかモルガナ、なんでお前、\n言うこと聞いちゃってんの？",
+    "translation": "てかモルガナ、なんでお前、\n言うこと聞いちゃってんの？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_032_0",
+    "original": "惚れたな",
+    "translation": "惚れたな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_032_1",
+    "original": "借りてきた猫だな",
+    "translation": "借りてきた猫だな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "おいおいマジかよ。\nんで、どっちだ？",
+    "translation": "おいおいマジかよ。\nんで、どっちだ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "バカ言うんじゃねえ！\nワガハイはアン殿ひとすじだ！",
+    "translation": "バカ言うんじゃねえ！\nワガハイはアン殿ひとすじだ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "だから、猫じゃねーよ！",
+    "translation": "だから、猫じゃねーよ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "ハァ…これで満足か？\nいい加減このくだりも飽きたぞ。",
+    "translation": "ハァ…これで満足か？\nいい加減このくだりも飽きたぞ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "いや、もうそれ\nお前の持ちネタだろ。",
+    "translation": "いや、もうそれ\nお前の持ちネタだろ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "…あの方たちは、\n自分の中に『揺るぎないモノ』を持ってる。",
+    "translation": "…あの方たちは、\n自分の中に『揺るぎないモノ』を持ってる。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_037_1",
+    "original": "あの目で見られると、なんか言うこと\n聞かなきゃいけない気がしちまってさ。",
+    "translation": "あの目で見られると、なんか言うこと\n聞かなきゃいけない気がしちまってさ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_038_0",
+    "original": "催眠術か？",
+    "translation": "催眠術か？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_038_1",
+    "original": "ビビってる？",
+    "translation": "ビビってる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "いや、そんなんじゃねえ。\nもっと根っこの方から、こう…",
+    "translation": "いや、そんなんじゃねえ。\nもっと根っこの方から、こう…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_039_1",
+    "original": "『やんなきゃ！』って気持ちが、\n湧き上がってくるっていうか…",
+    "translation": "『やんなきゃ！』って気持ちが、\n湧き上がってくるっていうか…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "俺には湧かねーぞ？",
+    "translation": "俺には湧かねーぞ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "ワガハイには湧くんだよ！\n分かんねーけど！",
+    "translation": "ワガハイには湧くんだよ！\n分かんねーけど！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "[P5名]の知り合いなら、\n信頼できると思うが。",
+    "translation": "[P5名]の知り合いなら、\n信頼できると思うが。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "大丈夫だって。\nほら、待たせるんじゃねーぞ。",
+    "translation": "大丈夫だって。\nほら、待たせるんじゃねーぞ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_カロリーヌ",
+    "original": "カロリーヌ",
+    "translation": "カロリーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ジュスティーヌ",
+    "original": "ジュスティーヌ",
+    "translation": "ジュスティーヌ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

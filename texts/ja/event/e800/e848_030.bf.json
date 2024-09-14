@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よし、やったぞ！",
+    "translation": "よし、やったぞ！",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やってくれんな、相棒！\n特捜隊、ここにありってか？",
+    "translation": "やってくれんな、相棒！\n特捜隊、ここにありってか？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "さすがね、[P4姓]くん。\n落ち着いていたわ。",
+    "translation": "さすがね、[P4姓]くん。\n落ち着いていたわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "いや、みんなが協力してくれたおかげだ。\nこの調子で行こう。",
+    "translation": "いや、みんなが協力してくれたおかげだ。\nこの調子で行こう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_003_1_0",
+    "original": "む、これは…？",
+    "translation": "む、これは…？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "足元に何かが落ちている…",
+    "translation": "足元に何かが落ちている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おお、やっぱりフィルムみたいだな。",
+    "translation": "おお、やっぱりフィルムみたいだな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "エリザベスさんの予想通りか。",
+    "translation": "エリザベスさんの予想通りか。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_006_1_0",
+    "original": "君に渡しておくよ。\n持って帰って彼女に見せよう。",
+    "translation": "君に渡しておくよ。\n持って帰って彼女に見せよう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "『煤けたフィルム』を手に入れた！",
+    "translation": "『煤けたフィルム』を手に入れた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ターゲット撃破、ご苦労さんだ。\nあとは戻って報告、頼むぞ！",
+    "translation": "ターゲット撃破、ご苦労さんだ。\nあとは戻って報告、頼むぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

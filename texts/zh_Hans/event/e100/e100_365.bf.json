@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "負けてしまったのね…",
+    "translation": "输掉了呢……",
+    "stage": 0,
+    "context": "说话人：ナギ\n\n机翻辅助：\n\n输掉了呢……\n\n输了呢……"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "やっぱり…権力者には勝てない…",
+    "translation": "果然……赢不了掌权者……",
+    "stage": 0,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n果然……赢不了掌权者……\n\n果然……无法战胜权力者……\n\n果然……战胜不了权力者……"
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "凪",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "光",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

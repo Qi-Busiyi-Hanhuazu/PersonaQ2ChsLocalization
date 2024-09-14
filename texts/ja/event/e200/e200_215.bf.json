@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "＞[道具 0746]を手に入れた。",
+    "translation": "＞[道具 0746]を手に入れた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "なんだぁ？\nこのカード、光ってないスか？",
+    "translation": "なんだぁ？\nこのカード、光ってないスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ペルソナのフィルムと似てるけど、\nちょっと違う感じだね。",
+    "translation": "ペルソナのフィルムと似てるけど、\nちょっと違う感じだね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あ、確かに似てるかも。\n使えるアイテムなのかな？",
+    "translation": "あ、確かに似てるかも。\n使えるアイテムなのかな？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ベルベットルームの方たちなら、\n何か知っているかもしれませんね。",
+    "translation": "ベルベットルームの方たちなら、\n何か知っているかもしれませんね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "戻った時にでも訊いてみませんか？",
+    "translation": "戻った時にでも訊いてみませんか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うん、そうしよう！",
+    "translation": "うん、そうしよう！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "それでは、大事な物として\n持っておきましょう。",
+    "translation": "それでは、大事な物として\n持っておきましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "それでは、捨てずに大事な物として\n持っておきましょう。",
+    "translation": "それでは、捨てずに大事な物として\n持っておきましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

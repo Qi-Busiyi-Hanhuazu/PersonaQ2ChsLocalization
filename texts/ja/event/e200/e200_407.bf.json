@@ -1,0 +1,170 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "わ、私もいく！",
+    "translation": "わ、私もいく！",
+    "stage": 1,
+    "context": "気弱そうな草食恐竜"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "自分の本心にウソはつきたくない…\nそう決めたんだ！",
+    "translation": "自分の本心にウソはつきたくない…\nそう決めたんだ！",
+    "stage": 1,
+    "context": "気弱そうな草食恐竜"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "わ、私だって…！\n自分の気持ちに素直になりたい！",
+    "translation": "わ、私だって…！\n自分の気持ちに素直になりたい！",
+    "stage": 1,
+    "context": "声が大きい草食恐竜"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "こ、このおおぉぉーっ！",
+    "translation": "こ、このおおぉぉーっ！",
+    "stage": 1,
+    "context": "声が大きい草食恐竜"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "お前ら…！\nサンキューな！",
+    "translation": "お前ら…！\nサンキューな！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ＧＹＡＡＡＡＡＡ…！",
+    "translation": "ＧＹＡＡＡＡＡＡ…！",
+    "stage": 1,
+    "context": "派手な肉食恐竜"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "クソッ！　もう少し…！",
+    "translation": "クソッ！　もう少し…！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "すごい…！　みんなが力を合わせたら、\n肉食恐竜が圧倒されてる！",
+    "translation": "すごい…！　みんなが力を合わせたら、\n肉食恐竜が圧倒されてる！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ああ、よくやってるぜ！",
+    "translation": "ああ、よくやってるぜ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "でも、俺らだっているんだ。\nいい加減、こっちにも手伝わせろよ！",
+    "translation": "でも、俺らだっているんだ。\nいい加減、こっちにも手伝わせろよ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "お前ら…\nで、でも…",
+    "translation": "お前ら…\nで、でも…",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "アンタだって、消耗してるでしょ？",
+    "translation": "アンタだって、消耗してるでしょ？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "ここで無理をして倒れたら、\nそれこそ意味ないっつーの！",
+    "translation": "ここで無理をして倒れたら、\nそれこそ意味ないっつーの！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "お前たちは強くなった。\nきっと、これからも強くなれる。",
+    "translation": "お前たちは強くなった。\nきっと、これからも強くなれる。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "その未来と仲間のために、\n今は俺たちの力を頼ってくれ。",
+    "translation": "その未来と仲間のために、\n今は俺たちの力を頼ってくれ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "…ありがとうな。\nよし、一緒に戦おうぜ！",
+    "translation": "…ありがとうな。\nよし、一緒に戦おうぜ！",
+    "stage": 1,
+    "context": "ヨウスケサウルス"
+  },
+  {
+    "key": "speaker_気弱そうな草食恐竜",
+    "original": "気弱そうな草食恐竜",
+    "translation": "気弱そうな草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_声が大きい草食恐竜",
+    "original": "声が大きい草食恐竜",
+    "translation": "声が大きい草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ヨウスケサウルス",
+    "original": "ヨウスケサウルス",
+    "translation": "ヨウスケサウルス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_派手な肉食恐竜",
+    "original": "派手な肉食恐竜",
+    "translation": "派手な肉食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

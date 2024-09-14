@@ -1,0 +1,464 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "うん、これで全部。\n４つのフィルム、セットできたよ！",
+    "translation": "うん、これで全部。\n４つのフィルム、セットできたよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "このフィルムで映画を流せば、\n他の人々にも届くはずです。",
+    "translation": "このフィルムで映画を流せば、\n他の人々にも届くはずです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "んじゃ、あとはナビがスイッチ入れたら\nこれで終わりっスか？",
+    "translation": "んじゃ、あとはナビがスイッチ入れたら\nこれで終わりっスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そのハズだが…",
+    "translation": "そのハズだが…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あの…私…\nまだ、やり残してることがあるの。",
+    "translation": "あの…私…\nまだ、やり残してることがあるの。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "やり残してること？\n何か他に足りてなかった？",
+    "translation": "やり残してること？\n何か他に足りてなかった？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ナギさんと…\nエンリルと、話したい。",
+    "translation": "ナギさんと…\nエンリルと、話したい。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "エンリルと！？",
+    "translation": "エンリルと！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "今、この映画館にいる人たちは\n外に出て行けるかもしれない。",
+    "translation": "今、この映画館にいる人たちは\n外に出て行けるかもしれない。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "でも、また同じような人たちが\n次から次へと呼び寄せられると思う。",
+    "translation": "でも、また同じような人たちが\n次から次へと呼び寄せられると思う。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "人と人の話だもんね。\n似たような悩みは尽きないだろうし。",
+    "translation": "人と人の話だもんね。\n似たような悩みは尽きないだろうし。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "結局、いる人たちが入れ替わるだけで、\nエンリルは同じことを繰り返す。",
+    "translation": "結局、いる人たちが入れ替わるだけで、\nエンリルは同じことを繰り返す。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "それじゃ意味がない。\nだから、私…エンリルに伝えたい。",
+    "translation": "それじゃ意味がない。\nだから、私…エンリルに伝えたい。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_5_0",
+    "original": "どうして私が変われたのか。\n私が求めていた『救済』は何だったのか。",
+    "translation": "どうして私が変われたのか。\n私が求めていた『救済』は何だったのか。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "SEL_011_0",
+    "original": "伝えたほうがいい",
+    "translation": "伝えたほうがいい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_1",
+    "original": "聞き入れないかも",
+    "translation": "聞き入れないかも",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_011_2",
+    "original": "好きにしろ",
+    "translation": "好きにしろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "うん…！\n私、絶対にやってみるよ。",
+    "translation": "うん…！\n私、絶対にやってみるよ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "それに、諦めの悪さは\nみんなが教えてくれたもの。",
+    "translation": "それに、諦めの悪さは\nみんなが教えてくれたもの。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "そうだね。\n戦いになる可能性も高いよ。",
+    "translation": "そうだね。\n戦いになる可能性も高いよ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "それでも私、やりたいの。\n後悔はもうしたくない。",
+    "translation": "それでも私、やりたいの。\n後悔はもうしたくない。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "ずいぶんと主張するようになった\nじゃねーか、ひかり。悪くないぜ？",
+    "translation": "ずいぶんと主張するようになった\nじゃねーか、ひかり。悪くないぜ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "諦めの悪さは、\nみんなが教えてくれたからね。",
+    "translation": "諦めの悪さは、\nみんなが教えてくれたからね。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "言って、聞き入れてくれるかな？\n戦いになる可能性は高いよ？",
+    "translation": "言って、聞き入れてくれるかな？\n戦いになる可能性は高いよ？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "それでも私、やりたいの。\n後悔はもうしたくない。",
+    "translation": "それでも私、やりたいの。\n後悔はもうしたくない。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "ずいぶんと主張するようになった\nじゃねーか、ひかり。悪くないぜ？",
+    "translation": "ずいぶんと主張するようになった\nじゃねーか、ひかり。悪くないぜ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "諦めの悪さは、\nみんなが教えてくれたからね。",
+    "translation": "諦めの悪さは、\nみんなが教えてくれたからね。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "あはは！\nそう言えばそうだったね。",
+    "translation": "あはは！\nそう言えばそうだったね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "いいじゃねえか。\nエンリルのハナ、明かしてやろうぜ。",
+    "translation": "いいじゃねえか。\nエンリルのハナ、明かしてやろうぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "ああ。\nやられっぱなしは性に合わん。",
+    "translation": "ああ。\nやられっぱなしは性に合わん。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "クマだって、モチロン\n最後までお付き合いしますぞー！",
+    "translation": "クマだって、モチロン\n最後までお付き合いしますぞー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "みんな、生半可な気持ちで\nここまで来たワケじゃねえんだ。",
+    "translation": "みんな、生半可な気持ちで\nここまで来たワケじゃねえんだ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "その覚悟を見せつけてやらねえで、\nすごすごと帰れるかよ。",
+    "translation": "その覚悟を見せつけてやらねえで、\nすごすごと帰れるかよ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "みんな…！",
+    "translation": "みんな…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "SEL_027_0",
+    "original": "やってやろう",
+    "translation": "やってやろう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_027_1",
+    "original": "最後の仕上げだ",
+    "translation": "最後の仕上げだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "人の希望と、僕たちの覚悟…\n負けられないね。",
+    "translation": "人の希望と、僕たちの覚悟…\n負けられないね。",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "いよいよエンリルと直接対決だ。\nみんな、覚悟はいいな？",
+    "translation": "いよいよエンリルと直接対決だ。\nみんな、覚悟はいいな？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "ああ、いつだってイケるぜ！",
+    "translation": "ああ、いつだってイケるぜ！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "オレっちだって！　ここで引いたら、\nオトコが廃るってやつだもんな。",
+    "translation": "オレっちだって！　ここで引いたら、\nオトコが廃るってやつだもんな。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "全員、気持ちは同じようだな。",
+    "translation": "全員、気持ちは同じようだな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "ワンッ！！",
+    "translation": "ワンッ！！",
+    "stage": 1,
+    "context": "コロマル"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "私たちも、しっかりサポートします。\n準備は万全にして臨みましょう。",
+    "translation": "私たちも、しっかりサポートします。\n準備は万全にして臨みましょう。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "いいか、相手はあのエンリルだ。\n準備は念入りにしとけよ？",
+    "translation": "いいか、相手はあのエンリルだ。\n準備は念入りにしとけよ？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "行けるってなったら、\nエンリルの元へ向かってくれ！",
+    "translation": "行けるってなったら、\nエンリルの元へ向かってくれ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "コロマル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

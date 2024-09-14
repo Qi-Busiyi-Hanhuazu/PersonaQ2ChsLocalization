@@ -1,0 +1,184 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あっ、見て！",
+    "translation": "あっ、見て！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "キュウウ…",
+    "translation": "キュウウ…",
+    "stage": 1,
+    "context": "幼い草食恐竜"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "よし、見つけたぜ。\n捜してた恐竜の子供だな。",
+    "translation": "よし、見つけたぜ。\n捜してた恐竜の子供だな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ケガ、痛そうだね…\nうずくまってるし、動けないみたい。",
+    "translation": "ケガ、痛そうだね…\nうずくまってるし、動けないみたい。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "早く手当てしよう",
+    "translation": "早く手当てしよう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "薬草を探そう",
+    "translation": "薬草を探そう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "恐竜の子がここにいるのは確認できたから、\n次はノワールが言ってた薬草だね。",
+    "translation": "恐竜の子がここにいるのは確認できたから、\n次はノワールが言ってた薬草だね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "確か…ツタが垂れてる扉、だっけ？",
+    "translation": "確か…ツタが垂れてる扉、だっけ？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うん、そう。そこまで行ったら、\n私が薬草を選別するよ。",
+    "translation": "うん、そう。そこまで行ったら、\n私が薬草を選別するよ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ツタが垂れてる扉…\nたぶん、抜け道になってるとこだな。",
+    "translation": "ツタが垂れてる扉…\nたぶん、抜け道になってるとこだな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "何ヶ所かあるはずだ。\n行ってみてくれ。",
+    "translation": "何ヶ所かあるはずだ。\n行ってみてくれ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "うっし！\nそんじゃ速攻で取りに行こうぜ！",
+    "translation": "うっし！\nそんじゃ速攻で取りに行こうぜ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "キュウ…",
+    "translation": "キュウ…",
+    "stage": 1,
+    "context": "幼い草食恐竜"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "この子、ここに残したら危ないよね。\nどうしよう…",
+    "translation": "この子、ここに残したら危ないよね。\nどうしよう…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "大丈夫。その子の反応はキャッチしたから、\n後はこっちで注意して見ておくよ！",
+    "translation": "大丈夫。その子の反応はキャッチしたから、\n後はこっちで注意して見ておくよ！",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ありがとう、りせちゃん。",
+    "translation": "ありがとう、りせちゃん。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "待っててね、助けてあげるから。\nお母さんにもすぐ会えるからね。",
+    "translation": "待っててね、助けてあげるから。\nお母さんにもすぐ会えるからね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "キュー…",
+    "translation": "キュー…",
+    "stage": 1,
+    "context": "幼い草食恐竜"
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_幼い草食恐竜",
+    "original": "幼い草食恐竜",
+    "translation": "幼い草食恐竜",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  }
+]

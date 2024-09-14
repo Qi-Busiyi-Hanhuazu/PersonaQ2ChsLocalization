@@ -1,0 +1,527 @@
+[
+  {
+    "key": "ANN_FOE_FOLLOW_START_1_0",
+    "original": "Ｆ．Ｏ．Ｅ来てる、来てるって！ ",
+    "translation": "Ｆ．Ｏ．Ｅ来てる、来てるって！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_FOE_FOLLOW_START_2_0",
+    "original": "Ｆ．Ｏ．Ｅこっち見てる！ ",
+    "translation": "Ｆ．Ｏ．Ｅこっち見てる！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_FOE_FOLLOW_START_3_0",
+    "original": "ヤバ、見つかった！？ ",
+    "translation": "ヤバ、見つかった！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅがいるよ！ ",
+    "translation": "Ｆ．Ｏ．Ｅがいるよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_FOE_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅだよ、ピンチ！ ",
+    "translation": "Ｆ．Ｏ．Ｅだよ、ピンチ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_FOE_NEAR_3_0",
+    "original": "Ｆ．Ｏ．Ｅだよ、気をつけて！ ",
+    "translation": "Ｆ．Ｏ．Ｅだよ、気をつけて！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_FOE_FOLLOW_END_1_0",
+    "original": "はぁ…助かった…もう来なそうだよ。 ",
+    "translation": "はぁ…助かった…もう来なそうだよ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_FOE_FOLLOW_END_2_0",
+    "original": "ふう…Ｆ．Ｏ．Ｅ諦めたみたいだね。",
+    "translation": "ふう…Ｆ．Ｏ．Ｅ諦めたみたいだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_FOE_FOLLOW_END_3_0",
+    "original": "Ｆ．Ｏ．Ｅから逃げ切ったよ！ ",
+    "translation": "Ｆ．Ｏ．Ｅから逃げ切ったよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_KANSI_REACTION_1_0",
+    "original": "見つかったら面倒だよ、隠れて進もう！ ",
+    "translation": "見つかったら面倒だよ、隠れて進もう！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_KANSI_REACTION_2_0",
+    "original": "見つからないよーに、そーっと… ",
+    "translation": "見つからないよーに、そーっと… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_KANSI_REACTION_3_0",
+    "original": "キンチョーして、変な汗でてきた… ",
+    "translation": "キンチョーして、変な汗でてきた… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_DENKISAKU_REACTION_1_0",
+    "original": "うわ、髪が逆立つ… ",
+    "translation": "うわ、髪が逆立つ… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_DENKISAKU_REACTION_2_0",
+    "original": "これ、触ったら絶対ヤバいやつ！ ",
+    "translation": "これ、触ったら絶対ヤバいやつ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_DENKISAKU_REACTION_3_0",
+    "original": "こわっ…電気やばい… ",
+    "translation": "こわっ…電気やばい… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_KYOUHU_REACTION_1_0",
+    "original": "ちょっと、風！？ ",
+    "translation": "ちょっと、風！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_KYOUHU_REACTION_2_0",
+    "original": "ちょっ、マジ！？ ",
+    "translation": "ちょっ、マジ！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_KYOUHU_REACTION_3_0",
+    "original": "ウッソ！？ ",
+    "translation": "ウッソ！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_STAIR_FIND_1_0",
+    "original": "進めそうだよ！ ",
+    "translation": "進めそうだよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_STAIR_FIND_2_0",
+    "original": "あ、道みっけ！ ",
+    "translation": "あ、道みっけ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_STAIR_FIND_3_0",
+    "original": "ねえ、行ってみよ！ ",
+    "translation": "ねえ、行ってみよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_TREASURE_FIND_1_0",
+    "original": "オタカラだー！ ",
+    "translation": "オタカラだー！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_TREASURE_FIND_2_0",
+    "original": "宝箱だよ、やった！ ",
+    "translation": "宝箱だよ、やった！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_TREASURE_FIND_3_0",
+    "original": "いいもの見っけ！ ",
+    "translation": "いいもの見っけ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_CHECK_WALL_1_0",
+    "original": "これ…なんか怪しいよね？ ",
+    "translation": "これ…なんか怪しいよね？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_CHECK_WALL_2_0",
+    "original": "ね、確かめてみない？ ",
+    "translation": "ね、確かめてみない？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_CHECK_WALL_3_0",
+    "original": "ぜーったい、なんかあるよ！ ",
+    "translation": "ぜーったい、なんかあるよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_SWITCH_FIND_1_0",
+    "original": "スイッチ、押すだけならタダだよね？ ",
+    "translation": "スイッチ、押すだけならタダだよね？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_SWITCH_FIND_2_0",
+    "original": "あ、スイッチあるよ！ ",
+    "translation": "あ、スイッチあるよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_SWITCH_FIND_3_0",
+    "original": "スイッチ押しちゃう？ ",
+    "translation": "スイッチ押しちゃう？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_SHORTCUT_FIND_1_0",
+    "original": "そこ、近道になりそうな予感！ ",
+    "translation": "そこ、近道になりそうな予感！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_SHORTCUT_FIND_2_0",
+    "original": "ショートカットできそうじゃない？ ",
+    "translation": "ショートカットできそうじゃない？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_SHORTCUT_FIND_3_0",
+    "original": "ねえ、そこ通れそうだよ。 ",
+    "translation": "ねえ、そこ通れそうだよ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_FOE_WARNING_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅ、しつこすぎだっつの！ ",
+    "translation": "Ｆ．Ｏ．Ｅ、しつこすぎだっつの！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_FOE_WARNING_NEAR_2_0",
+    "original": "Ｆ．Ｏ．Ｅ来てるよ、逃げて！ ",
+    "translation": "Ｆ．Ｏ．Ｅ来てるよ、逃げて！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_FOE_WARNING_NEAR_3_0",
+    "original": "ウソ、まだＦ．Ｏ．Ｅいるの？ ",
+    "translation": "ウソ、まだＦ．Ｏ．Ｅいるの？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_1PERSON_HPTP10_1_0",
+    "original": "ごめっ…きつい… ",
+    "translation": "ごめっ…きつい… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_1PERSON_HPTP10_2_0",
+    "original": "ねえ、休めないかな…？ ",
+    "translation": "ねえ、休めないかな…？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_1PERSON_HPTP10_3_0",
+    "original": "さすがに…きっついかも。 ",
+    "translation": "さすがに…きっついかも。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_1PERSON_HP10_1_0",
+    "original": "ヤバい、かなりギリ… ",
+    "translation": "ヤバい、かなりギリ… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_1PERSON_HP10_2_0",
+    "original": "うう、体がヤバい。",
+    "translation": "うう、体がヤバい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_1PERSON_HP10_3_0",
+    "original": "限界かも…ごめん。 ",
+    "translation": "限界かも…ごめん。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_1PERSON_TP10_1_0",
+    "original": "もう、ムリィ… ",
+    "translation": "もう、ムリィ… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_1PERSON_TP10_2_0",
+    "original": "お願い、休ませて… ",
+    "translation": "お願い、休ませて… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_1PERSON_TP10_3_0",
+    "original": "うぅ、気力がもたない… ",
+    "translation": "うぅ、気力がもたない… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_1PERSON_HP80_1_0",
+    "original": "イエイ、絶好調！ ",
+    "translation": "イエイ、絶好調！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_1PERSON_HP80_2_0",
+    "original": "まだ行けるよね？ ",
+    "translation": "まだ行けるよね？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_1PERSON_HP80_3_0",
+    "original": "どんどん行くよ！ ",
+    "translation": "どんどん行くよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_DUNGEON_START_1_0",
+    "original": "じゃ、行こっか！ ",
+    "translation": "じゃ、行こっか！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_DUNGEON_START_2_0",
+    "original": "探索スタート！ ",
+    "translation": "探索スタート！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_DUNGEON_START_3_0",
+    "original": "しゅっぱーつ！ ",
+    "translation": "しゅっぱーつ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_QUEST_START_1_0",
+    "original": "みんなでがんばろ！ ",
+    "translation": "みんなでがんばろ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_QUEST_START_2_0",
+    "original": "アーユーレディ？ ",
+    "translation": "アーユーレディ？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_QUEST_START_3_0",
+    "original": "エイエイ、オー！ ",
+    "translation": "エイエイ、オー！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_TOUHA_25_1_0",
+    "original": "まだまだ、これから！ ",
+    "translation": "まだまだ、これから！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_TOUHA_25_2_0",
+    "original": "最後までガンバろ！ ",
+    "translation": "最後までガンバろ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_TOUHA_50_1_0",
+    "original": "やっと半分だね。",
+    "translation": "やっと半分だね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_TOUHA_50_2_0",
+    "original": "よし、あと半分！ ",
+    "translation": "よし、あと半分！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_TOUHA_75_1_0",
+    "original": "あとちょっとってところ？ ",
+    "translation": "あとちょっとってところ？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_TOUHA_75_2_0",
+    "original": "ラストスパート！ ",
+    "translation": "ラストスパート！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_TOUHA_100_1_0",
+    "original": "やったー、完成！ ",
+    "translation": "やったー、完成！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_TOUHA_100_2_0",
+    "original": "よっし、できあがり！ ",
+    "translation": "よっし、できあがり！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_MAPPING_ICON_ALL_1_0",
+    "original": "あ、いいね！ ",
+    "translation": "あ、いいね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_MAPPING_ICON_ALL_2_0",
+    "original": "うん、いいかんじ！ ",
+    "translation": "うん、いいかんじ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_MAPPING_ICON_KAIDAN__0",
+    "original": "そこだよね。",
+    "translation": "そこだよね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_MAPPING_ICON_KAIDAN__2_0",
+    "original": "大事だもんね！ ",
+    "translation": "大事だもんね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_MAPPING_CHANGE_COLOR_0",
+    "original": "センスいいね！ ",
+    "translation": "センスいいね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_MAPPING_CHANGE_COLOR_2_0",
+    "original": "いいね、もっとデコっちゃう？ ",
+    "translation": "いいね、もっとデコっちゃう？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_MAPPING_ICON_DEL_1_0",
+    "original": "整理整頓！ ",
+    "translation": "整理整頓！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_MAPPING_ICON_DEL_2_0",
+    "original": "要らないのは片付けないとね。",
+    "translation": "要らないのは片付けないとね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_MAPPING_MEMO_1_0",
+    "original": "メモ書き大事！ ",
+    "translation": "メモ書き大事！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_MAPPING_MEMO_2_0",
+    "original": "マメだねー、さすが。 ",
+    "translation": "マメだねー、さすが。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_DOOR_OPEN_1_0",
+    "original": "さ、行こっか！ ",
+    "translation": "さ、行こっか！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_DOOR_OPEN_2_0",
+    "original": "こっちこっち！ ",
+    "translation": "こっちこっち！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "ANN_DOOR_OPEN_3_0",
+    "original": "レッツゴー！ ",
+    "translation": "レッツゴー！ ",
+    "stage": 1,
+    "context": ""
+  }
+]

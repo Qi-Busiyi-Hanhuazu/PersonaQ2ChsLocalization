@@ -1,0 +1,44 @@
+[
+  {
+    "key": "DG_MSG_QUEST_FIND_0",
+    "original": "＞クエストを発見しました！！",
+    "translation": "＞发现了任务！！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞发现了任务！！"
+  },
+  {
+    "key": "DG_MSG_QUEST_FIND_QUESTI_0",
+    "original": "＞クエスト中なのでクエストを\n　発見できませんでした！！",
+    "translation": "＞因为正在执行任务中，\n　所以无法发现任务！！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞因为正在进行任务，所以\n　无法发现任务！！\n\n＞\n　因为是任务中所以没能发现任务！！\n\n＞因为是任务中\n　没有发现任务！！"
+  },
+  {
+    "key": "DG_MSG_LOCK_DOOR_NO_OPEN_0",
+    "original": "＞鍵が掛かっていて開きません",
+    "translation": "＞上锁了，打不开。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞上了锁，打不开。\n\n＞上了锁打不开\n\n＞上锁无法打开"
+  },
+  {
+    "key": "DG_MSG_SEL_QUEST_CLEAR_0",
+    "original": "拠点に戻る",
+    "translation": "返回据点",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回据点\n\n回到据点"
+  },
+  {
+    "key": "DG_MSG_SEL_QUEST_CLEAR_1",
+    "original": "フリー探索をする",
+    "translation": "自由探索",
+    "stage": 0,
+    "context": "机翻辅助：\n\n自由探索"
+  },
+  {
+    "key": "DG_MSG_QST_PROGRESS_ENEM_0",
+    "original": "[占位A 01]を[占位A 02]体倒しました。",
+    "translation": "[占位A 01]打倒了[占位A 02]。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n[占位A 01][占位A 02]身体倒下了。\n\n[占位A 01]身体倒下了。[占位A 02]\n\n[占位A 01]摔倒了。[占位A 02]"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "key": "text_000_0",
+    "original": "ＨＰ回復",
+    "translation": "HP回复",
+    "stage": 1,
+    "context": "机翻辅助：\n\nHP恢复\n\n生命值回复\n\n惠普恢复"
+  },
+  {
+    "key": "text_001_0",
+    "original": "ＳＰ回復",
+    "translation": "SP回复",
+    "stage": 1,
+    "context": "机翻辅助：\n\nSP恢复\n\nSP回复\n\n存储处理器恢复"
+  },
+  {
+    "key": "text_002_0",
+    "original": "次スポット歩数倍",
+    "translation": "下次采集点步数加倍",
+    "stage": 1,
+    "context": "机翻辅助：\n\n下次据点移动距离加倍\n\n下一个景点步数倍\n\n下一地点步数倍\n\n评论：\n\n哪个スポット？"
+  },
+  {
+    "key": "text_003_0",
+    "original": "経験値倍",
+    "translation": "经验值加倍",
+    "stage": 0,
+    "context": "机翻辅助：\n\n经验值加倍\n\n经验值倍"
+  },
+  {
+    "key": "text_004_0",
+    "original": "レア敵遭遇率ＵＰ",
+    "translation": "稀有敌人遭遇率UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n稀有敌人遭遇率UP\n\n稀有敌人遭遇率上升"
+  },
+  {
+    "key": "text_005_0",
+    "original": "宝箱ランクＵＰ",
+    "translation": "宝箱等级UP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n宝箱等级UP\n\n宝箱等级上升"
+  },
+  {
+    "key": "text_006_0",
+    "original": "次スポット効果倍",
+    "translation": "下次采集点效果加倍",
+    "stage": 1,
+    "context": "机翻辅助：\n\n下次据点效果加倍\n\n下一个景点效果加倍\n\n次光点效应倍"
+  }
+]

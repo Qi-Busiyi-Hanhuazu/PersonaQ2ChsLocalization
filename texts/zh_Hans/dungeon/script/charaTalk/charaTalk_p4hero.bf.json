@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "ここは採取出来るみたいだ。\nどうする？",
+    "translation": "这里好像可以进行采集。\n要怎么做？",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n这里好像可以采集耶。\n怎么办？\n\n这里好像可以采集。\n怎么办？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "分かった。\n警戒を怠らずに採取しよう。",
+    "translation": "明白了。\n谨慎采集吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n知道了。\n小心地采集吧。\n\n我知道了。\n要时刻保持警戒。\n\n我知道了。不要放松警惕，采集吧。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "よし！\n集中して探そう。",
+    "translation": "好！\n专心探索吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n好！\n专心找吧。\n\n好！\n集中寻找。\n\n好！集中精力寻找吧。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "分かった。\n今は止めておこう。",
+    "translation": "明白了。\n现在先停下来。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n知道了。\n现在先别采吧。\n\n我知道了。\n现在就停止吧。\n\n我知道了。现在就停止吧。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これ以上は採れないみたいだ。",
+    "translation": "看来已经无法再采集了。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n好像没办法再采了。\n\n好像不能再采了。\n\n好像再也采不下去了。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "悪くない。",
+    "translation": "不错。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不错呢。\n\n还不错。\n\n不坏。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ふむ。",
+    "translation": "嗯。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n嗯。"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "頂こう。",
+    "translation": "收下了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n收下吧。\n\n来吧。\n\n吃吧。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "採取はこれぐらいにしておこう。",
+    "translation": "就先采集到这里吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n采集就采到这里吧。\n\n采集就到此为止吧。\n\n采集就这样吧。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "いいものだ。",
+    "translation": "好东西。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好东西。\n\n真是好东西。"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "これは！",
+    "translation": "这是！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这是！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "よし！",
+    "translation": "好！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好！"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットだな。\n開通しておこうか？",
+    "translation": "有捷径啊。\n要开启吗？",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n是捷径啊。\n要开通吗？\n\n是快捷方式啊。\n开通了吗？\n\n是短发吧。\n要开通吗？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こちらからは通れないみたいだ…",
+    "translation": "这边好像没办法通过……",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n这边好像过不去……\n\n从这边好像不能通过……\n\n从这里好像不能通过……"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "とてつもなく危険な気配を感じる…",
+    "translation": "感觉到了非常危险的气息..……",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n感觉非常危险……\n\n感到非常危险的迹象……\n\n感到一种危险的气息……"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かった。\n気を抜かずに行こう。",
+    "translation": "明白了。\n别放松警惕，继续前进吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n知道了。\n小心地走吧。\n\n我知道了。\n不要松懈。\n\n我知道了。不要放松警惕。"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうだな。\n止めておこう。",
+    "translation": "这样啊。\n先停下来吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n是啊。\n还是先停手吧。\n\n是啊。\n停止吧。\n\n是啊。还是算了吧。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "かなりの強敵だったな…",
+    "translation": "相当强大的对手啊……",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n真是个强敌啊……\n\n是相当的强敌啊……\n\n是相当厉害的强敌啊……"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ここ、シャドウの気配がするな。\nどうする？",
+    "translation": "这里好像有暗影的气息。\n要怎么办？",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n这里，有暗影的气息。\n怎么办？\n\n这里有暗影的迹象。\n怎么办？\n\n这里好像有暗影。\n怎么办？"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "よし。調べてみよう。",
+    "translation": "好。调查一下吧。",
+    "stage": 0,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n好。调查一下吧。\n\n好啊。我查一下吧。\n\n好吧。调查一下吧。"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "そうだな。\n止めておこう。",
+    "translation": "这样啊。\n先停下来吧。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n是啊。\n还是先停手吧。\n\n是啊。\n停止吧。\n\n是啊。还是算了吧。"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "これで終わりか？",
+    "translation": "这就结束了吗？",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n这样就结束了吗？\n\n就这样结束了吗？\n\n这就结束了吗？"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから映画館に戻れるみたいだ。\nどうする？",
+    "translation": "好像可以从这里返回电影院。\n要怎么做？",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n好像可以从这里回到电影院。\n怎么办？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

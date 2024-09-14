@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よーし、まずは１体撃破ですね！",
+    "translation": "よーし、まずは１体撃破ですね！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "今の戦い、どちらが上だった？\nジャッジしてくれ、[P3P姓]。",
+    "translation": "今の戦い、どちらが上だった？\nジャッジしてくれ、[P3P姓]。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うーん、今の時点ではまだ何とも…\n４体討伐の総合得点ですし。",
+    "translation": "うーん、今の時点ではまだ何とも…\n４体討伐の総合得点ですし。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "次だ、次。\nさっさとケリつけるぞ。",
+    "translation": "次だ、次。\nさっさとケリつけるぞ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おいシンジ、分かってるだろうな？\n俺が勝ったら特別トレーニングだからな！",
+    "translation": "おいシンジ、分かってるだろうな？\n俺が勝ったら特別トレーニングだからな！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ハッ！　俺が勝ったら、トレーニングに\n付き合えなんて二度と言わせねぇからな！",
+    "translation": "ハッ！　俺が勝ったら、トレーニングに\n付き合えなんて二度と言わせねぇからな！",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "まったく…次元が低すぎる。",
+    "translation": "まったく…次元が低すぎる。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "だが、この調子なら討伐はスムーズに\n出来そうだな。このまま続けるぞ。",
+    "translation": "だが、この調子なら討伐はスムーズに\n出来そうだな。このまま続けるぞ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "はいっ！",
+    "translation": "はいっ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

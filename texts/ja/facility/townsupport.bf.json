@@ -1,0 +1,2270 @@
+[
+  {
+    "key": "town_okaeri_HIKARI_mes01_0",
+    "original": "…ケガ…大丈夫…？",
+    "translation": "…ケガ…大丈夫…？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_HIKARI_mes02_0",
+    "original": "…おつかれさま。",
+    "translation": "…おつかれさま。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_HIKARI_mes03_0",
+    "original": "みんな…おかえりなさい。",
+    "translation": "みんな…おかえりなさい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_HIKARI_mes04_0",
+    "original": "ちゃんと準備して、また行こうね。",
+    "translation": "ちゃんと準備して、また行こうね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_HIKARI_mes05_0",
+    "original": "おかえり!みんな！",
+    "translation": "おかえり!みんな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_NAGI_mes01_0",
+    "original": "皆様、ゆっくり休んでいってくださいね。",
+    "translation": "皆様、ゆっくり休んでいってくださいね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_NAGI_mes02_0",
+    "original": "ご無事で何よりです",
+    "translation": "ご無事で何よりです",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_RYUJI_mes_0",
+    "original": "ふいー、つっかれたー。",
+    "translation": "ふいー、つっかれたー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_ANN_mes_0",
+    "original": "ふう、みんなお疲れ様！",
+    "translation": "ふう、みんなお疲れ様！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_MONA_mes_0",
+    "original": "オマエら、なかなかいい働きだったぞ！",
+    "translation": "オマエら、なかなかいい働きだったぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_YUSUKE_mes_0",
+    "original": "今回もいい刺激が得られたな…",
+    "translation": "今回もいい刺激が得られたな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_FUTABA_mes_0",
+    "original": "目疲れたー、知恵熱でそー…",
+    "translation": "目疲れたー、知恵熱でそー…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_AKECHI_mes_0",
+    "original": "ちょうど一息入れたかったんだ。",
+    "translation": "ちょうど一息入れたかったんだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_P3HERO2_mes_0",
+    "original": "しっかり準備しておこうね！",
+    "translation": "しっかり準備しておこうね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_MAKOTO_mes_0",
+    "original": "疲れはしっかり取っておきましょう。",
+    "translation": "疲れはしっかり取っておきましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_HARU_mes_0",
+    "original": "いい運動になったかも！",
+    "translation": "いい運動になったかも！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_P4HERO_mes_0",
+    "original": "みんな、お疲れ！",
+    "translation": "みんな、お疲れ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_CHIE_mes_0",
+    "original": "腹が減っては戦はできぬのだよ。",
+    "translation": "腹が減っては戦はできぬのだよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_YUKIKO_mes_0",
+    "original": "休息も大事だよね。",
+    "translation": "休息も大事だよね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_RISE_mes_0",
+    "original": "みんな、お疲れ様っ！",
+    "translation": "みんな、お疲れ様っ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_KANJI_mes_0",
+    "original": "次に備えて準備しておくっス！",
+    "translation": "次に備えて準備しておくっス！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_NAOTO_mes_0",
+    "original": "休めるときに休んでおきましょう。",
+    "translation": "休めるときに休んでおきましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_KUMA_mes_0",
+    "original": "クマは大活躍だったクマね！",
+    "translation": "クマは大活躍だったクマね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_YOUSUKE_mes_0",
+    "original": "一休みしたら、また行こうぜ！",
+    "translation": "一休みしたら、また行こうぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_YUKARI_mes_0",
+    "original": "ヤバッ…もう足パンパン…",
+    "translation": "ヤバッ…もう足パンパン…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_JUNPEI_mes_0",
+    "original": "オレッち休憩入りまーす！",
+    "translation": "オレッち休憩入りまーす！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_SANADA_mes_0",
+    "original": "よし！　筋肉を冷やしておくか。",
+    "translation": "よし！　筋肉を冷やしておくか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_MITURU_mes_0",
+    "original": "補給も立派な戦術だな。",
+    "translation": "補給も立派な戦術だな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_FUKA_mes_0",
+    "original": "みなさん、お疲れ様です！",
+    "translation": "みなさん、お疲れ様です！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_AMADA_mes_0",
+    "original": "僕はもう少し行けそうでしたが…",
+    "translation": "僕はもう少し行けそうでしたが…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_KOROMARU_mes_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_ARAGAKI_mes_0",
+    "original": "少し休憩したら、行くぞ…",
+    "translation": "少し休憩したら、行くぞ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_P3HERO_mes_0",
+    "original": "休息も大事だからね。",
+    "translation": "休息も大事だからね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_okaeri_AEGIS_mes_0",
+    "original": "メンテナンスを所望するであります！",
+    "translation": "メンテナンスを所望するであります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_RYUJI_me_0",
+    "original": "カエレールきらしてるんじゃねえか？",
+    "translation": "カエレールきらしてるんじゃねえか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_ANN_mes_0",
+    "original": "カエレール、持ってる？",
+    "translation": "カエレール、持ってる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_MONA_mes_0",
+    "original": "カエレール、ちゃんと用意しておけよ！",
+    "translation": "カエレール、ちゃんと用意しておけよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_YUSUKE_m_0",
+    "original": "カエレールは必須だぞ、忘れるな。",
+    "translation": "カエレールは必須だぞ、忘れるな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_FUTABA_m_0",
+    "original": "カエレール買っておかないとな！",
+    "translation": "カエレール買っておかないとな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_AKECHI_m_0",
+    "original": "カエレール、ちゃんと持ってる？",
+    "translation": "カエレール、ちゃんと持ってる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_P3HERO2__0",
+    "original": "カエレール忘れないようにね。",
+    "translation": "カエレール忘れないようにね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_MAKOTO_m_0",
+    "original": "カエレールを忘れちゃダメよ。",
+    "translation": "カエレールを忘れちゃダメよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_HARU_mes_0",
+    "original": "カエレールを買っておきましょう？",
+    "translation": "カエレールを買っておきましょう？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_P4HERO_m_0",
+    "original": "カエレールの補充は任せた。",
+    "translation": "カエレールの補充は任せた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_CHIE_mes_0",
+    "original": "カエレールないとヤバくない！？",
+    "translation": "カエレールないとヤバくない！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_YUKIKO_m_0",
+    "original": "カエレール、買っておかない？",
+    "translation": "カエレール、買っておかない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_RISE_mes_0",
+    "original": "カエレール買いに行こ！",
+    "translation": "カエレール買いに行こ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_KANJI_me_0",
+    "original": "カエレールなくて大丈夫っスか？",
+    "translation": "カエレールなくて大丈夫っスか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_NAOTO_me_0",
+    "original": "カエレールを\n用意しておくべきでしょう。",
+    "translation": "カエレールを\n用意しておくべきでしょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_KUMA_mes_0",
+    "original": "カエレール残ってないクマよ？",
+    "translation": "カエレール残ってないクマよ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_YOUSUKE__0",
+    "original": "カエレール買いに行こうぜー！",
+    "translation": "カエレール買いに行こうぜー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_YUKARI_m_0",
+    "original": "カエレールは持った？",
+    "translation": "カエレールは持った？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_JUNPEI_m_0",
+    "original": "カエレール買わないとマズいっしょ！",
+    "translation": "カエレール買わないとマズいっしょ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_SANADA_m_0",
+    "original": "カエレールの準備は怠るなよ",
+    "translation": "カエレールの準備は怠るなよ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_MITURU_m_0",
+    "original": "カエレールは残っているんだろうな？",
+    "translation": "カエレールは残っているんだろうな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_FUKA_mes_0",
+    "original": "カエレールの用意は大丈夫ですか？",
+    "translation": "カエレールの用意は大丈夫ですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_AMADA_me_0",
+    "original": "カエレールを買っておきませんか？",
+    "translation": "カエレールを買っておきませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_ARAGAKI__0",
+    "original": "カエレール忘れんなよ。",
+    "translation": "カエレール忘れんなよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_P3HERO_m_0",
+    "original": "カエレールがないけど大丈夫？",
+    "translation": "カエレールがないけど大丈夫？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_returnitem_AEGIS_me_0",
+    "original": "カエレールを買うであります！",
+    "translation": "カエレールを買うであります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_RYUJI_mes_0",
+    "original": "チケット売り場は\n行かなくていいのかよ？",
+    "translation": "チケット売り場は\n行かなくていいのかよ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_ANN_mes_0",
+    "original": "チケット売り場も見てみない？",
+    "translation": "チケット売り場も見てみない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_MONA_mes_0",
+    "original": "チケット売り場、こまめに\n確認しておこうぜ。",
+    "translation": "チケット売り場、こまめに\n確認しておこうぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_YUSUKE_me_0",
+    "original": "チケット売り場から\n視線を感じたような…",
+    "translation": "チケット売り場から\n視線を感じたような…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_FUTABA_me_0",
+    "original": "たまにはチケット売り場も\nチェックしとけよ。",
+    "translation": "たまにはチケット売り場も\nチェックしとけよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_AKECHI_me_0",
+    "original": "チケット売り場に\n寄らなくていいのかい？",
+    "translation": "チケット売り場に\n寄らなくていいのかい？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_P3HERO2_m_0",
+    "original": "チケット売り場にも行こうよ！",
+    "translation": "チケット売り場にも行こうよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_MAKOTO_me_0",
+    "original": "チケット売り場も寄った方が\nいいんじゃない？",
+    "translation": "チケット売り場も寄った方が\nいいんじゃない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_HARU_mes_0",
+    "original": "チケット売り場は行かなくていいの？",
+    "translation": "チケット売り場は行かなくていいの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_P4HERO_me_0",
+    "original": "チケット売り場は行かなくていいのか？",
+    "translation": "チケット売り場は行かなくていいのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_CHIE_mes_0",
+    "original": "チケット売り場には行かないの？",
+    "translation": "チケット売り場には行かないの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_YUKIKO_me_0",
+    "original": "チケット売り場、寄って行かない？",
+    "translation": "チケット売り場、寄って行かない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_RISE_mes_0",
+    "original": "チケット売り場にも寄っていこ！",
+    "translation": "チケット売り場にも寄っていこ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_KANJI_mes_0",
+    "original": "チケット売り場、\n行かなくて大丈夫っスか？",
+    "translation": "チケット売り場、\n行かなくて大丈夫っスか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_NAOTO_mes_0",
+    "original": "チケット売り場に寄りませんか？",
+    "translation": "チケット売り場に寄りませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_KUMA_mes_0",
+    "original": "チケット売り場が呼んでるクマ！",
+    "translation": "チケット売り場が呼んでるクマ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_YOUSUKE_m_0",
+    "original": "チケット売り場も寄っていかね？",
+    "translation": "チケット売り場も寄っていかね？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_YUKARI_me_0",
+    "original": "チケット売り場も行こ？",
+    "translation": "チケット売り場も行こ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_JUNPEI_me_0",
+    "original": "チケット売り場も行こーぜ！",
+    "translation": "チケット売り場も行こーぜ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_SANADA_me_0",
+    "original": "チケット売り場には寄らないのか？",
+    "translation": "チケット売り場には寄らないのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_MITURU_me_0",
+    "original": "チケット売り場にも\n行くべきではないのか？",
+    "translation": "チケット売り場にも\n行くべきではないのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_FUKA_mes_0",
+    "original": "チケット売り場は確認しなくて\n大丈夫ですか？",
+    "translation": "チケット売り場は確認しなくて\n大丈夫ですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_AMADA_mes_0",
+    "original": "チケット売り場にも行きませんか？",
+    "translation": "チケット売り場にも行きませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_ARAGAKI_m_0",
+    "original": "チケット売り場には行かねぇのか？",
+    "translation": "チケット売り場には行かねぇのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_P3HERO_me_0",
+    "original": "チケット売り場には行かないの？",
+    "translation": "チケット売り場には行かないの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_new_quest_AEGIS_mes_0",
+    "original": "チケット売り場は行かなくて\nいいのでしょうか？",
+    "translation": "チケット売り場は行かなくて\nいいのでしょうか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_RYUJI_m_0",
+    "original": "これ以上のペルソナは\n持てないみてぇだぜ？",
+    "translation": "これ以上のペルソナは\n持てないみてぇだぜ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_ANN_mes_0",
+    "original": "ペルソナの所持数がいっぱいじゃん！",
+    "translation": "ペルソナの所持数がいっぱいじゃん！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_MONA_me_0",
+    "original": "ペルソナの所持数が\nいっぱいじゃねーか！",
+    "translation": "ペルソナの所持数が\nいっぱいじゃねーか！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_YUSUKE__0",
+    "original": "もうこれ以上のペルソナは\n持てないのか…",
+    "translation": "もうこれ以上のペルソナは\n持てないのか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_FUTABA__0",
+    "original": "これ以上ペルソナは持てないぞ！",
+    "translation": "これ以上ペルソナは持てないぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_AKECHI__0",
+    "original": "ペルソナの所持数が\nいっぱいのようだね。",
+    "translation": "ペルソナの所持数が\nいっぱいのようだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_P3HERO2_0",
+    "original": "ペルソナの所持数が\nいっぱいになっちゃったね。",
+    "translation": "ペルソナの所持数が\nいっぱいになっちゃったね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_MAKOTO__0",
+    "original": "ペルソナの所持数がいっぱいね。",
+    "translation": "ペルソナの所持数がいっぱいね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_HARU_me_0",
+    "original": "もうこれ以上ペルソナは\n持てないね…",
+    "translation": "もうこれ以上ペルソナは\n持てないね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_P4HERO__0",
+    "original": "ペルソナの所持数が\nいっぱいになっているな。",
+    "translation": "ペルソナの所持数が\nいっぱいになっているな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_CHIE_me_0",
+    "original": "ペルソナの所持数がいっぱいだよ！",
+    "translation": "ペルソナの所持数がいっぱいだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_YUKIKO__0",
+    "original": "ペルソナの所持数がいっぱいだね…",
+    "translation": "ペルソナの所持数がいっぱいだね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_RISE_me_0",
+    "original": "ペルソナの所持数がいっぱいだよ。",
+    "translation": "ペルソナの所持数がいっぱいだよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_KANJI_m_0",
+    "original": "ペルソナの所持数が\nいっぱいじゃないっスか？",
+    "translation": "ペルソナの所持数が\nいっぱいじゃないっスか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_NAOTO_m_0",
+    "original": "これ以上ペルソナは持てないようです…",
+    "translation": "これ以上ペルソナは持てないようです…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_KUMA_me_0",
+    "original": "ペルソナの所持数が\nパンパンになったクマ～！",
+    "translation": "ペルソナの所持数が\nパンパンになったクマ～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_YOUSUKE_0",
+    "original": "ペルソナの数が溢れそうになってんぞ？",
+    "translation": "ペルソナの数が溢れそうになってんぞ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_YUKARI__0",
+    "original": "ペルソナの所持数がいっぱいじゃない？",
+    "translation": "ペルソナの所持数がいっぱいじゃない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_JUNPEI__0",
+    "original": "ペルソナの所持数がいっぱいだぜ？",
+    "translation": "ペルソナの所持数がいっぱいだぜ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_SANADA__0",
+    "original": "ペルソナの所持数が\nいっぱいのようだな…",
+    "translation": "ペルソナの所持数が\nいっぱいのようだな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_MITURU__0",
+    "original": "ペルソナの所持数がいっぱいだぞ。",
+    "translation": "ペルソナの所持数がいっぱいだぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_FUKA_me_0",
+    "original": "ペルソナの所持数が\nいっぱいみたいです…",
+    "translation": "ペルソナの所持数が\nいっぱいみたいです…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_AMADA_m_0",
+    "original": "ペルソナの所持数がいっぱいですね…",
+    "translation": "ペルソナの所持数がいっぱいですね…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_ARAGAKI_0",
+    "original": "おい、ペルソナの所持数がいっぱいだ。",
+    "translation": "おい、ペルソナの所持数がいっぱいだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_P3HERO__0",
+    "original": "ペルソナの所持数がいっぱいだね。",
+    "translation": "ペルソナの所持数がいっぱいだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_persona_max_AEGIS_m_0",
+    "original": "ペルソナの所持数が\nマックスであります！",
+    "translation": "ペルソナの所持数が\nマックスであります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_RYUJI_mes_0",
+    "original": "荷物、減らせるモンねーの？",
+    "translation": "荷物、減らせるモンねーの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_ANN_mes_0",
+    "original": "ちょっと手荷物多すぎじゃない？",
+    "translation": "ちょっと手荷物多すぎじゃない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_MONA_mes_0",
+    "original": "オタカラでも売って\n荷物を減らしておこうぜ。",
+    "translation": "オタカラでも売って\n荷物を減らしておこうぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_YUSUKE_mes_0",
+    "original": "手荷物が溢れかえっている。\n美しくないな…",
+    "translation": "手荷物が溢れかえっている。\n美しくないな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_FUTABA_mes_0",
+    "original": "みんな、荷物詰め込みすぎだろ！",
+    "translation": "みんな、荷物詰め込みすぎだろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_AKECHI_mes_0",
+    "original": "荷物を減らすことを提案するよ。",
+    "translation": "荷物を減らすことを提案するよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_P3HERO2_me_0",
+    "original": "あはは、ちょっと荷物が多すぎるね！",
+    "translation": "あはは、ちょっと荷物が多すぎるね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_MAKOTO_mes_0",
+    "original": "少し荷物を減らしておきましょう。",
+    "translation": "少し荷物を減らしておきましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_HARU_mes_0",
+    "original": "ちょっと荷物を減らさないとだね。",
+    "translation": "ちょっと荷物を減らさないとだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_P4HERO_mes_0",
+    "original": "荷物を減らしてから行こう。",
+    "translation": "荷物を減らしてから行こう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_CHIE_mes_0",
+    "original": "あちゃー。\n手荷物がいっぱいだね。",
+    "translation": "あちゃー。\n手荷物がいっぱいだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_YUKIKO_mes_0",
+    "original": "手荷物減らした方が\n良くないかな？",
+    "translation": "手荷物減らした方が\n良くないかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_RISE_mes_0",
+    "original": "手荷物がいっぱいだよ！",
+    "translation": "手荷物がいっぱいだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_KANJI_mes_0",
+    "original": "手荷物がパンパンっスよ。",
+    "translation": "手荷物がパンパンっスよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_NAOTO_mes_0",
+    "original": "手荷物がいっぱいのようです。",
+    "translation": "手荷物がいっぱいのようです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_KUMA_mes_0",
+    "original": "ぬぬぬ、荷物が多すぎクマ～！",
+    "translation": "ぬぬぬ、荷物が多すぎクマ～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_YOUSUKE_me_0",
+    "original": "荷物減らした方が\nいいんじゃないかー？",
+    "translation": "荷物減らした方が\nいいんじゃないかー？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_YUKARI_mes_0",
+    "original": "荷物、減らした方がいいんじゃない？",
+    "translation": "荷物、減らした方がいいんじゃない？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_JUNPEI_mes_0",
+    "original": "ちょっ、さすがに荷物多すぎっしょ？",
+    "translation": "ちょっ、さすがに荷物多すぎっしょ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_SANADA_mes_0",
+    "original": "荷物がいっぱいで\nプロテインも買えないぞ！",
+    "translation": "荷物がいっぱいで\nプロテインも買えないぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_MITURU_mes_0",
+    "original": "手荷物を減らしてから\n出発するべきだろうな。",
+    "translation": "手荷物を減らしてから\n出発するべきだろうな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_FUKA_mes_0",
+    "original": "あの、手荷物を減らしておきませんか？",
+    "translation": "あの、手荷物を減らしておきませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_AMADA_mes_0",
+    "original": "ちょっと、荷物が多すぎませんか？",
+    "translation": "ちょっと、荷物が多すぎませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_ARAGAKI_me_0",
+    "original": "荷物を減らした方がいいんじゃねえか？",
+    "translation": "荷物を減らした方がいいんじゃねえか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_P3HERO_mes_0",
+    "original": "うーん…荷物がいっぱいみたい。",
+    "translation": "うーん…荷物がいっぱいみたい。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_item_max_AEGIS_mes_0",
+    "original": "荷物がいっぱいであります！",
+    "translation": "荷物がいっぱいであります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_HIKARI_mes01_0",
+    "original": "ナギさん…",
+    "translation": "ナギさん…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_HIKARI_mes02_0",
+    "original": "うん…",
+    "translation": "うん…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_NAGI_mes01_0",
+    "original": "私たちの出来る範囲で協力しましょう。",
+    "translation": "私たちの出来る範囲で協力しましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_NAGI_mes02_0",
+    "original": "怖がらなくて大丈夫よ、ひかりさん。",
+    "translation": "怖がらなくて大丈夫よ、ひかりさん。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_DOE_mes01_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_ANN_mes01_0",
+    "original": "どうなってんだろ、ここ…",
+    "translation": "どうなってんだろ、ここ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_ANN_mes02_0",
+    "original": "ショップ行ってみる？",
+    "translation": "ショップ行ってみる？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_ANN_mes03_0",
+    "original": "あの二人、いつからココにいるのかな？",
+    "translation": "あの二人、いつからココにいるのかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_YUSUKE_mes01_0",
+    "original": "まずは腹ごしらえだ。",
+    "translation": "まずは腹ごしらえだ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_YUSUKE_mes02_0",
+    "original": "観客は他にいないようだな。",
+    "translation": "観客は他にいないようだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_YUSUKE_mes03_0",
+    "original": "チケット代は払わなくていいのか？\n持ち合わせが…",
+    "translation": "チケット代は払わなくていいのか？\n持ち合わせが…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_FUTABA_mes01_0",
+    "original": "おイナリ、腹の虫がうるさいぞ。",
+    "translation": "おイナリ、腹の虫がうるさいぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_FUTABA_mes02_0",
+    "original": "真と春が心配だな…",
+    "translation": "真と春が心配だな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_FUTABA_mes03_0",
+    "original": "映画館、貸切みたいだな！",
+    "translation": "映画館、貸切みたいだな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_AKECHI_mes01_0",
+    "original": "この現象の謎を究明したいものだね。",
+    "translation": "この現象の謎を究明したいものだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_AKECHI_mes02_0",
+    "original": "早く二人を助けに行こう。",
+    "translation": "早く二人を助けに行こう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg00_AKECHI_mes03_0",
+    "original": "興味深い、不思議な世界だね。",
+    "translation": "興味深い、不思議な世界だね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg01_HIKARI_mes01_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg01_HIKARI_mes02_0",
+    "original": "あの、ええと…みんな…",
+    "translation": "あの、ええと…みんな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg01_HIKARI_mes03_0",
+    "original": "映画祭…",
+    "translation": "映画祭…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg01_RYUJI_mes01_0",
+    "original": "やべっ、食い始めたら止まらねー。",
+    "translation": "やべっ、食い始めたら止まらねー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg01_RYUJI_mes02_0",
+    "original": "おめーら、ちょっと落ち着けって。",
+    "translation": "おめーら、ちょっと落ち着けって。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg01_RYUJI_mes03_0",
+    "original": "[P5名]と[P3P姓]って\nなんか気が合いそうだよな。",
+    "translation": "[P5名]と[P3P姓]って\nなんか気が合いそうだよな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg01_MONA_mes01_0",
+    "original": "のわっ！　こぼすだろうが！",
+    "translation": "のわっ！　こぼすだろうが！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg01_MONA_mes02_0",
+    "original": "このジュース、なかなかウマイな！",
+    "translation": "このジュース、なかなかウマイな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg01_FUTABA_mes01_0",
+    "original": "へへっ、スキありだ！",
+    "translation": "へへっ、スキありだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg01_FUTABA_mes02_0",
+    "original": "にひひひ！",
+    "translation": "にひひひ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg01_P3HERO2_mes01_0",
+    "original": "近いところは、辰巳ポートアイランドの\n映画館スクリーンショットかな？",
+    "translation": "近いところは、辰巳ポートアイランドの\n映画館スクリーンショットかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg01_P3HERO2_mes02_0",
+    "original": "スクリーンショットでは、夏休みに\n映画祭をするんだよ！",
+    "translation": "スクリーンショットでは、夏休みに\n映画祭をするんだよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg01_P3HERO2_mes03_0",
+    "original": "へぇ、喫茶店の２階に住んでるんだ！",
+    "translation": "へぇ、喫茶店の２階に住んでるんだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_HIKARI_mes01_0",
+    "original": "あっ、あの…えっと…",
+    "translation": "あっ、あの…えっと…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_HIKARI_mes02_0",
+    "original": "わ、私は…あの…",
+    "translation": "わ、私は…あの…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_HIKARI_mes03_0",
+    "original": "わっ？　は、はいっ！",
+    "translation": "わっ？　は、はいっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_NAGI_mes01_0",
+    "original": "あらあら…ふふっ。",
+    "translation": "あらあら…ふふっ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_NAGI_mes02_0",
+    "original": "ひかりさんったら…うふふ。",
+    "translation": "ひかりさんったら…うふふ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_MAKOTO_mes01_0",
+    "original": "ひかりちゃん、バウト零時は見た？",
+    "translation": "ひかりちゃん、バウト零時は見た？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_MAKOTO_mes02_0",
+    "original": "恐竜の楽園…本当にあるのかしら…",
+    "translation": "恐竜の楽園…本当にあるのかしら…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_MAKOTO_mes03_0",
+    "original": "みんな、ちゃんとご飯食べてる？\n過度なダイエットはよくないわよ。",
+    "translation": "みんな、ちゃんとご飯食べてる？\n過度なダイエットはよくないわよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_HARU_mes01_0",
+    "original": "ＺＡＷの公開が待ち遠しいな。",
+    "translation": "ＺＡＷの公開が待ち遠しいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_HARU_mes02_0",
+    "original": "お野菜もちゃんと摂らないと。",
+    "translation": "お野菜もちゃんと摂らないと。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_CHIE_mes01_0",
+    "original": "ひかりちゃん、成龍伝説って知ってる？\nカンフー映画なんだけど！",
+    "translation": "ひかりちゃん、成龍伝説って知ってる？\nカンフー映画なんだけど！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_CHIE_mes02_0",
+    "original": "行ってみれば分かるっしょ！\nね、ひかりちゃん？",
+    "translation": "行ってみれば分かるっしょ！\nね、ひかりちゃん？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_CHIE_mes03_0",
+    "original": "基本はお肉でしょー！\n肉はあなたを裏切らない！",
+    "translation": "基本はお肉でしょー！\n肉はあなたを裏切らない！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_YUKIKO_mes01_0",
+    "original": "この前、発信アリを見たんだけど\nお腹抱えて笑っちゃった！",
+    "translation": "この前、発信アリを見たんだけど\nお腹抱えて笑っちゃった！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_YUKIKO_mes02_0",
+    "original": "はっ、これが噂の女子会…！？",
+    "translation": "はっ、これが噂の女子会…！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_RISE_mes01_0",
+    "original": "私はローマの有休が楽しみだなー。",
+    "translation": "私はローマの有休が楽しみだなー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_RISE_mes02_0",
+    "original": "バランスって大事だよね。\n栄養も考えないと。",
+    "translation": "バランスって大事だよね。\n栄養も考えないと。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg02_RISE_mes03_0",
+    "original": "うーん。\n奥の方まではナビが届かないんだ…",
+    "translation": "うーん。\n奥の方まではナビが届かないんだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg03_MONA_mes01_0",
+    "original": "やーめーろー！",
+    "translation": "やーめーろー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg03_MONA_mes02_0",
+    "original": "ったく、ベタベタ触んじゃねーよ。\n毛並みが乱れるだろうが。",
+    "translation": "ったく、ベタベタ触んじゃねーよ。\n毛並みが乱れるだろうが。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg03_TEODOA_mes01_0",
+    "original": "私、オブジェと一体化していますが…\nご入用の際は、テオドアショップへ。",
+    "translation": "私、オブジェと一体化していますが…\nご入用の際は、テオドアショップへ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg03_YUSUKE_mes01_0",
+    "original": "素晴らしい…\nなんて前衛的なフォルムなんだ！",
+    "translation": "素晴らしい…\nなんて前衛的なフォルムなんだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg03_YUSUKE_mes02_0",
+    "original": "待て、動くな！　あと、３時間！",
+    "translation": "待て、動くな！　あと、３時間！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg03_AKECHI_mes01_0",
+    "original": "白鐘君、君とはゆっくり話したいと\n思っていたんだ。光栄だな。",
+    "translation": "白鐘君、君とはゆっくり話したいと\n思っていたんだ。光栄だな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg03_AKECHI_mes02_0",
+    "original": "まずは、白鐘君の意見を\n聞かせてくれないか？",
+    "translation": "まずは、白鐘君の意見を\n聞かせてくれないか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg03_KANJI_mes01_0",
+    "original": "あの…ちょっとだけいいか？\nちょっとだけだからよ！",
+    "translation": "あの…ちょっとだけいいか？\nちょっとだけだからよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg03_KANJI_mes02_0",
+    "original": "も、もふ…もっふもふ天国…",
+    "translation": "も、もふ…もっふもふ天国…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg03_NAOTO_mes01_0",
+    "original": "ええと…\n僕でよければ、いくらでも。",
+    "translation": "ええと…\n僕でよければ、いくらでも。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg03_NAOTO_mes02_0",
+    "original": "この不思議な事態について\n色んな推理が出来そうですね。",
+    "translation": "この不思議な事態について\n色んな推理が出来そうですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg03_KUMA_mes01_0",
+    "original": "オヨヨヨ…\nあ、足がしびれてきたクマ…",
+    "translation": "オヨヨヨ…\nあ、足がしびれてきたクマ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg03_KUMA_mes02_0",
+    "original": "そんなに見つめられると…\n体が痒くなってくるクマ…",
+    "translation": "そんなに見つめられると…\n体が痒くなってくるクマ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg04_DOE_mes01_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg04_ZABES_mes01_0",
+    "original": "……。",
+    "translation": "……。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg04_ANN_mes01_0",
+    "original": "編み物できるの？\nすっご！　めっちゃ器用！",
+    "translation": "編み物できるの？\nすっご！　めっちゃ器用！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg04_ANN_mes02_0",
+    "original": "へー、すごーい！\nそれでそれで？",
+    "translation": "へー、すごーい！\nそれでそれで？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg04_ANN_mes03_0",
+    "original": "完二くんもジュース飲む？\n炭酸のがいいかな？",
+    "translation": "完二くんもジュース飲む？\n炭酸のがいいかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg04_P3HERO2_mes01_0",
+    "original": "うん、協力してガンバろ！",
+    "translation": "うん、協力してガンバろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg04_P3HERO2_mes02_0",
+    "original": "少し休憩したら、また映画に行こう！",
+    "translation": "少し休憩したら、また映画に行こう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg04_P4HERO_mes01_0",
+    "original": "仲間が増えて心強いな。",
+    "translation": "仲間が増えて心強いな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg04_P4HERO_mes02_0",
+    "original": "そうだな。\nこの先も気を引き締めて行こう。",
+    "translation": "そうだな。\nこの先も気を引き締めて行こう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg04_KANJI_mes01_0",
+    "original": "あ…あんまジロジロ見んなコラ！\nメリヤス編みにすっぞ！",
+    "translation": "あ…あんまジロジロ見んなコラ！\nメリヤス編みにすっぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg04_KANJI_mes02_0",
+    "original": "編み方にも色々種類があるんスけど…\nここをこう引っ掛けて…",
+    "translation": "編み方にも色々種類があるんスけど…\nここをこう引っ掛けて…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg04_KANJI_mes03_0",
+    "original": "あ、炭酸むせるんで\nフツーのがいいっス。",
+    "translation": "あ、炭酸むせるんで\nフツーのがいいっス。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg05_HIKARI_mes01_0",
+    "original": "パンフレット…\n後で私も読んでみようかな？",
+    "translation": "パンフレット…\n後で私も読んでみようかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg05_HIKARI_mes02_0",
+    "original": "う、うん…楽しみにしてる。",
+    "translation": "う、うん…楽しみにしてる。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg05_TEO_mes01_0",
+    "original": "は、はい！　お待ちください！",
+    "translation": "は、はい！　お待ちください！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg05_RYUJI_mes01_0",
+    "original": "スゲー走り回るから、\nしっかり糖分摂っとかねーとな。",
+    "translation": "スゲー走り回るから、\nしっかり糖分摂っとかねーとな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg05_RYUJI_mes02_0",
+    "original": "ホットドック３コに、ポテト山盛りで！\nあとコーラも追加な。",
+    "translation": "ホットドック３コに、ポテト山盛りで！\nあとコーラも追加な。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg05_MAKOTO_mes01_0",
+    "original": "竜司ってば、さっきからジュース\n何杯飲んでるのかしら？",
+    "translation": "竜司ってば、さっきからジュース\n何杯飲んでるのかしら？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg05_MAKOTO_mes02_0",
+    "original": "そうね、それが第１シアターの\nカモシダーマンの映画よ。",
+    "translation": "そうね、それが第１シアターの\nカモシダーマンの映画よ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg05_MAKOTO_mes03_0",
+    "original": "少し休憩したら、\nまた映画の世界に行きましょう。",
+    "translation": "少し休憩したら、\nまた映画の世界に行きましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg05_YOUSUKE_mes01_0",
+    "original": "へー、パンフレットまでちゃんと\n用意してあるのな。",
+    "translation": "へー、パンフレットまでちゃんと\n用意してあるのな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg05_YOUSUKE_mes02_0",
+    "original": "おーい、竜司！　\n俺にも飲み物おかわり！",
+    "translation": "おーい、竜司！　\n俺にも飲み物おかわり！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg05_YOUSUKE_mes03_0",
+    "original": "なぁ、ひかりちゃん！\n映画の結末、楽しみにしててくれな。",
+    "translation": "なぁ、ひかりちゃん！\n映画の結末、楽しみにしててくれな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_HIKARI_mes01_0",
+    "original": "うん。双葉ちゃん、頑張ってね。",
+    "translation": "うん。双葉ちゃん、頑張ってね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_HIKARI_mes02_0",
+    "original": "サポートの力か…スゴイな…",
+    "translation": "サポートの力か…スゴイな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_HIKARI_mes03_0",
+    "original": "双葉ちゃん、パソコン得意なんだ。\n尊敬しちゃうな…",
+    "translation": "双葉ちゃん、パソコン得意なんだ。\n尊敬しちゃうな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_YUSUKE_mes01_0",
+    "original": "ポップコーンもいいが、たまには\n別の食べ物も欲しくなるな…",
+    "translation": "ポップコーンもいいが、たまには\n別の食べ物も欲しくなるな…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_YUSUKE_mes02_0",
+    "original": "な、なんだこれは！　美味い！",
+    "translation": "な、なんだこれは！　美味い！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_YUSUKE_mes03_0",
+    "original": "プロテインバー…テオドアさんも\n販売をしてくれないだろうか…",
+    "translation": "プロテインバー…テオドアさんも\n販売をしてくれないだろうか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_FUTABA_mes01_0",
+    "original": "映画を変えてくるから、ちゃんと\n見ててくれよな、ひかり！",
+    "translation": "映画を変えてくるから、ちゃんと\n見ててくれよな、ひかり！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_FUTABA_mes02_0",
+    "original": "おう、任せとけ！",
+    "translation": "おう、任せとけ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_FUTABA_mes03_0",
+    "original": "これをこーして…あー、ここも対策を…\nよしよし、にしし…",
+    "translation": "これをこーして…あー、ここも対策を…\nよしよし、にしし…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_RISE_mes01_0",
+    "original": "風花ちゃんも来たし、\nサポートはバッチリだね！",
+    "translation": "風花ちゃんも来たし、\nサポートはバッチリだね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_RISE_mes02_0",
+    "original": "サポートしながら、気づいたことは\n担当以外でも情報交換しようね！",
+    "translation": "サポートしながら、気づいたことは\n担当以外でも情報交換しようね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_SANADA_mes01_0",
+    "original": "虎の子のプロテインバーだが、食うか？",
+    "translation": "虎の子のプロテインバーだが、食うか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_ZABES_mes01_0",
+    "original": "なるほど…",
+    "translation": "なるほど…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_FUKA_mes01_0",
+    "original": "バトルとフィールドで分担もできるし、\n現場には双葉ちゃんがいるものね。",
+    "translation": "バトルとフィールドで分担もできるし、\n現場には双葉ちゃんがいるものね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg06_FUKA_mes02_0",
+    "original": "そうですね、\n全力でバックアップしましょう！",
+    "translation": "そうですね、\n全力でバックアップしましょう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg07_DOE_mes01_0",
+    "original": "………。",
+    "translation": "………。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg07_P3HERO2_mes01_0",
+    "original": "よーしよし。\nコロマルは本当に賢いね！",
+    "translation": "よーしよし。\nコロマルは本当に賢いね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg07_P3HERO2_mes02_0",
+    "original": "あはは、くすぐったい！\nもーコロマルってば！",
+    "translation": "あはは、くすぐったい！\nもーコロマルってば！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg07_HARU_mes01_0",
+    "original": "コロちゃん、ふわふわだね！\nかわいい～！",
+    "translation": "コロちゃん、ふわふわだね！\nかわいい～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg07_HARU_mes02_0",
+    "original": "うふふ、コロちゃん。\n尻尾ふさふさだね。",
+    "translation": "うふふ、コロちゃん。\n尻尾ふさふさだね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg07_YUKIKO_mes01_0",
+    "original": "カネツグ、お座り！",
+    "translation": "カネツグ、お座り！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg07_ZABES_mes01_0",
+    "original": "おやおや、おクマ様…\nジェラシーの炎がメラメラと…",
+    "translation": "おやおや、おクマ様…\nジェラシーの炎がメラメラと…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg07_KUMA_mes01_0",
+    "original": "ムムム…\nみんな、クマという者がありながら…",
+    "translation": "ムムム…\nみんな、クマという者がありながら…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg07_KUMA_mes02_0",
+    "original": "グググ…ワンコめ…",
+    "translation": "グググ…ワンコめ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg07_YUKARI_mes01_0",
+    "original": "コロちゃんって癒し系だよね。\nそれに賢いし、いい子だし。",
+    "translation": "コロちゃんって癒し系だよね。\nそれに賢いし、いい子だし。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg07_KOROMARU_mes01_0",
+    "original": "ワンワン！",
+    "translation": "ワンワン！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg07_KOROMARU_mes02_0",
+    "original": "ワンッ！",
+    "translation": "ワンッ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg07_KOROMARU_mes03_0",
+    "original": "ハフッハフッ…",
+    "translation": "ハフッハフッ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg08_FUTABA_mes01_0",
+    "original": "うおおおおお！　カッケええええ！",
+    "translation": "うおおおおお！　カッケええええ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg08_FUTABA_mes02_0",
+    "original": "おう、直斗。\nリボンのデータと照合して検証中だ！",
+    "translation": "おう、直斗。\nリボンのデータと照合して検証中だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg08_HARU_mes01_0",
+    "original": "風花ちゃん、いつも的確なサポート\nどうもありがとう。",
+    "translation": "風花ちゃん、いつも的確なサポート\nどうもありがとう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg08_HARU_mes02_0",
+    "original": "このコーヒー、深みがあって\nとっても美味しいな。",
+    "translation": "このコーヒー、深みがあって\nとっても美味しいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg08_HARU_mes03_0",
+    "original": "双葉も直斗くんも、\nアイギスさんに興味津々だね。",
+    "translation": "双葉も直斗くんも、\nアイギスさんに興味津々だね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg08_NAOTO_mes01_0",
+    "original": "あの、アイギスさん…その腕はいったい\nどのように使うのでしょう？",
+    "translation": "あの、アイギスさん…その腕はいったい\nどのように使うのでしょう？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg08_NAOTO_mes02_0",
+    "original": "佐倉さんは、アイギスさんの\nデータ収集ですか？",
+    "translation": "佐倉さんは、アイギスさんの\nデータ収集ですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg08_ZABES_mes01_0",
+    "original": "フフフ…ドキがムネムネするような\n出来事が沢山ございますね。",
+    "translation": "フフフ…ドキがムネムネするような\n出来事が沢山ございますね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg08_FUKA_mes01_0",
+    "original": "そんな、奥村さんこそ凄い斧捌きです！\nいつも鮮やかで、見とれちゃいます。",
+    "translation": "そんな、奥村さんこそ凄い斧捌きです！\nいつも鮮やかで、見とれちゃいます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg08_FUKA_mes02_0",
+    "original": "そうなんですね！\nこのお茶も、とっても美味しいですよ。",
+    "translation": "そうなんですね！\nこのお茶も、とっても美味しいですよ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg08_FUKA_mes03_0",
+    "original": "二人とも、触りたくて堪らないって\n感じですね。",
+    "translation": "二人とも、触りたくて堪らないって\n感じですね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg08_AEGIS_mes01_0",
+    "original": "この腕は…\nこう使うであります！",
+    "translation": "この腕は…\nこう使うであります！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg08_AEGIS_mes02_0",
+    "original": "腕が終わったら、\nポロリの実験だそうです。",
+    "translation": "腕が終わったら、\nポロリの実験だそうです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg09_ZABES_mes01_0",
+    "original": "まぁ、コロマル様のおやつを盗み食い\nしたのがついにバレてしまったご様子…",
+    "translation": "まぁ、コロマル様のおやつを盗み食い\nしたのがついにバレてしまったご様子…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg09_MONA_mes01_0",
+    "original": "あんまり騒ぐんじゃねーよ。\n休めねーだろ。",
+    "translation": "あんまり騒ぐんじゃねーよ。\n休めねーだろ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg09_MONA_mes02_0",
+    "original": "ムニャムニャ…\nワガハイの高級寿司…マグロもっと…",
+    "translation": "ムニャムニャ…\nワガハイの高級寿司…マグロもっと…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg09_MONA_mes03_0",
+    "original": "今日はもう寝ようぜ。",
+    "translation": "今日はもう寝ようぜ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg09_MAKOTO_mes01_0",
+    "original": "色々なパーティの組み合わせを\n試すのもいいかもしれないわね。",
+    "translation": "色々なパーティの組み合わせを\n試すのもいいかもしれないわね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg09_MAKOTO_mes02_0",
+    "original": "いよいよ最後になったわね。\n集中して挑みましょう。",
+    "translation": "いよいよ最後になったわね。\n集中して挑みましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg09_MAKOTO_mes03_0",
+    "original": "仕方ないわ、映画館にいる時くらい\n大目に見てあげましょう。",
+    "translation": "仕方ないわ、映画館にいる時くらい\n大目に見てあげましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg09_KUMA_mes01_0",
+    "original": "ンギャー！\nスマンかったクマアァァ～！",
+    "translation": "ンギャー！\nスマンかったクマアァァ～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg09_KUMA_mes02_0",
+    "original": "クマは美味しくないクマよ～～！",
+    "translation": "クマは美味しくないクマよ～～！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg09_MITURU_mes01_0",
+    "original": "大所帯になったことだし、\nもっと互いのことを知る必要があるな。",
+    "translation": "大所帯になったことだし、\nもっと互いのことを知る必要があるな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg09_MITURU_mes02_0",
+    "original": "そうだな。\nさらに気を引き締めて行こう。",
+    "translation": "そうだな。\nさらに気を引き締めて行こう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg09_MITURU_mes03_0",
+    "original": "まったく、騒がしい連中だな。\nコロマルまではしゃいで…",
+    "translation": "まったく、騒がしい連中だな。\nコロマルまではしゃいで…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg09_KOROMARU_mes01_0",
+    "original": "ガウッ！",
+    "translation": "ガウッ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg09_KOROMARU_mes02_0",
+    "original": "ガルルル…",
+    "translation": "ガルルル…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg10_ZABES_mes01_0",
+    "original": "ベルベルベ～ルベルベット～。\n我が～あ～るじ～長い鼻～。",
+    "translation": "ベルベルベ～ルベルベット～。\n我が～あ～るじ～長い鼻～。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg10_RYUJI_mes01_0",
+    "original": "へー、これで召喚すんの？",
+    "translation": "へー、これで召喚すんの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg10_RYUJI_mes02_0",
+    "original": "わりー、わりー。\nついテンション上がっちゃってさ。",
+    "translation": "わりー、わりー。\nついテンション上がっちゃってさ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg10_AKECHI_mes01_0",
+    "original": "そうだな、そう言われると\n難しいんだけど…",
+    "translation": "そうだな、そう言われると\n難しいんだけど…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg10_AKECHI_mes02_0",
+    "original": "もちろん。でも、探偵っていうのは\nテレビドラマなんかより地味な仕事さ。",
+    "translation": "もちろん。でも、探偵っていうのは\nテレビドラマなんかより地味な仕事さ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg10_AKECHI_mes03_0",
+    "original": "天田君は、将来の夢とかあるのかい？",
+    "translation": "天田君は、将来の夢とかあるのかい？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg10_YOUSUKE_mes01_0",
+    "original": "召喚器すげーな！\nかっけーけど、ちょっと怖えー…",
+    "translation": "召喚器すげーな！\nかっけーけど、ちょっと怖えー…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg10_YOUSUKE_mes02_0",
+    "original": "わー、バカバカ！\n銃口こっち向けんなって！",
+    "translation": "わー、バカバカ！\n銃口こっち向けんなって！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg10_JUNPEI_mes01_0",
+    "original": "そーそー。そいつを頭にあてて、\nバーンってペルソナ召喚ってわけ！",
+    "translation": "そーそー。そいつを頭にあてて、\nバーンってペルソナ召喚ってわけ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg10_JUNPEI_mes02_0",
+    "original": "召喚器って知っててもビビっちゃう\nよなー。オレも最初そうだったわー。",
+    "translation": "召喚器って知っててもビビっちゃう\nよなー。オレも最初そうだったわー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg10_AMADA_mes01_0",
+    "original": "明智さんって探偵なんですよね？\nどうしたらなれるんですか？",
+    "translation": "明智さんって探偵なんですよね？\nどうしたらなれるんですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg10_AMADA_mes02_0",
+    "original": "今度、僕に探偵のことを\n教えてくれませんか？",
+    "translation": "今度、僕に探偵のことを\n教えてくれませんか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg10_AMADA_mes03_0",
+    "original": "夢っていうか…\n僕は、強くなりたいんです。",
+    "translation": "夢っていうか…\n僕は、強くなりたいんです。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_HIKARI_mes01_0",
+    "original": "みんなスゴイね！\n頑張って！",
+    "translation": "みんなスゴイね！\n頑張って！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_HIKARI_mes02_0",
+    "original": "里中さん、ファイトー！",
+    "translation": "里中さん、ファイトー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_HIKARI_mes03_0",
+    "original": "真田さんリードだよ！\n荒垣さんもファイト！",
+    "translation": "真田さんリードだよ！\n荒垣さんもファイト！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_YUSUKE_mes01_0",
+    "original": "実に美味いな…\n止められぬ、止まらぬ！",
+    "translation": "実に美味いな…\n止められぬ、止まらぬ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_YUSUKE_mes02_0",
+    "original": "プロテイン味もなかなか…",
+    "translation": "プロテイン味もなかなか…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_TEO_mes01_0",
+    "original": "皆様の食欲、お見それしました。\nポップコーンの生産が追いつきません！",
+    "translation": "皆様の食欲、お見それしました。\nポップコーンの生産が追いつきません！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_HARU_mes01_0",
+    "original": "うふふ、最後だもんね。\n体力つけなきゃ。",
+    "translation": "うふふ、最後だもんね。\n体力つけなきゃ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_HARU_mes02_0",
+    "original": "テオドアさん、紅茶を１杯もらえる？\nアールグレイがいいな。",
+    "translation": "テオドアさん、紅茶を１杯もらえる？\nアールグレイがいいな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_CHIE_mes01_0",
+    "original": "すごっ！\nポップコーンが飲み物のように…！",
+    "translation": "すごっ！\nポップコーンが飲み物のように…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_CHIE_mes02_0",
+    "original": "うおーーー！\n唸れ！　あたしの女子力！！",
+    "translation": "うおーーー！\n唸れ！　あたしの女子力！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_CHIE_mes03_0",
+    "original": "うう、口の中がカラカラ…\nお肉なら絶対負けないのにー！",
+    "translation": "うう、口の中がカラカラ…\nお肉なら絶対負けないのにー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_YUKARI_mes01_0",
+    "original": "うわ、よくあんな食べれるなー…",
+    "translation": "うわ、よくあんな食べれるなー…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_YUKARI_mes02_0",
+    "original": "あ、私はローズヒップティーで！",
+    "translation": "あ、私はローズヒップティーで！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_SANADA_mes01_0",
+    "original": "勝者は俺だ、シンジ！",
+    "translation": "勝者は俺だ、シンジ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_SANADA_mes02_0",
+    "original": "何だシンジ、それがお前の本気か？",
+    "translation": "何だシンジ、それがお前の本気か？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_ARAGAKI_mes01_0",
+    "original": "チッ、負けられねえ…",
+    "translation": "チッ、負けられねえ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg11_ARAGAKI_mes02_0",
+    "original": "チッ、頭ん中コーン粒の\nウルトラ馬鹿には負けねぇ！",
+    "translation": "チッ、頭ん中コーン粒の\nウルトラ馬鹿には負けねぇ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_ANN_mes01_0",
+    "original": "オッケー！　気合入れていこう！",
+    "translation": "オッケー！　気合入れていこう！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_ANN_mes03_0",
+    "original": "覚悟なら決まってるよ、行こう。",
+    "translation": "覚悟なら決まってるよ、行こう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_P4HERO_mes01_0",
+    "original": "俺たちならやれるさ…必ず。",
+    "translation": "俺たちならやれるさ…必ず。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_P4HERO_mes02_0",
+    "original": "いよいよだな…負けられない。",
+    "translation": "いよいよだな…負けられない。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_P4HERO_mes03_0",
+    "original": "俺たちの可能性を見せよう。",
+    "translation": "俺たちの可能性を見せよう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_YOUSUKE_mes01_0",
+    "original": "円陣とか組んじゃう？",
+    "translation": "円陣とか組んじゃう？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_YOUSUKE_mes02_0",
+    "original": "やってやろうぜ、相棒！",
+    "translation": "やってやろうぜ、相棒！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_YOUSUKE_mes03_0",
+    "original": "よし、行こうぜお前ら！",
+    "translation": "よし、行こうぜお前ら！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_MITURU_mes01_0",
+    "original": "準備は万全に整えておこう。",
+    "translation": "準備は万全に整えておこう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_MITURU_mes02_0",
+    "original": "フッ…決着をつけてこようじゃないか。",
+    "translation": "フッ…決着をつけてこようじゃないか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_MITURU_mes03_0",
+    "original": "行こう、私たちの意思を示す時だ。",
+    "translation": "行こう、私たちの意思を示す時だ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_P3HERO_mes01_0",
+    "original": "みんなの力を１つにしよう。",
+    "translation": "みんなの力を１つにしよう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_P3HERO_mes02_0",
+    "original": "僕たちにしか、出来ないことがある。",
+    "translation": "僕たちにしか、出来ないことがある。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_P3HERO_mes03_0",
+    "original": "みんな、準備はいい？",
+    "translation": "みんな、準備はいい？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_AEGIS_mes01_0",
+    "original": "行きましょう、みなさん。\n共に戦うであります。",
+    "translation": "行きましょう、みなさん。\n共に戦うであります。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_AEGIS_mes02_0",
+    "original": "全力全開であります、負けません。",
+    "translation": "全力全開であります、負けません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "town_bg12_AEGIS_mes03_0",
+    "original": "全リミッター、解放準備は\nとっくに完了しています。",
+    "translation": "全リミッター、解放準備は\nとっくに完了しています。",
+    "stage": 1,
+    "context": ""
+  }
+]

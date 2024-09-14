@@ -1,0 +1,240 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す ",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找 \n\n一边警戒一边寻找 \n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する ",
+    "translation": "专心采集 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる ",
+    "translation": "放弃 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す ",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる ",
+    "translation": "放弃 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る ",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过 \n\n通过 \n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない ",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过 \n\n不通 \n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る ",
+    "translation": "返回 ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない ",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头 \n\n不回去 \n\n不回来"
+  },
+  {
+    "key": "MSG_000_0",
+    "original": "オタカラスポットのようですね。\n採取しますか？ ",
+    "translation": "好像是藏宝地点呢。\n要采集吗？",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n看来是个宝物地点呢。\n要采集吗？ \n\n好像是宝物景点啊。\n采集吗？ \n\n好像是藏宝点呢。\n采集吗？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "分かりました。 \nでは、周囲に気をつけて採取しましょう。 ",
+    "translation": "知道了。\n那么，一边注意周围一边采集吧。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n知道了。\n那我们一边注意周围一边采集吧。 \n\n我明白了。\n那么，要注意周围的人。 \n\n我明白了。\n那么，请注意周围的环境进行采集吧。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "了解しました。 \nでは、しっかり探しましょう。 ",
+    "translation": "明白了。\n那么，好好搜索一下吧。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n了解了。\n那我们好好地找吧。 \n\n明白了。\n那么，好好寻找吧。 \n\n明白了。\n那么，好好找找吧。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "了解です。 ",
+    "translation": "了解。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n了解。 \n\n明白了。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "これで全てみたいですね。 ",
+    "translation": "看起来这些就是全部呢。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n这样应该就是全部了。 \n\n这样好像就是全部了呢。 \n\n这就是全部了。"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "まずまずかな。 ",
+    "translation": "还可以吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n还算可以吧。 \n\n还过得去吧。"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ふむ… ",
+    "translation": "嗯……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n唔…… \n\n嗯……"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "頂いていきましょう。 ",
+    "translation": "我收下了。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n就收下吧。 \n\n我来拿吧。 \n\n那就收下吧。"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "無事に採取は完了しましたが…\nやはり気が抜けませんね。",
+    "translation": "虽然顺利全部采集完了……\n果然还是不能放松呢。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n虽然顺利采集完毕了……\n但果然还是不能松懈呢。\n\n虽然采集顺利完成了……\n果然还是不能放松啊。\n\n虽然顺利地采集完成了……还是不能松懈啊。"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "レアですよ！ ",
+    "translation": "是稀有物品呢！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好稀有哦！ \n\n很稀有哦！ \n\n是稀有哦！"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "これは…！ ",
+    "translation": "这是……！ ",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这是……！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "やりましたね。 ",
+    "translation": "做得好。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n成功了呢。 \n\n做了啊。 \n\n做得很好。"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ショートカットです。 \n開けておきますか？ ",
+    "translation": "是捷径呢。\n要先打开吗？",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n这是捷径呢。\n要打开吗？ \n\n快捷键。\n要打开吗？ \n\n快捷方式。\n要打开吗？"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "こちらは通れないんですね。 ",
+    "translation": "这里过不去呢。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n这边好像不能通过呢。 \n\n这里不能通过吧。 \n\n这边过不去啊。"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "ここは…\n凄く危険な気配がします。",
+    "translation": "这里……\n感觉有很危险的气息。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n这里……\n有非常危险的气息。\n\n这里……\n感觉非常危险。\n\n这里……感觉到了非常危险的气息。"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "分かりました。\n気をつけて調べましょう。",
+    "translation": "明白了。\n小心点调查吧。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n知道了。\n小心地调查吧。\n\n我明白了。\n请注意调查。\n\n我明白了。小心调查吧。"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "そうですね。\n賢明な判断だと思います。",
+    "translation": "说的是呢。\n我认为这是一个明智的决定。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n是呢。\n我认为这是明智的判断。\n\n是啊。\n我认为这是明智的判断。\n\n是啊。我认为这是明智的判断。"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "今のは…かなりの強敵でしたね。",
+    "translation": "刚刚的……是个强敌呢。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n刚才那个……是相当厉害的强敌呢。\n\n现在的是……相当的强敌呢。\n\n现在的是……是相当强劲的对手。"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "この近辺、\nシャドウの気配がします。",
+    "translation": "这附近\n有暗影的气息。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n这附近……\n有暗影的气息。\n\n这附近有暗影的迹象。"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "分かりました。\n気をつけて調べましょう。",
+    "translation": "明白了。\n小心点调查吧。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n知道了。\n小心地调查吧。\n\n我明白了。\n请注意调查。\n\n我明白了。小心调查吧。"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "了解です。\n止めておきましょうか。",
+    "translation": "知道了。\n先暂停吧？",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n了解了。\n就先别过去吧。\n\n明白了。\n要停下来吗。\n\n明白了。要不要先停一停？"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "これで終わりみたいですね。",
+    "translation": "看样子应该是结束了呢。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n这样好像就结束了呢。\n\n好像到此结束了呢。\n\n这似乎就结束了。"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "ここから映画館に戻れるようですね。\nどうしますか？",
+    "translation": "这里好像可以回电影院。\n怎么办？",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n从这里好像能回到电影院呢。\n要怎么做？\n\n好像可以从这里回到电影院。\n怎么办？"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白钟 直斗",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "key": "YESNO_SEL_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "DEAD_SEL_0",
+    "original": "戦闘続行",
+    "translation": "戦闘続行",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "DEAD_SEL_1",
+    "original": "退却",
+    "translation": "退却",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_CONTINUE_0",
+    "original": "＞現在の難易度は『ＳＡＦＥＴＹ』です。\n　コンティニューしますか？",
+    "translation": "＞現在の難易度は『ＳＡＦＥＴＹ』です。\n　コンティニューしますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BTL_TEAM_DEAD_0",
+    "original": "＞チームが全滅しました。\n　戦闘を続行しますか？",
+    "translation": "＞チームが全滅しました。\n　戦闘を続行しますか？",
+    "stage": 1,
+    "context": ""
+  }
+]

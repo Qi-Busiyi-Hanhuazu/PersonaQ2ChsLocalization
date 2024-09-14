@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_AB_BLOCKWALL_TUTORIA_0",
+    "original": "＞誰かが謎のブラインド（柵）的なものを見つけて\n　あれは一体なんだろう？ と話すイベント",
+    "translation": "＞誰かが謎のブラインド（柵）的なものを見つけて\n　あれは一体なんだろう？ と話すイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_AB_BLOCKWALL_TUTORIA_2_0",
+    "original": "＞さっきと同じブラインドが開いている！\n　もしかしたら、どこかで開閉できるのかも？…",
+    "translation": "＞さっきと同じブラインドが開いている！\n　もしかしたら、どこかで開閉できるのかも？…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_AB_BLOCKWALL_TUTORIA_2_1",
+    "original": "＞コレを利用しつつ、強風ギミックを活用すれば\n　先に進行することができるかも？ と話すイベント",
+    "translation": "＞コレを利用しつつ、強風ギミックを活用すれば\n　先に進行することができるかも？ と話すイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_PUSH_SWITCH_TUTORIAL_0",
+    "original": "＞目の前にスイッチ的なものを発見。\n　上に乗ってみよう！ と話すイベント",
+    "translation": "＞目の前にスイッチ的なものを発見。\n　上に乗ってみよう！ と話すイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "何かが埋まっているようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理してからまた来よう…",
+    "stage": 1,
+    "context": ""
+  }
+]

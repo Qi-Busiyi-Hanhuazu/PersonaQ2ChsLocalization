@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "へぇ、なかなかパトスを\n感じる名前じゃん…悪くないね。",
+    "translation": "へぇ、なかなかパトスを\n感じる名前じゃん…悪くないね。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ニャフフ…だろぉ？",
+    "translation": "ニャフフ…だろぉ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "次はすれちがい手帳で渡す\nサブペルソナを選んでくれる？",
+    "translation": "次はすれちがい手帳で渡す\nサブペルソナを選んでくれる？",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "[颜色 03]渡したサブペルソナは消えない[颜色 01]から、\n安心して。",
+    "translation": "[颜色 03]渡したサブペルソナは消えない[颜色 01]から、\n安心して。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "こっちも後で変えれるし、\nあんまり深く考えなくていいよ。",
+    "translation": "こっちも後で変えれるし、\nあんまり深く考えなくていいよ。",
+    "stage": 1,
+    "context": "マリー"
+  },
+  {
+    "key": "speaker_マリー",
+    "original": "マリー",
+    "translation": "マリー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

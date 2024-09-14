@@ -1,0 +1,121 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "みんな、そこが終点みたいだぞ！",
+    "translation": "みんな、そこが終点みたいだぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "長かったぜ…\nこれが『イースターエッグ』！",
+    "translation": "長かったぜ…\nこれが『イースターエッグ』！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "…って、あれ？",
+    "translation": "…って、あれ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "SEL_002_0",
+    "original": "ただの画像だ",
+    "translation": "ただの画像だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_002_1",
+    "original": "確かにタマゴだ",
+    "translation": "確かにタマゴだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "こんだけ！？\nオレっちの数億円は…？",
+    "translation": "こんだけ！？\nオレっちの数億円は…？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "あはは、ちょっと拍子抜けだけど\nこれはこれでいいんじゃない？",
+    "translation": "あはは、ちょっと拍子抜けだけど\nこれはこれでいいんじゃない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "こういうのって、見つけるまでが\nゲームみたいで楽しいんだよね。",
+    "translation": "こういうのって、見つけるまでが\nゲームみたいで楽しいんだよね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "子供たちが夢中でタマゴを探す気持ちが\nわかった気がするね。",
+    "translation": "子供たちが夢中でタマゴを探す気持ちが\nわかった気がするね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ふむ、コンピューターゲームだけが\nゲームじゃないってことか。",
+    "translation": "ふむ、コンピューターゲームだけが\nゲームじゃないってことか。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "参加型ゲーム、ゲーマーとして\n押さえとく必要アリだな。",
+    "translation": "参加型ゲーム、ゲーマーとして\n押さえとく必要アリだな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "に、２週目に裏ボス出てきて\nガチの財宝取れるとか…ナイ？",
+    "translation": "に、２週目に裏ボス出てきて\nガチの財宝取れるとか…ナイ？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あきらめろ、順平。\nゲームは終わったのだ…",
+    "translation": "あきらめろ、順平。\nゲームは終わったのだ…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  }
+]

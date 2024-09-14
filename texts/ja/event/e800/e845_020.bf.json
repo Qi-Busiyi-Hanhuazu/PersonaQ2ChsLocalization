@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "いよいよ対決の時クマ！\nどっからでもかかって来んしゃーい！",
+    "translation": "いよいよ対決の時クマ！\nどっからでもかかって来んしゃーい！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "目標はクマ型Ｆ．Ｏ．Ｅです。\nそのまま進んで、位置を確認して下さい。",
+    "translation": "目標はクマ型Ｆ．Ｏ．Ｅです。\nそのまま進んで、位置を確認して下さい。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  }
+]

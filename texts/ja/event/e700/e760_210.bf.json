@@ -1,0 +1,128 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "チッ、ここも行き止まりか…",
+    "translation": "チッ、ここも行き止まりか…",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "焦りは禁物ですが、\nそれでももどかしいですね。",
+    "translation": "焦りは禁物ですが、\nそれでももどかしいですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "オレっち、もー足パンパン。\nちょっと一息つかせて。",
+    "translation": "オレっち、もー足パンパン。\nちょっと一息つかせて。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "でも、確実に進んでるね。\nみんな、ホントに凄い…あんなに戦えて。",
+    "translation": "でも、確実に進んでるね。\nみんな、ホントに凄い…あんなに戦えて。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "へへっ。ひかりちゃんの応援も\nかなり助かってるぜ？",
+    "translation": "へへっ。ひかりちゃんの応援も\nかなり助かってるぜ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ほ、本当に…？\n皆の力になれるなら、凄く嬉しい。",
+    "translation": "ほ、本当に…？\n皆の力になれるなら、凄く嬉しい。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "今まで皆にずっと助けてもらってたから、\n今度は私が助けられたらって…",
+    "translation": "今まで皆にずっと助けてもらってたから、\n今度は私が助けられたらって…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "映画館に閉じこもってる人たちにも、\n届くといいな。",
+    "translation": "映画館に閉じこもってる人たちにも、\n届くといいな。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "…そうだな。",
+    "translation": "…そうだな。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "つーか、ひかりも頑張ってんのに\nこんな所でヘバってる場合じゃねえか！",
+    "translation": "つーか、ひかりも頑張ってんのに\nこんな所でヘバってる場合じゃねえか！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うっし、オレっちも気合入れ直すぜ！\nいっちょ行きますか！",
+    "translation": "うっし、オレっちも気合入れ直すぜ！\nいっちょ行きますか！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_CURE_ALL_0",
+    "original": "全員のＨＰとＳＰが回復した！",
+    "translation": "全員のＨＰとＳＰが回復した！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

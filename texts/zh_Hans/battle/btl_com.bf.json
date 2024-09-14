@@ -1,0 +1,44 @@
+[
+  {
+    "key": "YESNO_SEL_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "YESNO_SEL_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "DEAD_SEL_0",
+    "original": "戦闘続行",
+    "translation": "继续战斗",
+    "stage": 0,
+    "context": "机翻辅助：\n\n继续战斗\n\n战斗继续"
+  },
+  {
+    "key": "DEAD_SEL_1",
+    "original": "退却",
+    "translation": "撤退",
+    "stage": 0,
+    "context": "机翻辅助：\n\n撤退\n\n退却"
+  },
+  {
+    "key": "BTL_CONTINUE_0",
+    "original": "＞現在の難易度は『ＳＡＦＥＴＹ』です。\n　コンティニューしますか？",
+    "translation": "＞目前的游戏难度为“SAFETY”。\n　要继续吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞目前的难度为“SAFETY”。\n　要继续吗？\n\n＞现在的难易度是“SAFETY”。\n　要更新吗？\n\n＞现在的难易度是“SAFETY”。\n　会坚持吗？"
+  },
+  {
+    "key": "BTL_TEAM_DEAD_0",
+    "original": "＞チームが全滅しました。\n　戦闘を続行しますか？",
+    "translation": "＞小队成员已经全军覆没。\n　要继续战斗吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞队伍全灭。\n　要继续战斗吗？\n\n＞队伍全军覆没了。\n　要继续战斗吗？\n\n＞团队全军覆没。\n　继续战斗吗？"
+  }
+]

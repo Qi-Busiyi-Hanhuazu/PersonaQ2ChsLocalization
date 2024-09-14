@@ -1,0 +1,170 @@
+[
+  {
+    "key": "ITEM_POINT_SEL_0",
+    "original": "警戒しながら探す",
+    "translation": "谨慎探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n提高警觉寻找\n\n一边警戒一边寻找\n\n警惕地寻找"
+  },
+  {
+    "key": "ITEM_POINT_SEL_1",
+    "original": "採取に専念する",
+    "translation": "专心采集",
+    "stage": 0,
+    "context": "机翻辅助：\n\n专心采集"
+  },
+  {
+    "key": "ITEM_POINT_SEL_2",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_0",
+    "original": "探す",
+    "translation": "探索",
+    "stage": 1,
+    "context": "机翻辅助：\n\n寻找"
+  },
+  {
+    "key": "ITEM_POINT_FORCE_BTL_SEL_1",
+    "original": "やめる",
+    "translation": "放弃",
+    "stage": 0,
+    "context": "机翻辅助：\n\n放弃"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る",
+    "translation": "通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n能通过\n\n通过\n\n经过"
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない",
+    "translation": "不通过",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不能通过\n\n不通\n\n不通过"
+  },
+  {
+    "key": "ENTRANCE_SEL_0",
+    "original": "戻る",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回"
+  },
+  {
+    "key": "ENTRANCE_SEL_1",
+    "original": "戻らない",
+    "translation": "不返回",
+    "stage": 1,
+    "context": "机翻辅助：\n\n不回头\n\n不回去\n\n不回来"
+  },
+  {
+    "key": "MARGA_MSG_005_0",
+    "original": "その調子よ。",
+    "translation": "继续加油。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n就是这样。\n\n就是这个样子。"
+  },
+  {
+    "key": "NANAKO_MSG_005_0",
+    "original": "えへへ、やったね！",
+    "translation": "诶嘿嘿，太好了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n诶嘿嘿，太好了！\n\n嘿嘿，太棒了！\n\n嘿嘿，太好了！"
+  },
+  {
+    "key": "MARGA_MSG_006_0",
+    "original": "まずまずね。",
+    "translation": "不错呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n还不错呢。\n\n还过得去呢。\n\n还算过得去。"
+  },
+  {
+    "key": "NANAKO_MSG_006_0",
+    "original": "とれたー！",
+    "translation": "拿到啦！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n拿到了！\n\n托雷特！"
+  },
+  {
+    "key": "MARGA_MSG_007_0",
+    "original": "悪くないわね。",
+    "translation": "还不错呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n还不坏呢。\n\n还不错啊。\n\n还不错呢。"
+  },
+  {
+    "key": "NANAKO_MSG_007_0",
+    "original": "オタカラ！",
+    "translation": "宝藏！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n宝物！\n\n宝贝！"
+  },
+  {
+    "key": "MARGA_MSG_009_0",
+    "original": "賞賛に値するわ。",
+    "translation": "值得夸奖呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n值得称赞呢。\n\n值得称赞。"
+  },
+  {
+    "key": "NANAKO_MSG_009_0",
+    "original": "いいのとれた！",
+    "translation": "拿到好东西了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n拿到了好东西！\n\n好漂亮！\n\n拍得很好！"
+  },
+  {
+    "key": "MARGA_MSG_010_0",
+    "original": "いいものだわ。",
+    "translation": "是好东西呢。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是好东西呢。\n\n真是好东西啊。\n\n真是个好东西。"
+  },
+  {
+    "key": "NANAKO_MSG_010_0",
+    "original": "やったやったー！",
+    "translation": "太好啦太好啦——！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太好了太好了！\n\n太好了！"
+  },
+  {
+    "key": "MARGA_MSG_011_0",
+    "original": "素晴らしい結果ね。",
+    "translation": "很棒的结果呢。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n结果很棒呢。\n\n很棒的结果。\n\n好漂亮的结果啊。"
+  },
+  {
+    "key": "NANAKO_MSG_011_0",
+    "original": "やったー！すごいね！",
+    "translation": "太棒了！好厉害呀！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n太好了！好厉害！\n\n太好了！好厉害啊！\n\n太棒了！好厉害啊！"
+  },
+  {
+    "key": "MARGA_MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "NANAKO_MSG_027_0",
+    "original": "！！ああっと！！",
+    "translation": "！！哇呀！！",
+    "stage": 9,
+    "context": "翻译匹配：EO1-3HD"
+  },
+  {
+    "key": "speaker_菜々子",
+    "original": "菜々子",
+    "translation": "菜菜子",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

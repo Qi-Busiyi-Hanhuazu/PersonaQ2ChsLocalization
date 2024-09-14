@@ -1,0 +1,121 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "…起動完了。\n皆さん、オハヨウゴザイマス。",
+    "translation": "…起動完了。\n皆さん、オハヨウゴザイマス。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おっ！　無事みたいだな、リボン！\nよかった…",
+    "translation": "おっ！　無事みたいだな、リボン！\nよかった…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ハイ、大丈夫デス。\n問題ありマセンデシタ。",
+    "translation": "ハイ、大丈夫デス。\n問題ありマセンデシタ。",
+    "stage": 1,
+    "context": "リボン"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ふむ、また映画館に戻る際は\nこの手が使えそうだな。",
+    "translation": "ふむ、また映画館に戻る際は\nこの手が使えそうだな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ええ。これならリボンちゃんも安全だし、\n安心して探索の準備も整えられそうね。",
+    "translation": "ええ。これならリボンちゃんも安全だし、\n安心して探索の準備も整えられそうね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "今後の懸念も払拭したところで、\n先に進みましょうか、ジョーカー。",
+    "translation": "今後の懸念も払拭したところで、\n先に進みましょうか、ジョーカー。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_0000_0",
+    "original": "…起動完了。\n皆さん、オハヨウゴザイマス。",
+    "translation": "…起動完了。\n皆さん、オハヨウゴザイマス。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_0001_0",
+    "original": "おっ！　無事みたいだな！\nよかった…",
+    "translation": "おっ！　無事みたいだな！\nよかった…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_0002_0",
+    "original": "ハイ、大丈夫デス。\n問題ありマセンデシタ。",
+    "translation": "ハイ、大丈夫デス。\n問題ありマセンデシタ。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_0003_0",
+    "original": "ふむ、また映画館に戻る際は\nこの手が使えそうだな。",
+    "translation": "ふむ、また映画館に戻る際は\nこの手が使えそうだな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_0004_0",
+    "original": "ええ。これならこの子も安全だし、\n安心して探索の準備も整えられそうね。",
+    "translation": "ええ。これならこの子も安全だし、\n安心して探索の準備も整えられそうね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_0004_1",
+    "original": "今後の懸念も払拭したところで、\n先に進みましょうか、ジョーカー。",
+    "translation": "今後の懸念も払拭したところで、\n先に進みましょうか、ジョーカー。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_リボン",
+    "original": "リボン",
+    "translation": "リボン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボンを付けたロボット",
+    "original": "リボンを付けたロボット",
+    "translation": "リボンを付けたロボット",
+    "stage": 1,
+    "context": ""
+  }
+]

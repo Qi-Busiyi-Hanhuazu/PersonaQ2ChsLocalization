@@ -1,0 +1,184 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "魚の釣れそうな場所っていうと…",
+    "translation": "魚の釣れそうな場所っていうと…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "前に肉焼いたトコに水場があったよな？\nあそことかどうよ？",
+    "translation": "前に肉焼いたトコに水場があったよな？\nあそことかどうよ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ウッス！\nじゃあ、早速水場に向かいましょう！",
+    "translation": "ウッス！\nじゃあ、早速水場に向かいましょう！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "…いや、ちょっと待て。\n釣り場の前に大切なものを忘れてないか？",
+    "translation": "…いや、ちょっと待て。\n釣り場の前に大切なものを忘れてないか？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "SEL_004_0",
+    "original": "大切なもの？",
+    "translation": "大切なもの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_1",
+    "original": "餌だな",
+    "translation": "餌だな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_004_2",
+    "original": "パン屑か",
+    "translation": "パン屑か",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あ、わかった！\n魚の餌だね！",
+    "translation": "あ、わかった！\n魚の餌だね！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "パン？　腹が減ったら食うんスか？",
+    "translation": "パン？　腹が減ったら食うんスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "あ、わかった！\n魚の餌だね！",
+    "translation": "あ、わかった！\n魚の餌だね！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ああ、魚を釣るには餌が必要だ。\nせめてパン屑でもあればよかったんだが…",
+    "translation": "ああ、魚を釣るには餌が必要だ。\nせめてパン屑でもあればよかったんだが…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "仕方ない、ここは現地調達だな。",
+    "translation": "仕方ない、ここは現地調達だな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "魚の餌ってことは昆虫か…\nどこにいんだ？",
+    "translation": "魚の餌ってことは昆虫か…\nどこにいんだ？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "えっとね、ミミズとかよく\n湿った落ち葉の裏にいっぱい…",
+    "translation": "えっとね、ミミズとかよく\n湿った落ち葉の裏にいっぱい…",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ヒィーー！",
+    "translation": "ヒィーー！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ちょ、ちょっと想像しちゃったじゃん…",
+    "translation": "ちょ、ちょっと想像しちゃったじゃん…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "なるほど…\n湿った落ち葉か…",
+    "translation": "なるほど…\n湿った落ち葉か…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "じゃあ、まずは餌を確保しに、\n落ち葉のある所を探そう。",
+    "translation": "じゃあ、まずは餌を確保しに、\n落ち葉のある所を探そう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

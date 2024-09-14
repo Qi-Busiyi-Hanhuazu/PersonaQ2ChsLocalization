@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "出たな怪人クイーン・ジョー！\n成敗してくれる！",
+    "translation": "怪人女王·乔出现了！\n看我击败你！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n怪人女王乔出现了！\n看我制裁你！\n\n出来了啊怪人QUEEN·乔！\n会成功的！\n\n出场怪人QUEEN·乔！\n为我成败！"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "へへっ、ナビの奴すっかり\nなりきっちまってるな。",
+    "translation": "嘿嘿， NAVI那家伙\n完全入戏了呢。",
+    "stage": 1,
+    "context": "说话人：花村 陽介\n\n机翻辅助：\n\n嘿嘿，导航语音\n完全入戏了呢。\n\n嘿嘿，导航的家伙都变成\n了。\n\n嘿嘿，那个导航系统的家伙，真是太有范儿了。"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "覚悟しろ、クイーン・ジョー！\n乱暴は許さないぞ！",
+    "translation": "觉悟吧，女王·乔！\n不准你乱来！",
+    "stage": 1,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n觉悟吧，女王乔！\n不准你乱来！\n\n觉悟吧，QUEEN·乔！\n不许粗暴！\n\n做好心理准备吧，乔皇后！不许胡闹！"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あはは、天田くんも生き生きしてるし。\nなんかよかったね。",
+    "translation": "啊哈哈，天田同学也生龙活虎的。\n真是太好了。",
+    "stage": 1,
+    "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n啊哈哈，天田同学也生龙活虎的。\n感觉真不错呢。\n\n哈哈，天田也很生动。\n真是太好了。\n\n哈哈，天田也很活泼。\n真是太好了。"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "さあフェザージョーカー！\n攻撃の合図を！",
+    "translation": "来吧，翔羽JOKER！\n攻击的信号！",
+    "stage": 1,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n来吧，费瑟JOKER！\n攻击的信号！\n\n来吧费瑟JOKER！\n发出攻击的信号！\n\n来吧，羽毛JOKER ！\n发出进攻的信号！"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "いくぞ！",
+    "translation": "上吧！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n上吧！\n\n走吧！"
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "ショータイムだ！",
+    "translation": "表演时间到！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n表演时间到啦！\n\n是表演时间！\n\n表演时间到了！"
+  },
+  {
+    "key": "SEL_005_2",
+    "original": "フェザー・チェンジ！",
+    "translation": "翔羽CHANGE！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n羽毛变换！\n\n羽毛交换！\n\n羽毛改变！"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "おお、ノリノリだねえ。\nそういうのキライじゃねーよ？",
+    "translation": "哦哦，好有干劲啊。\n我并不讨厌这种的哦。",
+    "stage": 0,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n哦哦，好有干劲啊。\n我并不讨厌这种的哦。\n\n哦，真兴奋啊。\n你不讨厌这样吗？\n\n哦，兴致很高啊。\n我可不讨厌这样啊？"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "いやもう君は変身はしてるだろ。\nそこは『いくぞ！』とかでしょ！",
+    "translation": "但是你已经变身了吧。\n这时候应该说“上吧！”才对吧！",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n呃，你已经变身了吧。\n这时候应该说“上吧！”才对吧！\n\n不，你已经变身了吧。\n那里是“走吧！”之类的吧！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ジョーカー、一気に決めろ！\nＶＳジョー・第二幕だ！",
+    "translation": "JOKER，一口气解决他！\nVS乔·第二幕！",
+    "stage": 0,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\nJOKER，一口气解决他！\nVS乔·第二幕！\n\nJOKER、一口气决定！\nVS乔·第二幕！\n\nJOKER，一鼓作气！\nVS乔·第二幕！"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 由加莉",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊织 顺平",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

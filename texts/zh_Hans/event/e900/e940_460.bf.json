@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "うわっ、何だ！？",
+    "translation": "唔哇，什么！？",
+    "stage": 0,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n唔哇，什么！？\n\n哇，什么！？\n\n哇，什么啊！？"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "オ、オトコ…！？",
+    "translation": "男、男人……！？",
+    "stage": 0,
+    "context": "说话人：荒ぶる監視員\n\n机翻辅助：\n\n男、男人……！？\n\n啊，男人……！？\n\n哦，男人……！？"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "オトコォォォォォオ！！！\nオトコ無理！！\nオトコ排除ォオ！！",
+    "translation": "男人啊啊啊啊啊啊！！！\n我不能接受男人！！\n排除男人啊啊！！",
+    "stage": 0,
+    "context": "说话人：荒ぶる監視員\n\n机翻辅助：\n\n男人啊啊啊啊啊啊！！！\n我不能接受男人！！\n排除男人啊啊！！\n\n太好了！！！\n男性不行！！\n排除男性！！\n\n男汉子！！！\n男人不行！！\n男性排除！！"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "くっ、問答無用か！",
+    "translation": "唔，不由分说吗！",
+    "stage": 0,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n唔，不由分说吗！\n\n啊，不用问答！\n\n唔，不用多说！"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_荒ぶる監視員",
+    "original": "荒ぶる監視員",
+    "translation": "暴躁的监视员",
+    "stage": 0,
+    "context": "机翻辅助：\n\n暴躁的监视员\n\n粗暴的监视员\n\n粗鲁的监视员"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

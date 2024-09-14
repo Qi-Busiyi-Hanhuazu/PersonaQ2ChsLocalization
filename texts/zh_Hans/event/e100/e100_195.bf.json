@@ -1,0 +1,37 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "え…",
+    "translation": "哎？",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n咦……\n\n呃……\n\n嗯……"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ん？　どうした？",
+    "translation": "嗯？怎么了？",
+    "stage": 0,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n嗯？怎么了？\n\n？怎么了？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あれ！　見て！",
+    "translation": "快看！上面！",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n哎呀！快看！\n\n咦！看！\n\n咦！你看！\n\n评论：\n\n此处杏指向上方显示屏的超人鸭志田影像，并且英文版为“Look up——there！”故译出“上面”"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

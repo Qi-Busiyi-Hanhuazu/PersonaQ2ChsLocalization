@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ジョーカー！\n階段の下、敵の気配がする。",
+    "translation": "ジョーカー！\n階段の下、敵の気配がする。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "降りるなら、ちゃんと\n準備しておいた方がよさそうだ。",
+    "translation": "降りるなら、ちゃんと\n準備しておいた方がよさそうだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "おい、ジョーカー。\nどうする？　行くか？",
+    "translation": "おい、ジョーカー。\nどうする？　行くか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "あ！　この先に敵がいるんだったな…\nジョーカー、大丈夫か？",
+    "translation": "あ！　この先に敵がいるんだったな…\nジョーカー、大丈夫か？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "行こう",
+    "translation": "行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "待ってくれ",
+    "translation": "待ってくれ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おっしゃ！　いっちょ暴れてやろうぜ。",
+    "translation": "おっしゃ！　いっちょ暴れてやろうぜ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "おう、タイミングは任せるぜ。\nもいっちょストレッチでもしとくか…",
+    "translation": "おう、タイミングは任せるぜ。\nもいっちょストレッチでもしとくか…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  }
+]

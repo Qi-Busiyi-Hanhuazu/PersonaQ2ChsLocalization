@@ -1,0 +1,170 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "地図に描いてある場所へ行って、\n敵を倒せばいいんだよね。",
+    "translation": "地図に描いてある場所へ行って、\n敵を倒せばいいんだよね。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ラクショーだな！\nんじゃ、まずこっちの奴を…",
+    "translation": "ラクショーだな！\nんじゃ、まずこっちの奴を…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "っしゃ！\nまずはあっちから回って…",
+    "translation": "っしゃ！\nまずはあっちから回って…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "…あ？",
+    "translation": "…あ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…何スか？",
+    "translation": "…何スか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "はいはい、そこケンカしない！",
+    "translation": "はいはい、そこケンカしない！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "ごめんね～、完二くんってば\nちょっと興奮しちゃってるみたいで。",
+    "translation": "ごめんね～、完二くんってば\nちょっと興奮しちゃってるみたいで。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "カンジー、どうどうクマ～。\nいい子にできたらバナナあげるクマよ～。",
+    "translation": "カンジー、どうどうクマ～。\nいい子にできたらバナナあげるクマよ～。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ど、動物扱いすんなコラァ！",
+    "translation": "ど、動物扱いすんなコラァ！",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ううん、こっちこそごめんね。",
+    "translation": "ううん、こっちこそごめんね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "スカルもすぐ熱くなるからさ。\n野生の血が騒いじゃうらしくて。",
+    "translation": "スカルもすぐ熱くなるからさ。\n野生の血が騒いじゃうらしくて。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ハァ！？\n俺まで動物扱いすんじゃねえ！",
+    "translation": "ハァ！？\n俺まで動物扱いすんじゃねえ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_010_0",
+    "original": "ケンカはやめろ",
+    "translation": "ケンカはやめろ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_010_1",
+    "original": "置いていくぞ",
+    "translation": "置いていくぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "フン。",
+    "translation": "フン。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "…スンマセン。",
+    "translation": "…スンマセン。",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "にひひ、ヤンチャな奴らが多くて\nボスは大変だな。",
+    "translation": "にひひ、ヤンチャな奴らが多くて\nボスは大変だな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "どいつから倒すかは任せる！\n地図の印の場所へ向かえ、ジョーカー！",
+    "translation": "どいつから倒すかは任せる！\n地図の印の場所へ向かえ、ジョーカー！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

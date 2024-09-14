@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おわっ！？　んじゃ、こりゃ…穴？",
+    "translation": "おわっ！？　んじゃ、こりゃ…穴？",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ってか、切り株に…鼻！？",
+    "translation": "ってか、切り株に…鼻！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "そして、ここにー…クマ！？",
+    "translation": "そして、ここにー…クマ！？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "まったく関係ねーよ！",
+    "translation": "まったく関係ねーよ！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "ここからだと詳細は不明ですが、\nあの鼻は、何かの仕掛けかもしれませんね。",
+    "translation": "ここからだと詳細は不明ですが、\nあの鼻は、何かの仕掛けかもしれませんね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "[颜色 03]鼻を操作するスイッチ的なもの[颜色 01]、とか…",
+    "translation": "[颜色 03]鼻を操作するスイッチ的なもの[颜色 01]、とか…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "鼻？",
+    "translation": "鼻？",
+    "stage": 1,
+    "context": "Ｐ３主人公"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ハナ？",
+    "translation": "ハナ？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ハナって、あの鼻？",
+    "translation": "ハナって、あの鼻？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "SEL_008_0",
+    "original": "鼻だ",
+    "translation": "鼻だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_008_1",
+    "original": "長い鼻だ",
+    "translation": "長い鼻だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "つーか、おめーらも何なんだよ！？\n鼻ハナ気持ちワリイな！",
+    "translation": "つーか、おめーらも何なんだよ！？\n鼻ハナ気持ちワリイな！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ここからでは推測の域を出ません。\n穴に気をつけて、近づいて見てみましょう。",
+    "translation": "ここからでは推測の域を出ません。\n穴に気をつけて、近づいて見てみましょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

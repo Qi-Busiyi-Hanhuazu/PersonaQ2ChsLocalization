@@ -1,0 +1,982 @@
+[
+  {
+    "key": "MSG_001_0",
+    "original": "にしても、映画を取り替える、か…\nエンリルにバレたら、やっぱマズいよな？",
+    "translation": "话说回来，要换掉电影吗……\n要是被恩利尔发现了，肯定会很麻烦吧？",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n话说回来，要换掉电影啊……\n要是被恩利尔发现，果然会很不妙吧？\n\n即使这样，也要换电影吗……\n被恩丽尔发现的话，果然还是很麻烦吧？\n\n即使这样，换电影，吗……\n如果被恩里克发现，果然不好吧？"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "説得して聞くような相手じゃないもん。\n見つかったら、次こそ容赦ないかも…",
+    "translation": "毕竟她不是那种能听劝的对手嘛。\n要是再被发现，肯定不会手下留情了……",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n毕竟她不是那种能说服的人嘛。\n要是被她发现，下次可能真的会毫不留情……\n\n不是说服对方听的对象。\n如果被发现的话，下次可能会毫不留情……\n\n不是可以说服的人。如果被发现了，下次可能会毫不留情……"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そこは怪盗団みたいに、闇に忍んで\nシュシュッと参上するクマ！",
+    "translation": "是时候像怪盗团一样遁入黑暗\n然后嗖嗖地现身了熊熊！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n就像怪盗团一样，悄悄地潜入黑暗\n咻咻登场的熊熊！\n\n那里是像怪盗团一样，偷偷潜入黑暗的熊熊！\n\n\n那里就像怪盗团一样，在黑暗中偷偷地迎接熊熊！"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "コソコソするのは性に合わんな。",
+    "translation": "偷偷摸摸可不是我的风格。",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n偷偷摸摸的不符合我的个性。\n\n偷偷摸摸的不符合我的性格。\n\n偷偷摸摸的不符合性。"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "第一、怪盗などしたことがない。\nノウハウを教えてくれ。",
+    "translation": "再说了，我们又没当过怪盗。\n麻烦传授一下诀窍吧。",
+    "stage": 1,
+    "context": "说话人：真田 明彦\n\n机翻辅助：\n\n再说，我根本没当过怪盗。\n教教我诀窍吧。\n\n第一，没有做过怪盗。\n请告诉我诀窍。\n\n首先，我没有做过怪盗。请告诉我秘诀。"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "その場のノリだ",
+    "translation": "见机行事就好",
+    "stage": 1,
+    "context": "机翻辅助：\n\n看现场的气氛\n\n当场的气氛\n\n是当场的决定"
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "怪盗の美学を持つ",
+    "translation": "保持怪盗美学",
+    "stage": 1,
+    "context": "机翻辅助：\n\n拥有怪盗的美学\n\n具有怪盗的美学"
+  },
+  {
+    "key": "SEL_005_2",
+    "original": "黙ってついてこい",
+    "translation": "闭上嘴跟我来",
+    "stage": 1,
+    "context": "机翻辅助：\n\n闭上嘴跟上来\n\n闭嘴跟我来"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そ、そういうものなのか…？",
+    "translation": "原、原来是这样的吗……？",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n是、是这样吗……？\n\n那个，是那样的东西吗……？\n\n原来是这样啊……？"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "違う！　ワガハイたちの仕事は\nもっとスマートだ！",
+    "translation": "不对！吾辈们的工作\n要更灵巧才是！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n不对！吾辈们的工作\n要更聪明！\n\n不是！吾辈们的工作\n更聪明！\n\n不是！吾辈的工作更潇洒！"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "怪盗団の本気を見せてやるから、\nワガハイたちについてこい！",
+    "translation": "吾辈要让你们见识下怪盗团的真本事，\n跟吾辈们走吧！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n怪盗团要让你们见识吾辈们的真本事，\n跟吾辈们走！\n\n让你看看怪盗团的真心话\n跟上吾辈们！\n\n让你见识一下怪盗团的真心话，\n跟着咱俩来！"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ほほーう。ちなみにクマの美学は、\n毎日３回はオヤツを食べることクマ！",
+    "translation": "哦哦～顺带一提，小熊的美学是\n每天吃三次点心喔熊熊！",
+    "stage": 1,
+    "context": "说话人：クマ\n\n机翻辅助：\n\n哦哦～顺带一提，小熊的美学是\n每天吃三次点心的熊熊！\n\n呵呵。顺便说一下，小熊的美学是\n每天吃3次玩具熊熊！\n\n呵呵。顺便说一下，小熊的美学是：\n每天吃三次点心的熊熊！"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "そういう話じゃないと思うが…？",
+    "translation": "我觉得他应该不是这个意思……？",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n我想不是在说这个吧……？\n\n我想不是那样的话……？\n\n我想不是这个意思……？"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "美学は説明するもんじゃねえ。\n感じるものだ！",
+    "translation": "美学只可意会，不可言传！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n美学是用感觉的，不是用说明的。\n\n\n美学不是用来说明的。\n是能感觉到的！\n\n美学是不能说明的。\n感觉到了！"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "とにかく、怪盗団の本気を見せてやるから、\nワガハイたちについてこい！",
+    "translation": "总之要让你们见识下怪盗团的真本事，\n跟吾辈们走吧！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n总之，怪盗团要让你们见识吾辈们的真本事，\n跟吾辈们走！\n\n总之，吾辈会让你看到怪盗团的认真，\n跟上吾辈们！\n\n总之，吾辈会让你见识一下怪盗团的真心话，\n跟吾辈来！"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "フッ…頼もしいな。",
+    "translation": "噗……真可靠呢。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n呵……真可靠。\n\n嗯……真可靠啊。\n\n噗……真靠得住。"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "ならば、ここはお前たちを模範に\n行動するとしよう。",
+    "translation": "那么，我们就以你们为模范\n展开行动吧。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n既然如此，我们就以你们为楷模\n行动吧。\n\n那么，这里就以你们为榜样行动吧。\n\n\n那么，我们就以你们为模范行动吧。"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "ああ、怪盗団の本気を見せてやるから、\nワガハイたちについてこい！",
+    "translation": "对，要让你们见识下怪盗团的真本事，\n跟吾辈们走吧！",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n对，怪盗团要让你们见识吾辈们的真本事，\n跟吾辈们走！\n\n啊，吾辈要让你看看怪盗团的真心话，\n跟上吾辈们！\n\n啊，让你见识一下怪盗团的真心话，\n跟着咱俩来！"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ふふっ。なんか私たちまで、\n怪盗団になったみたいだね！",
+    "translation": "呵呵，感觉好像连我们\n也变成怪盗团了呢！",
+    "stage": 1,
+    "context": "说话人：天城 雪子\n\n机翻辅助：\n\n呵呵，感觉我们\n好像也变成怪盗团了呢！\n\n呵呵。好像连我们都成了怪盗团了呢！\n\n\n呵呵。好像连我们都变成了怪盗团！"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "いいじゃん、それ！\n特別捜査隊、兼、怪盗団！",
+    "translation": "这不是挺好嘛！\n特别搜查队，兼怪盗团！",
+    "stage": 1,
+    "context": "说话人：里中 千枝\n\n机翻辅助：\n\n不错嘛，这个！\n特别搜查队兼怪盗团！\n\n好啊，那个！\n特别搜查队，兼，怪盗团！\n\n这不是挺好的嘛！特别搜查队，兼怪盗团！"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "追う者と追われる者…\n本来なら、交わることのない二者ですか。",
+    "translation": "追捕者与被追捕者……\n本来是不该有交集的两种人嘛。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n追捕者与被追捕者……\n原本是不会有交集的两种人吗？\n\n追赶者与被追赶者……\n本来的话，是没有交集的两个人吗？\n\n追随者和被追赶者……\n本来就是没有交集的二者吗。"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "この世界だからこそ、実現できる\n組み合わせかもしれませんね。",
+    "translation": "或许正因为是在这个世界，\n才能实现这样的组合呢。",
+    "stage": 1,
+    "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n或许\n正因为是这个世界，才能实现这样的组合呢。\n\n也许正因为是这个世界，才能实现\n组合吧。\n\n正因为是这个世界，才有可能实现\n组合。"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ではこの作戦に限り、特別課外活動部も\n怪盗団として参加させてもらおう。",
+    "translation": "那么仅限这次作战，特别课外活动部\n也以怪盗团的身份参加吧。",
+    "stage": 1,
+    "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n那么，就只有这次作战，特别课外活动部\n也以怪盗团的身份参加吧。\n\n那么，仅限于这个作战计划，特别课外活动部也作为怪盗团参加吧。\n\n\n那么，就这个作战计划而言，特别课外活动部也作为怪盗团参加吧。"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "へへ、怪盗か…",
+    "translation": "嘿嘿，怪盗吗……",
+    "stage": 0,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n嘿嘿，怪盗吗……\n\n嘿嘿，是怪盗吗……\n\n嘿嘿，怪盗啊……"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "そういうのに憧れるお年頃か。\n天田少年も、やっぱり小学生だねぇ。",
+    "translation": "正好是会憧憬这种事的年纪啊。\n天田少年果然还是个小学生呢。",
+    "stage": 1,
+    "context": "说话人：伊織 順平\n\n机翻辅助：\n\n天田少年\n果然正值向往那种事的年纪呢。\n\n是憧憬那样的年纪吗。\n天田少年果然也是小学生啊。\n\n已经到了憧憬这种事的年纪了吗？天田少年果然也是小学生啊。"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "べ、別にそんなんじゃないです！\nからかわないでください！",
+    "translation": "也、也没有那样吧！\n请不要捉弄我！",
+    "stage": 1,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n才、才不是那样呢！\n请不要捉弄我！\n\n啊，并不是那样的！\n请不要开玩笑！\n\n别、不是那样的！请不要取笑我！"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "ワン！",
+    "translation": "汪！",
+    "stage": 0,
+    "context": "说话人：コロマル\n\n机翻辅助：\n\n汪！"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "コロマルさんは『怪盗団に俺もなる』と\n張り切っています。",
+    "translation": "虎狼丸先生干劲十足地说：\n“我也要加入怪盗团。",
+    "stage": 1,
+    "context": "说话人：アイギス\n\n机翻辅助：\n\n虎狼丸小姐\n干劲十足地说：“我也要加入怪盗团。\n\n虎狼丸先生干劲十足地说“我也要成为怪盗团”。\n\n\n虎狼丸干劲十足地说：“我也要成为怪盗团。”。"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "そうだ、ひかり！\nオマエも怪盗団の一員だからな？",
+    "translation": "对了，光！\n你也是怪盗团的一员喔？",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n对了，光！\n你也是怪盗团的一员哦？\n\n对了，光！\n你也是怪盗团的一员吧？\n\n对了，光！\n因为你也是怪盗团的一员吧？"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "えっ…？\n私も、入っていいの…？",
+    "translation": "诶……？\n我也可以加入吗……？",
+    "stage": 1,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n咦……？\n我也可以加入吗……？\n\n啊……？\n我也可以进去吗……？\n\n诶……？我也可以进来吗？？"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "もちろんだよ。\nみんなで一緒に頑張ろうね。",
+    "translation": "那是当然。\n大家一起加油吧。",
+    "stage": 1,
+    "context": "说话人：奥村 春\n\n机翻辅助：\n\n当然咯。\n大家一起加油吧。\n\n当然啦。大家一起加油吧。\n\n\n当然了。大家一起加油吧。"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "うん…ありがとう！",
+    "translation": "嗯……谢谢！",
+    "stage": 0,
+    "context": "说话人：ひかり\n\n机翻辅助：\n\n嗯……谢谢！"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "あはっ、一気に大所帯になったね。\n怪盗団なのに。",
+    "translation": "啊哈，一下子变成大家族了。\n明明是怪盗团来着。",
+    "stage": 1,
+    "context": "说话人：高巻 杏\n\n机翻辅助：\n\n啊哈，一口气就变成大家族了呢。\n明明是怪盗团。\n\n啊，一下子变成大家庭了呢。\n明明是怪盗团。\n\n啊哈，一下子成了大家庭呢。明明是怪盗团。"
+  },
+  {
+    "key": "SEL_028_0",
+    "original": "面白くなってきた",
+    "translation": "越来越有趣了",
+    "stage": 0,
+    "context": "机翻辅助：\n\n越来越有趣了\n\n变得有趣起来了\n\n变得有趣了"
+  },
+  {
+    "key": "SEL_028_1",
+    "original": "まとめられるかな…",
+    "translation": "我能带领好吗……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n有办法统整吗……\n\n能总结出来吗……\n\n能总结吗……"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "わ、凄い余裕…！",
+    "translation": "哇，好从容……！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n哇，好轻松……！\n\n哇，好从容……！"
+  },
+  {
+    "key": "MSG_029_1",
+    "original": "うちのリーダーもですけど、皆さんの\nリーダーも頼もしいですね…さすがです！",
+    "translation": "我们的队长也是如此，大家的\n队长都很可靠呢……真了不起！",
+    "stage": 1,
+    "context": "说话人：山岸 風花\n\n机翻辅助：\n\n我们的队长很可靠，大家的\n队长也很可靠呢……真不愧是队长！\n\n我们的领导人也是，不过，诸位的\n领导人也可靠……不愧是！\n\n我们的领导也是，大家的领导也很可靠呢……不愧是！"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "うん、頼りになるよね！\n[P3P名]さんも、度胸あるしさ。",
+    "translation": "嗯，真可靠呢！\n[P3P名]先生也很有胆识。",
+    "stage": 1,
+    "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n嗯，真可靠！\n[P3P名]先生也很有胆识。\n\n嗯，很可靠啊！[P3P名]也很有胆量。\n\n\n嗯，很靠得住呢！[P3P名]也很有胆量。"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "確かに、これだけの個性的面々を\nまとめるのは至難の技だな。",
+    "translation": "的确，要带领这么多有个性的人，\n不得不说是件难事啊。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n的确，要\n统整这么多有个性的人，是件难事呢。\n\n确实，总结如此个性的各位是极其困难的技能。\n\n\n确实，要把这么有个性的人集合在一起是非常困难的。"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "おイナリがそれ言うか！",
+    "translation": "小狐狸有资格说吗！",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n豆皮寿司有资格说吗！\n\n小狐狸说那个吗！\n\n你说这个吗！"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "いや、お前もな！？",
+    "translation": "不是，你也半斤八两吧！？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n不对，你也是吧！？\n\n不，你也是！？"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "こんな時になんだけど…\n実は今、ちょっとワクワクしてる。",
+    "translation": "虽然说这个可能不合时宜……\n其实，我现在有点兴奋。",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n虽然现在不是说这种话的时候……\n其实我现在有点兴奋。\n\n在这种时候……其实我现在有点兴奋。\n\n\n其实现在有点兴奋。"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "ああ。その気持ち、自分も一緒だ。",
+    "translation": "是啊，我的感受也一样。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n啊啊，我也一样。我也一样。\n\n啊。那种心情，自己也一样。\n\n啊。这种心情，我也一样。"
+  },
+  {
+    "key": "MSG_035_1",
+    "original": "本来なら、出会うはずのない俺たちが、\nこうして一つの場所に集まっている。",
+    "translation": "原本不可能相识的我们\n像现在这样聚集在同一个地方。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n本来不可能相遇的我们\n现在像这样聚集在同一个地方。\n\n本来，不可能相遇的我们，就这样聚集在同一个地方。\n\n\n本来不可能相遇的我们，就这样聚集在一个地方。"
+  },
+  {
+    "key": "MSG_035_2",
+    "original": "今、この場所で、俺たちにしか出来ない…\nいや、俺たちだから出来ることがあるんだ。",
+    "translation": "此时此刻，这里有只有我们才做得到……\n不，应该说，正因为是我们才能做到的事。",
+    "stage": 1,
+    "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n现在，在这个地方，有只有我们才做得到的……\n不对，应该说有只有我们才能做到的事。\n\n现在，在这个地方，只有我们才能做到……\n不，因为是我们所以有能做的事。\n\n现在，在这个地方，只有我们能做……不，因为有我们能做的事。"
+  },
+  {
+    "key": "MSG_036_0",
+    "original": "そうだよ。私たちが出会った意味は、\nきっとあるはず！",
+    "translation": "没错。我们会在此相识，\n一定是有意义的！",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n没错。我们相遇的意义\n一定存在！\n\n是啊。我们相遇的意义一定存在！\n\n\n是啊。我们相遇的意义，一定有！"
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "では、新たなメンバーを迎えた\n新・怪盗団の発足だ！　さっそく作戦を…",
+    "translation": "那么，迎来新成员加入的\n新·怪盗团成立了！立刻开始作战吧……",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n那么，欢迎新成员加入\n新·怪盗团成立！立刻开始作战……\n\n那么，迎接了新的成员\n新·怪盗团的成立！马上作战……\n\n那么，迎接了新成员的\n新·怪盗团的成立！马上开始作战……"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "あーっ、忘れてたっ！　予告状！！",
+    "translation": "啊，全忘了！预告信！！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n啊，我忘了！预告信！！\n\n啊，忘了！预告片！！\n\n啊，忘了！预告信！！"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "は、予告状？",
+    "translation": "啥，预告信？",
+    "stage": 1,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n啊，预告信？\n\n预告片？\n\n是、预告信？"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "アレがねーと始まんないだろ！\n祐介！　頼めるか？",
+    "translation": "没有预告信怎么开始啊！\n佑介！可以拜托你吗？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n没有那个怎么开始啊！\n佑介！可以拜托你吗？\n\n没有那个的话就不会开始了吧！\n佑介！能拜托你吗？\n\n那怎么可能开始呢！\n佑介！能拜托你吗？"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "ここはパレスじゃないのよ？\n予告状を出したって…",
+    "translation": "这里可不是宫殿哦？\n就算发出预告信……",
+    "stage": 1,
+    "context": "说话人：新島 真\n\n机翻辅助：\n\n这里可不是宫殿哦？\n寄预告信什么的……\n\n这里不是宫殿吗？\n说发出了预告信……\n\n这里不是宫殿吗？\n即使发出预告书……"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "怪盗団に、予告状は必須だと思う！\n出そ、出そ！",
+    "translation": "我觉得当怪盗团肯定要有预告信！\n发一个，发一个！",
+    "stage": 1,
+    "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n我觉得对怪盗团来说，预告信是必要的！\n寄吧，寄吧！\n\n我想对怪盗团，预告信是必须的！\n出、出！\n\n我觉得对怪盗团来说，预告信是必须的！\n拿出来，拿出来！"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "ぼ、僕も、皆さんの士気が上がるなら、\nやっていいんじゃないかと思います。",
+    "translation": "我、我也觉得，如果能提升大家的士气……\n还是做一个比较好。",
+    "stage": 1,
+    "context": "说话人：天田 乾\n\n机翻辅助：\n\n我、我也觉得，如果能提升大家的士气……\n我觉得可以寄。\n\n我、我也想，如果能提高大家的士气的话，\n做也可以吧。\n\n我想，如果大家的士气高涨的话，我也可以做。"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "ふっ、様式美というやつか…\n分かった、用意しておこう。",
+    "translation": "呵，这就是所谓的形式美吗……\n知道了，我会准备的。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n呵，这就是所谓的形式美吗……\n知道了，吾辈会准备的。\n\n呵呵，是样式美吗……\n知道了，准备好吧。\n\n哼，这是所谓的样式美吗……知道了，准备一下吧。"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "そんじゃ、いつもの掛け声は頼んだぜ！\n[P5名]！",
+    "translation": "那么，就麻烦你喊出平时那句台词吧！\n[P5名]！",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n那么，麻烦你喊出那句老话吧！\n[P5名]！\n\n那么，平时的吆喝声就拜托你了！\n[P5名]！\n\n那我就喊平时的口号了！\n[P5名]！"
+  },
+  {
+    "key": "SEL_046_0",
+    "original": "ショータイムだ！",
+    "translation": "Show Time！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n表演时间到啦！\n\n是表演时间！\n\n表演时间到了！"
+  },
+  {
+    "key": "SEL_046_1",
+    "original": "エンリルの映画を頂戴する！",
+    "translation": "恩利尔的电影，我们收下了！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n恩力尔的电影到手啦！\n\n请给我恩里尔的电影！\n\n我要恩里克的电影！"
+  },
+  {
+    "key": "SEL_046_2",
+    "original": "急に振られても…",
+    "translation": "就算你突然叫我说……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n就算突然被点名……\n\n即使突然被甩了……\n\n突然被甩也……"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "ええー…\nおまっ、ここでそう来るか！？",
+    "translation": "诶……\n你这家伙，这时候整这出吗！？",
+    "stage": 1,
+    "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n咦咦……\n你这家伙，这时候来这招吗！？\n\n嗯……\n哎哟，在这里这么来啊！？\n\n喂，你是在这里来吗！？"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "やれやれ、仕方ねーな。\nワガハイが仕切り直してやる。",
+    "translation": "哎呀呀，真没办法。\n吾辈来重新主持吧。",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n哎呀呀，真没办法。\n吾辈来重新主持吧。\n\n哎呀，没办法啊。\n由吾辈来重新安排。\n\n哎呀，没办法啊。吾辈来帮你重新整理一下。"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "大怪盗団、作戦を開始する！",
+    "translation": "大怪盗团，作战开始！",
+    "stage": 0,
+    "context": "说话人：モルガナ\n\n机翻辅助：\n\n大怪盗团，作战开始！\n\n大怪盗团，开始作战！\n\n大怪盗团开始作战！"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）高巻 杏\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）坂本 竜司\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）喜多川 祐介\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）新島 真\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）モルガナ\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）奥村 春\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）佐倉 双葉\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）明智 吾郎\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）Ｐ４主人公\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）里中 千枝\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）天城 雪子\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_061_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）花村 陽介\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_062_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）巽 完二\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_063_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）白鐘 直斗\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_064_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）久慈川 りせ\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_065_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）クマ\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_066_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）岳羽 ゆかり\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_067_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）伊織 順平\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_068_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）山岸 風花\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_069_0",
+    "original": "おうっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）真田 明彦\n\n机翻辅助：\n\n哦！"
+  },
+  {
+    "key": "MSG_070_0",
+    "original": "おぅ…",
+    "translation": "哦……",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）荒垣 真次郎\n\n机翻辅助：\n\n哦……"
+  },
+  {
+    "key": "MSG_071_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）桐条 美鶴\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_072_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）天田 乾\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_073_0",
+    "original": "ワオーン！",
+    "translation": "汪！",
+    "stage": 1,
+    "context": "说话人：（ＳＥ）コロマル\n\n机翻辅助：\n\n哇噢！\n\n哇哦！"
+  },
+  {
+    "key": "MSG_074_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）アイギス\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_075_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）Ｐ３主人公\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_076_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）Ｐ３主人公（女）\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "MSG_077_0",
+    "original": "おーっ！",
+    "translation": "哦！",
+    "stage": 0,
+    "context": "说话人：（ＳＥ）ひかり\n\n机翻辅助：\n\n哦！\n\n喂！\n\n噢！"
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊织 顺平",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "小熊",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鹤",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白钟 直斗",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_天田 乾",
+    "original": "天田 乾",
+    "translation": "天田 乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_コロマル",
+    "original": "コロマル",
+    "translation": "虎狼丸",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "埃癸斯",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "光",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ３主人公",
+    "original": "Ｐ３主人公",
+    "translation": "Ｐ３主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）高巻 杏",
+    "original": "（ＳＥ）高巻 杏",
+    "translation": "（ＳＥ）高卷 杏",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）坂本 竜司",
+    "original": "（ＳＥ）坂本 竜司",
+    "translation": "（ＳＥ）坂本 龙司",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）喜多川 祐介",
+    "original": "（ＳＥ）喜多川 祐介",
+    "translation": "（ＳＥ）喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）新島 真",
+    "original": "（ＳＥ）新島 真",
+    "translation": "（ＳＥ）新岛 真",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）モルガナ",
+    "original": "（ＳＥ）モルガナ",
+    "translation": "（ＳＥ）摩尔加纳",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）奥村 春",
+    "original": "（ＳＥ）奥村 春",
+    "translation": "（ＳＥ）奥村 春",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）佐倉 双葉",
+    "original": "（ＳＥ）佐倉 双葉",
+    "translation": "（ＳＥ）佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）明智 吾郎",
+    "original": "（ＳＥ）明智 吾郎",
+    "translation": "（ＳＥ）明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）Ｐ４主人公",
+    "original": "（ＳＥ）Ｐ４主人公",
+    "translation": "（ＳＥ）Ｐ４主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）里中 千枝",
+    "original": "（ＳＥ）里中 千枝",
+    "translation": "（ＳＥ）里中 千枝",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）天城 雪子",
+    "original": "（ＳＥ）天城 雪子",
+    "translation": "（ＳＥ）天城 雪子",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）花村 陽介",
+    "original": "（ＳＥ）花村 陽介",
+    "translation": "（ＳＥ）花村 阳介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）巽 完二",
+    "original": "（ＳＥ）巽 完二",
+    "translation": "（ＳＥ）巽 完二",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）白鐘 直斗",
+    "original": "（ＳＥ）白鐘 直斗",
+    "translation": "（ＳＥ）白钟 直斗",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）久慈川 りせ",
+    "original": "（ＳＥ）久慈川 りせ",
+    "translation": "（ＳＥ）久慈川 理世",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）クマ",
+    "original": "（ＳＥ）クマ",
+    "translation": "（ＳＥ）小熊",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）岳羽 ゆかり",
+    "original": "（ＳＥ）岳羽 ゆかり",
+    "translation": "（ＳＥ）岳羽 由加莉",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）伊織 順平",
+    "original": "（ＳＥ）伊織 順平",
+    "translation": "（ＳＥ）伊织 顺平",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）山岸 風花",
+    "original": "（ＳＥ）山岸 風花",
+    "translation": "（ＳＥ）山岸 风花",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）真田 明彦",
+    "original": "（ＳＥ）真田 明彦",
+    "translation": "（ＳＥ）真田 明彦",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）荒垣 真次郎",
+    "original": "（ＳＥ）荒垣 真次郎",
+    "translation": "（ＳＥ）荒垣 真次郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）桐条 美鶴",
+    "original": "（ＳＥ）桐条 美鶴",
+    "translation": "（ＳＥ）桐条 美鹤",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）天田 乾",
+    "original": "（ＳＥ）天田 乾",
+    "translation": "（ＳＥ）天田 乾",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）コロマル",
+    "original": "（ＳＥ）コロマル",
+    "translation": "（ＳＥ）虎狼丸",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）アイギス",
+    "original": "（ＳＥ）アイギス",
+    "translation": "（ＳＥ）埃癸斯",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）Ｐ３主人公",
+    "original": "（ＳＥ）Ｐ３主人公",
+    "translation": "（ＳＥ）Ｐ３主人公",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）Ｐ３主人公（女）",
+    "original": "（ＳＥ）Ｐ３主人公（女）",
+    "translation": "（ＳＥ）Ｐ３主人公（女）",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_（ＳＥ）ひかり",
+    "original": "（ＳＥ）ひかり",
+    "translation": "（SE）光芒",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）光芒\n\n（SE）光"
+  }
+]

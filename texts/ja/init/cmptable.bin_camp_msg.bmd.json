@@ -1,0 +1,226 @@
+[
+  {
+    "key": "system_yes_no_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_yes_no_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_card_drop_0",
+    "original": "このペルソナを消滅させます。\n宜しいですか？",
+    "translation": "このペルソナを消滅させます。\n宜しいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_card_drop_ng_0",
+    "original": "装備中のペルソナは消滅出来ません。",
+    "translation": "装備中のペルソナは消滅出来ません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_card_set_0",
+    "original": "このペルソナを装備しますか？",
+    "translation": "このペルソナを装備しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_config_title_0",
+    "original": "セーブしていないデータは\n消えてしまいますが、\nタイトル画面に戻って宜しいですか？",
+    "translation": "セーブしていないデータは\n消えてしまいますが、\nタイトル画面に戻って宜しいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_quest_offer_0",
+    "original": "＞クエスト[占位A 02]“[颜色 02][占位A 01][颜色 01]”の\n　依頼を受けた。",
+    "translation": "＞クエスト[占位A 02]“[颜色 02][占位A 01][颜色 01]”の\n　依頼を受けた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_quest_end_0",
+    "original": "＞クエスト[占位A 02]“[颜色 02][占位A 01][颜色 01]”の\n　依頼を達成した。",
+    "translation": "＞クエスト[占位A 02]“[颜色 02][占位A 01][颜色 01]”の\n　依頼を達成した。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_quest_first_0",
+    "original": "依頼されたクエストは\nメニュー画面の“Ｑｕｅｓｔ”で確認できます。",
+    "translation": "依頼されたクエストは\nメニュー画面の“Ｑｕｅｓｔ”で確認できます。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_skillcard_al_0",
+    "original": "＞[颜色 02][占位A 01][颜色 01]は、\n　既に覚えている。",
+    "translation": "＞[颜色 02][占位A 01][颜色 01]は、\n　既に覚えている。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_skillcard_ch_0",
+    "original": "＞[颜色 02][占位A 01][颜色 01]を覚えさせますか？",
+    "translation": "＞[颜色 02][占位A 01][颜色 01]を覚えさせますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_skillcard_en_0",
+    "original": "＞[颜色 02][占位A 02][颜色 01]は\n　[颜色 02][占位A 01][颜色 01]を覚えた！",
+    "translation": "＞[颜色 02][占位A 02][颜色 01]は\n　[颜色 02][占位A 01][颜色 01]を覚えた！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_skillcard_rm_0",
+    "original": "＞スキルが一杯です。\n　捨てるスキルを選んでください。",
+    "translation": "＞スキルが一杯です。\n　捨てるスキルを選んでください。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_skillcard_rm_2_0",
+    "original": "＞“[颜色 02][占位A 01][颜色 01]”を捨てますか？",
+    "translation": "＞“[颜色 02][占位A 01][颜色 01]”を捨てますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_skillcard_ch_2_0",
+    "original": "＞“[颜色 02][占位A 01][颜色 01]”は\n　“[颜色 02][占位A 02][颜色 01]”を覚えた。",
+    "translation": "＞“[颜色 02][占位A 01][颜色 01]”は\n　“[颜色 02][占位A 02][颜色 01]”を覚えた。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_equip_change_0",
+    "original": "＞このペルソナは既に装備している。",
+    "translation": "＞このペルソナは既に装備している。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_book_read_0",
+    "original": "＞[占位B 01]を読みますか？",
+    "translation": "＞[占位B 01]を読みますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_config_cancel_0",
+    "original": "設定を変更しないで戻ります。\n宜しいですか？",
+    "translation": "設定を変更しないで戻ります。\n宜しいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_quest_pictur_0",
+    "original": "何か依頼のある人は、頭上にアイコンが表示されます。\n依頼を受けると色が変わります。\n見つけたら、積極的に話かけてみましょう。",
+    "translation": "何か依頼のある人は、頭上にアイコンが表示されます。\n依頼を受けると色が変わります。\n見つけたら、積極的に話かけてみましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_equip_swap_0",
+    "original": "＞このペルソナは、\n　[颜色 01][占位A 01][颜色 01]が装備しています。\n　外して装備しますか？",
+    "translation": "＞このペルソナは、\n　[颜色 01][占位A 01][颜色 01]が装備しています。\n　外して装備しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_item_check1_0",
+    "original": "＞[颜色 01][占位A 01][颜色 01]を使用して\n　この迷宮から脱出しますか？",
+    "translation": "＞[颜色 01][占位A 01][颜色 01]を使用して\n　この迷宮から脱出しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_item_check2_0",
+    "original": "＞[颜色 01][占位A 01][颜色 01]を使用して\n　この階の入り口まで戻りますか？",
+    "translation": "＞[颜色 01][占位A 01][颜色 01]を使用して\n　この階の入り口まで戻りますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_suspend_chec_0",
+    "original": "中断セーブをして\nタイトル画面に戻ります。\n宜しいですか？",
+    "translation": "中断セーブをして\nタイトル画面に戻ります。\n宜しいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_difficult_sa_0",
+    "original": "『ＳＡＦＥＴＹ』は、安心して物語を\n楽しみたい方向けのモードです。\n戦闘の難易度が最も低く、全滅しても\nその場ですぐ復活できます。\n難易度は後からでも変更が可能です。",
+    "translation": "『ＳＡＦＥＴＹ』は、安心して物語を\n楽しみたい方向けのモードです。\n戦闘の難易度が最も低く、全滅しても\nその場ですぐ復活できます。\n難易度は後からでも変更が可能です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_difficult_ea_0",
+    "original": "『ＥＡＳＹ』は、戦闘の難易度が低めに\n設定された、気軽にプレイを楽しみたい\n方に適したモードです。\n　\n難易度は後からでも変更が可能です。",
+    "translation": "『ＥＡＳＹ』は、戦闘の難易度が低めに\n設定された、気軽にプレイを楽しみたい\n方に適したモードです。\n　\n難易度は後からでも変更が可能です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_difficult_no_0",
+    "original": "『ＮＯＲＭＡＬ』は、適度な緊張感ある\n戦闘を楽しめる、戦闘の攻略も存分に\n味わいたい方にオススメのモードです。\n　\n難易度は後からでも変更が可能です。",
+    "translation": "『ＮＯＲＭＡＬ』は、適度な緊張感ある\n戦闘を楽しめる、戦闘の攻略も存分に\n味わいたい方にオススメのモードです。\n　\n難易度は後からでも変更が可能です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_difficult_ha_0",
+    "original": "『ＨＡＲＤ』は、より難易度の高い戦闘で\nシビアな駆け引きを楽しむことができる\n上級者向けのモードです。\n　\n難易度は後からでも変更が可能です。",
+    "translation": "『ＨＡＲＤ』は、より難易度の高い戦闘で\nシビアな駆け引きを楽しむことができる\n上級者向けのモードです。\n　\n難易度は後からでも変更が可能です。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_difficult_ri_0",
+    "original": "『ＲＩＳＫＹ』は、死と隣り合わせの\n超上級者向けのモードです。主人公を\n戦闘から外せず、主人公が死亡すると、\nその時点でゲームオーバーとなります。\n[颜色 03]後からの難易度変更はできません[颜色 01]。",
+    "translation": "『ＲＩＳＫＹ』は、死と隣り合わせの\n超上級者向けのモードです。主人公を\n戦闘から外せず、主人公が死亡すると、\nその時点でゲームオーバーとなります。\n[颜色 03]後からの難易度変更はできません[颜色 01]。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "eqp_bag_max_err_0",
+    "original": "外した装備を持ち切れないため、\n装備を外せません。",
+    "translation": "外した装備を持ち切れないため、\n装備を外せません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_persona_equi_0",
+    "original": "すでに装備しています。",
+    "translation": "すでに装備しています。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_item_drop_ng_0",
+    "original": "お気に入りなので捨てられません。",
+    "translation": "お気に入りなので捨てられません。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "system_camp_item_dlc_dis_0",
+    "original": "捨てられないＤＬＣアイテムです。",
+    "translation": "捨てられないＤＬＣアイテムです。",
+    "stage": 1,
+    "context": ""
+  }
+]

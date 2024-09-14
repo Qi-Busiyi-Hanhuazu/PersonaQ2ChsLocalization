@@ -1,0 +1,149 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あら、これは…？\nなにやら不思議な力を感じるわ。",
+    "translation": "あら、これは…？\nなにやら不思議な力を感じるわ。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "えっ？\nあ、もしかしてあの光るカードかな？",
+    "translation": "えっ？\nあ、もしかしてあの光るカードかな？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "これは、ペルソナの…",
+    "translation": "これは、ペルソナの…",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "シャドウが落としたんですけど、\n何だか分かりますか？",
+    "translation": "シャドウが落としたんですけど、\n何だか分かりますか？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "フィルム以外の形を現すなんて…\nフフ、興味深いわね。",
+    "translation": "フィルム以外の形を現すなんて…\nフフ、興味深いわね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "少し待って頂けるかしら？",
+    "translation": "少し待って頂けるかしら？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "お待たせいたしました。",
+    "translation": "お待たせいたしました。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "このカード、どうやらペルソナの力を\n写すことができるモノのようね。",
+    "translation": "このカード、どうやらペルソナの力を\n写すことができるモノのようね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "力を…写す？",
+    "translation": "力を…写す？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ええ。ペルソナの力を一つ取り出せる、\nと言ったら伝わるかしら？",
+    "translation": "ええ。ペルソナの力を一つ取り出せる、\nと言ったら伝わるかしら？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "…けれど、力が不安定なせいかしら。\n写しておけるのは、ほんの一瞬のようね。",
+    "translation": "…けれど、力が不安定なせいかしら。\n写しておけるのは、ほんの一瞬のようね。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "一瞬だけ？\nそれじゃ、あんまり意味ないじゃん！",
+    "translation": "一瞬だけ？\nそれじゃ、あんまり意味ないじゃん！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "いえ、イケニエ合体の儀式で使用すれば\nペルソナの力を写せるかと。",
+    "translation": "いえ、イケニエ合体の儀式で使用すれば\nペルソナの力を写せるかと。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "なるほど。\n上手く使えば便利そうですね。",
+    "translation": "なるほど。\n上手く使えば便利そうですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "ええ、とっても面白いわ。\n是非とも試してみては？",
+    "translation": "ええ、とっても面白いわ。\n是非とも試してみては？",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "すぐ使えるよう、準備は出来ているわ。\n試したくなったら、ここへいらっしゃい。",
+    "translation": "すぐ使えるよう、準備は出来ているわ。\n試したくなったら、ここへいらっしゃい。",
+    "stage": 1,
+    "context": "マーガレット"
+  },
+  {
+    "key": "speaker_マーガレット",
+    "original": "マーガレット",
+    "translation": "マーガレット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

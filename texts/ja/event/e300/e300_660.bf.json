@@ -1,0 +1,415 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おい、何があったんだ！？",
+    "translation": "おい、何があったんだ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "皆さま…！\nひかりさんが…ドーにさらわれて…！",
+    "translation": "皆さま…！\nひかりさんが…ドーにさらわれて…！",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ひかりがさらわれた！？\nど、どういうことだ！",
+    "translation": "ひかりがさらわれた！？\nど、どういうことだ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ひかりちゃん、私たちと一緒に\nここでエンディングを見届けていたんです。",
+    "translation": "ひかりちゃん、私たちと一緒に\nここでエンディングを見届けていたんです。",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "そしたらドーが来て、\n３つ目の鍵を出したの。",
+    "translation": "そしたらドーが来て、\n３つ目の鍵を出したの。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "風花ちゃんがそれを拾って、\n私は先輩たちに連絡入れようとしてて。",
+    "translation": "風花ちゃんがそれを拾って、\n私は先輩たちに連絡入れようとしてて。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "ほんのちょっと目を離した隙に、\nドーがひかりちゃんを…",
+    "translation": "ほんのちょっと目を離した隙に、\nドーがひかりちゃんを…",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "くっそ…あのボヨンボヨン野郎！！",
+    "translation": "くっそ…あのボヨンボヨン野郎！！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "申し訳ございません。\n私が、ほんの少し席をはずした隙に…",
+    "translation": "申し訳ございません。\n私が、ほんの少し席をはずした隙に…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "話を聞いてすぐに探したのですけれど、\nどこにも見当たらなくて…",
+    "translation": "話を聞いてすぐに探したのですけれど、\nどこにも見当たらなくて…",
+    "stage": 1,
+    "context": "ナギ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "まさか、ドーがそんな行動に出るとは…\n僕たちも油断していましたね。",
+    "translation": "まさか、ドーがそんな行動に出るとは…\n僕たちも油断していましたね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "そもそも、ドーの正体も\nずっと謎のままでしたし…",
+    "translation": "そもそも、ドーの正体も\nずっと謎のままでしたし…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "敵に違いない",
+    "translation": "敵に違いない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "ひかりのストーカーだ",
+    "translation": "ひかりのストーカーだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_2",
+    "original": "お茶目なマスコットだ",
+    "translation": "お茶目なマスコットだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "ひかりさんがさらわれたとなると、\nその線も出てきたね。",
+    "translation": "ひかりさんがさらわれたとなると、\nその線も出てきたね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_010_1",
+    "original": "でも、こちらに危害を加える様子が\n今までなかったのが引っ掛かるな。",
+    "translation": "でも、こちらに危害を加える様子が\n今までなかったのが引っ掛かるな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "…思い返してみれば、ひかりちゃんのこと\nいつもじーっと見てたよね。",
+    "translation": "…思い返してみれば、ひかりちゃんのこと\nいつもじーっと見てたよね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "ああいう視線、普通じゃないし…",
+    "translation": "ああいう視線、普通じゃないし…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "確かに、執着してる気配はあったね。",
+    "translation": "確かに、執着してる気配はあったね。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "ぷりちーなマスコットは、\nクマみたいな紳士じゃないとあかんクマ！",
+    "translation": "ぷりちーなマスコットは、\nクマみたいな紳士じゃないとあかんクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "ヒカリンをさらうなんて時点で、\nマスコット失格ですし！！",
+    "translation": "ヒカリンをさらうなんて時点で、\nマスコット失格ですし！！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "…わ、たし。\nわたし、頑張ったの、に…",
+    "translation": "…わ、たし。\nわたし、頑張ったの、に…",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "な、なんで…！\nせっかく映画だってちゃんとなって…！",
+    "translation": "な、なんで…！\nせっかく映画だってちゃんとなって…！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "佐倉さん…",
+    "translation": "佐倉さん…",
+    "stage": 1,
+    "context": "アイギス"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "ひかりに、ちゃんとした映画、\n見せられたはずなのに…！",
+    "translation": "ひかりに、ちゃんとした映画、\n見せられたはずなのに…！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "個性は、悪いものじゃないって…\nむしろ、良いものなんだって…！",
+    "translation": "個性は、悪いものじゃないって…\nむしろ、良いものなんだって…！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "…双葉。気持ちは分かるが、\n少し落ち着いた方がいい。",
+    "translation": "…双葉。気持ちは分かるが、\n少し落ち着いた方がいい。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "俺もそう思う。\n悔しいが、今は冷静になろう。",
+    "translation": "俺もそう思う。\n悔しいが、今は冷静になろう。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "あの…これ、渡しておくね。",
+    "translation": "あの…これ、渡しておくね。",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "…３つめの扉の鍵か。\n脱出ルートの確保に向かおう。",
+    "translation": "…３つめの扉の鍵か。\n脱出ルートの確保に向かおう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "でも、ひかりの事だって\n放っておけねーだろーが！",
+    "translation": "でも、ひかりの事だって\n放っておけねーだろーが！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "これだけ人数がいるんだ。\n役割を分担したらどうかな。",
+    "translation": "これだけ人数がいるんだ。\n役割を分担したらどうかな。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "…そうだな。\nみんなでぞろぞろ動いても仕方ねぇ。",
+    "translation": "…そうだな。\nみんなでぞろぞろ動いても仕方ねぇ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "なら、あたしたちは\nひかりちゃんを探してくる！",
+    "translation": "なら、あたしたちは\nひかりちゃんを探してくる！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "[P5姓]くんたちは、\n鍵を開けてきてもらっていい？",
+    "translation": "[P5姓]くんたちは、\n鍵を開けてきてもらっていい？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "SEL_025_0",
+    "original": "わかった",
+    "translation": "わかった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_025_1",
+    "original": "気が乗らない…",
+    "translation": "気が乗らない…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "こら、駄々こねない！",
+    "translation": "こら、駄々こねない！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "じゃあ、こっちも捜索に向かう。\n鍵は頼んだぞ。",
+    "translation": "じゃあ、こっちも捜索に向かう。\n鍵は頼んだぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "それぞれ、手分けをして行こう。\nまた後で。",
+    "translation": "それぞれ、手分けをして行こう。\nまた後で。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "[P5名]、\nワガハイたちは鍵を見に行くぞ。",
+    "translation": "[P5名]、\nワガハイたちは鍵を見に行くぞ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ナギ",
+    "original": "ナギ",
+    "translation": "ナギ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_アイギス",
+    "original": "アイギス",
+    "translation": "アイギス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  }
+]

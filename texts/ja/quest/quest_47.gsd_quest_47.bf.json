@@ -1,0 +1,23 @@
+[
+  {
+    "key": "MSG_CANCEL_0",
+    "original": "[颜色 03]『[占位A 01]』[颜色 01]を\n破棄いたします。",
+    "translation": "[颜色 03]『[占位A 01]』[颜色 01]を\n破棄いたします。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_VETVET_INFO_0",
+    "original": "『話をする』から\n『煤けたフィルム』について尋ねてみましょう。",
+    "translation": "『話をする』から\n『煤けたフィルム』について尋ねてみましょう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  }
+]

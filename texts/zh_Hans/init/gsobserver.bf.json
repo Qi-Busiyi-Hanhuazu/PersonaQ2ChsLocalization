@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_NONE_0",
+    "original": "TEST NONE",
+    "translation": "TEST NONE",
+    "stage": 0,
+    "context": "机翻辅助：\n\nTEST NONE\n\ntest none\n\n评论：\n\n感觉应该保留原文"
+  },
+  {
+    "key": "MSG_NEWGAME_0",
+    "original": "TEST NEWGAME",
+    "translation": "TEST NEWGAME",
+    "stage": 0,
+    "context": "机翻辅助：\n\nTEST NEWGAME\n\ntest newgame\n\n评论：\n\n感觉应该保留原文"
+  },
+  {
+    "key": "MSG_CONTINUE_0",
+    "original": "＞セーブデータをロードしました。",
+    "translation": "＞已读取存档记录。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞已读取存档。\n\n＞加载了保存数据。\n\n＞已加载保存数据。"
+  },
+  {
+    "key": "MSG_GAMEOVER_0",
+    "original": "TEST GAMEOVER",
+    "translation": "TEST GAME OVER",
+    "stage": 0,
+    "context": "机翻辅助：\n\nTEST GAME OVER\n\nTEST GAMEOVER\n\ntest撞击\n\n评论：\n\n感觉应该保留原文"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MSG_kobito_first_look_0",
+    "original": "＞小人を初めて見るイベント",
+    "translation": "＞首次看见小人的事件。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞第一次看见小矮人的事件。\n\n＞第一次见到小矮人的活动\n\n＞第一次看到小人的活动"
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "好像有什么埋在里面……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好像有什么埋在里面……\n\n好像埋了什么……\n\n好像埋着什么……"
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "好像有什么埋在里面，\n但背包已经装满了……",
+    "stage": 1,
+    "context": "机翻辅助：\n\n好像有什么埋在里面，\n背包里已经装满了……\n\n好像有什么东西被填满了，\n包里满满的……\n\n好像有什么东西被埋了……"
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理一下再来吧……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n整理一下再来吧……\n\n整理之后再来吧……"
+  }
+]

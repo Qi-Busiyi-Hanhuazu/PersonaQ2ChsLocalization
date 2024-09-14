@@ -1,0 +1,324 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おい！　あれを見ろ！",
+    "translation": "おい！　あれを見ろ！",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "え？　なになに？",
+    "translation": "え？　なになに？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "技術的なえらーヲ確認。",
+    "translation": "技術的なえらーヲ確認。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "えらーヲ持ツものハ排除。",
+    "translation": "えらーヲ持ツものハ排除。",
+    "stage": 1,
+    "context": "量産型ロボＡ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "コチラ二来ルノダ。\nオマエのＡＩを初期化スル。",
+    "translation": "コチラ二来ルノダ。\nオマエのＡＩを初期化スル。",
+    "stage": 1,
+    "context": "量産型ロボＢ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "了解デアリマス。",
+    "translation": "了解デアリマス。",
+    "stage": 1,
+    "context": "リボンを付けたロボット"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "あれ、予告に出てたロボットか！？",
+    "translation": "あれ、予告に出てたロボットか！？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ほんと…アイギスに似てる…",
+    "translation": "ほんと…アイギスに似てる…",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "あの、それよりもあの子…\nこのままだとＡＩを初期化されるって…！",
+    "translation": "あの、それよりもあの子…\nこのままだとＡＩを初期化されるって…！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "SEL_009_0",
+    "original": "助けるぞ",
+    "translation": "助けるぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_009_1",
+    "original": "様子を見よう",
+    "translation": "様子を見よう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "おう！　ほっとけねえし！",
+    "translation": "おう！　ほっとけねえし！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "待て。慎重にいこう。",
+    "translation": "待て。慎重にいこう。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "向こうは僕たちに気付いていないようだ。\nここは様子を見ながら…",
+    "translation": "向こうは僕たちに気付いていないようだ。\nここは様子を見ながら…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そうだね。幸いにも、向こうは\n僕たちに気付いていないみたいだし…",
+    "translation": "そうだね。幸いにも、向こうは\n僕たちに気付いていないみたいだし…",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "いや、好機だ。\n今なら奇襲できるぞ。",
+    "translation": "いや、好機だ。\n今なら奇襲できるぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "ただブン殴りてぇだけだろ。\n闇雲に突っ込むな。",
+    "translation": "ただブン殴りてぇだけだろ。\n闇雲に突っ込むな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "なにっ…！？",
+    "translation": "なにっ…！？",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "お前たち、こんな時にやめないか！",
+    "translation": "お前たち、こんな時にやめないか！",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "じゃあ、競いましょう！\n先輩たち、あのロボどれぐらいで倒せます？",
+    "translation": "じゃあ、競いましょう！\n先輩たち、あのロボどれぐらいで倒せます？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "３分もかからんな。",
+    "translation": "３分もかからんな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "俺は１分だ。",
+    "translation": "俺は１分だ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "なら俺は３０秒でやってやる！",
+    "translation": "なら俺は３０秒でやってやる！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ハッ、大口叩いて後悔すんなよ！？",
+    "translation": "ハッ、大口叩いて後悔すんなよ！？",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "待てっ、シンジ！\n抜け駆けは許さん！",
+    "translation": "待てっ、シンジ！\n抜け駆けは許さん！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "すげぇ…扱い馴れてんなー。",
+    "translation": "すげぇ…扱い馴れてんなー。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "えへへ、まあね！\nよくあるし、対処方法はバッチリ！",
+    "translation": "えへへ、まあね！\nよくあるし、対処方法はバッチリ！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "まったく…そちらの世界でも、\nあいつらは同じことをしているのか。",
+    "translation": "まったく…そちらの世界でも、\nあいつらは同じことをしているのか。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_025_1",
+    "original": "まぁいい。\nとにかく、君のおかげで助かった。",
+    "translation": "まぁいい。\nとにかく、君のおかげで助かった。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "私たちも遅れを取れないわ。\n加勢しましょう！",
+    "translation": "私たちも遅れを取れないわ。\n加勢しましょう！",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_リボンを付けたロボット",
+    "original": "リボンを付けたロボット",
+    "translation": "リボンを付けたロボット",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_量産型ロボＡ",
+    "original": "量産型ロボＡ",
+    "translation": "量産型ロボＡ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_量産型ロボＢ",
+    "original": "量産型ロボＢ",
+    "translation": "量産型ロボＢ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  }
+]

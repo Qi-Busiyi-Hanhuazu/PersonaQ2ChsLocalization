@@ -1,0 +1,177 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "なんだ…これは…",
+    "translation": "なんだ…これは…",
+    "stage": 1,
+    "context": "けだるげな中年男性の声"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "映画が変わった…",
+    "translation": "映画が変わった…",
+    "stage": 1,
+    "context": "もの憂げな若い女性の声"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "すごい…",
+    "translation": "すごい…",
+    "stage": 1,
+    "context": "疲れ果てた女子生徒の声"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "これは…ひかりさんの映画？\nどうして…",
+    "translation": "これは…ひかりさんの映画？\nどうして…",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "悪いが、映写機のフィルムは\n全て替えさせてもらったぞ。",
+    "translation": "悪いが、映写機のフィルムは\n全て替えさせてもらったぞ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いつの間に、こんなことを…\n驚いたわ。",
+    "translation": "いつの間に、こんなことを…\n驚いたわ。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "いい加減、観念するクマよ！",
+    "translation": "いい加減、観念するクマよ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "アナタの企みは、もう終わり！\nみんなを解放してみせる！",
+    "translation": "アナタの企みは、もう終わり！\nみんなを解放してみせる！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "フフフ…おかしなことを仰らないで。\nご覧になってくださいな。",
+    "translation": "フフフ…おかしなことを仰らないで。\nご覧になってくださいな。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "こんなことをしても、誰一人として\n映画館から出て来ませんよ。",
+    "translation": "こんなことをしても、誰一人として\n映画館から出て来ませんよ。",
+    "stage": 1,
+    "context": "エンリル"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "で、でも…やっぱり…",
+    "translation": "で、でも…やっぱり…",
+    "stage": 1,
+    "context": "面倒そうな中年女性の声"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "出るのは、まだ怖い…",
+    "translation": "出るのは、まだ怖い…",
+    "stage": 1,
+    "context": "目の死んだ男子生徒の声"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "傷つくのは、もう嫌だ…",
+    "translation": "傷つくのは、もう嫌だ…",
+    "stage": 1,
+    "context": "ダルそうな青年男性の声"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "そんな…",
+    "translation": "そんな…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "speaker_けだるげな中年男性の声",
+    "original": "けだるげな中年男性の声",
+    "translation": "けだるげな中年男性の声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_もの憂げな若い女性の声",
+    "original": "もの憂げな若い女性の声",
+    "translation": "もの憂げな若い女性の声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_疲れ果てた女子生徒の声",
+    "original": "疲れ果てた女子生徒の声",
+    "translation": "疲れ果てた女子生徒の声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_エンリル",
+    "original": "エンリル",
+    "translation": "エンリル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_面倒そうな中年女性の声",
+    "original": "面倒そうな中年女性の声",
+    "translation": "面倒そうな中年女性の声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_目の死んだ男子生徒の声",
+    "original": "目の死んだ男子生徒の声",
+    "translation": "目の死んだ男子生徒の声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ダルそうな青年男性の声",
+    "original": "ダルそうな青年男性の声",
+    "translation": "ダルそうな青年男性の声",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  }
+]

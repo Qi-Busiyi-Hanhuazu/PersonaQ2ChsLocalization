@@ -1,0 +1,114 @@
+[
+  {
+    "key": "MSG_NOT_DENKISAKU_REPAIR_0",
+    "original": "＞電気柵を突破するまで\n　進行ロックするイベント",
+    "translation": "＞電気柵を突破するまで\n　進行ロックするイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_14F_SWITCH_ON_0",
+    "original": "＞手前スイッチの強制起動イベント",
+    "translation": "＞手前スイッチの強制起動イベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TREE_FIRST_0",
+    "original": "＞倒れた木を見て、\n　道を塞がれた事を確認する",
+    "translation": "＞倒れた木を見て、\n　道を塞がれた事を確認する",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TREE_BACK_0",
+    "original": "＞倒れた木を見て\n　裏に回ってきたことを確認するイベント",
+    "translation": "＞倒れた木を見て\n　裏に回ってきたことを確認するイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_TREE_DEL_0",
+    "original": "＞倒れた木を除去するイベント",
+    "translation": "＞倒れた木を除去するイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_fishing_lock_0",
+    "original": "＞釣りするまでロックするイベント",
+    "translation": "＞釣りするまでロックするイベント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_SWITCH_LOCK_1_0",
+    "original": "スイッチが反応しないようだ…",
+    "translation": "スイッチが反応しないようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_SWITCH_LOCK_1_2_0",
+    "original": "まだＦ．Ｏ．Ｅが入っていない。",
+    "translation": "まだＦ．Ｏ．Ｅが入っていない。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_SWITCH_LOCK_2_0",
+    "original": "もう操作する必要はないだろう。",
+    "translation": "もう操作する必要はないだろう。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_GET_TRESURE_ITEM_0",
+    "original": "何かが埋まっているようだ…",
+    "translation": "何かが埋まっているようだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_0",
+    "original": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "translation": "何かが埋まっているようだが、\nカバンの中がいっぱいだ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "BAG_FULL_1",
+    "original": "整理してからまた来よう…",
+    "translation": "整理してからまた来よう…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_SHORTCUT_NAOTO_0",
+    "original": "ショートカットです。 \n開けておきますか？ ",
+    "translation": "ショートカットです。 \n開けておきますか？ ",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SHORTCUT_SEL_0",
+    "original": "通る ",
+    "translation": "通る ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SHORTCUT_SEL_1",
+    "original": "通らない ",
+    "translation": "通らない ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  }
+]

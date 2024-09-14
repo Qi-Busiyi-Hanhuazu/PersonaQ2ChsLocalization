@@ -1,0 +1,44 @@
+[
+  {
+    "key": "text_000_0",
+    "original": "なし",
+    "translation": "无",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "text_001_0",
+    "original": "どのアイテムを使用しますか？",
+    "translation": "要使用哪个道具？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要使用哪个道具？\n\n使用哪个项目？"
+  },
+  {
+    "key": "text_002_0",
+    "original": "誰にアイテムを使用しますか？",
+    "translation": "要对谁使用？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要使用在谁身上？\n\n你对谁使用物品？\n\n对谁使用项目？"
+  },
+  {
+    "key": "text_003_0",
+    "original": "全員にアイテムを使用しますか？",
+    "translation": "要对所有人使用吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要使用在所有人身上？\n\n全体人员使用项目吗？\n\n对所有人都使用道具吗？"
+  },
+  {
+    "key": "text_004_0",
+    "original": "どのペルソナに使用しますか？",
+    "translation": "要对哪个人格面具使用者？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n要使用在哪个人格面具？\n\n用于哪个人格面具？\n\n使用哪种人格面具？"
+  },
+  {
+    "key": "text_005_0",
+    "original": "キーアイテムを確認します",
+    "translation": "确认关键道具",
+    "stage": 0,
+    "context": "机翻辅助：\n\n确认关键道具\n\n确认关键项目。\n\n检查关键项目"
+  }
+]

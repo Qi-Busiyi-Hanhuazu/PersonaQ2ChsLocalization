@@ -1,0 +1,142 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "新たな特別上映が追加されました。\n今回の内容は…",
+    "translation": "新たな特別上映が追加されました。\n今回の内容は…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "哀れにも迷子になってしまった\n幼い恐竜の母親探し…",
+    "translation": "哀れにも迷子になってしまった\n幼い恐竜の母親探し…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "お母さんと、はぐれちゃったのか…？",
+    "translation": "お母さんと、はぐれちゃったのか…？",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "恐竜の親子は、敵の襲撃を受け、\n命からがら逃げ出したものの…",
+    "translation": "恐竜の親子は、敵の襲撃を受け、\n命からがら逃げ出したものの…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "幼い恐竜は深いケガを負ってしまい、\n母親とも離れ離れに…",
+    "translation": "幼い恐竜は深いケガを負ってしまい、\n母親とも離れ離れに…",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_002_2",
+    "original": "引き裂かれた親子の絆、皆様のお力にて\n是非とも取り戻してやって下さいませ。",
+    "translation": "引き裂かれた親子の絆、皆様のお力にて\n是非とも取り戻してやって下さいませ。",
+    "stage": 1,
+    "context": "エリザベス"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ケガした上に、親とはぐれちまったなら\n急がねえとやべえんじゃないスか？",
+    "translation": "ケガした上に、親とはぐれちまったなら\n急がねえとやべえんじゃないスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "残されたその子、きっと独りで心細いよね。",
+    "translation": "残されたその子、きっと独りで心細いよね。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "寂しくて、不安で、どうしたらいいか\n分からなくなっちゃってると思う。",
+    "translation": "寂しくて、不安で、どうしたらいいか\n分からなくなっちゃってると思う。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "春さん…",
+    "translation": "春さん…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "うん、私も助けてあげたい。\nどうかな、[P5姓]くん。",
+    "translation": "うん、私も助けてあげたい。\nどうかな、[P5姓]くん。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "SEL_006_0",
+    "original": "すぐに探しに行こう",
+    "translation": "すぐに探しに行こう",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_006_1",
+    "original": "もちろんそのつもりだ",
+    "translation": "もちろんそのつもりだ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "決まりだね。\nじゃあ、早速行こう！",
+    "translation": "決まりだね。\nじゃあ、早速行こう！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "speaker_エリザベス",
+    "original": "エリザベス",
+    "translation": "エリザベス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  }
+]

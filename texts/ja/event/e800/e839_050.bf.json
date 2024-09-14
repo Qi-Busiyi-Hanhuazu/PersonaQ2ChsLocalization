@@ -1,0 +1,86 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "塞がれた道にある家…ここか？",
+    "translation": "塞がれた道にある家…ここか？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん、間違いない。この家の中から感じる。",
+    "translation": "うん、間違いない。この家の中から感じる。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "ここに私が忘れてた、大切な物が…！",
+    "translation": "ここに私が忘れてた、大切な物が…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "気をつけろ、シャドウは敵意ＭＡＸだ！\n返す気は一切ないみたいだぞ！",
+    "translation": "気をつけろ、シャドウは敵意ＭＡＸだ！\n返す気は一切ないみたいだぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "へっ、上等じゃねーか。\nんじゃ、一丁やっちゃいますか！",
+    "translation": "へっ、上等じゃねーか。\nんじゃ、一丁やっちゃいますか！",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "見とけ、ひかりん。怪盗団でもエースで４番、\n伊織順平の大・活・躍を！",
+    "translation": "見とけ、ひかりん。怪盗団でもエースで４番、\n伊織順平の大・活・躍を！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "気合入れろよ、お前ら！\nひかりの大事なモン、ゼッテー取り返す！",
+    "translation": "気合入れろよ、お前ら！\nひかりの大事なモン、ゼッテー取り返す！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  }
+]

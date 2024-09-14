@@ -1,0 +1,121 @@
+[
+  {
+    "key": "MSG_MOVIE_000_0",
+    "original": "どうしてアナタはそうなのよ。",
+    "translation": "为什么只有你这样！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你为什么就是这个样子！\n\n为什么你会这样呢？\n\n为什么你是这样啊。"
+  },
+  {
+    "key": "MSG_MOVIE_001_0",
+    "original": "普通はそんなことしない。",
+    "translation": "普通人不会做这种事。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n普通人不会做这种事。\n\n我一般不会这嚒做。\n\n一般不会这么做。"
+  },
+  {
+    "key": "MSG_MOVIE_002_0",
+    "original": "普通と違う。\nあなたは異常。",
+    "translation": "你和普通人不一样。\n你不正常。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你和普通人不一样。\n你是异常的。\n\n与一般不同。\n你很反常。\n\n和一般人不一样。\n你很不正常。"
+  },
+  {
+    "key": "MSG_MOVIE_003_0",
+    "original": "分からない、分からない。\n私は私なのに。",
+    "translation": "我不懂，我不懂。\n我明明就是我。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我不懂，我不懂。\n我明明就是我。\n\n不知道，不知道。我明明是我。\n\n\n不明白，不明白。我明明是我。"
+  },
+  {
+    "key": "MSG_MOVIE_004_0",
+    "original": "どうしてオマエはそうなんだ。",
+    "translation": "为什么只有你这样！",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你为什么就是这个样子？\n\n为什么你是这样。\n\n为什么你会这样？"
+  },
+  {
+    "key": "MSG_MOVIE_005_0",
+    "original": "あなたは普通じゃない。",
+    "translation": "你不正常。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你并不普通。\n\n你不普通。\n\n你不正常。"
+  },
+  {
+    "key": "MSG_MOVIE_006_0",
+    "original": "みんなと同じ。\nそれが正しい。",
+    "translation": "和大家一样。\n才是正确的。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n和大家一样。\n这才是正确的。\n\n和大家一样。那是正确的。"
+  },
+  {
+    "key": "MSG_MOVIE_007_0",
+    "original": "私には夢があるの。",
+    "translation": "我有梦想。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我有梦想。\n\n我有一个梦想。"
+  },
+  {
+    "key": "MSG_MOVIE_008_0",
+    "original": "我慢しなさい。\nみんなと合わせるために。",
+    "translation": "忍住。\n要跟大家一样。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n给我忍耐。\n为了配合大家。\n\n忍耐一下。\n为了迎合大家。\n\n忍耐一下。\n为了配合大家。"
+  },
+  {
+    "key": "MSG_MOVIE_009_0",
+    "original": "みんな普通で。",
+    "translation": "大家都很普通。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家都普通。\n\n大家都很普通。"
+  },
+  {
+    "key": "MSG_MOVIE_010_0",
+    "original": "みんな一緒。",
+    "translation": "大家都一样。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大家都一样。\n\n大家一起。"
+  },
+  {
+    "key": "MSG_MOVIE_011_0",
+    "original": "みんなってなに？　自分はなに？",
+    "translation": "大家是什么？自己是什么？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n大家是什么？我是什么？\n\n大家是什么？自己是什么？"
+  },
+  {
+    "key": "MSG_MOVIE_012_0",
+    "original": "自分なんていらないさ。",
+    "translation": "并不需要什么自己。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你不需要自己。\n\n我不需要自己。"
+  },
+  {
+    "key": "MSG_MOVIE_013_0",
+    "original": "自分なんて、捨てなさい。",
+    "translation": "把自己什么的扔掉吧。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n舍弃自己吧。\n\n自己什么的，扔掉吧。\n\n放弃自己吧。"
+  },
+  {
+    "key": "MSG_MOVIE_014_0",
+    "original": "でも…でも、私は…",
+    "translation": "可是……可是，我……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n可是……可是，我……\n\n但是……但是，我……"
+  },
+  {
+    "key": "MSG_MOVIE_015_0",
+    "original": "お前のために言ってるんだよ。",
+    "translation": "这都是为了你好。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n我是为了你才说的。\n\n我是为你说的。"
+  },
+  {
+    "key": "MSG_MOVIE_016_0",
+    "original": "心配しないでいいわ。\n私たちが『普通』を教えてあげる。",
+    "translation": "不用担心。\n我们会教你什么是“普通”。",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你不用担心。\n我们会教你什么是“普通”。\n\n不用担心。\n我们教你“普通”。\n\n不用担心。我们来告诉你“普通”。"
+  }
+]

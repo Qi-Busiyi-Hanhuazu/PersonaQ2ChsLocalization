@@ -1,0 +1,23 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "＞ここまでの物語をセーブしますか？",
+    "translation": "＞ここまでの物語をセーブしますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "はい",
+    "translation": "はい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "いいえ",
+    "translation": "いいえ",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,737 @@
+[
+  {
+    "key": "FUTABA_FOE_FOLLOW_START__0",
+    "original": "Ｆ．Ｏ．Ｅが来るぞ！",
+    "translation": "Ｆ．Ｏ．Ｅが来るぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FOE_FOLLOW_START__2_0",
+    "original": "まずい、尾けられてる！",
+    "translation": "まずい、尾けられてる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FOE_FOLLOW_START__3_0",
+    "original": "Ｆ．Ｏ．Ｅに反応！",
+    "translation": "Ｆ．Ｏ．Ｅに反応！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FOE_NEAR_1_0",
+    "original": "目の前だ！　気をつけろ！",
+    "translation": "目の前だ！　気をつけろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FOE_NEAR_2_0",
+    "original": "うおい、余裕かましすぎだろ！",
+    "translation": "うおい、余裕かましすぎだろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FOE_NEAR_3_0",
+    "original": "かなり近いぞ！　注意な！",
+    "translation": "かなり近いぞ！　注意な！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FOE_FOLLOW_END_1_0",
+    "original": "安心しろ、撒いたぞ！",
+    "translation": "安心しろ、撒いたぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FOE_FOLLOW_END_2_0",
+    "original": "よし、逃げ切ったな。",
+    "translation": "よし、逃げ切ったな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FOE_FOLLOW_END_3_0",
+    "original": "ふー…良かったな！",
+    "translation": "ふー…良かったな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_KANSI_REACTION_1_0",
+    "original": "パターンだ、観察してみろ！",
+    "translation": "パターンだ、観察してみろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_KANSI_REACTION_2_0",
+    "original": "落ち着いて行動しろ、抜けられる！",
+    "translation": "落ち着いて行動しろ、抜けられる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_KANSI_REACTION_3_0",
+    "original": "いいか…そっとだぞ…！",
+    "translation": "いいか…そっとだぞ…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_DENKISAKU_REACTIO_0",
+    "original": "まずは柵をなんとかするぞ！",
+    "translation": "まずは柵をなんとかするぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_DENKISAKU_REACTIO_2_0",
+    "original": "絶対触るなよ！　フリじゃないからな！",
+    "translation": "絶対触るなよ！　フリじゃないからな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_DENKISAKU_REACTIO_3_0",
+    "original": "電気を止めれば通れるぞ。",
+    "translation": "電気を止めれば通れるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_KYOUHU_REACTION_1_0",
+    "original": "おーい！？",
+    "translation": "おーい！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_KYOUHU_REACTION_2_0",
+    "original": "飛んだ！？",
+    "translation": "飛んだ！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_KYOUHU_REACTION_3_0",
+    "original": "大丈夫か！？",
+    "translation": "大丈夫か！？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_STAIR_FIND_1_0",
+    "original": "見えるか？　道があるぞ。",
+    "translation": "見えるか？　道があるぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_STAIR_FIND_2_0",
+    "original": "近いぞ、先に続く道だ！",
+    "translation": "近いぞ、先に続く道だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_STAIR_FIND_3_0",
+    "original": "次のエリアへの道だ、やったな！",
+    "translation": "次のエリアへの道だ、やったな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_TREASURE_FIND_1_0",
+    "original": "む、オタカラの反応あり！",
+    "translation": "む、オタカラの反応あり！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_TREASURE_FIND_2_0",
+    "original": "見えたか？　オタカラだぞ。",
+    "translation": "見えたか？　オタカラだぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_TREASURE_FIND_3_0",
+    "original": "発見、オタカラ探訪ー！",
+    "translation": "発見、オタカラ探訪ー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_CHECK_WALL_1_0",
+    "original": "そこそこ！　なにかないかー？",
+    "translation": "そこそこ！　なにかないかー？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_CHECK_WALL_2_0",
+    "original": "調べてみてくれ、反応がある。",
+    "translation": "調べてみてくれ、反応がある。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_CHECK_WALL_3_0",
+    "original": "アヤしいな、ちょっと見てくれ。",
+    "translation": "アヤしいな、ちょっと見てくれ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_SWITCH_FIND_1_0",
+    "original": "スイッチか、なるほど。",
+    "translation": "スイッチか、なるほど。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_SWITCH_FIND_2_0",
+    "original": "おっ！　スイッチがあるみたいだぞ！",
+    "translation": "おっ！　スイッチがあるみたいだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_SWITCH_FIND_3_0",
+    "original": "慎重かつ大胆にポチっとな！",
+    "translation": "慎重かつ大胆にポチっとな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_SHORTCUT_FIND_1_0",
+    "original": "おっ、通れそうだぞ！",
+    "translation": "おっ、通れそうだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_SHORTCUT_FIND_2_0",
+    "original": "隠し通路だ、よく見つけたな！",
+    "translation": "隠し通路だ、よく見つけたな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_SHORTCUT_FIND_3_0",
+    "original": "通っても問題はなさそうだ！",
+    "translation": "通っても問題はなさそうだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_PARTY_DEAD_1_0",
+    "original": "これ以上は無謀だ、引け！",
+    "translation": "これ以上は無謀だ、引け！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_PARTY_DEAD_2_0",
+    "original": "マズイ！　戦略的撤退も考えろ！",
+    "translation": "マズイ！　戦略的撤退も考えろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_PARTY_DEAD_3_0",
+    "original": "諦めろ、危険すぎるぞ！",
+    "translation": "諦めろ、危険すぎるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FOE_WARNING_NEAR__0",
+    "original": "Ｆ．Ｏ．Ｅ健在！　気をつけろ！",
+    "translation": "Ｆ．Ｏ．Ｅ健在！　気をつけろ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FOE_WARNING_NEAR__2_0",
+    "original": "気を抜くな、まだいるぞ！",
+    "translation": "気を抜くな、まだいるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_FOE_WARNING_NEAR__3_0",
+    "original": "みんな、追手がまだいる！",
+    "translation": "みんな、追手がまだいる！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_PARTY_HPTP10_1_0",
+    "original": "戦力的にかなりマズい状況だぞ…",
+    "translation": "戦力的にかなりマズい状況だぞ…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_PARTY_HPTP10_2_0",
+    "original": "悪いことはいわん、帰ってこい！",
+    "translation": "悪いことはいわん、帰ってこい！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_PARTY_HPTP10_3_0",
+    "original": "おい、無茶はすんな！",
+    "translation": "おい、無茶はすんな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_PARTY_HP10_1_0",
+    "original": "みんな息切れか…ちょっと休め。",
+    "translation": "みんな息切れか…ちょっと休め。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_PARTY_HP10_2_0",
+    "original": "回復しろ、無理なら帰還だ！",
+    "translation": "回復しろ、無理なら帰還だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_PARTY_HP10_3_0",
+    "original": "全滅だけは回避しろ、絶対！",
+    "translation": "全滅だけは回避しろ、絶対！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_1PERSON_HPTP10_1_0",
+    "original": "立て直せるか？",
+    "translation": "立て直せるか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_1PERSON_HPTP10_2_0",
+    "original": "いったん、態勢を整えた方がいいぞ！",
+    "translation": "いったん、態勢を整えた方がいいぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_1PERSON_HPTP10_3_0",
+    "original": "回復しないとマズイぞ！",
+    "translation": "回復しないとマズイぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_PARTY_TP10_1_0",
+    "original": "ドンパチやりすぎだ！",
+    "translation": "ドンパチやりすぎだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_PARTY_TP10_2_0",
+    "original": "気力が低下してる、無茶するな！",
+    "translation": "気力が低下してる、無茶するな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_PARTY_TP10_3_0",
+    "original": "ストーップ！　みんな疲れすぎだ！",
+    "translation": "ストーップ！　みんな疲れすぎだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_1PERSON_HP10_1_0",
+    "original": "体力低下中！　回復できるか？",
+    "translation": "体力低下中！　回復できるか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_1PERSON_HP10_2_0",
+    "original": "少し休んでもバチはあたらんぞ！",
+    "translation": "少し休んでもバチはあたらんぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_1PERSON_HP10_3_0",
+    "original": "この状態で戦闘は危険だ！",
+    "translation": "この状態で戦闘は危険だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_1PERSON_TP10_1_0",
+    "original": "気力切れだ…補給できるか？",
+    "translation": "気力切れだ…補給できるか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_1PERSON_TP10_2_0",
+    "original": "ちょっと張り切りすぎじゃないか？",
+    "translation": "ちょっと張り切りすぎじゃないか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_1PERSON_TP10_3_0",
+    "original": "休める時に休んでくれよな！",
+    "translation": "休める時に休んでくれよな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_ITEM_90_BATTLE_1_0",
+    "original": "そろそろ荷物がパンパンだぞ！",
+    "translation": "そろそろ荷物がパンパンだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_ITEM_90_BATTLE_2_0",
+    "original": "荷物が多いな、戻ったらどうだ？",
+    "translation": "荷物が多いな、戻ったらどうだ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_ITEM_90_BATTLE_3_0",
+    "original": "荷物、整理した方がよくないか？",
+    "translation": "荷物、整理した方がよくないか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_1PERSON_HP80_1_0",
+    "original": "なかなかいい戦果だぞ。",
+    "translation": "なかなかいい戦果だぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_1PERSON_HP80_2_0",
+    "original": "お疲れさん、この調子だ！",
+    "translation": "お疲れさん、この調子だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_1PERSON_HP80_3_0",
+    "original": "調子いいみたいだな！\nこのまま行くぞ！",
+    "translation": "調子いいみたいだな！\nこのまま行くぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FUTABA_MAKASETA_1_0",
+    "original": "ナビ、次は任せたっ！",
+    "translation": "ナビ、次は任せたっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FUTABA_MAKASETA_2_0",
+    "original": "ナビ、出番だよ！　よろしくっ！",
+    "translation": "ナビ、出番だよ！　よろしくっ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FUTABA_MAKASETA_3_0",
+    "original": "ナビにバトンタッチするね！",
+    "translation": "ナビにバトンタッチするね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FUTABA_ANSWER_1_0",
+    "original": "りせ、ありがとな！\nここからはわたしが頑張る！",
+    "translation": "りせ、ありがとな！\nここからはわたしが頑張る！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FUTABA_ANSWER_2_0",
+    "original": "りせに代わって、\nこっからはわたしのナビだ！",
+    "translation": "りせに代わって、\nこっからはわたしのナビだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "RISE_FUTABA_ANSWER_3_0",
+    "original": "よーし、わたしも全力で頑張る！\nみんな、行くぞ！",
+    "translation": "よーし、わたしも全力で頑張る！\nみんな、行くぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FUTABA_MAKASETA_1_0",
+    "original": "ナビ、\nあとはよろしくお願いします！",
+    "translation": "ナビ、\nあとはよろしくお願いします！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FUTABA_MAKASETA_2_0",
+    "original": "交代ですね！\n勉強させてもらいます！",
+    "translation": "交代ですね！\n勉強させてもらいます！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FUTABA_MAKASETA_3_0",
+    "original": "ここからはナビに代わりますね！",
+    "translation": "ここからはナビに代わりますね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FUTABA_ANSWER_1_0",
+    "original": "よーし風花、こっからは任せとけ！",
+    "translation": "よーし風花、こっからは任せとけ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FUTABA_ANSWER_2_0",
+    "original": "風花、ナイスナビ！\nここからはわたしがサポートするぞ！",
+    "translation": "風花、ナイスナビ！\nここからはわたしがサポートするぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUKA_FUTABA_ANSWER_3_0",
+    "original": "風花から任せられた！\n気合い入れてナビするぞ！",
+    "translation": "風花から任せられた！\n気合い入れてナビするぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_ITEM_90_DUNGEON_1_0",
+    "original": "そろそろ荷物がパンパンだぞ！",
+    "translation": "そろそろ荷物がパンパンだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_ITEM_90_DUNGEON_2_0",
+    "original": "荷物が多いな、戻ったらどうだ？",
+    "translation": "荷物が多いな、戻ったらどうだ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_ITEM_90_DUNGEON_3_0",
+    "original": "荷物、整理した方がよくないか？",
+    "translation": "荷物、整理した方がよくないか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_DUNGEON_START_1_0",
+    "original": "ナビ、開始するぞ！",
+    "translation": "ナビ、開始するぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_DUNGEON_START_2_0",
+    "original": "ドーンと行ってくれ！",
+    "translation": "ドーンと行ってくれ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_DUNGEON_START_3_0",
+    "original": "よし、始めるぞ！",
+    "translation": "よし、始めるぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_QUEST_START_1_0",
+    "original": "冒険の始まりだぞ！",
+    "translation": "冒険の始まりだぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_QUEST_START_2_0",
+    "original": "サポートはまかせろー！",
+    "translation": "サポートはまかせろー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_QUEST_START_3_0",
+    "original": "くれぐれも油断するなよ！",
+    "translation": "くれぐれも油断するなよ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_TOUHA_25_1_0",
+    "original": "これからガンガン埋めてくぞ！",
+    "translation": "これからガンガン埋めてくぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_TOUHA_25_2_0",
+    "original": "順調に描けてるかー？",
+    "translation": "順調に描けてるかー？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_TOUHA_50_1_0",
+    "original": "よし、半分くらいいったな！",
+    "translation": "よし、半分くらいいったな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_TOUHA_50_2_0",
+    "original": "こっからが本番だ！",
+    "translation": "こっからが本番だ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_TOUHA_75_1_0",
+    "original": "出来てきたな、ワクワクだ！",
+    "translation": "出来てきたな、ワクワクだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_TOUHA_75_2_0",
+    "original": "あと残りはどのへんだ？",
+    "translation": "あと残りはどのへんだ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_TOUHA_100_1_0",
+    "original": "うおお、地図できたー！！",
+    "translation": "うおお、地図できたー！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_TOUHA_100_2_0",
+    "original": "うむ、良い仕事だったぞ！",
+    "translation": "うむ、良い仕事だったぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_MAPPING_ICON_ALL__0",
+    "original": "なかなかやるな！",
+    "translation": "なかなかやるな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_MAPPING_ICON_ALL__2_0",
+    "original": "グッジョブだ！",
+    "translation": "グッジョブだ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_MAPPING_ICON_KAID_0",
+    "original": "よーし、繋がったぞ。",
+    "translation": "よーし、繋がったぞ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_MAPPING_ICON_KAID_2_0",
+    "original": "バッチリだな！",
+    "translation": "バッチリだな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_MAPPING_CHANGE_CO_0",
+    "original": "すげえセンスだな！",
+    "translation": "すげえセンスだな！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_MAPPING_CHANGE_CO_2_0",
+    "original": "おっ、楽しそうだな。",
+    "translation": "おっ、楽しそうだな。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_MAPPING_ICON_DEL__0",
+    "original": "この片付け上手め。",
+    "translation": "この片付け上手め。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_MAPPING_ICON_DEL__2_0",
+    "original": "ぬお、捨てちゃうのか？",
+    "translation": "ぬお、捨てちゃうのか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_MAPPING_MEMO_1_0",
+    "original": "メモメモー！",
+    "translation": "メモメモー！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_MAPPING_MEMO_2_0",
+    "original": "なぁなぁ、なに書いたんだ？",
+    "translation": "なぁなぁ、なに書いたんだ？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_KARITORU_ENCOUNT__0",
+    "original": "”刈り取る者”だ…\nやばいのが来るぞ…！！",
+    "translation": "”刈り取る者”だ…\nやばいのが来るぞ…！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_KARITORU_ENCOUNT__2_0",
+    "original": "この気配…”刈り取る者”だ！！",
+    "translation": "この気配…”刈り取る者”だ！！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "FUTABA_KARITORU_ENCOUNT__3_0",
+    "original": "やばいのが来る！　対処急げ！",
+    "translation": "やばいのが来る！　対処急げ！",
+    "stage": 1,
+    "context": ""
+  }
+]

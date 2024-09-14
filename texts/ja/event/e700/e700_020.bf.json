@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おい、ヤバイぞ！\n前からも敵が来てる…",
+    "translation": "おい、ヤバイぞ！\n前からも敵が来てる…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "…って、なんだこいつら！\nシャドウなのか！？",
+    "translation": "…って、なんだこいつら！\nシャドウなのか！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "た、多分…？\nいつものとは違うみたいだけど…",
+    "translation": "た、多分…？\nいつものとは違うみたいだけど…",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_5_0",
+    "original": "ああもう、意味わかんない！",
+    "translation": "ああもう、意味わかんない！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "とにかく、今はここを\n切り抜けることだけ考えましょう。",
+    "translation": "とにかく、今はここを\n切り抜けることだけ考えましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうだな。後ろから警察も来ている…\nスカル、俺たちはこっちの相手をしよう。",
+    "translation": "そうだな。後ろから警察も来ている…\nスカル、俺たちはこっちの相手をしよう。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "おうよ！　任せとけって！",
+    "translation": "おうよ！　任せとけって！",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "僕も加勢するよ。\nジョーカー、そっちは頼んだ。",
+    "translation": "僕も加勢するよ。\nジョーカー、そっちは頼んだ。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

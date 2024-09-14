@@ -1,0 +1,366 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "つーか、同じようなとこ上ったり下りたり、\nマジでキリがねえじゃん…",
+    "translation": "つーか、同じようなとこ上ったり下りたり、\nマジでキリがねえじゃん…",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "なあジョーカー頼む！\nちょっとここらで休憩させて！",
+    "translation": "なあジョーカー頼む！\nちょっとここらで休憩させて！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "まだ行ける",
+    "translation": "まだ行ける",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "わかった",
+    "translation": "わかった",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_001_2",
+    "original": "少しだけだぞ",
+    "translation": "少しだけだぞ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うへ、ジョーカーったらキビしー。\nもっと優しくしてっ！",
+    "translation": "うへ、ジョーカーったらキビしー。\nもっと優しくしてっ！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "さっすがジョーカー、話がわかる！\nこの恩は忘れませんよ～。",
+    "translation": "さっすがジョーカー、話がわかる！\nこの恩は忘れませんよ～。",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "なんだ順平、この程度で情けない。\n体力不足のようだな。",
+    "translation": "なんだ順平、この程度で情けない。\n体力不足のようだな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "バテたときこそ、トレーニングは効果的だ。\nさあ立て、俺も付き合ってやる！",
+    "translation": "バテたときこそ、トレーニングは効果的だ。\nさあ立て、俺も付き合ってやる！",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いや、絶対ムリ！\n体力どうこうの前に死んじゃうから！",
+    "translation": "いや、絶対ムリ！\n体力どうこうの前に死んじゃうから！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "待て、明彦。\n伊織が音を上げるのも無理はない。",
+    "translation": "待て、明彦。\n伊織が音を上げるのも無理はない。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "ここはかなり複雑なうえ、敵も強い。\n消耗するのは当然だ。",
+    "translation": "ここはかなり複雑なうえ、敵も強い。\n消耗するのは当然だ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "で、ですよね～！？",
+    "translation": "で、ですよね～！？",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "オレっちはみんなのことを想って、\n断腸の想いで提案したワケっす！",
+    "translation": "オレっちはみんなのことを想って、\n断腸の想いで提案したワケっす！",
+    "stage": 1,
+    "context": "伊織 順平"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "…な～んか、怪しいけど。",
+    "translation": "…な～んか、怪しいけど。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "とにかく、無理して進むのは賛成できない。\n一息入れて、体勢を整えるべきだ。",
+    "translation": "とにかく、無理して進むのは賛成できない。\n一息入れて、体勢を整えるべきだ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "でもよ、進んでる気がしなくて焦らねえ？\n遠回りばっかで腹立つし。",
+    "translation": "でもよ、進んでる気がしなくて焦らねえ？\n遠回りばっかで腹立つし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "それでも、落ち着いて行こう？\nいつか絶対に辿り着けるよ。",
+    "translation": "それでも、落ち着いて行こう？\nいつか絶対に辿り着けるよ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_011_1",
+    "original": "たとえ行き止まりでも、地図が埋まれば、\n正しい道に一歩近づいたってことだから。",
+    "translation": "たとえ行き止まりでも、地図が埋まれば、\n正しい道に一歩近づいたってことだから。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "フフ、とても前向きな考え方ですね。\n確かにその通りです。",
+    "translation": "フフ、とても前向きな考え方ですね。\n確かにその通りです。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_012_1",
+    "original": "それじゃあ、少し休憩しましょうか。",
+    "translation": "それじゃあ、少し休憩しましょうか。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "うーん、ミツルもノワールも冷静だな。\nしかも言葉に説得力がある。",
+    "translation": "うーん、ミツルもノワールも冷静だな。\nしかも言葉に説得力がある。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "どこか余裕があるっつーか、\nあれがセレブの貫禄ってやつなのか？",
+    "translation": "どこか余裕があるっつーか、\nあれがセレブの貫禄ってやつなのか？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_014_0",
+    "original": "見習いたい",
+    "translation": "見習いたい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_1",
+    "original": "自分も負けてない",
+    "translation": "自分も負けてない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_014_2",
+    "original": "よくわからない",
+    "translation": "よくわからない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "はは、ああいうのは生まれついてのもんで\nそう簡単には身につかねえって。",
+    "translation": "はは、ああいうのは生まれついてのもんで\nそう簡単には身につかねえって。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_015_1",
+    "original": "しかもどっちもすっげえ美女…\n何でも言うこと聞いちまいそうだぜ…",
+    "translation": "しかもどっちもすっげえ美女…\n何でも言うこと聞いちまいそうだぜ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "あんたは奴隷にされて\n一生コキ使われればいいと思うけど。",
+    "translation": "あんたは奴隷にされて\n一生コキ使われればいいと思うけど。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "ははっ、リーダー張ってるくらいだし\n貫禄じゃ負けてねえけどさ。",
+    "translation": "ははっ、リーダー張ってるくらいだし\n貫禄じゃ負けてねえけどさ。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "でもやっぱ、あの二人から出る美女オーラ…\n何でも言うこと聞いちまいそうだぜ…",
+    "translation": "でもやっぱ、あの二人から出る美女オーラ…\n何でも言うこと聞いちまいそうだぜ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "あんたは奴隷にされて、\n一生コキ使われればいいと思う。",
+    "translation": "あんたは奴隷にされて、\n一生コキ使われればいいと思う。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "なんつーか、妙に落ち着いてて、\nつい意見聞いちゃうっていうかさ…",
+    "translation": "なんつーか、妙に落ち着いてて、\nつい意見聞いちゃうっていうかさ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_019_1",
+    "original": "しかもどっちもすっげえ美女…\n何でも言うこと聞いちまいそうだぜ…",
+    "translation": "しかもどっちもすっげえ美女…\n何でも言うこと聞いちまいそうだぜ…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "あんたは奴隷にされて\n一生コキ使われればいいと思う。",
+    "translation": "あんたは奴隷にされて\n一生コキ使われればいいと思う。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ま、人の上に立つ人間ってのは、\n独特の空気を持ってるのは確かだな。",
+    "translation": "ま、人の上に立つ人間ってのは、\n独特の空気を持ってるのは確かだな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "良くも悪くも、人を使うのに慣れてんだろ。\n桐条なんかはその典型だ。",
+    "translation": "良くも悪くも、人を使うのに慣れてんだろ。\n桐条なんかはその典型だ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ふむ、ノワールにも似た物を感じることはある。\n桐条さんほど前面には出てないようだが。",
+    "translation": "ふむ、ノワールにも似た物を感じることはある。\n桐条さんほど前面には出てないようだが。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "なるほど、そこは社長令嬢ってとこか。\nそれがカリスマってやつなのかもな…",
+    "translation": "なるほど、そこは社長令嬢ってとこか。\nそれがカリスマってやつなのかもな…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "特別上映『優雅なお嬢様の採取』が\nチケットカウンターに追加されました。",
+    "translation": "特別上映『優雅なお嬢様の採取』が\nチケットカウンターに追加されました。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_伊織 順平",
+    "original": "伊織 順平",
+    "translation": "伊織 順平",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

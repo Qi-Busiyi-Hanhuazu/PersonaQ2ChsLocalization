@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おい、そこは通れないぞ。\n他の道を探すしかないみたいだな。",
+    "translation": "おい、そこは通れないぞ。\n他の道を探すしかないみたいだな。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "めんどくさいけど、しょうがないよね。\nはやく、先に進も？",
+    "translation": "めんどくさいけど、しょうがないよね。\nはやく、先に進も？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "待て、そこは開かないぞ。",
+    "translation": "待て、そこは開かないぞ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "あはは…またダクトか。\nでも、通れないんじゃ仕方ないね。",
+    "translation": "あはは…またダクトか。\nでも、通れないんじゃ仕方ないね。",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  }
+]

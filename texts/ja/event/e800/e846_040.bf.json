@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "オルゴールから\n『音楽』が消えてしまった…",
+    "translation": "オルゴールから\n『音楽』が消えてしまった…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あっ…！\nせっかく入れたのに…！",
+    "translation": "あっ…！\nせっかく入れたのに…！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うーん、残念。\nもっかい『音楽』を入れに戻ろっか。",
+    "translation": "うーん、残念。\nもっかい『音楽』を入れに戻ろっか。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "４６歩以内だぞ、ジョーカー！\n次は失敗するなよ！？",
+    "translation": "４６歩以内だぞ、ジョーカー！\n次は失敗するなよ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "…！",
+    "translation": "…！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "オルゴールから\n『音楽』が消えてしまっている…",
+    "translation": "オルゴールから\n『音楽』が消えてしまっている…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あっ…！",
+    "translation": "あっ…！",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "『カエレール』や『モドレール』を\n使ったから…！？",
+    "translation": "『カエレール』や『モドレール』を\n使ったから…！？",
+    "stage": 1,
+    "context": "山岸 風花"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "うーん、残念。\nもっかい『音楽』を入れに戻ろっか。",
+    "translation": "うーん、残念。\nもっかい『音楽』を入れに戻ろっか。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ズル無しで移動して４６歩以内だぞ！\n次は失敗するなよ！？",
+    "translation": "ズル無しで移動して４６歩以内だぞ！\n次は失敗するなよ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_山岸 風花",
+    "original": "山岸 風花",
+    "translation": "山岸 風花",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  }
+]

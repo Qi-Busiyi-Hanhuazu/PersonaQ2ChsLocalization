@@ -1,0 +1,37 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "あれ…？\n入り口って、ここじゃなかったよね？",
+    "translation": "あれ…？\n入り口って、ここじゃなかったよね？",
+    "stage": 1,
+    "context": "岳羽 ゆかり"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "セキュリティが変わったことと\n関係してるのかしら？",
+    "translation": "セキュリティが変わったことと\n関係してるのかしら？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "とにかく、先へ進んでいって\n調査をしてみましょう。",
+    "translation": "とにかく、先へ進んでいって\n調査をしてみましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "speaker_岳羽 ゆかり",
+    "original": "岳羽 ゆかり",
+    "translation": "岳羽 ゆかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  }
+]

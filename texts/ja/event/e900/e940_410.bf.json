@@ -1,0 +1,72 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "この先は準備中なんだ。\n今はまだ通れないよ。",
+    "translation": "この先は準備中なんだ。\n今はまだ通れないよ。",
+    "stage": 1,
+    "context": "派手な格好の住民"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "準備中って、何の？",
+    "translation": "準備中って、何の？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "カモシダーマン様が、この先で\n街角ファッションチェックをするんだ。\nその準備さ。",
+    "translation": "カモシダーマン様が、この先で\n街角ファッションチェックをするんだ。\nその準備さ。",
+    "stage": 1,
+    "context": "派手な格好の住民"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ファッションチェック！？\nあいつが！？",
+    "translation": "ファッションチェック！？\nあいつが！？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "自分が一番おかしな格好してるくせに、\nよくそんなこと思いつくな。",
+    "translation": "自分が一番おかしな格好してるくせに、\nよくそんなこと思いつくな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "なんにせよ、\nここから先には進めんようだ。\n別の場所をあたるしかなさそうだな。",
+    "translation": "なんにせよ、\nここから先には進めんようだ。\n別の場所をあたるしかなさそうだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "speaker_派手な格好の住民",
+    "original": "派手な格好の住民",
+    "translation": "派手な格好の住民",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  }
+]

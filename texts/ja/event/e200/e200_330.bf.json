@@ -1,0 +1,422 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ねえ…恐竜たちをもし見つけたとして、\n大丈夫かな？",
+    "translation": "ねえ…恐竜たちをもし見つけたとして、\n大丈夫かな？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "ちゃんと、私たちの話を\n聞いてくれるかってこと？",
+    "translation": "ちゃんと、私たちの話を\n聞いてくれるかってこと？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "うん。追放とか言って、怒ってたし。",
+    "translation": "うん。追放とか言って、怒ってたし。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "彼らは多数決が絶対だと考え、\nこの世界を生き抜いてきた。",
+    "translation": "彼らは多数決が絶対だと考え、\nこの世界を生き抜いてきた。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_5_0",
+    "original": "だから、その手段を軽視した\n僕たちが許せなかったんでしょう。",
+    "translation": "だから、その手段を軽視した\n僕たちが許せなかったんでしょう。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "でも、映画を変えるっつーことはさ…",
+    "translation": "でも、映画を変えるっつーことはさ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "あいつらの、そういう考え方を\nなんとかしねぇと無理じゃね？",
+    "translation": "あいつらの、そういう考え方を\nなんとかしねぇと無理じゃね？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "うう～…どうすりゃいいんだろ？\n焼き肉でも食べさせて、機嫌とるとか？",
+    "translation": "うう～…どうすりゃいいんだろ？\n焼き肉でも食べさせて、機嫌とるとか？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "それ効くの里中だけだろ。\nつーか、あいつら草食だし。",
+    "translation": "それ効くの里中だけだろ。\nつーか、あいつら草食だし。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "説得できる雰囲気でもなかったな。\nなにか、方法を探さないと…",
+    "translation": "説得できる雰囲気でもなかったな。\nなにか、方法を探さないと…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "しかし、あの恐竜たちも謎だな。\n何故、あそこまでムキに否定するんだ？",
+    "translation": "しかし、あの恐竜たちも謎だな。\n何故、あそこまでムキに否定するんだ？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "…みんな、きっと怖いんだと思う。",
+    "translation": "…みんな、きっと怖いんだと思う。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "SEL_010_0",
+    "original": "怖い？",
+    "translation": "怖い？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_010_1",
+    "original": "分かる気がする",
+    "translation": "分かる気がする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_010_2",
+    "original": "恐竜なのに？",
+    "translation": "恐竜なのに？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "えっと…周りと一緒がいいというか、\n違うことするのが怖いっていうのかな。",
+    "translation": "えっと…周りと一緒がいいというか、\n違うことするのが怖いっていうのかな。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "うん。周りと一緒がいいというか、\n違うことするのが怖いっていうのかな。",
+    "translation": "うん。周りと一緒がいいというか、\n違うことするのが怖いっていうのかな。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "身体の大きさと心の強さって、別だから。",
+    "translation": "身体の大きさと心の強さって、別だから。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "たぶん、周りと一緒がいいというか、\n違うことするのが怖いっていうのかな。",
+    "translation": "たぶん、周りと一緒がいいというか、\n違うことするのが怖いっていうのかな。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "たしかに、空気を読むとか、\n周囲の期待とか、レッテルとか…",
+    "translation": "たしかに、空気を読むとか、\n周囲の期待とか、レッテルとか…",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "そういうのに逆らうのって、とてつもない\nエネルギーがいるし、疲れちゃうよね。",
+    "translation": "そういうのに逆らうのって、とてつもない\nエネルギーがいるし、疲れちゃうよね。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_015_0",
+    "original": "あー、言われりゃ…",
+    "translation": "あー、言われりゃ…",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "周りに合わせるのは楽だし、\n責任なんて取らなくていいものね。",
+    "translation": "周りに合わせるのは楽だし、\n責任なんて取らなくていいものね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_016_1",
+    "original": "カモシダーマンの映画も同じだったわ。",
+    "translation": "カモシダーマンの映画も同じだったわ。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "多数決は、決定を下す方法としては\n必ずしも間違ってはいません。",
+    "translation": "多数決は、決定を下す方法としては\n必ずしも間違ってはいません。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_017_1",
+    "original": "しかし、少数というだけで\n意見すらできないのは…",
+    "translation": "しかし、少数というだけで\n意見すらできないのは…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_018_0",
+    "original": "理不尽だ",
+    "translation": "理不尽だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_1",
+    "original": "息苦しい",
+    "translation": "息苦しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_018_2",
+    "original": "つまんない",
+    "translation": "つまんない",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "うん。数とか関係なく、\n色んな意見があっていいはずだよ。",
+    "translation": "うん。数とか関係なく、\n色んな意見があっていいはずだよ。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "だよな。ああいう他の意見は\n認めないって空気、ホント感じワリィ…",
+    "translation": "だよな。ああいう他の意見は\n認めないって空気、ホント感じワリィ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_020_1",
+    "original": "意見なんて、人それぞれ\nみんな違ってトーゼンだろ。",
+    "translation": "意見なんて、人それぞれ\nみんな違ってトーゼンだろ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "ああ、皆、同じ考えに凝り固まっては、\n新しいものなど生まれない。",
+    "translation": "ああ、皆、同じ考えに凝り固まっては、\n新しいものなど生まれない。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_021_1",
+    "original": "多様性をもっと尊重すべきだ。",
+    "translation": "多様性をもっと尊重すべきだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "ああ。俺たちも仲間だけど、\n考えや感じ方はみんな違う。",
+    "translation": "ああ。俺たちも仲間だけど、\n考えや感じ方はみんな違う。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_022_1",
+    "original": "でも、お互いが話し合って、\n最善策を見つけることは出来るはずだ。",
+    "translation": "でも、お互いが話し合って、\n最善策を見つけることは出来るはずだ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "意見を出し合ったり、時にぶつかったり…",
+    "translation": "意見を出し合ったり、時にぶつかったり…",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_023_1",
+    "original": "あの恐竜たちに足りないのは\nそういう勇気ってわけか。",
+    "translation": "あの恐竜たちに足りないのは\nそういう勇気ってわけか。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "ヨースケサウルス、多数決のとき\n苦しそうな顔してたクマ…",
+    "translation": "ヨースケサウルス、多数決のとき\n苦しそうな顔してたクマ…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_024_1",
+    "original": "ホントは、クマたちを追放したいなんて\n考えてなかったと思うクマ。",
+    "translation": "ホントは、クマたちを追放したいなんて\n考えてなかったと思うクマ。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "…うん、ためらってたよね。\n最後は自分に言い聞かせる感じだった。",
+    "translation": "…うん、ためらってたよね。\n最後は自分に言い聞かせる感じだった。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "あと一歩、勇気が足りねえってわけか…",
+    "translation": "あと一歩、勇気が足りねえってわけか…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "ニャニャニャッ！？",
+    "translation": "ニャニャニャッ！？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "び、びびったぁ～…\n今のデカい音、なに！？",
+    "translation": "び、びびったぁ～…\n今のデカい音、なに！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "近くで、なにか倒れたみたいだね。\n様子を見に行ってみよう、ジョーカー。",
+    "translation": "近くで、なにか倒れたみたいだね。\n様子を見に行ってみよう、ジョーカー。",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  }
+]

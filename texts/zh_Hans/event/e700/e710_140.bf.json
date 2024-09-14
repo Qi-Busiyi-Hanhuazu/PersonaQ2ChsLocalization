@@ -1,0 +1,65 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "この扉の向こうに、またシャドウの反応だ。",
+    "translation": "这扇门的另一边，又出现了暗影的反应。",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n这扇门后又有暗影的反应。\n\n在这扇门的对面，又是暗影的反应。\n\n这扇门的另一边，又是暗影的反应。"
+  },
+  {
+    "key": "MSG_000_1",
+    "original": "戦闘は避けられそうにないな…\nジョーカー、行くか？",
+    "translation": "战斗似乎是不可避免了啊……\nJOKER，我们走上吧？",
+    "stage": 1,
+    "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n看来无法避免战斗了呢……\nJOKER，要上吗？\n\n看来战斗是不可避免的……\nJOKER，去吗？\n\n看来战斗是不可避免的啊？"
+  },
+  {
+    "key": "SEL_001_0",
+    "original": "行こう",
+    "translation": "上吧",
+    "stage": 0,
+    "context": "机翻辅助：\n\n上吧\n\n走吧"
+  },
+  {
+    "key": "SEL_001_1",
+    "original": "ちょっと待って",
+    "translation": "稍等一下",
+    "stage": 1,
+    "context": "机翻辅助：\n\n等我一下\n\n稍等一下\n\n等一下"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "よし、やってやろう。",
+    "translation": "好，要上了。",
+    "stage": 1,
+    "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n好，就来打一场吧。\n\n好，那就干吧。\n\n好，我来做吧。"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そうだね、態勢は万全にして行こう。",
+    "translation": "也对呢，得做好万全的准备才行。",
+    "stage": 1,
+    "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n也对，就做好万全准备再上吧。\n\n是啊，态势万无一失。\n\n是啊，我们要做好万全的准备。"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐仓 双叶",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 佑介",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 9,
+    "context": "翻译匹配：PQ2"
+  }
+]

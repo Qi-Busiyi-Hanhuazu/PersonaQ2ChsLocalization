@@ -1,0 +1,128 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "おおっ、すげー！\nホントにオタカラスポットがマシマシだぞ！",
+    "translation": "おおっ、すげー！\nホントにオタカラスポットがマシマシだぞ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "にゃっほーう！　オタカラぁ～！",
+    "translation": "にゃっほーう！　オタカラぁ～！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "おいジョーカー、さっさと行くぞ！\nオタカラがワガハイを呼んでる！",
+    "translation": "おいジョーカー、さっさと行くぞ！\nオタカラがワガハイを呼んでる！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ふふ、ダメだよモナちゃん、落ち着いて。",
+    "translation": "ふふ、ダメだよモナちゃん、落ち着いて。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "無闇に歩かないで、ちゃんと地図を\n確認しながら進んだほうがいいかも。",
+    "translation": "無闇に歩かないで、ちゃんと地図を\n確認しながら進んだほうがいいかも。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "うむ、ザベっさんの言ってた通り、\nワープポイントもマシマシだ。",
+    "translation": "うむ、ザベっさんの言ってた通り、\nワープポイントもマシマシだ。",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "新たなオタカラスポットは、\nワープの先にある…と言っていたな。",
+    "translation": "新たなオタカラスポットは、\nワープの先にある…と言っていたな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_004_1",
+    "original": "ならば、ワープポイントを見つけ\n丁寧に１つずつ回って行こう。",
+    "translation": "ならば、ワープポイントを見つけ\n丁寧に１つずつ回って行こう。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "SEL_005_0",
+    "original": "了解した",
+    "translation": "了解した",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_005_1",
+    "original": "面倒くさい",
+    "translation": "面倒くさい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "ああ、つまりはいつも通りだ。\nよろしく頼む。",
+    "translation": "ああ、つまりはいつも通りだ。\nよろしく頼む。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "フフ、君までそんなことを言うのか？\nせっかくだから付き合ってくれ。",
+    "translation": "フフ、君までそんなことを言うのか？\nせっかくだから付き合ってくれ。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "えっと、３ヶ所で採取だったよね。\nまずは１つ探してみようか。",
+    "translation": "えっと、３ヶ所で採取だったよね。\nまずは１つ探してみようか。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "そいじゃ、オタカラスポット巡りに出発だ！\n気をつけて進んでくれ！",
+    "translation": "そいじゃ、オタカラスポット巡りに出発だ！\n気をつけて進んでくれ！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  }
+]

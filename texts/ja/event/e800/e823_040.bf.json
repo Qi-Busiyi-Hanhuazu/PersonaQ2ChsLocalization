@@ -1,0 +1,93 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "よし、これで２体目も撃破だ。\nなかなか良い手応えだったな。",
+    "translation": "よし、これで２体目も撃破だ。\nなかなか良い手応えだったな。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "言っとくが、まだ勝負はついてねぇかんな。",
+    "translation": "言っとくが、まだ勝負はついてねぇかんな。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "悪いが、このまま俺が白星を\nあげさせてもらう。うらむなよ。",
+    "translation": "悪いが、このまま俺が白星を\nあげさせてもらう。うらむなよ。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ほざいてろ、バカ。",
+    "translation": "ほざいてろ、バカ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "やめないか、お前たち！　毎度毎度、\n下級生の前で恥ずかしくないのか？",
+    "translation": "やめないか、お前たち！　毎度毎度、\n下級生の前で恥ずかしくないのか？",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "そう言うな、美鶴。\n勝負がつけばシンジも大人しくなる。",
+    "translation": "そう言うな、美鶴。\n勝負がつけばシンジも大人しくなる。",
+    "stage": 1,
+    "context": "真田 明彦"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "なんで俺が負ける前提なんだよ？\n黙るのはテメェの方だ。",
+    "translation": "なんで俺が負ける前提なんだよ？\n黙るのはテメェの方だ。",
+    "stage": 1,
+    "context": "荒垣 真次郎"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "ふふっ。じゃあ、この調子で\n３体目の討伐に行きましょう！",
+    "translation": "ふふっ。じゃあ、この調子で\n３体目の討伐に行きましょう！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "やれやれ…先が思いやられるな。",
+    "translation": "やれやれ…先が思いやられるな。",
+    "stage": 1,
+    "context": "桐条 美鶴"
+  },
+  {
+    "key": "speaker_真田 明彦",
+    "original": "真田 明彦",
+    "translation": "真田 明彦",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_荒垣 真次郎",
+    "original": "荒垣 真次郎",
+    "translation": "荒垣 真次郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_桐条 美鶴",
+    "original": "桐条 美鶴",
+    "translation": "桐条 美鶴",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

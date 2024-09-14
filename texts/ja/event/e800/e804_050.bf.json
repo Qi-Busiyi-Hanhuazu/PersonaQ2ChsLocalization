@@ -1,0 +1,100 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "仕留め切れなかったか！",
+    "translation": "仕留め切れなかったか！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "もう、しつこいっての！",
+    "translation": "もう、しつこいっての！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "こうなったら、\nあたしの必殺カンフーでケリつけちゃる！",
+    "translation": "こうなったら、\nあたしの必殺カンフーでケリつけちゃる！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ちょ、千枝ちゃん！？\n待って！　私も行く！",
+    "translation": "ちょ、千枝ちゃん！？\n待って！　私も行く！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_003_0",
+    "original": "待て！",
+    "translation": "待て！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_003_1",
+    "original": "危ないぞ！",
+    "translation": "危ないぞ！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "って、二人とももう行っちまったし！",
+    "translation": "って、二人とももう行っちまったし！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "いや、こういう時の里中は強い。\nきっと大丈夫だ。",
+    "translation": "いや、こういう時の里中は強い。\nきっと大丈夫だ。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "行くぞー！　アチョー！",
+    "translation": "行くぞー！　アチョー！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "わ、私も！　行くよー！\nアチョー！",
+    "translation": "わ、私も！　行くよー！\nアチョー！",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "で、変化したストリートアートって\nどこから探せばいいんだ？",
+    "translation": "で、変化したストリートアートって\nどこから探せばいいんだ？",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "壁の落書き自体は、割と色んな場所に\nあったはずだよ。",
+    "translation": "壁の落書き自体は、割と色んな場所に\nあったはずだよ。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "ほら、あそこにもある。",
+    "translation": "ほら、あそこにもある。",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "つか、ああいう落書きだったら、\n俺が覚えてんのは…",
+    "translation": "つか、ああいう落書きだったら、\n俺が覚えてんのは…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_002_1",
+    "original": "…ココと、ココと、ココ。\n他にもあったかもしれねーけど。",
+    "translation": "…ココと、ココと、ココ。\n他にもあったかもしれねーけど。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "そういえば、前に裏路地の方でも\n描きかけの落書きを発見したな。",
+    "translation": "そういえば、前に裏路地の方でも\n描きかけの落書きを発見したな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "落書きが『変化している』なら、\n上書きしやすいそこが怪しそうだ。",
+    "translation": "落書きが『変化している』なら、\n上書きしやすいそこが怪しそうだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "確かにそうね。\nそこに行ってみましょう。",
+    "translation": "確かにそうね。\nそこに行ってみましょう。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "あ、そういえば…思い出した！",
+    "translation": "あ、そういえば…思い出した！",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "私、一人でこの街を歩いてる時に\n裏路地の方で描きかけの落書きを見たよ。",
+    "translation": "私、一人でこの街を歩いてる時に\n裏路地の方で描きかけの落書きを見たよ。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "描きかけの落書き…？",
+    "translation": "描きかけの落書き…？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "うん。落書きが『変化している』なら、\n上書きしやすい所が怪しそうじゃない？",
+    "translation": "うん。落書きが『変化している』なら、\n上書きしやすい所が怪しそうじゃない？",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "なるほど、確かに…\nジョーカー、見に行ってみないか？",
+    "translation": "なるほど、確かに…\nジョーカー、見に行ってみないか？",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "裏路裏の近くの落書きだな。\nそこへ向かうぞ、ジョーカー！",
+    "translation": "裏路裏の近くの落書きだな。\nそこへ向かうぞ、ジョーカー！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  }
+]

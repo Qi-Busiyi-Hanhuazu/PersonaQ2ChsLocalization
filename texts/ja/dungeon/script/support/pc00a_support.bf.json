@@ -1,0 +1,527 @@
+[
+  {
+    "key": "YUKARI_FOE_FOLLOW_START__0",
+    "original": "ちょっ、Ｆ．Ｏ．Ｅに \n見つかったっぽい！ ",
+    "translation": "ちょっ、Ｆ．Ｏ．Ｅに \n見つかったっぽい！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_FOE_FOLLOW_START__2_0",
+    "original": "どーしよ、Ｆ．Ｏ．Ｅ追ってくるよ！？ ",
+    "translation": "どーしよ、Ｆ．Ｏ．Ｅ追ってくるよ！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_FOE_FOLLOW_START__3_0",
+    "original": "やばっ、Ｆ．Ｏ．Ｅが追ってきてる！ ",
+    "translation": "やばっ、Ｆ．Ｏ．Ｅが追ってきてる！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_FOE_NEAR_1_0",
+    "original": "Ｆ．Ｏ．Ｅがいる…気をつけて進も？ ",
+    "translation": "Ｆ．Ｏ．Ｅがいる…気をつけて進も？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_FOE_NEAR_2_0",
+    "original": "あれってＦ．Ｏ．Ｅだよね？ ",
+    "translation": "あれってＦ．Ｏ．Ｅだよね？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_FOE_NEAR_3_0",
+    "original": "やば… \nＦ．Ｏ．Ｅけっこー近くにいるよ。 ",
+    "translation": "やば… \nＦ．Ｏ．Ｅけっこー近くにいるよ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_FOE_FOLLOW_END_1_0",
+    "original": "Ｆ．Ｏ．Ｅ、 \nもう追ってきてないみたい！ ",
+    "translation": "Ｆ．Ｏ．Ｅ、 \nもう追ってきてないみたい！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_FOE_FOLLOW_END_2_0",
+    "original": "Ｆ．Ｏ．Ｅから逃げ切れたっぽい…？ ",
+    "translation": "Ｆ．Ｏ．Ｅから逃げ切れたっぽい…？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_FOE_FOLLOW_END_3_0",
+    "original": "あ、さっきのＦ．Ｏ．Ｅ諦めたみたい。 ",
+    "translation": "あ、さっきのＦ．Ｏ．Ｅ諦めたみたい。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_KANSI_REACTION_1_0",
+    "original": "見つかったらやばいよ！ ",
+    "translation": "見つかったらやばいよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_KANSI_REACTION_2_0",
+    "original": "注意して進も！ ",
+    "translation": "注意して進も！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_KANSI_REACTION_3_0",
+    "original": "見つからないようにね！ ",
+    "translation": "見つからないようにね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_DENKISAKU_REACTIO_0",
+    "original": "先に電気止めないとね。 ",
+    "translation": "先に電気止めないとね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_DENKISAKU_REACTIO_2_0",
+    "original": "これは触ったらヤバイよね、うん。",
+    "translation": "これは触ったらヤバイよね、うん。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_DENKISAKU_REACTIO_3_0",
+    "original": "ひえー…ビリビリしてるー… ",
+    "translation": "ひえー…ビリビリしてるー… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_KYOUHU_REACTION_1_0",
+    "original": "ええっ！？ ",
+    "translation": "ええっ！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_KYOUHU_REACTION_2_0",
+    "original": "きゃああーっ！ ",
+    "translation": "きゃああーっ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_KYOUHU_REACTION_3_0",
+    "original": "やっ、まじ！？ ",
+    "translation": "やっ、まじ！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_STAIR_FIND_1_0",
+    "original": "あっ、階段発見！　進んじゃう？ ",
+    "translation": "あっ、階段発見！　進んじゃう？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_STAIR_FIND_2_0",
+    "original": "あそこ！　階段あるよ？ ",
+    "translation": "あそこ！　階段あるよ？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_STAIR_FIND_3_0",
+    "original": "次のエリアに進めそうだねー。",
+    "translation": "次のエリアに進めそうだねー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_TREASURE_FIND_1_0",
+    "original": "宝箱があるけど…罠とかじゃないよね？ ",
+    "translation": "宝箱があるけど…罠とかじゃないよね？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_TREASURE_FIND_2_0",
+    "original": "ラッキー！　宝箱みっけ！ ",
+    "translation": "ラッキー！　宝箱みっけ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_TREASURE_FIND_3_0",
+    "original": "宝箱があるね。開けてみる？ ",
+    "translation": "宝箱があるね。開けてみる？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_CHECK_WALL_1_0",
+    "original": "何かあるような…調べてみない？ ",
+    "translation": "何かあるような…調べてみない？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_CHECK_WALL_2_0",
+    "original": "なーんかこの辺、怪しいんだよなぁ。",
+    "translation": "なーんかこの辺、怪しいんだよなぁ。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_CHECK_WALL_3_0",
+    "original": "あれ？　なんかあるよ？ ",
+    "translation": "あれ？　なんかあるよ？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_SWITCH_FIND_1_0",
+    "original": "スイッチ、押してみる？ ",
+    "translation": "スイッチ、押してみる？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_SWITCH_FIND_2_0",
+    "original": "あっ、これスイッチ…？　どうする？ ",
+    "translation": "あっ、これスイッチ…？　どうする？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_SWITCH_FIND_3_0",
+    "original": "スイッチがあるよ！ ",
+    "translation": "スイッチがあるよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_SHORTCUT_FIND_1_0",
+    "original": "そこ、通れそうじゃない？ ",
+    "translation": "そこ、通れそうじゃない？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_SHORTCUT_FIND_2_0",
+    "original": "近道できそうな場所、発見！ ",
+    "translation": "近道できそうな場所、発見！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_SHORTCUT_FIND_3_0",
+    "original": "見て、近道できそうな場所がある。",
+    "translation": "見て、近道できそうな場所がある。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_FOE_WARNING_NEAR__0",
+    "original": "げ、まだ来てる…しつこすぎ！ ",
+    "translation": "げ、まだ来てる…しつこすぎ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_FOE_WARNING_NEAR__2_0",
+    "original": "さっきの、まだ追ってきてない！？ ",
+    "translation": "さっきの、まだ追ってきてない！？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_FOE_WARNING_NEAR__3_0",
+    "original": "Ｆ．Ｏ．Ｅがまだ近くにいるよ！ ",
+    "translation": "Ｆ．Ｏ．Ｅがまだ近くにいるよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_1PERSON_HPTP10_1_0",
+    "original": "ごめん、ちょっときつい… ",
+    "translation": "ごめん、ちょっときつい… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_1PERSON_HPTP10_2_0",
+    "original": "ハァ、ハァ…もー限界… ",
+    "translation": "ハァ、ハァ…もー限界… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_1PERSON_HPTP10_3_0",
+    "original": "もう無理…一度戻ろ？ ",
+    "translation": "もう無理…一度戻ろ？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_1PERSON_HP10_1_0",
+    "original": "体力が…なくなりそう… ",
+    "translation": "体力が…なくなりそう… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_1PERSON_HP10_2_0",
+    "original": "うぅ、ちょっと体力厳しー… ",
+    "translation": "うぅ、ちょっと体力厳しー… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_1PERSON_HP10_3_0",
+    "original": "やば、倒れそう…回復お願い… ",
+    "translation": "やば、倒れそう…回復お願い… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_1PERSON_TP10_1_0",
+    "original": "ごめん、スタミナ切れそう… ",
+    "translation": "ごめん、スタミナ切れそう… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_1PERSON_TP10_2_0",
+    "original": "うう、疲れた…ちょっと休憩しない？ ",
+    "translation": "うう、疲れた…ちょっと休憩しない？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_1PERSON_TP10_3_0",
+    "original": "もう気力無いよー… ",
+    "translation": "もう気力無いよー… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_1PERSON_HP80_1_0",
+    "original": "今の戦闘、いい感じだったねー。",
+    "translation": "今の戦闘、いい感じだったねー。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_1PERSON_HP80_2_0",
+    "original": "この調子でいけるといいな！ ",
+    "translation": "この調子でいけるといいな！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_1PERSON_HP80_3_0",
+    "original": "采配の勝利って感じ？　ありがとね。",
+    "translation": "采配の勝利って感じ？　ありがとね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_DUNGEON_START_1_0",
+    "original": "何があるかわからないし、慎重にね。",
+    "translation": "何があるかわからないし、慎重にね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_DUNGEON_START_2_0",
+    "original": "忘れ物とかないよね？　よし、行こ！ ",
+    "translation": "忘れ物とかないよね？　よし、行こ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_DUNGEON_START_3_0",
+    "original": "よーし、いっちょやりますか！ ",
+    "translation": "よーし、いっちょやりますか！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_QUEST_START_1_0",
+    "original": "さーて、頑張るとするか。",
+    "translation": "さーて、頑張るとするか。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_QUEST_START_2_0",
+    "original": "準備は万端だよ！ ",
+    "translation": "準備は万端だよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_QUEST_START_3_0",
+    "original": "特別上映、いっくよー！ ",
+    "translation": "特別上映、いっくよー！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_TOUHA_25_1_0",
+    "original": "まだまだ先は長いね。 \n気をつけて進も。 ",
+    "translation": "まだまだ先は長いね。 \n気をつけて進も。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_TOUHA_25_2_0",
+    "original": "ひえー…このフロアも広そうだねー… ",
+    "translation": "ひえー…このフロアも広そうだねー… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_TOUHA_50_1_0",
+    "original": "地図、いい感じに埋まってきたね！ ",
+    "translation": "地図、いい感じに埋まってきたね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_TOUHA_50_2_0",
+    "original": "ちょうど半分、って感じかな？ ",
+    "translation": "ちょうど半分、って感じかな？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_TOUHA_75_1_0",
+    "original": "あとちょっとだね！ ",
+    "translation": "あとちょっとだね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_TOUHA_75_2_0",
+    "original": "残りの空白が気になるねー。 ",
+    "translation": "残りの空白が気になるねー。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_TOUHA_100_1_0",
+    "original": "んー、達成感！ \nマッピング、お疲れ様！ ",
+    "translation": "んー、達成感！ \nマッピング、お疲れ様！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_TOUHA_100_2_0",
+    "original": "このエリアのことは任せて？ \nって感じ？ ",
+    "translation": "このエリアのことは任せて？ \nって感じ？ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_MAPPING_ICON_ALL__0",
+    "original": "合ってる合ってる！ ",
+    "translation": "合ってる合ってる！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_MAPPING_ICON_ALL__2_0",
+    "original": "へえ、正確な地図だね！ ",
+    "translation": "へえ、正確な地図だね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_MAPPING_ICON_KAID_0",
+    "original": "そうそう！　階段、そこにあったよね。",
+    "translation": "そうそう！　階段、そこにあったよね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_MAPPING_ICON_KAID_2_0",
+    "original": "これで迷わず階段まで行けるね。 ",
+    "translation": "これで迷わず階段まで行けるね。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_MAPPING_CHANGE_CO_0",
+    "original": "あっ、その色かわいー！ \nいい感じ。 ",
+    "translation": "あっ、その色かわいー！ \nいい感じ。 ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_MAPPING_CHANGE_CO_2_0",
+    "original": "色変えると、わかりやすいね！ ",
+    "translation": "色変えると、わかりやすいね！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_MAPPING_ICON_DEL__0",
+    "original": "整理整頓って結構苦手なんだよなー… ",
+    "translation": "整理整頓って結構苦手なんだよなー… ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_MAPPING_ICON_DEL__2_0",
+    "original": "迷いなく捨てるって大事だよね～。",
+    "translation": "迷いなく捨てるって大事だよね～。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_MAPPING_MEMO_1_0",
+    "original": "メモは大事だよね、うん。",
+    "translation": "メモは大事だよね、うん。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_MAPPING_MEMO_2_0",
+    "original": "メモを取っておくと、後で安心だよね。",
+    "translation": "メモを取っておくと、後で安心だよね。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_DOOR_OPEN_1_0",
+    "original": "こっちこっち！ ",
+    "translation": "こっちこっち！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_DOOR_OPEN_2_0",
+    "original": "ほら、行くよ！ ",
+    "translation": "ほら、行くよ！ ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "YUKARI_DOOR_OPEN_3_0",
+    "original": "おっさきー！ ",
+    "translation": "おっさきー！ ",
+    "stage": 1,
+    "context": ""
+  }
+]

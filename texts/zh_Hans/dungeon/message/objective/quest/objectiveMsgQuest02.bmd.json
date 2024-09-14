@@ -1,0 +1,30 @@
+[
+  {
+    "key": "DG_OBJECTIVE_MSG_LARGE_0_0",
+    "original": "“目的地”に辿り着け",
+    "translation": "到达“目的地”",
+    "stage": 0,
+    "context": "机翻辅助：\n\n到达“目的地”"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_0",
+    "original": "迷宮内を進め",
+    "translation": "向迷宫内前进",
+    "stage": 1,
+    "context": "机翻辅助：\n\n在迷宫内前进\n\n在迷宫中前进"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_2_0",
+    "original": "Ｆ．Ｏ．Ｅを避けて進め",
+    "translation": "避开F.O.E前进",
+    "stage": 0,
+    "context": "机翻辅助：\n\n避开F.O.E前进"
+  },
+  {
+    "key": "DG_OBJECTIVE_MSG_SMALL_0_3_0",
+    "original": "クエストクリア報告に向かおう",
+    "translation": "去完成任务报告",
+    "stage": 0,
+    "context": "机翻辅助：\n\n去完成任务报告\n\n向着任务完成报告前进吧\n\n前往任务通关报告"
+  }
+]

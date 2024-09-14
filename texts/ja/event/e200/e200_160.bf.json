@@ -1,0 +1,821 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "ふう…まだ先は長そうね。\nみんな体力は平気？",
+    "translation": "ふう…まだ先は長そうね。\nみんな体力は平気？",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "うん、これくらいまだまだ余裕だよ。",
+    "translation": "うん、これくらいまだまだ余裕だよ。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_001_1",
+    "original": "それより、本当に服が変わってるんだね。\n凄いね、なにか仕掛けでもあるのかな？",
+    "translation": "それより、本当に服が変わってるんだね。\n凄いね、なにか仕掛けでもあるのかな？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "驚くのは分かるけど、あんまり見られると\nちょっと恥ずかしいわね…",
+    "translation": "驚くのは分かるけど、あんまり見られると\nちょっと恥ずかしいわね…",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "服も興味深いですが、\nそのジョーカーという呼び名…",
+    "translation": "服も興味深いですが、\nそのジョーカーという呼び名…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_003_1",
+    "original": "ひょっとして、コードネームですか？",
+    "translation": "ひょっとして、コードネームですか？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "フフッ。\n探偵としては、やっぱり気になるかな？",
+    "translation": "フフッ。\n探偵としては、やっぱり気になるかな？",
+    "stage": 1,
+    "context": "明智 吾郎"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "い、いえ…\n単純な興味です。",
+    "translation": "い、いえ…\n単純な興味です。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "俺たちは、世間を騒がしているからな…\n世を忍ぶ必要がある。",
+    "translation": "俺たちは、世間を騒がしているからな…\n世を忍ぶ必要がある。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_006_1",
+    "original": "だから、活動中はコードネームで\n呼び合うことにしているんだ。",
+    "translation": "だから、活動中はコードネームで\n呼び合うことにしているんだ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "おほ～！\nなんだかカッチョイー！",
+    "translation": "おほ～！\nなんだかカッチョイー！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "ねえ。私も、コードネーム欲しい。",
+    "translation": "ねえ。私も、コードネーム欲しい。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "ちょ、雪子！？",
+    "translation": "ちょ、雪子！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "だって、かっこいいよ？\n直斗くんもコードネーム欲しいよね？",
+    "translation": "だって、かっこいいよ？\n直斗くんもコードネーム欲しいよね？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_011_0",
+    "original": "えっ！？　ぼ、僕は…\nその…あったら便利そうだなって…",
+    "translation": "えっ！？　ぼ、僕は…\nその…あったら便利そうだなって…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_012_0",
+    "original": "千枝、早くコードネーム決めなきゃ。\nなにがいいかな？",
+    "translation": "千枝、早くコードネーム決めなきゃ。\nなにがいいかな？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_013_0",
+    "original": "決定事項かい！",
+    "translation": "決定事項かい！",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_013_1",
+    "original": "てか、いきなりコードネームって\n言われても…あたしら本職じゃないし。",
+    "translation": "てか、いきなりコードネームって\n言われても…あたしら本職じゃないし。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_014_0",
+    "original": "しょうがねーな。ならここは、\n本職のワガハイたちに任せとけ。",
+    "translation": "しょうがねーな。ならここは、\n本職のワガハイたちに任せとけ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_014_1",
+    "original": "ジョーカー。ユキコに、いっちょ\nカッコいい怪盗ネームを頼むぜ！",
+    "translation": "ジョーカー。ユキコに、いっちょ\nカッコいい怪盗ネームを頼むぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "SEL_015_0",
+    "original": "スノープリンセス",
+    "translation": "スノープリンセス",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_015_1",
+    "original": "ブラックファイヤー",
+    "translation": "ブラックファイヤー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_015_2",
+    "original": "オカミ",
+    "translation": "オカミ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_016_0",
+    "original": "なるほど、名前から取ったか。\n正統派だが…長いな。",
+    "translation": "なるほど、名前から取ったか。\n正統派だが…長いな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_017_0",
+    "original": "じゃあ、スノプリとかどう？\n可愛くない？",
+    "translation": "じゃあ、スノプリとかどう？\n可愛くない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_018_0",
+    "original": "それも言いづれぇな。\nプリプリしてっし。",
+    "translation": "それも言いづれぇな。\nプリプリしてっし。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_019_0",
+    "original": "いいね。強そうだし、気に入った。",
+    "translation": "いいね。強そうだし、気に入った。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_020_0",
+    "original": "気に入るのかよ！？",
+    "translation": "気に入るのかよ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_021_0",
+    "original": "だが、なぜブラックなんだ？\n彼女は赤い服を着ているぞ。",
+    "translation": "だが、なぜブラックなんだ？\n彼女は赤い服を着ているぞ。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_022_0",
+    "original": "もしや…ユキチャンの本質を\nまるっとお見通しクマか？",
+    "translation": "もしや…ユキチャンの本質を\nまるっとお見通しクマか？",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_023_0",
+    "original": "クマさん、なにか言った？\nふふふ…燃やすよ？",
+    "translation": "クマさん、なにか言った？\nふふふ…燃やすよ？",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_024_0",
+    "original": "な、なるほど…ブラックファイヤーか。\n本質をついているな。",
+    "translation": "な、なるほど…ブラックファイヤーか。\n本質をついているな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_025_0",
+    "original": "雑すぎっつーか、まんまだな！\nせめて英語にするとかあんだろ。",
+    "translation": "雑すぎっつーか、まんまだな！\nせめて英語にするとかあんだろ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_025_5_0",
+    "original": "英語だと、ほら…なんだ？\nオ～ゥカァミィ？",
+    "translation": "英語だと、ほら…なんだ？\nオ～ゥカァミィ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_026_0",
+    "original": "アホでしょ…ま、スシとかゲイシャと\n同じノリなら、オカミなんじゃない？",
+    "translation": "アホでしょ…ま、スシとかゲイシャと\n同じノリなら、オカミなんじゃない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_027_0",
+    "original": "なんかもう、フジヤマとかテンプラと\n同じレベルじゃん…",
+    "translation": "なんかもう、フジヤマとかテンプラと\n同じレベルじゃん…",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_028_0",
+    "original": "じゃあ次は、直斗くんの番ね。",
+    "translation": "じゃあ次は、直斗くんの番ね。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_029_0",
+    "original": "え？　ホントにつけるんですか…？",
+    "translation": "え？　ホントにつけるんですか…？",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_030_0",
+    "original": "そうだな…\nプラチナレディとかどうだろうか。",
+    "translation": "そうだな…\nプラチナレディとかどうだろうか。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_031_0",
+    "original": "はぁ？　レディって、おま…",
+    "translation": "はぁ？　レディって、おま…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_032_0",
+    "original": "たしかに、レディはちょっとカタいよね。\nプラチナガールのほうが良くない？",
+    "translation": "たしかに、レディはちょっとカタいよね。\nプラチナガールのほうが良くない？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_033_0",
+    "original": "いやいや！　だから、なんで直斗が\nレディとかガールなんだよ！？",
+    "translation": "いやいや！　だから、なんで直斗が\nレディとかガールなんだよ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_034_0",
+    "original": "なんでって、直斗くんは女の子だよ？",
+    "translation": "なんでって、直斗くんは女の子だよ？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_035_0",
+    "original": "え、は…？　マジかよ！？\nつか、ジョーカーは知ってたの！？",
+    "translation": "え、は…？　マジかよ！？\nつか、ジョーカーは知ってたの！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "SEL_036_0",
+    "original": "知ってた",
+    "translation": "知ってた",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_036_1",
+    "original": "知らなかった…",
+    "translation": "知らなかった…",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_037_0",
+    "original": "マジ？　なんで！？\nどこで気づいたんだよ？",
+    "translation": "マジ？　なんで！？\nどこで気づいたんだよ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_038_0",
+    "original": "だよな、だよな！？\nぜんっぜん気づかねぇよな！？",
+    "translation": "だよな、だよな！？\nぜんっぜん気づかねぇよな！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_039_0",
+    "original": "鈍感すぎるんじゃない？\nみんな気づいてるのかと思ってた。",
+    "translation": "鈍感すぎるんじゃない？\nみんな気づいてるのかと思ってた。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_040_0",
+    "original": "鈍感どうこうの話じゃなくね？\n疑いもしなかったってか…信じらんねぇ…",
+    "translation": "鈍感どうこうの話じゃなくね？\n疑いもしなかったってか…信じらんねぇ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_041_0",
+    "original": "も、もうこの話題は終わりにしましょう！\n久慈川さん、次どうぞ！",
+    "translation": "も、もうこの話題は終わりにしましょう！\n久慈川さん、次どうぞ！",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_042_0",
+    "original": "私？\nなになに、どんな名前がいいかな？",
+    "translation": "私？\nなになに、どんな名前がいいかな？",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_043_0",
+    "original": "りせちーは…アイドル？\nって、さすがにまんまか。",
+    "translation": "りせちーは…アイドル？\nって、さすがにまんまか。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_044_0",
+    "original": "それに、クマと被っちゃうクマ。\nクマもアイドルですから。",
+    "translation": "それに、クマと被っちゃうクマ。\nクマもアイドルですから。",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_045_0",
+    "original": "はいはい。次いこ、次。",
+    "translation": "はいはい。次いこ、次。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_046_0",
+    "original": "千枝先輩は、やっぱりカンフーかな？\nそれか、お肉…",
+    "translation": "千枝先輩は、やっぱりカンフーかな？\nそれか、お肉…",
+    "stage": 1,
+    "context": "久慈川 りせ"
+  },
+  {
+    "key": "MSG_047_0",
+    "original": "肉…ミート…\nうーん、サーロイン？",
+    "translation": "肉…ミート…\nうーん、サーロイン？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_048_0",
+    "original": "あ、千枝っぽくていいと思う。\nフィレよりも言いやすいし。",
+    "translation": "あ、千枝っぽくていいと思う。\nフィレよりも言いやすいし。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_049_0",
+    "original": "コードネームってか、部位じゃん！？",
+    "translation": "コードネームってか、部位じゃん！？",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_050_0",
+    "original": "次、完二くんは…\nがい骨の服着てるから、スカル２号？",
+    "translation": "次、完二くんは…\nがい骨の服着てるから、スカル２号？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_051_0",
+    "original": "ちょ、２号扱いかよ！？",
+    "translation": "ちょ、２号扱いかよ！？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_052_0",
+    "original": "よくオラオラ言ってるし、オラオラスカル…",
+    "translation": "よくオラオラ言ってるし、オラオラスカル…",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_052_1",
+    "original": "ぷぷっ…なんか、アライグマみたい…\nぷっ、くくくっ…あはははははっ！",
+    "translation": "ぷぷっ…なんか、アライグマみたい…\nぷっ、くくくっ…あはははははっ！",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_053_0",
+    "original": "もう、なんでもいっス…\nつーかこれ、まだ続くんスか？",
+    "translation": "もう、なんでもいっス…\nつーかこれ、まだ続くんスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_054_0",
+    "original": "クマ、まだ決まっとらんクマ！\nビショーネンか、プリチークマか…",
+    "translation": "クマ、まだ決まっとらんクマ！\nビショーネンか、プリチークマか…",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_055_0",
+    "original": "クマはクマだろ、終わり。",
+    "translation": "クマはクマだろ、終わり。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_056_0",
+    "original": "ムキー！　終わりじゃないクマ！",
+    "translation": "ムキー！　終わりじゃないクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_056_1",
+    "original": "ミンナノアイドルとかアイサレボーイとか、\n候補がいっぱいあって悩むの！",
+    "translation": "ミンナノアイドルとかアイサレボーイとか、\n候補がいっぱいあって悩むの！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_057_0",
+    "original": "それでも、クマだな。",
+    "translation": "それでも、クマだな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_058_0",
+    "original": "うん、クマね。",
+    "translation": "うん、クマね。",
+    "stage": 1,
+    "context": "新島 真"
+  },
+  {
+    "key": "MSG_059_0",
+    "original": "し、しどい…こうなったら、センセイに\nクマの無念を託すクマ…！",
+    "translation": "し、しどい…こうなったら、センセイに\nクマの無念を託すクマ…！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_060_0",
+    "original": "[P4名]のコードネームかぁ…\nどんなのがいいと思う、ジョーカー？",
+    "translation": "[P4名]のコードネームかぁ…\nどんなのがいいと思う、ジョーカー？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "SEL_061_0",
+    "original": "番長",
+    "translation": "番長",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_061_1",
+    "original": "センセイ",
+    "translation": "センセイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_061_2",
+    "original": "ヤソガミウルフ",
+    "translation": "ヤソガミウルフ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_062_0",
+    "original": "番長…",
+    "translation": "番長…",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_063_0",
+    "original": "なぜか、不思議としっくりくるな。",
+    "translation": "なぜか、不思議としっくりくるな。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_064_0",
+    "original": "最初のジョーカーとのタイマンだろ？\nアレが効いてんだよ。",
+    "translation": "最初のジョーカーとのタイマンだろ？\nアレが効いてんだよ。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_065_0",
+    "original": "さっすがセンセイ！\nフツーじゃないカンロクがあるクマ！",
+    "translation": "さっすがセンセイ！\nフツーじゃないカンロクがあるクマ！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_066_0",
+    "original": "センセイか…クマ以外から呼ばれると、\nヘンな感じだな。",
+    "translation": "センセイか…クマ以外から呼ばれると、\nヘンな感じだな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_067_0",
+    "original": "センセイは、クマとセンセイの関係だから\n呼べるクマ！　センセイは、クマ専用ね！",
+    "translation": "センセイは、クマとセンセイの関係だから\n呼べるクマ！　センセイは、クマ専用ね！",
+    "stage": 1,
+    "context": "クマ"
+  },
+  {
+    "key": "MSG_068_0",
+    "original": "ヤソガミウルフ…！？",
+    "translation": "ヤソガミウルフ…！？",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_069_0",
+    "original": "…ほう、なかなか良いな。\n強そうでいて、凛とした響きがある。",
+    "translation": "…ほう、なかなか良いな。\n強そうでいて、凛とした響きがある。",
+    "stage": 1,
+    "context": "喜多川 祐介"
+  },
+  {
+    "key": "MSG_070_0",
+    "original": "いやいや、さすがにちょっと\nセンスぶっ飛びすぎじゃ…",
+    "translation": "いやいや、さすがにちょっと\nセンスぶっ飛びすぎじゃ…",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_071_0",
+    "original": "ヤソガミウルフか…なるほど。",
+    "translation": "ヤソガミウルフか…なるほど。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_072_0",
+    "original": "あ、意外と気に入ったんですね。",
+    "translation": "あ、意外と気に入ったんですね。",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "MSG_073_0",
+    "original": "[P4姓]くんなら、菜々子ちゃんから\nイメージするのもアリかも。",
+    "translation": "[P4姓]くんなら、菜々子ちゃんから\nイメージするのもアリかも。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_074_0",
+    "original": "ナナコダイスキ、とかっスか？",
+    "translation": "ナナコダイスキ、とかっスか？",
+    "stage": 1,
+    "context": "巽 完二"
+  },
+  {
+    "key": "MSG_075_0",
+    "original": "悪くないな。",
+    "translation": "悪くないな。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_076_0",
+    "original": "えと…ナナコちゃんって誰？\n[P4姓]くんのご家族？",
+    "translation": "えと…ナナコちゃんって誰？\n[P4姓]くんのご家族？",
+    "stage": 1,
+    "context": "奥村 春"
+  },
+  {
+    "key": "MSG_077_0",
+    "original": "ああ、いとこの小学生だ。\n一緒に暮らしてる。",
+    "translation": "ああ、いとこの小学生だ。\n一緒に暮らしてる。",
+    "stage": 1,
+    "context": "Ｐ４主人公"
+  },
+  {
+    "key": "MSG_078_0",
+    "original": "へー。\nジョーカーとナビみたいなもんか。",
+    "translation": "へー。\nジョーカーとナビみたいなもんか。",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_079_0",
+    "original": "おい、スカル！\n私は小学生ほど小さくないぞ！！",
+    "translation": "おい、スカル！\n私は小学生ほど小さくないぞ！！",
+    "stage": 1,
+    "context": "佐倉 双葉"
+  },
+  {
+    "key": "MSG_080_0",
+    "original": "そこかよ！？",
+    "translation": "そこかよ！？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_081_0",
+    "original": "ハァ…もはや、なんの話してるのか\n分からなくなってきたな…",
+    "translation": "ハァ…もはや、なんの話してるのか\n分からなくなってきたな…",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_082_0",
+    "original": "コードネームつけるの、止めませんか？\nこのまま考えても、まとまらないかと…",
+    "translation": "コードネームつけるの、止めませんか？\nこのまま考えても、まとまらないかと…",
+    "stage": 1,
+    "context": "白鐘 直斗"
+  },
+  {
+    "key": "SEL_083_0",
+    "original": "そうだな",
+    "translation": "そうだな",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "SEL_083_1",
+    "original": "残念だ",
+    "translation": "残念だ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MSG_084_0",
+    "original": "あー、面白かった。\nまた考えようね、コードネーム。",
+    "translation": "あー、面白かった。\nまた考えようね、コードネーム。",
+    "stage": 1,
+    "context": "天城 雪子"
+  },
+  {
+    "key": "MSG_085_0",
+    "original": "いいけどさ…\nこれ、結局ただの雑談じゃん。",
+    "translation": "いいけどさ…\nこれ、結局ただの雑談じゃん。",
+    "stage": 1,
+    "context": "里中 千枝"
+  },
+  {
+    "key": "MSG_086_0",
+    "original": "まあ、オマエらは正体を隠す必要もないし、\nコードネームは要らないな。",
+    "translation": "まあ、オマエらは正体を隠す必要もないし、\nコードネームは要らないな。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_086_1",
+    "original": "まずは、ここを出ることを考えようぜ。",
+    "translation": "まずは、ここを出ることを考えようぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_新島 真",
+    "original": "新島 真",
+    "translation": "新島 真",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_天城 雪子",
+    "original": "天城 雪子",
+    "translation": "天城 雪子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_白鐘 直斗",
+    "original": "白鐘 直斗",
+    "translation": "白鐘 直斗",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_明智 吾郎",
+    "original": "明智 吾郎",
+    "translation": "明智 吾郎",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_喜多川 祐介",
+    "original": "喜多川 祐介",
+    "translation": "喜多川 祐介",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_クマ",
+    "original": "クマ",
+    "translation": "クマ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_里中 千枝",
+    "original": "里中 千枝",
+    "translation": "里中 千枝",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_奥村 春",
+    "original": "奥村 春",
+    "translation": "奥村 春",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_久慈川 りせ",
+    "original": "久慈川 りせ",
+    "translation": "久慈川 りせ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_巽 完二",
+    "original": "巽 完二",
+    "translation": "巽 完二",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ４主人公",
+    "original": "Ｐ４主人公",
+    "translation": "Ｐ４主人公",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_佐倉 双葉",
+    "original": "佐倉 双葉",
+    "translation": "佐倉 双葉",
+    "stage": 1,
+    "context": ""
+  }
+]

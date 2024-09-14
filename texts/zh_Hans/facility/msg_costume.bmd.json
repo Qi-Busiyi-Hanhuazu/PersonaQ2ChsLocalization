@@ -1,0 +1,72 @@
+[
+  {
+    "key": "Y_FCL_DIALOG_MSG_EITHER_0",
+    "original": "はい",
+    "translation": "是",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "Y_FCL_DIALOG_MSG_EITHER_1",
+    "original": "いいえ",
+    "translation": "否",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "Y_FCLSHOP_BUY_MSG_0",
+    "original": "＞[占位B 01]を購入しますか？",
+    "translation": "＞是否购买[占位B 01]？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞是否购买[占位B 01]？\n\n＞购买[占位B 01]吗？\n\n＞购买[占位B 01]？"
+  },
+  {
+    "key": "Y_FCLSHOP_SELL_MSG_0",
+    "original": "＞[占位B 01]を[占位A 02]個売却しますか？",
+    "translation": "＞要卖掉[占位A 02]个[占位B 01]吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞[占位B 01]要卖掉[占位A 02]　张吗？\n\n＞[占位B 01][占位A 02]个出售？\n\n＞出售[占位B 01]个吗？[占位A 02]"
+  },
+  {
+    "key": "Y_FCLSHOP_EQUIP_0",
+    "original": "＞[占位B 01]を装備しますか？",
+    "translation": "＞要装备[占位B 01]吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞要装备[占位B 01]　吗？\n\n＞装备[占位B 01]吗？"
+  },
+  {
+    "key": "Y_FCLSHOP_TRADE_0",
+    "original": "＞今まで装備していた\n　[占位B 01]を売りますか？",
+    "translation": "＞要卖掉正在装备的\n　[占位B 01]吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞要卖掉至今装备的\n　和[占位B 01]　吗？\n\n＞卖到现在为止装备的\n　[占位B 01]吗？\n\n＞至今为止装备的\n　[占位B 01]有卖吗？"
+  },
+  {
+    "key": "CSHOP_ADDNEW_0",
+    "original": "＞新規入荷メッセージ",
+    "translation": "＞进货通知",
+    "stage": 0,
+    "context": "机翻辅助：\n\n＞进货通知\n\n＞新建收货消息\n\n＞新到货信息"
+  },
+  {
+    "key": "CSHOP_HELLO_0",
+    "original": "＞入店時挨拶",
+    "translation": "＞入店时问候",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞入店时招呼\n\n＞进店时打招呼\n\n＞进店时问候"
+  },
+  {
+    "key": "CSHOP_HELLO_RAIN_0",
+    "original": "＞入店時挨拶",
+    "translation": "＞入店时问候",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞入店时招呼\n\n＞进店时打招呼\n\n＞进店时问候"
+  },
+  {
+    "key": "CSHOP_MSG_EQUIP_SET_0",
+    "original": "＞この衣装はセットになっています。\n　全員、この衣装を装備しますか？",
+    "translation": "＞这套服装是成套的。\n　要全员一起装备吗？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n＞这套服装是成套的。\n　要所有人一起装备吗？\n\n＞这件衣服是成套的。\n　所有人都会装备这件衣服吗？\n\n＞这个服装是成套的。\n　全体人员都装备这个服装吗？"
+  }
+]

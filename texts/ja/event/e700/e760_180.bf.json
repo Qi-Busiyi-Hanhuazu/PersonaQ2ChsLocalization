@@ -1,0 +1,163 @@
+[
+  {
+    "key": "MSG_000_0",
+    "original": "行き止まりか…\n壁にポスターが貼ってあるだけだぜ。",
+    "translation": "行き止まりか…\n壁にポスターが貼ってあるだけだぜ。",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "MSG_001_0",
+    "original": "あ、このポスターの映画…！",
+    "translation": "あ、このポスターの映画…！",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_002_0",
+    "original": "ひかりちゃん、知ってるの？\n有名な作品？",
+    "translation": "ひかりちゃん、知ってるの？\n有名な作品？",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_003_0",
+    "original": "ううん、そうじゃないの。\n私が大好きな映画のに似てて…",
+    "translation": "ううん、そうじゃないの。\n私が大好きな映画のに似てて…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_004_0",
+    "original": "へー。どう好きなんだ？",
+    "translation": "へー。どう好きなんだ？",
+    "stage": 1,
+    "context": "坂本 竜司"
+  },
+  {
+    "key": "MSG_005_0",
+    "original": "上手く説明しづらいんだけど…\n監督の映画への愛が溢れてる作品でね。",
+    "translation": "上手く説明しづらいんだけど…\n監督の映画への愛が溢れてる作品でね。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_1",
+    "original": "音楽も演出もすごく素敵で、見てるだけで\nこっちも優しい気持ちになれるの。",
+    "translation": "音楽も演出もすごく素敵で、見てるだけで\nこっちも優しい気持ちになれるの。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_2",
+    "original": "有名なスターは出てないし、派手でお金が\nかかった演出もないんだけど…",
+    "translation": "有名なスターは出てないし、派手でお金が\nかかった演出もないんだけど…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_005_3",
+    "original": "それでも、心に響く映画は作れるんだって\n私が初めて知った作品なんだ。",
+    "translation": "それでも、心に響く映画は作れるんだって\n私が初めて知った作品なんだ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_006_0",
+    "original": "そっか、いい映画なんだね。\n私も興味出てきたかも。",
+    "translation": "そっか、いい映画なんだね。\n私も興味出てきたかも。",
+    "stage": 1,
+    "context": "Ｐ３主人公（女）"
+  },
+  {
+    "key": "MSG_007_0",
+    "original": "映画ってさ、ひかりちゃんが感じたみたいに\n本当はいいもののはずなんだよな。",
+    "translation": "映画ってさ、ひかりちゃんが感じたみたいに\n本当はいいもののはずなんだよな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_007_1",
+    "original": "それなのに、ここにはわざと歪められた\n映画ばっかり流れててさ…悔しいな。",
+    "translation": "それなのに、ここにはわざと歪められた\n映画ばっかり流れててさ…悔しいな。",
+    "stage": 1,
+    "context": "花村 陽介"
+  },
+  {
+    "key": "MSG_008_0",
+    "original": "みんなにも、早く思い出させたい。\n映画はこんなものじゃないんだって。",
+    "translation": "みんなにも、早く思い出させたい。\n映画はこんなものじゃないんだって。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_008_1",
+    "original": "そのためにも、手遅れになる前に\n早くエンリルを止めないとね。",
+    "translation": "そのためにも、手遅れになる前に\n早くエンリルを止めないとね。",
+    "stage": 1,
+    "context": "高巻 杏"
+  },
+  {
+    "key": "MSG_009_0",
+    "original": "うん。\nきっと現実は映画より困難だけど…",
+    "translation": "うん。\nきっと現実は映画より困難だけど…",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_009_1",
+    "original": "それでも、踏み出さなくちゃ。",
+    "translation": "それでも、踏み出さなくちゃ。",
+    "stage": 1,
+    "context": "ひかり"
+  },
+  {
+    "key": "MSG_010_0",
+    "original": "よし、先に進もうぜ！",
+    "translation": "よし、先に進もうぜ！",
+    "stage": 1,
+    "context": "モルガナ"
+  },
+  {
+    "key": "speaker_モルガナ",
+    "original": "モルガナ",
+    "translation": "モルガナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_ひかり",
+    "original": "ひかり",
+    "translation": "ひかり",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_高巻 杏",
+    "original": "高巻 杏",
+    "translation": "高巻 杏",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_坂本 竜司",
+    "original": "坂本 竜司",
+    "translation": "坂本 竜司",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_Ｐ３主人公（女）",
+    "original": "Ｐ３主人公（女）",
+    "translation": "Ｐ３主人公（女）",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "speaker_花村 陽介",
+    "original": "花村 陽介",
+    "translation": "花村 陽介",
+    "stage": 1,
+    "context": ""
+  }
+]

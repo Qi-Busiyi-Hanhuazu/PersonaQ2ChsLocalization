@@ -1,0 +1,485 @@
+[
+  {
+    "key": "text_000_0",
+    "original": "天使の像が欲しい",
+    "translation": "天使の像が欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_001_0",
+    "original": "悪魔の像が欲しい",
+    "translation": "悪魔の像が欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_002_0",
+    "original": "屋上のあの子",
+    "translation": "屋上のあの子",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_003_0",
+    "original": "リッツ線が欲しい",
+    "translation": "リッツ線が欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_004_0",
+    "original": "幻の酒が欲しい",
+    "translation": "幻の酒が欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_005_0",
+    "original": "好きな人とうまくいきますように",
+    "translation": "好きな人とうまくいきますように",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_006_0",
+    "original": "机の修繕",
+    "translation": "机の修繕",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_007_0",
+    "original": "本と交換",
+    "translation": "本と交換",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_008_0",
+    "original": "古びた鍵が欲しい",
+    "translation": "古びた鍵が欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_009_0",
+    "original": "カーメンの課外授業・１",
+    "translation": "カーメンの課外授業・１",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_010_0",
+    "original": "石炭が欲しい",
+    "translation": "石炭が欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_011_0",
+    "original": "机の改造",
+    "translation": "机の改造",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_012_0",
+    "original": "おやつが嫌いになりますように",
+    "translation": "おやつが嫌いになりますように",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_013_0",
+    "original": "猫にエサをあげてほしい",
+    "translation": "猫にエサをあげてほしい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_014_0",
+    "original": "十字架が欲しい",
+    "translation": "十字架が欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_015_0",
+    "original": "立派な角が欲しい",
+    "translation": "立派な角が欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_016_0",
+    "original": "妹を捜してきて",
+    "translation": "妹を捜してきて",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_017_0",
+    "original": "姉への道",
+    "translation": "姉への道",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_018_0",
+    "original": "針銀鉱が欲しい",
+    "translation": "針銀鉱が欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_019_0",
+    "original": "犬を探して",
+    "translation": "犬を探して",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_020_0",
+    "original": "魔除けのヴェールが欲しい",
+    "translation": "魔除けのヴェールが欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_021_0",
+    "original": "ハードブーツが欲しい",
+    "translation": "ハードブーツが欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_022_0",
+    "original": "迷走！ナゾナゾ先輩！",
+    "translation": "迷走！ナゾナゾ先輩！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_023_0",
+    "original": "ランプが欲しい",
+    "translation": "ランプが欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_024_0",
+    "original": "やっぱり猫が気になる",
+    "translation": "やっぱり猫が気になる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_025_0",
+    "original": "友だちが欲しい",
+    "translation": "友だちが欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_026_0",
+    "original": "オシャレな皿が欲しい",
+    "translation": "オシャレな皿が欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_027_0",
+    "original": "姉まであと一歩",
+    "translation": "姉まであと一歩",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_028_0",
+    "original": "テレパシー実験",
+    "translation": "テレパシー実験",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_029_0",
+    "original": "生きがいを取り戻したい",
+    "translation": "生きがいを取り戻したい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_030_0",
+    "original": "カーメンの課外授業・２",
+    "translation": "カーメンの課外授業・２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_031_0",
+    "original": "水晶玉が欲しい",
+    "translation": "水晶玉が欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_032_0",
+    "original": "石炭が欲しい・２",
+    "translation": "石炭が欲しい・２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_033_0",
+    "original": "君は本の内容を覚えているか",
+    "translation": "君は本の内容を覚えているか",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_034_0",
+    "original": "父へのプレゼント",
+    "translation": "父へのプレゼント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_035_0",
+    "original": "口下手を直したい",
+    "translation": "口下手を直したい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_036_0",
+    "original": "高速ギアが欲しい",
+    "translation": "高速ギアが欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_037_0",
+    "original": "姉からの卒業",
+    "translation": "姉からの卒業",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_038_0",
+    "original": "演習弾が欲しい",
+    "translation": "演習弾が欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_039_0",
+    "original": "最後のテレパシー",
+    "translation": "最後のテレパシー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_040_0",
+    "original": "猫に慣れたい",
+    "translation": "猫に慣れたい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_041_0",
+    "original": "落としたお金を探して",
+    "translation": "落としたお金を探して",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_042_0",
+    "original": "屋上のあの子・２",
+    "translation": "屋上のあの子・２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_043_0",
+    "original": "父へのプレゼント・２",
+    "translation": "父へのプレゼント・２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_044_0",
+    "original": "古い鉱石が欲しい",
+    "translation": "古い鉱石が欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_045_0",
+    "original": "ランプが欲しい・２",
+    "translation": "ランプが欲しい・２",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_046_0",
+    "original": "覚醒！ナゾナゾ先輩！",
+    "translation": "覚醒！ナゾナゾ先輩！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_047_0",
+    "original": "七里海岸のヌシを一目見たい",
+    "translation": "七里海岸のヌシを一目見たい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_048_0",
+    "original": "それでも猫が気になる",
+    "translation": "それでも猫が気になる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_049_0",
+    "original": "逆襲！ナゾナゾ先輩！",
+    "translation": "逆襲！ナゾナゾ先輩！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_050_0",
+    "original": "カーメンの課外授業・３",
+    "translation": "カーメンの課外授業・３",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_051_0",
+    "original": "黄金鎖の束が欲しい",
+    "translation": "黄金鎖の束が欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_052_0",
+    "original": "学生の本分は学業である",
+    "translation": "学生の本分は学業である",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_053_0",
+    "original": "柏木先生の特別授業・１",
+    "translation": "柏木先生の特別授業・１",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_054_0",
+    "original": "清掃部の魂を受け継いで欲しい",
+    "translation": "清掃部の魂を受け継いで欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_055_0",
+    "original": "復活！ナゾナゾ先輩！",
+    "translation": "復活！ナゾナゾ先輩！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_056_0",
+    "original": "稲羽マスが欲しい",
+    "translation": "稲羽マスが欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_057_0",
+    "original": "２種類のトウモロコシが欲しい",
+    "translation": "２種類のトウモロコシが欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_058_0",
+    "original": "鮫川のヌシが欲しい",
+    "translation": "鮫川のヌシが欲しい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_059_0",
+    "original": "稲羽産キャベツでないとダメなの",
+    "translation": "稲羽産キャベツでないとダメなの",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_060_0",
+    "original": "ティッシュ配り代行します",
+    "translation": "ティッシュ配り代行します",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_061_0",
+    "original": "映画に出てきた物について知りたい",
+    "translation": "映画に出てきた物について知りたい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_062_0",
+    "original": "気に入る服を見つけてきて",
+    "translation": "気に入る服を見つけてきて",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_063_0",
+    "original": "ときめくあの服が見たい",
+    "translation": "ときめくあの服が見たい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_064_0",
+    "original": "うちの子を捜して",
+    "translation": "うちの子を捜して",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_065_0",
+    "original": "うちの子を捜して、再び",
+    "translation": "うちの子を捜して、再び",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_066_0",
+    "original": "かわいいスリッパが見たい",
+    "translation": "かわいいスリッパが見たい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_067_0",
+    "original": "ぷにぷにの肉球付き手袋が見たい",
+    "translation": "ぷにぷにの肉球付き手袋が見たい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "text_068_0",
+    "original": "柏木先生の特別授業・２",
+    "translation": "柏木先生の特別授業・２",
+    "stage": 1,
+    "context": ""
+  }
+]
