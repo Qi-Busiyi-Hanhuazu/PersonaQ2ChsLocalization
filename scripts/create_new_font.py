@@ -111,6 +111,7 @@ def create_new_font(file_name: str, input_dir: str, output_dir: str, char_table:
       }
       if char == "㍽":
         char_info["char"] = round(font_size * 0.75)
+        char_info["glyph"] = round(font_size * 0.75)
 
     if char in CHINESE_PUNCTUATIONS_LEFT:
       char_info["char"] = font_size

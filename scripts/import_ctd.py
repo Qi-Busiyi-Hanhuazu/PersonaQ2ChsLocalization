@@ -51,6 +51,10 @@ def import_ctd(input_root: str, message_root: str, output_root: str):
           else:
             left_len = 0x00
             right_len = 0x00
+        
+        if "bgmSettingConditions" in sheet_name and i not in {0, 14}:
+          continue
+
         raw_bytes = (
           binary[start_pos : start_pos + left_len]
           + text_bytes.ljust(row_size - left_len - right_len, b"\0")

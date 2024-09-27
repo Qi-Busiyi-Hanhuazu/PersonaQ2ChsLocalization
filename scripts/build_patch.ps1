@@ -13,6 +13,9 @@ if (Test-Path -Path "temp\" -PathType "Container") {
 
 # Unpack/extract original files
 if (-Not (Test-Path -Path "unpacked\exefs\code.bin" -PathType "Leaf")) {
+  if (Test-Path -Path "unpacked\" -PathType "Container") {
+    Remove-Item -Recurse -Force "unpacked\"
+  }
   New-Item -ItemType Directory -Path "unpacked" -Force
   & $3dstool -xvtf cxi "original_files\00000002.app" --header "unpacked\ncch0_header.bin" --exh "unpacked\exheader.bin" --exefs "unpacked\exefs.bin" --romfs "unpacked\romfs.bin" --logo "unpacked\logo.bin" --plain "unpacked\plain.bin"
   & $3dstool -xvtfu exefs "unpacked\exefs.bin" --header "unpacked\exefs_header.bin" --exefs-dir "unpacked\exefs"
@@ -21,6 +24,7 @@ if (-Not (Test-Path -Path "unpacked\exefs\code.bin" -PathType "Leaf")) {
   & $cpkmakec "unpacked\romfs\patch102.cpk" -extract="unpacked\patch102"
   & $cpkmakec "original_files\addition_files.cpk" -extract="unpacked\addition_files"
 }
+Copy-Item -Path "unpacked\patch102" -Destination "temp\patch102" -Recurse
 
 # Prepare for tools
 dotnet publish -c Release --framework "net8.0-windows" "bin\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper\PersonaQ2ChsLocalizationHelper.csproj"
@@ -35,7 +39,7 @@ python scripts\export_tbl.py
 
 # Convert texts and create a character table
 python scripts\remove_duplicate_files.py
-python scripts\import_official_names.py
+# python scripts\import_official_names.py
 python scripts\convert_messages_to_json.py
 python scripts\import_csv_to_json.py
 python scripts\generate_char_table.py

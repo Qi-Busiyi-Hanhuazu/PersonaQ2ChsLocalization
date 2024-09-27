@@ -40,6 +40,9 @@ CHINESE_TO_JAPANESE = {
   "·": "・",
   "•": "・",
   "—": "―",
+  "-": "－",
+  ".": "．",
+  "%": "％",
 }
 CHINESE_PUNCTUATIONS_LEFT = "，。、；：？！…》）"
 CHINESE_PUNCTUATIONS_RIGHT = "《（"
@@ -102,6 +105,8 @@ HARDCODED_TEXTS_CODE_BIN = [
   ("剛毅", "塔"),
   ("恋愛", "女帝"),
   ("Aチーム", "Ｐ３女主人公"),
+  ("扉", "扉"),
+  ("扉", "扉"),
   ("扉", "扉"),
   ("電気柵", "電気柵"),
   ("謎解き", "採取"),
@@ -191,8 +196,6 @@ def convert_zh_hans_to_shift_jis(zh_hans: str) -> str:
       char = chr(ord(char) - ord("A") + ord("Ａ"))
     elif char in "abcdefghijklmnopqrstuvwxyz":
       char = chr(ord(char) - ord("a") + ord("ａ"))
-    elif char == ".":
-      char = "．"
 
     if char in char_table_reversed:
       output.append(char_table_reversed[char])
@@ -206,7 +209,7 @@ def convert_zh_hans_to_shift_jis(zh_hans: str) -> str:
           zh_hans_no_code.add(char)
         output.append("?")
 
-  return "".join(output).replace("%ｓ", "%s").replace("%ｄ", "%d")
+  return "".join(output).replace("％ｓ", "%s").replace("％ｄ", "%d")
 
 
 def load_translations(root: str, sheet_name: str) -> dict[str, str]:

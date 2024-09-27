@@ -48,6 +48,9 @@ def import_official_names(csv_root_without_language: str, language: str, officia
         .removesuffix(".json")
       )
 
+      if not os.path.exists(f"{csv_root_without_language}/ja/{sheet_name}.json"):
+        os.remove(f"{root}/{file_name}")
+        continue
       original = load_csv(f"{csv_root_without_language}/ja", sheet_name)
       translated = load_csv(f"{csv_root_without_language}/{language}", sheet_name)
 
@@ -57,7 +60,7 @@ def import_official_names(csv_root_without_language: str, language: str, officia
         ja = original_line["translation"]
         zh = translated_line["translation"]
         stage = translated_line["stage"]
-        comments = translated_line["context"]
+        comments = translated_line.get("context", "")
 
         if ja in translations:
           zh = translations[ja]["translation"]

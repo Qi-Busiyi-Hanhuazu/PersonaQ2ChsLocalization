@@ -58,8 +58,8 @@
   {
     "key": "MSG_006_0",
     "original": "俺たちは、世間を騒がしているからな…\n世を忍ぶ必要がある。",
-    "translation": "毕竟我们引起社会骚动……\n有必要隐瞒身份。",
-    "stage": 0,
+    "translation": "毕竟我们引起了社会骚动……\n有必要隐瞒身份。",
+    "stage": 1,
     "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n毕竟我们引起社会骚动……\n有必要隐瞒身份。\n\n因为我们在社会上引起骚动……\n有必要忍耐世界。\n\n因为我们，正在引起社会的骚动……有必要忍辱负重。"
   },
   {
@@ -114,15 +114,15 @@
   {
     "key": "MSG_013_0",
     "original": "決定事項かい！",
-    "translation": "这是已经决定好的事吗！",
-    "stage": 0,
+    "translation": "已经决定要取了吗！",
+    "stage": 1,
     "context": "说话人：里中 千枝\n\n机翻辅助：\n\n这是已经决定好的事吗！\n\n决定事项吗！\n\n决定事项啊！"
   },
   {
     "key": "MSG_013_1",
     "original": "てか、いきなりコードネームって\n言われても…あたしら本職じゃないし。",
-    "translation": "话说，突然要我们\n取代号……我们又不是专业的。",
-    "stage": 0,
+    "translation": "话说，突然要我们取代号……\n我们也不是专业的。",
+    "stage": 1,
     "context": "说话人：里中 千枝\n\n机翻辅助：\n\n话说，突然要我们\n取代号……我们又不是专业的。\n\n对了，突然说代号\n也……我们又不是本职工作。\n\n话说回来，突然被说成是代号……我们又不是本职工作。"
   },
   {
@@ -142,36 +142,36 @@
   {
     "key": "SEL_015_0",
     "original": "スノープリンセス",
-    "translation": "Snow princess",
-    "stage": 0,
+    "translation": "SNOW PRINCESS",
+    "stage": 1,
     "context": "机翻辅助：\n\nSnow princess\n\n斯诺公主\n\n雪公主"
   },
   {
     "key": "SEL_015_1",
     "original": "ブラックファイヤー",
-    "translation": "Black fire",
+    "translation": "BLACK FIRE",
     "stage": 1,
     "context": "机翻辅助：\n\nBlack firefighter\n\n黑火焰\n\n黑火"
   },
   {
     "key": "SEL_015_2",
     "original": "オカミ",
-    "translation": "Okami",
+    "translation": "老板娘",
     "stage": 1,
     "context": "机翻辅助：\n\nOukami\n\n奥卡米\n\n神"
   },
   {
     "key": "MSG_016_0",
     "original": "なるほど、名前から取ったか。\n正統派だが…長いな。",
-    "translation": "原来如此，从名字取的啊。\n虽然正统派……但太长了。",
-    "stage": 0,
+    "translation": "原来如此，从名字取的啊。\n虽然很正统……但太长了。",
+    "stage": 1,
     "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n原来如此，从名字取的啊。\n虽然正统派……但太长了。\n\n原来如此，是从名字里取的吗。\n虽然是正统派，但是很长。\n\n原来如此，是取自名字吗？\n虽然是正统派……好长啊。"
   },
   {
     "key": "MSG_017_0",
     "original": "じゃあ、スノプリとかどう？\n可愛くない？",
-    "translation": "那，Snow pri如何？\n不可爱吗？",
-    "stage": 0,
+    "translation": "那，SNOWPRI如何？\n不可爱吗？",
+    "stage": 1,
     "context": "说话人：高巻 杏\n\n机翻辅助：\n\n那，Snow pri如何？\n不可爱吗？\n\n那么，斯诺普利怎么样？\n不可爱吗？\n\n那么，苏斯诺普利怎么样？\n不可爱吗？"
   },
   {
@@ -198,8 +198,8 @@
   {
     "key": "MSG_021_0",
     "original": "だが、なぜブラックなんだ？\n彼女は赤い服を着ているぞ。",
-    "translation": "不过，为什么是黑色的？\n她穿的是红色衣服哦。",
-    "stage": 0,
+    "translation": "不过，为什么是BLACK？\n她穿的是红色衣服哦。",
+    "stage": 1,
     "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n不过，为什么是黑色的？\n她穿的是红色衣服哦。\n\n但是，为什么是黑色的？她穿着红色的衣服。\n\n\n但是，为什么是黑色的呢？她穿着红色的衣服。"
   },
   {
@@ -219,7 +219,7 @@
   {
     "key": "MSG_024_0",
     "original": "な、なるほど…ブラックファイヤーか。\n本質をついているな。",
-    "translation": "原、原来如此……Black fire啊。\n确实有反映本质。",
+    "translation": "原、原来如此……BLACK FIRE啊。\n确实有反映本质。",
     "stage": 1,
     "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n原、原来如此……Black firefighter啊。\n确实有反映本质。\n\n原来如此……黑火焰啊。\n真有本质。\n\n啊，原来如此……黑火吗？你说中了本质。"
   },
@@ -233,21 +233,21 @@
   {
     "key": "MSG_025_5_0",
     "original": "英語だと、ほら…なんだ？\nオ～ゥカァミィ？",
-    "translation": "英文的话，就是……什么？\nOh～ukami～？",
-    "stage": 0,
+    "translation": "英文的话，是……什么？\nO～KAMI～？",
+    "stage": 1,
     "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n英文的话，就是……什么？\nOh～ukami～？\n\n英语的话，你看……是什么？\n哇～哇？\n\n英语的话，看吧……怎么回事？\n哦～是吗？"
   },
   {
     "key": "MSG_026_0",
     "original": "アホでしょ…ま、スシとかゲイシャと\n同じノリなら、オカミなんじゃない？",
-    "translation": "白痴吧……既然是和SUSHI、GEISHA之类\n差不多的感觉，要不就叫OKAMI吧？",
+    "translation": "白痴吧……不过，就像SUSHI代表寿司、\nGEISHA代表艺妓一样，\n用OKAMI代表老板娘也不错吧？",
     "stage": 1,
     "context": "说话人：高巻 杏\n\n机翻辅助：\n\n白痴吧……不过，如果和Sushi或Geisha\n一样，那不就是Oukami吗？\n\n是笨蛋吧……啊，和寿司、盖沙一样的节奏，不是很有趣吗？\n\n\n是傻瓜吧……嗯，如果和寿司、艺妓一样的话，应该是神吧？"
   },
   {
     "key": "MSG_027_0",
     "original": "なんかもう、フジヤマとかテンプラと\n同じレベルじゃん…",
-    "translation": "感觉，和FUJIYAMA和TENPURA什么的\n根本就是同一水平嘛……",
+    "translation": "感觉，和FUJIYAMA代表富士山、\n和TEMPURA代表天妇罗什么的\n根本就是同一水平嘛……",
     "stage": 1,
     "context": "说话人：里中 千枝\n\n机翻辅助：\n\n感觉上，富士山和天妇罗\n根本就是同一等级嘛……\n\n总觉得已经和富士山、天鹅绒一样了……\n\n\n和富士山和天妇罗是同一水平……"
   },
@@ -268,29 +268,29 @@
   {
     "key": "MSG_030_0",
     "original": "そうだな…\nプラチナレディとかどうだろうか。",
-    "translation": "这个嘛……\nPlatinum Lady怎么样？",
+    "translation": "这个嘛……\nPLATINUM LADY怎么样？",
     "stage": 1,
     "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n这个嘛……\n白金淑女怎么样？\n\n是啊……\n白金夫人怎么样。\n\n是啊……\n白金女士怎么样？"
   },
   {
     "key": "MSG_031_0",
     "original": "はぁ？　レディって、おま…",
-    "translation": "啥？Lady？你……",
+    "translation": "啥？LADY？你……",
     "stage": 1,
     "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n啥？淑女？你……\n\n是吗？所谓女士，就是女士……\n\n啊？女士，喂……"
   },
   {
     "key": "MSG_032_0",
     "original": "たしかに、レディはちょっとカタいよね。\nプラチナガールのほうが良くない？",
-    "translation": "Lady确实有点太生硬了呢。\nPlatinum Girl比较好吧？",
+    "translation": "LADY确实有点太生硬了呢。\nPLATINUM GIRL比较好吧？",
     "stage": 1,
     "context": "说话人：高巻 杏\n\n机翻辅助：\n\n淑女确实有点太拘谨了呢。\n白金女孩比较好吧？\n\n确实，女士有点不舒服。\n白金女孩不好吗？\n\n的确，女士有点肩膀。\n白金女孩不好吗？"
   },
   {
     "key": "MSG_033_0",
     "original": "いやいや！　だから、なんで直斗が\nレディとかガールなんだよ！？",
-    "translation": "不不不！所以，为什么直斗是\nlady和girl呢！？",
-    "stage": 0,
+    "translation": "不不不！所以，为什么直斗是\nLADY和GIRL呢！？",
+    "stage": 1,
     "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n不不不！所以，为什么直斗是\nlady和girl呢！？\n\n不不不！所以说，为什么直斗是淑女或女孩啊！\n\n\n不、不！所以，为什么直斗是淑女和女孩呢！？"
   },
   {
@@ -373,7 +373,7 @@
   {
     "key": "MSG_044_0",
     "original": "それに、クマと被っちゃうクマ。\nクマもアイドルですから。",
-    "translation": "而且，这样会跟小熊重复。\n因为小熊也是IDOL啊。",
+    "translation": "而且，这样会跟小熊重复。\n因为小熊也是idol啊。",
     "stage": 1,
     "context": "说话人：クマ\n\n机翻辅助：\n\n而且，这样会跟小熊重复。\n因为小熊也是偶像啊。\n\n还有，小熊和戴着的熊熊。\n因为小熊也是偶像。\n\n而且，和小熊戴着的熊熊。\n小熊也是偶像。"
   },
@@ -387,21 +387,21 @@
   {
     "key": "MSG_046_0",
     "original": "千枝先輩は、やっぱりカンフーかな？\nそれか、お肉…",
-    "translation": "千枝学姐，果然还是KUNGFU吧？\n不然就是肉……",
+    "translation": "千枝学姐，果然还是KUNG FU吧？\n不然就是肉……",
     "stage": 1,
     "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n千枝学姐，果然还是功夫吧？\n不然就是肉……\n\n千枝学姐果然是功夫啊？\n这样啊，肉……\n\n千枝学姐真的是功夫高手吗？\n原来是肉……"
   },
   {
     "key": "MSG_047_0",
     "original": "肉…ミート…\nうーん、サーロイン？",
-    "translation": "肉……MEAT……\n嗯——西冷？",
+    "translation": "肉……MEAT……\n嗯——SIRLOIN？",
     "stage": 1,
     "context": "说话人：奥村 春\n\n机翻辅助：\n\n肉……Meat……\n嗯——沙朗牛排？\n\n肉……肉……\n嗯，三文鱼？\n\n肉……鲜肉……\n嗯，沙朗？"
   },
   {
     "key": "MSG_048_0",
     "original": "あ、千枝っぽくていいと思う。\nフィレよりも言いやすいし。",
-    "translation": "啊，我觉得很像千枝，不错。\n比菲力好叫。",
+    "translation": "啊，我觉得很符合千枝，不错。\n而且比FILET好叫。",
     "stage": 1,
     "context": "说话人：天城 雪子\n\n机翻辅助：\n\n啊，我觉得很像千枝，不错。\n比费蕾好叫。\n\n啊，我觉得像千枝很好。\n比菲莱更容易说。\n\n啊，我觉得像千枝这样也不错。\n比菲莱更容易说。"
   },
@@ -443,28 +443,28 @@
   {
     "key": "MSG_053_0",
     "original": "もう、なんでもいっス…\nつーかこれ、まだ続くんスか？",
-    "translation": "随便啦……\n话说，这个还要继续吗？",
-    "stage": 0,
+    "translation": "随便啦……\n话说，这个话题还要继续吗？",
+    "stage": 1,
     "context": "说话人：巽 完二\n\n机翻辅助：\n\n随便啦……\n话说，这个还要继续吗？\n\n已经，什么都说了……\n这个，还能继续吗？\n\n这个，还继续吗？"
   },
   {
     "key": "MSG_054_0",
     "original": "クマ、まだ決まっとらんクマ！\nビショーネンか、プリチークマか…",
-    "translation": "小熊，小熊还没决定好！\n要叫他BISHONEN还是Pretty Kuma呢……",
+    "translation": "小熊，小熊还没决定好呢熊熊！\n要叫他BISHONEN好呢，\n还是PRETTY KUMA好呢……",
     "stage": 1,
     "context": "说话人：クマ\n\n机翻辅助：\n\n小熊，还没决定好熊熊！\n要叫他Bishonen还是Pretty小熊呢……\n\n小熊，还没决定呢熊熊！\n比肖宁还是普里奇熊熊……\n\n小熊，还没决定熊熊！是毕肖年，还是小熊熊……"
   },
   {
     "key": "MSG_055_0",
     "original": "クマはクマだろ、終わり。",
-    "translation": "KUMA就是KUMA吧，结束。",
+    "translation": "小熊就是KUMA吧，结束。",
     "stage": 1,
     "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n小熊就是小熊吧，结束。\n\n小熊就是小熊，完了。\n\n小熊是小熊吧，结束了。"
   },
   {
     "key": "MSG_056_0",
     "original": "ムキー！　終わりじゃないクマ！",
-    "translation": "气死我了！才不会结束呢熊熊！",
+    "translation": "气死我了！才不要这样呢熊熊！",
     "stage": 1,
     "context": "说话人：クマ\n\n机翻辅助：\n\n气死我了！才不会结束呢，熊熊！\n\n莫奇！不是结束的熊熊！\n\n穆奇！小熊还没有结束！"
   },
@@ -611,7 +611,7 @@
   {
     "key": "MSG_074_0",
     "original": "ナナコダイスキ、とかっスか？",
-    "translation": "最喜欢菜菜子，是这样吗？",
+    "translation": "“最喜欢菜菜子”怎么样？",
     "stage": 1,
     "context": "说话人：巽 完二\n\n机翻辅助：\n\n菜菜子宝贝，是吗？\n\n菜菜可戴斯基？\n\n你是说喜欢鱼子吗？"
   },
@@ -667,8 +667,8 @@
   {
     "key": "MSG_082_0",
     "original": "コードネームつけるの、止めませんか？\nこのまま考えても、まとまらないかと…",
-    "translation": "不帮自己取个代号吗？\n再这样想下去，恐怕也理不出头绪……",
-    "stage": 0,
+    "translation": "别继续取代号了。\n即使再这样想下去，也取不出来……",
+    "stage": 1,
     "context": "说话人：白鐘 直斗\n\n机翻辅助：\n\n不帮自己取个代号吗？\n再这样想下去，恐怕也理不出头绪……\n\n要加上代号吗？\n即使这样考虑，也不能达成一致……\n\n不要给它起代号吗？就这样考虑的话，也不能总结出来吧……"
   },
   {
@@ -702,8 +702,8 @@
   {
     "key": "MSG_086_0",
     "original": "まあ、オマエらは正体を隠す必要もないし、\nコードネームは要らないな。",
-    "translation": "反正你们没必要隐瞒身份，\n代号是多余的。",
-    "stage": 0,
+    "translation": "反正你们没必要隐瞒身份，\n也不需要代号。",
+    "stage": 1,
     "context": "说话人：モルガナ\n\n机翻辅助：\n\n反正你们没必要隐瞒身份，\n代号是多余的。\n\n嗯，你们没必要隐瞒真面目，也不需要代号。\n\n\n唉，你们没必要隐瞒真实身份，也不需要代号。"
   },
   {
