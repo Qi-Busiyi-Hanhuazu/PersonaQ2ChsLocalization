@@ -37,21 +37,21 @@
   {
     "key": "MSG_MOVIE_005_0",
     "original": "クラスの和を乱しちゃダメ。\nいつも言ってるでしょう！",
-    "translation": "不能破坏班级秩序。\n老师一直都这么说！",
+    "translation": "不能破坏班级秩序。\n老师不是一直都这么说吗！",
     "stage": 1,
     "context": "机翻辅助：\n\n不可以破坏班级的和谐。\n我不是一直这么说吗！\n\n不要扰乱班级的和谐。\n总是这么说吧！\n\n不能破坏班级的和谐。\n不是经常说的吗！"
   },
   {
     "key": "MSG_MOVIE_005_5_0",
     "original": "みんな、先生の言うことを\n聞いていればいいの！",
-    "translation": "大家只要听老师的话就好了！",
+    "translation": "大家只要听\n老师的话就好了！",
     "stage": 1,
     "context": "机翻辅助：\n\n大家只要\n听老师的话就好了！\n\n大家听老师的话就行了！\n\n\n大家只要听老师的话就好了！"
   },
   {
     "key": "MSG_MOVIE_006_0",
     "original": "どうして？\n先生は正しい人の味方じゃないの？",
-    "translation": "为什么？\n老师难道不站在正确的一边吗？",
+    "translation": "为什么？\n老师为什么不站在正确的一边？",
     "stage": 1,
     "context": "机翻辅助：\n\n为什么？\n老师不是正义的一方吗？\n\n为什么？\n老师不是站在正确的人这边吗？\n\n为什么？\n老师不是站在正确的人一边吗？"
   },
@@ -72,14 +72,14 @@
   {
     "key": "MSG_MOVIE_009_0",
     "original": "ひかりのせいで！",
-    "translation": "因为光的缘故！",
+    "translation": "都是因为光的错！",
     "stage": 1,
     "context": "机翻辅助：\n\n都是光害的！\n\n因为光线！\n\n因为光！"
   },
   {
     "key": "MSG_MOVIE_010_0",
     "original": "死んでしまう！",
-    "translation": "兔子会死掉！",
+    "translation": "所以兔子才会死掉！",
     "stage": 1,
     "context": "机翻辅助：\n\n会死掉！\n\n死定了！\n\n我要死了！"
   },
@@ -107,7 +107,7 @@
   {
     "key": "MSG_MOVIE_014_0",
     "original": "先生の言うことが絶対！",
-    "translation": "老师说的话绝对正确！",
+    "translation": "老师说的话是绝对正确的！",
     "stage": 1,
     "context": "机翻辅助：\n\n老师说的话是绝对的！\n\n老师说的话绝对是！"
   },
@@ -135,7 +135,7 @@
   {
     "key": "MSG_MOVIE_018_0",
     "original": "たいへんよくできました。",
-    "translation": "你做得非常好。",
+    "translation": "做得非常好。",
     "stage": 1,
     "context": "机翻辅助：\n\n你做得很好。\n\n做得非常好。"
   }

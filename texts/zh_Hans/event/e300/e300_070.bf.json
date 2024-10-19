@@ -261,7 +261,7 @@
   {
     "key": "MSG_031_1",
     "original": "随分と体力を消耗しているようだし、\n俺も腹が減ってきたところだ。",
-    "translation": "我体力消耗了不少，肚子也饿了。",
+    "translation": "我体力消耗了不少，\n肚子也饿了。",
     "stage": 1,
     "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n\n我体力消耗了不少，肚子也饿了。\n\n看来消耗了不少体力，我也饿了。\n\n\n好像消耗了很多体力，我也快饿了。"
   },
@@ -289,7 +289,7 @@
   {
     "key": "SEL_033_2",
     "original": "いいから来い",
-    "translation": "总之跟我们走一趟",
+    "translation": "总之先跟我们来",
     "stage": 1,
     "context": "机翻辅助：\n\n总之跟我来就对了\n\n你来吧\n\n来啊"
   },
@@ -478,7 +478,7 @@
   {
     "key": "speaker_聡明そうな少女",
     "original": "聡明そうな少女",
-    "translation": "感觉聪明的少女",
+    "translation": "聪明的少女",
     "stage": 1,
     "context": "机翻辅助：\n\n看似聪明的少女\n\n聪明的少女"
   },
@@ -492,7 +492,7 @@
   {
     "key": "speaker_勝ち気そうな少女",
     "original": "勝ち気そうな少女",
-    "translation": "似乎好胜的少女",
+    "translation": "好胜的少女",
     "stage": 1,
     "context": "机翻辅助：\n\n看似好胜的少女\n\n好胜的少女\n\n争强好胜的少女"
   },
@@ -513,15 +513,15 @@
   {
     "key": "speaker_大人しそうな少女",
     "original": "大人しそうな少女",
-    "translation": "乖巧样子的少女",
+    "translation": "乖巧的少女",
     "stage": 1,
     "context": "机翻辅助：\n\n看似乖巧的少女\n\n看起来很成熟的少女"
   },
   {
     "key": "speaker_好戦的な少年",
     "original": "好戦的な少年",
-    "translation": "好战样子的少年",
-    "stage": 1,
+    "translation": "好战的少年",
+    "stage": 0,
     "context": "机翻辅助：\n\n好战的少年"
   },
   {

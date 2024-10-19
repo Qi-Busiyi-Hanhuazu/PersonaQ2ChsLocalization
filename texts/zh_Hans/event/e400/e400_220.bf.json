@@ -2,22 +2,22 @@
   {
     "key": "MSG_MOVIE_000_0",
     "original": "ひかりは追放！",
-    "translation": "光被放逐了！",
-    "stage": 0,
+    "translation": "将小光逐出！",
+    "stage": 1,
     "context": "机翻辅助：\n\n光被放逐了！\n\n光被驱逐！\n\n驱逐光！"
   },
   {
     "key": "MSG_MOVIE_001_0",
     "original": "意見が合わないから、追放！",
-    "translation": "因为意见不合，所以放逐！",
-    "stage": 0,
+    "translation": "因为意见不一致，所以逐出！",
+    "stage": 1,
     "context": "机翻辅助：\n\n因为意见不合，所以放逐！\n\n意见不合，驱逐出境！\n\n因为意见不一致，所以开除！"
   },
   {
     "key": "MSG_MOVIE_002_0",
     "original": "意見が違うと友達じゃないの？",
-    "translation": "意见不合就不是朋友吗？",
-    "stage": 0,
+    "translation": "意见不合就不是朋友了吗？",
+    "stage": 1,
     "context": "机翻辅助：\n\n意见不合就不是朋友吗？\n\n意见不同的话不是朋友吗？\n\n意见不同就不是朋友了吗？"
   },
   {
@@ -58,22 +58,22 @@
   {
     "key": "MSG_MOVIE_008_0",
     "original": "ひかりは追放！",
-    "translation": "光被放逐了！",
-    "stage": 0,
+    "translation": "将小光逐出！",
+    "stage": 1,
     "context": "机翻辅助：\n\n光被放逐了！\n\n光被驱逐！\n\n驱逐光！"
   },
   {
     "key": "MSG_MOVIE_009_0",
     "original": "意見が多いほうが、正しい！",
-    "translation": "意见多的那一方才正确！",
-    "stage": 0,
+    "translation": "多数人那一方的意见才正确！",
+    "stage": 1,
     "context": "机翻辅助：\n\n意见多的那一方才正确！\n\n意见多是对的！\n\n意见多才是对的！"
   },
   {
     "key": "MSG_MOVIE_010_0",
     "original": "少ない意見はどうなるの？",
-    "translation": "意见少的那一方会怎样？",
-    "stage": 0,
+    "translation": "那少数人一方的意见算什么？",
+    "stage": 1,
     "context": "机翻辅助：\n\n意见少的那一方会怎样？\n\n少的意见变成怎样？\n\n少意见怎么办？"
   },
   {
@@ -121,15 +121,15 @@
   {
     "key": "MSG_MOVIE_017_0",
     "original": "同じ意見。ミユキは友達！",
-    "translation": "大家意见相同。美雪是朋友！",
-    "stage": 0,
+    "translation": "意见相同。美雪是朋友！",
+    "stage": 1,
     "context": "机翻辅助：\n\n大家意见相同。美雪是朋友！\n\n同样的意见。美雪是朋友！\n\n相同意见美雪是朋友！"
   },
   {
     "key": "MSG_MOVIE_018_0",
     "original": "でも、ひかりは違う。",
-    "translation": "可是，光不一样。",
-    "stage": 0,
+    "translation": "可是，光是不同的。",
+    "stage": 1,
     "context": "机翻辅助：\n\n可是，光不一样。\n\n但是，光是不同的。\n\n但是，光不一样。"
   },
   {
