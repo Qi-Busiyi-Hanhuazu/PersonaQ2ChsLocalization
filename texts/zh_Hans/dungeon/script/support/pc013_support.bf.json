@@ -2,8 +2,8 @@
   {
     "key": "P3_HERO2_FOE_FOLLOW_STAR_0",
     "original": "Ｆ．Ｏ．Ｅに気付かれちゃったみたい！",
-    "translation": "F.O.E好像发现了！",
-    "stage": 0,
+    "translation": "F.O.E好像发现我们了！",
+    "stage": 1,
     "context": "机翻辅助：\n\nF.O.E好像发现了！\n\n好像被F.O.E发现了！"
   },
   {
@@ -37,8 +37,8 @@
   {
     "key": "P3_HERO2_FOE_NEAR_3_0",
     "original": "Ｆ．Ｏ．Ｅがいる…気をつけて！",
-    "translation": "F.O.E在……小心点！",
-    "stage": 0,
+    "translation": "有F.O.E在……小心点！",
+    "stage": 1,
     "context": "机翻辅助：\n\nF.O.E在……小心点！\n\n有F.O.E在……小心！\n\n有F.O.E……小心点！"
   },
   {
@@ -58,8 +58,8 @@
   {
     "key": "P3_HERO2_FOE_FOLLOW_END__3_0",
     "original": "逃げ切れたみたい…よかった。",
-    "translation": "好像逃掉了……太好了。",
-    "stage": 0,
+    "translation": "好像逃过了一劫……太好了。",
+    "stage": 1,
     "context": "机翻辅助：\n\n好像逃掉了……太好了。\n\n好像跑完了……太好了。\n\n好像逃过了……太好了。"
   },
   {
@@ -93,8 +93,8 @@
   {
     "key": "P3_HERO2_DENKISAKU_REACT_2_0",
     "original": "電気柵か…\n先に電流を止めるが勝ちだね！",
-    "translation": "是带电栅栏啊……\n先关掉电流的人赢了！",
-    "stage": 0,
+    "translation": "是带电栅栏啊……\n关掉电流就胜利了呢！",
+    "stage": 1,
     "context": "机翻辅助：\n\n是带电栅栏啊……\n先关掉电流的人赢了！\n\n电栅栏吗……\n先停止电流才是胜利！\n\n电栅栏吗？先停止电流就是胜利！"
   },
   {
@@ -121,15 +121,15 @@
   {
     "key": "P3_HERO2_KYOUHU_REACTION_3_0",
     "original": "ウソー！？",
-    "translation": "骗人！？",
-    "stage": 0,
+    "translation": "骗人的吧！？",
+    "stage": 1,
     "context": "机翻辅助：\n\n骗人！？\n\n乌鲁！？"
   },
   {
     "key": "P3_HERO2_STAIR_FIND_1_0",
     "original": "次のエリア進めそう！",
-    "translation": "好像能进到下一个区域了！",
-    "stage": 0,
+    "translation": "好像可以进入下一个区域了！",
+    "stage": 1,
     "context": "机翻辅助：\n\n好像能进到下一个区域了！\n\n下一个区域前进吧！"
   },
   {
@@ -170,8 +170,8 @@
   {
     "key": "P3_HERO2_CHECK_WALL_1_0",
     "original": "この辺り、気になるなぁ…",
-    "translation": "这边感觉有点可疑啊……",
-    "stage": 0,
+    "translation": "这里感觉有点可疑啊……",
+    "stage": 1,
     "context": "机翻辅助：\n\n这边感觉有点可疑啊……\n\n这附近很在意啊……\n\n这附近，很在意啊……"
   },
   {
@@ -240,8 +240,8 @@
   {
     "key": "P3_HERO2_FOE_WARNING_NEA_2_0",
     "original": "さっきのＦ．Ｏ．Ｅ、まだいるみたい。",
-    "translation": "刚才的F.O.E好像还在。",
-    "stage": 0,
+    "translation": "刚才的F.O.E好像还在附近。",
+    "stage": 1,
     "context": "机翻辅助：\n\n刚才的F.O.E好像还在。\n\n刚才的F.O.E，好像还在。"
   },
   {
@@ -296,15 +296,15 @@
   {
     "key": "P3_HERO2_1PERSON_TP10_1_0",
     "original": "疲れちゃったかも…少し休まない？",
-    "translation": "我好像累了……稍微休息一下吧？",
-    "stage": 0,
+    "translation": "我有点累了……稍微休息一下吧？",
+    "stage": 1,
     "context": "机翻辅助：\n\n我好像累了……稍微休息一下吧？\n\n可能累了……要不要休息一下？\n\n可能累了……不稍微休息一下吗？"
   },
   {
     "key": "P3_HERO2_1PERSON_TP10_2_0",
     "original": "気力が…ごめん…",
-    "translation": "我快没力气了……抱歉……",
-    "stage": 0,
+    "translation": "我快没有气力了……抱歉……",
+    "stage": 1,
     "context": "机翻辅助：\n\n我快没力气了……抱歉……\n\n气力……对不起……\n\n精力……对不起……"
   },
   {
@@ -324,8 +324,8 @@
   {
     "key": "P3_HERO2_1PERSON_HP80_2_0",
     "original": "楽勝、楽勝！",
-    "translation": "轻松，轻松！",
-    "stage": 0,
+    "translation": "轻松获胜！",
+    "stage": 1,
     "context": "机翻辅助：\n\n轻松，轻松！\n\n轻松获胜，轻松获胜！"
   },
   {

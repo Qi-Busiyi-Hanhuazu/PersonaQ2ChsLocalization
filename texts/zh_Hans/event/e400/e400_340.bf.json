@@ -9,8 +9,8 @@
   {
     "key": "MSG_MOVIE_001_0",
     "original": "普通はそんなことしない。",
-    "translation": "普通人不会做这种事。",
-    "stage": 0,
+    "translation": "普通人才不会这样做。",
+    "stage": 1,
     "context": "机翻辅助：\n\n普通人不会做这种事。\n\n我一般不会这嚒做。\n\n一般不会这么做。"
   },
   {
@@ -23,8 +23,8 @@
   {
     "key": "MSG_MOVIE_003_0",
     "original": "分からない、分からない。\n私は私なのに。",
-    "translation": "我不懂，我不懂。\n我明明就是我。",
-    "stage": 0,
+    "translation": "我不懂，我不明白。\n我明明就是我。",
+    "stage": 1,
     "context": "机翻辅助：\n\n我不懂，我不懂。\n我明明就是我。\n\n不知道，不知道。我明明是我。\n\n\n不明白，不明白。我明明是我。"
   },
   {
@@ -51,8 +51,8 @@
   {
     "key": "MSG_MOVIE_007_0",
     "original": "私には夢があるの。",
-    "translation": "我有梦想。",
-    "stage": 0,
+    "translation": "我有一个梦想。",
+    "stage": 1,
     "context": "机翻辅助：\n\n我有梦想。\n\n我有一个梦想。"
   },
   {
@@ -86,14 +86,14 @@
   {
     "key": "MSG_MOVIE_012_0",
     "original": "自分なんていらないさ。",
-    "translation": "并不需要什么自己。",
+    "translation": "并不需要什么自我。",
     "stage": 1,
     "context": "机翻辅助：\n\n你不需要自己。\n\n我不需要自己。"
   },
   {
     "key": "MSG_MOVIE_013_0",
     "original": "自分なんて、捨てなさい。",
-    "translation": "把自己什么的扔掉吧。",
+    "translation": "把自我什么的扔掉吧。",
     "stage": 1,
     "context": "机翻辅助：\n\n舍弃自己吧。\n\n自己什么的，扔掉吧。\n\n放弃自己吧。"
   },

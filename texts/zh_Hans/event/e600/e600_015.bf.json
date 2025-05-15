@@ -30,22 +30,22 @@
   {
     "key": "MSG_004_0",
     "original": "何か良いことでもあったの？",
-    "translation": "发生什么好事了吗？",
-    "stage": 0,
+    "translation": "遇到什么好事了吗？",
+    "stage": 1,
     "context": "说话人：ひかりの父親\n\n机翻辅助：\n\n发生什么好事了吗？\n\n有什么好事吗？"
   },
   {
     "key": "MSG_005_0",
     "original": "…えっ？",
-    "translation": "……咦？",
-    "stage": 0,
+    "translation": "……诶？",
+    "stage": 1,
     "context": "说话人：ひかり\n\n机翻辅助：\n\n……咦？\n\n啊？\n\n……诶？"
   },
   {
     "key": "MSG_006_0",
     "original": "だって、ひかりが笑っているから。",
-    "translation": "因为光在笑。",
-    "stage": 0,
+    "translation": "因为、光在笑啊。",
+    "stage": 1,
     "context": "说话人：ひかりの父親\n\n机翻辅助：\n\n因为光在笑。\n\n因为，光在笑。"
   },
   {

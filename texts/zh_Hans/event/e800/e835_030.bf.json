@@ -2,15 +2,15 @@
   {
     "key": "MSG_000_0",
     "original": "矢印あったよ！　右だって！",
-    "translation": "找到箭头了！是右方！",
-    "stage": 0,
+    "translation": "找到箭头了！是右边！",
+    "stage": 1,
     "context": "说话人：高巻 杏\n\n机翻辅助：\n\n找到箭头了！是右方！\n\n有箭头哦！右边！\n\n有箭头哦！对了！\n\n评论：\n\n根据前后文档中的文本（寻找彩蛋）\n暂译。根据实机表现再更改。"
   },
   {
     "key": "MSG_001_0",
     "original": "オッケーだぜ、パンサー！\n面舵いっぱーい！",
-    "translation": "OK了，PANTHER！\n右满舵！",
-    "stage": 0,
+    "translation": "OK，PANTHER！\n右满舵！",
+    "stage": 1,
     "context": "说话人：伊織 順平\n\n机翻辅助：\n\nOK了，PANTHER！\n右满舵！\n\n好啊，PANTER！\n掌舵！\n\n太好了，PANTHER ！\n面舵一倍！"
   },
   {

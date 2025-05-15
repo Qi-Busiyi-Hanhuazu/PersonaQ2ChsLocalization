@@ -93,7 +93,7 @@
   {
     "key": "MSG_010_0",
     "original": "美学は説明するもんじゃねえ。\n感じるものだ！",
-    "translation": "美学只可意会，不可言传！",
+    "translation": "美学\n只可意会，不可言传！",
     "stage": 1,
     "context": "说话人：モルガナ\n\n机翻辅助：\n\n美学是用感觉的，不是用说明的。\n\n\n美学不是用来说明的。\n是能感觉到的！\n\n美学是不能说明的。\n感觉到了！"
   },
@@ -975,8 +975,8 @@
   {
     "key": "speaker_（ＳＥ）ひかり",
     "original": "（ＳＥ）ひかり",
-    "translation": "（SE）光芒",
-    "stage": 0,
+    "translation": "（SE）光",
+    "stage": 1,
     "context": "机翻辅助：\n\n（SE）光芒\n\n（SE）光"
   }
 ]

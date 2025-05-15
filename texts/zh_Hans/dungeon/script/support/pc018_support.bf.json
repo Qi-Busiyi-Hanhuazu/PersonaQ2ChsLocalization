@@ -9,15 +9,15 @@
   {
     "key": "YUSUKE_FOE_FOLLOW_START__2_0",
     "original": "Ｆ．Ｏ．Ｅが来ているぞ。",
-    "translation": "F.O.E来了。",
-    "stage": 0,
+    "translation": "F.O.E要来了。",
+    "stage": 1,
     "context": "机翻辅助：\n\nF.O.E来了。"
   },
   {
     "key": "YUSUKE_FOE_FOLLOW_START__3_0",
     "original": "追われているようだ…",
-    "translation": "似乎有人在追她……",
-    "stage": 0,
+    "translation": "似乎还有人在后面追着我们……",
+    "stage": 1,
     "context": "机翻辅助：\n\n似乎有人在追她……\n\n好像被追赶着……"
   },
   {
@@ -30,15 +30,15 @@
   {
     "key": "YUSUKE_FOE_NEAR_2_0",
     "original": "Ｆ．Ｏ．Ｅ…実に奇怪だ…",
-    "translation": "F.O.E……实在很奇怪……",
-    "stage": 0,
+    "translation": "F.O.E……真的很奇怪……",
+    "stage": 1,
     "context": "机翻辅助：\n\nF.O.E……实在很奇怪……\n\nF.O.E……真奇怪……\n\nF.O.E……真是奇怪……"
   },
   {
     "key": "YUSUKE_FOE_NEAR_3_0",
     "original": "近づきすぎだな…",
-    "translation": "太近了啦……",
-    "stage": 0,
+    "translation": "靠得太近了啊……",
+    "stage": 1,
     "context": "机翻辅助：\n\n太近了啦……\n\n靠得太近了……\n\n太近了啊……"
   },
   {
@@ -51,22 +51,22 @@
   {
     "key": "YUSUKE_FOE_FOLLOW_END_2_0",
     "original": "よし、切り替えていこう。",
-    "translation": "好，转换心情吧。",
-    "stage": 0,
+    "translation": "好，转换一下心情吧。",
+    "stage": 1,
     "context": "机翻辅助：\n\n好，转换心情吧。\n\n好，切换一下吧。\n\n好，转换一下吧。"
   },
   {
     "key": "YUSUKE_FOE_FOLLOW_END_3_0",
     "original": "逃げ切ったようだな。",
-    "translation": "看来是成功甩掉他们了。",
-    "stage": 0,
+    "translation": "看来成功甩掉他们了。",
+    "stage": 1,
     "context": "机翻辅助：\n\n看来是成功甩掉他们了。\n\n你好像逃过了。\n\n你好像跑完了。"
   },
   {
     "key": "YUSUKE_KANSI_REACTION_1_0",
     "original": "見張られているな…",
-    "translation": "被监视了啊……",
-    "stage": 0,
+    "translation": "被监视着啊……",
+    "stage": 1,
     "context": "机翻辅助：\n\n被监视了啊……\n\n被监视着啊……"
   },
   {
@@ -79,8 +79,8 @@
   {
     "key": "YUSUKE_KANSI_REACTION_3_0",
     "original": "よく考えて動こう。",
-    "translation": "仔细思考后再行动吧。",
-    "stage": 0,
+    "translation": "好好考虑一下再行动吧。",
+    "stage": 1,
     "context": "机翻辅助：\n\n仔细思考后再行动吧。\n\n好好考虑一下再行动吧。\n\n好好考虑再行动吧。"
   },
   {
@@ -93,8 +93,8 @@
   {
     "key": "YUSUKE_DENKISAKU_REACTIO_2_0",
     "original": "どうにかしないとマズイな。",
-    "translation": "再不想想办法就糟了。",
-    "stage": 0,
+    "translation": "再不做点什么就糟了。",
+    "stage": 1,
     "context": "机翻辅助：\n\n再不想想办法就糟了。\n\n不想想办法就糟了。\n\n不做点什么就糟了。"
   },
   {
@@ -114,22 +114,22 @@
   {
     "key": "YUSUKE_KYOUHU_REACTION_2_0",
     "original": "飛ぶぞ！",
-    "translation": "要飞喽！",
-    "stage": 0,
+    "translation": "要飞了！",
+    "stage": 1,
     "context": "机翻辅助：\n\n要飞喽！\n\n飞吧！\n\n要飞了！"
   },
   {
     "key": "YUSUKE_KYOUHU_REACTION_3_0",
     "original": "いい風だ！",
-    "translation": "真是好风！",
-    "stage": 0,
+    "translation": "好大的风！",
+    "stage": 1,
     "context": "机翻辅助：\n\n真是好风！\n\n好风！"
   },
   {
     "key": "YUSUKE_STAIR_FIND_1_0",
     "original": "先に進む道だ…",
-    "translation": "是前进的道路……",
-    "stage": 0,
+    "translation": "是可以前进的路……",
+    "stage": 1,
     "context": "机翻辅助：\n\n是前进的道路……"
   },
   {
@@ -149,22 +149,22 @@
   {
     "key": "YUSUKE_TREASURE_FIND_1_0",
     "original": "オタカラだ、行こう。",
-    "translation": "有宝物，走吧。",
-    "stage": 0,
+    "translation": "有宝物，去看看吧。",
+    "stage": 1,
     "context": "机翻辅助：\n\n有宝物，走吧。\n\n宝贝，我们走吧。\n\n宝贝，走吧。"
   },
   {
     "key": "YUSUKE_TREASURE_FIND_2_0",
     "original": "ふむ…食糧だと助かるんだが…",
-    "translation": "唔……粮食是能帮上大忙……",
-    "stage": 0,
+    "translation": "唔……如果是食物就好了……",
+    "stage": 1,
     "context": "机翻辅助：\n\n唔……粮食是能帮上大忙……\n\n嗯……如果是粮食的话就帮大忙了……\n\n嗯……如果是粮食的话就好了……"
   },
   {
     "key": "YUSUKE_TREASURE_FIND_3_0",
     "original": "おい、オタカラを見逃すなよ。",
-    "translation": "喂，别放过宝物啊。",
-    "stage": 0,
+    "translation": "喂，不要错过宝物了。",
+    "stage": 1,
     "context": "机翻辅助：\n\n喂，别放过宝物啊。\n\n喂，不要放过宝贝。\n\n喂，别错过你的宝贝。"
   },
   {
@@ -184,8 +184,8 @@
   {
     "key": "YUSUKE_CHECK_WALL_3_0",
     "original": "どうも気になるな…",
-    "translation": "感觉很在意啊……",
-    "stage": 0,
+    "translation": "真让人在意啊……",
+    "stage": 1,
     "context": "机翻辅助：\n\n感觉很在意啊……\n\n总觉得很在意啊……"
   },
   {
@@ -219,15 +219,15 @@
   {
     "key": "YUSUKE_SHORTCUT_FIND_2_0",
     "original": "通れそうだな、行くか？",
-    "translation": "好像能过去，要走吗？",
-    "stage": 0,
+    "translation": "这里好像可以通过，要从这里走吗？",
+    "stage": 1,
     "context": "机翻辅助：\n\n好像能过去，要走吗？\n\n好像可以通过，去吗？\n\n好像能通过，去吗？"
   },
   {
     "key": "YUSUKE_SHORTCUT_FIND_3_0",
     "original": "もしかして、近道か？",
-    "translation": "难道是捷径？",
-    "stage": 0,
+    "translation": "这边难道是近路吗？",
+    "stage": 1,
     "context": "机翻辅助：\n\n难道是捷径？\n\n难道是近道吗？"
   },
   {
@@ -247,22 +247,22 @@
   {
     "key": "YUSUKE_FOE_WARNING_NEAR__3_0",
     "original": "諦めの悪いやつだ。",
-    "translation": "这家伙真不死心。",
-    "stage": 0,
+    "translation": "真是个不死心的家伙。",
+    "stage": 1,
     "context": "机翻辅助：\n\n这家伙真不死心。\n\n是个死心眼的坏家伙。\n\n真是个死心塌地的家伙。"
   },
   {
     "key": "YUSUKE_1PERSON_HPTP10_1_0",
     "original": "精も根も、尽きそうだ…",
-    "translation": "感觉都要精疲力尽了……",
-    "stage": 0,
+    "translation": "感觉已经精疲力尽了……",
+    "stage": 1,
     "context": "机翻辅助：\n\n感觉都要精疲力尽了……\n\n精疲力竭……"
   },
   {
     "key": "YUSUKE_1PERSON_HPTP10_2_0",
     "original": "こちらの消耗が激しい…",
-    "translation": "我方消耗得很厉害……",
-    "stage": 0,
+    "translation": "我们这边消耗得很厉害……",
+    "stage": 1,
     "context": "机翻辅助：\n\n我方消耗得很厉害……\n\n这边的消耗很大……"
   },
   {
@@ -275,8 +275,8 @@
   {
     "key": "YUSUKE_1PERSON_HP10_1_0",
     "original": "回復が必要だ…",
-    "translation": "需要恢复……",
-    "stage": 0,
+    "translation": "我需要恢复……",
+    "stage": 1,
     "context": "机翻辅助：\n\n需要恢复……"
   },
   {
@@ -296,15 +296,15 @@
   {
     "key": "YUSUKE_1PERSON_TP10_1_0",
     "original": "空腹で…クラクラする…",
-    "translation": "饿着肚子……头都晕了……",
-    "stage": 0,
+    "translation": "肚子好饿……头晕目眩的……",
+    "stage": 1,
     "context": "机翻辅助：\n\n饿着肚子……头都晕了……\n\n饿得晕头转向……\n\n我饿了……头晕目眩……"
   },
   {
     "key": "YUSUKE_1PERSON_TP10_2_0",
     "original": "消耗しすぎたようだ…",
-    "translation": "看来消耗得太厉害了……",
-    "stage": 0,
+    "translation": "体力消耗得太厉害了……",
+    "stage": 1,
     "context": "机翻辅助：\n\n看来消耗得太厉害了……\n\n好像消耗太多了……"
   },
   {

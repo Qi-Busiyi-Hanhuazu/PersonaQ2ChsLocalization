@@ -16,8 +16,8 @@
   {
     "key": "MAKOTO_FOE_FOLLOW_START__3_0",
     "original": "見つかった！？",
-    "translation": "被发现了！？",
-    "stage": 0,
+    "translation": "被发现了吗！？",
+    "stage": 1,
     "context": "机翻辅助：\n\n被发现了！？\n\n找到了！？"
   },
   {
@@ -30,14 +30,14 @@
   {
     "key": "MAKOTO_FOE_NEAR_2_0",
     "original": "近いわ、気を付けて。",
-    "translation": "敌人很近呢，要小心。",
+    "translation": "离敌人很近了呢，要小心。",
     "stage": 1,
     "context": "机翻辅助：\n\n好近啊，要小心。\n\n很近，小心。\n\n很近，小心点。"
   },
   {
     "key": "MAKOTO_FOE_NEAR_3_0",
     "original": "警戒して、いるわよ。",
-    "translation": "保持，警惕。",
+    "translation": "要保持警惕啊。",
     "stage": 1,
     "context": "机翻辅助：\n\n我正在，警戒着呢。\n\n有警戒哦。\n\n你可要警惕啊。"
   },
@@ -65,21 +65,21 @@
   {
     "key": "MAKOTO_KANSI_REACTION_1_0",
     "original": "いい？　焦りは禁物よ。",
-    "translation": "还可以吗？切莫心急哦。",
+    "translation": "还能撑住吗？不要心急哦。",
     "stage": 1,
     "context": "机翻辅助：\n\n听好了，着急是大忌。\n\n可以吗？焦虑是大忌。\n\n可以吗？不要着急。"
   },
   {
     "key": "MAKOTO_KANSI_REACTION_2_0",
     "original": "きっと、パターンがあるはずよ。",
-    "translation": "这肯定是有规律的。",
+    "translation": "这里面肯定有某种规律吧。",
     "stage": 1,
     "context": "机翻辅助：\n\n这肯定，是有规律的。\n\n肯定有套路。\n\n一定会有模式的。"
   },
   {
     "key": "MAKOTO_KANSI_REACTION_3_0",
     "original": "見極めて進みましょう。",
-    "translation": "十分确认后再前进吧。",
+    "translation": "确认无误后再前进吧。",
     "stage": 1,
     "context": "机翻辅助：\n\n看清规律再前进吧。\n\n看清并前进吧。\n\n看清后再前进吧。"
   },
@@ -128,8 +128,8 @@
   {
     "key": "MAKOTO_STAIR_FIND_1_0",
     "original": "先へ進めそうね。",
-    "translation": "看来能继续前进了呢。",
-    "stage": 0,
+    "translation": "这样就能继续前进了呢。",
+    "stage": 1,
     "context": "机翻辅助：\n\n看来能继续前进了呢。\n\n好像要继续前进呢。\n\n好像要往前走了呢。"
   },
   {
@@ -142,8 +142,8 @@
   {
     "key": "MAKOTO_STAIR_FIND_3_0",
     "original": "道が拓けたわね。",
-    "translation": "开拓出道路了呢。",
-    "stage": 0,
+    "translation": "可以继续向前走了呢。",
+    "stage": 1,
     "context": "机翻辅助：\n\n开拓出道路了呢。\n\n路开拓了呢。\n\n道路拓宽了呢。"
   },
   {
@@ -156,7 +156,7 @@
   {
     "key": "MAKOTO_TREASURE_FIND_2_0",
     "original": "宝箱があったわ。",
-    "translation": "是宝箱呢。",
+    "translation": "这里有宝箱呢。",
     "stage": 1,
     "context": "机翻辅助：\n\n有宝箱呢。\n\n有个宝箱。"
   },
@@ -184,49 +184,49 @@
   {
     "key": "MAKOTO_CHECK_WALL_3_0",
     "original": "ねえ、調べてみない？",
-    "translation": "呐，要不要调查一下？",
-    "stage": 0,
+    "translation": "要不要去调查一下？",
+    "stage": 1,
     "context": "机翻辅助：\n\n呐，要不要调查一下？\n\n喂，要不要调查一下？\n\n喂，要不要查一下？"
   },
   {
     "key": "MAKOTO_SWITCH_FIND_1_0",
     "original": "スイッチがあるわ。",
-    "translation": "有开关呢。",
-    "stage": 0,
+    "translation": "这里有开关呢。",
+    "stage": 1,
     "context": "机翻辅助：\n\n有开关呢。\n\n有开关。"
   },
   {
     "key": "MAKOTO_SWITCH_FIND_2_0",
     "original": "スイッチを押すかは任せるわ。",
-    "translation": "按不按开关就交给你们决定了。",
+    "translation": "是否按下开关就由你来决定吧。",
     "stage": 1,
     "context": "机翻辅助：\n\n要不要按下开关就交给你们决定。\n\n按下开关就交给你了。"
   },
   {
     "key": "MAKOTO_SWITCH_FIND_3_0",
     "original": "スイッチを押すなら慎重にね。",
-    "translation": "要按下开关的话要慎重哦。",
-    "stage": 0,
+    "translation": "要慎重地决定要不要按下开关哦。",
+    "stage": 1,
     "context": "机翻辅助：\n\n要按下开关的话要慎重哦。\n\n按下开关的话要慎重哦。\n\n按开关的话要慎重哦。"
   },
   {
     "key": "MAKOTO_SHORTCUT_FIND_1_0",
     "original": "ここ、通れるんじゃない？",
-    "translation": "这里好像能通过呢？",
-    "stage": 0,
+    "translation": "好像可以从这里通过哦？",
+    "stage": 1,
     "context": "机翻辅助：\n\n这里好像能通过呢？\n\n这里能过去吧？\n\n这里不是可以通过吗？"
   },
   {
     "key": "MAKOTO_SHORTCUT_FIND_2_0",
     "original": "思わぬルートがあるものね。",
-    "translation": "有预料之外的路线呢。",
-    "stage": 0,
+    "translation": "是预料之外的路线呢。",
+    "stage": 1,
     "context": "机翻辅助：\n\n有预料之外的路线呢。\n\n还有意想不到的途径呢。\n\n有意想不到的路线呢。"
   },
   {
     "key": "MAKOTO_SHORTCUT_FIND_3_0",
     "original": "近道になりそうよ。",
-    "translation": "好像有捷径哦。",
+    "translation": "这里好像有近路哦。",
     "stage": 1,
     "context": "机翻辅助：\n\n好像能成为捷径哦。\n\n好像是近路。\n\n好像是一条近路。"
   },
@@ -247,14 +247,14 @@
   {
     "key": "MAKOTO_FOE_WARNING_NEAR__3_0",
     "original": "Ｆ．Ｏ．Ｅよ、気を抜かないで。",
-    "translation": "是F.O.E哦，不要松懈了。",
-    "stage": 0,
+    "translation": "是F.O.E哦，保持警惕。",
+    "stage": 1,
     "context": "机翻辅助：\n\n是F.O.E哦，不要松懈了。\n\nF.O.E，别泄气。\n\nF.O.E，不要松懈。"
   },
   {
     "key": "MAKOTO_1PERSON_HPTP10_1_0",
     "original": "これ以上は、厳しいわね…",
-    "translation": "再继续下去情况会很严峻呢……",
+    "translation": "再继续下去情况会变得很严峻呢……",
     "stage": 1,
     "context": "机翻辅助：\n\n再继续下去会很严苛呢……\n\n比这更严厉啊……\n\n再这样下去，就太严厉了……"
   },
@@ -268,8 +268,8 @@
   {
     "key": "MAKOTO_1PERSON_HPTP10_3_0",
     "original": "ごめん、限界かも…",
-    "translation": "抱歉，我可能到极限了……",
-    "stage": 0,
+    "translation": "抱歉，我可能已经到极限了……",
+    "stage": 1,
     "context": "机翻辅助：\n\n抱歉，我可能到极限了……\n\n对不起，可能是极限了……\n\n对不起，可能已经到极限了……"
   },
   {
@@ -303,7 +303,7 @@
   {
     "key": "MAKOTO_1PERSON_TP10_2_0",
     "original": "ペースを考えるべきだったわ…",
-    "translation": "应该考虑一下节奏的……",
+    "translation": "应该考虑一下步调的……",
     "stage": 1,
     "context": "机翻辅助：\n\n应该考虑一下步调呢……\n\n应该考虑步调……\n\n应该考虑一下节奏的……"
   },
@@ -317,14 +317,14 @@
   {
     "key": "MAKOTO_1PERSON_HP80_1_0",
     "original": "この程度、余裕ね。",
-    "translation": "这种程度，轻轻松松呢。",
+    "translation": "这种程度的敌人，轻轻松松呢。",
     "stage": 1,
     "context": "机翻辅助：\n\n这种程度很轻松呢。\n\n这个程度很从容呢。\n\n这种程度的余裕。"
   },
   {
     "key": "MAKOTO_1PERSON_HP80_2_0",
     "original": "いいペースね。",
-    "translation": "不错的节奏呢。",
+    "translation": "不错的步调呢。",
     "stage": 1,
     "context": "机翻辅助：\n\n步调不错呢。\n\n好节奏啊。\n\n好快啊。"
   },
@@ -338,7 +338,7 @@
   {
     "key": "MAKOTO_DUNGEON_START_1_0",
     "original": "準備万端よ、行きましょう。",
-    "translation": "万事俱备了，走吧。",
+    "translation": "万事俱备了，开始行动吧。",
     "stage": 1,
     "context": "机翻辅助：\n\n准备万全了，走吧。\n\n一切准备就绪，走吧。\n\n一切都准备好了，我们走吧。"
   },

@@ -2760,8 +2760,8 @@
   {
     "key": "BTLMSGID_ADD_ATK_KOROMAR_0",
     "original": "ワン！　ワォーン！",
-    "translation": "汪！汪呜！",
-    "stage": 0,
+    "translation": "汪！汪汪！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n汪！汪呜！\n\n汪！哇！"
   },
   {
@@ -2844,8 +2844,8 @@
   {
     "key": "BTLMSGID_ALL_ATK_P3HERO_0",
     "original": "総攻撃の\nチャンスじゃないかな？",
-    "translation": "这不就是总攻击的\n好机会吗？",
-    "stage": 0,
+    "translation": "这不是总攻击的\n好机会吗？",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n这不就是总攻击的\n好机会吗？\n\n这不是总攻的好机会吗？\n\n\n这不是总攻击的机会吗？"
   },
   {

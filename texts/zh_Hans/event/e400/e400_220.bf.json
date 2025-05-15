@@ -23,8 +23,8 @@
   {
     "key": "MSG_MOVIE_003_0",
     "original": "空気、読みなよ。",
-    "translation": "察言观色一下啦。",
-    "stage": 0,
+    "translation": "看一下气氛啦。",
+    "stage": 1,
     "context": "机翻辅助：\n\n察言观色一下啦。\n\n空气，读吧。\n\n察言观色。"
   },
   {
@@ -65,22 +65,22 @@
   {
     "key": "MSG_MOVIE_009_0",
     "original": "意見が多いほうが、正しい！",
-    "translation": "多数人那一方的意见才正确！",
+    "translation": "多数人那一方的意见才是对的！",
     "stage": 1,
     "context": "机翻辅助：\n\n意见多的那一方才正确！\n\n意见多是对的！\n\n意见多才是对的！"
   },
   {
     "key": "MSG_MOVIE_010_0",
     "original": "少ない意見はどうなるの？",
-    "translation": "那少数人一方的意见算什么？",
+    "translation": "那少数人的意见算什么？",
     "stage": 1,
     "context": "机翻辅助：\n\n意见少的那一方会怎样？\n\n少的意见变成怎样？\n\n少意见怎么办？"
   },
   {
     "key": "MSG_MOVIE_011_0",
     "original": "ただの自己チュー！",
-    "translation": "只是自我陶醉！",
-    "stage": 0,
+    "translation": "只是自我陶醉吧！",
+    "stage": 1,
     "context": "机翻辅助：\n\n只是自我陶醉！\n\n只是自恋！\n\n只是自我接吻！"
   },
   {

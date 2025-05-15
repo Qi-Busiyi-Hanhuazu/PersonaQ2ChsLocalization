@@ -2,8 +2,8 @@
   {
     "key": "ANN_FOE_FOLLOW_START_1_0",
     "original": "Ｆ．Ｏ．Ｅ来てる、来てるって！ ",
-    "translation": "F.O.E来了，来了啦！ ",
-    "stage": 0,
+    "translation": "F.O.E要来了，要来了啊！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\nF.O.E来了，来了啦！ \n\n来了，来了！ \n\nF.O.E来了，来了！"
   },
   {
@@ -30,8 +30,8 @@
   {
     "key": "ANN_FOE_NEAR_2_0",
     "original": "Ｆ．Ｏ．Ｅだよ、ピンチ！ ",
-    "translation": "是F.O.E啊，危机！ ",
-    "stage": 0,
+    "translation": "是F.O.E啊，有危险！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n是F.O.E啊，危机！ \n\nF.O.E，危机！ \n\nF.O.E啊，危机！"
   },
   {
@@ -65,43 +65,43 @@
   {
     "key": "ANN_KANSI_REACTION_1_0",
     "original": "見つかったら面倒だよ、隠れて進もう！ ",
-    "translation": "要是被发现就麻烦了，躲起来前进吧！ ",
-    "stage": 0,
+    "translation": "要是被发现就麻烦了，\n注意隐蔽小心前进吧！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n要是被发现就麻烦了，躲起来前进吧！ \n\n找到了就麻烦了，躲起来前进吧！ \n\n被发现了就麻烦了，藏起来前进吧！"
   },
   {
     "key": "ANN_KANSI_REACTION_2_0",
     "original": "見つからないよーに、そーっと… ",
-    "translation": "为了不被发现，要悄悄地…… ",
-    "stage": 0,
+    "translation": "为了不被发现，要小心一点…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n为了不被发现，要悄悄地…… \n\n找不到了，嗯…… \n\n我找不到你，你……"
   },
   {
     "key": "ANN_KANSI_REACTION_3_0",
     "original": "キンチョーして、変な汗でてきた… ",
-    "translation": "紧张得要命，还冒出了奇怪的汗…… ",
-    "stage": 0,
+    "translation": "紧张得要命，\n还冒出了奇怪的汗…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n紧张得要命，还冒出了奇怪的汗…… \n\n紧张，出了奇怪的汗…… \n\n突然出汗了……"
   },
   {
     "key": "ANN_DENKISAKU_REACTION_1_0",
     "original": "うわ、髪が逆立つ… ",
-    "translation": "哇，头发都竖起来了…… ",
-    "stage": 0,
+    "translation": "哇，头发都要竖起来了…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n哇，头发都竖起来了…… \n\n哇，头发倒立……"
   },
   {
     "key": "ANN_DENKISAKU_REACTION_2_0",
     "original": "これ、触ったら絶対ヤバいやつ！ ",
-    "translation": "这玩意儿，绝对不能碰！ ",
-    "stage": 0,
+    "translation": "这个东西，绝对不能碰！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n这玩意儿，绝对不能碰！ \n\n这个，碰了绝对不好的家伙！ \n\n这个，碰了绝对不行！"
   },
   {
     "key": "ANN_DENKISAKU_REACTION_3_0",
     "original": "こわっ…電気やばい… ",
-    "translation": "好可怕……电好可怕…… ",
-    "stage": 0,
+    "translation": "好可怕……有电好可怕…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n好可怕……电好可怕…… \n\n哇……电呀…… \n\n哇……电气危机……"
   },
   {
@@ -142,8 +142,8 @@
   {
     "key": "ANN_STAIR_FIND_3_0",
     "original": "ねえ、行ってみよ！ ",
-    "translation": "欸，去看看吧！ ",
-    "stage": 0,
+    "translation": "过去看看吧！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n欸，去看看吧！ \n\n喂，去看看吧！ \n\n喂，去看看！"
   },
   {
@@ -226,15 +226,15 @@
   {
     "key": "ANN_SHORTCUT_FIND_3_0",
     "original": "ねえ、そこ通れそうだよ。 ",
-    "translation": "欸，好像可以走那里哦。 ",
-    "stage": 0,
+    "translation": "那里好像可以通过哦。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n欸，好像可以走那里哦。 \n\n喂，好像可以通过那里。 \n\n喂，那里好像可以通过。"
   },
   {
     "key": "ANN_FOE_WARNING_NEAR_1_0",
     "original": "Ｆ．Ｏ．Ｅ、しつこすぎだっつの！ ",
-    "translation": "F.O.E，烦死了！ ",
-    "stage": 0,
+    "translation": "F.O.E也太难缠了！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\nF.O.E，烦死了！ \n\nF.O.E，你太执着了！ \n\nF.O.E，你太烦人了！"
   },
   {
@@ -261,8 +261,8 @@
   {
     "key": "ANN_1PERSON_HPTP10_2_0",
     "original": "ねえ、休めないかな…？ ",
-    "translation": "欸，可以休息一下吗……？ ",
-    "stage": 0,
+    "translation": "可以休息一下吗……？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n欸，可以休息一下吗……？ \n\n喂，不能休息吗……？ \n\n喂，能休息一下吗……？"
   },
   {
@@ -289,8 +289,8 @@
   {
     "key": "ANN_1PERSON_HP10_3_0",
     "original": "限界かも…ごめん。 ",
-    "translation": "好像到极限了……抱歉。 ",
-    "stage": 0,
+    "translation": "好像要到极限了……抱歉。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n好像到极限了……抱歉。 \n\n可能是极限了……对不起。 \n\n也许是极限了……对不起。"
   },
   {
@@ -303,8 +303,8 @@
   {
     "key": "ANN_1PERSON_TP10_2_0",
     "original": "お願い、休ませて… ",
-    "translation": "拜托，让我休息…… ",
-    "stage": 0,
+    "translation": "拜托，让我休息一下…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n拜托，让我休息…… \n\n求你了，让我休息一下……"
   },
   {

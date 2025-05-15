@@ -2,7 +2,7 @@
   {
     "key": "MSG_MOVIE_000_0",
     "original": "どうしてアナタはそうなの？",
-    "translation": "为什么你非要这样呢？",
+    "translation": "为什么你会这样呢？",
     "stage": 1,
     "context": "机翻辅助：\n\n为什么你要这样？\n\n为什么你会这样？\n\n为什么你是这样？"
   },
@@ -79,8 +79,8 @@
   {
     "key": "MSG_MOVIE_011_0",
     "original": "どうしてお前は。",
-    "translation": "为什么你要……",
-    "stage": 0,
+    "translation": "为什么你……",
+    "stage": 1,
     "context": "机翻辅助：\n\n为什么你要……\n\n为什么你。\n\n为什么你呢？"
   },
   {

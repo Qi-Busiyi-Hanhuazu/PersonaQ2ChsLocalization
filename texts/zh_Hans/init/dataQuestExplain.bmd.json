@@ -23,15 +23,15 @@
   {
     "key": "quest_explain_006_0",
     "original": "未知の生態系で生き続ける、\n太古の生物を調査しろ！",
-    "translation": "去调查在未知的生态系中持续存活的\n远古生物吧！",
-    "stage": 0,
+    "translation": "去调查在未知的生态系中存活下来的\n远古生物吧！",
+    "stage": 1,
     "context": "机翻辅助：\n\n去调查在未知的生态系中持续存活的\n远古生物吧！\n\n在未知的生态系统中继续生存，\n调查远古生物！\n\n继续活在未知的生态系统，\n调查太古生物！"
   },
   {
     "key": "quest_explain_007_0",
     "original": "『チキン・キッド』をやっつけろ！",
-    "translation": "去打倒“鸡仔·奇德”吧！",
-    "stage": 0,
+    "translation": "去打倒“鸡德”吧！",
+    "stage": 1,
     "context": "机翻辅助：\n\n去打倒“鸡仔·奇德”吧！\n\n把“鸡肉基德”干掉！\n\n打败“炸鸡小子”！"
   },
   {
@@ -51,21 +51,21 @@
   {
     "key": "quest_explain_010_0",
     "original": "釣り場へ向かい、大物を釣り上げろ！",
-    "translation": "前往钓场，钓起大鱼！",
-    "stage": 0,
+    "translation": "前往钓场，钓起大鱼吧！",
+    "stage": 1,
     "context": "机翻辅助：\n\n前往钓场，钓起大鱼！\n\n去钓场，把大鱼钓上来！\n\n去钓鱼的地方，钓上大家伙！"
   },
   {
     "key": "quest_explain_011_0",
     "original": "アイツのオタカラを盗み出せ！",
-    "translation": "来把那家伙的宝物偷出来吧！",
-    "stage": 0,
+    "translation": "偷出那家伙的宝物吧！",
+    "stage": 1,
     "context": "机翻辅助：\n\n来把那家伙的宝物偷出来吧！\n\n把那家伙的宝物偷出来！\n\n把他的宝贝偷出来！"
   },
   {
     "key": "quest_explain_012_0",
     "original": "シダシナモンを入手せよ！",
-    "translation": "取得肉桂蕨！",
+    "translation": "获取肉桂蕨吧！",
     "stage": 1,
     "context": "机翻辅助：\n\n取得西达辛那蒙！\n\n得到肉桂！\n\n获取蕨类肉桂！"
   },
@@ -114,8 +114,8 @@
   {
     "key": "quest_explain_019_0",
     "original": "『サイドプテラ』を討伐せよ！",
-    "translation": "讨伐“飞行蜥蜴”！",
-    "stage": 0,
+    "translation": "讨伐“赛德翼龙”！",
+    "stage": 1,
     "context": "机翻辅助：\n\n讨伐“飞行蜥蜴”！\n\n讨伐“侧面凶器”！\n\n讨伐“sideptera”！"
   },
   {
@@ -156,8 +156,8 @@
   {
     "key": "quest_explain_026_0",
     "original": "最強のマスコット争いを見届けろ！",
-    "translation": "见证最强吉祥物争夺战！",
-    "stage": 0,
+    "translation": "见证最强吉祥物争夺战吧！",
+    "stage": 1,
     "context": "机翻辅助：\n\n见证最强吉祥物争夺战！\n\n申报最强的吉祥物之争！\n\n最强的吉祥物之争！"
   },
   {
@@ -198,15 +198,15 @@
   {
     "key": "quest_explain_032_0",
     "original": "美少女たちでカモシティを救え！",
-    "translation": "用美少女们拯救鸭志市！",
-    "stage": 0,
+    "translation": "仅以美少女们拯救鸭志市！",
+    "stage": 1,
     "context": "机翻辅助：\n\n用美少女们拯救鸭志市！\n\n美少女们拯救鸭志市！"
   },
   {
     "key": "quest_explain_033_0",
     "original": "オタカラスポットを巡れ！",
-    "translation": "巡游宝物地点！",
-    "stage": 0,
+    "translation": "巡视宝物地点！",
+    "stage": 1,
     "context": "机翻辅助：\n\n巡游宝物地点！\n\n游览宝物景点！\n\n巡视宝藏地点！"
   },
   {
@@ -275,15 +275,15 @@
   {
     "key": "quest_explain_045_0",
     "original": "クマ同士の争いを制せ！",
-    "translation": "在小熊之间的争斗中取胜！",
-    "stage": 0,
+    "translation": "制止小熊间的争斗！",
+    "stage": 1,
     "context": "机翻辅助：\n\n在小熊之间的争斗中取胜！\n\n制止小熊之间的争斗！\n\n在小熊之间的争斗中获胜！"
   },
   {
     "key": "quest_explain_046_0",
     "original": "映画の世界から、音楽を持ち帰れ！",
-    "translation": "从电影世界带回音乐！",
-    "stage": 0,
+    "translation": "从电影世界里把音乐带回去吧！",
+    "stage": 1,
     "context": "机翻辅助：\n\n从电影世界带回音乐！\n\n从电影的世界，带回音乐！\n\n把音乐从电影的世界带回来！"
   },
   {
@@ -310,8 +310,8 @@
   {
     "key": "quest_explain_050_0",
     "original": "『ひかり』に新たに現れた\nシャドウを討伐せよ！",
-    "translation": "讨伐新出现的\n暗影！",
-    "stage": 0,
+    "translation": "讨伐新出现于“光”的\n暗影！",
+    "stage": 1,
     "context": "机翻辅助：\n\n讨伐新出现的\n暗影！\n\n讨伐在“光”新出现了的\n暗影！\n\n讨伐在“光”新出现的暗影！"
   }
 ]

@@ -2,8 +2,8 @@
   {
     "key": "RYUJI_FOE_FOLLOW_START_1_0",
     "original": "うおっ、Ｆ．Ｏ．Ｅ！",
-    "translation": "唔噢，F.O.E！",
-    "stage": 0,
+    "translation": "唔噢，是F.O.E！",
+    "stage": 1,
     "context": "机翻辅助：\n\n唔噢，F.O.E！\n\n哦，F.O.E！\n\n噢，F.O.E！"
   },
   {
@@ -23,8 +23,8 @@
   {
     "key": "RYUJI_FOE_NEAR_1_0",
     "original": "やべえ、Ｆ．Ｏ．Ｅちけえ！",
-    "translation": "糟糕，F.O.E好近！",
-    "stage": 0,
+    "translation": "糟糕，离F.O.E好近！",
+    "stage": 1,
     "context": "机翻辅助：\n\n糟糕，F.O.E好近！\n\n哎呀，F.O.E！\n\n矢兵卫，F.O.E智家！"
   },
   {
@@ -37,8 +37,8 @@
   {
     "key": "RYUJI_FOE_NEAR_3_0",
     "original": "Ｆ．Ｏ．Ｅ近すぎだぞ、おい！",
-    "translation": "F.O.E太近了，喂！",
-    "stage": 0,
+    "translation": "太靠近F.O.E了，喂！",
+    "stage": 1,
     "context": "机翻辅助：\n\nF.O.E太近了，喂！\n\n太近了，喂！"
   },
   {
@@ -58,8 +58,8 @@
   {
     "key": "RYUJI_FOE_FOLLOW_END_3_0",
     "original": "へへっ、諦めたみたいだな。",
-    "translation": "嘿嘿，好像放弃了呢。",
-    "stage": 0,
+    "translation": "嘿嘿，敌人好像放弃了呢。",
+    "stage": 1,
     "context": "机翻辅助：\n\n嘿嘿，好像放弃了呢。\n\n嘿嘿，你好像放弃了。\n\n嘿嘿，好像放弃了。"
   },
   {
@@ -93,15 +93,15 @@
   {
     "key": "RYUJI_DENKISAKU_REACTION_2_0",
     "original": "電気止めるスイッチ探そうぜ！",
-    "translation": "来找关灯的开关吧！",
-    "stage": 0,
+    "translation": "来找断电的开关吧！",
+    "stage": 1,
     "context": "机翻辅助：\n\n来找关灯的开关吧！\n\n寻找断电开关吧！\n\n找个断电开关吧！"
   },
   {
     "key": "RYUJI_DENKISAKU_REACTION_3_0",
     "original": "あっぶね、電気柵だぞ！",
-    "translation": "好险，是电栅栏！",
-    "stage": 0,
+    "translation": "好危险，是电栅栏！",
+    "stage": 1,
     "context": "机翻辅助：\n\n好险，是电栅栏！\n\n哎呀，是电栅栏！\n\n啊哈，这是电栅栏！"
   },
   {
@@ -114,8 +114,8 @@
   {
     "key": "RYUJI_KYOUHU_REACTION_2_0",
     "original": "風強え！？",
-    "translation": "风好强！？",
-    "stage": 0,
+    "translation": "好大的风！？",
+    "stage": 1,
     "context": "机翻辅助：\n\n风好强！？\n\n风好大！？\n\n风很大！？"
   },
   {
@@ -226,8 +226,8 @@
   {
     "key": "RYUJI_SHORTCUT_FIND_3_0",
     "original": "見ろよ、近道になりそうじゃね？",
-    "translation": "快看，能当捷径吧？",
-    "stage": 0,
+    "translation": "快看，这是一条近路吧？",
+    "stage": 1,
     "context": "机翻辅助：\n\n快看，能当捷径吧？\n\n看吧，会成为近路吧？\n\n你看，这不是一条近道吗？"
   },
   {
@@ -282,8 +282,8 @@
   {
     "key": "RYUJI_1PERSON_HP10_2_0",
     "original": "回復頼むわぁ…",
-    "translation": "麻烦你回复了……",
-    "stage": 0,
+    "translation": "麻烦你恢复了……",
+    "stage": 1,
     "context": "机翻辅助：\n\n麻烦你回复了……\n\n请恢复啊……\n\n拜托你恢复……"
   },
   {
@@ -303,8 +303,8 @@
   {
     "key": "RYUJI_1PERSON_TP10_2_0",
     "original": "腹減った…もムリ…",
-    "translation": "肚子饿了……也撑不住了……",
-    "stage": 0,
+    "translation": "肚子好饿……要撑不住了……",
+    "stage": 1,
     "context": "机翻辅助：\n\n肚子饿了……也撑不住了……\n\n肚子饿了……也不行……"
   },
   {
@@ -317,8 +317,8 @@
   {
     "key": "RYUJI_1PERSON_HP80_1_0",
     "original": "余裕の勝利だったな！",
-    "translation": "赢得真是轻松！",
-    "stage": 0,
+    "translation": "真是轻松的胜利啊！",
+    "stage": 1,
     "context": "机翻辅助：\n\n赢得真是轻松！\n\n真是从容的胜利啊！\n\n真是轻松的胜利啊！"
   },
   {
