@@ -2,7 +2,7 @@
   {
     "key": "MSG_000_0",
     "original": "くっそ…\nいくらやっても、キリがねえ…！",
-    "translation": "可恶……\n怎么打都没完……！",
+    "translation": "可恶……\n怎么打都没完没了……！",
     "stage": 1,
     "context": "说话人：花村 陽介\n\n机翻辅助：\n\n可恶……\n不管怎么做，都没完没了……！\n\n可恶……\n无论怎么做，都没完没了……！\n\n可恶……无论怎么做，都没完没了……！"
   },
@@ -212,15 +212,15 @@
   {
     "key": "MSG_021_1",
     "original": "これ以上は、いくら無力な貴方でも\n容赦いたしませんよ。",
-    "translation": "要是你再继续下去，\n哪怕是无力的你，我也不会放过。",
+    "translation": "要是你再继续下去，\n哪怕是弱小的你，我也不会放过。",
     "stage": 1,
     "context": "说话人：エンリル\n\n机翻辅助：\n\n就算你再怎么无力\n我也不会饶过你。\n\n再怎么无力的你也不会原谅你的。"
   },
   {
     "key": "MSG_022_0",
     "original": "私は、無力なんかじゃない。",
-    "translation": "我才不是无力的。",
-    "stage": 0,
+    "translation": "我才不是弱小的。",
+    "stage": 1,
     "context": "说话人：ひかり\n\n机翻辅助：\n\n我才不是无力的。\n\n我不是无能为力。\n\n我并不是无能为力。"
   },
   {
@@ -345,28 +345,28 @@
   {
     "key": "speaker_ダルそうな青年男性",
     "original": "ダルそうな青年男性",
-    "translation": "慵懒的青年男子",
+    "translation": "提不起劲的青年男性",
     "stage": 1,
     "context": "机翻辅助：\n\n懒洋洋的青年男性\n\n看起来很无聊的青年男性\n\n看起来很倦怠的青年男性"
   },
   {
     "key": "speaker_けだるげな中年男性",
     "original": "けだるげな中年男性",
-    "translation": "倦怠的中年男子",
-    "stage": 1,
+    "translation": "无精打采的中年男性",
+    "stage": 0,
     "context": "机翻辅助：\n\n无精打采的中年男性\n\n懒洋洋的中年男子"
   },
   {
     "key": "speaker_もの憂げな若い女性",
     "original": "もの憂げな若い女性",
-    "translation": "忧郁的年轻女子",
-    "stage": 1,
+    "translation": "忧郁的年轻女性",
+    "stage": 0,
     "context": "机翻辅助：\n\n忧郁的年轻女性\n\n忧郁的年轻女子"
   },
   {
     "key": "speaker_面倒そうな中年女性",
     "original": "面倒そうな中年女性",
-    "translation": "嫌麻烦的中年女子",
+    "translation": "不耐烦的中年女性",
     "stage": 1,
     "context": "机翻辅助：\n\n嫌麻烦的中年女性\n\n看起来很麻烦的中年女性"
   },
