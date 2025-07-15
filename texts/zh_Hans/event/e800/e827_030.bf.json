@@ -37,7 +37,7 @@
   {
     "key": "MSG_004_0",
     "original": "いやいや、愛屋のスペシャル肉丼\n完食してる時点で化け物だろ…",
-    "translation": "不不不，光是成功吃完爱家的特制盖饭\n就已经是怪物级别了吧……",
+    "translation": "不不不，光是成功吃完爱家的特制肉盖饭\n就已经是怪物级别了吧……",
     "stage": 1,
     "context": "说话人：花村 陽介\n\n机翻辅助：\n\n不不不，光是\n成功吃完爱屋的特制肉丼，就已经是怪物了吧……\n\n不、不，爱屋的特别肉盖饭\n吃完饭的时候是怪物吧……\n\n不不不，爱屋的特别肉盖饭\n吃完的时候是怪物吧……"
   },
@@ -247,78 +247,78 @@
   {
     "key": "speaker_Ｐ３主人公",
     "original": "Ｐ３主人公",
-    "translation": "Ｐ３主人公",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P3主角",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP3主角\n\nP3主人公"
   },
   {
     "key": "speaker_Ｐ４主人公",
     "original": "Ｐ４主人公",
-    "translation": "Ｐ４主人公",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P4主角",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP4主角\n\nP4主人公"
   },
   {
     "key": "speaker_奥村 春",
     "original": "奥村 春",
     "translation": "奥村 春",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_花村 陽介",
     "original": "花村 陽介",
-    "translation": "花村 阳介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "花村阳介",
+    "stage": 0,
+    "context": "机翻辅助：\n\n花村阳介"
   },
   {
     "key": "speaker_天城 雪子",
     "original": "天城 雪子",
-    "translation": "天城 雪子",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "天城雪子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天城雪子"
   },
   {
     "key": "speaker_伊織 順平",
     "original": "伊織 順平",
     "translation": "伊织 顺平",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n伊织 顺平\n\n伊织顺平"
   },
   {
     "key": "speaker_岳羽 ゆかり",
     "original": "岳羽 ゆかり",
-    "translation": "岳羽 由加莉",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "岳羽由加莉",
+    "stage": 0,
+    "context": "机翻辅助：\n\n岳羽由加莉"
   },
   {
     "key": "speaker_アイギス",
     "original": "アイギス",
     "translation": "埃癸斯",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n埃癸斯"
   },
   {
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   },
   {
     "key": "speaker_巽 完二",
     "original": "巽 完二",
-    "translation": "巽 完二",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "巽完二",
+    "stage": 0,
+    "context": "机翻辅助：\n\n巽完二"
   },
   {
     "key": "speaker_桐条 美鶴",
     "original": "桐条 美鶴",
-    "translation": "桐条 美鹤",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "桐条美鹤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n桐条美鹤"
   }
 ]

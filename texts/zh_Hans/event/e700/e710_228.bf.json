@@ -30,14 +30,14 @@
   {
     "key": "MSG_003_1",
     "original": "なんであんなでけぇのが\nこんな所にあんだ？",
-    "translation": "那么大的东西怎么出现在这种地方啊？",
-    "stage": 1,
+    "translation": "为什么这种地方\n会有那么大的东西？",
+    "stage": 0,
     "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n为什么这种地方\n会有那么大的东西？\n\n为什么你会在这种地方？\n\n\n为什么会在这种地方？"
   },
   {
     "key": "MSG_004_0",
     "original": "恐らく、[颜色 03]サーチライト[颜色 01]だと思う。",
-    "translation": "恐怕，[颜色 03]这就是探照灯[颜色 01]。",
+    "translation": "我想，[颜色 03]那应该是探照灯[颜色 01]。",
     "stage": 1,
     "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n我想，那应该是[颜色 03]搜索灯[颜色 01]。\n\n我想应该是探照灯。[颜色 03][颜色 01]\n\n恐怕是探照灯。[颜色 03][颜色 01]"
   },
@@ -94,21 +94,21 @@
     "key": "speaker_明智 吾郎",
     "original": "明智 吾郎",
     "translation": "明智 吾郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   }
 ]

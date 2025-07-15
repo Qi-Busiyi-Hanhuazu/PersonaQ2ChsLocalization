@@ -9,7 +9,7 @@
   {
     "key": "MSG_001_0",
     "original": "自分は、他の誰でもない。\n似てる事はあっても、全く同じ人はいない。",
-    "translation": "我就是我，无法成为他人。\n虽然会有相似之处，但完全相同的人是不存在的。",
+    "translation": "我就是我，无法成为他人。\n虽然有相似之处，但完全相同的人并不存在。",
     "stage": 1,
     "context": "说话人：Ｐ３主人公\n\n机翻辅助：\n\n自己不是别人。\n即使有相似之处，也没有完全相同的人。\n\n我不是其他任何人。\n虽然有相似的事情，但没有完全相同的人。\n\n自己不是别人。虽然有相似之处，但完全相同的人是不存在的。"
   },
@@ -44,22 +44,22 @@
   {
     "key": "speaker_Ｐ３主人公",
     "original": "Ｐ３主人公",
-    "translation": "Ｐ３主人公",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P3主角",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP3主角\n\nP3主人公"
   },
   {
     "key": "speaker_桐条 美鶴",
     "original": "桐条 美鶴",
-    "translation": "桐条 美鹤",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "桐条美鹤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n桐条美鹤"
   },
   {
     "key": "speaker_Ｐ３主人公（女）",
     "original": "Ｐ３主人公（女）",
-    "translation": "Ｐ３主人公（女）",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P3主角（女）",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP3主角（女）\n\nP3主人公（女）"
   }
 ]

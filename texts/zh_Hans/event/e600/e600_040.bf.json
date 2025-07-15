@@ -240,14 +240,14 @@
   {
     "key": "MSG_028_0",
     "original": "うん。実は今、みんなで映画でも\n見ようかって話になってて…",
-    "translation": "嗯。其实我们刚刚在讨论要不要一起去看电影……",
+    "translation": "嗯。其实我们刚刚在讨论\n要不要一起去看电影……",
     "stage": 1,
     "context": "说话人：山岸 風花\n\n机翻辅助：\n\n嗯。其实现在大家\n在商量要不要去看电影……\n\n嗯。实际上，现在大家一起看电影吧……\n\n\n嗯。其实现在，大家都在讨论要不要去看电影……"
   },
   {
     "key": "MSG_029_0",
     "original": "会長が許してくれたであります。\nヨッ、太っ腹！",
-    "translation": "会长也允许了呢。\n嗯、慷慨万分！",
+    "translation": "会长也允许了呢。\n嗯，慷慨万分！",
     "stage": 1,
     "context": "说话人：アイギス\n\n机翻辅助：\n\n会长同意了。\n哟，真大方！\n\n会长原谅了我。\n哇，大肚子！\n\n会长原谅了我。\n啊，痛快！"
   },
@@ -289,9 +289,9 @@
   {
     "key": "speaker_Ｐ３主人公（女）",
     "original": "Ｐ３主人公（女）",
-    "translation": "Ｐ３主人公（女）",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P3主角（女）",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP3主角（女）\n\nP3主人公（女）"
   },
   {
     "key": "speaker_ゆかりの声",
@@ -303,64 +303,64 @@
   {
     "key": "speaker_岳羽 ゆかり",
     "original": "岳羽 ゆかり",
-    "translation": "岳羽 由加莉",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "岳羽由加莉",
+    "stage": 0,
+    "context": "机翻辅助：\n\n岳羽由加莉"
   },
   {
     "key": "speaker_伊織 順平",
     "original": "伊織 順平",
     "translation": "伊织 顺平",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n伊织 顺平\n\n伊织顺平"
   },
   {
     "key": "speaker_天田 乾",
     "original": "天田 乾",
-    "translation": "天田 乾",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "天田乾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天田乾"
   },
   {
     "key": "speaker_真田 明彦",
     "original": "真田 明彦",
-    "translation": "真田 明彦",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "真田明彦",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真田明彦"
   },
   {
     "key": "speaker_荒垣 真次郎",
     "original": "荒垣 真次郎",
-    "translation": "荒垣 真次郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "荒垣真次郎",
+    "stage": 0,
+    "context": "机翻辅助：\n\n荒垣真次郎"
   },
   {
     "key": "speaker_山岸 風花",
     "original": "山岸 風花",
-    "translation": "山岸 风花",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "山岸风花",
+    "stage": 0,
+    "context": "机翻辅助：\n\n山岸风花"
   },
   {
     "key": "speaker_桐条 美鶴",
     "original": "桐条 美鶴",
-    "translation": "桐条 美鹤",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "桐条美鹤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n桐条美鹤"
   },
   {
     "key": "speaker_アイギス",
     "original": "アイギス",
     "translation": "埃癸斯",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n埃癸斯"
   },
   {
     "key": "speaker_コロマル",
     "original": "コロマル",
     "translation": "虎狼丸",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n虎狼丸"
   }
 ]

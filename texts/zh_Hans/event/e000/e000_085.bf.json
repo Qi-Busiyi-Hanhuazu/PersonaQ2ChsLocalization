@@ -233,14 +233,14 @@
   {
     "key": "MSG_029_0",
     "original": "なんかムカつく地名だな。\nてか、ジョーカー知ってっか？",
-    "translation": "还真听上去有点让人火大的地名。\n话说，JOKER你有听说过这里吗？",
+    "translation": "还真听上去有点让人火大的地名。\n话说，JOKER你听说过这里吗？",
     "stage": 1,
     "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n总觉得是个令人火大的地名。\n话说，你知道JOKER吗？\n\n真是个令人生气的地名啊。\n话说，你知道JOKER吗？\n\n这个地名真让人生气。\n话说，你知道JOKER吗？"
   },
   {
     "key": "SEL_030_0",
     "original": "聞いたことはある",
-    "translation": "有听过",
+    "translation": "听过",
     "stage": 1,
     "context": "机翻辅助：\n\n我有听过\n\n我听说过\n\n听说过"
   },
@@ -331,7 +331,7 @@
   {
     "key": "MSG_040_0",
     "original": "めっちゃ疑われてない！？",
-    "translation": "我们好像完完全全的被怀疑了啊！？",
+    "translation": "我们好像完完全全地被怀疑了啊！？",
     "stage": 1,
     "context": "说话人：高巻 杏\n\n机翻辅助：\n\n完全不被信任！？\n\n非常不被怀疑！？\n\n完全没有被怀疑！？"
   },
@@ -359,8 +359,8 @@
   {
     "key": "MSG_044_0",
     "original": "おい、何かいっぱい来たぞ！？",
-    "translation": "喂，好像来了很多人！？",
-    "stage": 0,
+    "translation": "喂，好像来了很多人啊！？",
+    "stage": 1,
     "context": "说话人：モルガナ\n\n机翻辅助：\n\n喂，好像来了很多人！？\n\n喂，来了好多东西！？"
   },
   {
@@ -402,50 +402,50 @@
     "key": "speaker_新島 真",
     "original": "新島 真",
     "translation": "新岛 真",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n新岛 真"
   },
   {
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   },
   {
     "key": "speaker_明智 吾郎",
     "original": "明智 吾郎",
     "translation": "明智 吾郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_奥村 春",
     "original": "奥村 春",
     "translation": "奥村 春",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   },
   {
     "key": "speaker_高巻 杏",
     "original": "高巻 杏",
     "translation": "高卷 杏",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n高卷 杏"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_真面目そうな警官",
@@ -458,8 +458,8 @@
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   },
   {
     "key": "speaker_小太りの警官",

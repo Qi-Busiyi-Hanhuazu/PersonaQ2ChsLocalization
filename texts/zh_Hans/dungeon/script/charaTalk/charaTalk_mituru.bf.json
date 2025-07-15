@@ -227,14 +227,14 @@
     "key": "MSG_027_0",
     "original": "！！ああっと！！",
     "translation": "！！哇呀！！",
-    "stage": 9,
-    "context": "翻译匹配：EO1-3HD"
+    "stage": 0,
+    "context": "机翻辅助：\n\n！！哇呀！！"
   },
   {
     "key": "speaker_桐条 美鶴",
     "original": "桐条 美鶴",
-    "translation": "桐条 美鹤",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "桐条美鹤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n桐条美鹤"
   }
 ]

@@ -2,21 +2,21 @@
   {
     "key": "MSG_000_0",
     "original": "あれは…ハシゴかな？\nどこに通じているんだろう。",
-    "translation": "那是……梯子吗？\n它通向哪里呢。",
+    "translation": "那是……梯子吗？\n是通向哪里的呢。",
     "stage": 1,
     "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n那是……梯子吗？\n不知道能爬到哪里。\n\n那是……梯子吗？\n到底通向哪里。\n\n那是……梯子吗？通向哪里呢？"
   },
   {
     "key": "MSG_001_0",
     "original": "結構たけぇな…",
-    "translation": "还是挺高的啊……",
+    "translation": "还挺高的啊……",
     "stage": 1,
     "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n还挺高的呢……\n\n相当厉害啊……\n\n好厉害啊……"
   },
   {
     "key": "MSG_002_0",
     "original": "でも、スカルなら届くかもよ？\n陸上部で脚、鍛えてるんだしさ。",
-    "translation": "但是，如果是SKULL的话，\n说不定能够到达呢？\n毕竟在田径部锻炼了腿部嘛。",
+    "translation": "但是，如果是SKULL的话，\n说不定能够直接上去呢？\n毕竟在田径部锻炼了腿部嘛。",
     "stage": 1,
     "context": "说话人：高巻 杏\n\n机翻辅助：\n\n不过，SKULL的话应该爬得上去吧？\n田径社的脚，可是有在锻炼的。\n\n但是，SKULL的话可能会送到吧？\n在田径部锻炼脚。\n\n但是，SKULL的话可能会送到吧？我还在田径队锻炼腿呢。"
   },
@@ -94,28 +94,28 @@
     "key": "speaker_明智 吾郎",
     "original": "明智 吾郎",
     "translation": "明智 吾郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   },
   {
     "key": "speaker_高巻 杏",
     "original": "高巻 杏",
     "translation": "高卷 杏",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n高卷 杏"
   },
   {
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   }
 ]

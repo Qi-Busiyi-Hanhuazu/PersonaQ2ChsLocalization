@@ -142,16 +142,16 @@
   {
     "key": "speaker_山岸 風花",
     "original": "山岸 風花",
-    "translation": "山岸 风花",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "山岸风花",
+    "stage": 0,
+    "context": "机翻辅助：\n\n山岸风花"
   },
   {
     "key": "speaker_真田 明彦",
     "original": "真田 明彦",
-    "translation": "真田 明彦",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "真田明彦",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真田明彦"
   },
   {
     "key": "speaker_電子音声",
@@ -163,8 +163,8 @@
   {
     "key": "speaker_桐条 美鶴",
     "original": "桐条 美鶴",
-    "translation": "桐条 美鹤",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "桐条美鹤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n桐条美鹤"
   }
 ]

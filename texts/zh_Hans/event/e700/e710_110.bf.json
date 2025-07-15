@@ -30,7 +30,7 @@
   {
     "key": "MSG_003_0",
     "original": "じゃあ、あそこを目指せばいいってこと？\n…み、見失いそうなんだけど。",
-    "translation": "那么，只要以那里为目标就行了吗？\n……不过好、好像会跟丢的样子。",
+    "translation": "那么，只要向那里前进就行了吗？\n……不过好、好像容易迷路的样子。",
     "stage": 1,
     "context": "说话人：高巻 杏\n\n机翻辅助：\n\n那么，只要以那里为目标就行了吗？\n……好、好像会跟丢。\n\n那么，以那里为目标就可以了吗？\n……美，好像迷失了。\n\n那么，你是说以那里为目标就可以了？\n……我好像跟丢了。"
   },
@@ -143,35 +143,35 @@
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_高巻 杏",
     "original": "高巻 杏",
     "translation": "高卷 杏",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n高卷 杏"
   },
   {
     "key": "speaker_明智 吾郎",
     "original": "明智 吾郎",
     "translation": "明智 吾郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   }
 ]

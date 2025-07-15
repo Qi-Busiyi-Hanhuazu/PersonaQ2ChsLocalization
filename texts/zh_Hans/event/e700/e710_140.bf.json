@@ -9,7 +9,7 @@
   {
     "key": "MSG_000_1",
     "original": "戦闘は避けられそうにないな…\nジョーカー、行くか？",
-    "translation": "战斗似乎是不可避免了啊……\nJOKER，我们走上吧？",
+    "translation": "战斗似乎是不可避免了啊……\nJOKER，我们上吧？",
     "stage": 1,
     "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n看来无法避免战斗了呢……\nJOKER，要上吗？\n\n看来战斗是不可避免的……\nJOKER，去吗？\n\n看来战斗是不可避免的啊？"
   },
@@ -45,21 +45,21 @@
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   },
   {
     "key": "speaker_明智 吾郎",
     "original": "明智 吾郎",
     "translation": "明智 吾郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   }
 ]

@@ -93,7 +93,7 @@
   {
     "key": "MSG_006_0",
     "original": "フラグだったか…",
-    "translation": "这是在立flag吗……",
+    "translation": "这是在立FLAG吗……",
     "stage": 1,
     "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n这是在立旗吗……\n\n原来是flag啊……\n\n是标志吗……"
   },
@@ -346,84 +346,84 @@
     "key": "speaker_エリザベス",
     "original": "エリザベス",
     "translation": "伊莉莎白",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n伊莉莎白"
   },
   {
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   },
   {
     "key": "speaker_久慈川 りせ",
     "original": "久慈川 りせ",
-    "translation": "久慈川 理世",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "久慈川理世",
+    "stage": 0,
+    "context": "机翻辅助：\n\n久慈川理世"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_高巻 杏",
     "original": "高巻 杏",
     "translation": "高卷 杏",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n高卷 杏"
   },
   {
     "key": "speaker_岳羽 ゆかり",
     "original": "岳羽 ゆかり",
-    "translation": "岳羽 由加莉",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "岳羽由加莉",
+    "stage": 0,
+    "context": "机翻辅助：\n\n岳羽由加莉"
   },
   {
     "key": "speaker_伊織 順平",
     "original": "伊織 順平",
     "translation": "伊织 顺平",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n伊织 顺平\n\n伊织顺平"
   },
   {
     "key": "speaker_クマ",
     "original": "クマ",
     "translation": "小熊",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n小熊"
   },
   {
     "key": "speaker_花村 陽介",
     "original": "花村 陽介",
-    "translation": "花村 阳介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "花村阳介",
+    "stage": 0,
+    "context": "机翻辅助：\n\n花村阳介"
   },
   {
     "key": "speaker_コロマル",
     "original": "コロマル",
     "translation": "虎狼丸",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n虎狼丸"
   },
   {
     "key": "speaker_アイギス",
     "original": "アイギス",
     "translation": "埃癸斯",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n埃癸斯"
   },
   {
     "key": "speaker_奥村 春",
     "original": "奥村 春",
     "translation": "奥村 春",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   }
 ]

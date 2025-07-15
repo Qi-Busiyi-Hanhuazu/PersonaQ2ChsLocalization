@@ -23,22 +23,22 @@
   {
     "key": "speaker_Ｐ３主人公",
     "original": "Ｐ３主人公",
-    "translation": "Ｐ３主人公",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P3主角",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP3主角\n\nP3主人公"
   },
   {
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   },
   {
     "key": "speaker_久慈川 りせ",
     "original": "久慈川 りせ",
-    "translation": "久慈川 理世",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "久慈川理世",
+    "stage": 0,
+    "context": "机翻辅助：\n\n久慈川理世"
   }
 ]

@@ -9,7 +9,7 @@
   {
     "key": "MSG_000_1",
     "original": "ひかり様の映画にて、『蝶』を探し出し、\nこちらまでお持ちください。",
-    "translation": "请在光公子的电影中找出“蝴蝶”，\n并带到这里来。",
+    "translation": "请在光大人的电影中找出“蝴蝶”，\n并带到这里来。",
     "stage": 1,
     "context": "说话人：エリザベス\n\n机翻辅助：\n\n在光公子的电影中找出“蝴蝶”，\n请带到这里来。\n\n在光先生的电影中，找出“蝴蝶”，\n请拿到这里。\n\n在光大人的电影中找到“蝶”，请拿到这里。"
   },
@@ -129,70 +129,70 @@
     "key": "speaker_エリザベス",
     "original": "エリザベス",
     "translation": "伊莉莎白",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n伊莉莎白"
   },
   {
     "key": "speaker_ひかり",
     "original": "ひかり",
     "translation": "光",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n光\n\n光线"
   },
   {
     "key": "speaker_里中 千枝",
     "original": "里中 千枝",
-    "translation": "里中 千枝",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "里中千枝",
+    "stage": 0,
+    "context": "机翻辅助：\n\n里中千枝"
   },
   {
     "key": "speaker_岳羽 ゆかり",
     "original": "岳羽 ゆかり",
-    "translation": "岳羽 由加莉",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "岳羽由加莉",
+    "stage": 0,
+    "context": "机翻辅助：\n\n岳羽由加莉"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   },
   {
     "key": "speaker_白鐘 直斗",
     "original": "白鐘 直斗",
-    "translation": "白钟 直斗",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "白钟直斗",
+    "stage": 0,
+    "context": "机翻辅助：\n\n白钟直斗"
   },
   {
     "key": "speaker_真田 明彦",
     "original": "真田 明彦",
-    "translation": "真田 明彦",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "真田明彦",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真田明彦"
   },
   {
     "key": "speaker_奥村 春",
     "original": "奥村 春",
     "translation": "奥村 春",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   }
 ]

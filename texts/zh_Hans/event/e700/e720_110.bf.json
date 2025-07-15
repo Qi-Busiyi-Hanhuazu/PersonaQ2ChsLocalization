@@ -2,7 +2,7 @@
   {
     "key": "MSG_000_0",
     "original": "なるほど…\n[颜色 03]スイッチを操作すると、柵が回転する[颜色 01]のね。",
-    "translation": "[颜色 01]原来如此。\n[颜色 03]操作开关时，栅栏就会旋转。",
+    "translation": "原来如此。\n[颜色 03]操作开关时，栅栏就会旋转[颜色 01]。",
     "stage": 1,
     "context": "说话人：新島 真\n\n机翻辅助：\n\n原来如此……\n[颜色 03]只要操作开关，栅栏就会旋转[颜色 01]啊。\n\n原来如此……\n[颜色 03]操作开关的话，栅栏会旋转[颜色 01]。\n\n原来如此……一操作开关，栅栏就会旋转。\n[颜色 03][颜色 01]"
   },
@@ -16,14 +16,14 @@
   {
     "key": "MSG_002_0",
     "original": "人間はいなくなっても\n施設は生きているということか。",
-    "translation": "人类不在了，\n但设施还在运转着吗？",
+    "translation": "即使人类不在了，\n但设施还在运转着吗？",
     "stage": 1,
     "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n即使人类不在了\n设施也依然存在吗？\n\n即使没有人了，设施还活着吗。\n\n\n即使人不在了，设施还活着吗？"
   },
   {
     "key": "MSG_003_0",
     "original": "けど、この先、いくつか強い反応がある。\nこりゃ、Ｆ．Ｏ．Ｅっぽい。気をつけ…",
-    "translation": "但是，接下来有几个强烈的反应。\n看起来像是F.O.E。小……",
+    "translation": "不过，接下来有几个强烈的反应。\n看起来像是F.O.E。大家小……",
     "stage": 1,
     "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n不过，前方有几个强烈的反应。\n这应该是F.O.E。要小心……\n\n但是，今后有几个强烈的反应。\n这真像F.O.E。小心……\n\n不过，接下来会有一些强烈的反应。这很像F.O.E。小心……"
   },
@@ -94,42 +94,42 @@
     "key": "speaker_新島 真",
     "original": "新島 真",
     "translation": "新岛 真",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n新岛 真"
   },
   {
     "key": "speaker_Ｐ３主人公（女）",
     "original": "Ｐ３主人公（女）",
-    "translation": "Ｐ３主人公（女）",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P3主角（女）",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP3主角（女）\n\nP3主人公（女）"
   },
   {
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_高巻 杏",
     "original": "高巻 杏",
     "translation": "高卷 杏",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n高卷 杏"
   },
   {
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   }
 ]

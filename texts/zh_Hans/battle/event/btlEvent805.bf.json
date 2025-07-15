@@ -9,7 +9,7 @@
   {
     "key": "MSG_000_1",
     "original": "なぜ、『個』を獲得し、\nそれに固執するのですか？",
-    "translation": "为什么要追求和执着于“个性”\n呢？",
+    "translation": "为什么要追求和执着于\n“个性”呢？",
     "stage": 1,
     "context": "说话人：マザーコンピュータ\n\n机翻辅助：\n\n为什么获得“个体”\n并且固执于这个概念？\n\n为什么，获得“个”，\n坚持那个？\n\n为什么要获得“个体”，并执着于此呢？"
   },
@@ -107,7 +107,7 @@
   {
     "key": "MSG_009_3",
     "original": "成功させるまでの間、お前たちはマザー\nコンピュータの意識を逸らしてくれ。",
-    "translation": "在成功之前，\n你们要转移母体计算机的注意力。",
+    "translation": "在成功之前，\n你们要转移主计算机的注意力。",
     "stage": 1,
     "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n在成功之前，你们就让主电脑\n的意识分散吧。\n\n在取得成功之前，你们要转移对计算机的意识。\n\n\n在成功之前，你们先转移母机的意识。"
   },
@@ -184,57 +184,57 @@
   {
     "key": "speaker_桐条 美鶴",
     "original": "桐条 美鶴",
-    "translation": "桐条 美鹤",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "桐条美鹤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n桐条美鹤"
   },
   {
     "key": "speaker_山岸 風花",
     "original": "山岸 風花",
-    "translation": "山岸 风花",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "山岸风花",
+    "stage": 0,
+    "context": "机翻辅助：\n\n山岸风花"
   },
   {
     "key": "speaker_天城 雪子",
     "original": "天城 雪子",
-    "translation": "天城 雪子",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "天城雪子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天城雪子"
   },
   {
     "key": "speaker_リボン",
     "original": "リボン",
     "translation": "蝴蝶结",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n蝴蝶结"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_新島 真",
     "original": "新島 真",
     "translation": "新岛 真",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n新岛 真"
   },
   {
     "key": "speaker_Ｐ３主人公（女）",
     "original": "Ｐ３主人公（女）",
-    "translation": "Ｐ３主人公（女）",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P3主角（女）",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP3主角（女）\n\nP3主人公（女）"
   },
   {
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   }
 ]

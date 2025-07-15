@@ -2,14 +2,14 @@
   {
     "key": "MSG_000_0",
     "original": "はあ…めちゃくちゃ疲れたー！\nどんだけ監視してんの！？",
-    "translation": "哈啊……累死了——！\n到底按了多少监视器啊！？",
+    "translation": "哈啊……累死了——！\n到底有多少探照灯啊！？",
     "stage": 1,
     "context": "说话人：高巻 杏\n\n机翻辅助：\n\n唉……累死我了！\n你们到底要监视到什么程度啊！\n\n啊……太累了！\n有多监视啊！？\n\n哈……好累啊！到底是怎么监视的！？"
   },
   {
     "key": "MSG_001_0",
     "original": "そうだな、もっと節電すべきだ。\n電気代もバカにならん。",
-    "translation": "说得对啊，应该要更加节约用电。\n可不能小瞧了电费啊。",
+    "translation": "说得对啊，应该要节约用电。\n可不能小瞧了电费啊。",
     "stage": 1,
     "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n是啊，应该要更省电一点。\n电费也不是省油的灯啊。\n\n是啊，你应该多节电。\n电费也不能小看。\n\n是啊，应该更省电。电费也不能小看。"
   },
@@ -87,35 +87,35 @@
     "key": "speaker_高巻 杏",
     "original": "高巻 杏",
     "translation": "高卷 杏",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n高卷 杏"
   },
   {
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   },
   {
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   }
 ]

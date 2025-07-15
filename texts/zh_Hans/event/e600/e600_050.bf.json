@@ -72,7 +72,7 @@
   {
     "key": "MSG_009_0",
     "original": "俺も美術展に絵を出すが、\nこれはその映画版…というところか。",
-    "translation": "我也有参与美术展出，\n这就是美术展的……电影版吧。",
+    "translation": "我也会参与美术展出，\n这就是美术展的……电影版吧。",
     "stage": 1,
     "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n我也会在美术展上展出画作，\n这个算是电影版……吧。\n\n我也在美术展上出了画，\n这是那个电影版……大概就是这样吧。\n\n我也会在美术展上画画，但这就是电影版。"
   },
@@ -86,7 +86,7 @@
   {
     "key": "MSG_011_0",
     "original": "演出、脚本、撮影…全部を同じ\n年頃の子たちがやってるなんてね。",
-    "translation": "演出、剧本、拍摄……\n都是我们的同龄人完成的呢。",
+    "translation": "导演、剧本、拍摄……\n都是我们的同龄人完成的呢。",
     "stage": 1,
     "context": "说话人：新島 真\n\n机翻辅助：\n\n导演，剧本，摄影……全部都是\n同龄的孩子们在做啊。\n\n演出、剧本、摄影……全部都是一样的\n年纪大的孩子们在做什么呢。\n\n导演、编剧、摄影……竟然全部都是同龄的孩子在做。"
   },
@@ -219,7 +219,7 @@
   {
     "key": "MSG_026_0",
     "original": "いやいや、高校生の自主制作で\nＳＦはねえだろ！",
-    "translation": "哎呀，\n高中生排不了科幻电影吧！",
+    "translation": "哎呀，\n高中生拍不了科幻电影吧！",
     "stage": 1,
     "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n不不不，高中生的自主制作\n哪有科幻电影啊！\n\n不不不，是高中生自主制作\n没有SF吧！\n\n不不不不不不不不不不不不不不不不不不不不不不不不不不不不！"
   },
@@ -261,7 +261,7 @@
   {
     "key": "MSG_031_0",
     "original": "場所は…チラシに書いてあるな。",
-    "translation": "地点是……传单上有写着呢。",
+    "translation": "地点是……传单上写着呢。",
     "stage": 1,
     "context": "说话人：モルガナ\n\n机翻辅助：\n\n地点……传单上有写。\n\n地点是……宣传单上写着。\n\n地点……传单上写着啊。"
   },
@@ -283,49 +283,49 @@
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   },
   {
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   },
   {
     "key": "speaker_高巻 杏",
     "original": "高巻 杏",
     "translation": "高卷 杏",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n高卷 杏"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_新島 真",
     "original": "新島 真",
     "translation": "新岛 真",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n新岛 真"
   },
   {
     "key": "speaker_奥村 春",
     "original": "奥村 春",
     "translation": "奥村 春",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   }
 ]

@@ -52,28 +52,28 @@
     "key": "speaker_クマ",
     "original": "クマ",
     "translation": "小熊",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n小熊"
   },
   {
     "key": "speaker_奥村 春",
     "original": "奥村 春",
     "translation": "奥村 春",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   },
   {
     "key": "speaker_天城 雪子",
     "original": "天城 雪子",
-    "translation": "天城 雪子",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "天城雪子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天城雪子"
   }
 ]

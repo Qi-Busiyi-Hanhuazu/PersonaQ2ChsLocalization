@@ -23,7 +23,7 @@
   {
     "key": "MSG_002_1",
     "original": "[P3P名]にずいぶんと熱い\n視線送っちゃって、妬けるねー！",
-    "translation": "你看向[P3P名]的眼神好火热，\n真让人嫉妒啊！",
+    "translation": "你看向[P3P名]小姐的眼神放电，\n真让人嫉妒啊！",
     "stage": 1,
     "context": "说话人：伊織 順平\n\n机翻辅助：\n\n你对[P3P名]投以好火热的\n视线，真让人嫉妒啊！\n\n给[P3P名]送去了很热的视线，真是嫉妒啊！\n\n\n对[P3P名]相当热情的投去视线，嫉妒啊～！"
   },
@@ -37,7 +37,7 @@
   {
     "key": "MSG_003_1",
     "original": "[P3P名]さんは\n出会ったばかりの方なのに…",
-    "translation": "与[P3P名]小姐\n明明才刚认识而已……",
+    "translation": "与[P3P名]\n明明才刚认识而已……",
     "stage": 1,
     "context": "说话人：アイギス\n\n机翻辅助：\n\n[P3P名]先生\n明明才刚认识而已……\n\n[P3P名]先生明明是刚认识的人……\n\n\n[P3P名]明明是刚认识的人……"
   },
@@ -58,7 +58,7 @@
   {
     "key": "MSG_004_1",
     "original": "それとも、まさか…ロボット的な目で\n何かが見えてるってこと？",
-    "translation": "还是说，难道……用机器人的眼睛\n看透了什么？",
+    "translation": "还是说，难道……用机器人般的眼睛\n能看到其他别的什么？",
     "stage": 1,
     "context": "说话人：天城 雪子\n\n机翻辅助：\n\n还是，难道……用机器人般的眼睛\n看到了什么？\n\n还是说，难道……你的眼睛看得见什么？就像机器人那样。\n\n\n还是说，难道……用机器人的眼睛看到了什么？"
   },
@@ -72,7 +72,7 @@
   {
     "key": "MSG_006_0",
     "original": "心霊現象を感知する機能はありません。\nその他の意味で、ということですか？",
-    "translation": "我并没有感知灵异现象的功能。\n是想问其他意义上的意思吗？",
+    "translation": "我并没有感知灵异现象的能力。\n是说除了那个功能以外的其他什么吗？",
     "stage": 1,
     "context": "说话人：アイギス\n\n机翻辅助：\n\n我没有感应灵异现象的功能。\n所以是其他方面的意思吗？\n\n没有感知心灵现象的功能。\n是其他意思吗？\n\n没有感知灵异现象的功能。\n是指其他的意思吗？"
   },
@@ -107,7 +107,7 @@
   {
     "key": "MSG_009_0",
     "original": "そうそう。目からＸ線が出て\n全身スキャンできるとか！",
-    "translation": "对了对了，眼睛能射出X光\n做全身扫描之类的！",
+    "translation": "对对，眼睛能射出X光\n做全身扫描之类的！",
     "stage": 1,
     "context": "说话人：天城 雪子\n\n机翻辅助：\n\n对了对了，眼睛还能射出X光\n全身扫描之类的！\n\n对了对了。眼睛发出X光\n可以进行全身扫描！\n\n对对。从眼睛发出X射线，可以扫描全身！"
   },
@@ -142,56 +142,56 @@
   {
     "key": "MSG_014_0",
     "original": "里中は茶色だろ？\n肉食いすぎだから。",
-    "translation": "里中是褐色的吧？\n因为吃肉吃太多了。",
+    "translation": "里中是茶色吧？\n因为吃肉吃太多了。",
     "stage": 1,
     "context": "说话人：花村 陽介\n\n机翻辅助：\n\n里中是褐色的吧？\n因为肉吃太多了。\n\n里面是茶色的吧？\n因为肉食过度。\n\n里中是茶色的吧？因为肉吃太多了。"
   },
   {
     "key": "MSG_015_0",
     "original": "焼き加減はレアめが好きだから、\n茶色より、赤のほうが嬉しいぞよ。",
-    "translation": "因为我喜欢偏生的熟度，\n比起褐色，红色比较合我的意哦。",
+    "translation": "因为我喜欢偏生的熟度，\n比起茶色，红色更合我的意哦。",
     "stage": 1,
     "context": "说话人：里中 千枝\n\n机翻辅助：\n\n我喜欢偏生的熟度，\n比起褐色，红色比较让我开心哦。\n\n烤的时候喜欢稀有的，比起茶色，红色更让人高兴。\n\n\n因为我喜欢新鲜的，所以比起茶色，我更喜欢红色。"
   },
   {
     "key": "MSG_016_0",
     "original": "どっちでもいいわ！　つか、そんな\nスピリチュアルな機能ねえだろ。",
-    "translation": "都随便啦！不如说，哪有那种\n超自然的功能啊。",
+    "translation": "那个都行吧！话说，怎么会有那种\n超自然的功能啊。",
     "stage": 1,
     "context": "说话人：花村 陽介\n\n机翻辅助：\n\n都可以啦！应该说，哪有那种\n精神上的机能啊。\n\n哪个都行！说起来，没有那种精神的功能吧。\n\n\n哪个都可以！不，没有那种精神功能吧。"
   },
   {
     "key": "MSG_017_0",
     "original": "機能と呼べるかは分かりませんが…",
-    "translation": "虽然不知道能不能称为功能就是了……",
+    "translation": "虽然不知道能不能称为功能……",
     "stage": 1,
     "context": "说话人：アイギス\n\n机翻辅助：\n\n虽然不知道能不能称为机能就是了……\n\n我不知道能不能称为功能……\n\n不知道能不能称之为功能……"
   },
   {
     "key": "MSG_018_0",
     "original": "あんの！？",
-    "translation": "真有啊！",
+    "translation": "真有嘛！？",
     "stage": 1,
     "context": "说话人：花村 陽介\n\n机翻辅助：\n\n有哦！\n\n你的！？\n\n那个！？"
   },
   {
     "key": "MSG_019_0",
     "original": "目で見るというより、\nもっと精神的な何か、ということだろう。",
-    "translation": "与其说是用眼睛看，\n不如说是偏向于精神上的某种感觉吧。",
+    "translation": "与其说是用眼睛看到 ，\n不如说是偏向于精神上的某种感觉吧。",
     "stage": 1,
     "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n与其说是用眼睛看，\n应该说是某种精神上的某种东西吧。\n\n与其说是用眼睛看，不如说是精神上的某种东西。\n\n\n与其说是用眼睛看，不如说是精神上的东西。"
   },
   {
     "key": "MSG_020_0",
     "original": "心…とか、そういう感じ？",
-    "translation": "心……之类的，类似这种感觉？",
-    "stage": 0,
+    "translation": "心……之类的，类似那种感觉？",
+    "stage": 1,
     "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n心……之类的，类似这种感觉？\n\n心……之类的，这种感觉？\n\n心……之类的感觉？"
   },
   {
     "key": "MSG_021_0",
     "original": "はい…\nそれに近いものである気がします。",
-    "translation": "是的……\n我认为是很接近那种事物的感觉。",
+    "translation": "是的……\n我认为是很接近那个的感觉。",
     "stage": 1,
     "context": "说话人：アイギス\n\n机翻辅助：\n\n是的……\n我觉得很接近那种感觉。\n\n是的……我觉得和那个很接近。"
   },
@@ -248,77 +248,77 @@
     "key": "speaker_アイギス",
     "original": "アイギス",
     "translation": "埃癸斯",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n埃癸斯"
   },
   {
     "key": "speaker_Ｐ３主人公（女）",
     "original": "Ｐ３主人公（女）",
-    "translation": "Ｐ３主人公（女）",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P3主角（女）",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP3主角（女）\n\nP3主人公（女）"
   },
   {
     "key": "speaker_伊織 順平",
     "original": "伊織 順平",
     "translation": "伊织 顺平",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n伊织 顺平\n\n伊织顺平"
   },
   {
     "key": "speaker_天城 雪子",
     "original": "天城 雪子",
-    "translation": "天城 雪子",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "天城雪子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天城雪子"
   },
   {
     "key": "speaker_里中 千枝",
     "original": "里中 千枝",
-    "translation": "里中 千枝",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "里中千枝",
+    "stage": 0,
+    "context": "机翻辅助：\n\n里中千枝"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_白鐘 直斗",
     "original": "白鐘 直斗",
-    "translation": "白钟 直斗",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "白钟直斗",
+    "stage": 0,
+    "context": "机翻辅助：\n\n白钟直斗"
   },
   {
     "key": "speaker_花村 陽介",
     "original": "花村 陽介",
-    "translation": "花村 阳介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "花村阳介",
+    "stage": 0,
+    "context": "机翻辅助：\n\n花村阳介"
   },
   {
     "key": "speaker_桐条 美鶴",
     "original": "桐条 美鶴",
-    "translation": "桐条 美鹤",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "桐条美鹤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n桐条美鹤"
   },
   {
     "key": "speaker_岳羽 ゆかり",
     "original": "岳羽 ゆかり",
-    "translation": "岳羽 由加莉",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "岳羽由加莉",
+    "stage": 0,
+    "context": "机翻辅助：\n\n岳羽由加莉"
   },
   {
     "key": "speaker_コロマル",
     "original": "コロマル",
     "translation": "虎狼丸",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n虎狼丸"
   }
 ]

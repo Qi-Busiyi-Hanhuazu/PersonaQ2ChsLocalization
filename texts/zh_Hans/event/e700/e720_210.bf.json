@@ -44,14 +44,14 @@
   {
     "key": "MSG_005_0",
     "original": "ちょっと、私たちが捕まってた時のことを\n思い出しちゃって。",
-    "translation": "稍微想起我们被抓住的时候。",
+    "translation": "我突然想到了\n我们被抓住的时候。",
     "stage": 1,
     "context": "说话人：新島 真\n\n机翻辅助：\n\n我稍微回想起……\n我们被抓住时的事。\n\n我想起了我们被抓的时候的事情。\n\n\n我突然想起我们被捕时的事。"
   },
   {
     "key": "MSG_005_1",
     "original": "こんな時だからこそ、自分もしっかり\nしなくちゃいけないのに…って。",
-    "translation": "这种时候才更需要自己坚强起来呢……",
+    "translation": "这种时候\n才更需要自己坚强起来呢……",
     "stage": 1,
     "context": "说话人：新島 真\n\n机翻辅助：\n\n明明在这种时候，自己也得好好\n才行的说……\n\n正因为是这样的时候，自己也要好好地。\n\n\n正因为是这种时候，自己才更应该好好地\n……说是。"
   },
@@ -72,14 +72,14 @@
   {
     "key": "MSG_007_1",
     "original": "あ、言っておくけど、別にノワールのこと\n責めてるワケじゃなくて、ええっと…",
-    "translation": "啊，先说好，我没有职责NOIR的意思，\n呃……",
+    "translation": "啊，先说好，我没有指责NOIR你的意思，\n呃……",
     "stage": 1,
     "context": "说话人：新島 真\n\n机翻辅助：\n\n啊，我先说，我并不是在\n责备NOIR，呃……\n\n啊，我告诉你，并不是责备NOIR的理由，是……\n\n\n啊，我先说一下，我并不是在责怪NOIR，嗯……"
   },
   {
     "key": "MSG_008_0",
     "original": "大丈夫、分かってるよ。\nそれに私も、クイーンと気持ちは同じ。",
-    "translation": "没关系，我明白。\n而且我的心情也和QUEEN一样。",
+    "translation": "没关系，我明白。\n而且我的心情也和QUEEN你一样。",
     "stage": 1,
     "context": "说话人：奥村 春\n\n机翻辅助：\n\n没关系，我明白的。\n而且，我的心情也和QUEEN一样。\n\n没关系，我知道。\n而且我的心情也和QUEEN一样。\n\n没关系，我知道。而且我和QUEEN的心情也是一样的。"
   },
@@ -150,28 +150,28 @@
     "key": "speaker_奥村 春",
     "original": "奥村 春",
     "translation": "奥村 春",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_新島 真",
     "original": "新島 真",
     "translation": "新岛 真",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n新岛 真"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   }
 ]

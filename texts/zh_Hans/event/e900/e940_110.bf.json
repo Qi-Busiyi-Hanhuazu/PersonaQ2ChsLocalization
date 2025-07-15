@@ -87,8 +87,8 @@
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   },
   {
     "key": "speaker_ズボンを押さえている住民",
@@ -101,14 +101,14 @@
     "key": "speaker_高巻 杏",
     "original": "高巻 杏",
     "translation": "高卷 杏",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n高卷 杏"
   },
   {
     "key": "speaker_佐倉 双葉（ナビ）",
     "original": "佐倉 双葉（ナビ）",
-    "translation": "佐仓 双叶（导航）",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "佐仓双叶",
+    "stage": 1,
+    "context": "机翻辅助：\n\n佐仓双叶（旁白）\n\n佐仓双叶"
   }
 ]

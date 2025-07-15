@@ -115,35 +115,35 @@
     "key": "speaker_マーガレット",
     "original": "マーガレット",
     "translation": "玛格丽特",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n玛格丽特"
   },
   {
     "key": "speaker_Ｐ３主人公（女）",
     "original": "Ｐ３主人公（女）",
-    "translation": "Ｐ３主人公（女）",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P3主角（女）",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP3主角（女）\n\nP3主人公（女）"
   },
   {
     "key": "speaker_天城 雪子",
     "original": "天城 雪子",
-    "translation": "天城 雪子",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "天城雪子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天城雪子"
   },
   {
     "key": "speaker_高巻 杏",
     "original": "高巻 杏",
     "translation": "高卷 杏",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n高卷 杏"
   },
   {
     "key": "speaker_白鐘 直斗",
     "original": "白鐘 直斗",
-    "translation": "白钟 直斗",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "白钟直斗",
+    "stage": 0,
+    "context": "机翻辅助：\n\n白钟直斗"
   }
 ]

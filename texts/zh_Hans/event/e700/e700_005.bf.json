@@ -30,7 +30,7 @@
   {
     "key": "MSG_003_0",
     "original": "そんな余裕はなさそうよ！\n援軍が来る前に、ここから離れないと…",
-    "translation": "没有那么多时间了！\n得在援军到来之前赶紧离开这里……",
+    "translation": "没有那么多时间了！\n得在敌人增援到来之前赶紧离开这里……",
     "stage": 1,
     "context": "说话人：新島 真\n\n机翻辅助：\n\n现在可没空悠哉地做这种事！\n得在援军抵达前离开这里才行……\n\n好像没有那么充裕的时间哦！\n在援军到来之前，必须离开这里……\n\n好像没有那种闲工夫！在援军到来之前，必须离开这里……"
   },
@@ -66,28 +66,28 @@
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_新島 真",
     "original": "新島 真",
     "translation": "新岛 真",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n新岛 真"
   },
   {
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   }
 ]

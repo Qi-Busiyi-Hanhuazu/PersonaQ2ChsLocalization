@@ -58,7 +58,7 @@
   {
     "key": "MSG_005_0",
     "original": "そうだな、ナビに\n調べてもらったらどうだろう。",
-    "translation": "说得对啊，\n让NAVI帮忙调查一下怎么样？",
+    "translation": "说得对啊，\n让NAVI帮忙检查一下怎么样？",
     "stage": 1,
     "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n是啊，\n让导航小姐调查一下如何？\n\n是啊，让导航查一下怎么样？\n\n\n是啊，让导航系统查一下怎么样。"
   },
@@ -72,7 +72,7 @@
   {
     "key": "MSG_007_0",
     "original": "ああ、ナビに\n調べてもらった方がいいだろう。",
-    "translation": "说得对啊，\n最好让NAVI帮忙调查一下。",
+    "translation": "啊，\n让NAVI帮忙检查一下比较好吧。",
     "stage": 1,
     "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n嗯，\n让导航小姐调查一下比较好吧。\n\n啊，让导航系统查一下比较好吧。\n\n\n啊，让导航查一下比较好吧。"
   },
@@ -93,7 +93,7 @@
   {
     "key": "MSG_010_0",
     "original": "そうだな、ナビに\n調べてもらったらどうだろう。",
-    "translation": "说得对啊，\n让NAVI帮忙调查一下怎么样？",
+    "translation": "说得对啊，\n让NAVI帮忙检查一下怎么样？",
     "stage": 1,
     "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n是啊，\n让导航小姐调查一下如何？\n\n是啊，让导航查一下怎么样？\n\n\n是啊，让导航系统查一下怎么样。"
   },
@@ -171,35 +171,35 @@
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   },
   {
     "key": "speaker_明智 吾郎",
     "original": "明智 吾郎",
     "translation": "明智 吾郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_高巻 杏",
     "original": "高巻 杏",
     "translation": "高卷 杏",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n高卷 杏"
   },
   {
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   }
 ]

@@ -58,7 +58,7 @@
   {
     "key": "MSG_003_0",
     "original": "ううっ…\nや、やっぱり…俺は…",
-    "translation": "唔唔……啊，果然……我……",
+    "translation": "唔唔……\n果、果然……我……",
     "stage": 1,
     "context": "说话人：ヨウスケサウルス\n\n机翻辅助：\n\n呜呜……\n果、果然……我还是……\n\n呜呜……\n啊，果然是……我……\n\n不，果然……我……"
   },
@@ -72,14 +72,14 @@
   {
     "key": "MSG_005_0",
     "original": "多数決で決まったでしょ。\nそれとも、自分が追放されたいの？",
-    "translation": "多数表决啊。\n还是说你想被驱逐出群体？",
+    "translation": "这是多数表决的结果吧。\n还是说你想被驱逐出群体？",
     "stage": 1,
     "context": "说话人：声が大きい草食恐竜\n\n机翻辅助：\n\n这是多数决的结果吧。\n还是说，你想被放逐？\n\n多数表决决定了吧。\n还是自己想被驱逐？\n\n不是多数决就决定了吗？\n还是想让自己被放逐？"
   },
   {
     "key": "MSG_006_0",
     "original": "い、嫌だ…\n追放は嫌だぁぁぁッ！",
-    "translation": "不、不要啊……\n请不要驱逐我啊！",
+    "translation": "不、不要啊……\n不要驱逐我啊！",
     "stage": 1,
     "context": "说话人：ヨウスケサウルス\n\n机翻辅助：\n\n不、不要……\n我不要被放逐啊啊啊！\n\n讨厌，讨厌……\n讨厌被放逐！\n\n不，讨厌……\n我讨厌被驱逐！"
   },
@@ -177,7 +177,7 @@
   {
     "key": "MSG_025_0",
     "original": "後ろの恐竜たちに言われて、\n無理やり、戦ってるみたい…",
-    "translation": "被后面的恐龙们指使着，\n强迫着战斗一样……",
+    "translation": "像是被后面的恐龙们指使着，\n强迫着战斗一样……",
     "stage": 1,
     "context": "说话人：奥村 春\n\n机翻辅助：\n\n被身后的恐龙们这么一说，\n好像在勉强自己战斗一样……\n\n被后面的恐龙们说了，\n好像在勉强战斗……\n\n被后面的恐龙们这么一说，就好像在勉强战斗……"
   },
@@ -191,7 +191,7 @@
   {
     "key": "MSG_027_0",
     "original": "ここは、後ろにいる奴らを\n黙らせるしかなさそうだな…",
-    "translation": "这里似乎只能让后面的家伙们安静下来了……",
+    "translation": "似乎只能让后面的\n家伙们安静下来了……",
     "stage": 1,
     "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n看来\n只能让后面那些家伙闭嘴了……\n\n看来只能让后面的那些家伙闭嘴了……\n\n\n这里只能让后面的人沉默……"
   },
@@ -220,29 +220,29 @@
     "key": "speaker_ヨウスケサウルス",
     "original": "ヨウスケサウルス",
     "translation": "阳介龙",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n阳介龙"
   },
   {
     "key": "speaker_奥村 春",
     "original": "奥村 春",
     "translation": "奥村 春",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_Ｐ４主人公",
     "original": "Ｐ４主人公",
-    "translation": "Ｐ４主人公",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P4主角",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP4主角\n\nP4主人公"
   },
   {
     "key": "speaker_花村 陽介",
     "original": "花村 陽介",
-    "translation": "花村 阳介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "花村阳介",
+    "stage": 0,
+    "context": "机翻辅助：\n\n花村阳介"
   },
   {
     "key": "speaker_口を尖らせた草食恐竜",
@@ -276,7 +276,7 @@
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   }
 ]

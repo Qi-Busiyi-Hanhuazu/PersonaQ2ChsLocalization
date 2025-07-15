@@ -227,14 +227,14 @@
     "key": "MSG_027_0",
     "original": "！！ああっと！！",
     "translation": "！！哇呀！！",
-    "stage": 9,
-    "context": "翻译匹配：EO1-3HD"
+    "stage": 0,
+    "context": "机翻辅助：\n\n！！哇呀！！"
   },
   {
     "key": "speaker_Ｐ３主人公（女）",
     "original": "Ｐ３主人公（女）",
-    "translation": "Ｐ３主人公（女）",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P3主角（女）",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP3主角（女）\n\nP3主人公（女）"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "key": "MSG_000_0",
     "original": "私は…お前たち人間が\n『エンリル』と呼び習わす、暴嵐の化身…",
-    "translation": "我是被你们人类称为“恩利尔”\n的暴风之化身。",
+    "translation": "我是被你们人类称为“恩利尔”的\n暴风之化身。",
     "stage": 1,
     "context": "说话人：エンリル\n\n机翻辅助：\n\n我……是你们人类\n习惯称为“恩利尔”的暴风雨的化身……\n\n我……你们人类称之为“恩里克”的暴风雨的化身……\n\n\n我……你们人类习惯称之为“恩里尔”的暴风雨的化身……"
   },
@@ -37,7 +37,7 @@
   {
     "key": "MSG_002_5_0",
     "original": "人々の願いと仲間たちの想いが\n立ち向かう力に変わる…！",
-    "translation": "人们的愿望和伙伴们的愿望会转化为战斗的力量……！",
+    "translation": "人们的愿望和伙伴们的愿望\n转化为了战斗的力量……！",
     "stage": 1,
     "context": "机翻辅助：\n\n人们的愿望与同伴们的思念\n转变成对抗的力量……！\n\n人们的愿望和伙伴们的想法\n变成了对抗的力量……！\n\n人们的愿望和伙伴们的想法变成对抗的力量……！"
   },
@@ -65,7 +65,7 @@
   {
     "key": "MSG_004_0",
     "original": "差し伸ばされた救いの手さえ、\n悪と定め、矛を向ける…",
-    "translation": "即便伸过来的救赎之手，也被认定为邪恶，拔剑相向……",
+    "translation": "即便伸过来的救赎之手，\n也被认定为邪恶，拔剑相向……",
     "stage": 1,
     "context": "说话人：エンリル\n\n机翻辅助：\n\n就连他人伸出的援手\n也视为邪恶，举剑相向……\n\n就连伸出的救赎之手也被定为邪恶，并将矛头指向……\n\n\n就连伸出来的拯救之手，也被定为恶，矛头指向……"
   },
@@ -79,7 +79,7 @@
   {
     "key": "MSG_004_2",
     "original": "だが、それでも私は\n庇護の手を差し伸べてやろう…",
-    "translation": "但是，即便如此，我仍然会伸出庇护之手……",
+    "translation": "但是，即便如此，\n我仍然会伸出庇护之手……",
     "stage": 1,
     "context": "说话人：エンリル\n\n机翻辅助：\n\n然而，即使如此\n我仍会向你们伸出庇护之手……\n\n但是，即便如此，我也要伸出庇护之手……\n\n\n但是，即便如此，我还是伸出了庇护之手……"
   },
@@ -114,7 +114,7 @@
   {
     "key": "MSG_006_1",
     "original": "希望など抱かずにいれば…\n迷いもしなかったものを…",
-    "translation": "不抱有所谓希望的话……也不会有迷茫……",
+    "translation": "不抱有所谓希望的话……\n也不会有迷茫……",
     "stage": 1,
     "context": "说话人：エンリル\n\n机翻辅助：\n\n明明只要不抱持希望……\n就不会迷惘……\n\n如果不抱希望的话……\n也不会迷茫的东西……\n\n如果不抱希望的话……\n从未犹豫过的东西……"
   },
@@ -163,7 +163,7 @@
   {
     "key": "MSG_043_2",
     "original": "ならば、私の手で消滅させるまで。",
-    "translation": "那么，就让我来亲手消灭尔等。",
+    "translation": "那么，就让我来亲手消灭。",
     "stage": 1,
     "context": "说话人：エンリル\n\n机翻辅助：\n\n既然如此，就由我亲手消灭你们。\n\n那么，直到我亲手消灭为止。\n\n那么，直到我亲手消灭它为止。"
   },
@@ -191,7 +191,7 @@
   {
     "key": "MSG_011_0",
     "original": "皆の反応が…\n感じられません…",
-    "translation": "无法感知……到大家的信号了……",
+    "translation": "无法感知到……\n大家的信号了……",
     "stage": 1,
     "context": "说话人：山岸 風花\n\n机翻辅助：\n\n我感受不到……\n大家的反应……\n\n大家的反应……\n感觉不到……"
   },
@@ -212,7 +212,7 @@
   {
     "key": "MSG_045_0",
     "original": "ひ、ひかりっ！",
-    "translation": "小，光！",
+    "translation": "小、小光！",
     "stage": 1,
     "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n光、光！\n\n火，发光！"
   },
@@ -233,7 +233,7 @@
   {
     "key": "MSG_046_0",
     "original": "全ては、風の前の塵に同じ…\n無駄だったのだ。",
-    "translation": "一切，都如同风前的尘土一样……\n都是徒劳的，",
+    "translation": "一切，都如同风前的尘土一样……\n都是徒劳的。",
     "stage": 1,
     "context": "说话人：エンリル\n\n机翻辅助：\n\n一切的一切，都和风中尘埃无异……\n都是徒劳无功。\n\n所有的一切都如同风前的尘土一样。\n\n\n一切，都如同风前的尘埃……是徒劳的。"
   },
@@ -247,7 +247,7 @@
   {
     "key": "MSG_047_1",
     "original": "無駄なんかじゃないっ！",
-    "translation": "绝对不是无用的挣扎！",
+    "translation": "绝对不是徒劳的！",
     "stage": 1,
     "context": "说话人：ひかり\n\n机翻辅助：\n\n才不是徒劳无功！\n\n不是没用的！\n\n这不是白费力气吗！"
   },
@@ -289,14 +289,14 @@
   {
     "key": "MSG_051_0",
     "original": "まだ、負けてない！\nみんなの力を…",
-    "translation": "还没有输！\n将大家的力量……",
+    "translation": "还没有输！\n我相信……",
     "stage": 1,
     "context": "说话人：ひかり\n\n机翻辅助：\n\n我们还没输！\n我相信……\n\n还没有输！\n大家的力量……\n\n我还没有输！\n大家的力量……"
   },
   {
     "key": "MSG_051_1",
     "original": "私は信じてる！！",
-    "translation": "我相信！！",
+    "translation": "大家的力量！！",
     "stage": 1,
     "context": "说话人：ひかり\n\n机翻辅助：\n\n我相信大家的力量！！\n\n我相信！！"
   },
@@ -373,7 +373,7 @@
   {
     "key": "MSG_059_0",
     "original": "みんなは、どんな困難だって\n解決してきた…逃げ出さなかった！",
-    "translation": "大家不管是什么样的困难都一一克服了……\n没有逃避！",
+    "translation": "大家不管是什么样的困难\n都一一克服了……没有逃避！",
     "stage": 1,
     "context": "说话人：ひかり\n\n机翻辅助：\n\n大家\n无论面对何种困难，都一一克服了……没有逃避！\n\n大家，不管什么困难\n都解决了……没有逃出去！\n\n大家无论遇到什么困难都解决了……没有逃避！"
   },
@@ -429,14 +429,14 @@
   {
     "key": "MSG_066_0",
     "original": "見くびらないで。\n私たちの決意を！",
-    "translation": "不要小看我们。和我们的决心！",
+    "translation": "不要小看我们的决心啊！",
     "stage": 1,
     "context": "说话人：Ｐ３主人公（女）\n\n机翻辅助：\n\n别小看我们\n别小看我们的决心！\n\n别小看我。\n我们的决心！\n\n不要小看我。\n我们的决心！"
   },
   {
     "key": "MSG_067_0",
     "original": "俺たちは今まで、\n何度も立ち上がってきた…！",
-    "translation": "我们走到现在，无论多少次都会站起来了……！",
+    "translation": "我们走到现在，\n无论多少次都站起来了……！",
     "stage": 1,
     "context": "说话人：Ｐ４主人公\n\n机翻辅助：\n\n我们至今\n已经无数次重新站起来了……！\n\n我们到现在为止，\n好几次站起来了……！\n\n我们到现在为止，\n多次站起来了……！"
   },
@@ -450,14 +450,14 @@
   {
     "key": "SEL_069_0",
     "original": "決着をつけよう！",
-    "translation": "决出结胜负吧！",
+    "translation": "决出胜负吧！",
     "stage": 1,
     "context": "机翻辅助：\n\n来做个了结吧！\n\n做个了结吧！\n\n做个了断吧！"
   },
   {
     "key": "SEL_069_1",
     "original": "覚悟はいいか？",
-    "translation": "做好准备好了吗？",
+    "translation": "做好准备了吗？",
     "stage": 1,
     "context": "机翻辅助：\n\n做好觉悟了吗？\n\n做好心理准备了吗？"
   },
@@ -485,7 +485,7 @@
   {
     "key": "MSG_008_0",
     "original": "力が上がってる…\nこれ…かなりヤバイよ！！",
-    "translation": "力量增强了……这个……应该说是相当危险！！",
+    "translation": "力量增强了……这个……\n应该说是相当危险！！",
     "stage": 1,
     "context": "说话人：久慈川 りせ\n\n机翻辅助：\n\n力量提升了……\n这……相当不妙啊！！\n\n力量在上升……\n这个……相当危险哟！！\n\n这个……相当糟糕！！"
   },
@@ -520,7 +520,7 @@
   {
     "key": "MSG_017_0",
     "original": "ぐおおっ…",
-    "translation": "可恶恶……",
+    "translation": "可恶……",
     "stage": 1,
     "context": "说话人：（ＳＥ）坂本 竜司\n\n机翻辅助：\n\n咕哦哦……\n\n咕嘟咕嘟……\n\n咕咚……"
   },
@@ -583,15 +583,15 @@
   {
     "key": "MSG_026_0",
     "original": "ぐうう…",
-    "translation": "可恶恶……",
+    "translation": "可恶……",
     "stage": 1,
     "context": "说话人：（ＳＥ）花村 陽介\n\n机翻辅助：\n\n咕呜呜……\n\n呜呜……"
   },
   {
     "key": "MSG_027_0",
     "original": "くっそ…",
-    "translation": "靠……",
-    "stage": 1,
+    "translation": "可恶……",
+    "stage": 0,
     "context": "说话人：（ＳＥ）巽 完二\n\n机翻辅助：\n\n可恶……"
   },
   {
@@ -682,224 +682,224 @@
     "key": "speaker_エンリル",
     "original": "エンリル",
     "translation": "恩利尔",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n恩利尔"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_山岸 風花",
     "original": "山岸 風花",
-    "translation": "山岸 风花",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "山岸风花",
+    "stage": 0,
+    "context": "机翻辅助：\n\n山岸风花"
   },
   {
     "key": "speaker_ひかり",
     "original": "ひかり",
     "translation": "光",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n光\n\n光线"
   },
   {
     "key": "speaker_久慈川 りせ",
     "original": "久慈川 りせ",
-    "translation": "久慈川 理世",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "久慈川理世",
+    "stage": 0,
+    "context": "机翻辅助：\n\n久慈川理世"
   },
   {
     "key": "speaker_Ｐ３主人公（女）",
     "original": "Ｐ３主人公（女）",
-    "translation": "Ｐ３主人公（女）",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P3主角（女）",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP3主角（女）\n\nP3主人公（女）"
   },
   {
     "key": "speaker_Ｐ３主人公",
     "original": "Ｐ３主人公",
-    "translation": "Ｐ３主人公",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P3主角",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP3主角\n\nP3主人公"
   },
   {
     "key": "speaker_Ｐ４主人公",
     "original": "Ｐ４主人公",
-    "translation": "Ｐ４主人公",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P4主角",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP4主角\n\nP4主人公"
   },
   {
     "key": "speaker_（ＳＥ）高巻 杏",
     "original": "（ＳＥ）高巻 杏",
-    "translation": "（ＳＥ）高卷 杏",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）高卷杏",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）高卷杏"
   },
   {
     "key": "speaker_（ＳＥ）坂本 竜司",
     "original": "（ＳＥ）坂本 竜司",
-    "translation": "（ＳＥ）坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）坂本 龙司",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）坂本 龙司\n\n（SE）坂本龙司"
   },
   {
     "key": "speaker_（ＳＥ）喜多川 祐介",
     "original": "（ＳＥ）喜多川 祐介",
-    "translation": "（ＳＥ）喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）喜多川 佑介",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）喜多川 佑介\n\n（SE）喜多川佑介"
   },
   {
     "key": "speaker_（ＳＥ）新島 真",
     "original": "（ＳＥ）新島 真",
-    "translation": "（ＳＥ）新岛 真",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）新岛 真",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）新岛 真\n\n（SE）新岛真"
   },
   {
     "key": "speaker_（ＳＥ）モルガナ",
     "original": "（ＳＥ）モルガナ",
-    "translation": "（ＳＥ）摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）摩尔加纳",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）摩尔加纳"
   },
   {
     "key": "speaker_（ＳＥ）奥村 春",
     "original": "（ＳＥ）奥村 春",
-    "translation": "（ＳＥ）奥村 春",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）奥村 春",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）奥村 春\n\n（SE）奥村春"
   },
   {
     "key": "speaker_（ＳＥ）明智 吾郎",
     "original": "（ＳＥ）明智 吾郎",
-    "translation": "（ＳＥ）明智 吾郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）明智 吾郎",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）明智 吾郎\n\n（SE）明智吾郎"
   },
   {
     "key": "speaker_（ＳＥ）Ｐ４主人公",
     "original": "（ＳＥ）Ｐ４主人公",
-    "translation": "（ＳＥ）Ｐ４主人公",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）P4主角",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）P4主角\n\n（SE）P4主人公\n\n（SE） P4主人公"
   },
   {
     "key": "speaker_（ＳＥ）里中 千枝",
     "original": "（ＳＥ）里中 千枝",
-    "translation": "（ＳＥ）里中 千枝",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）里中千枝",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）里中千枝"
   },
   {
     "key": "speaker_（ＳＥ）天城 雪子",
     "original": "（ＳＥ）天城 雪子",
-    "translation": "（ＳＥ）天城 雪子",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）天城雪子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）天城雪子"
   },
   {
     "key": "speaker_（ＳＥ）花村 陽介",
     "original": "（ＳＥ）花村 陽介",
-    "translation": "（ＳＥ）花村 阳介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）花村阳介",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）花村阳介\n\n花村阳介"
   },
   {
     "key": "speaker_（ＳＥ）巽 完二",
     "original": "（ＳＥ）巽 完二",
-    "translation": "（ＳＥ）巽 完二",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）巽完二",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）巽完二\n\n巽完二"
   },
   {
     "key": "speaker_（ＳＥ）白鐘 直斗",
     "original": "（ＳＥ）白鐘 直斗",
-    "translation": "（ＳＥ）白钟 直斗",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）白钟直斗",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）白钟直斗"
   },
   {
     "key": "speaker_（ＳＥ）クマ",
     "original": "（ＳＥ）クマ",
-    "translation": "（ＳＥ）小熊",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）小熊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）小熊"
   },
   {
     "key": "speaker_（ＳＥ）岳羽 ゆかり",
     "original": "（ＳＥ）岳羽 ゆかり",
-    "translation": "（ＳＥ）岳羽 由加莉",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）岳羽由加莉",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）岳羽由加莉"
   },
   {
     "key": "speaker_（ＳＥ）伊織 順平",
     "original": "（ＳＥ）伊織 順平",
-    "translation": "（ＳＥ）伊织 顺平",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）伊织顺平",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）伊织顺平"
   },
   {
     "key": "speaker_（ＳＥ）真田 明彦",
     "original": "（ＳＥ）真田 明彦",
-    "translation": "（ＳＥ）真田 明彦",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）真田明彦",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）真田明彦"
   },
   {
     "key": "speaker_（ＳＥ）荒垣 真次郎",
     "original": "（ＳＥ）荒垣 真次郎",
-    "translation": "（ＳＥ）荒垣 真次郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）荒垣真次郎",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）荒垣真次郎"
   },
   {
     "key": "speaker_（ＳＥ）桐条 美鶴",
     "original": "（ＳＥ）桐条 美鶴",
-    "translation": "（ＳＥ）桐条 美鹤",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）桐条美鹤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）桐条美鹤"
   },
   {
     "key": "speaker_（ＳＥ）天田 乾",
     "original": "（ＳＥ）天田 乾",
-    "translation": "（ＳＥ）天田 乾",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）天田乾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）天田乾"
   },
   {
     "key": "speaker_（ＳＥ）コロマル",
     "original": "（ＳＥ）コロマル",
-    "translation": "（ＳＥ）虎狼丸",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）虎狼丸",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）虎狼丸"
   },
   {
     "key": "speaker_（ＳＥ）アイギス",
     "original": "（ＳＥ）アイギス",
-    "translation": "（ＳＥ）埃癸斯",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）埃癸斯",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）埃癸斯"
   },
   {
     "key": "speaker_（ＳＥ）Ｐ３主人公",
     "original": "（ＳＥ）Ｐ３主人公",
-    "translation": "（ＳＥ）Ｐ３主人公",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）P3主角",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）P3主角\n\n（SE）P3主人公\n\n（SE） P3主人公"
   },
   {
     "key": "speaker_（ＳＥ）Ｐ３主人公（女）",
     "original": "（ＳＥ）Ｐ３主人公（女）",
-    "translation": "（ＳＥ）Ｐ３主人公（女）",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "（SE）P3主角（女）",
+    "stage": 0,
+    "context": "机翻辅助：\n\n（SE）P3主角（女）\n\n（SE）P3主人公（女）\n\n（SE） P3主人公（女）"
   }
 ]

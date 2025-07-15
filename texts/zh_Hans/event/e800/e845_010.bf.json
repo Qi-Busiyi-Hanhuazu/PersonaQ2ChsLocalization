@@ -9,7 +9,7 @@
   {
     "key": "MSG_000_1",
     "original": "先にご依頼を受けた『特別上映』の準備が\n整いましたことをお伝えいたします。",
-    "translation": "我在此通知，先前各位委托的“特别上\n映”已经准备就绪。",
+    "translation": "我在此通知，先前各位委托的\n“特别上映”已经准备就绪。",
     "stage": 1,
     "context": "说话人：エリザベス\n\n机翻辅助：\n\n我在此通知，先前委托的“特别上映”已经\n准备就绪。\n\n首先接受您委托的“特别上映”的准备工作已经做好了。\n\n\n刚才您委托的“特别上映”已经准备就绪，现在告诉您。"
   },
@@ -212,7 +212,7 @@
   {
     "key": "MSG_024_1_0",
     "original": "『頂上決戦！　クマＶＳクマクマ！』\nはじまりクマ～！",
-    "translation": "“决战顶点！小熊VS小熊熊！”\n对决开始熊熊！",
+    "translation": "“决战顶点！小熊VS熊熊！”\n对决开始熊熊！",
     "stage": 1,
     "context": "说话人：エリザベス\n\n机翻辅助：\n\n“顶上决战！小熊VS小熊小熊！”\n小熊对决开始～！\n\n“山顶决战！小熊VS小熊小熊！”\n开始小熊～！\n\n“顶点决战！小熊VS小熊！”\n开始小熊～！"
   },
@@ -255,42 +255,42 @@
     "key": "speaker_エリザベス",
     "original": "エリザベス",
     "translation": "伊莉莎白",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n伊莉莎白"
   },
   {
     "key": "speaker_ひかり",
     "original": "ひかり",
     "translation": "光",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n光\n\n光线"
   },
   {
     "key": "speaker_クマ",
     "original": "クマ",
     "translation": "小熊",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n小熊"
   },
   {
     "key": "speaker_Ｐ４主人公",
     "original": "Ｐ４主人公",
-    "translation": "Ｐ４主人公",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P4主角",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP4主角\n\nP4主人公"
   },
   {
     "key": "speaker_アイギス",
     "original": "アイギス",
     "translation": "埃癸斯",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n埃癸斯"
   },
   {
     "key": "speaker_花村 陽介",
     "original": "花村 陽介",
-    "translation": "花村 阳介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "花村阳介",
+    "stage": 0,
+    "context": "机翻辅助：\n\n花村阳介"
   }
 ]

@@ -227,14 +227,14 @@
     "key": "MSG_027_0",
     "original": "！！ああっと！！",
     "translation": "！！哇呀！！",
-    "stage": 9,
-    "context": "翻译匹配：EO1-3HD"
+    "stage": 0,
+    "context": "机翻辅助：\n\n！！哇呀！！"
   },
   {
     "key": "speaker_山岸 風花",
     "original": "山岸 風花",
-    "translation": "山岸 风花",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "山岸风花",
+    "stage": 0,
+    "context": "机翻辅助：\n\n山岸风花"
   }
 ]

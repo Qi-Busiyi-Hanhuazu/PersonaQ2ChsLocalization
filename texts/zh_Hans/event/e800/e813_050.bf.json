@@ -332,21 +332,21 @@
     "key": "speaker_明智 吾郎",
     "original": "明智 吾郎",
     "translation": "明智 吾郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_白鐘 直斗",
     "original": "白鐘 直斗",
-    "translation": "白钟 直斗",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "白钟直斗",
+    "stage": 0,
+    "context": "机翻辅助：\n\n白钟直斗"
   },
   {
     "key": "speaker_熊田",
     "original": "熊田",
     "translation": "熊田",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   }
 ]

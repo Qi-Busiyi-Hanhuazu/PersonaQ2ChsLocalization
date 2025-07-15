@@ -9,7 +9,7 @@
   {
     "key": "MSG_001_0",
     "original": "映画館でしっかり作戦を練るぞ！",
-    "translation": "等到了电影院再好好指定作战计划吧！",
+    "translation": "等到了电影院再好好拟定作战计划吧！",
     "stage": 1,
     "context": "说话人：モルガナ\n\n机翻辅助：\n\n我们要在电影院好好拟定作战计划！\n\n在电影院好好地推敲作战计划！\n\n在电影院里好好地推敲作战计划！"
   },
@@ -17,14 +17,14 @@
     "key": "speaker_明智 吾郎",
     "original": "明智 吾郎",
     "translation": "明智 吾郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   }
 ]

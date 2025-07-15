@@ -192,43 +192,43 @@
     "key": "speaker_ひかり",
     "original": "ひかり",
     "translation": "光",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n光\n\n光线"
   },
   {
     "key": "speaker_新島 真",
     "original": "新島 真",
     "translation": "新岛 真",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n新岛 真"
   },
   {
     "key": "speaker_巽 完二",
     "original": "巽 完二",
-    "translation": "巽 完二",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "巽完二",
+    "stage": 0,
+    "context": "机翻辅助：\n\n巽完二"
   },
   {
     "key": "speaker_真田 明彦",
     "original": "真田 明彦",
-    "translation": "真田 明彦",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "真田明彦",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真田明彦"
   },
   {
     "key": "speaker_伊織 順平",
     "original": "伊織 順平",
     "translation": "伊织 顺平",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n伊织 顺平\n\n伊织顺平"
   },
   {
     "key": "speaker_アイギス",
     "original": "アイギス",
     "translation": "埃癸斯",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n埃癸斯"
   },
   {
     "key": "speaker_中学生時代のひかり",
@@ -261,8 +261,8 @@
   {
     "key": "speaker_Ｐ４主人公",
     "original": "Ｐ４主人公",
-    "translation": "Ｐ４主人公",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P4主角",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP4主角\n\nP4主人公"
   }
 ]

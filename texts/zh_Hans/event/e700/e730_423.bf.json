@@ -51,22 +51,22 @@
   {
     "key": "speaker_桐条 美鶴",
     "original": "桐条 美鶴",
-    "translation": "桐条 美鹤",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "桐条美鹤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n桐条美鹤"
   },
   {
     "key": "speaker_天田 乾",
     "original": "天田 乾",
-    "translation": "天田 乾",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "天田乾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天田乾"
   },
   {
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   }
 ]

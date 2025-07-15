@@ -191,7 +191,7 @@
   {
     "key": "MSG_023_1",
     "original": "あと、クッキーにチョコにグミに、\nそれからポテチでしょ…",
-    "translation": "我还拿了饼干、巧克力、软糖，当然还有薯片……",
+    "translation": "我还拿了饼干、巧克力、软糖，\n当然还有薯片……",
     "stage": 1,
     "context": "说话人：岳羽 ゆかり\n\n机翻辅助：\n\n还有饼干、巧克力、软糖，\n还有薯片吧……\n\n还有，曲奇、巧克力、软糖，还有薯片吧……\n\n\n还有，曲奇、巧克力、核桃、还有薯片吧……"
   },
@@ -233,71 +233,71 @@
   {
     "key": "speaker_Ｐ３主人公",
     "original": "Ｐ３主人公",
-    "translation": "Ｐ３主人公",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P3主角",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP3主角\n\nP3主人公"
   },
   {
     "key": "speaker_岳羽 ゆかり",
     "original": "岳羽 ゆかり",
-    "translation": "岳羽 由加莉",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "岳羽由加莉",
+    "stage": 0,
+    "context": "机翻辅助：\n\n岳羽由加莉"
   },
   {
     "key": "speaker_コロマル",
     "original": "コロマル",
     "translation": "虎狼丸",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n虎狼丸"
   },
   {
     "key": "speaker_アイギス",
     "original": "アイギス",
     "translation": "埃癸斯",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n埃癸斯"
   },
   {
     "key": "speaker_伊織 順平",
     "original": "伊織 順平",
     "translation": "伊织 顺平",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n伊织 顺平\n\n伊织顺平"
   },
   {
     "key": "speaker_天田 乾",
     "original": "天田 乾",
-    "translation": "天田 乾",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "天田乾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天田乾"
   },
   {
     "key": "speaker_山岸 風花",
     "original": "山岸 風花",
-    "translation": "山岸 风花",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "山岸风花",
+    "stage": 0,
+    "context": "机翻辅助：\n\n山岸风花"
   },
   {
     "key": "speaker_桐条 美鶴",
     "original": "桐条 美鶴",
-    "translation": "桐条 美鹤",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "桐条美鹤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n桐条美鹤"
   },
   {
     "key": "speaker_真田 明彦",
     "original": "真田 明彦",
-    "translation": "真田 明彦",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "真田明彦",
+    "stage": 0,
+    "context": "机翻辅助：\n\n真田明彦"
   },
   {
     "key": "speaker_荒垣 真次郎",
     "original": "荒垣 真次郎",
-    "translation": "荒垣 真次郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "荒垣真次郎",
+    "stage": 0,
+    "context": "机翻辅助：\n\n荒垣真次郎"
   }
 ]

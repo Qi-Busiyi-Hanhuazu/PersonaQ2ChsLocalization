@@ -58,8 +58,8 @@
   {
     "key": "Y_FCLSHOP_YESNO_BUY_TRAD_0",
     "original": "買い取って",
-    "translation": "购买",
-    "stage": 1,
+    "translation": "收购",
+    "stage": 0,
     "context": "机翻辅助：\n\n收购\n\n买下\n\n买下吧"
   },
   {
@@ -808,8 +808,8 @@
     "key": "speaker_テオドア",
     "original": "テオドア",
     "translation": "西奥多",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n西奥多"
   },
   {
     "key": "speaker_　",
@@ -822,15 +822,15 @@
     "key": "speaker_マーガレット",
     "original": "マーガレット",
     "translation": "玛格丽特",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n玛格丽特"
   },
   {
     "key": "speaker_ナギ",
     "original": "ナギ",
     "translation": "凪",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n凪\n\n风平浪静"
   },
   {
     "key": "speaker_だいだら．のオヤジ",

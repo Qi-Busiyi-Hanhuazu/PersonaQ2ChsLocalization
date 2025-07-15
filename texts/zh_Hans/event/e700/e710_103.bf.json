@@ -16,8 +16,8 @@
   {
     "key": "MSG_002_0",
     "original": "慣れるまでは仕方がないとはいえ…\nもどかしいね。",
-    "translation": "虽说在习惯之前，这也是没办法的事……\n真令人着急啊。",
-    "stage": 0,
+    "translation": "虽说在习惯之前，这也是没办法的事……\n真令人烦躁啊。",
+    "stage": 1,
     "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n虽说在习惯之前，这也是没办法的事……\n真令人着急啊。\n\n虽然在习惯之前没有办法……\n真令人着急啊。\n\n虽说在习惯之前没办法……真让人着急啊。"
   },
   {
@@ -31,21 +31,21 @@
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   },
   {
     "key": "speaker_高巻 杏",
     "original": "高巻 杏",
     "translation": "高卷 杏",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n高卷 杏"
   },
   {
     "key": "speaker_明智 吾郎",
     "original": "明智 吾郎",
     "translation": "明智 吾郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   }
 ]

@@ -143,63 +143,63 @@
     "key": "speaker_奥村 春",
     "original": "奥村 春",
     "translation": "奥村 春",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_新島 真",
     "original": "新島 真",
     "translation": "新岛 真",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n新岛 真"
   },
   {
     "key": "speaker_巽 完二",
     "original": "巽 完二",
-    "translation": "巽 完二",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "巽完二",
+    "stage": 0,
+    "context": "机翻辅助：\n\n巽完二"
   },
   {
     "key": "speaker_里中 千枝",
     "original": "里中 千枝",
-    "translation": "里中 千枝",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "里中千枝",
+    "stage": 0,
+    "context": "机翻辅助：\n\n里中千枝"
   },
   {
     "key": "speaker_Ｐ４主人公",
     "original": "Ｐ４主人公",
-    "translation": "Ｐ４主人公",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P4主角",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP4主角\n\nP4主人公"
   },
   {
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   },
   {
     "key": "speaker_白鐘 直斗",
     "original": "白鐘 直斗",
-    "translation": "白钟 直斗",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "白钟直斗",
+    "stage": 0,
+    "context": "机翻辅助：\n\n白钟直斗"
   },
   {
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   },
   {
     "key": "speaker_クマ",
     "original": "クマ",
     "translation": "小熊",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n小熊"
   }
 ]

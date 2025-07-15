@@ -9,8 +9,8 @@
   {
     "key": "MSG_001_0",
     "original": "何あれ？　なんか光ってる？",
-    "translation": "那是什么？好像在发光？",
-    "stage": 0,
+    "translation": "那是什么？有什么在发光？",
+    "stage": 1,
     "context": "说话人：高巻 杏\n\n机翻辅助：\n\n那是什么？好像在发光？\n\n那是什么？在发光吗？\n\n那是什么？有什么发光吗？"
   },
   {
@@ -44,7 +44,7 @@
   {
     "key": "MSG_006_0",
     "original": "こうなったおイナリは、もうダメだな。\nスルーだ、スルー。",
-    "translation": "小狐狸一变成这样就无药可救了。\n不理他啊——不理他——",
+    "translation": "小狐狸一变成这样就无药可救了。\n不要理他啊——不理他——",
     "stage": 1,
     "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n变成这样的小狐狸已经没救了。\n无视它，无视它。\n\n这样的小狐狸已经不行了。\n通过，通过。\n\n这样的小狐狸寿司，已经不行了。\n通过，通过。"
   },
@@ -72,7 +72,7 @@
   {
     "key": "MSG_008_0",
     "original": "おい、もうそれはいいっての。\nさっさと行くぞ！",
-    "translation": "喂，这事已经不重要啦。\n赶快走吧！",
+    "translation": "喂，别管那个了啦。\n赶快走吧！",
     "stage": 1,
     "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n喂，别管那个了啦。\n我们快走吧！\n\n喂，那就算了吧。\n赶紧走吧！\n\n喂，那已经可以了。\n赶紧去！"
   },
@@ -80,28 +80,28 @@
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   },
   {
     "key": "speaker_高巻 杏",
     "original": "高巻 杏",
     "translation": "高卷 杏",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n高卷 杏"
   },
   {
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   }
 ]

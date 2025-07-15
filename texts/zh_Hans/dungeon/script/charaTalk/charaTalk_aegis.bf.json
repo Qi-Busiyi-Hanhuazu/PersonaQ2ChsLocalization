@@ -79,7 +79,7 @@
   {
     "key": "MSG_002_0",
     "original": "了解しました。\nなりふり構わず探します。",
-    "translation": "明白了。\n我会不顾一切进行探索。",
+    "translation": "明白了。\n我会放开手脚尽情探索的。",
     "stage": 1,
     "context": "说话人：アイギス\n\n机翻辅助：\n\n知道了。\n不管三七二十一地寻找。\n\n明白了。\n不修边幅地寻找。\n\n明白了。不管身份如何都要找。"
   },
@@ -255,14 +255,14 @@
     "key": "MSG_027_0",
     "original": "！！ああっと！！",
     "translation": "！！哇呀！！",
-    "stage": 9,
-    "context": "翻译匹配：EO1-3HD"
+    "stage": 0,
+    "context": "机翻辅助：\n\n！！哇呀！！"
   },
   {
     "key": "speaker_アイギス",
     "original": "アイギス",
     "translation": "埃癸斯",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n埃癸斯"
   }
 ]

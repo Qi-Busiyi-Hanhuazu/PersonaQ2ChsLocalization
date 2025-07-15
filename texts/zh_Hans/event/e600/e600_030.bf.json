@@ -65,7 +65,7 @@
   {
     "key": "MSG_009_0",
     "original": "えへへ…\nお兄ちゃんとね、お料理してたの！",
-    "translation": "嘿嘿……\n我在和哥哥一起做饭了呢！",
+    "translation": "嘿嘿……\n我在和哥哥一起做饭呢！",
     "stage": 1,
     "context": "说话人：堂島 菜々子\n\n机翻辅助：\n\n欸嘿嘿……\n我和哥哥做了料理哦！\n\n嘿嘿……和哥哥一起做菜了！\n\n\n和哥哥一起做饭了！"
   },
@@ -163,7 +163,7 @@
   {
     "key": "MSG_019_0",
     "original": "フフフッ！\n花村君そっくりの恐竜って…アハハ！",
-    "translation": "哈哈哈！\n和花村君超像的恐龙……啊哈哈！",
+    "translation": "哈哈哈！\n和花村同学超像的恐龙……啊哈哈！",
     "stage": 1,
     "context": "说话人：天城 雪子\n\n机翻辅助：\n\n呵呵呵！\n跟花村同学一模一样的恐龙……啊哈哈！\n\n呵呵！\n和花村君一模一样的恐龙……哈哈哈！\n\n呵呵呵！\n和花村君一模一样的恐龙……啊哈哈！"
   },
@@ -275,64 +275,64 @@
   {
     "key": "speaker_堂島 菜々子",
     "original": "堂島 菜々子",
-    "translation": "堂岛 菜菜子",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "堂岛菜菜子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n堂岛菜菜子"
   },
   {
     "key": "speaker_Ｐ４主人公",
     "original": "Ｐ４主人公",
-    "translation": "Ｐ４主人公",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P4主角",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP4主角\n\nP4主人公"
   },
   {
     "key": "speaker_花村 陽介",
     "original": "花村 陽介",
-    "translation": "花村 阳介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "花村阳介",
+    "stage": 0,
+    "context": "机翻辅助：\n\n花村阳介"
   },
   {
     "key": "speaker_熊田",
     "original": "熊田",
     "translation": "熊田",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_里中 千枝",
     "original": "里中 千枝",
-    "translation": "里中 千枝",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "里中千枝",
+    "stage": 0,
+    "context": "机翻辅助：\n\n里中千枝"
   },
   {
     "key": "speaker_天城 雪子",
     "original": "天城 雪子",
-    "translation": "天城 雪子",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "天城雪子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天城雪子"
   },
   {
     "key": "speaker_巽 完二",
     "original": "巽 完二",
-    "translation": "巽 完二",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "巽完二",
+    "stage": 0,
+    "context": "机翻辅助：\n\n巽完二"
   },
   {
     "key": "speaker_久慈川 りせ",
     "original": "久慈川 りせ",
-    "translation": "久慈川 理世",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "久慈川理世",
+    "stage": 0,
+    "context": "机翻辅助：\n\n久慈川理世"
   },
   {
     "key": "speaker_白鐘 直斗",
     "original": "白鐘 直斗",
-    "translation": "白钟 直斗",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "白钟直斗",
+    "stage": 0,
+    "context": "机翻辅助：\n\n白钟直斗"
   }
 ]

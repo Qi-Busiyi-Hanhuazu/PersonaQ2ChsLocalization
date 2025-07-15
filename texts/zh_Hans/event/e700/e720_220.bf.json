@@ -58,29 +58,29 @@
   {
     "key": "MSG_005_0",
     "original": "慎重なのは悪いことじゃない。\n不安なら、しっかり準備してから行こう。",
-    "translation": "慎重并不是坏事。\n不放心的话，好好准备之后再出发吧。",
+    "translation": "谨慎并不是坏事。\n不放心的话，好好准备之后再出发吧。",
     "stage": 1,
     "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n慎重并不是坏事。\n如果你觉得不安，就做好万全的准备再过去吧。\n\n谨慎不是坏事。\n如果感到不安，就做好准备再去吧。\n\n慎重并不是坏事。如果不放心的话，做好准备再去吧。"
   },
   {
     "key": "speaker_久慈川 りせ",
     "original": "久慈川 りせ",
-    "translation": "久慈川 理世",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "久慈川理世",
+    "stage": 0,
+    "context": "机翻辅助：\n\n久慈川理世"
   },
   {
     "key": "speaker_里中 千枝",
     "original": "里中 千枝",
-    "translation": "里中 千枝",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "里中千枝",
+    "stage": 0,
+    "context": "机翻辅助：\n\n里中千枝"
   },
   {
     "key": "speaker_明智 吾郎",
     "original": "明智 吾郎",
     "translation": "明智 吾郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   }
 ]

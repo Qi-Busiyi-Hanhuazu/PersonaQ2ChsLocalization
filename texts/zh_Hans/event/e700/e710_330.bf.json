@@ -9,7 +9,7 @@
   {
     "key": "MSG_001_0",
     "original": "詳しくはわからん！",
-    "translation": "尚不清楚详情！",
+    "translation": "不清楚细节！",
     "stage": 1,
     "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n我不清楚！\n\n详细情况不知道！\n\n详情我不知道！"
   },
@@ -23,7 +23,7 @@
   {
     "key": "MSG_002_0",
     "original": "んじゃ、押してみようぜ。\n物は試しっていうしよ！",
-    "translation": "那么，就按一下试试看吧。\n毕竟要亲自尝试才知道嘛！",
+    "translation": "那么，就按一下试试看吧。\n毕竟凡事都要勇于尝试嘛！",
     "stage": 1,
     "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n那就按按看吧。\n凡事都要勇于尝试嘛！\n\n那么，推一下吧。\n要试东西哦！\n\n那就按一下吧。\n毕竟是试一试！"
   },
@@ -31,21 +31,21 @@
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   }
 ]

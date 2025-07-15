@@ -2,7 +2,7 @@
   {
     "key": "MSG_000_0",
     "original": "んだ、こりゃ…？\nなんか変なモンがあんぞ。",
-    "translation": "这啥？\n好像有什么奇怪的东西在这里。",
+    "translation": "这啥？\n好像有什么奇怪的东西。",
     "stage": 1,
     "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n这是什么……？\n有奇怪的东西哦。\n\n啊，这下……？\n有什么奇怪的东西。\n\n这是……？有什么奇怪的东西。"
   },
@@ -44,7 +44,7 @@
   {
     "key": "MSG_004_1",
     "original": "真の名品こそ、\n素人目には気付きにくいモンだぜ？",
-    "translation": "所谓明珠蒙尘大概就是指这么一回事吧？",
+    "translation": "所谓明珠蒙尘\n大概就是指这么一回事吧？",
     "stage": 1,
     "context": "说话人：モルガナ\n\n机翻辅助：\n\n真正的名品，\n外行人可是很难发现的哦？\n\n真正的名品才是\n在外行人看来很难注意到的东西啊？\n\n真正的名牌，是外人很难发现的。"
   },
@@ -80,35 +80,35 @@
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   },
   {
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   },
   {
     "key": "speaker_奥村 春",
     "original": "奥村 春",
     "translation": "奥村 春",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   },
   {
     "key": "speaker_新島 真",
     "original": "新島 真",
     "translation": "新岛 真",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n新岛 真"
   }
 ]

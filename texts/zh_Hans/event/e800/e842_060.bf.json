@@ -16,7 +16,7 @@
   {
     "key": "MSG_002_0",
     "original": "ごめん、ゲームとかなら襲われフラグが\nビンビンのシチュなのに油断してた。",
-    "translation": "抱歉，如果是游戏的话，\n刚刚明明是被袭击的flag疯狂闪烁的标志，\n我却大意了。",
+    "translation": "抱歉，如果是游戏的话，刚刚明明是\n被袭击的FLAG疯狂闪烁的标志，我大意了。",
     "stage": 1,
     "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n抱歉，如果是游戏的话，\n现在明明是被袭击的旗标疯狂闪烁的场面，我却大意了。\n\n对不起，游戏什么的被袭击的标志\n冰冰的诗秋疏忽了。\n\n对不起，如果是游戏的话，就会被袭击。\n\n评论：\n\n是不是要分下对话框"
   },
@@ -45,28 +45,28 @@
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_桐条 美鶴",
     "original": "桐条 美鶴",
-    "translation": "桐条 美鹤",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "桐条美鹤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n桐条美鹤"
   },
   {
     "key": "speaker_山岸 風花",
     "original": "山岸 風花",
-    "translation": "山岸 风花",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "山岸风花",
+    "stage": 0,
+    "context": "机翻辅助：\n\n山岸风花"
   },
   {
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   }
 ]

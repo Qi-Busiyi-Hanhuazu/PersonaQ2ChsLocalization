@@ -16,14 +16,14 @@
   {
     "key": "MSG_002_0",
     "original": "ハイ、大丈夫デス。\n問題ありマセンデシタ。",
-    "translation": "是的，没事。\n身体也没有问题。",
+    "translation": "是的，没事。\n完全没有问题。",
     "stage": 1,
     "context": "说话人：リボン\n\n机翻辅助：\n\n是的，没问题。\n没有问题。\n\n嗨，没事的。\n有问题的分度器。\n\n是的，没问题。没有问题。"
   },
   {
     "key": "MSG_003_0",
     "original": "ふむ、また映画館に戻る際は\nこの手が使えそうだな。",
-    "translation": "嗯，下次回电影院的时候\n也能用这招吧。",
+    "translation": "嗯，下次回电影院的时候\n好像能用上这招。",
     "stage": 1,
     "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n嗯，下次回电影院的时候\n应该能用这招吧。\n\n嗯，再回电影院的时候\n这招好像能用。\n\n嗯，再回电影院的时候，这只手好像可以用了。"
   },
@@ -37,7 +37,7 @@
   {
     "key": "MSG_004_1",
     "original": "今後の懸念も払拭したところで、\n先に進みましょうか、ジョーカー。",
-    "translation": "既然已经解决了今后的不确定因素，\n我们就继续前进吧，JOKER。",
+    "translation": "既然今后的悬念也已经揭晓，\n我们就继续前进吧，JOKER。",
     "stage": 1,
     "context": "说话人：新島 真\n\n机翻辅助：\n\n既然已经解决了今后的悬念，\n我们就继续前进吧，JOKER。\n\n即使消除了今后的担心，\n我们继续前进吧，JOKER。\n\n在消除了今后的顾虑之后，\n继续前进吧，JOKER。"
   },
@@ -58,14 +58,14 @@
   {
     "key": "MSG_0002_0",
     "original": "ハイ、大丈夫デス。\n問題ありマセンデシタ。",
-    "translation": "是的，没事。\n身体也没有问题。",
+    "translation": "是的，没事。\n完全没有问题。",
     "stage": 1,
     "context": "说话人：リボンを付けたロボット\n\n机翻辅助：\n\n是的，没问题。\n没有问题。\n\n嗨，没事的。\n有问题的分度器。\n\n是的，没问题。没有问题。"
   },
   {
     "key": "MSG_0003_0",
     "original": "ふむ、また映画館に戻る際は\nこの手が使えそうだな。",
-    "translation": "嗯，下次回电影院的时候\n也能用这招吧。",
+    "translation": "嗯，下次回电影院的时候\n好像能用上这招。",
     "stage": 1,
     "context": "说话人：桐条 美鶴\n\n机翻辅助：\n\n嗯，下次回电影院的时候\n应该能用这招吧。\n\n嗯，再回电影院的时候\n这招好像能用。\n\n嗯，再回电影院的时候，这只手好像可以用了。"
   },
@@ -79,7 +79,7 @@
   {
     "key": "MSG_0004_1",
     "original": "今後の懸念も払拭したところで、\n先に進みましょうか、ジョーカー。",
-    "translation": "既然已经解决了今后的不确定因素，\n我们就继续前进吧，JOKER。",
+    "translation": "既然今后的悬念也已经揭晓，\n我们就继续前进吧，JOKER。",
     "stage": 1,
     "context": "说话人：新島 真\n\n机翻辅助：\n\n既然已经解决了今后的悬念，\n我们就继续前进吧，JOKER。\n\n即使消除了今后的担心，\n我们继续前进吧，JOKER。\n\n在消除了今后的顾虑之后，\n继续前进吧，JOKER。"
   },
@@ -87,29 +87,29 @@
     "key": "speaker_リボン",
     "original": "リボン",
     "translation": "蝴蝶结",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n蝴蝶结"
   },
   {
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_桐条 美鶴",
     "original": "桐条 美鶴",
-    "translation": "桐条 美鹤",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "桐条美鹤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n桐条美鹤"
   },
   {
     "key": "speaker_新島 真",
     "original": "新島 真",
     "translation": "新岛 真",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n新岛 真"
   },
   {
     "key": "speaker_リボンを付けたロボット",

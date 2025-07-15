@@ -242,7 +242,7 @@
     "original": "マリーちゃんまで！？\nどうしてここに！？",
     "translation": "连小玛丽都来了！？\n你怎么会在这里！？",
     "stage": 1,
-    "context": "说话人：活発そうな少女\n\n机翻辅助：\n\n连小玛莉都来了！\n怎么会在这里！\n\n到玛丽为止！？\n为什么在这里！？\n\n连玛丽！？\n为什么在这里！？"
+    "context": "说话人：活発そうな少女\n\n机翻辅助：\n\n连小玛丽都来了！\n怎么会在这里！\n\n到玛丽为止！？\n为什么在这里！？\n\n连玛丽！？\n为什么在这里！？"
   },
   {
     "key": "MSG_026_0",
@@ -381,8 +381,8 @@
     "key": "MSG_038_0",
     "original": "…マリー。",
     "translation": "……玛丽。",
-    "stage": 1,
-    "context": "说话人：マリー\n\n机翻辅助：\n\n……玛莉。\n\n……玛丽。"
+    "stage": 0,
+    "context": "说话人：マリー\n\n机翻辅助：\n\n……玛丽。"
   },
   {
     "key": "SEL_039_0",
@@ -521,8 +521,8 @@
     "key": "speaker_モルガナ",
     "original": "モルガナ",
     "translation": "摩尔加纳",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n摩尔加纳"
   },
   {
     "key": "speaker_活発そうな少女",
@@ -542,8 +542,8 @@
     "key": "speaker_佐倉 双葉",
     "original": "佐倉 双葉",
     "translation": "佐仓 双叶",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n佐仓 双叶"
   },
   {
     "key": "speaker_知的な少年",
@@ -563,8 +563,8 @@
     "key": "speaker_坂本 竜司",
     "original": "坂本 竜司",
     "translation": "坂本 龙司",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n坂本 龙司"
   },
   {
     "key": "speaker_落ち着いた少年",
@@ -577,22 +577,22 @@
     "key": "speaker_ひかり",
     "original": "ひかり",
     "translation": "光",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n光\n\n光线"
   },
   {
     "key": "speaker_新島 真",
     "original": "新島 真",
     "translation": "新岛 真",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n新岛 真"
   },
   {
     "key": "speaker_ナギ",
     "original": "ナギ",
     "translation": "凪",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n凪\n\n风平浪静"
   },
   {
     "key": "speaker_目つきの悪い少年",
@@ -604,9 +604,9 @@
   {
     "key": "speaker_Ｐ３主人公（女）",
     "original": "Ｐ３主人公（女）",
-    "translation": "Ｐ３主人公（女）",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "P3主角（女）",
+    "stage": 0,
+    "context": "机翻辅助：\n\nP3主角（女）\n\nP3主人公（女）"
   },
   {
     "key": "speaker_青い服の女性",
@@ -626,35 +626,35 @@
     "key": "speaker_高巻 杏",
     "original": "高巻 杏",
     "translation": "高卷 杏",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n高卷 杏"
   },
   {
     "key": "speaker_奥村 春",
     "original": "奥村 春",
     "translation": "奥村 春",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   },
   {
     "key": "speaker_マーガレット",
     "original": "マーガレット",
     "translation": "玛格丽特",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n玛格丽特"
   },
   {
     "key": "speaker_マリー",
     "original": "マリー",
     "translation": "玛丽",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n玛丽"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "key": "MSG_000_0",
     "original": "ん？　この機械、なにやら\nレバーがついてるな。",
-    "translation": "嗯？看来好像有跟杆子，\n在这台机器上面。",
+    "translation": "嗯？这台机器\n好像有个控制杆。",
     "stage": 1,
     "context": "说话人：喜多川 祐介\n\n机翻辅助：\n\n嗯？这台机器\n好像有控制杆。\n\n？这台机器好像有控制杆。\n\n\n嗯？这台机器好像有操纵杆。"
   },
@@ -38,21 +38,21 @@
     "key": "speaker_喜多川 祐介",
     "original": "喜多川 祐介",
     "translation": "喜多川 佑介",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n喜多川 佑介"
   },
   {
     "key": "speaker_明智 吾郎",
     "original": "明智 吾郎",
     "translation": "明智 吾郎",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": ""
   },
   {
     "key": "speaker_新島 真",
     "original": "新島 真",
     "translation": "新岛 真",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "stage": 0,
+    "context": "机翻辅助：\n\n新岛 真"
   }
 ]

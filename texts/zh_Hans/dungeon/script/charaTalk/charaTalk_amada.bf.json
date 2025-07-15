@@ -255,14 +255,14 @@
     "key": "MSG_027_0",
     "original": "！！ああっと！！",
     "translation": "！！哇呀！！",
-    "stage": 9,
-    "context": "翻译匹配：EO1-3HD"
+    "stage": 0,
+    "context": "机翻辅助：\n\n！！哇呀！！"
   },
   {
     "key": "speaker_天田 乾",
     "original": "天田 乾",
-    "translation": "天田 乾",
-    "stage": 9,
-    "context": "翻译匹配：PQ2"
+    "translation": "天田乾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天田乾"
   }
 ]
