@@ -43,7 +43,6 @@ CHINESE_TO_JAPANESE = {
   "-": "－",
   ".": "．",
   "%": "％",
-  "é": "㍽",
 }
 CHINESE_PUNCTUATIONS_LEFT = "，。、；：？！…》）"
 CHINESE_PUNCTUATIONS_RIGHT = "《（"

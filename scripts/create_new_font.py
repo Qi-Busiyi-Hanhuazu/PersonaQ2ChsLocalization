@@ -103,7 +103,7 @@ def create_new_font(file_name: str, input_dir: str, output_dir: str, char_table:
           "ls",
         )
         break
-      glyph = glyph.resize((glyph_width, glyph_height), Image.LANCZOS)
+      glyph = glyph.resize((glyph_width, glyph_height), Image.Resampling.LANCZOS)
       char_info = {
         "char": font_size,
         "glyph": font_size,
