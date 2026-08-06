@@ -23,8 +23,8 @@
   {
     "key": "offset_00260088_0",
     "original": "研究所 第%dフロア",
-    "translation": "研究所 第%d区域",
-    "stage": 0,
+    "translation": "研究所 第%d层",
+    "stage": 1,
     "context": "机翻辅助：\n\n研究所 第%d区域"
   },
   {
@@ -338,134 +338,134 @@
   {
     "key": "offset_0045649c_0",
     "original": "Aチーム",
-    "translation": "A队",
-    "stage": 0,
+    "translation": "A小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nA队"
   },
   {
     "key": "offset_004564a4_0",
     "original": "Bチーム",
-    "translation": "B队",
-    "stage": 0,
+    "translation": "B小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nB队\n\nB组"
   },
   {
     "key": "offset_004564ac_0",
     "original": "Cチーム",
-    "translation": "C队",
-    "stage": 0,
+    "translation": "C小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nC队\n\nC组"
   },
   {
     "key": "offset_004564b4_0",
     "original": "Dチーム",
-    "translation": "D队",
-    "stage": 0,
+    "translation": "D小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nD队\n\nD组"
   },
   {
     "key": "offset_004564bc_0",
     "original": "Eチーム",
-    "translation": "E队",
-    "stage": 0,
+    "translation": "E小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nE队\n\nE组"
   },
   {
     "key": "offset_004564c4_0",
     "original": "Fチーム",
-    "translation": "F队",
-    "stage": 0,
+    "translation": "F小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nF队\n\nF组"
   },
   {
     "key": "offset_004564cc_0",
     "original": "Gチーム",
-    "translation": "G队",
-    "stage": 0,
+    "translation": "G小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nG队\n\nG组"
   },
   {
     "key": "offset_004564d4_0",
     "original": "Hチーム",
-    "translation": "H队",
-    "stage": 0,
+    "translation": "H小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nH队\n\nH组"
   },
   {
     "key": "offset_004564dc_0",
     "original": "Iチーム",
-    "translation": "I队",
-    "stage": 0,
+    "translation": "I小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nI队\n\nI组"
   },
   {
     "key": "offset_004564e4_0",
     "original": "Jチーム",
-    "translation": "J队",
-    "stage": 0,
+    "translation": "J小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nJ队"
   },
   {
     "key": "offset_004564ec_0",
     "original": "Lチーム",
-    "translation": "L队",
-    "stage": 0,
+    "translation": "L小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nL队\n\nL组"
   },
   {
     "key": "offset_004564f4_0",
     "original": "Mチーム",
-    "translation": "M队",
-    "stage": 0,
+    "translation": "M小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nM队\n\n中队"
   },
   {
     "key": "offset_004564fc_0",
     "original": "Nチーム",
-    "translation": "N队",
-    "stage": 0,
+    "translation": "N小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nN队\n\nN组"
   },
   {
     "key": "offset_00456504_0",
     "original": "Oチーム",
-    "translation": "O队",
-    "stage": 0,
+    "translation": "O小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nO队\n\nO组"
   },
   {
     "key": "offset_0045650c_0",
     "original": "Pチーム",
-    "translation": "P队",
-    "stage": 0,
+    "translation": "P小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nP队\n\nP组"
   },
   {
     "key": "offset_00456514_0",
     "original": "Qチーム",
-    "translation": "Q队",
-    "stage": 0,
+    "translation": "Q小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nQ队\n\nQ组"
   },
   {
     "key": "offset_0045651c_0",
     "original": "Rチーム",
-    "translation": "R队",
-    "stage": 0,
+    "translation": "R小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nR队\n\nR组"
   },
   {
     "key": "offset_00456524_0",
     "original": "Sチーム",
-    "translation": "S队",
-    "stage": 0,
+    "translation": "S小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nS队\n\nS组"
   },
   {
     "key": "offset_0045652c_0",
     "original": "Tチーム",
-    "translation": "T队",
-    "stage": 0,
+    "translation": "T小队",
+    "stage": 1,
     "context": "机翻辅助：\n\nT队\n\nT组"
   },
   {
@@ -1031,8 +1031,8 @@
   {
     "key": "offset_0045a090_0",
     "original": "大衆の映画館街",
-    "translation": "大众电影院街",
-    "stage": 0,
+    "translation": "大众影院街",
+    "stage": 1,
     "context": "机翻辅助：\n\n大众电影院街\n\n大众的电影院街"
   },
   {
@@ -1073,8 +1073,8 @@
   {
     "key": "offset_0045a4c8_0",
     "original": "大衆の映画館街・最奥部",
-    "translation": "大众电影院街·最深处",
-    "stage": 0,
+    "translation": "大众影院街·最深处",
+    "stage": 1,
     "context": "机翻辅助：\n\n大众电影院街·最深处\n\n大众的电影院街·最深处"
   },
   {

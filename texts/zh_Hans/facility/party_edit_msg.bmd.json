@@ -72,29 +72,29 @@
   {
     "key": "PARTY_EDIT_MSG_CALL_COMF_0",
     "original": "＞この登録パーティを呼び出しますか？",
-    "translation": "＞要呼叫这支队伍吗？",
-    "stage": 0,
+    "translation": "＞要调出这支登录的队伍吗？",
+    "stage": 1,
     "context": "机翻辅助：\n\n＞要呼叫这支队伍吗？\n\n＞是否调用此注册交易方？\n\n＞调用这个注册队伍吗？"
   },
   {
     "key": "PARTY_EDIT_MSG_SET_COMFI_0",
     "original": "＞パーティ『[占位A 01]』を\n　登録してよろしいですか？",
-    "translation": "＞队伍“[占位A 01]”要\n　登录吗？",
-    "stage": 0,
+    "translation": "＞要登录\n　队伍“[占位A 01]”吗？",
+    "stage": 1,
     "context": "机翻辅助：\n\n＞队伍“[占位A 01]”要\n　登录吗？\n\n＞[占位A 01]可以注册队伍“”\n　吗？\n\n＞可以登记队伍“[占位A 01]”吗？"
   },
   {
     "key": "PARTY_EDIT_MSG_DEL_COMFI_0",
     "original": "＞パーティ『[占位A 01]』を\n　消去してよろしいですか？",
-    "translation": "＞队伍“[占位A 01]”要\n　删除吗？",
-    "stage": 0,
+    "translation": "＞要删除\n　队伍“[占位A 01]”吗？",
+    "stage": 1,
     "context": "机翻辅助：\n\n＞队伍“[占位A 01]”要\n　删除吗？\n\n＞[占位A 01]是否确实要删除队伍“”\n　？\n\n＞可以把队伍“[占位A 01]”删除吗？"
   },
   {
     "key": "PARTY_EDIT_MSG_CANCEL_CR_0",
     "original": "＞このパーティを登録せずに\n　終了してよろしいですか？",
-    "translation": "＞不登录这支队伍\n　结束吗？",
-    "stage": 0,
+    "translation": "＞不登录这支队伍\n　直接退出吗？",
+    "stage": 1,
     "context": "机翻辅助：\n\n＞不登录这支队伍\n　结束吗？\n\n＞不注册此队伍\n　是否确实要退出？\n\n＞不登记这个队伍\n　可以结束吗？"
   },
   {
@@ -107,8 +107,8 @@
   {
     "key": "PARTY_EDIT_MSG_CANCEL_ED_0",
     "original": "＞パーティ編成を変更しないで戻ります。\n　よろしいですか？",
-    "translation": "＞不变更队伍编组直接返回。\n　可以吗？",
-    "stage": 0,
+    "translation": "＞不变编辑队伍直接返回。\n　可以吗？",
+    "stage": 1,
     "context": "机翻辅助：\n\n＞不变更队伍编组直接返回。\n　可以吗？\n\n＞不变更队伍的编制返回。\n　可以吗？\n\n＞在不更改交易方组织的情况下返回。\n　可以吗？"
   },
   {
@@ -121,43 +121,43 @@
   {
     "key": "PARTY_EDIT_MSG_LEADER_NO_0",
     "original": "＞チームにリーダーが設定されていません\n　チームのリーダーは必ず設定してください",
-    "translation": "＞队伍没有设定队长\n　请务必设定队伍队长。",
-    "stage": 0,
+    "translation": "＞小队里未设定队长\n　请设定小队队长。",
+    "stage": 1,
     "context": "机翻辅助：\n\n＞队伍没有设定队长\n　请务必设定队伍队长。\n\n＞没有设定团队领导\n　请一定要设定团队领导。\n\n＞未为团队设置领导\n　必须为团队设置领导"
   },
   {
     "key": "PARTY_EDIT_MSG_NO_MEMBER_0",
     "original": "＞パーティに仲間を指定してください。",
-    "translation": "＞请指定队伍伙伴。",
-    "stage": 0,
+    "translation": "＞请指定要入队的伙伴。",
+    "stage": 1,
     "context": "机翻辅助：\n\n＞请指定队伍伙伴。\n\n＞请在队伍上指定伙伴。\n\n＞请指定参加队伍的伙伴。"
   },
   {
     "key": "PARTY_EDIT_MSG_LEADER_NO_2_0",
     "original": "＞パーティのリーダーは\n　ワイルドの能力を持ったキャラクターを\n　選んでください。",
-    "translation": "＞队伍队长请\n　选择拥有不羁之力的角色。\n　",
-    "stage": 0,
+    "translation": "＞队伍的队长\n　请选择拥有不羁之力的角色。\n　。",
+    "stage": 1,
     "context": "机翻辅助：\n\n＞队伍队长请\n　选择拥有不羁之力的角色。\n　\n\n＞队伍的队长\n　请选择有不羁之力的角色。\n　\n\n＞队伍的领导\n　请选择拥有不羁之力的角色。"
   },
   {
     "key": "PARTY_EDIT_MSG_FIRST_NAV_0",
     "original": "＞ナビが設定されていません\n　ナビは必ず設定してください。",
-    "translation": "＞没有设定导航员\n　请务必设定导航员。",
-    "stage": 0,
+    "translation": "＞未设定NAVI。 \n　请设定 NAVI 。",
+    "stage": 1,
     "context": "机翻辅助：\n\n＞没有设定导航员\n　请务必设定导航员。\n\n＞未设置导航\n　请务必设置导航。\n\n＞没有设定导航系统\n　导航系统一定要设定。"
   },
   {
     "key": "PARTY_EDIT_MSG_DUNGEON_N_0",
     "original": "＞フィールドナビが設定されていません\n　フィールドナビは必ず設定してください。",
-    "translation": "＞没有设定区域导航员\n　请务必设定区域导航员。",
-    "stage": 0,
+    "translation": "＞未设定区域NAVI。\n　请设定区域NAVI。",
+    "stage": 1,
     "context": "机翻辅助：\n\n＞没有设定区域导航员\n　请务必设定区域导航员。\n\n＞未设置现场导航\n　请务必设置现场导航。\n\n＞没有被设定现场导航\n　请一定要设定现场导航。"
   },
   {
     "key": "PARTY_EDIT_RISKY_INVALID_0",
     "original": "＞難易度ＲＩＳＫＹは\n　Ｐ５主人公を外したパーティは\n　編成できません",
-    "translation": "＞难度RISKY\n　没有P5主角的队伍\n　无法编组。",
-    "stage": 0,
+    "translation": "＞游戏难度RISKY中， \n　P5主人公必须加入队伍编组。\n　",
+    "stage": 1,
     "context": "机翻辅助：\n\n＞难度RISKY\n　没有P5主角的队伍\n　无法编组。\n\n＞难易度RISKY\n　P5没有主人公的队伍\n　不能组织\n\n＞难易度RISKY\n　脱离P5主人公的队伍\n　无法编成"
   }
 ]

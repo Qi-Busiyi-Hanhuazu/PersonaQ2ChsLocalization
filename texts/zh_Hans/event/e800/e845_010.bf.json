@@ -2,8 +2,8 @@
   {
     "key": "MSG_000_0",
     "original": "皆様、長らくお待たせいたしました。",
-    "translation": "让各位久等了。",
-    "stage": 0,
+    "translation": "各位，让你们久等了。",
+    "stage": 1,
     "context": "说话人：エリザベス\n\n机翻辅助：\n\n让各位久等了。\n\n各位，让您久等了。\n\n大家，让您久等了。"
   },
   {
@@ -23,15 +23,15 @@
   {
     "key": "SEL_001_1",
     "original": "覚えがない",
-    "translation": "没印象",
-    "stage": 0,
+    "translation": "不记得了",
+    "stage": 1,
     "context": "机翻辅助：\n\n没印象\n\n不记得了"
   },
   {
     "key": "MSG_002_0",
     "original": "はて？　これは面妖な。",
-    "translation": "咦？这可怪了。",
-    "stage": 0,
+    "translation": "咦？感觉好古怪。",
+    "stage": 1,
     "context": "说话人：エリザベス\n\n机翻辅助：\n\n咦？这可怪了。\n\n啊？这太丢人了。\n\n咦？这太奇怪了。"
   },
   {

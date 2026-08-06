@@ -16,15 +16,15 @@
   {
     "key": "MSG_FIRST_DENKISAKU_CLEA_0",
     "original": "＞「電気柵を無事に突破したこと。」\nを伝えるイベント。",
-    "translation": "＞告知“顺利突破电栅栏”\n　的事件。",
-    "stage": 0,
+    "translation": "＞告知“顺利突破电网栅栏”\n　的事件。",
+    "stage": 1,
     "context": "机翻辅助：\n\n＞告知“顺利突破电栅栏”\n　的事件。\n\n＞“平安地突破了电栅栏。”传达\n　的活动。\n\n＞\n　传达“顺利突破电栅栏”的活动。"
   },
   {
     "key": "MSG_TIRANO_SETUMEI_01_0",
     "original": "＞ティラノFOEについて説明する（1）",
-    "translation": "＞说明暴龙FOE（1）",
-    "stage": 0,
+    "translation": "＞暴龙FOE解说（1）",
+    "stage": 1,
     "context": "机翻辅助：\n\n＞说明暴龙FOE（1）\n\n＞对蒂拉诺FOE进行说明（1）\n\n＞对霸王龙的FOE进行说明（1）"
   },
   {
@@ -37,15 +37,15 @@
   {
     "key": "MSG_TIRANO_SETUMEI_02_0",
     "original": "＞ティラノFOEについて説明する（2）",
-    "translation": "＞说明暴龙FOE（2）",
-    "stage": 0,
+    "translation": "＞暴龙FOE解说（2）",
+    "stage": 1,
     "context": "机翻辅助：\n\n＞说明暴龙FOE（2）\n\n＞对Tirano FOE进行说明（2）\n\n＞对霸王龙的FOE进行说明（2）"
   },
   {
     "key": "MSG_TIRANO_SETUMEI_02_1",
     "original": "「ティラノFOEと電気柵の関係性について」\n　ユーザーに説明。",
-    "translation": "“暴龙FOE与电栅栏的关系。”\n向使用者说明。",
-    "stage": 0,
+    "translation": "“暴龙FOE与电网栅栏的关系”\n向使用者说明。",
+    "stage": 1,
     "context": "机翻辅助：\n\n“暴龙FOE与电栅栏的关系。”\n向使用者说明。\n\n“关于霸王龙与电栅栏的关系”\n向用户说明。\n\n向用户说明Tirano FOE和电栅栏的关系。"
   },
   {

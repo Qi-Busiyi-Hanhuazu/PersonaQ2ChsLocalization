@@ -527,56 +527,56 @@
   {
     "key": "addeffect_075_0",
     "original": "状態異常・混乱に耐性",
-    "translation": "对异常状态·混乱有抗性",
-    "stage": 0,
+    "translation": "对异常状态·混乱有耐性",
+    "stage": 1,
     "context": "机翻辅助：\n\n对异常状态·混乱有抗性\n\n对状态异常、混乱的耐性\n\n耐状态异常、混乱"
   },
   {
     "key": "addeffect_076_0",
     "original": "状態異常・毒に耐性",
-    "translation": "对异常状态·毒有抗性",
-    "stage": 0,
+    "translation": "对异常状态·毒有耐性",
+    "stage": 1,
     "context": "机翻辅助：\n\n对异常状态·毒有抗性\n\n对状态异常、毒耐受性\n\n对状态异常、毒的耐受性"
   },
   {
     "key": "addeffect_077_0",
     "original": "状態異常・恐怖に耐性",
-    "translation": "对异常状态·恐惧有抗性",
+    "translation": "对异常状态·恐惧有耐性",
     "stage": 1,
     "context": "机翻辅助：\n\n异常状态·恐惧抗性\n\n耐状态异常、恐怖\n\n对状态异常、恐惧有耐性"
   },
   {
     "key": "addeffect_078_0",
     "original": "状態異常・激昂に耐性",
-    "translation": "对异常状态·激昂有抗性",
+    "translation": "对异常状态·激昂有耐性",
     "stage": 1,
     "context": "机翻辅助：\n\n异常状态·激昂抗性\n\n对状态异常、情绪激昂有耐性\n\n耐状态异常、激昂"
   },
   {
     "key": "addeffect_079_0",
     "original": "状態異常・気絶に耐性",
-    "translation": "对异常状态·昏迷有抗性",
+    "translation": "对异常状态·昏迷有耐性",
     "stage": 1,
     "context": "机翻辅助：\n\n异常状态·昏迷抗性\n\n对状态异常、昏厥的耐性\n\n耐状态异常、晕厥"
   },
   {
     "key": "addeffect_080_0",
     "original": "状態異常・衰弱に耐性",
-    "translation": "对异常状态·衰弱有抗性",
+    "translation": "对异常状态·衰弱有耐性",
     "stage": 1,
     "context": "机翻辅助：\n\n异常状态·衰弱抗性\n\n对状态异常、衰弱的耐受性\n\n耐状态异常、衰弱"
   },
   {
     "key": "addeffect_081_0",
     "original": "状態異常・老化に耐性",
-    "translation": "对异常状态·老化有抗性",
+    "translation": "对异常状态·老化有耐性",
     "stage": 1,
     "context": "机翻辅助：\n\n异常状态·老化抗性\n\n对状态异常、老化的耐受性\n\n耐状态异常、老化"
   },
   {
     "key": "addeffect_082_0",
     "original": "状態異常・魔封に耐性",
-    "translation": "对异常状态·封魔有抗性",
+    "translation": "对异常状态·封魔有耐性",
     "stage": 1,
     "context": "机翻辅助：\n\n异常状态·魔封抗性\n\n对状态异常·魔封耐性\n\n状态异常·魔封耐性"
   },

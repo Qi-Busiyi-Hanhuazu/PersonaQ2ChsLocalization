@@ -352,8 +352,8 @@
   {
     "key": "AKECHI_DUNGEON_START_3_0",
     "original": "油断は禁物、いいね？",
-    "translation": "大意不得，知道吗？",
-    "stage": 0,
+    "translation": "不能大意，知道了吗？",
+    "stage": 1,
     "context": "机翻辅助：\n\n大意不得，知道吗？\n\n不要疏忽大意，好吗？\n\n不能大意，对吧？"
   },
   {
@@ -366,8 +366,8 @@
   {
     "key": "AKECHI_QUEST_START_2_0",
     "original": "お手並み拝見と行こうかな。",
-    "translation": "就让我见识一下吧。",
-    "stage": 0,
+    "translation": "就让我见识一下你的本领吧。",
+    "stage": 1,
     "context": "机翻辅助：\n\n就让我见识一下吧。\n\n让我去看看你的手艺吧。\n\n我去看看你的本领吧。"
   },
   {
@@ -394,8 +394,8 @@
   {
     "key": "AKECHI_TOUHA_50_1_0",
     "original": "残りあと半分だ。",
-    "translation": "还剩下一半。",
-    "stage": 0,
+    "translation": "只剩下一半了。",
+    "stage": 1,
     "context": "机翻辅助：\n\n还剩下一半。\n\n只剩下一半了。"
   },
   {
@@ -415,8 +415,8 @@
   {
     "key": "AKECHI_TOUHA_75_2_0",
     "original": "完成目前だね！",
-    "translation": "就快完成了！",
-    "stage": 0,
+    "translation": "就快完成了呢！",
+    "stage": 1,
     "context": "机翻辅助：\n\n就快完成了！\n\n快要完成了呢！\n\n完成在即呢！"
   },
   {
@@ -429,8 +429,8 @@
   {
     "key": "AKECHI_TOUHA_100_2_0",
     "original": "おめでとう、出来上がったんだね！",
-    "translation": "恭喜，完成了呢！",
-    "stage": 0,
+    "translation": "恭喜，做到了呢！",
+    "stage": 1,
     "context": "机翻辅助：\n\n恭喜，完成了呢！\n\n恭喜你，完成了！\n\n恭喜，你做好了！"
   },
   {
@@ -450,8 +450,8 @@
   {
     "key": "AKECHI_MAPPING_ICON_KAID_0",
     "original": "さすが、やるね。",
-    "translation": "真有你的。",
-    "stage": 0,
+    "translation": "不愧是你。",
+    "stage": 1,
     "context": "机翻辅助：\n\n真有你的。\n\n不愧是做啊。\n\n真够能干的。"
   },
   {
@@ -464,15 +464,15 @@
   {
     "key": "AKECHI_MAPPING_CHANGE_CO_0",
     "original": "色分けか、なるほど。",
-    "translation": "要分色吗？原来如此。",
-    "stage": 0,
+    "translation": "要区分颜色吗？原来如此。",
+    "stage": 1,
     "context": "机翻辅助：\n\n要分色吗？原来如此。\n\n颜色区分啊，原来如此。\n\n原来如此。"
   },
   {
     "key": "AKECHI_MAPPING_CHANGE_CO_2_0",
     "original": "こだわるんだね。",
-    "translation": "很讲究呢。",
-    "stage": 0,
+    "translation": "真执着呢。",
+    "stage": 1,
     "context": "机翻辅助：\n\n很讲究呢。\n\n真执着啊。\n\n你很讲究啊。"
   },
   {

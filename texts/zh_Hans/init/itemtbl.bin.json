@@ -170,7 +170,7 @@
   {
     "key": "offset_00065b22_0",
     "original": "軽量化ロッド",
-    "translation": "轻量化的钓鱼竿",
+    "translation": "轻量化钓竿",
     "stage": 1,
     "context": "机翻辅助：\n\n轻量化杆"
   },
@@ -198,7 +198,7 @@
   {
     "key": "offset_00065b90_0",
     "original": "大腿骨ロッド",
-    "translation": "大腿骨制的钓竿",
+    "translation": "髀骨钓竿",
     "stage": 1,
     "context": "机翻辅助：\n\n大腿骨厚连杆\n\n大腿骨杆"
   },
@@ -331,22 +331,22 @@
   {
     "key": "offset_00065e0e_0",
     "original": "ハードウィップ",
-    "translation": "硬威普",
-    "stage": 0,
+    "translation": "硬质皮鞭",
+    "stage": 1,
     "context": "机翻辅助：\n\n硬威普\n\n赫德韦普"
   },
   {
     "key": "offset_00065e3a_0",
     "original": "緊縛のウィップ",
-    "translation": "束缚的魔女",
-    "stage": 0,
+    "translation": "情趣鞭",
+    "stage": 1,
     "context": "机翻辅助：\n\n束缚的魔女\n\n紧缚的威普"
   },
   {
     "key": "offset_00065e50_0",
     "original": "シダ植物の鞭",
-    "translation": "蕨类植物的鞭子",
-    "stage": 0,
+    "translation": "蕨制软鞭",
+    "stage": 1,
     "context": "机翻辅助：\n\n蕨类植物的鞭子"
   },
   {
@@ -387,15 +387,15 @@
   {
     "key": "offset_00065ed4_0",
     "original": "ペインウィップ",
-    "translation": "佩恩威普",
-    "stage": 0,
+    "translation": "痛楚之鞭",
+    "stage": 1,
     "context": "机翻辅助：\n\n佩恩威普\n\n潘维普"
   },
   {
     "key": "offset_00065eea_0",
     "original": "白薔薇の鞭",
-    "translation": "白玫瑰的鞭子",
-    "stage": 0,
+    "translation": "白玫瑰之鞭",
+    "stage": 1,
     "context": "机翻辅助：\n\n白玫瑰的鞭子\n\n白玫瑰鞭子"
   },
   {
@@ -415,8 +415,8 @@
   {
     "key": "offset_00065f2c_0",
     "original": "青薔薇の鞭",
-    "translation": "青蔷薇的鞭子",
-    "stage": 0,
+    "translation": "蓝玫瑰之鞭",
+    "stage": 1,
     "context": "机翻辅助：\n\n青蔷薇的鞭子\n\n蓝玫瑰之鞭"
   },
   {
@@ -436,29 +436,29 @@
   {
     "key": "offset_00065f84_0",
     "original": "鐘と薔薇の鞭",
-    "translation": "钟与蔷薇的鞭子",
-    "stage": 0,
+    "translation": "钟与玫瑰之鞭",
+    "stage": 1,
     "context": "机翻辅助：\n\n钟与蔷薇的鞭子\n\n钟与玫瑰鞭"
   },
   {
     "key": "offset_00065f9a_0",
     "original": "探検家の鞭",
-    "translation": "探险家的鞭子",
-    "stage": 0,
+    "translation": "探险家之鞭",
+    "stage": 1,
     "context": "机翻辅助：\n\n探险家的鞭子"
   },
   {
     "key": "offset_00066076_0",
     "original": "模造日本刀",
-    "translation": "仿造日本刀",
-    "stage": 0,
+    "translation": "日本刀模型",
+    "stage": 1,
     "context": "机翻辅助：\n\n仿造日本刀\n\n仿制日本刀"
   },
   {
     "key": "offset_0006608c_0",
     "original": "無銘の刀",
-    "translation": "无名刀",
-    "stage": 0,
+    "translation": "无铭之刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n无名刀\n\n无铭之刀"
   },
   {
@@ -506,8 +506,8 @@
   {
     "key": "offset_0006613c_0",
     "original": "帝国刀",
-    "translation": "帝国刀",
-    "stage": 0,
+    "translation": "帝国军刀",
+    "stage": 1,
     "context": ""
   },
   {
@@ -548,8 +548,8 @@
   {
     "key": "offset_000661c0_0",
     "original": "達人の居合い刀",
-    "translation": "达人合刀",
-    "stage": 0,
+    "translation": "达人居合刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n达人合刀\n\n高手的居合刀"
   },
   {
@@ -562,8 +562,8 @@
   {
     "key": "offset_000661ec_0",
     "original": "紅雪左文字",
-    "translation": "左撇子",
-    "stage": 0,
+    "translation": "红雪左文字",
+    "stage": 1,
     "context": "机翻辅助：\n\n左撇子\n\n红雪左文字"
   },
   {
@@ -583,8 +583,8 @@
   {
     "key": "offset_00066244_0",
     "original": "逆刃の刀",
-    "translation": "倒刃刀",
-    "stage": 0,
+    "translation": "逆刃刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n倒刃刀\n\n逆刃的刀"
   },
   {
@@ -597,8 +597,8 @@
   {
     "key": "offset_00066336_0",
     "original": "ビームサーベル",
-    "translation": "光束刀",
-    "stage": 0,
+    "translation": "光束军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n光束刀\n\n光束军刀"
   },
   {
@@ -611,113 +611,113 @@
   {
     "key": "offset_00066362_0",
     "original": "ポイズンサーベル",
-    "translation": "铁锹",
-    "stage": 0,
+    "translation": "附毒军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n铁锹\n\n圣剑"
   },
   {
     "key": "offset_00066378_0",
     "original": "パープルサーベル",
-    "translation": "紫色刀",
-    "stage": 0,
+    "translation": "紫色军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n紫色刀\n\n紫剑"
   },
   {
     "key": "offset_0006638e_0",
     "original": "エクラサーベル",
-    "translation": "练习刀",
-    "stage": 0,
+    "translation": "闪电军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n练习刀\n\n艾克拉萨伯"
   },
   {
     "key": "offset_000663ba_0",
     "original": "素粒子サーベル",
-    "translation": "素粒子刀",
-    "stage": 0,
+    "translation": "粒子军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n素粒子刀\n\n粒子剑"
   },
   {
     "key": "offset_000663d0_0",
     "original": "ステラサーベル",
-    "translation": "斯特拉刀",
-    "stage": 0,
+    "translation": "星辰军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n斯特拉刀\n\n斯特拉军刀"
   },
   {
     "key": "offset_000663e6_0",
     "original": "アルファサーベル",
-    "translation": "阿尔法刀",
-    "stage": 0,
+    "translation": "阿尔法军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n阿尔法刀\n\n阿尔法军刀"
   },
   {
     "key": "offset_000663fc_0",
     "original": "エルグサーベル",
-    "translation": "弯刀",
-    "stage": 0,
+    "translation": "尔格军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n弯刀\n\n埃尔格军刀"
   },
   {
     "key": "offset_00066412_0",
     "original": "ファルシサーベル",
-    "translation": "法尔西刀",
-    "stage": 0,
+    "translation": "法尔西军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n法尔西刀\n\n法西军刀"
   },
   {
     "key": "offset_00066428_0",
     "original": "イオンサーベル",
-    "translation": "离子刀",
-    "stage": 0,
+    "translation": "离子军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n离子刀\n\n离子军刀"
   },
   {
     "key": "offset_0006643e_0",
     "original": "ベータサーベル",
-    "translation": "贝塔刀",
-    "stage": 0,
+    "translation": "贝塔军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n贝塔刀\n\n贝塔军刀"
   },
   {
     "key": "offset_00066454_0",
     "original": "アノードサーベル",
-    "translation": "阳极刀",
-    "stage": 0,
+    "translation": "阳极军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n阳极刀\n\n诺德军刀"
   },
   {
     "key": "offset_0006646a_0",
     "original": "カソードサーベル",
-    "translation": "阴极刀",
-    "stage": 0,
+    "translation": "阴极军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n阴极刀\n\n剑柄"
   },
   {
     "key": "offset_00066480_0",
     "original": "中性子サーベル",
-    "translation": "中子刀",
-    "stage": 0,
+    "translation": "中子军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n中子刀\n\n中子剑"
   },
   {
     "key": "offset_00066496_0",
     "original": "ガンマサーベル",
-    "translation": "伽玛刀",
-    "stage": 0,
+    "translation": "伽玛军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n伽玛刀\n\n伽马刀"
   },
   {
     "key": "offset_000664ac_0",
     "original": "フォースサーベル",
-    "translation": "动力刀",
-    "stage": 0,
+    "translation": "原力军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n动力刀\n\n四剑"
   },
   {
     "key": "offset_000664c2_0",
     "original": "オメガサーベル",
-    "translation": "欧米茄刀",
-    "stage": 0,
+    "translation": "欧米茄军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n欧米茄刀\n\n欧米茄军刀"
   },
   {
@@ -730,15 +730,15 @@
   {
     "key": "offset_00066504_0",
     "original": "理力サーベル",
-    "translation": "理力刀",
-    "stage": 0,
+    "translation": "理力军刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n理力刀\n\n理力军刀"
   },
   {
     "key": "offset_0006651a_0",
     "original": "アラビアサーベル",
-    "translation": "阿拉伯刀",
-    "stage": 0,
+    "translation": "阿拉伯弯刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n阿拉伯刀\n\n阿拉伯军刀"
   },
   {
@@ -758,15 +758,15 @@
   {
     "key": "offset_00066638_0",
     "original": "大型パチンコ",
-    "translation": "大型弹子机",
-    "stage": 0,
+    "translation": "大型弹弓",
+    "stage": 1,
     "context": "机翻辅助：\n\n大型弹子机"
   },
   {
     "key": "offset_0006664e_0",
     "original": "パライズボウ",
-    "translation": "本地化盘",
-    "stage": 0,
+    "translation": "麻痹弹",
+    "stage": 1,
     "context": "机翻辅助：\n\n本地化盘\n\n飞鱼"
   },
   {
@@ -800,15 +800,15 @@
   {
     "key": "offset_000666bc_0",
     "original": "ストロンガー",
-    "translation": "吸管",
-    "stage": 0,
+    "translation": "强力弹",
+    "stage": 1,
     "context": "机翻辅助：\n\n吸管\n\n斯特龙格"
   },
   {
     "key": "offset_000666d2_0",
     "original": "インターセプト",
-    "translation": "中断",
-    "stage": 0,
+    "translation": "拦截",
+    "stage": 1,
     "context": "机翻辅助：\n\n中断\n\n拦截"
   },
   {
@@ -821,8 +821,8 @@
   {
     "key": "offset_000666fe_0",
     "original": "オーバースロー",
-    "translation": "超速",
-    "stage": 0,
+    "translation": "高压式投球",
+    "stage": 1,
     "context": "机翻辅助：\n\n超速\n\n过投"
   },
   {
@@ -835,8 +835,8 @@
   {
     "key": "offset_0006672a_0",
     "original": "大花火",
-    "translation": "大焰火",
-    "stage": 0,
+    "translation": "大烟花",
+    "stage": 1,
     "context": "机翻辅助：\n\n大焰火\n\n大烟花"
   },
   {
@@ -877,29 +877,29 @@
   {
     "key": "offset_000667c4_0",
     "original": "スリープボウ",
-    "translation": "睡眠盘",
-    "stage": 0,
+    "translation": "睡眠弹",
+    "stage": 1,
     "context": "机翻辅助：\n\n睡眠盘\n\n睡眠棒"
   },
   {
     "key": "offset_000667da_0",
     "original": "炸裂パチンコ",
-    "translation": "弹子机",
-    "stage": 0,
+    "translation": "炸裂弹弓",
+    "stage": 1,
     "context": "机翻辅助：\n\n弹子机\n\n弹弓"
   },
   {
     "key": "offset_000668cc_0",
     "original": "模造薙刀",
-    "translation": "仿造剃刀",
-    "stage": 0,
+    "translation": "仿真薙刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n仿造剃刀\n\n仿制剃刀"
   },
   {
     "key": "offset_000668e2_0",
     "original": "情熱の薙刀",
-    "translation": "热情的剃刀",
-    "stage": 0,
+    "translation": "情热薙刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n热情的剃刀"
   },
   {
@@ -912,8 +912,8 @@
   {
     "key": "offset_0006690e_0",
     "original": "翠緑のスティック",
-    "translation": "翠绿的棒子",
-    "stage": 0,
+    "translation": "翠绿球杆",
+    "stage": 1,
     "context": "机翻辅助：\n\n翠绿的棒子"
   },
   {
@@ -926,22 +926,22 @@
   {
     "key": "offset_0006693a_0",
     "original": "原始の薙刀",
-    "translation": "原始剃刀",
-    "stage": 0,
+    "translation": "原始薙刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n原始剃刀\n\n原始的剃刀"
   },
   {
     "key": "offset_00066950_0",
     "original": "青春のスティック",
-    "translation": "青春的棒",
-    "stage": 0,
+    "translation": "青春球杆",
+    "stage": 1,
     "context": "机翻辅助：\n\n青春的棒\n\n青春的棒子"
   },
   {
     "key": "offset_00066966_0",
     "original": "無爪鉈長刀",
-    "translation": "无爪劈刀",
-    "stage": 0,
+    "translation": "无爪铊长刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n无爪劈刀\n\n无爪铊长刀"
   },
   {
@@ -954,22 +954,22 @@
   {
     "key": "offset_00066992_0",
     "original": "ビームナギナタ",
-    "translation": "电子束平衡器",
-    "stage": 0,
+    "translation": "光束薙刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n电子束平衡器\n\n光束风平浪静"
   },
   {
     "key": "offset_000669a8_0",
     "original": "必勝のスティック",
-    "translation": "必胜棒",
-    "stage": 0,
+    "translation": "必胜球杆",
+    "stage": 1,
     "context": "机翻辅助：\n\n必胜棒\n\n必胜的指挥棒"
   },
   {
     "key": "offset_000669be_0",
     "original": "後世の薙刀",
-    "translation": "后世的剃刀",
-    "stage": 0,
+    "translation": "后世薙刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n后世的剃刀"
   },
   {
@@ -982,15 +982,15 @@
   {
     "key": "offset_000669ea_0",
     "original": "端緒の薙刀",
-    "translation": "端倪的剃刀",
-    "stage": 0,
+    "translation": "端绪薙刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n端倪的剃刀\n\n尖头剃刀"
   },
   {
     "key": "offset_00066a00_0",
     "original": "園部師範の薙刀",
-    "translation": "园部师范的剃刀",
-    "stage": 0,
+    "translation": "园部师范的薙刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n园部师范的剃刀\n\n园部教练的剃刀"
   },
   {
@@ -1003,8 +1003,8 @@
   {
     "key": "offset_00066a2c_0",
     "original": "静御前の薙刀",
-    "translation": "静御前的剃刀",
-    "stage": 0,
+    "translation": "静御前的薙刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n静御前的剃刀"
   },
   {
@@ -1017,22 +1017,22 @@
   {
     "key": "offset_00066a6e_0",
     "original": "クロススティック",
-    "translation": "十字棒",
-    "stage": 0,
+    "translation": "长曲棍球杆",
+    "stage": 1,
     "context": "机翻辅助：\n\n十字棒\n\n交叉棒"
   },
   {
     "key": "offset_00066a84_0",
     "original": "堅木のスティック",
-    "translation": "硬木棒",
-    "stage": 0,
+    "translation": "硬木球杆",
+    "stage": 1,
     "context": "机翻辅助：\n\n硬木棒\n\n硬木棍"
   },
   {
     "key": "offset_00066a9a_0",
     "original": "ロングスティック",
-    "translation": "长杆",
-    "stage": 0,
+    "translation": "长球杆",
+    "stage": 1,
     "context": "机翻辅助：\n\n长杆\n\n长棒"
   },
   {
@@ -1045,15 +1045,15 @@
   {
     "key": "offset_00066bb8_0",
     "original": "円盾の斧",
-    "translation": "圆盾斧头",
-    "stage": 0,
+    "translation": "圆盾斧",
+    "stage": 1,
     "context": "机翻辅助：\n\n圆盾斧头\n\n圆盾斧"
   },
   {
     "key": "offset_00066bce_0",
     "original": "ヘッドノッカー",
-    "translation": "头式挖掘机",
-    "stage": 0,
+    "translation": "头部敲击者",
+    "stage": 1,
     "context": "机翻辅助：\n\n头式挖掘机\n\n头槌"
   },
   {
@@ -1080,22 +1080,22 @@
   {
     "key": "offset_00066c26_0",
     "original": "ウォーリアー",
-    "translation": "华莱士",
-    "stage": 0,
+    "translation": "战士",
+    "stage": 1,
     "context": "机翻辅助：\n\n华莱士\n\n勇士"
   },
   {
     "key": "offset_00066c3c_0",
     "original": "大盾の斧",
-    "translation": "大盾斧头",
-    "stage": 0,
+    "translation": "大盾斧",
+    "stage": 1,
     "context": "机翻辅助：\n\n大盾斧头\n\n大盾斧"
   },
   {
     "key": "offset_00066c52_0",
     "original": "変形型アクス",
-    "translation": "变形型阿克斯",
-    "stage": 0,
+    "translation": "变形型战斧",
+    "stage": 1,
     "context": "机翻辅助：\n\n变形型阿克斯\n\n变型阿克塞"
   },
   {
@@ -1108,8 +1108,8 @@
   {
     "key": "offset_00066c7e_0",
     "original": "エイリークの血斧",
-    "translation": "艾瑞克的血斧",
-    "stage": 0,
+    "translation": "埃里克的血斧",
+    "stage": 1,
     "context": "机翻辅助：\n\n艾瑞克的血斧\n\n艾利克血斧"
   },
   {
@@ -1122,8 +1122,8 @@
   {
     "key": "offset_00066caa_0",
     "original": "レテの斧",
-    "translation": "雷特之斧",
-    "stage": 0,
+    "translation": "勒忒之斧",
+    "stage": 1,
     "context": "机翻辅助：\n\n雷特之斧\n\n勒特之斧"
   },
   {
@@ -1178,8 +1178,8 @@
   {
     "key": "offset_00066e8e_0",
     "original": "銅硬貨のナックル",
-    "translation": "铜币的关节",
-    "stage": 0,
+    "translation": "铜币拳套",
+    "stage": 1,
     "context": "机翻辅助：\n\n铜币的关节\n\n铜硬币的蝴蝶"
   },
   {
@@ -1192,8 +1192,8 @@
   {
     "key": "offset_00066eba_0",
     "original": "ハードロッカー",
-    "translation": "硬储物箱",
-    "stage": 0,
+    "translation": "硬核摇滚",
+    "stage": 1,
     "context": "机翻辅助：\n\n硬储物箱\n\n硬置物柜"
   },
   {
@@ -1206,15 +1206,15 @@
   {
     "key": "offset_00066ee6_0",
     "original": "ソニックバレット",
-    "translation": "声学巴雷特",
-    "stage": 0,
+    "translation": "音速子弹",
+    "stage": 1,
     "context": "机翻辅助：\n\n声学巴雷特\n\n索尼克巴雷特"
   },
   {
     "key": "offset_00066efc_0",
     "original": "ギガンナックル",
-    "translation": "吉根转向节",
-    "stage": 0,
+    "translation": "究极全套",
+    "stage": 1,
     "context": "机翻辅助：\n\n吉根转向节\n\n假蝴蝶"
   },
   {
@@ -1234,8 +1234,8 @@
   {
     "key": "offset_00066f3e_0",
     "original": "レジェンドグラブ",
-    "translation": "阻尼抓斗",
-    "stage": 0,
+    "translation": "传奇手套",
+    "stage": 1,
     "context": "机翻辅助：\n\n阻尼抓斗\n\n传奇手套"
   },
   {
@@ -1248,15 +1248,15 @@
   {
     "key": "offset_00066f6a_0",
     "original": "ドラゴンファング",
-    "translation": "龙之幻想",
-    "stage": 0,
+    "translation": "龙牙",
+    "stage": 1,
     "context": "机翻辅助：\n\n龙之幻想\n\n龙妖"
   },
   {
     "key": "offset_00066f80_0",
     "original": "世紀末の拳",
-    "translation": "世纪末的拳头",
-    "stage": 0,
+    "translation": "世纪末之拳",
+    "stage": 1,
     "context": "机翻辅助：\n\n世纪末的拳头"
   },
   {
@@ -1269,8 +1269,8 @@
   {
     "key": "offset_00066fac_0",
     "original": "ダブルジグラット",
-    "translation": "双夹具拉刀",
-    "stage": 0,
+    "translation": "双重金字塔",
+    "stage": 1,
     "context": "机翻辅助：\n\n双夹具拉刀\n\n双重地滚轴"
   },
   {
@@ -1290,8 +1290,8 @@
   {
     "key": "offset_00066fee_0",
     "original": "チャンプグラブ",
-    "translation": "抓斗",
-    "stage": 0,
+    "translation": "冠军手套",
+    "stage": 1,
     "context": "机翻辅助：\n\n抓斗\n\n堆叠手套"
   },
   {
@@ -1339,8 +1339,8 @@
   {
     "key": "offset_00067190_0",
     "original": "パライズブレード",
-    "translation": "本地化刀片式服务器",
-    "stage": 0,
+    "translation": "麻痹之刃",
+    "stage": 1,
     "context": "机翻辅助：\n\n本地化刀片式服务器\n\n脉冲刀片"
   },
   {
@@ -1353,8 +1353,8 @@
   {
     "key": "offset_000671bc_0",
     "original": "バスターソード",
-    "translation": "浴盆",
-    "stage": 0,
+    "translation": "破坏巨剑",
+    "stage": 1,
     "context": "机翻辅助：\n\n浴盆\n\n克星剑"
   },
   {
@@ -1367,8 +1367,8 @@
   {
     "key": "offset_000671e8_0",
     "original": "ヴェノムソード",
-    "translation": "维诺姆索德",
-    "stage": 0,
+    "translation": "剧毒之剑",
+    "stage": 1,
     "context": "机翻辅助：\n\n维诺姆索德\n\nvenomso"
   },
   {
@@ -1395,8 +1395,8 @@
   {
     "key": "offset_00067240_0",
     "original": "ラビリンスソード",
-    "translation": "迷宫",
-    "stage": 0,
+    "translation": "迷宫之剑",
+    "stage": 1,
     "context": "机翻辅助：\n\n迷宫\n\n弹性剑"
   },
   {
@@ -1416,8 +1416,8 @@
   {
     "key": "offset_00067282_0",
     "original": "マサカドの刀",
-    "translation": "马萨卡德之刀",
-    "stage": 0,
+    "translation": "祸魂之刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n马萨卡德之刀\n\n正门之刀"
   },
   {
@@ -1430,8 +1430,8 @@
   {
     "key": "offset_000672c4_0",
     "original": "ボーンソード",
-    "translation": "骨胶",
-    "stage": 0,
+    "translation": "骨刃",
+    "stage": 1,
     "context": "机翻辅助：\n\n骨胶\n\n波恩剑"
   },
   {
@@ -1458,8 +1458,8 @@
   {
     "key": "offset_00067424_0",
     "original": "ダイナソーレッグ",
-    "translation": "发电机支架",
-    "stage": 0,
+    "translation": "恐龙腿刃",
+    "stage": 1,
     "context": "机翻辅助：\n\n发电机支架\n\n动力腿"
   },
   {
@@ -1472,8 +1472,8 @@
   {
     "key": "offset_00067450_0",
     "original": "コブラブーツ",
-    "translation": "眼镜靴",
-    "stage": 0,
+    "translation": "眼镜蛇靴",
+    "stage": 1,
     "context": "机翻辅助：\n\n眼镜靴\n\n眼镜蛇靴"
   },
   {
@@ -1542,15 +1542,15 @@
   {
     "key": "offset_0006752c_0",
     "original": "霊岩の具足",
-    "translation": "灵岩的具足",
-    "stage": 0,
+    "translation": "灵岩的足铠",
+    "stage": 1,
     "context": "机翻辅助：\n\n灵岩的具足\n\n灵岩的盔甲"
   },
   {
     "key": "offset_00067558_0",
     "original": "新緑の具足",
-    "translation": "新绿的具足",
-    "stage": 0,
+    "translation": "新绿的足铠",
+    "stage": 1,
     "context": "机翻辅助：\n\n新绿的具足\n\n新绿的盔甲"
   },
   {
@@ -1584,8 +1584,8 @@
   {
     "key": "offset_000676e4_0",
     "original": "荒豪雨の扇",
-    "translation": "暴雨的扇子",
-    "stage": 0,
+    "translation": "狂暴雨之扇",
+    "stage": 1,
     "context": "机翻辅助：\n\n暴雨的扇子\n\n狂风暴雨的扇子"
   },
   {
@@ -1682,8 +1682,8 @@
   {
     "key": "offset_00067962_0",
     "original": "とげとげクロー",
-    "translation": "带刺钩",
-    "stage": 0,
+    "translation": "尖刺利爪",
+    "stage": 1,
     "context": "机翻辅助：\n\n带刺钩\n\n刺克罗"
   },
   {
@@ -1703,8 +1703,8 @@
   {
     "key": "offset_000679a4_0",
     "original": "ティラノクロー",
-    "translation": "蒂拉诺克罗",
-    "stage": 0,
+    "translation": "霸王龙利爪",
+    "stage": 1,
     "context": "机翻辅助：\n\n蒂拉诺克罗\n\n霸王龙"
   },
   {
@@ -1724,8 +1724,8 @@
   {
     "key": "offset_000679e6_0",
     "original": "サンダークロー",
-    "translation": "砂箱",
-    "stage": 0,
+    "translation": "雷霆利爪",
+    "stage": 1,
     "context": "机翻辅助：\n\n砂箱\n\n霹雳红"
   },
   {
@@ -1794,8 +1794,8 @@
   {
     "key": "offset_00067ad8_0",
     "original": "ドランククロー",
-    "translation": "曲柄式起重机",
-    "stage": 0,
+    "translation": "醉魔利爪",
+    "stage": 1,
     "context": "机翻辅助：\n\n曲柄式起重机\n\n多兰克路"
   },
   {
@@ -1864,8 +1864,8 @@
   {
     "key": "offset_00067ce8_0",
     "original": "ジェットシールド",
-    "translation": "喷射屏蔽",
-    "stage": 0,
+    "translation": "喷射护盾",
+    "stage": 1,
     "context": "机翻辅助：\n\n喷射屏蔽\n\n捷盾"
   },
   {
@@ -1920,15 +1920,15 @@
   {
     "key": "offset_00067ee2_0",
     "original": "ナンブ２",
-    "translation": "编号2",
-    "stage": 0,
+    "translation": "南部2",
+    "stage": 1,
     "context": "机翻辅助：\n\n编号2\n\n南部2"
   },
   {
     "key": "offset_00067ef8_0",
     "original": "スミス銃",
-    "translation": "史密斯枪",
-    "stage": 0,
+    "translation": "史密斯手枪",
+    "stage": 1,
     "context": "机翻辅助：\n\n史密斯枪\n\n史密斯手枪"
   },
   {
@@ -1962,15 +1962,15 @@
   {
     "key": "offset_00067f66_0",
     "original": "４４アナコンダ",
-    "translation": "44阿纳康达",
-    "stage": 0,
+    "translation": "44 号水蚺",
+    "stage": 1,
     "context": "机翻辅助：\n\n44阿纳康达\n\n44巨蟒"
   },
   {
     "key": "offset_00067f7c_0",
     "original": "シールドガン",
-    "translation": "屏蔽枪",
-    "stage": 0,
+    "translation": "盾枪",
+    "stage": 1,
     "context": "机翻辅助：\n\n屏蔽枪\n\n盾形枪"
   },
   {
@@ -1997,8 +1997,8 @@
   {
     "key": "offset_00067fd4_0",
     "original": "魔法のガンプ",
-    "translation": "魔法的甘普",
-    "stage": 0,
+    "translation": "魔法手枪",
+    "stage": 1,
     "context": "机翻辅助：\n\n魔法的甘普\n\n魔法阿甘正传"
   },
   {
@@ -2032,8 +2032,8 @@
   {
     "key": "offset_00068058_0",
     "original": "小型種子島式銃",
-    "translation": "小型种子岛式枪",
-    "stage": 0,
+    "translation": "小型种子岛式火绳枪",
+    "stage": 1,
     "context": "机翻辅助：\n\n小型种子岛式枪"
   },
   {
@@ -2060,8 +2060,8 @@
   {
     "key": "offset_000681fa_0",
     "original": "電光の苦無",
-    "translation": "电光的苦无",
-    "stage": 0,
+    "translation": "电光苦无",
+    "stage": 1,
     "context": "机翻辅助：\n\n电光的苦无\n\n电光之苦无"
   },
   {
@@ -2081,8 +2081,8 @@
   {
     "key": "offset_0006823c_0",
     "original": "月影の苦無",
-    "translation": "月光的苦无",
-    "stage": 0,
+    "translation": "月光苦无",
+    "stage": 1,
     "context": "机翻辅助：\n\n月光的苦无\n\n月影苦无"
   },
   {
@@ -2109,8 +2109,8 @@
   {
     "key": "offset_00068294_0",
     "original": "絶影の苦無",
-    "translation": "绝影的苦无",
-    "stage": 0,
+    "translation": "绝影苦无",
+    "stage": 1,
     "context": "机翻辅助：\n\n绝影的苦无\n\n绝影之苦无"
   },
   {
@@ -2130,8 +2130,8 @@
   {
     "key": "offset_000682d6_0",
     "original": "ナンダカ",
-    "translation": "南达卡",
-    "stage": 0,
+    "translation": "什么啊",
+    "stage": 1,
     "context": "机翻辅助：\n\n南达卡\n\n怎么回事"
   },
   {
@@ -2144,8 +2144,8 @@
   {
     "key": "offset_00068302_0",
     "original": "ソニックナイフ",
-    "translation": "声刀",
-    "stage": 0,
+    "translation": "声波匕首",
+    "stage": 1,
     "context": "机翻辅助：\n\n声刀\n\n音速刀"
   },
   {
@@ -2193,8 +2193,8 @@
   {
     "key": "offset_000684fc_0",
     "original": "アロンダイト",
-    "translation": "黄铁矿",
-    "stage": 0,
+    "translation": "阿隆戴特",
+    "stage": 1,
     "context": "机翻辅助：\n\n黄铁矿\n\n阿隆代特"
   },
   {
@@ -2207,8 +2207,8 @@
   {
     "key": "offset_00068528_0",
     "original": "ルナ・エッジ",
-    "translation": "露娜边缘",
-    "stage": 0,
+    "translation": "月光·锋刃",
+    "stage": 1,
     "context": "机翻辅助：\n\n露娜边缘"
   },
   {
@@ -2221,15 +2221,15 @@
   {
     "key": "offset_00068554_0",
     "original": "エクスカリバー",
-    "translation": "埃克斯卡利伯",
-    "stage": 0,
+    "translation": "王者之剑",
+    "stage": 1,
     "context": "机翻辅助：\n\n埃克斯卡利伯"
   },
   {
     "key": "offset_0006856a_0",
     "original": "デオスクシポス",
-    "translation": "去极化",
-    "stage": 0,
+    "translation": "神之剑",
+    "stage": 1,
     "context": "机翻辅助：\n\n去极化\n\n西奥多克西波斯"
   },
   {
@@ -2242,8 +2242,8 @@
   {
     "key": "offset_000685ac_0",
     "original": "無銘の脇差",
-    "translation": "不名之差",
-    "stage": 0,
+    "translation": "无名之胁差",
+    "stage": 1,
     "context": "机翻辅助：\n\n不名之差\n\n无铭牌的佩刀"
   },
   {
@@ -2256,8 +2256,8 @@
   {
     "key": "offset_00068764_0",
     "original": "スパイラルボウ",
-    "translation": "螺旋钻",
-    "stage": 0,
+    "translation": "螺旋弓",
+    "stage": 1,
     "context": "机翻辅助：\n\n螺旋钻\n\n螺旋杆"
   },
   {
@@ -2270,8 +2270,8 @@
   {
     "key": "offset_00068790_0",
     "original": "サイレスボウ",
-    "translation": "无塞杆",
-    "stage": 0,
+    "translation": "沉默弓",
+    "stage": 1,
     "context": "机翻辅助：\n\n无塞杆\n\n骰子棒"
   },
   {
@@ -2291,22 +2291,22 @@
   {
     "key": "offset_000687d2_0",
     "original": "アルテミスの弓",
-    "translation": "阿尔特米斯之弓",
-    "stage": 0,
+    "translation": "阿尔忒弥斯之弓",
+    "stage": 1,
     "context": "机翻辅助：\n\n阿尔特米斯之弓\n\n阿尔忒弥斯之弓"
   },
   {
     "key": "offset_000687e8_0",
     "original": "ヒュドラの毒弓",
-    "translation": "休德拉毒弓",
-    "stage": 0,
+    "translation": "海德拉毒弓",
+    "stage": 1,
     "context": "机翻辅助：\n\n休德拉毒弓\n\n许德拉毒弓"
   },
   {
     "key": "offset_000687fe_0",
     "original": "プレイアデス",
-    "translation": "普雷亚德斯",
-    "stage": 0,
+    "translation": "普勒阿得斯",
+    "stage": 1,
     "context": "机翻辅助：\n\n普雷亚德斯\n\nplayer。"
   },
   {
@@ -2319,8 +2319,8 @@
   {
     "key": "offset_0006882a_0",
     "original": "巴の弓",
-    "translation": "巴弓",
-    "stage": 0,
+    "translation": "巴之弓",
+    "stage": 1,
     "context": "机翻辅助：\n\n巴弓"
   },
   {
@@ -2333,8 +2333,8 @@
   {
     "key": "offset_0006886c_0",
     "original": "クインテットボウ",
-    "translation": "翻斗",
-    "stage": 0,
+    "translation": "五重奏之弓",
+    "stage": 1,
     "context": "机翻辅助：\n\n翻斗\n\n螺钉"
   },
   {
@@ -2347,8 +2347,8 @@
   {
     "key": "offset_00068a24_0",
     "original": "シルバーレイピア",
-    "translation": "银色雷皮",
-    "stage": 0,
+    "translation": "银色西洋剑",
+    "stage": 1,
     "context": "机翻辅助：\n\n银色雷皮\n\n银色乌托邦"
   },
   {
@@ -2368,29 +2368,29 @@
   {
     "key": "offset_00068a66_0",
     "original": "シャドーダンサー",
-    "translation": "影子舞者",
-    "stage": 0,
+    "translation": "影舞者",
+    "stage": 1,
     "context": "机翻辅助：\n\n影子舞者"
   },
   {
     "key": "offset_00068a7c_0",
     "original": "エターナル",
-    "translation": "标准",
-    "stage": 0,
+    "translation": "永恒",
+    "stage": 1,
     "context": "机翻辅助：\n\n标准\n\n永恒"
   },
   {
     "key": "offset_00068a92_0",
     "original": "スティレット",
-    "translation": "夹头",
-    "stage": 0,
+    "translation": "匕首",
+    "stage": 1,
     "context": "机翻辅助：\n\n夹头\n\n斯蒂利特"
   },
   {
     "key": "offset_00068aa8_0",
     "original": "血赤のエストケ",
-    "translation": "血红的埃斯特克",
-    "stage": 0,
+    "translation": "血红刺剑",
+    "stage": 1,
     "context": "机翻辅助：\n\n血红的埃斯特克\n\n血红的雌蕊"
   },
   {
@@ -2403,15 +2403,15 @@
   {
     "key": "offset_00068ad4_0",
     "original": "イルミナティ",
-    "translation": "灯塔",
-    "stage": 0,
+    "translation": "光明会",
+    "stage": 1,
     "context": "机翻辅助：\n\n灯塔\n\n伊尔米纳蒂"
   },
   {
     "key": "offset_00068aea_0",
     "original": "エル・レイピア",
-    "translation": "艾尔·雷皮尔",
-    "stage": 0,
+    "translation": "至高神细剑",
+    "stage": 1,
     "context": "机翻辅助：\n\n艾尔·雷皮尔\n\n埃尔·雷丕尔"
   },
   {
@@ -2424,29 +2424,29 @@
   {
     "key": "offset_00068b2c_0",
     "original": "フランベルク",
-    "translation": "法兰绒",
-    "stage": 0,
+    "translation": "焰形剑",
+    "stage": 1,
     "context": "机翻辅助：\n\n法兰绒\n\n弗兰贝格"
   },
   {
     "key": "offset_00068cce_0",
     "original": "十文字槍",
-    "translation": "十字枪",
-    "stage": 0,
+    "translation": "十文字枪",
+    "stage": 1,
     "context": "机翻辅助：\n\n十字枪"
   },
   {
     "key": "offset_00068ce4_0",
     "original": "セクシーランス",
-    "translation": "性感兰斯",
-    "stage": 0,
+    "translation": "性感之枪",
+    "stage": 1,
     "context": "机翻辅助：\n\n性感兰斯\n\n性感"
   },
   {
     "key": "offset_00068cfa_0",
     "original": "フラメア",
-    "translation": "黄麻",
-    "stage": 0,
+    "translation": "投掷长矛",
+    "stage": 1,
     "context": "机翻辅助：\n\n黄麻\n\n弗拉米亚"
   },
   {
@@ -2459,8 +2459,8 @@
   {
     "key": "offset_00068d26_0",
     "original": "桜花十文字槍",
-    "translation": "樱花十字枪",
-    "stage": 0,
+    "translation": "樱花十文字枪",
+    "stage": 1,
     "context": "机翻辅助：\n\n樱花十字枪"
   },
   {
@@ -2487,8 +2487,8 @@
   {
     "key": "offset_00068d7e_0",
     "original": "ロムルスの槍",
-    "translation": "罗姆尔斯之枪",
-    "stage": 0,
+    "translation": "罗慕路斯之枪",
+    "stage": 1,
     "context": "机翻辅助：\n\n罗姆尔斯之枪\n\n罗穆路斯之矛"
   },
   {
@@ -2501,8 +2501,8 @@
   {
     "key": "offset_00068daa_0",
     "original": "ピナーカ",
-    "translation": "皮纳卡",
-    "stage": 0,
+    "translation": "比那卡",
+    "stage": 1,
     "context": "机翻辅助：\n\n皮纳卡\n\n尖峰"
   },
   {
@@ -2536,15 +2536,15 @@
   {
     "key": "offset_00068fba_0",
     "original": "メガトンハンマー",
-    "translation": "百万吨巨锤",
-    "stage": 0,
+    "translation": "百万吨重锤",
+    "stage": 1,
     "context": "机翻辅助：\n\n百万吨巨锤\n\n百万吨锤\n\n巨锤"
   },
   {
     "key": "offset_00068fd0_0",
     "original": "撲殺丸",
-    "translation": "杀丸",
-    "stage": 0,
+    "translation": "扑杀丸",
+    "stage": 1,
     "context": "机翻辅助：\n\n杀丸\n\n打死丸"
   },
   {
@@ -2557,8 +2557,8 @@
   {
     "key": "offset_00068ffc_0",
     "original": "圧殺の金槌",
-    "translation": "压死的锤子",
-    "stage": 0,
+    "translation": "压杀金锤",
+    "stage": 1,
     "context": "机翻辅助：\n\n压死的锤子"
   },
   {
@@ -2599,29 +2599,29 @@
   {
     "key": "offset_00069080_0",
     "original": "カドゥケウス",
-    "translation": "卡杜凯斯",
-    "stage": 0,
+    "translation": "卡杜修斯之杖",
+    "stage": 1,
     "context": "机翻辅助：\n\n卡杜凯斯\n\n卡杜修斯"
   },
   {
     "key": "offset_000690ac_0",
     "original": "オーガハンマー",
-    "translation": "螺旋锤",
-    "stage": 0,
+    "translation": "食人魔重锤",
+    "stage": 1,
     "context": "机翻辅助：\n\n螺旋锤\n\n高潮锤"
   },
   {
     "key": "offset_00069264_0",
     "original": "３連装アルビオレ",
-    "translation": "3连装",
-    "stage": 0,
+    "translation": "3连装连射枪",
+    "stage": 1,
     "context": "机翻辅助：\n\n3连装\n\n三联装白化病"
   },
   {
     "key": "offset_0006927a_0",
     "original": "超磁鋼レールガン",
-    "translation": "超磁钢钢轨枪",
-    "stage": 0,
+    "translation": "超磁钢电磁炮",
+    "stage": 1,
     "context": "机翻辅助：\n\n超磁钢钢轨枪\n\n超磁钢轨枪"
   },
   {
@@ -2634,29 +2634,29 @@
   {
     "key": "offset_000692a6_0",
     "original": "マキシマスナイプ",
-    "translation": "马克西马斯奈普",
-    "stage": 0,
+    "translation": "至尊狙击炮",
+    "stage": 1,
     "context": "机翻辅助：\n\n马克西马斯奈普\n\n马克西玛奈普"
   },
   {
     "key": "offset_000692bc_0",
     "original": "アクシオンＩＧ",
-    "translation": "阿克西翁IG",
-    "stage": 0,
+    "translation": "轴子IG",
+    "stage": 1,
     "context": "机翻辅助：\n\n阿克西翁IG\n\n艾克西翁IG"
   },
   {
     "key": "offset_000692d2_0",
     "original": "トリモチ榴弾砲",
-    "translation": "榴弹炮",
-    "stage": 0,
+    "translation": "粘鸟胶榴弹炮",
+    "stage": 1,
     "context": "机翻辅助：\n\n榴弹炮\n\n手持榴弹炮"
   },
   {
     "key": "offset_000692e8_0",
     "original": "キスオブジアテナ",
-    "translation": "吉亚特纳之吻",
-    "stage": 0,
+    "translation": "神吻",
+    "stage": 1,
     "context": "机翻辅助：\n\n吉亚特纳之吻\n\n雅典娜之吻"
   },
   {
@@ -2669,29 +2669,29 @@
   {
     "key": "offset_00069314_0",
     "original": "ガラテア反物質砲",
-    "translation": "加拉特亚反物质炮",
-    "stage": 0,
+    "translation": "伽拉忒亚反物质炮",
+    "stage": 1,
     "context": "机翻辅助：\n\n加拉特亚反物质炮\n\n加拉特亚反物炮"
   },
   {
     "key": "offset_0006932a_0",
     "original": "メタトロニオス",
-    "translation": "甲醇",
-    "stage": 0,
+    "translation": "梅塔特隆",
+    "stage": 1,
     "context": "机翻辅助：\n\n甲醇\n\n甲硝基"
   },
   {
     "key": "offset_00069356_0",
     "original": "グレネード８０",
-    "translation": "灰色80",
-    "stage": 0,
+    "translation": "榴弹炮80",
+    "stage": 1,
     "context": "机翻辅助：\n\n灰色80\n\n格雷奈德80"
   },
   {
     "key": "offset_0006936c_0",
     "original": "シックスショット",
-    "translation": "别致的镜头",
-    "stage": 0,
+    "translation": "6段连射炮",
+    "stage": 1,
     "context": "机翻辅助：\n\n别致的镜头\n\n六击"
   },
   {
@@ -2704,8 +2704,8 @@
   {
     "key": "offset_000694cc_0",
     "original": "マイク",
-    "translation": "传声器",
-    "stage": 0,
+    "translation": "麦克风",
+    "stage": 1,
     "context": "机翻辅助：\n\n传声器\n\n麦克风"
   },
   {
@@ -2718,43 +2718,43 @@
   {
     "key": "offset_00069868_0",
     "original": "旧・マイク",
-    "translation": "旧麦克风",
-    "stage": 0,
+    "translation": "旧·麦克风",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧麦克风\n\n迈克·旧"
   },
   {
     "key": "offset_0006987e_0",
     "original": "旧・腕章",
-    "translation": "旧袖章",
-    "stage": 0,
+    "translation": "旧·臂章",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧袖章\n\n旧臂章"
   },
   {
     "key": "offset_00069894_0",
     "original": "旧スレッジハンマ",
-    "translation": "旧铁锤",
-    "stage": 0,
+    "translation": "旧·烈击巨锤",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧铁锤\n\n旧斯莱西罕马"
   },
   {
     "key": "offset_000698aa_0",
     "original": "旧ブラスナックル",
-    "translation": "旧布拉斯纳克",
-    "stage": 0,
+    "translation": "旧·黄铜拳套",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧布拉斯纳克\n\n旧蝴蝶"
   },
   {
     "key": "offset_000698c0_0",
     "original": "旧・十文字槍",
-    "translation": "旧十字枪",
-    "stage": 0,
+    "translation": "旧·十文字枪",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧十字枪\n\n十字枪"
   },
   {
     "key": "offset_000698d6_0",
     "original": "旧・レイピア",
-    "translation": "旧雷皮尔",
-    "stage": 0,
+    "translation": "旧·西洋剑",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧雷皮尔\n\n旧·雷丕尔"
   },
   {
@@ -2767,85 +2767,85 @@
   {
     "key": "offset_00069902_0",
     "original": "旧ショートソード",
-    "translation": "旧短底",
-    "stage": 0,
+    "translation": "旧短剑",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧短底\n\n旧肖特剑"
   },
   {
     "key": "offset_00069918_0",
     "original": "旧・チョーク",
-    "translation": "旧粉笔",
-    "stage": 0,
+    "translation": "旧·粉笔",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧粉笔\n\n旧白垩"
   },
   {
     "key": "offset_0006992e_0",
     "original": "旧３連装アルビオ",
-    "translation": "旧3连装阿尔比奥",
-    "stage": 0,
+    "translation": "旧3连装连射枪",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧3连装阿尔比奥\n\n旧三联装白化病"
   },
   {
     "key": "offset_00069944_0",
     "original": "旧とげとげパンチ",
-    "translation": "旧刺刺刀",
-    "stage": 0,
+    "translation": "旧尖刺拳",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧刺刺刀\n\n旧尖刺冲头"
   },
   {
     "key": "offset_0006995a_0",
     "original": "旧・ナンブ２",
-    "translation": "旧南布2",
-    "stage": 0,
+    "translation": "旧·南部2",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧南布2\n\n旧南部2"
   },
   {
     "key": "offset_00069970_0",
     "original": "旧・パイプ椅子",
-    "translation": "旧管椅",
-    "stage": 0,
+    "translation": "旧·折叠椅",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧管椅\n\n旧折叠椅"
   },
   {
     "key": "offset_00069986_0",
     "original": "旧・京扇子",
-    "translation": "旧京扇子",
-    "stage": 0,
+    "translation": "旧·京扇",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧京扇子\n\n旧·京扇子"
   },
   {
     "key": "offset_0006999c_0",
     "original": "旧・革靴",
-    "translation": "旧皮鞋",
-    "stage": 0,
+    "translation": "旧·皮鞋",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧皮鞋"
   },
   {
     "key": "offset_000699b2_0",
     "original": "旧ソニックナイフ",
-    "translation": "旧音像刀",
-    "stage": 0,
+    "translation": "旧声波匕首",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧音像刀\n\n索尼克小刀"
   },
   {
     "key": "offset_000699c8_0",
     "original": "旧モンキーレンチ",
-    "translation": "旧猴子扳手",
-    "stage": 0,
+    "translation": "旧活动扳手",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧猴子扳手"
   },
   {
     "key": "offset_000699de_0",
     "original": "旧・模造刀",
-    "translation": "仿造刀",
-    "stage": 0,
+    "translation": "旧·仿真刀",
+    "stage": 1,
     "context": "机翻辅助：\n\n仿造刀\n\n旧、仿制刀"
   },
   {
     "key": "offset_000699f4_0",
     "original": "旧・ゴルフクラブ",
-    "translation": "旧高尔夫俱乐部",
-    "stage": 0,
+    "translation": "旧·高尔夫俱乐部",
+    "stage": 1,
     "context": "机翻辅助：\n\n旧高尔夫俱乐部"
   },
   {
@@ -2858,8 +2858,8 @@
   {
     "key": "offset_00069a36_0",
     "original": "ノベリティパーカー",
-    "translation": "诺贝利蒂帕克",
-    "stage": 0,
+    "translation": "创意连帽衫",
+    "stage": 1,
     "context": "机翻辅助：\n\n诺贝利蒂帕克"
   },
   {
@@ -2872,15 +2872,15 @@
   {
     "key": "offset_00069a78_0",
     "original": "極厚ダウンコート",
-    "translation": "厚底涂层",
-    "stage": 0,
+    "translation": "极厚羽绒服",
+    "stage": 1,
     "context": "机翻辅助：\n\n厚底涂层\n\n极厚羽绒服"
   },
   {
     "key": "offset_00069a8e_0",
     "original": "強化鎖かたびら",
-    "translation": "强化锁链",
-    "stage": 0,
+    "translation": "强化锁子甲",
+    "stage": 1,
     "context": "机翻辅助：\n\n强化锁链\n\n强化链卡通器"
   },
   {
@@ -2928,8 +2928,8 @@
   {
     "key": "offset_00069b54_0",
     "original": "ソウルベスト",
-    "translation": "首尔最佳",
-    "stage": 0,
+    "translation": "灵魂背心",
+    "stage": 1,
     "context": "机翻辅助：\n\n首尔最佳"
   },
   {
@@ -2942,15 +2942,15 @@
   {
     "key": "offset_00069b80_0",
     "original": "エゴイストコート",
-    "translation": "护罩",
-    "stage": 0,
+    "translation": "利己主义者外套",
+    "stage": 1,
     "context": "机翻辅助：\n\n护罩\n\n利己主义大衣"
   },
   {
     "key": "offset_00069b96_0",
     "original": "前衛的ベスト",
-    "translation": "前卫的马甲",
-    "stage": 0,
+    "translation": "前卫背心",
+    "stage": 1,
     "context": "机翻辅助：\n\n前卫的马甲"
   },
   {
@@ -2977,36 +2977,36 @@
   {
     "key": "offset_00069c04_0",
     "original": "レジスタンスの鎧",
-    "translation": "抵抗的铠甲",
-    "stage": 0,
+    "translation": "抵抗铠甲",
+    "stage": 1,
     "context": "机翻辅助：\n\n抵抗的铠甲\n\n抵抗运动的铠甲"
   },
   {
     "key": "offset_00069c1a_0",
     "original": "団結のシャツ",
-    "translation": "团结的衬衫",
-    "stage": 0,
+    "translation": "团结衬衫",
+    "stage": 1,
     "context": "机翻辅助：\n\n团结的衬衫"
   },
   {
     "key": "offset_00069c30_0",
     "original": "成長のシャツ",
-    "translation": "成长的衬衫",
-    "stage": 0,
+    "translation": "成长衬衫",
+    "stage": 1,
     "context": "机翻辅助：\n\n成长的衬衫"
   },
   {
     "key": "offset_00069c46_0",
     "original": "ハイカラな肌着",
-    "translation": "时髦的内衣",
-    "stage": 0,
+    "translation": "时髦汗衫",
+    "stage": 1,
     "context": "机翻辅助：\n\n时髦的内衣"
   },
   {
     "key": "offset_00069e98_0",
     "original": "肩パッドベスト",
-    "translation": "垫肩背心",
-    "stage": 0,
+    "translation": "肩垫背心",
+    "stage": 1,
     "context": "机翻辅助：\n\n垫肩背心"
   },
   {
@@ -3019,15 +3019,15 @@
   {
     "key": "offset_00069eda_0",
     "original": "ヒーロータイツ",
-    "translation": "英雄紧身裤",
-    "stage": 0,
+    "translation": "英雄紧身衣",
+    "stage": 1,
     "context": "机翻辅助：\n\n英雄紧身裤"
   },
   {
     "key": "offset_00069ef0_0",
     "original": "男気の甚平",
-    "translation": "男子气概的甚平",
-    "stage": 0,
+    "translation": "豪气甚平",
+    "stage": 1,
     "context": "机翻辅助：\n\n男子气概的甚平"
   },
   {
@@ -3075,8 +3075,8 @@
   {
     "key": "offset_00069fcc_0",
     "original": "任侠のステテコ",
-    "translation": "任侠的故事",
-    "stage": 0,
+    "translation": "任侠衬裤",
+    "stage": 1,
     "context": "机翻辅助：\n\n任侠的故事\n\n侠义的弃子"
   },
   {
@@ -3096,8 +3096,8 @@
   {
     "key": "offset_0006a00e_0",
     "original": "ジーザスガード",
-    "translation": "吉萨斯护卫",
-    "stage": 0,
+    "translation": "耶稣护铠",
+    "stage": 1,
     "context": "机翻辅助：\n\n吉萨斯护卫\n\n耶稣加德"
   },
   {
@@ -3110,8 +3110,8 @@
   {
     "key": "offset_0006a066_0",
     "original": "大スターの衣装",
-    "translation": "大明星的服装",
-    "stage": 0,
+    "translation": "大明星服装",
+    "stage": 1,
     "context": "机翻辅助：\n\n大明星的服装"
   },
   {
@@ -3124,29 +3124,29 @@
   {
     "key": "offset_0006a116_0",
     "original": "黄金髑髏革ツナギ",
-    "translation": "黄金骷髅革凪",
-    "stage": 0,
+    "translation": "黄金骷髅皮制连体衣",
+    "stage": 1,
     "context": "机翻辅助：\n\n黄金骷髅革凪\n\n黄金骷髅"
   },
   {
     "key": "offset_0006a12c_0",
     "original": "黒黄羅紗陣羽織",
-    "translation": "黑黄罗纱阵外褂",
-    "stage": 0,
+    "translation": "黑黄罗纱阵羽织",
+    "stage": 1,
     "context": "机翻辅助：\n\n黑黄罗纱阵外褂\n\n黑黄罗纱阵羽织"
   },
   {
     "key": "offset_0006a142_0",
     "original": "純白の貴族服",
-    "translation": "纯白的贵族服装",
-    "stage": 0,
+    "translation": "纯白贵族服",
+    "stage": 1,
     "context": "机翻辅助：\n\n纯白的贵族服装\n\n纯白的贵族服"
   },
   {
     "key": "offset_0006a158_0",
     "original": "王者の詰襟",
-    "translation": "王者将领",
-    "stage": 0,
+    "translation": "王者制服",
+    "stage": 1,
     "context": "机翻辅助：\n\n王者将领\n\n王者的立领"
   },
   {
@@ -3173,15 +3173,15 @@
   {
     "key": "offset_0006a1b0_0",
     "original": "君主のジャケット",
-    "translation": "君主的夹克",
-    "stage": 0,
+    "translation": "君主夹克",
+    "stage": 1,
     "context": "机翻辅助：\n\n君主的夹克"
   },
   {
     "key": "offset_0006a1c6_0",
     "original": "ブレイブスケイル",
-    "translation": "布列夫斯凯尔",
-    "stage": 0,
+    "translation": "勇气鳞甲",
+    "stage": 1,
     "context": "机翻辅助：\n\n布列夫斯凯尔\n\n布雷布斯凯尔"
   },
   {
@@ -3194,36 +3194,36 @@
   {
     "key": "offset_0006a1f2_0",
     "original": "無敵のパーカー",
-    "translation": "无敌派克",
-    "stage": 0,
+    "translation": "无敌连帽衫",
+    "stage": 1,
     "context": "机翻辅助：\n\n无敌派克\n\n无敌卫衣"
   },
   {
     "key": "offset_0006a208_0",
     "original": "月影羽織",
-    "translation": "月光外褂",
-    "stage": 0,
+    "translation": "月影羽织",
+    "stage": 1,
     "context": "机翻辅助：\n\n月光外褂\n\n月影羽织"
   },
   {
     "key": "offset_0006a2e4_0",
     "original": "原色タイツ",
-    "translation": "原色紧身裤",
-    "stage": 0,
+    "translation": "原色紧身衣",
+    "stage": 1,
     "context": "机翻辅助：\n\n原色紧身裤"
   },
   {
     "key": "offset_0006a310_0",
     "original": "マジカルキャミ",
-    "translation": "魔法卡米",
-    "stage": 0,
+    "translation": "魔法吊带衫",
+    "stage": 1,
     "context": "机翻辅助：\n\n魔法卡米\n\n神奇的骆驼"
   },
   {
     "key": "offset_0006a326_0",
     "original": "鋼のバニースーツ",
-    "translation": "钢的巴尼套装",
-    "stage": 0,
+    "translation": "钢制兔耳套装",
+    "stage": 1,
     "context": "机翻辅助：\n\n钢的巴尼套装"
   },
   {
@@ -3250,8 +3250,8 @@
   {
     "key": "offset_0006a3aa_0",
     "original": "近未来タイツ",
-    "translation": "近未来紧身裤",
-    "stage": 0,
+    "translation": "近未来紧身衣",
+    "stage": 1,
     "context": "机翻辅助：\n\n近未来紧身裤"
   },
   {
@@ -3271,8 +3271,8 @@
   {
     "key": "offset_0006a402_0",
     "original": "スパイクブラ",
-    "translation": "穿孔机",
-    "stage": 0,
+    "translation": "尖刺胸衣",
+    "stage": 1,
     "context": "机翻辅助：\n\n穿孔机\n\n钉式胸罩"
   },
   {
@@ -3299,36 +3299,36 @@
   {
     "key": "offset_0006a45a_0",
     "original": "エタニティドレス",
-    "translation": "标准礼服",
-    "stage": 0,
+    "translation": "永恒礼服",
+    "stage": 1,
     "context": "机翻辅助：\n\n标准礼服\n\n晚礼服"
   },
   {
     "key": "offset_0006a49c_0",
     "original": "七重の浴衣",
-    "translation": "七层浴衣",
-    "stage": 0,
+    "translation": "七重浴衣",
+    "stage": 1,
     "context": "机翻辅助：\n\n七层浴衣"
   },
   {
     "key": "offset_0006a4b2_0",
     "original": "大晦日の着物",
-    "translation": "除夕的和服",
-    "stage": 0,
+    "translation": "除夕和服",
+    "stage": 1,
     "context": "机翻辅助：\n\n除夕的和服"
   },
   {
     "key": "offset_0006a520_0",
     "original": "緋色のレオタード",
-    "translation": "绯红色的紧身衣",
-    "stage": 0,
+    "translation": "绯色紧身衣",
+    "stage": 1,
     "context": "机翻辅助：\n\n绯红色的紧身衣\n\n红色的柠檬汁"
   },
   {
     "key": "offset_0006a536_0",
     "original": "君主のドレス",
-    "translation": "君主的礼服",
-    "stage": 0,
+    "translation": "君主礼服",
+    "stage": 1,
     "context": "机翻辅助：\n\n君主的礼服"
   },
   {
@@ -3341,15 +3341,15 @@
   {
     "key": "offset_0006a562_0",
     "original": "覇者の革スーツ",
-    "translation": "霸主的皮革套装",
-    "stage": 0,
+    "translation": "霸主皮革套装",
+    "stage": 1,
     "context": "机翻辅助：\n\n霸主的皮革套装\n\n霸者的皮革套装"
   },
   {
     "key": "offset_0006a578_0",
     "original": "太陽の衣",
-    "translation": "太阳衣",
-    "stage": 0,
+    "translation": "太阳之衣",
+    "stage": 1,
     "context": "机翻辅助：\n\n太阳衣"
   },
   {
@@ -3362,22 +3362,22 @@
   {
     "key": "offset_0006a5a4_0",
     "original": "漆黒のドレス",
-    "translation": "漆黑的礼服",
-    "stage": 0,
+    "translation": "漆黑礼服",
+    "stage": 1,
     "context": "机翻辅助：\n\n漆黑的礼服"
   },
   {
     "key": "offset_0006a5ba_0",
     "original": "桜の羽衣",
-    "translation": "樱花的羽衣",
-    "stage": 0,
+    "translation": "樱花羽衣",
+    "stage": 1,
     "context": "机翻辅助：\n\n樱花的羽衣\n\n樱花羽衣"
   },
   {
     "key": "offset_0006a5d0_0",
     "original": "女帝の毛皮",
-    "translation": "女皇的毛皮",
-    "stage": 0,
+    "translation": "女皇毛皮",
+    "stage": 1,
     "context": "机翻辅助：\n\n女皇的毛皮"
   },
   {
@@ -3397,8 +3397,8 @@
   {
     "key": "offset_0006a746_0",
     "original": "鋼鉄のスカーフ",
-    "translation": "钢铁围巾",
-    "stage": 0,
+    "translation": "钢铁领巾",
+    "stage": 1,
     "context": "机翻辅助：\n\n钢铁围巾"
   },
   {
@@ -3432,8 +3432,8 @@
   {
     "key": "offset_0006a7b4_0",
     "original": "躍動美なスカーフ",
-    "translation": "飘动美丽的围巾",
-    "stage": 0,
+    "translation": "飘动美领巾",
+    "stage": 1,
     "context": "机翻辅助：\n\n飘动美丽的围巾\n\n动感美的丝巾"
   },
   {
@@ -3446,8 +3446,8 @@
   {
     "key": "offset_0006a7e0_0",
     "original": "まじないスカーフ",
-    "translation": "咒语围巾",
-    "stage": 0,
+    "translation": "咒术领巾",
+    "stage": 1,
     "context": "机翻辅助：\n\n咒语围巾\n\n合身的围巾"
   },
   {
@@ -3474,15 +3474,15 @@
   {
     "key": "offset_0006a838_0",
     "original": "大先輩のスカーフ",
-    "translation": "大前辈的围巾",
-    "stage": 0,
+    "translation": "大前辈领巾",
+    "stage": 1,
     "context": "机翻辅助：\n\n大前辈的围巾\n\n老前辈的围巾"
   },
   {
     "key": "offset_0006a84e_0",
     "original": "必殺の襟巻",
-    "translation": "必杀的围巾",
-    "stage": 0,
+    "translation": "必杀围巾",
+    "stage": 1,
     "context": "机翻辅助：\n\n必杀的围巾\n\n必杀的围脖"
   },
   {
@@ -3495,22 +3495,22 @@
   {
     "key": "offset_0006a87a_0",
     "original": "絢爛の首輪",
-    "translation": "绚烂的项圈",
-    "stage": 0,
+    "translation": "绚烂项圈",
+    "stage": 1,
     "context": "机翻辅助：\n\n绚烂的项圈"
   },
   {
     "key": "offset_0006a890_0",
     "original": "超猫又具足",
-    "translation": "超猫又具足",
-    "stage": 0,
+    "translation": "超猫又护腿",
+    "stage": 1,
     "context": ""
   },
   {
     "key": "offset_0006a8bc_0",
     "original": "護衛の首巻",
-    "translation": "护卫的首卷",
-    "stage": 0,
+    "translation": "护卫围巾",
+    "stage": 1,
     "context": "机翻辅助：\n\n护卫的首卷\n\n护卫的首级"
   },
   {
@@ -3523,8 +3523,8 @@
   {
     "key": "offset_0006a8e8_0",
     "original": "もふもふ襟巻き",
-    "translation": "毛边围巾",
-    "stage": 0,
+    "translation": "毛绒绒围巾",
+    "stage": 1,
     "context": "机翻辅助：\n\n毛边围巾\n\n翻领卷"
   },
   {
@@ -3537,8 +3537,8 @@
   {
     "key": "offset_0006aa06_0",
     "original": "犬用ドットウェア",
-    "translation": "狗用圆点服",
-    "stage": 0,
+    "translation": "犬用圆点服装",
+    "stage": 1,
     "context": "机翻辅助：\n\n狗用圆点服\n\n狗用点衣"
   },
   {
@@ -3551,8 +3551,8 @@
   {
     "key": "offset_0006aa32_0",
     "original": "犬用ハードウェア",
-    "translation": "狗用硬件",
-    "stage": 0,
+    "translation": "犬用坚固服装",
+    "stage": 1,
     "context": "机翻辅助：\n\n狗用硬件"
   },
   {
@@ -3565,78 +3565,78 @@
   {
     "key": "offset_0006aa5e_0",
     "original": "犬用チタンウェア",
-    "translation": "狗用钛服装",
-    "stage": 0,
+    "translation": "犬用钛制服装",
+    "stage": 1,
     "context": "机翻辅助：\n\n狗用钛服装\n\n狗用钛服"
   },
   {
     "key": "offset_0006aa74_0",
     "original": "犬用スカイウェア",
-    "translation": "狗用天服",
-    "stage": 0,
+    "translation": "犬用天空服装",
+    "stage": 1,
     "context": "机翻辅助：\n\n狗用天服\n\n狗用skyware"
   },
   {
     "key": "offset_0006aa8a_0",
     "original": "犬用マリンウェア",
-    "translation": "狗用海军服装",
-    "stage": 0,
+    "translation": "犬用海军服装",
+    "stage": 1,
     "context": "机翻辅助：\n\n狗用海军服装\n\n狗用海洋服"
   },
   {
     "key": "offset_0006aaa0_0",
     "original": "犬用スターウェア",
-    "translation": "狗用星形服装",
-    "stage": 0,
+    "translation": "犬用星星服装",
+    "stage": 1,
     "context": "机翻辅助：\n\n狗用星形服装\n\n狗用星服"
   },
   {
     "key": "offset_0006aab6_0",
     "original": "犬用ルナウェア",
-    "translation": "狗用雨衣",
-    "stage": 0,
+    "translation": "犬用月亮服装",
+    "stage": 1,
     "context": "机翻辅助：\n\n狗用雨衣\n\n狗用内衣"
   },
   {
     "key": "offset_0006aacc_0",
     "original": "犬用ソルウェア",
-    "translation": "狗用索尔服",
-    "stage": 0,
+    "translation": "犬用灵魂服装",
+    "stage": 1,
     "context": "机翻辅助：\n\n狗用索尔服\n\n狗用solware"
   },
   {
     "key": "offset_0006aae2_0",
     "original": "犬用コスモウェア",
-    "translation": "狗用服装",
-    "stage": 0,
+    "translation": "犬用宇宙服装",
+    "stage": 1,
     "context": "机翻辅助：\n\n狗用服装\n\n狗用cosmo服"
   },
   {
     "key": "offset_0006aaf8_0",
     "original": "犬用ライトウェア",
-    "translation": "狗用雨衣",
-    "stage": 0,
+    "translation": "犬用轻型服装",
+    "stage": 1,
     "context": "机翻辅助：\n\n狗用雨衣\n\n狗用轻服"
   },
   {
     "key": "offset_0006ab0e_0",
     "original": "ふわふわたてがみ",
-    "translation": "软绵绵的鬃毛",
-    "stage": 0,
+    "translation": "软绵绵鬃毛",
+    "stage": 1,
     "context": "机翻辅助：\n\n软绵绵的鬃毛\n\n蓬松的鬃毛"
   },
   {
     "key": "offset_0006ab24_0",
     "original": "黒曜ドッグスーツ",
-    "translation": "黑曜犬套装",
-    "stage": 0,
+    "translation": "黑曜犬用套装",
+    "stage": 1,
     "context": "机翻辅助：\n\n黑曜犬套装\n\n黑曜狗服"
   },
   {
     "key": "offset_0006abd4_0",
     "original": "ＴＤ式フルシェル",
-    "translation": "TD式全壳",
-    "stage": 0,
+    "translation": "TD式一体化装甲",
+    "stage": 1,
     "context": "机翻辅助：\n\nTD式全壳"
   },
   {
@@ -3656,36 +3656,36 @@
   {
     "key": "offset_0006ac16_0",
     "original": "ＴＤ式Ｗプレート",
-    "translation": "TD式W板",
-    "stage": 0,
+    "translation": "TD式双层板",
+    "stage": 1,
     "context": "机翻辅助：\n\nTD式W板"
   },
   {
     "key": "offset_0006ac2c_0",
     "original": "アンチシール装甲",
-    "translation": "防密封装甲",
-    "stage": 0,
+    "translation": "反密封装甲",
+    "stage": 1,
     "context": "机翻辅助：\n\n防密封装甲"
   },
   {
     "key": "offset_0006ac42_0",
     "original": "ＴＤ式フルボディ",
-    "translation": "TD式全车身",
-    "stage": 0,
+    "translation": "TD式全身装甲",
+    "stage": 1,
     "context": "机翻辅助：\n\nTD式全车身\n\nTD式全车体"
   },
   {
     "key": "offset_0006ac58_0",
     "original": "参式アイギス装甲",
-    "translation": "参式埃癸斯装甲",
-    "stage": 0,
+    "translation": "叁式埃癸斯装甲",
+    "stage": 1,
     "context": "机翻辅助：\n\n参式埃癸斯装甲\n\n参式癸斯装甲"
   },
   {
     "key": "offset_0006ac6e_0",
     "original": "エレメントボディ",
-    "translation": "元素主体",
-    "stage": 0,
+    "translation": "元素装甲",
+    "stage": 1,
     "context": "机翻辅助：\n\n元素主体\n\n元件体"
   },
   {
@@ -3705,8 +3705,8 @@
   {
     "key": "offset_0006acb0_0",
     "original": "ふりふり装甲",
-    "translation": "假装甲",
-    "stage": 0,
+    "translation": "摇曳装甲",
+    "stage": 1,
     "context": "机翻辅助：\n\n假装甲\n\n摆动装甲"
   },
   {
@@ -3719,8 +3719,8 @@
   {
     "key": "offset_0006ad08_0",
     "original": "冒頭用防具",
-    "translation": "开头用护具",
-    "stage": 0,
+    "translation": "初始防具",
+    "stage": 1,
     "context": "机翻辅助：\n\n开头用护具\n\n开头用防具"
   },
   {
@@ -3740,8 +3740,8 @@
   {
     "key": "offset_0006ad4a_0",
     "original": "ヨツバパーカー",
-    "translation": "燕尾公园",
-    "stage": 0,
+    "translation": "四叶草连帽衫",
+    "stage": 1,
     "context": "机翻辅助：\n\n燕尾公园\n\n横轴连帽衫"
   },
   {
@@ -3768,8 +3768,8 @@
   {
     "key": "offset_0006ada2_0",
     "original": "ノーブルブラウス",
-    "translation": "标准罩衫",
-    "stage": 0,
+    "translation": "高雅罩衫",
+    "stage": 1,
     "context": "机翻辅助：\n\n标准罩衫\n\n无罩衫"
   },
   {
@@ -3796,8 +3796,8 @@
   {
     "key": "offset_0006adfa_0",
     "original": "グリーンジャージ",
-    "translation": "绿色运动衫",
-    "stage": 0,
+    "translation": "绿色运动服",
+    "stage": 1,
     "context": "机翻辅助：\n\n绿色运动衫\n\n绿色运动服"
   },
   {
@@ -3831,22 +3831,22 @@
   {
     "key": "offset_0006ae68_0",
     "original": "ロングＴシャツ",
-    "translation": "长T恤",
-    "stage": 0,
+    "translation": "长款T恤",
+    "stage": 1,
     "context": "机翻辅助：\n\n长T恤"
   },
   {
     "key": "offset_0006ae7e_0",
     "original": "ソリッドシャツ",
-    "translation": "实心衬衫",
-    "stage": 0,
+    "translation": "纯色衬衫",
+    "stage": 1,
     "context": "机翻辅助：\n\n实心衬衫"
   },
   {
     "key": "offset_0006ae94_0",
     "original": "ロングボレロ",
-    "translation": "长筒靴",
-    "stage": 0,
+    "translation": "长款开襟外套",
+    "stage": 1,
     "context": "机翻辅助：\n\n长筒靴\n\n长波勒罗"
   },
   {
@@ -3859,36 +3859,36 @@
   {
     "key": "offset_0006aec0_0",
     "original": "フリルブラウス",
-    "translation": "褶边衬衫",
-    "stage": 0,
+    "translation": "荷叶边罩衫",
+    "stage": 1,
     "context": "机翻辅助：\n\n褶边衬衫\n\n荷叶边衬衫"
   },
   {
     "key": "offset_0006aed6_0",
     "original": "フリースベスト",
-    "translation": "羊毛背心",
-    "stage": 0,
+    "translation": "摇粒绒背心",
+    "stage": 1,
     "context": "机翻辅助：\n\n羊毛背心\n\n自由式背心"
   },
   {
     "key": "offset_0006aeec_0",
     "original": "犬用シルクウェア",
-    "translation": "狗用丝绸服装",
-    "stage": 0,
+    "translation": "犬用丝绸服装",
+    "stage": 1,
     "context": "机翻辅助：\n\n狗用丝绸服装\n\n狗用丝绸服"
   },
   {
     "key": "offset_0006af02_0",
     "original": "ジップパーカー",
-    "translation": "吉普帕克",
-    "stage": 0,
+    "translation": "拉链连帽衫",
+    "stage": 1,
     "context": "机翻辅助：\n\n吉普帕克\n\n连帽衫"
   },
   {
     "key": "offset_0006af18_0",
     "original": "ロングＰコート",
-    "translation": "长大衣",
-    "stage": 0,
+    "translation": "长款海军呢大衣",
+    "stage": 1,
     "context": "机翻辅助：\n\n长大衣\n\n长P型大衣"
   },
   {
@@ -3901,15 +3901,15 @@
   {
     "key": "offset_0006af44_0",
     "original": "モッズコート",
-    "translation": "摩斯涂层",
-    "stage": 0,
+    "translation": "摩斯大衣",
+    "stage": 1,
     "context": "机翻辅助：\n\n摩斯涂层\n\n毛兹大衣"
   },
   {
     "key": "offset_0006af86_0",
     "original": "ツインツイード",
-    "translation": "双粗花呢",
-    "stage": 0,
+    "translation": "双面粗花呢",
+    "stage": 1,
     "context": "机翻辅助：\n\n双粗花呢\n\n双花呢"
   },
   {
@@ -3922,120 +3922,120 @@
   {
     "key": "offset_0006b036_0",
     "original": "モノクル",
-    "translation": "整体",
-    "stage": 0,
+    "translation": "单片眼镜",
+    "stage": 1,
     "context": "机翻辅助：\n\n整体\n\nmonocle"
   },
   {
     "key": "offset_0006b04c_0",
     "original": "耐火の札",
-    "translation": "耐火的牌子",
-    "stage": 0,
+    "translation": "耐火符咒",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐火的牌子"
   },
   {
     "key": "offset_0006b062_0",
     "original": "耐氷の札",
-    "translation": "耐冰牌",
-    "stage": 0,
+    "translation": "耐冰符咒",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐冰牌\n\n耐冰的牌子"
   },
   {
     "key": "offset_0006b078_0",
     "original": "耐雷の札",
-    "translation": "耐雷牌",
-    "stage": 0,
+    "translation": "耐雷符咒",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐雷牌\n\n耐雷的牌子"
   },
   {
     "key": "offset_0006b08e_0",
     "original": "耐風の札",
-    "translation": "防风牌",
-    "stage": 0,
+    "translation": "耐风符咒",
+    "stage": 1,
     "context": "机翻辅助：\n\n防风牌\n\n抗风的牌子"
   },
   {
     "key": "offset_0006b0a4_0",
     "original": "赤い指輪",
-    "translation": "红色戒指",
-    "stage": 0,
+    "translation": "红色的戒指",
+    "stage": 1,
     "context": "机翻辅助：\n\n红色戒指"
   },
   {
     "key": "offset_0006b0ba_0",
     "original": "赤いバングル",
-    "translation": "红色手镯",
-    "stage": 0,
+    "translation": "红色的手镯",
+    "stage": 1,
     "context": "机翻辅助：\n\n红色手镯\n\n红头巾"
   },
   {
     "key": "offset_0006b0d0_0",
     "original": "黒い指輪",
-    "translation": "黑色戒指",
-    "stage": 0,
+    "translation": "黑色的戒指",
+    "stage": 1,
     "context": "机翻辅助：\n\n黑色戒指"
   },
   {
     "key": "offset_0006b0e6_0",
     "original": "黒いバングル",
-    "translation": "黑色手镯",
-    "stage": 0,
+    "translation": "黑色的手镯",
+    "stage": 1,
     "context": "机翻辅助：\n\n黑色手镯\n\n黑色头巾"
   },
   {
     "key": "offset_0006b0fc_0",
     "original": "白い指輪",
-    "translation": "白色戒指",
-    "stage": 0,
+    "translation": "白色的戒指",
+    "stage": 1,
     "context": "机翻辅助：\n\n白色戒指"
   },
   {
     "key": "offset_0006b112_0",
     "original": "白いバングル",
-    "translation": "白色手镯",
-    "stage": 0,
+    "translation": "白色的手镯",
+    "stage": 1,
     "context": "机翻辅助：\n\n白色手镯\n\n白色头巾"
   },
   {
     "key": "offset_0006b128_0",
     "original": "青い指輪",
-    "translation": "蓝色戒指",
-    "stage": 0,
+    "translation": "蓝色的戒指",
+    "stage": 1,
     "context": "机翻辅助：\n\n蓝色戒指"
   },
   {
     "key": "offset_0006b13e_0",
     "original": "青いバングル",
-    "translation": "蓝色手镯",
-    "stage": 0,
+    "translation": "蓝色的手镯",
+    "stage": 1,
     "context": "机翻辅助：\n\n蓝色手镯\n\n蓝色面包"
   },
   {
     "key": "offset_0006b154_0",
     "original": "金の指輪",
-    "translation": "金戒指",
-    "stage": 0,
+    "translation": "金色的戒指",
+    "stage": 1,
     "context": "机翻辅助：\n\n金戒指"
   },
   {
     "key": "offset_0006b16a_0",
     "original": "金のバングル",
-    "translation": "金手镯",
-    "stage": 0,
+    "translation": "金色的手镯",
+    "stage": 1,
     "context": "机翻辅助：\n\n金手镯\n\n金唱片"
   },
   {
     "key": "offset_0006b196_0",
     "original": "緋色の指輪",
-    "translation": "绯红色的戒指",
-    "stage": 0,
+    "translation": "绯色的戒指",
+    "stage": 1,
     "context": "机翻辅助：\n\n绯红色的戒指\n\n绯色的戒指"
   },
   {
     "key": "offset_0006b1ac_0",
     "original": "緋色のバングル",
-    "translation": "绯红色的手镯",
-    "stage": 0,
+    "translation": "绯色的手镯",
+    "stage": 1,
     "context": "机翻辅助：\n\n绯红色的手镯\n\n红色的乐章"
   },
   {
@@ -4069,15 +4069,15 @@
   {
     "key": "offset_0006b21a_0",
     "original": "青碧の指輪",
-    "translation": "蓝色的戒指",
-    "stage": 0,
+    "translation": "碧绿的戒指",
+    "stage": 1,
     "context": "机翻辅助：\n\n蓝色的戒指\n\n碧蓝的戒指"
   },
   {
     "key": "offset_0006b230_0",
     "original": "青碧のバングル",
-    "translation": "碧蓝的手镯",
-    "stage": 0,
+    "translation": "碧绿的手镯",
+    "stage": 1,
     "context": "机翻辅助：\n\n碧蓝的手镯"
   },
   {
@@ -4153,85 +4153,85 @@
   {
     "key": "offset_0006b34e_0",
     "original": "赤い鉢巻",
-    "translation": "红头巾",
-    "stage": 0,
+    "translation": "红色的头带",
+    "stage": 1,
     "context": "机翻辅助：\n\n红头巾"
   },
   {
     "key": "offset_0006b364_0",
     "original": "赤いブローチ",
-    "translation": "红色胸针",
-    "stage": 0,
+    "translation": "红色的胸针",
+    "stage": 1,
     "context": "机翻辅助：\n\n红色胸针\n\n红胸针"
   },
   {
     "key": "offset_0006b37a_0",
     "original": "黒い鉢巻",
-    "translation": "黑色头巾",
-    "stage": 0,
+    "translation": "黑色的头带",
+    "stage": 1,
     "context": "机翻辅助：\n\n黑色头巾"
   },
   {
     "key": "offset_0006b390_0",
     "original": "黒いブローチ",
-    "translation": "黑色胸针",
-    "stage": 0,
+    "translation": "黑色的胸针",
+    "stage": 1,
     "context": "机翻辅助：\n\n黑色胸针"
   },
   {
     "key": "offset_0006b3a6_0",
     "original": "白い鉢巻",
-    "translation": "白色的头巾",
-    "stage": 0,
+    "translation": "白色的头带",
+    "stage": 1,
     "context": "机翻辅助：\n\n白色的头巾\n\n白头巾"
   },
   {
     "key": "offset_0006b3bc_0",
     "original": "白いブローチ",
-    "translation": "白色胸针",
-    "stage": 0,
+    "translation": "白色的胸针",
+    "stage": 1,
     "context": "机翻辅助：\n\n白色胸针"
   },
   {
     "key": "offset_0006b3d2_0",
     "original": "青い鉢巻",
-    "translation": "蓝色的头巾",
-    "stage": 0,
+    "translation": "蓝色的头带",
+    "stage": 1,
     "context": "机翻辅助：\n\n蓝色的头巾\n\n蓝色头巾"
   },
   {
     "key": "offset_0006b3e8_0",
     "original": "青いブローチ",
-    "translation": "蓝色胸针",
-    "stage": 0,
+    "translation": "蓝色的胸针",
+    "stage": 1,
     "context": "机翻辅助：\n\n蓝色胸针"
   },
   {
     "key": "offset_0006b3fe_0",
     "original": "金の鉢巻",
-    "translation": "金头巾",
-    "stage": 0,
+    "translation": "金色的头带",
+    "stage": 1,
     "context": "机翻辅助：\n\n金头巾"
   },
   {
     "key": "offset_0006b414_0",
     "original": "金のブローチ",
-    "translation": "金胸针",
-    "stage": 0,
+    "translation": "金色的胸针",
+    "stage": 1,
     "context": "机翻辅助：\n\n金胸针"
   },
   {
     "key": "offset_0006b440_0",
     "original": "緋色の鉢巻",
-    "translation": "绯红色的头巾",
-    "stage": 0,
+    "translation": "绯色的头带",
+    "stage": 1,
     "context": "机翻辅助：\n\n绯红色的头巾\n\n绯色的头巾"
   },
   {
     "key": "offset_0006b456_0",
     "original": "緋色のブローチ",
-    "translation": "绯红色的胸针",
-    "stage": 0,
+    "translation": "绯色的胸针",
+    "stage": 1,
     "context": "机翻辅助：\n\n绯红色的胸针\n\n红色的胸针"
   },
   {
@@ -4272,8 +4272,8 @@
   {
     "key": "offset_0006b4da_0",
     "original": "青碧のブローチ",
-    "translation": "青碧胸针",
-    "stage": 0,
+    "translation": "碧绿的胸针",
+    "stage": 1,
     "context": "机翻辅助：\n\n青碧胸针\n\n碧蓝的胸针"
   },
   {
@@ -4300,15 +4300,15 @@
   {
     "key": "offset_0006b548_0",
     "original": "耐火のブローチ",
-    "translation": "耐火拉刀",
-    "stage": 0,
+    "translation": "耐火胸针",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐火拉刀\n\n耐火胸针"
   },
   {
     "key": "offset_0006b55e_0",
     "original": "耐氷の鉢巻",
-    "translation": "耐冰的头巾",
-    "stage": 0,
+    "translation": "耐冰头巾",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐冰的头巾"
   },
   {
@@ -4321,8 +4321,8 @@
   {
     "key": "offset_0006b58a_0",
     "original": "耐風の鉢巻",
-    "translation": "顶风头巾",
-    "stage": 0,
+    "translation": "耐风头巾",
+    "stage": 1,
     "context": "机翻辅助：\n\n顶风头巾\n\n抗风的头巾"
   },
   {
@@ -4335,8 +4335,8 @@
   {
     "key": "offset_0006b5b6_0",
     "original": "耐雷の鉢巻",
-    "translation": "耐雷的头巾",
-    "stage": 0,
+    "translation": "耐雷头巾",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐雷的头巾\n\n防雷的头巾"
   },
   {
@@ -4349,15 +4349,15 @@
   {
     "key": "offset_0006b5f8_0",
     "original": "緋色の帯",
-    "translation": "绯红色的带子",
-    "stage": 0,
+    "translation": "绯色的带子",
+    "stage": 1,
     "context": "机翻辅助：\n\n绯红色的带子\n\n绯色的带子"
   },
   {
     "key": "offset_0006b60e_0",
     "original": "緋色のチャーム",
-    "translation": "绯红色的魅力",
-    "stage": 0,
+    "translation": "绯色的小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n绯红色的魅力\n\n红色的饰物"
   },
   {
@@ -4370,8 +4370,8 @@
   {
     "key": "offset_0006b63a_0",
     "original": "漆黒のチャーム",
-    "translation": "漆黑的魅力",
-    "stage": 0,
+    "translation": "漆黑的小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n漆黑的魅力\n\n漆黑的饰物"
   },
   {
@@ -4384,8 +4384,8 @@
   {
     "key": "offset_0006b666_0",
     "original": "純白のチャーム",
-    "translation": "纯白的魅力",
-    "stage": 0,
+    "translation": "纯白的小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n纯白的魅力\n\n纯白的饰物"
   },
   {
@@ -4398,36 +4398,36 @@
   {
     "key": "offset_0006b692_0",
     "original": "青碧のチャーム",
-    "translation": "青碧的魅力",
-    "stage": 0,
+    "translation": "碧绿的小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n青碧的魅力\n\n碧绿的饰物"
   },
   {
     "key": "offset_0006b6a8_0",
     "original": "黄金の帯",
-    "translation": "黄金腰带",
-    "stage": 0,
+    "translation": "黄金带子",
+    "stage": 1,
     "context": "机翻辅助：\n\n黄金腰带"
   },
   {
     "key": "offset_0006b6be_0",
     "original": "黄金のチャーム",
-    "translation": "黄金的魅力",
-    "stage": 0,
+    "translation": "黄金小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n黄金的魅力\n\n黄金饰品"
   },
   {
     "key": "offset_0006b6ea_0",
     "original": "剛力の帯",
-    "translation": "刚力带",
-    "stage": 0,
+    "translation": "刚力带子",
+    "stage": 1,
     "context": "机翻辅助：\n\n刚力带\n\n刚强之带"
   },
   {
     "key": "offset_0006b700_0",
     "original": "剛力のチャーム",
-    "translation": "刚劲的魅力",
-    "stage": 0,
+    "translation": "刚力小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n刚劲的魅力\n\n刚强的魅力"
   },
   {
@@ -4440,64 +4440,64 @@
   {
     "key": "offset_0006b72c_0",
     "original": "神秘のチャーム",
-    "translation": "神秘的魅力",
-    "stage": 0,
+    "translation": "神秘的小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的魅力"
   },
   {
     "key": "offset_0006b742_0",
     "original": "鉄壁の帯",
-    "translation": "铁壁带",
-    "stage": 0,
+    "translation": "铁壁带子",
+    "stage": 1,
     "context": "机翻辅助：\n\n铁壁带\n\n铁壁之带"
   },
   {
     "key": "offset_0006b758_0",
     "original": "鉄壁のチャーム",
-    "translation": "铁壁的魅力",
-    "stage": 0,
+    "translation": "铁壁小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n铁壁的魅力\n\n铜墙铁壁的魅力"
   },
   {
     "key": "offset_0006b76e_0",
     "original": "敏速の帯",
-    "translation": "快带",
-    "stage": 0,
+    "translation": "敏捷带子",
+    "stage": 1,
     "context": "机翻辅助：\n\n快带\n\n敏捷的带子"
   },
   {
     "key": "offset_0006b784_0",
     "original": "敏速のチャーム",
-    "translation": "敏捷的魅力",
-    "stage": 0,
+    "translation": "敏捷小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n敏捷的魅力"
   },
   {
     "key": "offset_0006b79a_0",
     "original": "幸運の帯",
-    "translation": "幸运之带",
-    "stage": 0,
+    "translation": "幸运带子",
+    "stage": 1,
     "context": "机翻辅助：\n\n幸运之带\n\n幸运带"
   },
   {
     "key": "offset_0006b7b0_0",
     "original": "幸運のチャーム",
-    "translation": "幸运的魅力",
-    "stage": 0,
+    "translation": "幸运小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n幸运的魅力"
   },
   {
     "key": "offset_0006b7dc_0",
     "original": "緋色の眼帯",
-    "translation": "绯红的眼罩",
-    "stage": 0,
+    "translation": "绯色的眼罩",
+    "stage": 1,
     "context": "机翻辅助：\n\n绯红的眼罩\n\n绯色眼带"
   },
   {
     "key": "offset_0006b7f2_0",
     "original": "緋色のアンク",
-    "translation": "绯红色的安克",
-    "stage": 0,
+    "translation": "绯色的安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n绯红色的安克\n\n绯色的暗色"
   },
   {
@@ -4510,8 +4510,8 @@
   {
     "key": "offset_0006b81e_0",
     "original": "漆黒のアンク",
-    "translation": "漆黑的安克",
-    "stage": 0,
+    "translation": "漆黑的安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n漆黑的安克\n\n漆黑的黑暗"
   },
   {
@@ -4524,22 +4524,22 @@
   {
     "key": "offset_0006b84a_0",
     "original": "純白のアンク",
-    "translation": "纯白的安克",
-    "stage": 0,
+    "translation": "纯白的安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n纯白的安克\n\n纯白的暗色"
   },
   {
     "key": "offset_0006b860_0",
     "original": "青碧の眼帯",
-    "translation": "碧蓝的眼罩",
-    "stage": 0,
+    "translation": "碧绿的眼罩",
+    "stage": 1,
     "context": "机翻辅助：\n\n碧蓝的眼罩\n\n碧蓝的眼带"
   },
   {
     "key": "offset_0006b876_0",
     "original": "青碧のアンク",
-    "translation": "青碧的安克",
-    "stage": 0,
+    "translation": "碧绿的安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n青碧的安克\n\n碧绿的暗色"
   },
   {
@@ -4552,22 +4552,22 @@
   {
     "key": "offset_0006b8a2_0",
     "original": "黄金のアンク",
-    "translation": "黄金的安克",
-    "stage": 0,
+    "translation": "黄金安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n黄金的安克\n\n黄金的暗处"
   },
   {
     "key": "offset_0006b8ce_0",
     "original": "剛力の眼帯",
-    "translation": "刚劲的眼罩",
-    "stage": 0,
+    "translation": "刚力眼罩",
+    "stage": 1,
     "context": "机翻辅助：\n\n刚劲的眼罩\n\n刚力的眼带"
   },
   {
     "key": "offset_0006b8e4_0",
     "original": "剛力のアンク",
-    "translation": "刚力的安克",
-    "stage": 0,
+    "translation": "刚力安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n刚力的安克\n\n刚强的力量"
   },
   {
@@ -4580,8 +4580,8 @@
   {
     "key": "offset_0006b910_0",
     "original": "神秘のアンク",
-    "translation": "神秘的安克",
-    "stage": 0,
+    "translation": "神秘的安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的安克\n\n神秘的暗处"
   },
   {
@@ -4594,50 +4594,50 @@
   {
     "key": "offset_0006b93c_0",
     "original": "鉄壁のアンク",
-    "translation": "铁壁的锚",
-    "stage": 0,
+    "translation": "铁壁安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n铁壁的锚\n\n铜墙铁壁"
   },
   {
     "key": "offset_0006b952_0",
     "original": "敏速の眼帯",
-    "translation": "敏捷的眼罩",
-    "stage": 0,
+    "translation": "敏捷眼罩",
+    "stage": 1,
     "context": "机翻辅助：\n\n敏捷的眼罩"
   },
   {
     "key": "offset_0006b968_0",
     "original": "敏速のアンク",
-    "translation": "敏捷的安克",
-    "stage": 0,
+    "translation": "敏捷安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n敏捷的安克\n\n敏捷的暗记"
   },
   {
     "key": "offset_0006b97e_0",
     "original": "幸運の眼帯",
-    "translation": "幸运的眼罩",
-    "stage": 0,
+    "translation": "幸运眼罩",
+    "stage": 1,
     "context": "机翻辅助：\n\n幸运的眼罩\n\n幸运之眼"
   },
   {
     "key": "offset_0006b994_0",
     "original": "幸運のアンク",
-    "translation": "幸运的安克",
-    "stage": 0,
+    "translation": "幸运安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n幸运的安克\n\n幸运的暗影"
   },
   {
     "key": "offset_0006b9c0_0",
     "original": "緋色の勾玉",
-    "translation": "绯红色的勾玉",
-    "stage": 0,
+    "translation": "绯色的勾玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n绯红色的勾玉\n\n绯色勾玉"
   },
   {
     "key": "offset_0006b9d6_0",
     "original": "緋色のオーブ",
-    "translation": "绯红色的奥布",
-    "stage": 0,
+    "translation": "绯色的宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n绯红色的奥布\n\n绯色的奥布"
   },
   {
@@ -4650,8 +4650,8 @@
   {
     "key": "offset_0006ba02_0",
     "original": "漆黒のオーブ",
-    "translation": "漆黑的奥布",
-    "stage": 0,
+    "translation": "漆黑的宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n漆黑的奥布\n\n漆黑的椭圆形"
   },
   {
@@ -4664,8 +4664,8 @@
   {
     "key": "offset_0006ba2e_0",
     "original": "純白のオーブ",
-    "translation": "纯白的橄榄",
-    "stage": 0,
+    "translation": "纯白的宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n纯白的橄榄\n\n纯白的橡木"
   },
   {
@@ -4678,8 +4678,8 @@
   {
     "key": "offset_0006ba5a_0",
     "original": "青碧のオーブ",
-    "translation": "青碧的奥布",
-    "stage": 0,
+    "translation": "碧绿的宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n青碧的奥布\n\n碧蓝的奥布"
   },
   {
@@ -4692,22 +4692,22 @@
   {
     "key": "offset_0006ba86_0",
     "original": "黄金のオーブ",
-    "translation": "黄金的奥布",
-    "stage": 0,
+    "translation": "黄金宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n黄金的奥布\n\n黄金大钟"
   },
   {
     "key": "offset_0006bab2_0",
     "original": "剛力の勾玉",
-    "translation": "刚劲的勾玉",
-    "stage": 0,
+    "translation": "刚力勾玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n刚劲的勾玉\n\n刚强的勾玉"
   },
   {
     "key": "offset_0006bac8_0",
     "original": "剛力のオーブ",
-    "translation": "刚力的奥布",
-    "stage": 0,
+    "translation": "刚力宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n刚力的奥布\n\n刚强的力量"
   },
   {
@@ -4720,8 +4720,8 @@
   {
     "key": "offset_0006baf4_0",
     "original": "神秘のオーブ",
-    "translation": "神秘的奥布",
-    "stage": 0,
+    "translation": "神秘的宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的奥布"
   },
   {
@@ -4734,36 +4734,36 @@
   {
     "key": "offset_0006bb20_0",
     "original": "鉄壁のオーブ",
-    "translation": "铁壁的奥布",
-    "stage": 0,
+    "translation": "铁壁宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n铁壁的奥布\n\n铜墙铁壁"
   },
   {
     "key": "offset_0006bb36_0",
     "original": "敏速の勾玉",
-    "translation": "敏捷的勾玉",
-    "stage": 0,
+    "translation": "敏捷勾玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n敏捷的勾玉"
   },
   {
     "key": "offset_0006bb4c_0",
     "original": "敏速のオーブ",
-    "translation": "快球",
-    "stage": 0,
+    "translation": "敏捷宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n快球\n\n敏捷的奥布"
   },
   {
     "key": "offset_0006bb62_0",
     "original": "幸運の勾玉",
-    "translation": "幸运的勾玉",
-    "stage": 0,
+    "translation": "幸运勾玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n幸运的勾玉"
   },
   {
     "key": "offset_0006bb78_0",
     "original": "幸運のオーブ",
-    "translation": "幸运的奥布",
-    "stage": 0,
+    "translation": "幸运宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n幸运的奥布\n\n幸运之神"
   },
   {
@@ -4790,22 +4790,22 @@
   {
     "key": "offset_0006bbe6_0",
     "original": "耐念のバングル",
-    "translation": "耐念的手镯",
-    "stage": 0,
+    "translation": "耐念手镯",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐念的手镯\n\n耐念的片断"
   },
   {
     "key": "offset_0006bbfc_0",
     "original": "耐核の鉢巻",
-    "translation": "耐核的头巾",
-    "stage": 0,
+    "translation": "耐核头巾",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐核的头巾\n\n耐核头箍"
   },
   {
     "key": "offset_0006bc12_0",
     "original": "耐念の鉢巻",
-    "translation": "耐念的头巾",
-    "stage": 0,
+    "translation": "耐念头巾",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐念的头巾"
   },
   {
@@ -4839,15 +4839,15 @@
   {
     "key": "offset_0006bc96_0",
     "original": "守神ロザリオ",
-    "translation": "守护神罗萨里奥",
-    "stage": 0,
+    "translation": "守神念珠",
+    "stage": 1,
     "context": "机翻辅助：\n\n守护神罗萨里奥\n\n守灵念珠"
   },
   {
     "key": "offset_0006bcac_0",
     "original": "天馬のストラップ",
-    "translation": "天马挂件",
-    "stage": 0,
+    "translation": "天马挂绳",
+    "stage": 1,
     "context": "机翻辅助：\n\n天马挂件\n\n天马的挂件"
   },
   {
@@ -4860,8 +4860,8 @@
   {
     "key": "offset_0006bcd8_0",
     "original": "勇気の根付",
-    "translation": "勇气的根源",
-    "stage": 0,
+    "translation": "勇气坠饰",
+    "stage": 1,
     "context": "机翻辅助：\n\n勇气的根源"
   },
   {
@@ -4874,22 +4874,22 @@
   {
     "key": "offset_0006bd04_0",
     "original": "覇気の根付",
-    "translation": "霸气的根付",
-    "stage": 0,
+    "translation": "霸气坠饰",
+    "stage": 1,
     "context": "机翻辅助：\n\n霸气的根付\n\n霸气的根源"
   },
   {
     "key": "offset_0006bd1a_0",
     "original": "ミラクルポプリ",
-    "translation": "奇迹波普利",
-    "stage": 0,
+    "translation": "奇迹香包",
+    "stage": 1,
     "context": "机翻辅助：\n\n奇迹波普利\n\n香蒲里"
   },
   {
     "key": "offset_0006bd30_0",
     "original": "デルタドライブ",
-    "translation": "增量驱动器",
-    "stage": 0,
+    "translation": "德尔塔装置",
+    "stage": 1,
     "context": "机翻辅助：\n\n增量驱动器\n\n三角洲公路"
   },
   {
@@ -4909,15 +4909,15 @@
   {
     "key": "offset_0006bd72_0",
     "original": "ヨスガの勾玉",
-    "translation": "瑜伽勾玉",
-    "stage": 0,
+    "translation": "缘之勾玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n瑜伽勾玉\n\n余寿的勾玉"
   },
   {
     "key": "offset_0006bd88_0",
     "original": "シジマの勾玉",
-    "translation": "蚬贝的勾玉",
-    "stage": 0,
+    "translation": "寂之勾玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n蚬贝的勾玉\n\n四岛勾玉"
   },
   {
@@ -4944,15 +4944,15 @@
   {
     "key": "offset_0006bde0_0",
     "original": "超時短の手袋",
-    "translation": "超短时间的手套",
-    "stage": 0,
+    "translation": "超省时手套",
+    "stage": 1,
     "context": "机翻辅助：\n\n超短时间的手套\n\n短手套"
   },
   {
     "key": "offset_0006bdf6_0",
     "original": "超倍額の手袋",
-    "translation": "超倍的手套",
-    "stage": 0,
+    "translation": "超倍额手套",
+    "stage": 1,
     "context": "机翻辅助：\n\n超倍的手套\n\n超倍额手套"
   },
   {
@@ -5084,15 +5084,15 @@
   {
     "key": "offset_0006bf98_0",
     "original": "ハートチョーカー",
-    "translation": "心形扼流圈",
-    "stage": 0,
+    "translation": "心形颈链",
+    "stage": 1,
     "context": "机翻辅助：\n\n心形扼流圈\n\n哈特乔克"
   },
   {
     "key": "offset_0006bfae_0",
     "original": "ジュエリーネイル",
-    "translation": "美甲名称",
-    "stage": 0,
+    "translation": "宝石美甲",
+    "stage": 1,
     "context": "机翻辅助：\n\n美甲名称\n\n珠宝美甲"
   },
   {
@@ -5112,8 +5112,8 @@
   {
     "key": "offset_0006bff0_0",
     "original": "真紅のリボン",
-    "translation": "红蝴蝶结",
-    "stage": 0,
+    "translation": "红色蝴蝶结",
+    "stage": 1,
     "context": "机翻辅助：\n\n红蝴蝶结\n\n鲜红的蝴蝶结"
   },
   {
@@ -5133,8 +5133,8 @@
   {
     "key": "offset_0006c032_0",
     "original": "コロマルウィング",
-    "translation": "虎狼丸翼",
-    "stage": 0,
+    "translation": "虎狼丸翅膀",
+    "stage": 1,
     "context": "机翻辅助：\n\n虎狼丸翼\n\n虎狼圆翼"
   },
   {
@@ -5154,22 +5154,22 @@
   {
     "key": "offset_0006c074_0",
     "original": "ビーズのネックレス",
-    "translation": "珠子项链",
-    "stage": 0,
+    "translation": "串珠项链",
+    "stage": 1,
     "context": "机翻辅助：\n\n珠子项链\n\n串珠项链"
   },
   {
     "key": "offset_0006c08a_0",
     "original": "アクセ合体確認２",
-    "translation": "确认配件合体2",
-    "stage": 0,
+    "translation": "饰品合体确认2",
+    "stage": 1,
     "context": "机翻辅助：\n\n确认配件合体2\n\n确认合体2"
   },
   {
     "key": "offset_0006c0a0_0",
     "original": "アクセ合体確認１",
-    "translation": "确认配件合体1",
-    "stage": 0,
+    "translation": "饰品合体确认1",
+    "stage": 1,
     "context": "机翻辅助：\n\n确认配件合体1\n\n确认合体1"
   },
   {
@@ -5182,15 +5182,15 @@
   {
     "key": "offset_0006c0cc_0",
     "original": "火炎の誓願",
-    "translation": "火焰的誓愿",
-    "stage": 0,
+    "translation": "火炎誓愿",
+    "stage": 1,
     "context": "机翻辅助：\n\n火焰的誓愿"
   },
   {
     "key": "offset_0006c0e2_0",
     "original": "念動の誓願",
-    "translation": "誓愿",
-    "stage": 0,
+    "translation": "念动誓愿",
+    "stage": 1,
     "context": "机翻辅助：\n\n誓愿\n\n念动的誓愿"
   },
   {
@@ -5273,8 +5273,8 @@
   {
     "key": "offset_0006c1ea_0",
     "original": "力運反転リング",
-    "translation": "力运翻转戒指",
-    "stage": 0,
+    "translation": "力运反转戒指",
+    "stage": 1,
     "context": "机翻辅助：\n\n力运翻转戒指\n\n力运反转环"
   },
   {
@@ -5308,8 +5308,8 @@
   {
     "key": "offset_0006c258_0",
     "original": "耐運反転リング",
-    "translation": "耐运翻转戒指",
-    "stage": 0,
+    "translation": "耐运反转戒指",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐运翻转戒指\n\n抗运反转环\n\n耐运反转环"
   },
   {
@@ -5329,8 +5329,8 @@
   {
     "key": "offset_0006c29a_0",
     "original": "雪折不の翼",
-    "translation": "雪折之翼",
-    "stage": 0,
+    "translation": "耐雪之翼",
+    "stage": 1,
     "context": "机翻辅助：\n\n雪折之翼\n\n雪折不折的翅膀"
   },
   {
@@ -5364,15 +5364,15 @@
   {
     "key": "offset_0006c308_0",
     "original": "雷神の腕輪",
-    "translation": "雷神的手环",
-    "stage": 0,
+    "translation": "雷神手环",
+    "stage": 1,
     "context": "机翻辅助：\n\n雷神的手环\n\n雷神手镯"
   },
   {
     "key": "offset_0006c31e_0",
     "original": "白き光輪",
-    "translation": "白色光轮",
-    "stage": 0,
+    "translation": "白光之轮",
+    "stage": 1,
     "context": "机翻辅助：\n\n白色光轮\n\n白色光环"
   },
   {
@@ -5392,8 +5392,8 @@
   {
     "key": "offset_0006c360_0",
     "original": "鉄製のペンダント",
-    "translation": "铁制的项链",
-    "stage": 0,
+    "translation": "铁制坠饰",
+    "stage": 1,
     "context": "机翻辅助：\n\n铁制的项链\n\n铁制吊坠\n\n铁吊坠"
   },
   {
@@ -5413,43 +5413,43 @@
   {
     "key": "offset_0006c3a2_0",
     "original": "ゲルマニウムの輪",
-    "translation": "硅藻土戒指",
-    "stage": 0,
+    "translation": "锗之戒指",
+    "stage": 1,
     "context": "机翻辅助：\n\n硅藻土戒指\n\n锗环\n\n锗圈"
   },
   {
     "key": "offset_0006c3b8_0",
     "original": "体魂反転リング",
-    "translation": "体魂翻转戒指",
-    "stage": 0,
+    "translation": "体魂反转戒指",
+    "stage": 1,
     "context": "机翻辅助：\n\n体魂翻转戒指\n\n体魂反转环"
   },
   {
     "key": "offset_0006c3ce_0",
     "original": "てづくりの首輪",
-    "translation": "手工制作的项圈",
-    "stage": 0,
+    "translation": "手作项圈",
+    "stage": 1,
     "context": "机翻辅助：\n\n手工制作的项圈\n\n手工做的项圈"
   },
   {
     "key": "offset_0006c3e4_0",
     "original": "重いリストバンド",
-    "translation": "沉重的腕带",
-    "stage": 0,
+    "translation": "沉重护腕",
+    "stage": 1,
     "context": "机翻辅助：\n\n沉重的腕带"
   },
   {
     "key": "offset_0006c3fa_0",
     "original": "ピンクチョーカー",
-    "translation": "粉红巧克力",
-    "stage": 0,
+    "translation": "粉色的颈链",
+    "stage": 1,
     "context": "机翻辅助：\n\n粉红巧克力\n\n粉红chOKer"
   },
   {
     "key": "offset_0006c410_0",
     "original": "赤いかんざし",
-    "translation": "红簪子",
-    "stage": 0,
+    "translation": "红色的发簪",
+    "stage": 1,
     "context": "机翻辅助：\n\n红簪子"
   },
   {
@@ -5469,15 +5469,15 @@
   {
     "key": "offset_0006c452_0",
     "original": "集中の腕輪",
-    "translation": "集中的手镯",
-    "stage": 0,
+    "translation": "集中手镯",
+    "stage": 1,
     "context": "机翻辅助：\n\n集中的手镯\n\n专注的手镯"
   },
   {
     "key": "offset_0006c468_0",
     "original": "気合の腕輪",
-    "translation": "气势的手镯",
-    "stage": 0,
+    "translation": "气势手镯",
+    "stage": 1,
     "context": "机翻辅助：\n\n气势的手镯\n\n气势磅礴的手镯"
   },
   {
@@ -5490,22 +5490,22 @@
   {
     "key": "offset_0006c494_0",
     "original": "睡ｘ１０",
-    "translation": "睡眠x10",
-    "stage": 0,
+    "translation": "睡x10",
+    "stage": 1,
     "context": "机翻辅助：\n\n睡眠x10\n\n睡x10"
   },
   {
     "key": "offset_0006c4aa_0",
     "original": "呪ｘ１０",
-    "translation": "诅咒x10",
-    "stage": 0,
+    "translation": "咒x10",
+    "stage": 1,
     "context": "机翻辅助：\n\n诅咒x10\n\n咒文x10"
   },
   {
     "key": "offset_0006c4c0_0",
     "original": "石ｘ１０",
-    "translation": "石头x10",
-    "stage": 0,
+    "translation": "石x10",
+    "stage": 1,
     "context": "机翻辅助：\n\n石头x10\n\n石x10"
   },
   {
@@ -5539,29 +5539,29 @@
   {
     "key": "offset_0006c52e_0",
     "original": "速ｘ１０",
-    "translation": "速度x10",
-    "stage": 0,
+    "translation": "速x10",
+    "stage": 1,
     "context": "机翻辅助：\n\n速度x10\n\n速x10"
   },
   {
     "key": "offset_0006c544_0",
     "original": "運ｘ１０",
-    "translation": "运气x10",
-    "stage": 0,
+    "translation": "运x10",
+    "stage": 1,
     "context": "机翻辅助：\n\n运气x10\n\n运x10"
   },
   {
     "key": "offset_0006c55a_0",
     "original": "命ｘ１０",
-    "translation": "生命x10",
-    "stage": 0,
+    "translation": "命x10",
+    "stage": 1,
     "context": "机翻辅助：\n\n生命x10"
   },
   {
     "key": "offset_0006c570_0",
     "original": "クｘ１０",
-    "translation": "10个",
-    "stage": 0,
+    "translation": "x10",
+    "stage": 1,
     "context": "机翻辅助：\n\n10个\n\nx10"
   },
   {
@@ -5574,15 +5574,15 @@
   {
     "key": "offset_0006c59c_0",
     "original": "光ｘ１０",
-    "translation": "10个光",
-    "stage": 0,
+    "translation": "光x10",
+    "stage": 1,
     "context": "机翻辅助：\n\n10个光\n\n光x10"
   },
   {
     "key": "offset_0006c5b2_0",
     "original": "闇ｘ１０",
-    "translation": "10个黑暗",
-    "stage": 0,
+    "translation": "暗x10",
+    "stage": 1,
     "context": "机翻辅助：\n\n10个黑暗\n\n黑暗x10"
   },
   {
@@ -5595,22 +5595,22 @@
   {
     "key": "offset_0006c5de_0",
     "original": "壊ｘ１０",
-    "translation": "损坏x10",
-    "stage": 0,
+    "translation": "坏x10",
+    "stage": 1,
     "context": "机翻辅助：\n\n损坏x10\n\n坏x10"
   },
   {
     "key": "offset_0006c5f4_0",
     "original": "突ｘ１０",
-    "translation": "碰撞x10",
-    "stage": 0,
+    "translation": "突x10",
+    "stage": 1,
     "context": "机翻辅助：\n\n碰撞x10\n\n突x10"
   },
   {
     "key": "offset_0006c620_0",
     "original": "消耗品枠開始",
-    "translation": "开始消耗品框架",
-    "stage": 0,
+    "translation": "消耗品栏目开始",
+    "stage": 1,
     "context": "机翻辅助：\n\n开始消耗品框架\n\n消耗品限额开始"
   },
   {
@@ -5623,15 +5623,15 @@
   {
     "key": "offset_0006c64c_0",
     "original": "未使用枠",
-    "translation": "未使用的框架",
-    "stage": 0,
+    "translation": "未使用栏目",
+    "stage": 1,
     "context": "机翻辅助：\n\n未使用的框架"
   },
   {
     "key": "offset_0006c662_0",
     "original": "未使用枠",
-    "translation": "未使用的框架",
-    "stage": 0,
+    "translation": "未使用栏目",
+    "stage": 1,
     "context": "机翻辅助：\n\n未使用的框架"
   },
   {
@@ -5665,8 +5665,8 @@
   {
     "key": "offset_0006c6d0_0",
     "original": "未使用枠",
-    "translation": "未使用的框架",
-    "stage": 0,
+    "translation": "未使用栏目",
+    "stage": 1,
     "context": "机翻辅助：\n\n未使用的框架"
   },
   {
@@ -5686,8 +5686,8 @@
   {
     "key": "offset_0006c712_0",
     "original": "未使用枠",
-    "translation": "未使用的框架",
-    "stage": 0,
+    "translation": "未使用栏目",
+    "stage": 1,
     "context": "机翻辅助：\n\n未使用的框架"
   },
   {
@@ -5707,15 +5707,15 @@
   {
     "key": "offset_0006c754_0",
     "original": "未使用枠",
-    "translation": "未使用的框架",
-    "stage": 0,
+    "translation": "未使用栏目",
+    "stage": 1,
     "context": "机翻辅助：\n\n未使用的框架"
   },
   {
     "key": "offset_0006c76a_0",
     "original": "未使用枠",
-    "translation": "未使用的框架",
-    "stage": 0,
+    "translation": "未使用栏目",
+    "stage": 1,
     "context": "机翻辅助：\n\n未使用的框架"
   },
   {
@@ -5728,8 +5728,8 @@
   {
     "key": "offset_0006c796_0",
     "original": "未使用枠",
-    "translation": "未使用的框架",
-    "stage": 0,
+    "translation": "未使用栏目",
+    "stage": 1,
     "context": "机翻辅助：\n\n未使用的框架"
   },
   {
@@ -5798,22 +5798,22 @@
   {
     "key": "offset_0006c888_0",
     "original": "耐風ミスト",
-    "translation": "耐风迷雾",
-    "stage": 0,
+    "translation": "耐风喷雾",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐风迷雾\n\n抗风喷雾\n\n抗风雾"
   },
   {
     "key": "offset_0006c89e_0",
     "original": "耐核ミスト",
-    "translation": "耐核迷雾",
-    "stage": 0,
+    "translation": "耐核喷雾",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐核迷雾\n\n耐核雾"
   },
   {
     "key": "offset_0006c8b4_0",
     "original": "耐念ミスト",
-    "translation": "耐念迷雾",
-    "stage": 0,
+    "translation": "耐念喷雾",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐念迷雾\n\n耐念喷雾\n\n耐念雾"
   },
   {
@@ -5959,8 +5959,8 @@
   {
     "key": "offset_0006cada_0",
     "original": "未使用枠",
-    "translation": "未使用的框架",
-    "stage": 0,
+    "translation": "未使用栏目",
+    "stage": 1,
     "context": "机翻辅助：\n\n未使用的框架"
   },
   {
@@ -5987,15 +5987,15 @@
   {
     "key": "offset_0006cb32_0",
     "original": "カエリマクレール",
-    "translation": "卡利麦克莱尔",
-    "stage": 0,
+    "translation": "无限回家轨道",
+    "stage": 1,
     "context": "机翻辅助：\n\n卡利麦克莱尔\n\n归来的麦克莱尔"
   },
   {
     "key": "offset_0006cb48_0",
     "original": "モドリマクレール",
-    "translation": "莫德利马克轨道",
-    "stage": 0,
+    "translation": "无限返回轨道",
+    "stage": 1,
     "context": "机翻辅助：\n\n莫德利马克轨道\n\n回来吧，麦克莱尔"
   },
   {
@@ -6022,8 +6022,8 @@
   {
     "key": "offset_0006cba0_0",
     "original": "未使用枠",
-    "translation": "未使用的框架",
-    "stage": 0,
+    "translation": "未使用栏目",
+    "stage": 1,
     "context": "机翻辅助：\n\n未使用的框架"
   },
   {
@@ -6064,8 +6064,8 @@
   {
     "key": "offset_0006cc24_0",
     "original": "無料チケット",
-    "translation": "免费票",
-    "stage": 0,
+    "translation": "免费电影票",
+    "stage": 1,
     "context": "机翻辅助：\n\n免费票\n\n免费门票"
   },
   {
@@ -6078,8 +6078,8 @@
   {
     "key": "offset_0006cc50_0",
     "original": "ラインヒールストーン",
-    "translation": "线脚石",
-    "stage": 0,
+    "translation": "队列治愈石",
+    "stage": 1,
     "context": "机翻辅助：\n\n线脚石\n\n莱因霍石"
   },
   {
@@ -6183,8 +6183,8 @@
   {
     "key": "offset_0006cdc6_0",
     "original": "クリーンボトル",
-    "translation": "清洁喷雾",
-    "stage": 0,
+    "translation": "清洁水瓶",
+    "stage": 1,
     "context": "机翻辅助：\n\n清洁喷雾\n\n净瓶\n\n清洁瓶"
   },
   {
@@ -6232,22 +6232,22 @@
   {
     "key": "offset_0006dc0a_0",
     "original": "ルブランカレー×３",
-    "translation": "咖喱咖喱×3",
-    "stage": 0,
+    "translation": "卢布朗咖喱×3",
+    "stage": 1,
     "context": "机翻辅助：\n\n咖喱咖喱×3\n\n勒布兰咖喱× 3"
   },
   {
     "key": "offset_0006dc20_0",
     "original": "貴重品枠開始",
-    "translation": "贵重物品框开始",
-    "stage": 0,
+    "translation": "贵重物品栏目开始",
+    "stage": 1,
     "context": "机翻辅助：\n\n贵重物品框开始\n\n贵重物品限额开始"
   },
   {
     "key": "offset_0006dc36_0",
     "original": "パンフレット",
-    "translation": "小册子",
-    "stage": 0,
+    "translation": "手册",
+    "stage": 1,
     "context": "机翻辅助：\n\n小册子"
   },
   {
@@ -6267,8 +6267,8 @@
   {
     "key": "offset_0006dc78_0",
     "original": "アンモナイトの絵",
-    "translation": "鹦鹉螺的画",
-    "stage": 0,
+    "translation": "菊石的画",
+    "stage": 1,
     "context": "机翻辅助：\n\n鹦鹉螺的画\n\n菊石画"
   },
   {
@@ -6281,8 +6281,8 @@
   {
     "key": "offset_0006dca4_0",
     "original": "新作ポップコーン",
-    "translation": "新的爆米花",
-    "stage": 0,
+    "translation": "新品爆米花",
+    "stage": 1,
     "context": "机翻辅助：\n\n新的爆米花\n\n新爆米花"
   },
   {
@@ -6309,15 +6309,15 @@
   {
     "key": "offset_0006dcfc_0",
     "original": "特製マッスル弁当",
-    "translation": "特制马苏尔便当",
-    "stage": 0,
+    "translation": "特制肌肉便当",
+    "stage": 1,
     "context": "机翻辅助：\n\n特制马苏尔便当\n\n特制肌肉便当"
   },
   {
     "key": "offset_0006dd12_0",
     "original": "手書きの予告状",
-    "translation": "手写预告",
-    "stage": 0,
+    "translation": "手写预告信",
+    "stage": 1,
     "context": "机翻辅助：\n\n手写预告\n\n手写的预告信"
   },
   {
@@ -6344,8 +6344,8 @@
   {
     "key": "offset_0006dd6a_0",
     "original": "壊れたロボのネジ",
-    "translation": "坏掉的机器人螺丝",
-    "stage": 0,
+    "translation": "坏掉的机器人的螺丝",
+    "stage": 1,
     "context": "机翻辅助：\n\n坏掉的机器人螺丝\n\n坏掉的机器人的螺丝"
   },
   {
@@ -6407,8 +6407,8 @@
   {
     "key": "offset_0006de30_0",
     "original": "おもちゃのカチンコ",
-    "translation": "玩具发箍",
-    "stage": 0,
+    "translation": "玩具场记板",
+    "stage": 1,
     "context": "机翻辅助：\n\n玩具发箍\n\n玩具童子军"
   },
   {
@@ -6421,15 +6421,15 @@
   {
     "key": "offset_0006de5c_0",
     "original": "古代の釣り餌",
-    "translation": "古代的钓饵",
-    "stage": 0,
+    "translation": "古代钓饵",
+    "stage": 1,
     "context": "机翻辅助：\n\n古代的钓饵"
   },
   {
     "key": "offset_0006de72_0",
     "original": "絆の力",
-    "translation": "羁绊的力量",
-    "stage": 0,
+    "translation": "牵绊的力量",
+    "stage": 1,
     "context": "机翻辅助：\n\n羁绊的力量"
   },
   {
@@ -6470,8 +6470,8 @@
   {
     "key": "offset_0006def6_0",
     "original": "古代の釣り餌",
-    "translation": "古代的钓饵",
-    "stage": 0,
+    "translation": "古代钓饵",
+    "stage": 1,
     "context": "机翻辅助：\n\n古代的钓饵"
   },
   {
@@ -6484,64 +6484,64 @@
   {
     "key": "offset_0006e106_0",
     "original": "カップオブエース",
-    "translation": "王牌奖杯",
-    "stage": 0,
+    "translation": "圣杯Ace",
+    "stage": 1,
     "context": "机翻辅助：\n\n王牌奖杯\n\n王牌杯"
   },
   {
     "key": "offset_0006e11c_0",
     "original": "ワンドオブエース",
-    "translation": "王牌之王",
-    "stage": 0,
+    "translation": "权杖Ace",
+    "stage": 1,
     "context": "机翻辅助：\n\n王牌之王\n\n王牌一号"
   },
   {
     "key": "offset_0006e132_0",
     "original": "ソードオブエース",
-    "translation": "王牌投手",
-    "stage": 0,
+    "translation": "宝剑Ace",
+    "stage": 1,
     "context": "机翻辅助：\n\n王牌投手\n\n尖刀剑"
   },
   {
     "key": "offset_0006e148_0",
     "original": "コインオブエース",
-    "translation": "王牌硬币",
-    "stage": 0,
+    "translation": "星币Ace",
+    "stage": 1,
     "context": "机翻辅助：\n\n王牌硬币\n\ncoin of ace"
   },
   {
     "key": "offset_0006e15e_0",
     "original": "光るフィルム",
-    "translation": "发光胶片",
-    "stage": 0,
+    "translation": "发光的胶片",
+    "stage": 1,
     "context": "机翻辅助：\n\n发光胶片\n\n发光的胶片"
   },
   {
     "key": "offset_0006e174_0",
     "original": "光るフィルム",
-    "translation": "发光胶片",
-    "stage": 0,
+    "translation": "发光的胶片",
+    "stage": 1,
     "context": "机翻辅助：\n\n发光胶片\n\n发光的胶片"
   },
   {
     "key": "offset_0006e18a_0",
     "original": "光るフィルム",
-    "translation": "发光胶片",
-    "stage": 0,
+    "translation": "发光的胶片",
+    "stage": 1,
     "context": "机翻辅助：\n\n发光胶片\n\n发光的胶片"
   },
   {
     "key": "offset_0006e1a0_0",
     "original": "光るフィルム",
-    "translation": "发光胶片",
-    "stage": 0,
+    "translation": "发光的胶片",
+    "stage": 1,
     "context": "机翻辅助：\n\n发光胶片\n\n发光的胶片"
   },
   {
     "key": "offset_0006e1b6_0",
     "original": "光るフィルム",
-    "translation": "发光胶片",
-    "stage": 0,
+    "translation": "发光的胶片",
+    "stage": 1,
     "context": "机翻辅助：\n\n发光胶片\n\n发光的胶片"
   },
   {
@@ -6575,15 +6575,15 @@
   {
     "key": "offset_0006e250_0",
     "original": "罪人のカノプス壺",
-    "translation": "罪人的卡诺普斯壶",
-    "stage": 0,
+    "translation": "罪人的卡诺匹斯罐",
+    "stage": 1,
     "context": "机翻辅助：\n\n罪人的卡诺普斯壶\n\n罪人卡诺普斯壶"
   },
   {
     "key": "offset_0006e266_0",
     "original": "大国主の穂",
-    "translation": "大国主之穗",
-    "stage": 0,
+    "translation": "大国主的穗",
+    "stage": 1,
     "context": "机翻辅助：\n\n大国主之穗\n\n大国主的穗"
   },
   {
@@ -6603,15 +6603,15 @@
   {
     "key": "offset_0006e2a8_0",
     "original": "噴火山の女王蛙",
-    "translation": "喷火女王蛙",
-    "stage": 0,
+    "translation": "活火山的女王蛙",
+    "stage": 1,
     "context": "机翻辅助：\n\n喷火女王蛙\n\n火山女王青蛙"
   },
   {
     "key": "offset_0006e2be_0",
     "original": "グレイプニール",
-    "translation": "格雷普尼尔",
-    "stage": 0,
+    "translation": "格莱普尼尔",
+    "stage": 1,
     "context": "机翻辅助：\n\n格雷普尼尔\n\n灰尼尔"
   },
   {
@@ -6652,8 +6652,8 @@
   {
     "key": "offset_0006e342_0",
     "original": "鬼狩人の白布",
-    "translation": "鬼猎人的白布",
-    "stage": 0,
+    "translation": "吸血鬼猎人的白布",
+    "stage": 1,
     "context": "机翻辅助：\n\n鬼猎人的白布"
   },
   {
@@ -6666,15 +6666,15 @@
   {
     "key": "offset_0006e36e_0",
     "original": "絶対者の衣冠",
-    "translation": "绝对者的衣冠",
-    "stage": 0,
+    "translation": "至高者的衣冠",
+    "stage": 1,
     "context": "机翻辅助：\n\n绝对者的衣冠"
   },
   {
     "key": "offset_0006e384_0",
     "original": "魔王のマガタマ",
-    "translation": "魔王的马加塔",
-    "stage": 0,
+    "translation": "魔王的勾玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n魔王的马加塔\n\n魔王的鬼脸"
   },
   {
@@ -6694,29 +6694,29 @@
   {
     "key": "offset_0006e3c6_0",
     "original": "運命のルーン",
-    "translation": "命运的鲁恩",
-    "stage": 0,
+    "translation": "命运的卢恩符文",
+    "stage": 1,
     "context": "机翻辅助：\n\n命运的鲁恩\n\n命运之符文"
   },
   {
     "key": "offset_0006e3dc_0",
     "original": "四騎士の紋章",
-    "translation": "四骑士的徽章",
-    "stage": 0,
+    "translation": "四骑士纹章",
+    "stage": 1,
     "context": "机翻辅助：\n\n四骑士的徽章\n\n四骑士纹章"
   },
   {
     "key": "offset_0006e3f2_0",
     "original": "破壊神の曼荼羅",
-    "translation": "破坏神的曼陀罗",
-    "stage": 0,
+    "translation": "破坏神曼荼羅",
+    "stage": 1,
     "context": "机翻辅助：\n\n破坏神的曼陀罗\n\n破坏神曼荼罗"
   },
   {
     "key": "offset_0006e408_0",
     "original": "暴食の烙印",
-    "translation": "暴食的烙印",
-    "stage": 0,
+    "translation": "暴食烙印",
+    "stage": 1,
     "context": "机翻辅助：\n\n暴食的烙印"
   },
   {
@@ -6743,29 +6743,29 @@
   {
     "key": "offset_0006e460_0",
     "original": "全書引出し割引証１",
-    "translation": "全书提款折扣证1",
-    "stage": 0,
+    "translation": "全书抽出折扣证1",
+    "stage": 1,
     "context": "机翻辅助：\n\n全书提款折扣证1\n\n全书引用折扣证1"
   },
   {
     "key": "offset_0006e476_0",
     "original": "全書引出し割引証２",
-    "translation": "全书提款折扣证2",
-    "stage": 0,
+    "translation": "全书抽出折扣证2",
+    "stage": 1,
     "context": "机翻辅助：\n\n全书提款折扣证2\n\n全书引用折扣证2"
   },
   {
     "key": "offset_0006e48c_0",
     "original": "全書引出し割引証３",
-    "translation": "全书提款折扣证3",
-    "stage": 0,
+    "translation": "全书抽出折扣证3",
+    "stage": 1,
     "context": "机翻辅助：\n\n全书提款折扣证3\n\n全书引用折扣证3"
   },
   {
     "key": "offset_0006e4a2_0",
     "original": "全書引出し割引証４",
-    "translation": "全书提款折扣证4",
-    "stage": 0,
+    "translation": "全书抽出折扣证4",
+    "stage": 1,
     "context": "机翻辅助：\n\n全书提款折扣证4\n\n全书引用折扣证4"
   },
   {
@@ -6785,43 +6785,43 @@
   {
     "key": "offset_0006e4e4_0",
     "original": "お得意様券",
-    "translation": "顾客券",
-    "stage": 0,
+    "translation": "老顾客券",
+    "stage": 1,
     "context": "机翻辅助：\n\n顾客券\n\n客户券"
   },
   {
     "key": "offset_0006e4fa_0",
     "original": "都市のトレジャー地図",
-    "translation": "城市休闲地图",
-    "stage": 0,
+    "translation": "城市的藏宝图",
+    "stage": 1,
     "context": "机翻辅助：\n\n城市休闲地图\n\n都市ー地图"
   },
   {
     "key": "offset_0006e510_0",
     "original": "密林のトレジャー地図",
-    "translation": "密林的宝物地图",
-    "stage": 0,
+    "translation": "密林的藏宝图",
+    "stage": 1,
     "context": "机翻辅助：\n\n密林的宝物地图\n\n丛林宝藏地图"
   },
   {
     "key": "offset_0006e526_0",
     "original": "ラボのトレジャー地図",
-    "translation": "实验室的宝物地图",
-    "stage": 0,
+    "translation": "实验室的藏宝图",
+    "stage": 1,
     "context": "机翻辅助：\n\n实验室的宝物地图\n\n实验室的宝藏地图"
   },
   {
     "key": "offset_0006e53c_0",
     "original": "演劇のトレジャー地図",
-    "translation": "戏剧的巨无霸地图",
-    "stage": 0,
+    "translation": "戏剧的藏宝图",
+    "stage": 1,
     "context": "机翻辅助：\n\n戏剧的巨无霸地图\n\n戏剧的寻宝地图"
   },
   {
     "key": "offset_0006e552_0",
     "original": "映画のトレジャー地図",
-    "translation": "电影海报",
-    "stage": 0,
+    "translation": "电影的藏宝图",
+    "stage": 1,
     "context": "机翻辅助：\n\n电影海报\n\n电影中的寻宝地图"
   },
   {
@@ -6862,36 +6862,36 @@
   {
     "key": "offset_0006e5ec_0",
     "original": "既知の機構",
-    "translation": "已知机制",
-    "stage": 0,
+    "translation": "已知的机关",
+    "stage": 1,
     "context": "机翻辅助：\n\n已知机制\n\n已知的机构"
   },
   {
     "key": "offset_0006e602_0",
     "original": "既知の機構",
-    "translation": "已知机制",
-    "stage": 0,
+    "translation": "已知的机关",
+    "stage": 1,
     "context": "机翻辅助：\n\n已知机制\n\n已知的机构"
   },
   {
     "key": "offset_0006e618_0",
     "original": "未知の機構",
-    "translation": "未知的机构",
-    "stage": 0,
+    "translation": "未知的机关",
+    "stage": 1,
     "context": "机翻辅助：\n\n未知的机构"
   },
   {
     "key": "offset_0006e62e_0",
     "original": "未知の機構",
-    "translation": "未知的机构",
-    "stage": 0,
+    "translation": "未知的机关",
+    "stage": 1,
     "context": "机翻辅助：\n\n未知的机构"
   },
   {
     "key": "offset_0006e644_0",
     "original": "未知の機構",
-    "translation": "未知的机构",
-    "stage": 0,
+    "translation": "未知的机关",
+    "stage": 1,
     "context": "机翻辅助：\n\n未知的机构"
   },
   {
@@ -6925,36 +6925,36 @@
   {
     "key": "offset_0006e6b2_0",
     "original": "ツタ薬草",
-    "translation": "爬山虎草药",
-    "stage": 0,
+    "translation": "常春藤药草",
+    "stage": 1,
     "context": "机翻辅助：\n\n爬山虎草药\n\n常春藤草药"
   },
   {
     "key": "offset_0006e6c8_0",
     "original": "ツタ薬草",
-    "translation": "爬山虎草药",
-    "stage": 0,
+    "translation": "常春藤药草",
+    "stage": 1,
     "context": "机翻辅助：\n\n爬山虎草药\n\n常春藤草药"
   },
   {
     "key": "offset_0006ed50_0",
     "original": "パトスレコーダー",
-    "translation": "警报器",
-    "stage": 0,
+    "translation": "诗歌录音机",
+    "stage": 1,
     "context": "机翻辅助：\n\n警报器\n\n推杆记录器"
   },
   {
     "key": "offset_0006f220_0",
     "original": "素材を全部売る",
-    "translation": "把材料全部卖掉",
-    "stage": 0,
+    "translation": "出售所有材料",
+    "stage": 1,
     "context": "机翻辅助：\n\n把材料全部卖掉"
   },
   {
     "key": "offset_0006f236_0",
     "original": "壊れた携帯電話",
-    "translation": "坏了的手机",
-    "stage": 0,
+    "translation": "损坏的手机",
+    "stage": 1,
     "context": "机翻辅助：\n\n坏了的手机"
   },
   {
@@ -6974,36 +6974,36 @@
   {
     "key": "offset_0006f278_0",
     "original": "正義のフィギュア",
-    "translation": "正义的手办",
-    "stage": 0,
+    "translation": "正义手办",
+    "stage": 1,
     "context": "机翻辅助：\n\n正义的手办\n\n正义的人偶"
   },
   {
     "key": "offset_0006f28e_0",
     "original": "マーヤの粉末",
-    "translation": "玛雅粉末",
-    "stage": 0,
+    "translation": "魔影的粉末",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛雅粉末\n\n麻子粉末"
   },
   {
     "key": "offset_0006f2a4_0",
     "original": "マーヤの魔石",
-    "translation": "玛雅魔石",
-    "stage": 0,
+    "translation": "魔影的魔石",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛雅魔石\n\n玛亚的魔石"
   },
   {
     "key": "offset_0006f2ba_0",
     "original": "バザルトの小石",
-    "translation": "玄武岩小石头",
-    "stage": 0,
+    "translation": "玄武岩的小石块",
+    "stage": 1,
     "context": "机翻辅助：\n\n玄武岩小石头\n\n玄武岩的小石子"
   },
   {
     "key": "offset_0006f2d0_0",
     "original": "バザルトの魔石",
-    "translation": "玄武岩魔石",
-    "stage": 0,
+    "translation": "玄武岩的魔石",
+    "stage": 1,
     "context": "机翻辅助：\n\n玄武岩魔石"
   },
   {
@@ -7016,43 +7016,43 @@
   {
     "key": "offset_0006f2fc_0",
     "original": "テーブルの魔石",
-    "translation": "桌子上的魔石",
-    "stage": 0,
+    "translation": "桌子的魔石",
+    "stage": 1,
     "context": "机翻辅助：\n\n桌子上的魔石\n\n桌子魔石"
   },
   {
     "key": "offset_0006f312_0",
     "original": "アブルリーの小殻",
-    "translation": "牛虻的小壳",
-    "stage": 0,
+    "translation": "夸口者的小壳",
+    "stage": 1,
     "context": "机翻辅助：\n\n牛虻的小壳\n\n阿勃里的小壳"
   },
   {
     "key": "offset_0006f328_0",
     "original": "アブルリーの魔石",
-    "translation": "阿布鲁利的魔石",
-    "stage": 0,
+    "translation": "夸口者的魔石",
+    "stage": 1,
     "context": "机翻辅助：\n\n阿布鲁利的魔石\n\n阿布里魔石"
   },
   {
     "key": "offset_0006f33e_0",
     "original": "バランサーの鎖",
-    "translation": "平衡器的锁链",
-    "stage": 0,
+    "translation": "天秤的锁链",
+    "stage": 1,
     "context": "机翻辅助：\n\n平衡器的锁链\n\n平衡器链"
   },
   {
     "key": "offset_0006f354_0",
     "original": "バランサーの魔石",
-    "translation": "平衡器的魔石",
-    "stage": 0,
+    "translation": "天秤的魔石",
+    "stage": 1,
     "context": "机翻辅助：\n\n平衡器的魔石\n\n平衡者之魔石"
   },
   {
     "key": "offset_0006f36a_0",
     "original": "聖典の古紙",
-    "translation": "古纸圣典",
-    "stage": 0,
+    "translation": "圣典的旧页",
+    "stage": 1,
     "context": "机翻辅助：\n\n古纸圣典\n\n圣典的旧纸"
   },
   {
@@ -7065,29 +7065,29 @@
   {
     "key": "offset_0006f396_0",
     "original": "ファズの手錠",
-    "translation": "法兹手铐",
-    "stage": 0,
+    "translation": "警察的手铐",
+    "stage": 1,
     "context": "机翻辅助：\n\n法兹手铐\n\n法斯的手铐"
   },
   {
     "key": "offset_0006f3ac_0",
     "original": "ファズの魔石",
-    "translation": "法兹魔石",
-    "stage": 0,
+    "translation": "警察的魔石",
+    "stage": 1,
     "context": "机翻辅助：\n\n法兹魔石\n\n法斯之魔石"
   },
   {
     "key": "offset_0006f3c2_0",
     "original": "キングの髭",
-    "translation": "国王的胡须",
-    "stage": 0,
+    "translation": "王的胡须",
+    "stage": 1,
     "context": "机翻辅助：\n\n国王的胡须"
   },
   {
     "key": "offset_0006f3d8_0",
     "original": "キングの魔石",
-    "translation": "王者魔石",
-    "stage": 0,
+    "translation": "王的魔石",
+    "stage": 1,
     "context": "机翻辅助：\n\n王者魔石\n\n国王的魔石"
   },
   {
@@ -7114,71 +7114,71 @@
   {
     "key": "offset_0006f430_0",
     "original": "塔の魔石",
-    "translation": "塔之魔石",
-    "stage": 0,
+    "translation": "塔的魔石",
+    "stage": 1,
     "context": "机翻辅助：\n\n塔之魔石"
   },
   {
     "key": "offset_0006f446_0",
     "original": "ギガスのタイツ",
-    "translation": "吉格斯紧身裤",
-    "stage": 0,
+    "translation": "巨灵的紧身衣",
+    "stage": 1,
     "context": "机翻辅助：\n\n吉格斯紧身裤\n\n紧身裤"
   },
   {
     "key": "offset_0006f45c_0",
     "original": "ギガスの魔石",
-    "translation": "吉格斯魔石",
-    "stage": 0,
+    "translation": "巨灵的魔石",
+    "stage": 1,
     "context": "机翻辅助：\n\n吉格斯魔石\n\n吉加斯魔石"
   },
   {
     "key": "offset_0006f472_0",
     "original": "ごーじゃすな王冠",
-    "translation": "王冠",
-    "stage": 0,
+    "translation": "豪华的王冠",
+    "stage": 1,
     "context": "机翻辅助：\n\n王冠\n\n华丽的王冠"
   },
   {
     "key": "offset_0006f49e_0",
     "original": "真紅の鉄材",
-    "translation": "鲜红的铁材",
-    "stage": 0,
+    "translation": "深红的铁材",
+    "stage": 1,
     "context": "机翻辅助：\n\n鲜红的铁材\n\n鲜红的钢材"
   },
   {
     "key": "offset_0006f4e0_0",
     "original": "Ｋのシンボル",
-    "translation": "K符号",
-    "stage": 0,
+    "translation": "符号K",
+    "stage": 1,
     "context": "机翻辅助：\n\nK符号\n\nK的符号"
   },
   {
     "key": "offset_0006f50c_0",
     "original": "魔術布のレシピ",
-    "translation": "魔法布的食谱",
-    "stage": 0,
+    "translation": "魔法布的配方",
+    "stage": 1,
     "context": "机翻辅助：\n\n魔法布的食谱\n\n魔术布的配方"
   },
   {
     "key": "offset_0006f522_0",
     "original": "原始布のレシピ",
-    "translation": "原始布的食谱",
-    "stage": 0,
+    "translation": "原始布的配方",
+    "stage": 1,
     "context": "机翻辅助：\n\n原始布的食谱\n\n原始布的配方"
   },
   {
     "key": "offset_0006f538_0",
     "original": "言霊布のレシピ",
-    "translation": "言灵布的食谱",
-    "stage": 0,
+    "translation": "言灵布的配方",
+    "stage": 1,
     "context": "机翻辅助：\n\n言灵布的食谱\n\n言灵布的配方"
   },
   {
     "key": "offset_0006f54e_0",
     "original": "機械鎧のレシピ",
-    "translation": "机械铠甲的食谱",
-    "stage": 0,
+    "translation": "机械铠甲的配方",
+    "stage": 1,
     "context": "机翻辅助：\n\n机械铠甲的食谱\n\n机械铠甲的配方"
   },
   {
@@ -7233,92 +7233,92 @@
   {
     "key": "offset_0006f656_0",
     "original": "アニマルの剛毛",
-    "translation": "动物的刚毛",
-    "stage": 0,
+    "translation": "野兽的刚毛",
+    "stage": 1,
     "context": "机翻辅助：\n\n动物的刚毛"
   },
   {
     "key": "offset_0006f66c_0",
     "original": "アニマルの結晶",
-    "translation": "动物结晶",
-    "stage": 0,
+    "translation": "野兽的结晶",
+    "stage": 1,
     "context": "机翻辅助：\n\n动物结晶\n\n动物的结晶"
   },
   {
     "key": "offset_0006f682_0",
     "original": "女御の枯れ枝",
-    "translation": "女御的枯枝",
-    "stage": 0,
+    "translation": "女官的枯枝",
+    "stage": 1,
     "context": "机翻辅助：\n\n女御的枯枝"
   },
   {
     "key": "offset_0006f698_0",
     "original": "女御の結晶",
-    "translation": "女御的结晶",
-    "stage": 0,
+    "translation": "女官的结晶",
+    "stage": 1,
     "context": "机翻辅助：\n\n女御的结晶"
   },
   {
     "key": "offset_0006f6ae_0",
     "original": "マーヤの粘液",
-    "translation": "玛雅粘液",
-    "stage": 0,
+    "translation": "魔影的粘液",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛雅粘液\n\n玛雅黏液"
   },
   {
     "key": "offset_0006f6c4_0",
     "original": "マーヤの結晶",
-    "translation": "玛雅结晶",
-    "stage": 0,
+    "translation": "魔影的结晶",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛雅结晶"
   },
   {
     "key": "offset_0006f6da_0",
     "original": "クビドの矢じり",
-    "translation": "炒鱿鱼的箭头",
-    "stage": 0,
+    "translation": "丘比特的箭头",
+    "stage": 1,
     "context": "机翻辅助：\n\n炒鱿鱼的箭头\n\n脖子上的箭"
   },
   {
     "key": "offset_0006f6f0_0",
     "original": "クビドの結晶",
-    "translation": "孔雀石结晶",
-    "stage": 0,
+    "translation": "丘比特的结晶",
+    "stage": 1,
     "context": "机翻辅助：\n\n孔雀石结晶\n\n脖子的结晶"
   },
   {
     "key": "offset_0006f71c_0",
     "original": "バザルトの鉱石",
-    "translation": "玄武岩矿石",
-    "stage": 0,
+    "translation": "玄武岩的矿石",
+    "stage": 1,
     "context": "机翻辅助：\n\n玄武岩矿石"
   },
   {
     "key": "offset_0006f732_0",
     "original": "バザルトの結晶",
-    "translation": "玄武岩结晶",
-    "stage": 0,
+    "translation": "玄武岩的结晶",
+    "stage": 1,
     "context": "机翻辅助：\n\n玄武岩结晶"
   },
   {
     "key": "offset_0006f748_0",
     "original": "イーグルの羽根",
-    "translation": "老鹰的翅膀",
-    "stage": 0,
+    "translation": "鹰的羽毛",
+    "stage": 1,
     "context": "机翻辅助：\n\n老鹰的翅膀\n\n老鹰的羽毛"
   },
   {
     "key": "offset_0006f75e_0",
     "original": "イーグルの結晶",
-    "translation": "老鹰的结晶",
-    "stage": 0,
+    "translation": "鹰的结晶",
+    "stage": 1,
     "context": "机翻辅助：\n\n老鹰的结晶"
   },
   {
     "key": "offset_0006f774_0",
     "original": "蛇のウロコ",
-    "translation": "蛇妖",
-    "stage": 0,
+    "translation": "蛇的鳞片",
+    "stage": 1,
     "context": "机翻辅助：\n\n蛇妖\n\n蛇鳞"
   },
   {
@@ -7331,15 +7331,15 @@
   {
     "key": "offset_0006f7a0_0",
     "original": "パピヨンの鱗粉",
-    "translation": "巴比伦鳞粉",
-    "stage": 0,
+    "translation": "蝴蝶的鳞粉",
+    "stage": 1,
     "context": "机翻辅助：\n\n巴比伦鳞粉\n\n巴比龙的鳞粉"
   },
   {
     "key": "offset_0006f7b6_0",
     "original": "パピヨンの結晶",
-    "translation": "帕皮永结晶",
-    "stage": 0,
+    "translation": "蝴蝶的结晶",
+    "stage": 1,
     "context": "机翻辅助：\n\n帕皮永结晶\n\n巴比龙的结晶"
   },
   {
@@ -7359,8 +7359,8 @@
   {
     "key": "offset_0006f80e_0",
     "original": "立派な化石",
-    "translation": "优秀的化石",
-    "stage": 0,
+    "translation": "壮观的化石",
+    "stage": 1,
     "context": "机翻辅助：\n\n优秀的化石\n\n漂亮的化石"
   },
   {
@@ -7387,8 +7387,8 @@
   {
     "key": "offset_0006f866_0",
     "original": "精密な回路",
-    "translation": "精密电路",
-    "stage": 0,
+    "translation": "精密的电路",
+    "stage": 1,
     "context": "机翻辅助：\n\n精密电路\n\n精密的电路"
   },
   {
@@ -7401,15 +7401,15 @@
   {
     "key": "offset_0006f892_0",
     "original": "虹色フレーバー",
-    "translation": "虹色香味",
-    "stage": 0,
+    "translation": "虹色风味",
+    "stage": 1,
     "context": "机翻辅助：\n\n虹色香味\n\n彩虹色"
   },
   {
     "key": "offset_0006f8a8_0",
     "original": "蜂蜜フレーバー",
-    "translation": "蜂蜜香味",
-    "stage": 0,
+    "translation": "蜂蜜风味",
+    "stage": 1,
     "context": "机翻辅助：\n\n蜂蜜香味\n\n蜂蜜口味"
   },
   {
@@ -7422,71 +7422,71 @@
   {
     "key": "offset_0006f8d4_0",
     "original": "肉汁フレーバー",
-    "translation": "肉汁香味",
-    "stage": 0,
+    "translation": "肉汁风味",
+    "stage": 1,
     "context": "机翻辅助：\n\n肉汁香味\n\n肉汁"
   },
   {
     "key": "offset_0006f8ea_0",
     "original": "軽食のレシピ",
-    "translation": "小吃食谱",
-    "stage": 0,
+    "translation": "轻食的食谱",
+    "stage": 1,
     "context": "机翻辅助：\n\n小吃食谱\n\n小吃的菜谱"
   },
   {
     "key": "offset_0006f900_0",
     "original": "中盛軽食のレシピ",
-    "translation": "中盛小吃的食谱",
-    "stage": 0,
+    "translation": "中份轻食的食谱",
+    "stage": 1,
     "context": "机翻辅助：\n\n中盛小吃的食谱\n\n中盛小吃的菜谱"
   },
   {
     "key": "offset_0006f916_0",
     "original": "大盛軽食のレシピ",
-    "translation": "大盛小吃的食谱",
-    "stage": 0,
+    "translation": "大份轻食的食谱",
+    "stage": 1,
     "context": "机翻辅助：\n\n大盛小吃的食谱\n\n大盛小吃的菜谱"
   },
   {
     "key": "offset_0006f92c_0",
     "original": "清涼飲料のレシピ",
-    "translation": "清凉饮料的食谱",
-    "stage": 0,
+    "translation": "清凉饮料的配方",
+    "stage": 1,
     "context": "机翻辅助：\n\n清凉饮料的食谱\n\n清凉饮料的配方"
   },
   {
     "key": "offset_0006f942_0",
     "original": "ペーシェのウロコ",
-    "translation": "佩舍乌洛科",
-    "stage": 0,
+    "translation": "鱼的鳞片",
+    "stage": 1,
     "context": "机翻辅助：\n\n佩舍乌洛科\n\n皮谢鱼鳞"
   },
   {
     "key": "offset_0006f958_0",
     "original": "ペーシェの結晶",
-    "translation": "薄纱结晶",
-    "stage": 0,
+    "translation": "鱼的结晶",
+    "stage": 1,
     "context": "机翻辅助：\n\n薄纱结晶\n\n皮谢结晶"
   },
   {
     "key": "offset_0006f96e_0",
     "original": "バンビーノの葉",
-    "translation": "班比诺叶",
-    "stage": 0,
+    "translation": "婴儿的叶子",
+    "stage": 1,
     "context": "机翻辅助：\n\n班比诺叶\n\n斑比诺的叶子"
   },
   {
     "key": "offset_0006f984_0",
     "original": "バンビーノの結晶",
-    "translation": "班比诺结晶",
-    "stage": 0,
+    "translation": "婴儿的结晶",
+    "stage": 1,
     "context": "机翻辅助：\n\n班比诺结晶\n\n婴儿的结晶"
   },
   {
     "key": "offset_0006f99a_0",
     "original": "霧雨の雫",
-    "translation": "细雨的水滴",
-    "stage": 0,
+    "translation": "雾雨的水滴",
+    "stage": 1,
     "context": "机翻辅助：\n\n细雨的水滴\n\n毛毛雨的水滴"
   },
   {
@@ -7499,50 +7499,50 @@
   {
     "key": "offset_0006f9c6_0",
     "original": "バランサーの鉄皿",
-    "translation": "平衡器铁盘",
-    "stage": 0,
+    "translation": "天秤的铁盘",
+    "stage": 1,
     "context": "机翻辅助：\n\n平衡器铁盘\n\n平衡器的铁盘"
   },
   {
     "key": "offset_0006f9dc_0",
     "original": "バランサーの結晶",
-    "translation": "平衡器结晶",
-    "stage": 0,
+    "translation": "天秤的结晶",
+    "stage": 1,
     "context": "机翻辅助：\n\n平衡器结晶\n\n平衡器的结晶"
   },
   {
     "key": "offset_0006f9f2_0",
     "original": "レイヴンの羽根",
-    "translation": "雷温的羽毛",
-    "stage": 0,
+    "translation": "渡鸦的羽毛",
+    "stage": 1,
     "context": "机翻辅助：\n\n雷温的羽毛"
   },
   {
     "key": "offset_0006fa08_0",
     "original": "レイヴンの結晶",
-    "translation": "雷温的结晶",
-    "stage": 0,
+    "translation": "渡鸦的结晶",
+    "stage": 1,
     "context": "机翻辅助：\n\n雷温的结晶"
   },
   {
     "key": "offset_0006fa1e_0",
     "original": "ジェーンの繊維",
-    "translation": "简的纤维",
-    "stage": 0,
+    "translation": "基因的纤维",
+    "stage": 1,
     "context": "机翻辅助：\n\n简的纤维"
   },
   {
     "key": "offset_0006fa34_0",
     "original": "ジェーンの結晶",
-    "translation": "简的结晶",
-    "stage": 0,
+    "translation": "基因的结晶",
+    "stage": 1,
     "context": "机翻辅助：\n\n简的结晶"
   },
   {
     "key": "offset_0006fa4a_0",
     "original": "雄牛の角",
-    "translation": "公牛角",
-    "stage": 0,
+    "translation": "公牛的角",
+    "stage": 1,
     "context": "机翻辅助：\n\n公牛角\n\n公牛的角"
   },
   {
@@ -7576,57 +7576,57 @@
   {
     "key": "offset_0006fab8_0",
     "original": "マーヤの潤滑油",
-    "translation": "玛雅润滑油",
-    "stage": 0,
+    "translation": "魔影的润滑油",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛雅润滑油"
   },
   {
     "key": "offset_0006face_0",
     "original": "マーヤのコア",
-    "translation": "玛雅核心",
-    "stage": 0,
+    "translation": "魔影的核心",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛雅核心\n\n玛雅的核心"
   },
   {
     "key": "offset_0006fae4_0",
     "original": "フォートのギア",
-    "translation": "福特齿轮",
-    "stage": 0,
+    "translation": "车轮的齿轮",
+    "stage": 1,
     "context": "机翻辅助：\n\n福特齿轮\n\n福特的齿轮"
   },
   {
     "key": "offset_0006fafa_0",
     "original": "フォートのコア",
-    "translation": "焦点核心",
-    "stage": 0,
+    "translation": "车轮的核心",
+    "stage": 1,
     "context": "机翻辅助：\n\n焦点核心\n\n堡垒的核心"
   },
   {
     "key": "offset_0006fb10_0",
     "original": "ドライブのネジ",
-    "translation": "驱动器螺钉",
-    "stage": 0,
+    "translation": "装置的螺钉",
+    "stage": 1,
     "context": "机翻辅助：\n\n驱动器螺钉\n\n驱动器的螺丝"
   },
   {
     "key": "offset_0006fb26_0",
     "original": "ドライブのコア",
-    "translation": "驱动器核心",
-    "stage": 0,
+    "translation": "装置的核心",
+    "stage": 1,
     "context": "机翻辅助：\n\n驱动器核心\n\n驱动的核心"
   },
   {
     "key": "offset_0006fb3c_0",
     "original": "ファントムの布",
-    "translation": "幻影布",
-    "stage": 0,
+    "translation": "魅影的布",
+    "stage": 1,
     "context": "机翻辅助：\n\n幻影布\n\n魅影布"
   },
   {
     "key": "offset_0006fb52_0",
     "original": "ファントムのコア",
-    "translation": "幻像核心",
-    "stage": 0,
+    "translation": "魅影的核心",
+    "stage": 1,
     "context": "机翻辅助：\n\n幻像核心\n\n魅影的核心"
   },
   {
@@ -7646,8 +7646,8 @@
   {
     "key": "offset_0006fb94_0",
     "original": "塔の王冠",
-    "translation": "塔之王冠",
-    "stage": 0,
+    "translation": "塔的王冠",
+    "stage": 1,
     "context": "机翻辅助：\n\n塔之王冠\n\n塔上的王冠"
   },
   {
@@ -7660,29 +7660,29 @@
   {
     "key": "offset_0006fbc0_0",
     "original": "砲座の装甲板",
-    "translation": "炮座的装甲板",
-    "stage": 0,
+    "translation": "炮台的装甲板",
+    "stage": 1,
     "context": "机翻辅助：\n\n炮座的装甲板"
   },
   {
     "key": "offset_0006fbd6_0",
     "original": "砲座のコア",
-    "translation": "炮座核心",
-    "stage": 0,
+    "translation": "炮台的核心",
+    "stage": 1,
     "context": "机翻辅助：\n\n炮座核心\n\n炮座的核心"
   },
   {
     "key": "offset_0006fbec_0",
     "original": "ダイスの破片",
-    "translation": "模具碎片",
-    "stage": 0,
+    "translation": "骰子的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n模具碎片\n\n模具的碎片"
   },
   {
     "key": "offset_0006fc02_0",
     "original": "黒ダイスのコア",
-    "translation": "黑模的核心",
-    "stage": 0,
+    "translation": "黑色骰子的核心",
+    "stage": 1,
     "context": "机翻辅助：\n\n黑模的核心\n\n黑色模具的芯"
   },
   {
@@ -7716,29 +7716,29 @@
   {
     "key": "offset_0006fc70_0",
     "original": "シジルの仮面",
-    "translation": "西吉尔的面具",
-    "stage": 0,
+    "translation": "法印的面具",
+    "stage": 1,
     "context": "机翻辅助：\n\n西吉尔的面具\n\n锡吉尔的面具"
   },
   {
     "key": "offset_0006fc86_0",
     "original": "シジルのコア",
-    "translation": "硅芯",
-    "stage": 0,
+    "translation": "法印的核心",
+    "stage": 1,
     "context": "机翻辅助：\n\n硅芯\n\n西吉尔的核心"
   },
   {
     "key": "offset_0006fc9c_0",
     "original": "ジェーンの螺旋糸",
-    "translation": "简的螺旋线",
-    "stage": 0,
+    "translation": "基因的螺旋线",
+    "stage": 1,
     "context": "机翻辅助：\n\n简的螺旋线"
   },
   {
     "key": "offset_0006fcb2_0",
     "original": "ジェーンのコア",
-    "translation": "简的核心",
-    "stage": 0,
+    "translation": "基因的核心",
+    "stage": 1,
     "context": "机翻辅助：\n\n简的核心"
   },
   {
@@ -7758,92 +7758,92 @@
   {
     "key": "offset_0006fcf4_0",
     "original": "一つ目巨人の歯",
-    "translation": "第一颗巨人的牙齿",
-    "stage": 0,
+    "translation": "独眼巨人的牙齿",
+    "stage": 1,
     "context": "机翻辅助：\n\n第一颗巨人的牙齿\n\n独眼巨人的牙齿"
   },
   {
     "key": "offset_0006fd0a_0",
     "original": "一つ目巨人のコア",
-    "translation": "第一个巨人的核心",
-    "stage": 0,
+    "translation": "独眼巨人的核心",
+    "stage": 1,
     "context": "机翻辅助：\n\n第一个巨人的核心\n\n独眼巨人的核心"
   },
   {
     "key": "offset_0006fd20_0",
     "original": "パンツァーの砲身",
-    "translation": "泛沙皇的炮身",
-    "stage": 0,
+    "translation": "战车的炮管",
+    "stage": 1,
     "context": "机翻辅助：\n\n泛沙皇的炮身\n\n战车炮管"
   },
   {
     "key": "offset_0006fd36_0",
     "original": "パンツァーのコア",
-    "translation": "面包沙皇的核心",
-    "stage": 0,
+    "translation": "战车的核心",
+    "stage": 1,
     "context": "机翻辅助：\n\n面包沙皇的核心\n\npanzer的核心"
   },
   {
     "key": "offset_0006fd4c_0",
     "original": "ギガスのマスク",
-    "translation": "煤气面罩",
-    "stage": 0,
+    "translation": "巨灵的面具",
+    "stage": 1,
     "context": "机翻辅助：\n\n煤气面罩\n\n吉瓦斯面具"
   },
   {
     "key": "offset_0006fd62_0",
     "original": "ギガスのコア",
-    "translation": "吉格斯磁芯",
-    "stage": 0,
+    "translation": "巨灵的核心",
+    "stage": 1,
     "context": "机翻辅助：\n\n吉格斯磁芯\n\n吉瓦斯的核心"
   },
   {
     "key": "offset_0006fd78_0",
     "original": "ダイスの正方形板",
-    "translation": "模具的正方形板",
-    "stage": 0,
+    "translation": "骰子的正方形板",
+    "stage": 1,
     "context": "机翻辅助：\n\n模具的正方形板\n\n骰子的正方形板"
   },
   {
     "key": "offset_0006fd8e_0",
     "original": "白ダイスのコア",
-    "translation": "白模芯",
-    "stage": 0,
+    "translation": "白色骰子的核心",
+    "stage": 1,
     "context": "机翻辅助：\n\n白模芯\n\n白色模具的芯"
   },
   {
     "key": "offset_0006fda4_0",
     "original": "巨兵の装甲",
-    "translation": "巨兵装甲",
-    "stage": 0,
+    "translation": "巨兵的装甲",
+    "stage": 1,
     "context": "机翻辅助：\n\n巨兵装甲"
   },
   {
     "key": "offset_0006fdba_0",
     "original": "巨兵のコア",
-    "translation": "巨兵核心",
-    "stage": 0,
+    "translation": "巨兵的核心",
+    "stage": 1,
     "context": "机翻辅助：\n\n巨兵核心\n\n巨兵的核心"
   },
   {
     "key": "offset_0006fdd0_0",
     "original": "仰々しい装甲板",
-    "translation": "夸张的装甲板",
-    "stage": 0,
+    "translation": "抢眼的装甲板",
+    "stage": 1,
     "context": "机翻辅助：\n\n夸张的装甲板"
   },
   {
     "key": "offset_0006fde6_0",
     "original": "テーブルの鉄骨",
-    "translation": "桌子的钢架",
-    "stage": 0,
+    "translation": "桌子的铁骨架",
+    "stage": 1,
     "context": "机翻辅助：\n\n桌子的钢架\n\n桌子的铁架子"
   },
   {
     "key": "offset_0006fdfc_0",
     "original": "テーブルの宝石",
-    "translation": "桌子上的宝石",
-    "stage": 0,
+    "translation": "桌子的宝石",
+    "stage": 1,
     "context": "机翻辅助：\n\n桌子上的宝石\n\n桌上的宝石"
   },
   {
@@ -7863,15 +7863,15 @@
   {
     "key": "offset_0006fe3e_0",
     "original": "ツインズの鉄心",
-    "translation": "双子星",
-    "stage": 0,
+    "translation": "双子的铁心",
+    "stage": 1,
     "context": "机翻辅助：\n\n双子星\n\n双城队的铁心"
   },
   {
     "key": "offset_0006fe54_0",
     "original": "ツインズの宝石",
-    "translation": "双子星宝石",
-    "stage": 0,
+    "translation": "双子的宝石",
+    "stage": 1,
     "context": "机翻辅助：\n\n双子星宝石\n\ntwins宝石"
   },
   {
@@ -7884,50 +7884,50 @@
   {
     "key": "offset_0006fe80_0",
     "original": "翁の宝石",
-    "translation": "翁之宝石",
-    "stage": 0,
+    "translation": "老翁的宝石",
+    "stage": 1,
     "context": "机翻辅助：\n\n翁之宝石\n\n老翁的宝石"
   },
   {
     "key": "offset_0006fe96_0",
     "original": "バランサーの鉄心",
-    "translation": "平衡器的铁心",
-    "stage": 0,
+    "translation": "天秤的铁心",
+    "stage": 1,
     "context": "机翻辅助：\n\n平衡器的铁心\n\n平衡者的铁心"
   },
   {
     "key": "offset_0006feac_0",
     "original": "バランサーの宝石",
-    "translation": "平衡器的宝石",
-    "stage": 0,
+    "translation": "天秤的宝石",
+    "stage": 1,
     "context": "机翻辅助：\n\n平衡器的宝石\n\n平衡宝石"
   },
   {
     "key": "offset_0006fec2_0",
     "original": "マーヤの蜜",
-    "translation": "玛雅蜜",
-    "stage": 0,
+    "translation": "魔影的蜜",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛雅蜜\n\n马亚蜂蜜"
   },
   {
     "key": "offset_0006fed8_0",
     "original": "マーヤの宝石",
-    "translation": "玛雅的宝石",
-    "stage": 0,
+    "translation": "魔影的宝石",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛雅的宝石\n\n玛雅宝石"
   },
   {
     "key": "offset_0006feee_0",
     "original": "アブルリーの喉彦",
-    "translation": "阿布尔利的喉彦",
-    "stage": 0,
+    "translation": "夸口者的喉结",
+    "stage": 1,
     "context": "机翻辅助：\n\n阿布尔利的喉彦\n\n阿勃里的喉咙"
   },
   {
     "key": "offset_0006ff04_0",
     "original": "アブルリーの宝石",
-    "translation": "阿布尔利宝石",
-    "stage": 0,
+    "translation": "夸口者的宝石",
+    "stage": 1,
     "context": "机翻辅助：\n\n阿布尔利宝石\n\n阿布鲁利宝石"
   },
   {
@@ -7947,64 +7947,64 @@
   {
     "key": "offset_0006ff46_0",
     "original": "マリアの水晶玉",
-    "translation": "玛利亚的水晶球",
-    "stage": 0,
+    "translation": "圣母的水晶球",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛利亚的水晶球"
   },
   {
     "key": "offset_0006ff5c_0",
     "original": "マリアの宝石",
-    "translation": "玛利亚的宝石",
-    "stage": 0,
+    "translation": "圣母的宝石",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛利亚的宝石\n\n玛利亚宝石"
   },
   {
     "key": "offset_0006ff72_0",
     "original": "イーグルの砂肝",
-    "translation": "老鹰的沙肝",
-    "stage": 0,
+    "translation": "鹰的砂肝",
+    "stage": 1,
     "context": "机翻辅助：\n\n老鹰的沙肝\n\n老鹰鸡胗"
   },
   {
     "key": "offset_0006ff88_0",
     "original": "イーグルの宝石",
-    "translation": "鹰之宝石",
-    "stage": 0,
+    "translation": "鹰的宝石",
+    "stage": 1,
     "context": "机翻辅助：\n\n鹰之宝石\n\n老鹰宝石"
   },
   {
     "key": "offset_0006ff9e_0",
     "original": "蛇のピット器官",
-    "translation": "蛇穴器官",
-    "stage": 0,
+    "translation": "蛇的颊窝",
+    "stage": 1,
     "context": "机翻辅助：\n\n蛇穴器官\n\n蛇的坑器官"
   },
   {
     "key": "offset_0006ffb4_0",
     "original": "蛇の宝石",
-    "translation": "蛇之宝石",
-    "stage": 0,
+    "translation": "蛇的宝石",
+    "stage": 1,
     "context": "机翻辅助：\n\n蛇之宝石\n\n蛇宝石"
   },
   {
     "key": "offset_0006ffca_0",
     "original": "パピヨンの触角",
-    "translation": "帕皮永的触角",
-    "stage": 0,
+    "translation": "蝴蝶的触角",
+    "stage": 1,
     "context": "机翻辅助：\n\n帕皮永的触角\n\n巴比龙的触角"
   },
   {
     "key": "offset_0006ffe0_0",
     "original": "パピヨンの宝石",
-    "translation": "帕皮永的宝石",
-    "stage": 0,
+    "translation": "蝴蝶的宝石",
+    "stage": 1,
     "context": "机翻辅助：\n\n帕皮永的宝石\n\n巴比龙宝石"
   },
   {
     "key": "offset_0006fff6_0",
     "original": "雄牛の腰皮巻",
-    "translation": "公牛腰皮卷",
-    "stage": 0,
+    "translation": "公牛的腰皮卷",
+    "stage": 1,
     "context": "机翻辅助：\n\n公牛腰皮卷"
   },
   {
@@ -8017,36 +8017,36 @@
   {
     "key": "offset_00070022_0",
     "original": "レキシーのボタン",
-    "translation": "莱克西按钮",
-    "stage": 0,
+    "translation": "辗毙者的按钮",
+    "stage": 1,
     "context": "机翻辅助：\n\n莱克西按钮\n\n老式的纽扣"
   },
   {
     "key": "offset_00070038_0",
     "original": "レキシーの宝石",
-    "translation": "雷基西的宝石",
-    "stage": 0,
+    "translation": "辗毙者的宝石",
+    "stage": 1,
     "context": "机翻辅助：\n\n雷基西的宝石\n\n历史宝石"
   },
   {
     "key": "offset_0007004e_0",
     "original": "マグスの石杯",
-    "translation": "马格斯石杯",
-    "stage": 0,
+    "translation": "术士的石杯",
+    "stage": 1,
     "context": "机翻辅助：\n\n马格斯石杯"
   },
   {
     "key": "offset_00070064_0",
     "original": "マグスの宝石",
-    "translation": "玛格斯的宝石",
-    "stage": 0,
+    "translation": "术士的宝石",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛格斯的宝石\n\n马格斯宝石"
   },
   {
     "key": "offset_0007007a_0",
     "original": "マザーの香水",
-    "translation": "妈妈的香水",
-    "stage": 0,
+    "translation": "母亲的香水",
+    "stage": 1,
     "context": "机翻辅助：\n\n妈妈的香水\n\n修女的香水"
   },
   {
@@ -8087,50 +8087,50 @@
   {
     "key": "offset_000700fe_0",
     "original": "霧雨の大雫",
-    "translation": "蒙蒙细雨的大水滴",
-    "stage": 0,
+    "translation": "雾雨的大水滴",
+    "stage": 1,
     "context": "机翻辅助：\n\n蒙蒙细雨的大水滴\n\n毛毛雨的大水滴"
   },
   {
     "key": "offset_00070114_0",
     "original": "霧雨の宝石",
-    "translation": "细雨的宝石",
-    "stage": 0,
+    "translation": "雾雨的宝石",
+    "stage": 1,
     "context": "机翻辅助：\n\n细雨的宝石\n\n毛毛雨宝石"
   },
   {
     "key": "offset_0007012a_0",
     "original": "サーチャーの目玉",
-    "translation": "撒切尔的眼珠",
-    "stage": 0,
+    "translation": "搜寻者的眼珠",
+    "stage": 1,
     "context": "机翻辅助：\n\n撒切尔的眼珠\n\n调查的亮点"
   },
   {
     "key": "offset_00070140_0",
     "original": "サーチャーの宝石",
-    "translation": "撒切尔的宝石",
-    "stage": 0,
+    "translation": "搜寻者的宝石",
+    "stage": 1,
     "context": "机翻辅助：\n\n撒切尔的宝石\n\n探查宝石"
   },
   {
     "key": "offset_00070156_0",
     "original": "爛々とした目玉",
-    "translation": "烂醉如泥的眼珠",
-    "stage": 0,
+    "translation": "炯炯有神的眼珠",
+    "stage": 1,
     "context": "机翻辅助：\n\n烂醉如泥的眼珠\n\n灿烂的眼珠"
   },
   {
     "key": "offset_0007016c_0",
     "original": "ペーシェの浮袋",
-    "translation": "纸袋",
-    "stage": 0,
+    "translation": "鱼的鳔",
+    "stage": 1,
     "context": "机翻辅助：\n\n纸袋\n\n佩谢的鳔"
   },
   {
     "key": "offset_00070182_0",
     "original": "ペーシェの秘宝",
-    "translation": "佩谢的秘宝",
-    "stage": 0,
+    "translation": "鱼的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\n佩谢的秘宝\n\n佩歇秘宝"
   },
   {
@@ -8150,57 +8150,57 @@
   {
     "key": "offset_000701c4_0",
     "original": "ファズの黒皮手帳",
-    "translation": "法兹的黑皮手册",
-    "stage": 0,
+    "translation": "警察的黑皮手册",
+    "stage": 1,
     "context": "机翻辅助：\n\n法兹的黑皮手册\n\n法斯的黑皮手帐"
   },
   {
     "key": "offset_000701da_0",
     "original": "ファズの秘宝",
-    "translation": "法兹的秘宝",
-    "stage": 0,
+    "translation": "警察的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\n法兹的秘宝\n\n法斯秘宝"
   },
   {
     "key": "offset_000701f0_0",
     "original": "マーヤの水銀",
-    "translation": "玛雅水银",
-    "stage": 0,
+    "translation": "魔影的水银",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛雅水银\n\n玛雅的水银"
   },
   {
     "key": "offset_00070206_0",
     "original": "マーヤの秘宝",
-    "translation": "玛雅的秘宝",
-    "stage": 0,
+    "translation": "魔影的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛雅的秘宝\n\n玛雅秘宝"
   },
   {
     "key": "offset_0007021c_0",
     "original": "レイヴンの篝火",
-    "translation": "雷温的篝火",
-    "stage": 0,
+    "translation": "渡鸦的篝火",
+    "stage": 1,
     "context": "机翻辅助：\n\n雷温的篝火\n\n雷温篝火"
   },
   {
     "key": "offset_00070232_0",
     "original": "レイヴンの秘宝",
-    "translation": "雷温的秘宝",
-    "stage": 0,
+    "translation": "渡鸦的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\n雷温的秘宝"
   },
   {
     "key": "offset_00070248_0",
     "original": "フォートの車軸",
-    "translation": "福特车轴",
-    "stage": 0,
+    "translation": "车轮的车轴",
+    "stage": 1,
     "context": "机翻辅助：\n\n福特车轴\n\n福特的车轴"
   },
   {
     "key": "offset_0007025e_0",
     "original": "フォートの秘宝",
-    "translation": "福特的秘宝",
-    "stage": 0,
+    "translation": "车轮的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\n福特的秘宝\n\n堡的秘宝"
   },
   {
@@ -8234,134 +8234,134 @@
   {
     "key": "offset_000702cc_0",
     "original": "女御の煙管",
-    "translation": "女御的烟管",
-    "stage": 0,
+    "translation": "女官的烟管",
+    "stage": 1,
     "context": "机翻辅助：\n\n女御的烟管"
   },
   {
     "key": "offset_000702e2_0",
     "original": "女御の秘宝",
-    "translation": "女御的秘宝",
-    "stage": 0,
+    "translation": "女官的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\n女御的秘宝"
   },
   {
     "key": "offset_000702f8_0",
     "original": "バランサーの光背",
-    "translation": "平衡器的光背",
-    "stage": 0,
+    "translation": "天秤的光背",
+    "stage": 1,
     "context": "机翻辅助：\n\n平衡器的光背"
   },
   {
     "key": "offset_0007030e_0",
     "original": "バランサーの秘宝",
-    "translation": "平衡器的秘宝",
-    "stage": 0,
+    "translation": "天秤的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\n平衡器的秘宝"
   },
   {
     "key": "offset_00070324_0",
     "original": "一つ目巨人の涙",
-    "translation": "第一个巨人的眼泪",
-    "stage": 0,
+    "translation": "独眼巨人的眼泪",
+    "stage": 1,
     "context": "机翻辅助：\n\n第一个巨人的眼泪\n\n独眼巨人的眼泪"
   },
   {
     "key": "offset_0007033a_0",
     "original": "一つ目巨人の秘宝",
-    "translation": "第一个巨人的秘宝",
-    "stage": 0,
+    "translation": "独眼巨人的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\n第一个巨人的秘宝\n\n独眼巨人的秘宝"
   },
   {
     "key": "offset_00070350_0",
     "original": "マリアのヴェール",
-    "translation": "玛利亚的面纱",
-    "stage": 0,
+    "translation": "圣母的面纱",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛利亚的面纱"
   },
   {
     "key": "offset_00070366_0",
     "original": "マリアの秘宝",
-    "translation": "玛利亚的秘宝",
-    "stage": 0,
+    "translation": "圣母的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\n玛利亚的秘宝\n\n玛利亚秘宝"
   },
   {
     "key": "offset_0007037c_0",
     "original": "バンビーノの花",
-    "translation": "班比诺花",
-    "stage": 0,
+    "translation": "婴儿的花",
+    "stage": 1,
     "context": "机翻辅助：\n\n班比诺花\n\n斑比诺花"
   },
   {
     "key": "offset_00070392_0",
     "original": "バンビーノの秘宝",
-    "translation": "BAMBINO的秘宝",
-    "stage": 0,
+    "translation": "婴儿的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\nBAMBINO的秘宝\n\n婴儿秘宝"
   },
   {
     "key": "offset_000703a8_0",
     "original": "クビドの片翼",
-    "translation": "被炒的单翼",
-    "stage": 0,
+    "translation": "丘比特的片翼",
+    "stage": 1,
     "context": "机翻辅助：\n\n被炒的单翼\n\n头的单翼"
   },
   {
     "key": "offset_000703be_0",
     "original": "クビドの秘宝",
-    "translation": "被炒的秘宝",
-    "stage": 0,
+    "translation": "丘比特的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\n被炒的秘宝\n\n脖子上的秘宝"
   },
   {
     "key": "offset_000703d4_0",
     "original": "ファントムの術書",
-    "translation": "幻影术书",
-    "stage": 0,
+    "translation": "魅影的魔法书",
+    "stage": 1,
     "context": "机翻辅助：\n\n幻影术书\n\n魅影之术"
   },
   {
     "key": "offset_000703ea_0",
     "original": "ファントムの秘宝",
-    "translation": "幻影的秘宝",
-    "stage": 0,
+    "translation": "魅影的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\n幻影的秘宝\n\n魅影秘宝"
   },
   {
     "key": "offset_00070400_0",
     "original": "ダイスのゾロ目",
-    "translation": "凹模的索隆目",
-    "stage": 0,
+    "translation": "骰子的对子点",
+    "stage": 1,
     "context": "机翻辅助：\n\n凹模的索隆目\n\n骰子的佐罗目"
   },
   {
     "key": "offset_00070416_0",
     "original": "ダイスの秘宝",
-    "translation": "模具秘宝",
-    "stage": 0,
+    "translation": "骰子的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\n模具秘宝\n\n戴斯的秘宝"
   },
   {
     "key": "offset_0007042c_0",
     "original": "ジェーンの遺伝子",
-    "translation": "简的基因",
-    "stage": 0,
+    "translation": "基因的遗传因子",
+    "stage": 1,
     "context": "机翻辅助：\n\n简的基因"
   },
   {
     "key": "offset_00070442_0",
     "original": "ジェーンの秘宝",
-    "translation": "简的秘宝",
-    "stage": 0,
+    "translation": "基因的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\n简的秘宝"
   },
   {
     "key": "offset_00070458_0",
     "original": "マザーの刺繍布",
-    "translation": "妈妈的绣花布",
-    "stage": 0,
+    "translation": "母亲的绣花布",
+    "stage": 1,
     "context": "机翻辅助：\n\n妈妈的绣花布\n\n绣花布"
   },
   {
@@ -8388,8 +8388,8 @@
   {
     "key": "offset_000704b0_0",
     "original": "魔剣のルーン文字",
-    "translation": "魔剑的鲁恩文字",
-    "stage": 0,
+    "translation": "魔剑的卢恩文字",
+    "stage": 1,
     "context": "机翻辅助：\n\n魔剑的鲁恩文字\n\n魔剑的符文"
   },
   {
@@ -8416,15 +8416,15 @@
   {
     "key": "offset_00070508_0",
     "original": "ヘカトンの木馬",
-    "translation": "赫卡顿木马",
-    "stage": 0,
+    "translation": "百臂巨人的木马",
+    "stage": 1,
     "context": "机翻辅助：\n\n赫卡顿木马"
   },
   {
     "key": "offset_0007051e_0",
     "original": "ヘカトンの秘宝",
-    "translation": "赫卡顿的秘宝",
-    "stage": 0,
+    "translation": "百臂巨人的秘宝",
+    "stage": 1,
     "context": "机翻辅助：\n\n赫卡顿的秘宝\n\n赫卡顿秘宝"
   },
   {
@@ -8437,8 +8437,8 @@
   {
     "key": "offset_0007054a_0",
     "original": "迷彩柄のウロコ",
-    "translation": "迷彩图案的乌洛科",
-    "stage": 0,
+    "translation": "迷彩图案的鳞片",
+    "stage": 1,
     "context": "机翻辅助：\n\n迷彩图案的乌洛科\n\n迷彩图案的鳞片"
   },
   {
@@ -8479,15 +8479,15 @@
   {
     "key": "offset_000705ce_0",
     "original": "ブリキの心臓",
-    "translation": "铁皮的心脏",
-    "stage": 0,
+    "translation": "铁皮心脏",
+    "stage": 1,
     "context": "机翻辅助：\n\n铁皮的心脏\n\n铁皮心脏"
   },
   {
     "key": "offset_000705e4_0",
     "original": "勇気の逆髪",
-    "translation": "勇气的逆发",
-    "stage": 0,
+    "translation": "勇气逆发",
+    "stage": 1,
     "context": "机翻辅助：\n\n勇气的逆发"
   },
   {
@@ -8500,8 +8500,8 @@
   {
     "key": "offset_00070610_0",
     "original": "飛び出す絵コンテ",
-    "translation": "跳出的画板",
-    "stage": 0,
+    "translation": "跳出分镜",
+    "stage": 1,
     "context": "机翻辅助：\n\n跳出的画板\n\n飞出来的分镜"
   },
   {
@@ -8521,8 +8521,8 @@
   {
     "key": "offset_00070652_0",
     "original": "１ＭＢの仮想通貨",
-    "translation": "1兆虚拟货币",
-    "stage": 0,
+    "translation": "1MB虚拟货币",
+    "stage": 1,
     "context": "机翻辅助：\n\n1兆虚拟货币\n\n1mb的虚拟货币"
   },
   {
@@ -8542,8 +8542,8 @@
   {
     "key": "offset_00070694_0",
     "original": "謎の設計図",
-    "translation": "神秘的设计图",
-    "stage": 0,
+    "translation": "谜之设计图",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的设计图"
   },
   {
@@ -8556,85 +8556,85 @@
   {
     "key": "offset_000706c0_0",
     "original": "増量飲料のレシピ",
-    "translation": "增量饮料的食谱",
-    "stage": 0,
+    "translation": "增量饮料的配方",
+    "stage": 1,
     "context": "机翻辅助：\n\n增量饮料的食谱\n\n增量饮料的配方"
   },
   {
     "key": "offset_000706d6_0",
     "original": "祝杯飲料のレシピ",
-    "translation": "祝酒饮料的食谱",
-    "stage": 0,
+    "translation": "祝酒饮料的配方",
+    "stage": 1,
     "context": "机翻辅助：\n\n祝酒饮料的食谱\n\n庆祝饮料的配方"
   },
   {
     "key": "offset_000706ec_0",
     "original": "奇跡飲料のレシピ",
-    "translation": "奇迹饮料的食谱",
-    "stage": 0,
+    "translation": "奇迹饮料的配方",
+    "stage": 1,
     "context": "机翻辅助：\n\n奇迹饮料的食谱\n\n奇迹饮料的配方"
   },
   {
     "key": "offset_00070702_0",
     "original": "解放薬のレシピ",
-    "translation": "解放药的食谱",
-    "stage": 0,
+    "translation": "解放药的配方",
+    "stage": 1,
     "context": "机翻辅助：\n\n解放药的食谱\n\n解放药的配方"
   },
   {
     "key": "offset_00070718_0",
     "original": "救世薬のレシピ",
-    "translation": "救世药的食谱",
-    "stage": 0,
+    "translation": "救世药的配方",
+    "stage": 1,
     "context": "机翻辅助：\n\n救世药的食谱\n\n救世药的配方"
   },
   {
     "key": "offset_0007072e_0",
     "original": "幻の揚げ物レシピ",
-    "translation": "梦幻油炸菜谱",
-    "stage": 0,
+    "translation": "梦幻炸物的食谱",
+    "stage": 1,
     "context": "机翻辅助：\n\n梦幻油炸菜谱\n\n梦幻油炸食品食谱"
   },
   {
     "key": "offset_00070744_0",
     "original": "地返しの経典",
-    "translation": "地还的经典",
-    "stage": 0,
+    "translation": "返地的经典",
+    "stage": 1,
     "context": "机翻辅助：\n\n地还的经典\n\n翻地的经典"
   },
   {
     "key": "offset_0007075a_0",
     "original": "反魂の経典",
-    "translation": "反魂经典",
-    "stage": 0,
+    "translation": "反魂的经典",
+    "stage": 1,
     "context": "机翻辅助：\n\n反魂经典\n\n反魂的经典"
   },
   {
     "key": "offset_00070770_0",
     "original": "耐温のレシピ",
-    "translation": "耐温食谱",
-    "stage": 0,
+    "translation": "耐温的符方",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐温食谱\n\n耐温的配方"
   },
   {
     "key": "offset_00070786_0",
     "original": "耐風雷のレシピ",
-    "translation": "耐风雷的食谱",
-    "stage": 0,
+    "translation": "耐风雷的符方",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐风雷的食谱\n\n抗风雷的配方"
   },
   {
     "key": "offset_0007079c_0",
     "original": "耐超常のレシピ",
-    "translation": "耐超常的食谱",
-    "stage": 0,
+    "translation": "耐超常的符方",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐超常的食谱\n\n耐超常的配方"
   },
   {
     "key": "offset_000707b2_0",
     "original": "お清めレシピ",
-    "translation": "清汤食谱",
-    "stage": 0,
+    "translation": "清净的符方",
+    "stage": 1,
     "context": "机翻辅助：\n\n清汤食谱\n\n清洁食谱"
   },
   {
@@ -8654,50 +8654,50 @@
   {
     "key": "offset_000707f4_0",
     "original": "神気札の経典",
-    "translation": "神气牌的经典",
-    "stage": 0,
+    "translation": "神气符的经典",
+    "stage": 1,
     "context": "机翻辅助：\n\n神气牌的经典"
   },
   {
     "key": "offset_0007080a_0",
     "original": "逃走道具のメモ",
-    "translation": "逃走道具的笔记",
-    "stage": 0,
+    "translation": "逃脱道具的笔记",
+    "stage": 1,
     "context": "机翻辅助：\n\n逃走道具的笔记\n\n逃跑工具的笔记"
   },
   {
     "key": "offset_00070820_0",
     "original": "超科学の設計図",
-    "translation": "超科学的设计图",
-    "stage": 0,
+    "translation": "超科学设计图",
+    "stage": 1,
     "context": "机翻辅助：\n\n超科学的设计图"
   },
   {
     "key": "offset_00070836_0",
     "original": "操魔の楽譜",
-    "translation": "操魔的乐谱",
-    "stage": 0,
+    "translation": "操魔乐谱",
+    "stage": 1,
     "context": "机翻辅助：\n\n操魔的乐谱\n\n操控的乐谱"
   },
   {
     "key": "offset_0007084c_0",
     "original": "操魔の交響曲",
-    "translation": "操魔的交响曲",
-    "stage": 0,
+    "translation": "操魔交响曲",
+    "stage": 1,
     "context": "机翻辅助：\n\n操魔的交响曲\n\n操魔交响曲"
   },
   {
     "key": "offset_00070862_0",
     "original": "リサイクルの書",
-    "translation": "回收书",
-    "stage": 0,
+    "translation": "可回收书",
+    "stage": 1,
     "context": "机翻辅助：\n\n回收书\n\n可回收的书"
   },
   {
     "key": "offset_00070878_0",
     "original": "魂飴のレシピ",
-    "translation": "灵魂糖的食谱",
-    "stage": 0,
+    "translation": "灵魂糖果的食谱",
+    "stage": 1,
     "context": "机翻辅助：\n\n灵魂糖的食谱\n\n灵魂糖的配方"
   },
   {
@@ -8731,29 +8731,29 @@
   {
     "key": "offset_000708e6_0",
     "original": "でんじゃらすな本",
-    "translation": "别开玩笑的书",
-    "stage": 0,
+    "translation": "危险的书",
+    "stage": 1,
     "context": "机翻辅助：\n\n别开玩笑的书\n\n传奇式的书"
   },
   {
     "key": "offset_000708fc_0",
     "original": "舞台衣装のレシピ",
-    "translation": "舞台服装的食谱",
-    "stage": 0,
+    "translation": "舞台服装的设计图",
+    "stage": 1,
     "context": "机翻辅助：\n\n舞台服装的食谱\n\n舞台服装的配方"
   },
   {
     "key": "offset_00070912_0",
     "original": "舞姫衣装のレシピ",
-    "translation": "舞姬服装的食谱",
-    "stage": 0,
+    "translation": "舞姬服装的设计图",
+    "stage": 1,
     "context": "机翻辅助：\n\n舞姬服装的食谱\n\n舞姬服装的配方"
   },
   {
     "key": "offset_00070928_0",
     "original": "愛玩衣装のレシピ",
-    "translation": "爱玩服装的食谱",
-    "stage": 0,
+    "translation": "可爱服装的设计图",
+    "stage": 1,
     "context": "机翻辅助：\n\n爱玩服装的食谱\n\n宠物服装的配方"
   },
   {
@@ -8808,8 +8808,8 @@
   {
     "key": "offset_00070a46_0",
     "original": "立派なトサカ",
-    "translation": "漂亮的托萨卡",
-    "stage": 0,
+    "translation": "漂亮的鸡冠",
+    "stage": 1,
     "context": "机翻辅助：\n\n漂亮的托萨卡\n\n漂亮的坡地"
   },
   {
@@ -8822,43 +8822,43 @@
   {
     "key": "offset_00070a72_0",
     "original": "極彩色のネイル",
-    "translation": "美甲名称",
-    "stage": 0,
+    "translation": "极彩色的指甲",
+    "stage": 1,
     "context": "机翻辅助：\n\n美甲名称\n\n彩色的美甲"
   },
   {
     "key": "offset_00070a88_0",
     "original": "豪奢なマツエク",
-    "translation": "豪华的松茸",
-    "stage": 0,
+    "translation": "豪华的假睫毛",
+    "stage": 1,
     "context": "机翻辅助：\n\n豪华的松茸\n\n奢华的衣钵"
   },
   {
     "key": "offset_00070a9e_0",
     "original": "５インチディスク",
-    "translation": "5英寸磁盘",
-    "stage": 0,
+    "translation": "5英寸软盘",
+    "stage": 1,
     "context": "机翻辅助：\n\n5英寸磁盘\n\n五英寸光盘"
   },
   {
     "key": "offset_00070ab4_0",
     "original": "８インチディスク",
-    "translation": "8英寸磁盘",
-    "stage": 0,
+    "translation": "8英寸软盘",
+    "stage": 1,
     "context": "机翻辅助：\n\n8英寸磁盘\n\n八英寸光盘"
   },
   {
     "key": "offset_00070aca_0",
     "original": "すごいひとの絵本",
-    "translation": "厉害的人的图画书",
-    "stage": 0,
+    "translation": "伟人的绘本",
+    "stage": 1,
     "context": "机翻辅助：\n\n厉害的人的图画书\n\n厉害人物的绘本"
   },
   {
     "key": "offset_00070ae0_0",
     "original": "なかよしの絵本",
-    "translation": "好朋友的图画书",
-    "stage": 0,
+    "translation": "好朋友的绘本",
+    "stage": 1,
     "context": "机翻辅助：\n\n好朋友的图画书\n\n好朋友的绘本"
   },
   {
@@ -8871,22 +8871,22 @@
   {
     "key": "offset_00070b0c_0",
     "original": "絡み合う黒糸",
-    "translation": "缠绕着的黑线",
-    "stage": 0,
+    "translation": "缠绕的黑线",
+    "stage": 1,
     "context": "机翻辅助：\n\n缠绕着的黑线\n\n缠绕的黑丝"
   },
   {
     "key": "offset_00070b22_0",
     "original": "絡み合う白糸",
-    "translation": "缠绕着的白线",
-    "stage": 0,
+    "translation": "缠绕的白线",
+    "stage": 1,
     "context": "机翻辅助：\n\n缠绕着的白线\n\n相互缠绕的白线"
   },
   {
     "key": "offset_00070b38_0",
     "original": "神柱の欠片",
-    "translation": "神柱的碎片",
-    "stage": 0,
+    "translation": "神柱碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n神柱的碎片"
   },
   {
@@ -8899,8 +8899,8 @@
   {
     "key": "offset_00070e92_0",
     "original": "カレイドスコープ",
-    "translation": "卡介镜",
-    "stage": 0,
+    "translation": "万花筒",
+    "stage": 1,
     "context": "机翻辅助：\n\n卡介镜\n\n卡雷德瞄准镜"
   },
   {
@@ -8913,8 +8913,8 @@
   {
     "key": "offset_00070ebe_0",
     "original": "未知の機構",
-    "translation": "未知的机构",
-    "stage": 0,
+    "translation": "未知的机关",
+    "stage": 1,
     "context": "机翻辅助：\n\n未知的机构"
   },
   {
@@ -8934,8 +8934,8 @@
   {
     "key": "offset_00070f2c_0",
     "original": "条件つき獅子",
-    "translation": "条件狮子",
-    "stage": 0,
+    "translation": "有条件的狮子",
+    "stage": 1,
     "context": "机翻辅助：\n\n条件狮子\n\n有条件的狮子"
   },
   {
@@ -8948,43 +8948,43 @@
   {
     "key": "offset_00070f58_0",
     "original": "遊魚のヒレ",
-    "translation": "游鱼鳍",
-    "stage": 0,
+    "translation": "游鱼的鳍",
+    "stage": 1,
     "context": "机翻辅助：\n\n游鱼鳍\n\n游鱼的鳍"
   },
   {
     "key": "offset_00070f6e_0",
     "original": "遊魚の眼",
-    "translation": "游鱼眼",
-    "stage": 0,
+    "translation": "游鱼的眼",
+    "stage": 1,
     "context": "机翻辅助：\n\n游鱼眼"
   },
   {
     "key": "offset_00070f84_0",
     "original": "ソードマンの伝説",
-    "translation": "苏德曼的传说",
-    "stage": 0,
+    "translation": "剑客的传说",
+    "stage": 1,
     "context": "机翻辅助：\n\n苏德曼的传说\n\n刀剑人的传说"
   },
   {
     "key": "offset_00070f9a_0",
     "original": "パラディンの逸話",
-    "translation": "帕拉丁的逸闻",
-    "stage": 0,
+    "translation": "圣骑士的轶事",
+    "stage": 1,
     "context": "机翻辅助：\n\n帕拉丁的逸闻\n\n圣骑士的轶事"
   },
   {
     "key": "offset_00070fb0_0",
     "original": "ダンサーの十八番",
-    "translation": "舞蹈家的十八号",
-    "stage": 0,
+    "translation": "舞者的绝活",
+    "stage": 1,
     "context": "机翻辅助：\n\n舞蹈家的十八号\n\n舞者的拿手好戏"
   },
   {
     "key": "offset_00070fc6_0",
     "original": "ガンナーの回顧録",
-    "translation": "甘纳回忆录",
-    "stage": 0,
+    "translation": "枪手的回忆录",
+    "stage": 1,
     "context": "机翻辅助：\n\n甘纳回忆录\n\n冈纳回忆录"
   },
   {
@@ -8997,15 +8997,15 @@
   {
     "key": "offset_00070ff2_0",
     "original": "メディックの奇跡",
-    "translation": "梅迪克的奇迹",
-    "stage": 0,
+    "translation": "医师的奇迹",
+    "stage": 1,
     "context": "机翻辅助：\n\n梅迪克的奇迹\n\n美迪克奇迹"
   },
   {
     "key": "offset_00071008_0",
     "original": "特殊アクセレシピＧ",
-    "translation": "特殊辅助配方G",
-    "stage": 0,
+    "translation": "特殊饰品配方G",
+    "stage": 1,
     "context": "机翻辅助：\n\n特殊辅助配方G\n\n特殊配方G"
   },
   {
@@ -9018,8 +9018,8 @@
   {
     "key": "offset_00071034_0",
     "original": "特殊アクセレシピＩ",
-    "translation": "特殊辅助配方I",
-    "stage": 0,
+    "translation": "特殊饰品配方I",
+    "stage": 1,
     "context": "机翻辅助：\n\n特殊辅助配方I\n\n特殊配方I"
   },
   {
@@ -9032,8 +9032,8 @@
   {
     "key": "offset_00071060_0",
     "original": "岩石の巨塊",
-    "translation": "岩石巨块",
-    "stage": 0,
+    "translation": "岩石的巨块",
+    "stage": 1,
     "context": "机翻辅助：\n\n岩石巨块\n\n巨大的岩石块"
   },
   {
@@ -9046,29 +9046,29 @@
   {
     "key": "offset_0007108c_0",
     "original": "未知の機構",
-    "translation": "未知的机构",
-    "stage": 0,
+    "translation": "未知的机关",
+    "stage": 1,
     "context": "机翻辅助：\n\n未知的机构"
   },
   {
     "key": "offset_000710a2_0",
     "original": "眠りを誘う花びら",
-    "translation": "诱导沉睡的花瓣",
-    "stage": 0,
+    "translation": "诱导入眠的花瓣",
+    "stage": 1,
     "context": "机翻辅助：\n\n诱导沉睡的花瓣\n\n引人入眠的花瓣"
   },
   {
     "key": "offset_000710b8_0",
     "original": "オオチョコミント",
-    "translation": "大巧克力",
-    "stage": 0,
+    "translation": "大块薄荷巧克力",
+    "stage": 1,
     "context": "机翻辅助：\n\n大巧克力\n\n大巧克力薄荷"
   },
   {
     "key": "offset_000710ce_0",
     "original": "恐竜に使える薬草",
-    "translation": "恐龙药草",
-    "stage": 0,
+    "translation": "能作用于恐龙的药草",
+    "stage": 1,
     "context": "机翻辅助：\n\n恐龙药草\n\n用于恐龙的草药"
   },
   {
@@ -9081,8 +9081,8 @@
   {
     "key": "offset_000710fa_0",
     "original": "未来の機構",
-    "translation": "未来的机构",
-    "stage": 0,
+    "translation": "未来的机关",
+    "stage": 1,
     "context": "机翻辅助：\n\n未来的机构"
   },
   {
@@ -9102,43 +9102,43 @@
   {
     "key": "offset_0007113c_0",
     "original": "フルートの音符",
-    "translation": "长笛的音符",
-    "stage": 0,
+    "translation": "长笛音符",
+    "stage": 1,
     "context": "机翻辅助：\n\n长笛的音符"
   },
   {
     "key": "offset_00071152_0",
     "original": "木琴の音符",
-    "translation": "木琴的音符",
-    "stage": 0,
+    "translation": "木琴音符",
+    "stage": 1,
     "context": "机翻辅助：\n\n木琴的音符"
   },
   {
     "key": "offset_00071168_0",
     "original": "バイオリンの音符",
-    "translation": "小提琴的音符",
-    "stage": 0,
+    "translation": "小提琴音符",
+    "stage": 1,
     "context": "机翻辅助：\n\n小提琴的音符"
   },
   {
     "key": "offset_0007117e_0",
     "original": "ティンパニの音符",
-    "translation": "丁帕尼音符",
-    "stage": 0,
+    "translation": "定音鼓音符",
+    "stage": 1,
     "context": "机翻辅助：\n\n丁帕尼音符\n\n定音鼓的音符"
   },
   {
     "key": "offset_00071194_0",
     "original": "鉄琴の音符",
-    "translation": "铁琴的音符",
-    "stage": 0,
+    "translation": "铁琴音符",
+    "stage": 1,
     "context": "机翻辅助：\n\n铁琴的音符"
   },
   {
     "key": "offset_000711aa_0",
     "original": "既知の機構",
-    "translation": "已知机制",
-    "stage": 0,
+    "translation": "已知机关",
+    "stage": 1,
     "context": "机翻辅助：\n\n已知机制\n\n已知的机构"
   },
   {
@@ -9165,8 +9165,8 @@
   {
     "key": "offset_00071202_0",
     "original": "机の脚",
-    "translation": "桌子腿儿",
-    "stage": 0,
+    "translation": "桌子的腿",
+    "stage": 1,
     "context": "机翻辅助：\n\n桌子腿儿\n\n桌子腿"
   },
   {
@@ -9186,8 +9186,8 @@
   {
     "key": "offset_00071244_0",
     "original": "銀机の脚",
-    "translation": "银桌子腿",
-    "stage": 0,
+    "translation": "银桌子的腿",
+    "stage": 1,
     "context": "机翻辅助：\n\n银桌子腿\n\n银桌子的脚"
   },
   {
@@ -9207,15 +9207,15 @@
   {
     "key": "offset_00071286_0",
     "original": "天秤の皿",
-    "translation": "天平盘",
-    "stage": 0,
+    "translation": "天平的盘子",
+    "stage": 1,
     "context": "机翻辅助：\n\n天平盘"
   },
   {
     "key": "offset_0007129c_0",
     "original": "条件つき天秤",
-    "translation": "条件天平",
-    "stage": 0,
+    "translation": "有条件的天平",
+    "stage": 1,
     "context": "机翻辅助：\n\n条件天平\n\n有条件的天平"
   },
   {
@@ -9235,29 +9235,29 @@
   {
     "key": "offset_000712de_0",
     "original": "凍った大鷲の鉤爪",
-    "translation": "冻了的大鹫的钩爪",
-    "stage": 0,
+    "translation": "冰冻的大鹫的钩爪",
+    "stage": 1,
     "context": "机翻辅助：\n\n冻了的大鹫的钩爪\n\n冻大鹫的钩爪"
   },
   {
     "key": "offset_000712f4_0",
     "original": "粘性の欠片",
-    "translation": "粘性碎片",
-    "stage": 0,
+    "translation": "粘性的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n粘性碎片"
   },
   {
     "key": "offset_0007130a_0",
     "original": "粘性の手",
-    "translation": "粘性之手",
-    "stage": 0,
+    "translation": "粘性的手",
+    "stage": 1,
     "context": "机翻辅助：\n\n粘性之手\n\n粘性的手"
   },
   {
     "key": "offset_00071320_0",
     "original": "条件つき粘性",
-    "translation": "有条件粘性",
-    "stage": 0,
+    "translation": "有条件的粘性",
+    "stage": 1,
     "context": "机翻辅助：\n\n有条件粘性\n\n条件粘性"
   },
   {
@@ -9284,22 +9284,22 @@
   {
     "key": "offset_00071378_0",
     "original": "長舌の欠片",
-    "translation": "长舌碎片",
-    "stage": 0,
+    "translation": "长舌头的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n长舌碎片\n\n长舌的碎片"
   },
   {
     "key": "offset_0007138e_0",
     "original": "長舌の外皮",
-    "translation": "长舌外皮",
-    "stage": 0,
+    "translation": "长舌头的外皮",
+    "stage": 1,
     "context": "机翻辅助：\n\n长舌外皮\n\n长舌的外皮"
   },
   {
     "key": "offset_000713a4_0",
     "original": "条件つき長舌",
-    "translation": "有条件的长舌",
-    "stage": 0,
+    "translation": "有条件的长舌头",
+    "stage": 1,
     "context": "机翻辅助：\n\n有条件的长舌"
   },
   {
@@ -9312,15 +9312,15 @@
   {
     "key": "offset_000713d0_0",
     "original": "大剣の柄",
-    "translation": "大剑柄",
-    "stage": 0,
+    "translation": "大剑的剑柄",
+    "stage": 1,
     "context": "机翻辅助：\n\n大剑柄"
   },
   {
     "key": "offset_000713e6_0",
     "original": "条件つき大剣",
-    "translation": "条件大剑",
-    "stage": 0,
+    "translation": "条件的大剑",
+    "stage": 1,
     "context": "机翻辅助：\n\n条件大剑\n\n有条件的大剑"
   },
   {
@@ -9333,8 +9333,8 @@
   {
     "key": "offset_00071412_0",
     "original": "甲蟲の角",
-    "translation": "甲虫之角",
-    "stage": 0,
+    "translation": "甲虫的角",
+    "stage": 1,
     "context": "机翻辅助：\n\n甲虫之角\n\n甲虫角"
   },
   {
@@ -9375,8 +9375,8 @@
   {
     "key": "offset_00071496_0",
     "original": "踊手の靴",
-    "translation": "舞鞋",
-    "stage": 0,
+    "translation": "舞者的鞋子",
+    "stage": 1,
     "context": "机翻辅助：\n\n舞鞋\n\n舞者的鞋"
   },
   {
@@ -9424,8 +9424,8 @@
   {
     "key": "offset_00071530_0",
     "original": "条件つき蝶々",
-    "translation": "条件蝴蝶",
-    "stage": 0,
+    "translation": "有条件的蝴蝶",
+    "stage": 1,
     "context": "机翻辅助：\n\n条件蝴蝶\n\n有条件的蝴蝶"
   },
   {
@@ -9487,8 +9487,8 @@
   {
     "key": "offset_000715f6_0",
     "original": "条件つき狂聖母",
-    "translation": "条件狂圣母",
-    "stage": 0,
+    "translation": "有条件的狂圣母",
+    "stage": 1,
     "context": "机翻辅助：\n\n条件狂圣母\n\n圣母附身"
   },
   {
@@ -9522,15 +9522,15 @@
   {
     "key": "offset_00071664_0",
     "original": "大蛇のリング",
-    "translation": "大蛇之环",
-    "stage": 0,
+    "translation": "大蛇的环",
+    "stage": 1,
     "context": "机翻辅助：\n\n大蛇之环\n\n大蛇的戒指"
   },
   {
     "key": "offset_0007167a_0",
     "original": "盲いた大蛇の脱殻",
-    "translation": "盲大蛇的蜕壳",
-    "stage": 0,
+    "translation": "目盲大蛇的蜕壳",
+    "stage": 1,
     "context": "机翻辅助：\n\n盲大蛇的蜕壳\n\n盲大蛇的脱壳"
   },
   {
@@ -9543,8 +9543,8 @@
   {
     "key": "offset_000716a6_0",
     "original": "銀蛇のリング",
-    "translation": "银蛇戒指",
-    "stage": 0,
+    "translation": "银蛇的环",
+    "stage": 1,
     "context": "机翻辅助：\n\n银蛇戒指"
   },
   {
@@ -9564,8 +9564,8 @@
   {
     "key": "offset_000716e8_0",
     "original": "独天使の矢尻",
-    "translation": "独天使的矢尻",
-    "stage": 0,
+    "translation": "独天使的箭头",
+    "stage": 1,
     "context": "机翻辅助：\n\n独天使的矢尻\n\n天使的矢尻"
   },
   {
@@ -9585,8 +9585,8 @@
   {
     "key": "offset_0007172a_0",
     "original": "愛天使の矢尻",
-    "translation": "爱天使的矢尻",
-    "stage": 0,
+    "translation": "爱天使的箭头",
+    "stage": 1,
     "context": "机翻辅助：\n\n爱天使的矢尻"
   },
   {
@@ -9606,8 +9606,8 @@
   {
     "key": "offset_0007176c_0",
     "original": "聖典の留め具",
-    "translation": "圣典的卡子",
-    "stage": 0,
+    "translation": "圣典的锁扣",
+    "stage": 1,
     "context": "机翻辅助：\n\n圣典的卡子\n\n圣典的锁扣"
   },
   {
@@ -9620,15 +9620,15 @@
   {
     "key": "offset_00071798_0",
     "original": "岩石の欠片",
-    "translation": "岩石碎片",
-    "stage": 0,
+    "translation": "岩石的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n岩石碎片"
   },
   {
     "key": "offset_000717ae_0",
     "original": "岩石の手形",
-    "translation": "岩石票据",
-    "stage": 0,
+    "translation": "岩石的手掌",
+    "stage": 1,
     "context": "机翻辅助：\n\n岩石票据"
   },
   {
@@ -9641,15 +9641,15 @@
   {
     "key": "offset_000717da_0",
     "original": "奇岩の欠片",
-    "translation": "奇岩碎片",
-    "stage": 0,
+    "translation": "奇岩的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n奇岩碎片\n\n奇岩的碎片"
   },
   {
     "key": "offset_000717f0_0",
     "original": "奇岩の手形",
-    "translation": "奇岩的票据",
-    "stage": 0,
+    "translation": "奇岩的手掌",
+    "stage": 1,
     "context": "机翻辅助：\n\n奇岩的票据"
   },
   {
@@ -9676,8 +9676,8 @@
   {
     "key": "offset_00071848_0",
     "original": "焦げた王様の杖",
-    "translation": "烧焦的国王之杖",
-    "stage": 0,
+    "translation": "烧焦的国王权杖",
+    "stage": 1,
     "context": "机翻辅助：\n\n烧焦的国王之杖"
   },
   {
@@ -9704,43 +9704,43 @@
   {
     "key": "offset_000718a0_0",
     "original": "レキシーの欠片",
-    "translation": "莱克西碎片",
-    "stage": 0,
+    "translation": "辗毙者的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n莱克西碎片\n\n历史碎片"
   },
   {
     "key": "offset_000718b6_0",
     "original": "レキシーのリボン",
-    "translation": "色带",
-    "stage": 0,
+    "translation": "辗毙者的蝴蝶结",
+    "stage": 1,
     "context": "机翻辅助：\n\n色带\n\n历史的蝴蝶结"
   },
   {
     "key": "offset_000718cc_0",
     "original": "黒いレキシーの綿",
-    "translation": "黑色蕾丝棉",
-    "stage": 0,
+    "translation": "黑色辗毙者的棉花",
+    "stage": 1,
     "context": "机翻辅助：\n\n黑色蕾丝棉\n\n黑色的纯棉"
   },
   {
     "key": "offset_000718e2_0",
     "original": "カロシーの欠片",
-    "translation": "卡罗西碎片",
-    "stage": 0,
+    "translation": "过劳死者的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n卡罗西碎片\n\n卡洛西碎片"
   },
   {
     "key": "offset_000718f8_0",
     "original": "カロシーのメガネ",
-    "translation": "卡罗西眼镜",
-    "stage": 0,
+    "translation": "过劳死者的眼镜",
+    "stage": 1,
     "context": "机翻辅助：\n\n卡罗西眼镜\n\n卡洛西的眼镜"
   },
   {
     "key": "offset_0007190e_0",
     "original": "条件つきカロシー",
-    "translation": "条件卡罗西",
-    "stage": 0,
+    "translation": "条件的过劳死者",
+    "stage": 1,
     "context": "机翻辅助：\n\n条件卡罗西\n\n有条件的卡西"
   },
   {
@@ -9760,15 +9760,15 @@
   {
     "key": "offset_00071950_0",
     "original": "割れた壷女の壷",
-    "translation": "破碎的壶女的壶",
-    "stage": 0,
+    "translation": "破碎的壶女之壶",
+    "stage": 1,
     "context": "机翻辅助：\n\n破碎的壶女的壶\n\n破壶女壶"
   },
   {
     "key": "offset_00071966_0",
     "original": "双子の欠片",
-    "translation": "双胞胎的碎片",
-    "stage": 0,
+    "translation": "双子的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n双胞胎的碎片"
   },
   {
@@ -9781,8 +9781,8 @@
   {
     "key": "offset_00071992_0",
     "original": "条件つき双子",
-    "translation": "有条件的双胞胎",
-    "stage": 0,
+    "translation": "有条件的双子",
+    "stage": 1,
     "context": "机翻辅助：\n\n有条件的双胞胎"
   },
   {
@@ -9795,8 +9795,8 @@
   {
     "key": "offset_000719be_0",
     "original": "ポリスのバッジ",
-    "translation": "警察徽章",
-    "stage": 0,
+    "translation": "警察的徽章",
+    "stage": 1,
     "context": "机翻辅助：\n\n警察徽章"
   },
   {
@@ -9816,8 +9816,8 @@
   {
     "key": "offset_00071a00_0",
     "original": "亡霊のランタン",
-    "translation": "亡灵的兰舌",
-    "stage": 0,
+    "translation": "亡灵的灯笼",
+    "stage": 1,
     "context": "机翻辅助：\n\n亡灵的兰舌\n\n亡灵之灯"
   },
   {
@@ -9837,8 +9837,8 @@
   {
     "key": "offset_00071a42_0",
     "original": "悪霊のランタン",
-    "translation": "恶灵的兰舌",
-    "stage": 0,
+    "translation": "恶灵的灯笼",
+    "stage": 1,
     "context": "机翻辅助：\n\n恶灵的兰舌\n\n恶灵的灯笼"
   },
   {
@@ -9865,15 +9865,15 @@
   {
     "key": "offset_00071a9a_0",
     "original": "彫像の鋭刃",
-    "translation": "雕像的锐刃",
-    "stage": 0,
+    "translation": "雕像的利刃",
+    "stage": 1,
     "context": "机翻辅助：\n\n雕像的锐刃\n\n雕像的利刃"
   },
   {
     "key": "offset_00071ab0_0",
     "original": "黒鴉の欠片",
-    "translation": "黑鸦片",
-    "stage": 0,
+    "translation": "黑鸦的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n黑鸦片\n\n黑鸦碎片"
   },
   {
@@ -9886,15 +9886,15 @@
   {
     "key": "offset_00071adc_0",
     "original": "条件つき黒鴉",
-    "translation": "条件黑鸦",
-    "stage": 0,
+    "translation": "有条件的黑鸦",
+    "stage": 1,
     "context": "机翻辅助：\n\n条件黑鸦\n\n有条件黑鸦"
   },
   {
     "key": "offset_00071af2_0",
     "original": "白鴉の欠片",
-    "translation": "白鸦片",
-    "stage": 0,
+    "translation": "白鸦的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n白鸦片\n\n白乌鸦的碎片"
   },
   {
@@ -9914,43 +9914,43 @@
   {
     "key": "offset_00071b34_0",
     "original": "霧雨次男の欠片",
-    "translation": "雾雨次子的碎片",
-    "stage": 0,
+    "translation": "雾雨兄弟二哥的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n雾雨次子的碎片"
   },
   {
     "key": "offset_00071b4a_0",
     "original": "霧雨次男の吐息",
-    "translation": "雾雨次子的叹息",
-    "stage": 0,
+    "translation": "雾雨兄弟二哥的叹息",
+    "stage": 1,
     "context": "机翻辅助：\n\n雾雨次子的叹息"
   },
   {
     "key": "offset_00071b60_0",
     "original": "霧雨次男の核",
-    "translation": "细雨次子的核",
-    "stage": 0,
+    "translation": "雾雨兄弟二哥的核心",
+    "stage": 1,
     "context": "机翻辅助：\n\n细雨次子的核\n\n雾雨次男之核"
   },
   {
     "key": "offset_00071b76_0",
     "original": "霧雨長男の欠片",
-    "translation": "细雨长子的碎片",
-    "stage": 0,
+    "translation": "雾雨兄弟大哥的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n细雨长子的碎片\n\n毛毛雨长子的碎片"
   },
   {
     "key": "offset_00071b8c_0",
     "original": "霧雨長男の溜息",
-    "translation": "细雨长子的叹息",
-    "stage": 0,
+    "translation": "雾雨兄弟大哥的叹息",
+    "stage": 1,
     "context": "机翻辅助：\n\n细雨长子的叹息\n\n毛毛雨长子的叹息"
   },
   {
     "key": "offset_00071ba2_0",
     "original": "霧雨長男の雷核",
-    "translation": "雾雨长子的雷核",
-    "stage": 0,
+    "translation": "雾雨兄弟大哥的雷核",
+    "stage": 1,
     "context": "机翻辅助：\n\n雾雨长子的雷核"
   },
   {
@@ -9991,8 +9991,8 @@
   {
     "key": "offset_00071c26_0",
     "original": "条件つきぐずぐず",
-    "translation": "有条件的拖延",
-    "stage": 0,
+    "translation": "有条件的磨磨蹭蹭",
+    "stage": 1,
     "context": "机翻辅助：\n\n有条件的拖延\n\n有条件的磨蹭"
   },
   {
@@ -10012,8 +10012,8 @@
   {
     "key": "offset_00071c68_0",
     "original": "呪いの監視者眼",
-    "translation": "诅咒的监视者眼",
-    "stage": 0,
+    "translation": "诅咒的监视者之眼",
+    "stage": 1,
     "context": "机翻辅助：\n\n诅咒的监视者眼\n\n诅咒的监视者之眼"
   },
   {
@@ -10068,36 +10068,36 @@
   {
     "key": "offset_00071d18_0",
     "original": "鉄腕のマスク",
-    "translation": "铁腕面具",
-    "stage": 0,
+    "translation": "铁臂的面具",
+    "stage": 1,
     "context": "机翻辅助：\n\n铁腕面具\n\n铁臂面具"
   },
   {
     "key": "offset_00071d2e_0",
     "original": "条件つき鉄腕",
-    "translation": "有条件的铁腕",
-    "stage": 0,
+    "translation": "有条件的铁臂",
+    "stage": 1,
     "context": "机翻辅助：\n\n有条件的铁腕"
   },
   {
     "key": "offset_00071d44_0",
     "original": "豪腕の欠片",
-    "translation": "大腕的碎片",
-    "stage": 0,
+    "translation": "豪腕的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n大腕的碎片\n\n豪强的碎片"
   },
   {
     "key": "offset_00071d5a_0",
     "original": "豪腕のマスク",
-    "translation": "豪华的面具",
-    "stage": 0,
+    "translation": "豪腕的面具",
+    "stage": 1,
     "context": "机翻辅助：\n\n豪华的面具\n\n豪强的面具"
   },
   {
     "key": "offset_00071d70_0",
     "original": "条件つき豪腕",
-    "translation": "有条件的大腕",
-    "stage": 0,
+    "translation": "有条件的豪腕",
+    "stage": 1,
     "context": "机翻辅助：\n\n有条件的大腕\n\n有条件的豪强"
   },
   {
@@ -10110,8 +10110,8 @@
   {
     "key": "offset_00071d9c_0",
     "original": "柳女の着物",
-    "translation": "柳衣",
-    "stage": 0,
+    "translation": "柳女的和服",
+    "stage": 1,
     "context": "机翻辅助：\n\n柳衣\n\n柳女的和服"
   },
   {
@@ -10145,22 +10145,22 @@
   {
     "key": "offset_00071e0a_0",
     "original": "鎖人の欠片",
-    "translation": "锁链人的碎片",
-    "stage": 0,
+    "translation": "锁人的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n锁链人的碎片\n\n锁人碎片"
   },
   {
     "key": "offset_00071e20_0",
     "original": "鎖人のバネ",
-    "translation": "锁链人的弹簧",
-    "stage": 0,
+    "translation": "锁人的弹簧",
+    "stage": 1,
     "context": "机翻辅助：\n\n锁链人的弹簧\n\n锁人弹簧"
   },
   {
     "key": "offset_00071e36_0",
     "original": "条件つき鎖人",
-    "translation": "有条件的锁链人",
-    "stage": 0,
+    "translation": "有条件的锁人",
+    "stage": 1,
     "context": "机翻辅助：\n\n有条件的锁链人"
   },
   {
@@ -10173,15 +10173,15 @@
   {
     "key": "offset_00071e62_0",
     "original": "僧塔の冠",
-    "translation": "僧塔之冠",
-    "stage": 0,
+    "translation": "僧塔的冠冕",
+    "stage": 1,
     "context": "机翻辅助：\n\n僧塔之冠"
   },
   {
     "key": "offset_00071e78_0",
     "original": "僧塔の眼",
-    "translation": "僧塔之眼",
-    "stage": 0,
+    "translation": "僧塔的眼睛",
+    "stage": 1,
     "context": "机翻辅助：\n\n僧塔之眼"
   },
   {
@@ -10194,15 +10194,15 @@
   {
     "key": "offset_00071ea4_0",
     "original": "翁の半纏",
-    "translation": "老翁的短上衣",
-    "stage": 0,
+    "translation": "老翁的短褂",
+    "stage": 1,
     "context": "机翻辅助：\n\n老翁的短上衣\n\n老翁的短褂"
   },
   {
     "key": "offset_00071eba_0",
     "original": "条件つき翁",
-    "translation": "条件老翁",
-    "stage": 0,
+    "translation": "有条件的老翁",
+    "stage": 1,
     "context": "机翻辅助：\n\n条件老翁\n\n有条件翁"
   },
   {
@@ -10215,8 +10215,8 @@
   {
     "key": "offset_00071ee6_0",
     "original": "緑翁の半纏",
-    "translation": "绿翁短上衣",
-    "stage": 0,
+    "translation": "绿翁的短褂",
+    "stage": 1,
     "context": "机翻辅助：\n\n绿翁短上衣\n\n绿翁的短褂"
   },
   {
@@ -10243,85 +10243,85 @@
   {
     "key": "offset_00071f3e_0",
     "original": "魔封じの吊盤の棘",
-    "translation": "魔封吊盘的刺",
-    "stage": 0,
+    "translation": "封魔的吊盘之刺",
+    "stage": 1,
     "context": "机翻辅助：\n\n魔封吊盘的刺\n\n封魔的吊盘之刺"
   },
   {
     "key": "offset_00071f54_0",
     "original": "賽の欠片",
-    "translation": "骰子碎片",
-    "stage": 0,
+    "translation": "赛的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n骰子碎片\n\n赛的碎片"
   },
   {
     "key": "offset_00071f6a_0",
     "original": "賽の目",
-    "translation": "色子",
-    "stage": 0,
+    "translation": "赛的眼睛",
+    "stage": 1,
     "context": "机翻辅助：\n\n色子\n\n功德眼"
   },
   {
     "key": "offset_00071f80_0",
     "original": "条件つき賽",
-    "translation": "有条件的骰子",
-    "stage": 0,
+    "translation": "有条件的赛",
+    "stage": 1,
     "context": "机翻辅助：\n\n有条件的骰子\n\n有条件赛"
   },
   {
     "key": "offset_00071f96_0",
     "original": "貴賽の欠片",
-    "translation": "贵香片",
-    "stage": 0,
+    "translation": "贵赛的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n贵香片\n\n贵赛的碎片"
   },
   {
     "key": "offset_00071fac_0",
     "original": "貴賽の塊",
-    "translation": "贵色之徒",
-    "stage": 0,
+    "translation": "贵赛的石块",
+    "stage": 1,
     "context": "机翻辅助：\n\n贵色之徒\n\n贵赛的块儿"
   },
   {
     "key": "offset_00071fc2_0",
     "original": "貴賽の目",
-    "translation": "贵色之眼",
-    "stage": 0,
+    "translation": "贵赛的眼睛",
+    "stage": 1,
     "context": "机翻辅助：\n\n贵色之眼\n\n贵香之眼"
   },
   {
     "key": "offset_00071fd8_0",
     "original": "獅輪の欠片",
-    "translation": "狮子圈的碎片",
-    "stage": 0,
+    "translation": "狮轮的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n狮子圈的碎片\n\n狮轮的碎片"
   },
   {
     "key": "offset_00071fee_0",
     "original": "獅輪の車軸",
-    "translation": "狮子轮的车轴",
-    "stage": 0,
+    "translation": "狮轮的车轴",
+    "stage": 1,
     "context": "机翻辅助：\n\n狮子轮的车轴\n\n狮轮车轴"
   },
   {
     "key": "offset_00072004_0",
     "original": "吹き荒ぶ獅輪の尾",
-    "translation": "狂暴的狮子尾巴",
-    "stage": 0,
+    "translation": "狂暴的狮轮尾巴",
+    "stage": 1,
     "context": "机翻辅助：\n\n狂暴的狮子尾巴\n\n狂风暴雨的狮尾"
   },
   {
     "key": "offset_0007201a_0",
     "original": "白獅輪の欠片",
-    "translation": "白狮轮碎片",
-    "stage": 0,
+    "translation": "白狮轮的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n白狮轮碎片\n\n白狮轮的碎片"
   },
   {
     "key": "offset_00072030_0",
     "original": "白獅輪の車軸",
-    "translation": "白狮轮车轴",
-    "stage": 0,
+    "translation": "白狮轮的车轴",
+    "stage": 1,
     "context": "机翻辅助：\n\n白狮轮车轴"
   },
   {
@@ -10348,8 +10348,8 @@
   {
     "key": "offset_00072088_0",
     "original": "感電した金棒",
-    "translation": "电棒",
-    "stage": 0,
+    "translation": "触电的金属棒",
+    "stage": 1,
     "context": "机翻辅助：\n\n电棒\n\n触电的金属棒"
   },
   {
@@ -10383,22 +10383,22 @@
   {
     "key": "offset_000720f6_0",
     "original": "牛頭の欠片",
-    "translation": "牛头碎片",
-    "stage": 0,
+    "translation": "牛头的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n牛头碎片"
   },
   {
     "key": "offset_0007210c_0",
     "original": "牛頭の鎖",
-    "translation": "牛头链",
-    "stage": 0,
+    "translation": "牛头的链",
+    "stage": 1,
     "context": "机翻辅助：\n\n牛头链"
   },
   {
     "key": "offset_00072122_0",
     "original": "凍った牛頭の角",
-    "translation": "冻牛头角",
-    "stage": 0,
+    "translation": "冻住的牛角",
+    "stage": 1,
     "context": "机翻辅助：\n\n冻牛头角"
   },
   {
@@ -10418,8 +10418,8 @@
   {
     "key": "offset_00072164_0",
     "original": "符師の杖",
-    "translation": "符师之杖",
-    "stage": 0,
+    "translation": "符师的手杖",
+    "stage": 1,
     "context": "机翻辅助：\n\n符师之杖"
   },
   {
@@ -10439,8 +10439,8 @@
   {
     "key": "offset_000721a6_0",
     "original": "城砦の砲身",
-    "translation": "城堡的炮身",
-    "stage": 0,
+    "translation": "城堡的炮筒",
+    "stage": 1,
     "context": "机翻辅助：\n\n城堡的炮身\n\n城堡的炮筒"
   },
   {
@@ -10460,127 +10460,127 @@
   {
     "key": "offset_000721e8_0",
     "original": "騎士のランス",
-    "translation": "骑士兰斯",
-    "stage": 0,
+    "translation": "骑士的长枪",
+    "stage": 1,
     "context": "机翻辅助：\n\n骑士兰斯"
   },
   {
     "key": "offset_000721fe_0",
     "original": "紅甲騎の欠片",
-    "translation": "红甲骑的碎片",
-    "stage": 0,
+    "translation": "红甲骑士的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n红甲骑的碎片"
   },
   {
     "key": "offset_00072214_0",
     "original": "紅甲騎の脚車輪",
-    "translation": "红甲骑的脚轮",
-    "stage": 0,
+    "translation": "红甲骑士的脚踏板",
+    "stage": 1,
     "context": "机翻辅助：\n\n红甲骑的脚轮"
   },
   {
     "key": "offset_0007222a_0",
     "original": "紅甲騎の剣片",
-    "translation": "红甲骑的剑片",
-    "stage": 0,
+    "translation": "红甲骑士的剑片",
+    "stage": 1,
     "context": "机翻辅助：\n\n红甲骑的剑片\n\n红甲骑之剑"
   },
   {
     "key": "offset_00072240_0",
     "original": "聖甲騎の欠片",
-    "translation": "圣甲骑的碎片",
-    "stage": 0,
+    "translation": "圣甲骑士的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n圣甲骑的碎片"
   },
   {
     "key": "offset_00072256_0",
     "original": "聖甲騎の脚車輪",
-    "translation": "圣甲骑的脚轮",
-    "stage": 0,
+    "translation": "圣甲骑士的脚踏板",
+    "stage": 1,
     "context": "机翻辅助：\n\n圣甲骑的脚轮"
   },
   {
     "key": "offset_0007226c_0",
     "original": "光る聖甲騎の歯車",
-    "translation": "闪耀的圣甲骑的齿轮",
-    "stage": 0,
+    "translation": "闪耀的圣甲骑士的齿轮",
+    "stage": 1,
     "context": "机翻辅助：\n\n闪耀的圣甲骑的齿轮\n\n发光的圣甲骑的齿轮"
   },
   {
     "key": "offset_00072282_0",
     "original": "砲座の欠片",
-    "translation": "炮座的碎片",
-    "stage": 0,
+    "translation": "炮台的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n炮座的碎片"
   },
   {
     "key": "offset_00072298_0",
     "original": "砲座の砲塔",
-    "translation": "炮塔",
-    "stage": 0,
+    "translation": "炮台的炮塔",
+    "stage": 1,
     "context": "机翻辅助：\n\n炮塔\n\n炮座炮塔"
   },
   {
     "key": "offset_000722ae_0",
     "original": "黒い砲座の車輪",
-    "translation": "黑色炮座的车轮",
-    "stage": 0,
+    "translation": "黑色炮台的车轮",
+    "stage": 1,
     "context": "机翻辅助：\n\n黑色炮座的车轮\n\n黑色的炮座轮子"
   },
   {
     "key": "offset_000722c4_0",
     "original": "黒木馬の欠片",
-    "translation": "黑木马的碎片",
-    "stage": 0,
+    "translation": "黑色木马的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n黑木马的碎片"
   },
   {
     "key": "offset_000722da_0",
     "original": "黒木馬の手枷",
-    "translation": "黑木马的手铐",
-    "stage": 0,
+    "translation": "黑色木马的手铐",
+    "stage": 1,
     "context": "机翻辅助：\n\n黑木马的手铐\n\n黑木马的枷锁"
   },
   {
     "key": "offset_000722f0_0",
     "original": "黒木馬の鎖",
-    "translation": "黑木马的锁链",
-    "stage": 0,
+    "translation": "黑色木马的锁",
+    "stage": 1,
     "context": "机翻辅助：\n\n黑木马的锁链\n\n黑木马链"
   },
   {
     "key": "offset_00072306_0",
     "original": "白木馬の欠片",
-    "translation": "白木马的碎片",
-    "stage": 0,
+    "translation": "白色木马的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n白木马的碎片"
   },
   {
     "key": "offset_0007231c_0",
     "original": "白木馬の手枷",
-    "translation": "白木马的手铐",
-    "stage": 0,
+    "translation": "白色木马的手铐",
+    "stage": 1,
     "context": "机翻辅助：\n\n白木马的手铐\n\n白木马的手枷"
   },
   {
     "key": "offset_00072332_0",
     "original": "条件つき白木馬",
-    "translation": "条件白木马",
-    "stage": 0,
+    "translation": "有条件的白色木马",
+    "stage": 1,
     "context": "机翻辅助：\n\n条件白木马\n\n有条件白木马"
   },
   {
     "key": "offset_00072348_0",
     "original": "賽輪の欠片",
-    "translation": "赛轮碎片",
-    "stage": 0,
+    "translation": "赛轮的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n赛轮碎片\n\n车轮的碎片"
   },
   {
     "key": "offset_0007235e_0",
     "original": "賽輪の塊",
-    "translation": "赛轮的块儿",
-    "stage": 0,
+    "translation": "赛轮的石块",
+    "stage": 1,
     "context": "机翻辅助：\n\n赛轮的块儿\n\n赛轮块"
   },
   {
@@ -10593,43 +10593,43 @@
   {
     "key": "offset_0007238a_0",
     "original": "赤賽輪の欠片",
-    "translation": "红赛轮碎片",
-    "stage": 0,
+    "translation": "红色赛轮的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n红赛轮碎片\n\n红轮的碎片"
   },
   {
     "key": "offset_000723a0_0",
     "original": "赤賽輪の塊",
-    "translation": "红赛轮的块儿",
-    "stage": 0,
+    "translation": "红色赛轮的石块",
+    "stage": 1,
     "context": "机翻辅助：\n\n红赛轮的块儿\n\n红轮块儿"
   },
   {
     "key": "offset_000723b6_0",
     "original": "条件つき赤賽輪",
-    "translation": "有条件的红赛轮",
-    "stage": 0,
+    "translation": "有条件的红色赛轮",
+    "stage": 1,
     "context": "机翻辅助：\n\n有条件的红赛轮\n\n有条件的红自行车"
   },
   {
     "key": "offset_000723cc_0",
     "original": "紅砲座の欠片",
-    "translation": "红炮座的碎片",
-    "stage": 0,
+    "translation": "红色炮台的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n红炮座的碎片"
   },
   {
     "key": "offset_000723e2_0",
     "original": "紅砲座の砲塔",
-    "translation": "红炮座的炮塔",
-    "stage": 0,
+    "translation": "红色炮台的炮塔",
+    "stage": 1,
     "context": "机翻辅助：\n\n红炮座的炮塔\n\n红炮座炮塔"
   },
   {
     "key": "offset_000723f8_0",
     "original": "条件つき紅砲座",
-    "translation": "条件红炮座",
-    "stage": 0,
+    "translation": "有条件的红色炮台",
+    "stage": 1,
     "context": "机翻辅助：\n\n条件红炮座\n\n有条件的红炮座"
   },
   {
@@ -10642,15 +10642,15 @@
   {
     "key": "offset_00072424_0",
     "original": "巨人の剣片",
-    "translation": "巨人之剑",
-    "stage": 0,
+    "translation": "巨人的剑片",
+    "stage": 1,
     "context": "机翻辅助：\n\n巨人之剑"
   },
   {
     "key": "offset_0007243a_0",
     "original": "貫かれた巨人の剣",
-    "translation": "被贯穿的巨人之剑",
-    "stage": 0,
+    "translation": "被贯穿的巨人的剑",
+    "stage": 1,
     "context": "机翻辅助：\n\n被贯穿的巨人之剑\n\n贯穿的巨人之剑"
   },
   {
@@ -10677,8 +10677,8 @@
   {
     "key": "offset_00072492_0",
     "original": "破れた数札",
-    "translation": "破了的几张牌",
-    "stage": 0,
+    "translation": "破损的牌",
+    "stage": 1,
     "context": "机翻辅助：\n\n破了的几张牌\n\n破掉的几张钞票"
   },
   {
@@ -10698,8 +10698,8 @@
   {
     "key": "offset_000724d4_0",
     "original": "塗られた数札",
-    "translation": "涂上的几张牌",
-    "stage": 0,
+    "translation": "背涂黑的牌",
+    "stage": 1,
     "context": "机翻辅助：\n\n涂上的几张牌\n\n涂好的几张牌"
   },
   {
@@ -10803,8 +10803,8 @@
   {
     "key": "offset_0007261e_0",
     "original": "古いおしゃぶり",
-    "translation": "陈腔滥调",
-    "stage": 0,
+    "translation": "陈旧的奶嘴",
+    "stage": 1,
     "context": "机翻辅助：\n\n陈腔滥调\n\n旧奶嘴"
   },
   {
@@ -10824,8 +10824,8 @@
   {
     "key": "offset_00072660_0",
     "original": "赤いおべべ",
-    "translation": "红色的锅",
-    "stage": 0,
+    "translation": "红色的婴儿服",
+    "stage": 1,
     "context": "机翻辅助：\n\n红色的锅\n\n红汤匙"
   },
   {
@@ -10845,8 +10845,8 @@
   {
     "key": "offset_000726a2_0",
     "original": "青いおべべ",
-    "translation": "蓝锅",
-    "stage": 0,
+    "translation": "蓝色的婴儿服",
+    "stage": 1,
     "context": "机翻辅助：\n\n蓝锅\n\n蓝肚皮"
   },
   {
@@ -10929,8 +10929,8 @@
   {
     "key": "offset_000727aa_0",
     "original": "ひょっとこの面",
-    "translation": "也许这一面",
-    "stage": 0,
+    "translation": "火男面具",
+    "stage": 1,
     "context": "机翻辅助：\n\n也许这一面\n\n这张脸"
   },
   {
@@ -11062,8 +11062,8 @@
   {
     "key": "offset_0007294c_0",
     "original": "甲蟲の金片",
-    "translation": "甲虫之金片",
-    "stage": 0,
+    "translation": "甲虫的金片",
+    "stage": 1,
     "context": "机翻辅助：\n\n甲虫之金片\n\n甲虫金片"
   },
   {
@@ -11090,148 +11090,148 @@
   {
     "key": "offset_000729a4_0",
     "original": "オロチ端材",
-    "translation": "龙骨端材",
-    "stage": 0,
+    "translation": "大蛇边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n龙骨端材\n\n大蛇边材"
   },
   {
     "key": "offset_000729ba_0",
     "original": "ピクシー端材",
-    "translation": "皮克斯端材",
-    "stage": 0,
+    "translation": "皮克西边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n皮克斯端材\n\n皮克西边角料"
   },
   {
     "key": "offset_000729d0_0",
     "original": "ゲンブ端材",
-    "translation": "龙骨端材",
-    "stage": 0,
+    "translation": "玄武边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n龙骨端材\n\n原始边角料"
   },
   {
     "key": "offset_000729e6_0",
     "original": "スザク端材",
-    "translation": "朱雀端材",
-    "stage": 0,
+    "translation": "朱雀边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n朱雀端材\n\n扎边材"
   },
   {
     "key": "offset_000729fc_0",
     "original": "ランタン端材",
-    "translation": "镧端材",
-    "stage": 0,
+    "translation": "灯笼边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n镧端材\n\n油灯边材"
   },
   {
     "key": "offset_00072a12_0",
     "original": "ジン端材",
-    "translation": "拉深端材",
-    "stage": 0,
+    "translation": "精灵边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n拉深端材\n\n边角料"
   },
   {
     "key": "offset_00072a28_0",
     "original": "ビャッコ端材",
-    "translation": "维亚科端材",
-    "stage": 0,
+    "translation": "白虎边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n维亚科端材\n\n檀木边材"
   },
   {
     "key": "offset_00072a3e_0",
     "original": "フロスト端材",
-    "translation": "垫板端材",
-    "stage": 0,
+    "translation": "霜精边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n垫板端材\n\n冰霜边材"
   },
   {
     "key": "offset_00072a54_0",
     "original": "サキュバス端材",
-    "translation": "支撑端材",
-    "stage": 0,
+    "translation": "女梦魔边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n支撑端材\n\n砂轮边角料"
   },
   {
     "key": "offset_00072a6a_0",
     "original": "ヌエ端材",
-    "translation": "空端材",
-    "stage": 0,
+    "translation": "奴延边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n空端材\n\n纺丝边材"
   },
   {
     "key": "offset_00072a80_0",
     "original": "スカディ端材",
-    "translation": "斯卡迪端材",
-    "stage": 0,
+    "translation": "丝卡蒂边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n斯卡迪端材\n\n斯卡迪边角料"
   },
   {
     "key": "offset_00072a96_0",
     "original": "マタドール端材",
-    "translation": "马塔多端材",
-    "stage": 0,
+    "translation": "斗牛士边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n马塔多端材\n\n还有娃娃边材"
   },
   {
     "key": "offset_00072aac_0",
     "original": "セイリュウ端材",
-    "translation": "螺杆端材",
-    "stage": 0,
+    "translation": "青龙边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n螺杆端材\n\n正流边材"
   },
   {
     "key": "offset_00072ac2_0",
     "original": "キュベレ端材",
-    "translation": "套管端材",
-    "stage": 0,
+    "translation": "库柏勒边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n套管端材\n\n边角料"
   },
   {
     "key": "offset_00072ad8_0",
     "original": "オニ端材",
-    "translation": "鬼端材",
-    "stage": 0,
+    "translation": "鬼边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n鬼端材\n\n鬼边角料"
   },
   {
     "key": "offset_00072aee_0",
     "original": "ゼウス端材",
-    "translation": "宙斯端材",
-    "stage": 0,
+    "translation": "宙斯边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n宙斯端材\n\n宙斯边材"
   },
   {
     "key": "offset_00072b04_0",
     "original": "黒爪の破片",
-    "translation": "黑指甲碎片",
-    "stage": 0,
+    "translation": "黑爪的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n黑指甲碎片\n\n黑爪碎片"
   },
   {
     "key": "offset_00072b1a_0",
     "original": "ヨシツネの刀片",
-    "translation": "芦苇刀",
-    "stage": 0,
+    "translation": "义经的刀片",
+    "stage": 1,
     "context": "机翻辅助：\n\n芦苇刀\n\n义经的刀片"
   },
   {
     "key": "offset_00072b30_0",
     "original": "マサカドの刀片",
-    "translation": "马萨卡德刀",
-    "stage": 0,
+    "translation": "将门的刀片",
+    "stage": 1,
     "context": "机翻辅助：\n\n马萨卡德刀\n\n正门的刀片"
   },
   {
     "key": "offset_00072b46_0",
     "original": "アスラの聖仙骨",
-    "translation": "阿斯拉的圣仙骨",
-    "stage": 0,
+    "translation": "阿修罗的圣仙骨",
+    "stage": 1,
     "context": "机翻辅助：\n\n阿斯拉的圣仙骨\n\n阿斯拉圣仙骨"
   },
   {
     "key": "offset_00072b5c_0",
     "original": "ヴィシュヌの刀片",
-    "translation": "维什努刀",
-    "stage": 0,
+    "translation": "毗湿奴的刀片",
+    "stage": 1,
     "context": "机翻辅助：\n\n维什努刀\n\n毗湿奴刀片"
   },
   {
@@ -11244,15 +11244,15 @@
   {
     "key": "offset_00072b88_0",
     "original": "韋駄天の羽根",
-    "translation": "飞毛腿",
-    "stage": 0,
+    "translation": "韦陀天的羽毛",
+    "stage": 1,
     "context": "机翻辅助：\n\n飞毛腿\n\n韦驮天的羽毛"
   },
   {
     "key": "offset_00072b9e_0",
     "original": "割れた石版",
-    "translation": "碎石版",
-    "stage": 0,
+    "translation": "碎裂的石板",
+    "stage": 1,
     "context": "机翻辅助：\n\n碎石版\n\n碎了的石板"
   },
   {
@@ -11265,8 +11265,8 @@
   {
     "key": "offset_00072bca_0",
     "original": "アリオク端材",
-    "translation": "阿里奥克端材",
-    "stage": 0,
+    "translation": "亚略边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n阿里奥克端材\n\n现成的边角料"
   },
   {
@@ -11286,15 +11286,15 @@
   {
     "key": "offset_00072c0c_0",
     "original": "ミカエルの剣片",
-    "translation": "蜜饯之剑",
-    "stage": 0,
+    "translation": "米迦勒的剑片",
+    "stage": 1,
     "context": "机翻辅助：\n\n蜜饯之剑\n\n米迦勒的剑片"
   },
   {
     "key": "offset_00072c22_0",
     "original": "シュウの弓片",
-    "translation": "草弓",
-    "stage": 0,
+    "translation": "蚩尤的弓片",
+    "stage": 1,
     "context": "机翻辅助：\n\n草弓\n\n周的弓片"
   },
   {
@@ -11314,85 +11314,85 @@
   {
     "key": "offset_00072c64_0",
     "original": "悪神の業苦",
-    "translation": "恶神之业",
-    "stage": 0,
+    "translation": "恶神的业苦",
+    "stage": 1,
     "context": "机翻辅助：\n\n恶神之业\n\n恶神的业苦"
   },
   {
     "key": "offset_00072c7a_0",
     "original": "蝿王の杖片端材",
-    "translation": "苍蝇王之杖",
-    "stage": 0,
+    "translation": "苍蝇王的杖片边角料",
+    "stage": 1,
     "context": "机翻辅助：\n\n苍蝇王之杖\n\n蝇王的拐杖"
   },
   {
     "key": "offset_00072c90_0",
     "original": "シャドウの欠片",
-    "translation": "暗影碎片",
-    "stage": 0,
+    "translation": "暗影的碎片",
+    "stage": 1,
     "context": "机翻辅助：\n\n暗影碎片"
   },
   {
     "key": "offset_00072ca6_0",
     "original": "ケーキの頁",
-    "translation": "蛋糕页",
-    "stage": 0,
+    "translation": "蛋糕的书页",
+    "stage": 1,
     "context": "机翻辅助：\n\n蛋糕页\n\n蛋糕一页"
   },
   {
     "key": "offset_00072cbc_0",
     "original": "キノコの頁",
-    "translation": "蘑菇的页码",
-    "stage": 0,
+    "translation": "蘑菇的书页",
+    "stage": 1,
     "context": "机翻辅助：\n\n蘑菇的页码\n\n一页蘑菇"
   },
   {
     "key": "offset_00072cd2_0",
     "original": "タルトパイの頁",
-    "translation": "蛋挞页",
-    "stage": 0,
+    "translation": "蛋挞的书页",
+    "stage": 1,
     "context": "机翻辅助：\n\n蛋挞页\n\n塔尔特派一页"
   },
   {
     "key": "offset_00072ce8_0",
     "original": "ウミガメの頁",
-    "translation": "海龟的页面",
-    "stage": 0,
+    "translation": "海龟的书页",
+    "stage": 1,
     "context": "机翻辅助：\n\n海龟的页面\n\n海龟页"
   },
   {
     "key": "offset_00072cfe_0",
     "original": "グリフォンの頁",
-    "translation": "格里冯页",
-    "stage": 0,
+    "translation": "狮鹫的书页",
+    "stage": 1,
     "context": "机翻辅助：\n\n格里冯页\n\n格力手机页"
   },
   {
     "key": "offset_00072d14_0",
     "original": "ネムリネズミの頁",
-    "translation": "老鼠的页码",
-    "stage": 0,
+    "translation": "睡鼠的书页",
+    "stage": 1,
     "context": "机翻辅助：\n\n老鼠的页码\n\n睡鼠一页"
   },
   {
     "key": "offset_00072d2a_0",
     "original": "帽子屋の頁",
-    "translation": "帽檐儿",
-    "stage": 0,
+    "translation": "疯帽子的书页",
+    "stage": 1,
     "context": "机翻辅助：\n\n帽檐儿\n\n帽子店那一页"
   },
   {
     "key": "offset_00072d40_0",
     "original": "料理人の頁",
-    "translation": "厨师页",
-    "stage": 0,
+    "translation": "厨师的书页",
+    "stage": 1,
     "context": "机翻辅助：\n\n厨师页\n\n厨师一页"
   },
   {
     "key": "offset_00072d56_0",
     "original": "侯爵夫人の頁",
-    "translation": "侯爵夫人的页",
-    "stage": 0,
+    "translation": "侯爵夫人的书页",
+    "stage": 1,
     "context": "机翻辅助：\n\n侯爵夫人的页\n\n侯爵夫人一页"
   },
   {
@@ -11433,8 +11433,8 @@
   {
     "key": "offset_00072dda_0",
     "original": "枯れたアマリリス",
-    "translation": "枯萎的松鼠",
-    "stage": 0,
+    "translation": "枯萎的孤挺花",
+    "stage": 1,
     "context": "机翻辅助：\n\n枯萎的松鼠"
   },
   {
@@ -11447,8 +11447,8 @@
   {
     "key": "offset_00072e06_0",
     "original": "欠けたチョーカー",
-    "translation": "残缺的巧克力",
-    "stage": 0,
+    "translation": "残缺的颈链",
+    "stage": 1,
     "context": "机翻辅助：\n\n残缺的巧克力\n\n残缺的chOKer"
   },
   {
@@ -11461,8 +11461,8 @@
   {
     "key": "offset_00072e32_0",
     "original": "割れたティアラ",
-    "translation": "破碎的考拉",
-    "stage": 0,
+    "translation": "破碎的头冠",
+    "stage": 1,
     "context": "机翻辅助：\n\n破碎的考拉\n\n碎了的头饰"
   },
   {
@@ -11475,29 +11475,29 @@
   {
     "key": "offset_00072e5e_0",
     "original": "割れたガラスの靴",
-    "translation": "碎玻璃鞋",
-    "stage": 0,
+    "translation": "破碎的玻璃鞋",
+    "stage": 1,
     "context": "机翻辅助：\n\n碎玻璃鞋"
   },
   {
     "key": "offset_00072e74_0",
     "original": "破れたベール",
-    "translation": "破了的面纱",
-    "stage": 0,
+    "translation": "破损的面纱",
+    "stage": 1,
     "context": "机翻辅助：\n\n破了的面纱\n\n破面纱"
   },
   {
     "key": "offset_00072e8a_0",
     "original": "破れたショール",
-    "translation": "破了的披肩",
-    "stage": 0,
+    "translation": "破损的披肩",
+    "stage": 1,
     "context": "机翻辅助：\n\n破了的披肩"
   },
   {
     "key": "offset_00072ea0_0",
     "original": "破れたドレス",
-    "translation": "破了的礼服",
-    "stage": 0,
+    "translation": "破损的礼服",
+    "stage": 1,
     "context": "机翻辅助：\n\n破了的礼服\n\n破裙子"
   },
   {
@@ -11531,29 +11531,29 @@
   {
     "key": "offset_00072f0e_0",
     "original": "ノートの切れ端",
-    "translation": "笔记本边儿",
-    "stage": 0,
+    "translation": "笔记本的残片",
+    "stage": 1,
     "context": "机翻辅助：\n\n笔记本边儿\n\n笔记本的残片"
   },
   {
     "key": "offset_00072f24_0",
     "original": "教科書の切れ端",
-    "translation": "教科书的碎片",
-    "stage": 0,
+    "translation": "教科书的残片",
+    "stage": 1,
     "context": "机翻辅助：\n\n教科书的碎片\n\n教科书的残片"
   },
   {
     "key": "offset_00072f3a_0",
     "original": "資料集の切れ端",
-    "translation": "资料集的碎片",
-    "stage": 0,
+    "translation": "资料集的残片",
+    "stage": 1,
     "context": "机翻辅助：\n\n资料集的碎片\n\n资料集的残片"
   },
   {
     "key": "offset_00072f50_0",
     "original": "ちぎられた時間割",
-    "translation": "破碎的时间表",
-    "stage": 0,
+    "translation": "被撕碎的时间表",
+    "stage": 1,
     "context": "机翻辅助：\n\n破碎的时间表\n\n被打乱的时间表"
   },
   {
@@ -11566,8 +11566,8 @@
   {
     "key": "offset_00072f7c_0",
     "original": "ちぎられた校章",
-    "translation": "破碎的校徽",
-    "stage": 0,
+    "translation": "被撕碎的校徽",
+    "stage": 1,
     "context": "机翻辅助：\n\n破碎的校徽\n\n被撕碎的校徽"
   },
   {
@@ -11594,22 +11594,22 @@
   {
     "key": "offset_00072fd4_0",
     "original": "血染めの包帯",
-    "translation": "血染绷带",
-    "stage": 0,
+    "translation": "染血的绷带",
+    "stage": 1,
     "context": "机翻辅助：\n\n血染绷带\n\n染血的绷带"
   },
   {
     "key": "offset_00072fea_0",
     "original": "血染めのガーゼ",
-    "translation": "血染的纱布",
-    "stage": 0,
+    "translation": "染血的纱布",
+    "stage": 1,
     "context": "机翻辅助：\n\n血染的纱布\n\n染血的纱布"
   },
   {
     "key": "offset_00073000_0",
     "original": "血染めのカルテ",
-    "translation": "血染的病历",
-    "stage": 0,
+    "translation": "染血的病历本",
+    "stage": 1,
     "context": "机翻辅助：\n\n血染的病历\n\n染血的病历"
   },
   {
@@ -11664,15 +11664,15 @@
   {
     "key": "offset_000730b0_0",
     "original": "２６０番の楽譜",
-    "translation": "260号的乐谱",
-    "stage": 0,
+    "translation": "260号乐谱",
+    "stage": 1,
     "context": "机翻辅助：\n\n260号的乐谱\n\n260号乐谱"
   },
   {
     "key": "offset_000730c6_0",
     "original": "６５７番の楽譜",
-    "translation": "657号的乐谱",
-    "stage": 0,
+    "translation": "657号乐谱",
+    "stage": 1,
     "context": "机翻辅助：\n\n657号的乐谱\n\n第657号乐谱"
   },
   {
@@ -11706,15 +11706,15 @@
   {
     "key": "offset_00073134_0",
     "original": "白い帯",
-    "translation": "白带",
-    "stage": 0,
+    "translation": "白色的带子",
+    "stage": 1,
     "context": "机翻辅助：\n\n白带"
   },
   {
     "key": "offset_0007314a_0",
     "original": "白いろうそく",
-    "translation": "白色蜡烛",
-    "stage": 0,
+    "translation": "白色的蜡烛",
+    "stage": 1,
     "context": "机翻辅助：\n\n白色蜡烛\n\n白蜡烛"
   },
   {
@@ -11776,22 +11776,22 @@
   {
     "key": "offset_00073210_0",
     "original": "鈍色のゼンマイ",
-    "translation": "深色发条",
-    "stage": 0,
+    "translation": "深色的发条",
+    "stage": 1,
     "context": "机翻辅助：\n\n深色发条\n\n钝色的发条"
   },
   {
     "key": "offset_00073226_0",
     "original": "銀色のゼンマイ",
-    "translation": "银色发条",
-    "stage": 0,
+    "translation": "银色的发条",
+    "stage": 1,
     "context": "机翻辅助：\n\n银色发条\n\n银色的发条"
   },
   {
     "key": "offset_0007323c_0",
     "original": "金色のゼンマイ",
-    "translation": "金色发条",
-    "stage": 0,
+    "translation": "金色的发条",
+    "stage": 1,
     "context": "机翻辅助：\n\n金色发条\n\n金色的发条"
   },
   {
@@ -11804,8 +11804,8 @@
   {
     "key": "offset_00073268_0",
     "original": "共鳴しない音叉",
-    "translation": "没有共鸣的音叉",
-    "stage": 0,
+    "translation": "不会产生共鸣的音叉",
+    "stage": 1,
     "context": "机翻辅助：\n\n没有共鸣的音叉"
   },
   {
@@ -11818,29 +11818,29 @@
   {
     "key": "offset_00073294_0",
     "original": "回らない三番車",
-    "translation": "不转的三号车",
-    "stage": 0,
+    "translation": "不转的三号齿轮",
+    "stage": 1,
     "context": "机翻辅助：\n\n不转的三号车"
   },
   {
     "key": "offset_000732aa_0",
     "original": "回らない二番車",
-    "translation": "不转的二号车",
-    "stage": 0,
+    "translation": "不转的二号齿轮",
+    "stage": 1,
     "context": "机翻辅助：\n\n不转的二号车"
   },
   {
     "key": "offset_000732c0_0",
     "original": "回らない香箱車",
-    "translation": "不转的香箱车",
-    "stage": 0,
+    "translation": "不转的发条盒",
+    "stage": 1,
     "context": "机翻辅助：\n\n不转的香箱车\n\n不转动的香箱车"
   },
   {
     "key": "offset_000732d6_0",
     "original": "マニラロープ",
-    "translation": "马尼拉绳",
-    "stage": 0,
+    "translation": "马尼拉麻绳",
+    "stage": 1,
     "context": "机翻辅助：\n\n马尼拉绳"
   },
   {
@@ -11853,43 +11853,43 @@
   {
     "key": "offset_00073302_0",
     "original": "見覚えの像",
-    "translation": "似曾相识的雕像",
-    "stage": 0,
+    "translation": "眼熟的雕像",
+    "stage": 1,
     "context": "机翻辅助：\n\n似曾相识的雕像\n\n眼熟的像"
   },
   {
     "key": "offset_00073318_0",
     "original": "聞きかじりの像",
-    "translation": "耳旁风",
-    "stage": 0,
+    "translation": "道听途说的雕像",
+    "stage": 1,
     "context": "机翻辅助：\n\n耳旁风\n\n听来听去的像"
   },
   {
     "key": "offset_0007332e_0",
     "original": "口寄せの像",
-    "translation": "招贴的画像",
-    "stage": 0,
+    "translation": "附灵的雕像",
+    "stage": 1,
     "context": "机翻辅助：\n\n招贴的画像\n\n亲吻的像"
   },
   {
     "key": "offset_00073344_0",
     "original": "傷が入ったレンズ",
-    "translation": "有瑕疵的镜片",
-    "stage": 0,
+    "translation": "有划痕的镜片",
+    "stage": 1,
     "context": "机翻辅助：\n\n有瑕疵的镜片\n\n有划痕的镜片"
   },
   {
     "key": "offset_0007335a_0",
     "original": "魔寄せの牝竹",
-    "translation": "魔寄的雌竹",
-    "stage": 0,
+    "translation": "附魔的母竹",
+    "stage": 1,
     "context": "机翻辅助：\n\n魔寄的雌竹\n\n魔贴的母竹"
   },
   {
     "key": "offset_00073370_0",
     "original": "魔除けの銀錫",
-    "translation": "驱魔的银锡",
-    "stage": 0,
+    "translation": "驱魔银锡",
+    "stage": 1,
     "context": "机翻辅助：\n\n驱魔的银锡\n\n辟邪的银锡"
   },
   {
@@ -11909,8 +11909,8 @@
   {
     "key": "offset_000733b2_0",
     "original": "アダマス鋼",
-    "translation": "金刚砂钢",
-    "stage": 0,
+    "translation": "至坚之钢",
+    "stage": 1,
     "context": "机翻辅助：\n\n金刚砂钢\n\n阿达玛斯"
   },
   {
@@ -11937,43 +11937,43 @@
   {
     "key": "offset_00073420_0",
     "original": "アクセサリ２開始",
-    "translation": "附件2开始",
-    "stage": 0,
+    "translation": "饰品2开始",
+    "stage": 1,
     "context": "机翻辅助：\n\n附件2开始\n\n配件2开始"
   },
   {
     "key": "offset_00073436_0",
     "original": "パワーアンクル",
-    "translation": "动力铲斗",
-    "stage": 0,
+    "translation": "动力脚踝",
+    "stage": 1,
     "context": "机翻辅助：\n\n动力铲斗\n\n动力踝"
   },
   {
     "key": "offset_0007344c_0",
     "original": "魔導のタリスマン",
-    "translation": "魔导的塔里斯曼",
-    "stage": 0,
+    "translation": "魔导护身符",
+    "stage": 1,
     "context": "机翻辅助：\n\n魔导的塔里斯曼\n\n魔导塔利斯曼"
   },
   {
     "key": "offset_00073462_0",
     "original": "忍耐ベルト",
-    "translation": "忍耐带",
-    "stage": 0,
+    "translation": "忍耐皮带",
+    "stage": 1,
     "context": "机翻辅助：\n\n忍耐带"
   },
   {
     "key": "offset_00073478_0",
     "original": "アーミーソックス",
-    "translation": "阿米短袜",
-    "stage": 0,
+    "translation": "军队短袜",
+    "stage": 1,
     "context": "机翻辅助：\n\n阿米短袜\n\n军袜"
   },
   {
     "key": "offset_0007348e_0",
     "original": "ラッキーチャーム",
-    "translation": "幸运魅力",
-    "stage": 0,
+    "translation": "幸运小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n幸运魅力\n\n幸运饰物"
   },
   {
@@ -12028,15 +12028,15 @@
   {
     "key": "offset_0007353e_0",
     "original": "エルボーパッド",
-    "translation": "弯头垫",
-    "stage": 0,
+    "translation": "护膝",
+    "stage": 1,
     "context": "机翻辅助：\n\n弯头垫\n\n埃尔沃卡特"
   },
   {
     "key": "offset_00073554_0",
     "original": "レッグウォーマー",
-    "translation": "腿部蜗杆",
-    "stage": 0,
+    "translation": "护腿",
+    "stage": 1,
     "context": "机翻辅助：\n\n腿部蜗杆\n\n腿暖"
   },
   {
@@ -12049,8 +12049,8 @@
   {
     "key": "offset_00073580_0",
     "original": "ヨガたすき",
-    "translation": "瑜伽爱好者",
-    "stage": 0,
+    "translation": "瑜伽带",
+    "stage": 1,
     "context": "机翻辅助：\n\n瑜伽爱好者\n\n瑜珈带"
   },
   {
@@ -12063,64 +12063,64 @@
   {
     "key": "offset_000735ac_0",
     "original": "生存戦略ノート",
-    "translation": "生存战略注释",
-    "stage": 0,
+    "translation": "生存战略笔记",
+    "stage": 1,
     "context": "机翻辅助：\n\n生存战略注释\n\n生存战略笔记"
   },
   {
     "key": "offset_000735d8_0",
     "original": "パラディンの紋章",
-    "translation": "帕拉丁的家徽",
-    "stage": 0,
+    "translation": "圣骑士的纹章",
+    "stage": 1,
     "context": "机翻辅助：\n\n帕拉丁的家徽\n\n圣骑士徽章"
   },
   {
     "key": "offset_000735ee_0",
     "original": "ソードマンの紋章",
-    "translation": "苏德曼的家徽",
-    "stage": 0,
+    "translation": "剑客的纹章",
+    "stage": 1,
     "context": "机翻辅助：\n\n苏德曼的家徽\n\n刀剑人纹章"
   },
   {
     "key": "offset_00073604_0",
     "original": "メディックの紋章",
-    "translation": "米迪克的家徽",
-    "stage": 0,
+    "translation": "医师的纹章",
+    "stage": 1,
     "context": "机翻辅助：\n\n米迪克的家徽\n\n梅迪克纹章"
   },
   {
     "key": "offset_0007361a_0",
     "original": "バードの紋章",
-    "translation": "鸟之纹章",
-    "stage": 0,
+    "translation": "鸟的纹章",
+    "stage": 1,
     "context": "机翻辅助：\n\n鸟之纹章\n\n伯德徽章"
   },
   {
     "key": "offset_00073630_0",
     "original": "ブシドーの紋章",
-    "translation": "布什多的家徽",
-    "stage": 0,
+    "translation": "武士道的纹章",
+    "stage": 1,
     "context": "机翻辅助：\n\n布什多的家徽\n\n武士道徽章"
   },
   {
     "key": "offset_00073646_0",
     "original": "ミスティックの紋章",
-    "translation": "神秘的家徽",
-    "stage": 0,
+    "translation": "神秘的纹章",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的家徽\n\nmistic纹章"
   },
   {
     "key": "offset_00073672_0",
     "original": "共鳴のミサンガ",
-    "translation": "共鸣的女神",
-    "stage": 0,
+    "translation": "共鸣的友情手链",
+    "stage": 1,
     "context": "机翻辅助：\n\n共鸣的女神\n\n共鸣的实质"
   },
   {
     "key": "offset_00073688_0",
     "original": "魂友のミサンガ",
-    "translation": "魂友",
-    "stage": 0,
+    "translation": "灵魂之友的友情手链",
+    "stage": 1,
     "context": "机翻辅助：\n\n魂友\n\n魂友美小姐"
   },
   {
@@ -12133,8 +12133,8 @@
   {
     "key": "offset_000736b4_0",
     "original": "ロゴスの鏡",
-    "translation": "洛戈斯之镜",
-    "stage": 0,
+    "translation": "逻辑之镜",
+    "stage": 1,
     "context": "机翻辅助：\n\n洛戈斯之镜\n\n逻各斯之镜"
   },
   {
@@ -12147,29 +12147,29 @@
   {
     "key": "offset_000736e0_0",
     "original": "センスの鏡",
-    "translation": "感觉之镜",
-    "stage": 0,
+    "translation": "感知之镜",
+    "stage": 1,
     "context": "机翻辅助：\n\n感觉之镜\n\n品位的镜子"
   },
   {
     "key": "offset_000736f6_0",
     "original": "イタンの鏡",
-    "translation": "伊坦的镜子",
-    "stage": 0,
+    "translation": "异端之镜",
+    "stage": 1,
     "context": "机翻辅助：\n\n伊坦的镜子\n\n斜纹镜子"
   },
   {
     "key": "offset_00073722_0",
     "original": "ガンナーの紋章",
-    "translation": "甘纳的家徽",
-    "stage": 0,
+    "translation": "枪手的纹章",
+    "stage": 1,
     "context": "机翻辅助：\n\n甘纳的家徽\n\n冈纳纹章"
   },
   {
     "key": "offset_00073738_0",
     "original": "プリンセスの紋章",
-    "translation": "公主的徽章",
-    "stage": 0,
+    "translation": "公主的纹章",
+    "stage": 1,
     "context": "机翻辅助：\n\n公主的徽章\n\n公主纹章"
   },
   {
@@ -12189,8 +12189,8 @@
   {
     "key": "offset_00073790_0",
     "original": "耐風の帯",
-    "translation": "防风带",
-    "stage": 0,
+    "translation": "耐风带",
+    "stage": 1,
     "context": "机翻辅助：\n\n防风带\n\n抗风带"
   },
   {
@@ -12210,57 +12210,57 @@
   {
     "key": "offset_000737d2_0",
     "original": "耐念の帯",
-    "translation": "耐念之带",
-    "stage": 0,
+    "translation": "耐念带",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐念之带\n\n耐念带"
   },
   {
     "key": "offset_000737e8_0",
     "original": "耐火のチャーム",
-    "translation": "耐火的魅力",
-    "stage": 0,
+    "translation": "耐火小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐火的魅力\n\n耐火的饰物"
   },
   {
     "key": "offset_000737fe_0",
     "original": "耐氷のチャーム",
-    "translation": "耐冰的魅力",
-    "stage": 0,
+    "translation": "耐冰小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐冰的魅力\n\n耐冰的饰物"
   },
   {
     "key": "offset_00073814_0",
     "original": "耐風のチャーム",
-    "translation": "耐风的魅力",
-    "stage": 0,
+    "translation": "耐风小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐风的魅力\n\n抗风的饰物"
   },
   {
     "key": "offset_0007382a_0",
     "original": "耐雷のチャーム",
-    "translation": "耐雷的魅力",
-    "stage": 0,
+    "translation": "耐雷小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐雷的魅力\n\n耐雷的饰物"
   },
   {
     "key": "offset_00073840_0",
     "original": "耐核のチャーム",
-    "translation": "耐核魅力",
-    "stage": 0,
+    "translation": "耐核小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐核魅力\n\n耐核的魅力"
   },
   {
     "key": "offset_00073856_0",
     "original": "耐念のチャーム",
-    "translation": "耐念的魅力",
-    "stage": 0,
+    "translation": "耐念小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐念的魅力\n\n耐念的饰物"
   },
   {
     "key": "offset_00073882_0",
     "original": "耐火の眼帯",
-    "translation": "防火眼罩",
-    "stage": 0,
+    "translation": "耐火眼罩",
+    "stage": 1,
     "context": "机翻辅助：\n\n防火眼罩\n\n耐火眼罩"
   },
   {
@@ -12273,8 +12273,8 @@
   {
     "key": "offset_000738ae_0",
     "original": "耐風の眼帯",
-    "translation": "耐风的眼罩",
-    "stage": 0,
+    "translation": "耐风眼罩",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐风的眼罩\n\n抗风眼带"
   },
   {
@@ -12294,50 +12294,50 @@
   {
     "key": "offset_000738f0_0",
     "original": "耐念の眼帯",
-    "translation": "耐念的眼罩",
-    "stage": 0,
+    "translation": "耐念眼罩",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐念的眼罩\n\n耐念的眼带"
   },
   {
     "key": "offset_00073906_0",
     "original": "耐火のアンク",
-    "translation": "耐火的安克",
-    "stage": 0,
+    "translation": "耐火安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐火的安克\n\n耐火的裂缝"
   },
   {
     "key": "offset_0007391c_0",
     "original": "耐氷のアンク",
-    "translation": "耐冰的安克",
-    "stage": 0,
+    "translation": "耐冰安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐冰的安克\n\n耐冰的裂缝"
   },
   {
     "key": "offset_00073932_0",
     "original": "耐風のアンク",
-    "translation": "耐风的安克",
-    "stage": 0,
+    "translation": "耐风安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐风的安克\n\n抗风的暗处"
   },
   {
     "key": "offset_00073948_0",
     "original": "耐雷のアンク",
-    "translation": "耐雷的安克",
-    "stage": 0,
+    "translation": "耐雷安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐雷的安克\n\n耐雷的暗处"
   },
   {
     "key": "offset_0007395e_0",
     "original": "耐核のアンク",
-    "translation": "耐核的安克",
-    "stage": 0,
+    "translation": "耐核安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐核的安克\n\n耐核的暗坑"
   },
   {
     "key": "offset_00073974_0",
     "original": "耐念のアンク",
-    "translation": "耐念的安克",
-    "stage": 0,
+    "translation": "耐念安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐念的安克\n\n耐念的暗"
   },
   {
@@ -12385,43 +12385,43 @@
   {
     "key": "offset_00073a24_0",
     "original": "耐火のオーブ",
-    "translation": "耐火的奥布",
-    "stage": 0,
+    "translation": "耐火宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐火的奥布\n\n耐火的大炉"
   },
   {
     "key": "offset_00073a3a_0",
     "original": "耐氷のオーブ",
-    "translation": "耐冰的奥布",
-    "stage": 0,
+    "translation": "耐冰宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐冰的奥布\n\n耐冰的大桶"
   },
   {
     "key": "offset_00073a50_0",
     "original": "耐風のオーブ",
-    "translation": "耐风的奥布",
-    "stage": 0,
+    "translation": "耐风宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐风的奥布\n\n抗风的大篷"
   },
   {
     "key": "offset_00073a66_0",
     "original": "耐雷のオーブ",
-    "translation": "耐雷的奥布",
-    "stage": 0,
+    "translation": "耐雷宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐雷的奥布\n\n耐雷射的奥布"
   },
   {
     "key": "offset_00073a7c_0",
     "original": "耐核のオーブ",
-    "translation": "耐核的奥布",
-    "stage": 0,
+    "translation": "耐核宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐核的奥布\n\n耐核奥布"
   },
   {
     "key": "offset_00073a92_0",
     "original": "耐念のオーブ",
-    "translation": "耐念的奥布",
-    "stage": 0,
+    "translation": "耐念宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n耐念的奥布\n\n耐念高"
   },
   {
@@ -12441,8 +12441,8 @@
   {
     "key": "offset_00073aea_0",
     "original": "資産家バッジ",
-    "translation": "资产家徽章",
-    "stage": 0,
+    "translation": "资本家徽章",
+    "stage": 1,
     "context": "机翻辅助：\n\n资产家徽章\n\n富豪徽章"
   },
   {
@@ -12490,29 +12490,29 @@
   {
     "key": "offset_00073b84_0",
     "original": "毒祓の仏像",
-    "translation": "除毒佛像",
-    "stage": 0,
+    "translation": "祓除毒的佛像",
+    "stage": 1,
     "context": "机翻辅助：\n\n除毒佛像\n\n毒祓的佛像"
   },
   {
     "key": "offset_00073b9a_0",
     "original": "眠気祓の仏像",
-    "translation": "驱除睡意的佛像",
-    "stage": 0,
+    "translation": "祓除困意的佛像",
+    "stage": 1,
     "context": "机翻辅助：\n\n驱除睡意的佛像\n\n犯困祓的佛像"
   },
   {
     "key": "offset_00073bb0_0",
     "original": "混乱祓の仏像",
-    "translation": "驱除混乱的佛像",
-    "stage": 0,
+    "translation": "祓除混乱的佛像",
+    "stage": 1,
     "context": "机翻辅助：\n\n驱除混乱的佛像\n\n混乱祓的佛像"
   },
   {
     "key": "offset_00073bc6_0",
     "original": "麻痺祓の仏像",
-    "translation": "驱除麻痹的佛像",
-    "stage": 0,
+    "translation": "祓除麻痹的佛像",
+    "stage": 1,
     "context": "机翻辅助：\n\n驱除麻痹的佛像\n\n麻痹祓的佛像"
   },
   {
@@ -12595,15 +12595,15 @@
   {
     "key": "offset_00073ce4_0",
     "original": "防御アミュレット",
-    "translation": "防御情报",
-    "stage": 0,
+    "translation": "防御护符",
+    "stage": 1,
     "context": "机翻辅助：\n\n防御情报\n\n防御亚姆雷特"
   },
   {
     "key": "offset_00073cfa_0",
     "original": "風切羽ストラップ",
-    "translation": "风切羽挂件",
-    "stage": 0,
+    "translation": "风切羽挂绳",
+    "stage": 1,
     "context": "机翻辅助：\n\n风切羽挂件\n\n风切面挂件"
   },
   {
@@ -12616,8 +12616,8 @@
   {
     "key": "offset_00073d26_0",
     "original": "必中スコープ",
-    "translation": "必中作用域",
-    "stage": 0,
+    "translation": "必中瞄准镜",
+    "stage": 1,
     "context": "机翻辅助：\n\n必中作用域\n\n必中瞄准镜"
   },
   {
@@ -12637,176 +12637,176 @@
   {
     "key": "offset_00077620_0",
     "original": "鑑定アイテム開始",
-    "translation": "鉴定项目开始",
-    "stage": 0,
+    "translation": "鉴定道具开始",
+    "stage": 1,
     "context": "机翻辅助：\n\n鉴定项目开始"
   },
   {
     "key": "offset_00077636_0",
     "original": "謎の指輪",
-    "translation": "神秘的戒指",
-    "stage": 0,
+    "translation": "谜之戒指",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的戒指"
   },
   {
     "key": "offset_0007764c_0",
     "original": "謎のバングル",
-    "translation": "神秘的手镯",
-    "stage": 0,
+    "translation": "谜之手镯",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的手镯\n\n神秘的节目"
   },
   {
     "key": "offset_00077662_0",
     "original": "光る謎の指輪",
-    "translation": "发光的神秘戒指",
-    "stage": 0,
+    "translation": "发光的谜之戒指",
+    "stage": 1,
     "context": "机翻辅助：\n\n发光的神秘戒指"
   },
   {
     "key": "offset_00077678_0",
     "original": "光る謎のバングル",
-    "translation": "闪耀的神秘手镯",
-    "stage": 0,
+    "translation": "发光的谜之手镯",
+    "stage": 1,
     "context": "机翻辅助：\n\n闪耀的神秘手镯\n\n发光的神秘组合"
   },
   {
     "key": "offset_000776a4_0",
     "original": "謎の鉢巻",
-    "translation": "神秘的头巾",
-    "stage": 0,
+    "translation": "谜之头巾",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的头巾\n\n谜一样的头巾"
   },
   {
     "key": "offset_000776ba_0",
     "original": "謎のブローチ",
-    "translation": "神秘的胸针",
-    "stage": 0,
+    "translation": "谜之胸针",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的胸针"
   },
   {
     "key": "offset_000776d0_0",
     "original": "光る謎の鉢巻",
-    "translation": "发亮的神秘头巾",
-    "stage": 0,
+    "translation": "发光的谜之头巾",
+    "stage": 1,
     "context": "机翻辅助：\n\n发亮的神秘头巾\n\n发光的迷之头巾"
   },
   {
     "key": "offset_000776e6_0",
     "original": "光る謎のブローチ",
-    "translation": "闪耀的神秘胸针",
-    "stage": 0,
+    "translation": "发光的谜之胸针",
+    "stage": 1,
     "context": "机翻辅助：\n\n闪耀的神秘胸针\n\n发光的神秘胸针"
   },
   {
     "key": "offset_000776fc_0",
     "original": "光る謎の装飾品",
-    "translation": "发光的神秘装饰品",
-    "stage": 0,
+    "translation": "发光的谜之装饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n发光的神秘装饰品"
   },
   {
     "key": "offset_00077728_0",
     "original": "謎の帯",
-    "translation": "神秘的带子",
-    "stage": 0,
+    "translation": "谜之带子",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的带子"
   },
   {
     "key": "offset_0007773e_0",
     "original": "謎のチャーム",
-    "translation": "神秘的魅力",
-    "stage": 0,
+    "translation": "谜之小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的魅力\n\n迷之魅力"
   },
   {
     "key": "offset_00077754_0",
     "original": "光る謎の帯",
-    "translation": "闪耀的神秘带子",
-    "stage": 0,
+    "translation": "发光的谜之带子",
+    "stage": 1,
     "context": "机翻辅助：\n\n闪耀的神秘带子\n\n发光的谜之带子"
   },
   {
     "key": "offset_0007776a_0",
     "original": "光る謎のチャーム",
-    "translation": "闪耀的神秘魅力",
-    "stage": 0,
+    "translation": "发光的谜之小饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n闪耀的神秘魅力\n\n发光的迷之魅力"
   },
   {
     "key": "offset_00077780_0",
     "original": "輝く謎の装飾品",
-    "translation": "闪耀的神秘装饰品",
-    "stage": 0,
+    "translation": "闪耀的谜之装饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n闪耀的神秘装饰品"
   },
   {
     "key": "offset_000777ac_0",
     "original": "謎の眼帯",
-    "translation": "神秘的眼罩",
-    "stage": 0,
+    "translation": "谜之眼罩",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的眼罩\n\n迷之眼带"
   },
   {
     "key": "offset_000777c2_0",
     "original": "謎のアンク",
-    "translation": "神秘的安克",
-    "stage": 0,
+    "translation": "谜之安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的安克\n\n神秘的暗处"
   },
   {
     "key": "offset_000777d8_0",
     "original": "光る謎の眼帯",
-    "translation": "闪耀的神秘眼罩",
-    "stage": 0,
+    "translation": "发光的谜之眼罩",
+    "stage": 1,
     "context": "机翻辅助：\n\n闪耀的神秘眼罩\n\n发光的迷之眼带"
   },
   {
     "key": "offset_000777ee_0",
     "original": "光る謎のアンク",
-    "translation": "发光的神秘的安克",
-    "stage": 0,
+    "translation": "发光的谜之安可架",
+    "stage": 1,
     "context": "机翻辅助：\n\n发光的神秘的安克\n\n发光的谜之黑暗"
   },
   {
     "key": "offset_00077804_0",
     "original": "煌めく謎の装飾品",
-    "translation": "闪耀的神秘装饰品",
-    "stage": 0,
+    "translation": "璀璨的谜之装饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n闪耀的神秘装饰品\n\n辉煌的谜之装饰品"
   },
   {
     "key": "offset_00077830_0",
     "original": "謎の勾玉",
-    "translation": "神秘的勾玉",
-    "stage": 0,
+    "translation": "谜之勾玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的勾玉\n\n谜之勾玉"
   },
   {
     "key": "offset_00077846_0",
     "original": "謎のオーブ",
-    "translation": "神秘的奥布",
-    "stage": 0,
+    "translation": "谜之宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n神秘的奥布"
   },
   {
     "key": "offset_0007785c_0",
     "original": "光る謎の勾玉",
-    "translation": "闪耀的神秘勾玉",
-    "stage": 0,
+    "translation": "发光的谜之勾玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n闪耀的神秘勾玉\n\n发光的谜之勾玉"
   },
   {
     "key": "offset_00077872_0",
     "original": "光る謎のオーブ",
-    "translation": "发光的神秘奥布",
-    "stage": 0,
+    "translation": "发光的谜之宝玉",
+    "stage": 1,
     "context": "机翻辅助：\n\n发光的神秘奥布"
   },
   {
     "key": "offset_00077888_0",
     "original": "神聖な謎の装飾品",
-    "translation": "神圣的神秘装饰品",
-    "stage": 0,
+    "translation": "神圣的谜之装饰品",
+    "stage": 1,
     "context": "机翻辅助：\n\n神圣的神秘装饰品\n\n神圣之谜的装饰品"
   }
 ]

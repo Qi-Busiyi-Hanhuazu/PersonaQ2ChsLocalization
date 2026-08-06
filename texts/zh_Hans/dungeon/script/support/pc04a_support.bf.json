@@ -2,15 +2,15 @@
   {
     "key": "ELIZABETH_FOE_FOLLOW_STA_0",
     "original": "見事にロックオンでございます。 ",
-    "translation": "漂亮地锁定目标。 ",
-    "stage": 0,
+    "translation": "完美地锁定了目标呢。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n漂亮地锁定目标。 \n\n非常棒的摇滚乐。 \n\n完美地锁定了。"
   },
   {
     "key": "THEODOR_FOE_FOLLOW_START_0",
     "original": "皆様、Ｆ．Ｏ．Ｅが追尾しております。 ",
-    "translation": "各位，F.O.E正在追踪。　　 ",
-    "stage": 0,
+    "translation": "各位，F.O.E正在后方追着我们。　　 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n各位，F.O.E正在追踪。　　 \n\n各位，F.O.E正在跟踪。"
   },
   {
@@ -23,15 +23,15 @@
   {
     "key": "THEODOR_FOE_FOLLOW_START_2_0",
     "original": "ハッ！？ \nＦ．Ｏ．Ｅに気づかれたようです。 ",
-    "translation": "啊！？　　\nF.O.E似乎发现了。 ",
-    "stage": 0,
+    "translation": "啊！？　　\nF.O.E似乎发现我们了。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n啊！？　　\nF.O.E似乎发现了。 \n\n哈！？\n好像注意到了F.O.E。 \n\n哈！？\n好像被F.O.E注意到了。"
   },
   {
     "key": "ELIZABETH_FOE_FOLLOW_STA_3_0",
     "original": "あらＦ．Ｏ．Ｅが追尾状態… \nテオ、任せます。 ",
-    "translation": "哎呀，F.O.E在追踪……　　\n西奥，交给你了。 ",
-    "stage": 0,
+    "translation": "哎呀，F.O.E在后面跟着我们……　　\n西奥，交给你了。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n哎呀，F.O.E在追踪……　　\n西奥，交给你了。 \n\n哎呀F.O.E处于跟踪状态……\n西奥，交给你了。 \n\nF.O.E跟踪状态……\n西奥，交给你了。"
   },
   {
@@ -72,29 +72,29 @@
   {
     "key": "ELIZABETH_FOE_NEAR_3_0",
     "original": "Ｆ．Ｏ．Ｅ反応あり。 \nレッツらゴーでございます。 ",
-    "translation": "侦测到F.O.E反应。 \nLet's go。 ",
-    "stage": 0,
+    "translation": "侦测到F.O.E反应。 \n我们出发吧。",
+    "stage": 1,
     "context": "机翻辅助：\n\n侦测到F.O.E反应。 \nLet's go。 \n\n有F.O.E反应。\n这是红果。 \n\n有F.O.E反应。我是雷兹拉戈。"
   },
   {
     "key": "THEODOR_FOE_NEAR_3_0",
     "original": "あっ、いけません！　ご注意ください！ ",
-    "translation": "啊，不行！请小心！ ",
-    "stage": 0,
+    "translation": "啊，不行！请小心行事！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n啊，不行！请小心！ \n\n啊，不行！请注意！"
   },
   {
     "key": "ELIZABETH_FOE_FOLLOW_END_0",
     "original": "見事な逃げ足でございました。 ",
-    "translation": "逃跑的速度真快。 ",
-    "stage": 0,
+    "translation": "跑的真快啊。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n逃跑的速度真快。 \n\n是漂亮的逃跑的脚。 \n\n逃得很漂亮。"
   },
   {
     "key": "THEODOR_FOE_FOLLOW_END_1_0",
     "original": "ふぅ、どうやらＦ．Ｏ．Ｅは \n諦めたようですね。 ",
-    "translation": "呼，看来F.O.E\n放弃了。 ",
-    "stage": 0,
+    "translation": "呼，看来F.O.E已经放弃了。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n呼，看来F.O.E\n放弃了。 \n\n嗯，看来F.O.E已经放弃了。"
   },
   {
@@ -107,8 +107,8 @@
   {
     "key": "THEODOR_FOE_FOLLOW_END_2_0",
     "original": "見事な身のこなし、流石でございます。 ",
-    "translation": "身手真好，真了不起。 ",
-    "stage": 0,
+    "translation": "漂亮的身手，真不愧是你。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n身手真好，真了不起。 \n\n漂亮的身体动作，不愧是。 \n\n风度翩翩，风度翩翩。"
   },
   {
@@ -121,36 +121,36 @@
   {
     "key": "THEODOR_FOE_FOLLOW_END_3_0",
     "original": "Ｆ．Ｏ．Ｅを引き離すことに \n成功しましたね。 ",
-    "translation": "成功将F.O.E引开。 \n ",
-    "stage": 0,
+    "translation": "成功将F.O.E引开了。",
+    "stage": 1,
     "context": "机翻辅助：\n\n成功将F.O.E引开。 \n \n\n\n成功把F.O.E拉开了呢。 \n\n成功地拉开了F.O.E。"
   },
   {
     "key": "ELIZABETH_KANSI_REACTION_0",
     "original": "ライトに照らされぬよう、 \nお進みください。 ",
-    "translation": "请小心别被灯光照到。 \n ",
-    "stage": 0,
+    "translation": "不要被灯光照到，小心前进吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n请小心别被灯光照到。 \n \n\n请前进，不要被灯光照亮。\n \n\n为了不被灯光照射，请前进。"
   },
   {
     "key": "THEODOR_KANSI_REACTION_1_0",
     "original": "ライトに照らされないよう \n進みましょう。 ",
-    "translation": "别被灯光照到。 \n ",
-    "stage": 0,
+    "translation": "避开灯光， \n 小心前进吧。",
+    "stage": 1,
     "context": "机翻辅助：\n\n别被灯光照到。 \n \n\n为了不被灯光照射\n前进吧。 \n\n不要被灯光照亮\n前进。"
   },
   {
     "key": "ELIZABETH_KANSI_REACTION_2_0",
     "original": "見つからぬよう、 \n抜き足、差し足、でございます。 ",
-    "translation": "为了不被发现，\n蹑手蹑脚。 ",
-    "stage": 0,
+    "translation": "为了不被发现，\n谨慎前进吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n为了不被发现，\n蹑手蹑脚。 \n\n为了不被发现，\n蹑手蹑脚，蹑手蹑脚。 \n\n蹑手蹑脚，小心前进。"
   },
   {
     "key": "THEODOR_KANSI_REACTION_2_0",
     "original": "忍び足で進みましょう。 ",
-    "translation": "蹑手蹑脚前进吧。 ",
-    "stage": 0,
+    "translation": "保持安静前进吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n蹑手蹑脚前进吧。 \n\n悄悄地走吧。 \n\n蹑手蹑脚地前进。"
   },
   {
@@ -170,8 +170,8 @@
   {
     "key": "ELIZABETH_DENKISAKU_REAC_0",
     "original": "これは…もしや調教装置！？ ",
-    "translation": "这是……难道是调教装置！？ ",
-    "stage": 0,
+    "translation": "这……难道是调教装置！？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n这是……难道是调教装置！？"
   },
   {
@@ -184,8 +184,8 @@
   {
     "key": "ELIZABETH_DENKISAKU_REAC_2_0",
     "original": "あちらの電気をとめるスイッチを \n探しましょう。 ",
-    "translation": "找找看有没有开关可以关掉电源。\n ",
-    "stage": 0,
+    "translation": "找找可以关掉电源的开关吧。\n ",
+    "stage": 1,
     "context": "机翻辅助：\n\n找找看有没有开关可以关掉电源。\n \n\n让我们寻找那边的关灯开关。\n \n\n找找那边的开关吧。"
   },
   {
@@ -198,8 +198,8 @@
   {
     "key": "ELIZABETH_DENKISAKU_REAC_3_0",
     "original": "まぁ、あのビリビリ、 \n何ボルトあるのでしょう？ ",
-    "translation": "哎呀，那个电击， \n不知道有多少伏特？ ",
-    "stage": 0,
+    "translation": "哎呀，那个电栅栏， \n不知道有多少伏特？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n哎呀，那个电击， \n不知道有多少伏特？ \n\n嗯，那个垫底，\n有多少伏特呢？ \n\n嗯，那个哔哩哔哩，有多少伏特呢？"
   },
   {
@@ -212,8 +212,8 @@
   {
     "key": "ELIZABETH_KYOUHU_REACTIO_0",
     "original": "スカートひらひら～ \nサービスタイムでございます。 ",
-    "translation": "裙摆飘飘～ \n是杀必死时间。 ",
-    "stage": 0,
+    "translation": "裙摆飘飘～ \n接下来福利时间。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n裙摆飘飘～ \n是杀必死时间。 \n\n裙子飘飘～\n服务时间到了。 \n\n是裙子翩翩起舞～\n服务时间。"
   },
   {
@@ -254,15 +254,15 @@
   {
     "key": "ELIZABETH_STAIR_FIND_1_0",
     "original": "右手をご覧くださーい。 \nあちらが階段でございまーす。 ",
-    "translation": "请看右手边～那里是楼梯～\n ",
-    "stage": 0,
+    "translation": "请看右手边。\n 那里有楼梯。",
+    "stage": 1,
     "context": "机翻辅助：\n\n请看右手边～那里是楼梯～\n \n\n请看右手。那边是楼梯。"
   },
   {
     "key": "THEODOR_STAIR_FIND_1_0",
     "original": "姉上、階段は正面に見えますが… ",
-    "translation": "姐姐，楼梯在正面耶…… ",
-    "stage": 0,
+    "translation": "姐姐大人，楼梯在正面耶…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n姐姐，楼梯在正面耶…… \n\n姐姐，楼梯看起来在正面…… \n\n姐姐，你看楼梯在正面……"
   },
   {
@@ -289,8 +289,8 @@
   {
     "key": "THEODOR_STAIR_FIND_3_0",
     "original": "さすがは姉上、鋭い観察眼です。 ",
-    "translation": "不愧是姐姐，观察力真敏锐。 ",
-    "stage": 0,
+    "translation": "不愧是姐姐，敏锐的观察力。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n不愧是姐姐，观察力真敏锐。 \n\n不愧是姐姐，敏锐的观察眼。 \n\n不愧是姐姐，观察力很敏锐。"
   },
   {
@@ -310,8 +310,8 @@
   {
     "key": "ELIZABETH_TREASURE_FIND__2_0",
     "original": "あれが \nオタカラってやつでございますか？ ",
-    "translation": "那是\n所谓的宝物吗？ ",
-    "stage": 0,
+    "translation": "那个……\n就是所谓的宝物吗？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n那是\n所谓的宝物吗？ \n\n那就是\n宝贝吗？ \n\n那就是所谓的宝物吗？"
   },
   {
@@ -324,8 +324,8 @@
   {
     "key": "ELIZABETH_TREASURE_FIND__3_0",
     "original": "私、宝箱の中身は \nポテチか、たこ焼きを所望します。 ",
-    "translation": "我想要宝箱里面\n有薯片或章鱼烧。 ",
-    "stage": 0,
+    "translation": "宝箱里面\n有薯片或者章鱼烧就好了。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n我想要宝箱里面\n有薯片或章鱼烧。 \n\n我想要百宝箱里的东西是薯片或章鱼烧。\n \n\n我想买薯片或章鱼烧。"
   },
   {
@@ -352,92 +352,92 @@
   {
     "key": "ELIZABETH_CHECK_WALL_2_0",
     "original": "この周囲、気になる所がございます。 ",
-    "translation": "这附近有令人在意的地方。 ",
-    "stage": 0,
+    "translation": "这附近，有个地方令人很在意。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n这附近有令人在意的地方。 \n\n这个周围，有在意的地方。 \n\n这周围有让我在意的地方。"
   },
   {
     "key": "THEODOR_CHECK_WALL_2_0",
     "original": "あれは…少し調べてみませんか？ ",
-    "translation": "那个……要不要稍微调查一下？） ",
-    "stage": 0,
+    "translation": "那李……要不要稍微调查一下？",
+    "stage": 1,
     "context": "机翻辅助：\n\n那个……要不要稍微调查一下？） \n\n那个……要不要查一下？ \n\n那是……要不要稍微调查一下？"
   },
   {
     "key": "ELIZABETH_CHECK_WALL_3_0",
     "original": "近くに何かありそうな気配を \n感じました。 ",
-    "translation": "我感觉到附近好像有什么。\n ",
-    "stage": 0,
+    "translation": "我感觉\n 附近好像有什么东西。",
+    "stage": 1,
     "context": "机翻辅助：\n\n我感觉到附近好像有什么。\n \n\n\n感觉附近好像有什么东西。 \n\n我感觉到附近好像有什么事。"
   },
   {
     "key": "THEODOR_CHECK_WALL_3_0",
     "original": "近くに何かありそうな気配がします。 ",
-    "translation": "附近好像有什么。） ",
-    "stage": 0,
+    "translation": "附近好像有什么。",
+    "stage": 1,
     "context": "机翻辅助：\n\n附近好像有什么。） \n\n我感觉附近好像有什么事。 \n\n我感觉附近好像有什么东西。"
   },
   {
     "key": "ELIZABETH_SWITCH_FIND_1_0",
     "original": "スイッチを確認いたしました。 ",
-    "translation": "发现开关了。） ",
-    "stage": 0,
+    "translation": "发现开关了。",
+    "stage": 1,
     "context": "机翻辅助：\n\n发现开关了。） \n\n确认了开关。"
   },
   {
     "key": "THEODOR_SWITCH_FIND_1_0",
     "original": "スイッチがあります、どうしますか？ ",
-    "translation": "有开关，要按吗？ ",
-    "stage": 0,
+    "translation": "这里有开关，要按下去吗？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n有开关，要按吗？ \n\n有开关，怎么办？"
   },
   {
     "key": "ELIZABETH_SWITCH_FIND_2_0",
     "original": "あそこにあるのは \nスイッチでございます。 ",
-    "translation": "那里是\n开关。） ",
-    "stage": 0,
+    "translation": "那里是\n开关。",
+    "stage": 1,
     "context": "机翻辅助：\n\n那里是\n开关。） \n\n那里有\n开关。"
   },
   {
     "key": "THEODOR_SWITCH_FIND_2_0",
     "original": "あのスイッチ、押してみますか？ ",
-    "translation": "要按那个开关吗？ ",
-    "stage": 0,
+    "translation": "要按一下那个开关吗？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n要按那个开关吗？ \n\n要按一下那个开关吗？"
   },
   {
     "key": "ELIZABETH_SWITCH_FIND_3_0",
     "original": "スイッチがございます。 \n押しますか？　押しますか？ ",
-    "translation": "有开关。\n要按吗？要按吗？ ",
-    "stage": 0,
+    "translation": "这里有开关。\n要按吗？要按吗？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n有开关。\n要按吗？要按吗？"
   },
   {
     "key": "THEODOR_SWITCH_FIND_3_0",
     "original": "あそこにあるのはスイッチのようです。 ",
-    "translation": "那里好像是开关。） ",
-    "stage": 0,
+    "translation": "那里好像是开关。",
+    "stage": 1,
     "context": "机翻辅助：\n\n那里好像是开关。） \n\n那边那个好像是个开关。 \n\n那里好像有开关。"
   },
   {
     "key": "ELIZABETH_SHORTCUT_FIND__0",
     "original": "近くの壁。 \nスルリと通り抜け可能でございます。 ",
-    "translation": "附近的墙壁\n可以轻松通过。） ",
-    "stage": 0,
+    "translation": "附近的墙壁\n看起来可以轻松通过。",
+    "stage": 1,
     "context": "机翻辅助：\n\n附近的墙壁\n可以轻松通过。） \n\n附近的墙壁。\n可以通过。 \n\n附近的墙壁。\n可以顺利通过。"
   },
   {
     "key": "THEODOR_SHORTCUT_FIND_1_0",
     "original": "この壁…なにかありそうですよ。 ",
-    "translation": "这面墙……好像有什么哦。 ",
-    "stage": 0,
+    "translation": "这面墙……很可疑啊。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n这面墙……好像有什么哦。 \n\n这堵墙……好像有什么事。"
   },
   {
     "key": "ELIZABETH_SHORTCUT_FIND__2_0",
     "original": "まあ、あの壁… \n怪しさプンプンでございます。 ",
-    "translation": "不过，那面墙壁……\n可疑到不行。 ",
-    "stage": 0,
+    "translation": "不过，那面墙壁……\n真是太可疑了。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n不过，那面墙壁……\n可疑到不行。 \n\n嗯，那堵墙……\n很奇怪。 \n\n唉，那堵墙……真是太可疑了。"
   },
   {
@@ -450,8 +450,8 @@
   {
     "key": "ELIZABETH_SHORTCUT_FIND__3_0",
     "original": "近くに通れる壁があると \n私の勘が申しております。 ",
-    "translation": "\n我的直觉告诉我，附近有可以通过的墙。 ",
-    "stage": 0,
+    "translation": "我的直觉告诉我，\n附近有可以通过的墙。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n\n我的直觉告诉我，附近有可以通过的墙。 \n\n我的直觉告诉我，附近有可以通行的墙壁。\n \n\n我的直觉告诉我附近有一堵墙可以通过。"
   },
   {
@@ -464,8 +464,8 @@
   {
     "key": "ELIZABETH_PARTY_DEAD_1_0",
     "original": "これは…祈りましょう…テオ… ",
-    "translation": "这是……祈祷吧……西奥…… ",
-    "stage": 0,
+    "translation": "这是……让我们一起祈祷吧……西奥…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n这是……祈祷吧……西奥……"
   },
   {
@@ -478,15 +478,15 @@
   {
     "key": "ELIZABETH_PARTY_DEAD_2_0",
     "original": "しばし態勢の立て直しを \nいたしましょう。 ",
-    "translation": "我们先重整态势吧。\n ",
-    "stage": 0,
+    "translation": "重整态势后再出发吧。\n ",
+    "stage": 1,
     "context": "机翻辅助：\n\n我们先重整态势吧。\n \n\n让我们暂时重整态势吧。\n \n\n暂时重整旗鼓吧。"
   },
   {
     "key": "THEODOR_PARTY_DEAD_2_0",
     "original": "帰還も検討なさってください。 ",
-    "translation": "也请考虑撤退。 ",
-    "stage": 0,
+    "translation": "暂时撤退吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n也请考虑撤退。 \n\n请考虑返回。 \n\n请考虑返航。"
   },
   {
@@ -499,29 +499,29 @@
   {
     "key": "THEODOR_PARTY_DEAD_3_0",
     "original": "まずは、回復を急ぎましょう。 ",
-    "translation": "首先，我们先赶快恢复吧。 ",
-    "stage": 0,
+    "translation": "先赶快恢复吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n首先，我们先赶快恢复吧。 \n\n首先，赶紧恢复吧。 \n\n首先，尽快恢复吧。"
   },
   {
     "key": "ELIZABETH_FOE_WARNING_NE_0",
     "original": "しばらく戦闘にはご注意を。 ",
-    "translation": "暂时先不要战斗。 ",
-    "stage": 0,
+    "translation": "请暂时做好战斗准备。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n暂时先不要战斗。 \n\n请暂时注意战斗。"
   },
   {
     "key": "THEODOR_FOE_WARNING_NEAR_0",
     "original": "まだＦ．Ｏ．Ｅが追いかけています。 ",
-    "translation": "F.O.E还在追我们。 ",
-    "stage": 0,
+    "translation": "F.O.E还在追着我们。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\nF.O.E还在追我们。 \n\n还有F.O.E在追赶。 \n\nF.O.E还在追。"
   },
   {
     "key": "ELIZABETH_FOE_WARNING_NE_2_0",
     "original": "さて、 \nお次はＦ．Ｏ．Ｅの追尾でございます。 ",
-    "translation": "那么，\n接下来是追踪F.O.E。 ",
-    "stage": 0,
+    "translation": "那么，\n接下来开始追踪F.O.E吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n那么，\n接下来是追踪F.O.E。 \n\n那么，\n接下来是F.O.E的跟踪。 \n\n接下来是F.O.E的跟踪。"
   },
   {
@@ -534,29 +534,29 @@
   {
     "key": "ELIZABETH_FOE_WARNING_NE_3_0",
     "original": "Ｆ．Ｏ．Ｅは追尾を続けている様子… ",
-    "translation": "F.O.E似乎还在追踪我们…… ",
-    "stage": 0,
+    "translation": "F.O.E似乎还在追着我们…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\nF.O.E似乎还在追踪我们…… \n\nF.O.E继续跟踪的样子…… \n\nF.O.E持续跟踪的样子……"
   },
   {
     "key": "THEODOR_FOE_WARNING_NEAR_3_0",
     "original": "皆様、お気を付けくださいませ。 ",
-    "translation": "各位请小心。 ",
-    "stage": 0,
+    "translation": "各位请谨慎行动。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n各位请小心。 \n\n各位，请注意。 \n\n请大家小心。"
   },
   {
     "key": "ELIZABETH_PARTY_HPTP10_1_0",
     "original": "これは…！？ \nき、緊急事態にございます。 ",
-    "translation": "这是……！？\n紧、紧急状况。 ",
-    "stage": 0,
+    "translation": "这是……！？\n有紧、紧急状况发生！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n这是……！？\n紧、紧急状况。 \n\n这是……！？\n来，有紧急情况。 \n\n这是……！？下、有紧急事态。"
   },
   {
     "key": "THEODOR_PARTY_HPTP10_1_0",
     "original": "姉上、落ち着いて、 \nまずは態勢を整えましょう。 ",
-    "translation": "姐姐，冷静点，\n我们先重整态势吧。 ",
-    "stage": 0,
+    "translation": "姐姐，先冷静一下吧，\n重整态势再继续行动吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n姐姐，冷静点，\n我们先重整态势吧。 \n\n姐姐，冷静下来，\n首先调整好状态吧。 \n\n姐姐，冷静下来，先做好准备吧。"
   },
   {
@@ -583,8 +583,8 @@
   {
     "key": "THEODOR_PARTY_HPTP10_3_0",
     "original": "姉上は、帰還を望まれているようです。 ",
-    "translation": "姐姐似乎希望撤退。 ",
-    "stage": 0,
+    "translation": "姐姐似乎希望我们暂时撤退。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n姐姐似乎希望撤退。 \n\n姐姐好像希望回归。 \n\n姐姐似乎希望我回来。"
   },
   {
@@ -604,15 +604,15 @@
   {
     "key": "ELIZABETH_PARTY_HP10_2_0",
     "original": "皆様の体力が、マックスにピ～ンチ！ ",
-    "translation": "各位的体力，已经面临危～险！ ",
-    "stage": 0,
+    "translation": "各位体力的消耗，已经很严～重了！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n各位的体力，已经面临危～险！ \n\n大家的体力，向麦克斯冲刺！ \n\n大家的体力，max ！"
   },
   {
     "key": "THEODOR_PARTY_HP10_2_0",
     "original": "至急、回復を図りましょう。 ",
-    "translation": "请尽快恢复体力。 ",
-    "stage": 0,
+    "translation": "请各位尽快恢复体力。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n请尽快恢复体力。 \n\n赶紧恢复吧。 \n\n赶快恢复吧。"
   },
   {
@@ -625,50 +625,50 @@
   {
     "key": "THEODOR_PARTY_HP10_3_0",
     "original": "お怪我の回復をご優先ください。 ",
-    "translation": "请优先恢复伤势。 ",
-    "stage": 0,
+    "translation": "请优先恢复伤势吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n请优先恢复伤势。 \n\n请优先恢复受伤。 \n\n请优先恢复您的伤。"
   },
   {
     "key": "ELIZABETH_1PERSON_HPTP10_0",
     "original": "どなたか回復～！　回復を～！ ",
-    "translation": "哪位来回复～！回复～！ ",
-    "stage": 0,
+    "translation": "哪位可以帮我恢复体力～！\n请帮我恢复～！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n哪位来回复～！回复～！ \n\n谁恢复了～！恢复！ \n\n谁来回复～！请回复～！"
   },
   {
     "key": "THEODOR_1PERSON_HPTP10_1_0",
     "original": "ご自身の気力・体力が \n残りわずかではありませんか？ ",
-    "translation": "自身的气力、体力\n是不是所剩无几了呢？ ",
-    "stage": 0,
+    "translation": "气力和体力\n是不是所剩无几了呢？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n自身的气力、体力\n是不是所剩无几了呢？ \n\n您自己的精力、体力\n是不是所剩无几了？ \n\n您自己的精力和体力是不是只剩下一点点了？"
   },
   {
     "key": "ELIZABETH_1PERSON_HPTP10_2_0",
     "original": "ご自身の心も身体も限界のご様子… ",
-    "translation": "您的身心似乎都已到达极限…… ",
-    "stage": 0,
+    "translation": "您的身心似乎都已到达了极限…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n您的身心似乎都已到达极限…… \n\n自己的心和身体都是极限的样子…… \n\n自己的身心都达到极限的样子……"
   },
   {
     "key": "THEODOR_1PERSON_HPTP10_2_0",
     "original": "体力だけでも \n回復なされてはいかがでしょう？ ",
-    "translation": "\n要不要回复一下体力呢？ ",
-    "stage": 0,
+    "translation": "要不要恢复一下体力呢？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n\n要不要回复一下体力呢？ \n\n仅仅是体力\n恢复一下怎么样？ \n\n哪怕只是体力\n恢复一下怎么样？"
   },
   {
     "key": "ELIZABETH_1PERSON_HPTP10_3_0",
     "original": "ご帰還の際は、サポートいたします。 \n…テオが。 ",
-    "translation": "您回去时，我会支援您。\n……西奥会。） ",
-    "stage": 0,
+    "translation": "您返回时，我会支援您。\n……西奥会。",
+    "stage": 1,
     "context": "机翻辅助：\n\n您回去时，我会支援您。\n……西奥会。） \n\n返回时，支持。\n……西奥。 \n\n我们会在您回国的时候提供帮助。\n……西奥加。"
   },
   {
     "key": "THEODOR_1PERSON_HPTP10_3_0",
     "original": "立っているのがやっとのご様子… \n立て直されては？ ",
-    "translation": "您看起来已经连站着都很勉强了……\n要不要重整态势呢？ ",
-    "stage": 0,
+    "translation": "您看起来站着都很勉强了……\n要不要重整态势再出发呢？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n您看起来已经连站着都很勉强了……\n要不要重整态势呢？ \n\n站着好不容易的样子……\n重新站起来怎么样？ \n\n勉强站着的样子……\n重新振作起来怎么样？"
   },
   {
@@ -681,36 +681,36 @@
   {
     "key": "THEODOR_PARTY_TP10_1_0",
     "original": "皆様の気力は残りわずか… \nどういたしますか？ ",
-    "translation": "各位的气力所剩无几……\n您打算怎么做呢？ ",
-    "stage": 0,
+    "translation": "各位的气力已经所剩无几了……\n现在要怎么做呢？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n各位的气力所剩无几……\n您打算怎么做呢？ \n\n大家的气力所剩无几……\n怎么办？ \n\n大家的精力所剩无几……\n怎么办？"
   },
   {
     "key": "ELIZABETH_PARTY_TP10_2_0",
     "original": "最終奥義、当たって砕けろ！ \n…では困りますので、ご帰還を。 ",
-    "translation": "最终奥义，豁出去乱打一通！\n……那样我会很困扰，所以请您回去。 ",
-    "stage": 0,
+    "translation": "最终奥义，豁出去乱打一通！\n……如果那样我会很困扰，所以暂时返回吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n最终奥义，豁出去乱打一通！\n……那样我会很困扰，所以请您回去。 \n\n最终奥义，碰碎吧！\n……那就麻烦了，请回去吧。 \n\n最终奥义，击中并粉碎！\n……那就麻烦了，请您回去吧。"
   },
   {
     "key": "THEODOR_PARTY_TP10_2_0",
     "original": "残りの気力を考え、 \n作戦変更といたしましょう。 ",
-    "translation": "考虑到剩余的气力……\n还是改变作战计划吧。 ",
-    "stage": 0,
+    "translation": "考虑到剩余的气力……\n还是改变一下作战计划吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n考虑到剩余的气力……\n还是改变作战计划吧。 \n\n考虑到剩下的气力，\n变更作战计划吧。 \n\n考虑到剩下的精力，改变作战计划吧。"
   },
   {
     "key": "ELIZABETH_PARTY_TP10_3_0",
     "original": "残りの気力は、 \n帰還の為に残しておくとよいでしょう。 ",
-    "translation": "剩余的气力\n还是留着回去比较好吧。 ",
-    "stage": 0,
+    "translation": "剩余的气力\n还是留给返程比较好吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n剩余的气力\n还是留着回去比较好吧。 \n\n剩下的精力，\n为了回归而留下比较好吧。 \n\n剩下的气力，留给归来就好了吧。"
   },
   {
     "key": "THEODOR_PARTY_TP10_3_0",
     "original": "さすがは姉上！　よきアドバイスです！ ",
-    "translation": "不愧是姐姐！真是个好建议！ ",
-    "stage": 0,
+    "translation": "不愧是姐姐大人！真是个好建议！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n不愧是姐姐！真是个好建议！ \n\n不愧是姐姐！好的建议！ \n\n不愧是姐姐！很好的建议！"
   },
   {
@@ -730,22 +730,22 @@
   {
     "key": "ELIZABETH_1PERSON_HP10_2_0",
     "original": "体力が僅かのご様子… \nご無理をなさらぬよう。 ",
-    "translation": "体力似乎所剩无几……\n请不要勉强。） ",
-    "stage": 0,
+    "translation": "体力似乎所剩无几……\n请不要勉强自己。",
+    "stage": 1,
     "context": "机翻辅助：\n\n体力似乎所剩无几……\n请不要勉强。） \n\n体力微乎其微……\n请不要勉强。 \n\n体力不太好……请不要勉强。"
   },
   {
     "key": "THEODOR_1PERSON_HP10_2_0",
     "original": "まずはご自身の回復を願います。 ",
-    "translation": "首先希望您能回复自身。） ",
-    "stage": 0,
+    "translation": "首先请您恢复自身体力。",
+    "stage": 1,
     "context": "机翻辅助：\n\n首先希望您能回复自身。） \n\n首先希望您自己恢复健康。 \n\n首先希望您能早日康复。"
   },
   {
     "key": "ELIZABETH_1PERSON_HP10_3_0",
     "original": "皆様はそんな軟ではございませんよ。 ",
-    "translation": "各位并没有那么脆弱哦。 ",
-    "stage": 0,
+    "translation": "各位的表现并没有那么软弱哦。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n各位并没有那么脆弱哦。 \n\n大家可没有那么柔软。 \n\n大家都不是那么软的。"
   },
   {
@@ -758,8 +758,8 @@
   {
     "key": "ELIZABETH_1PERSON_TP10_1_0",
     "original": "ご自身の気力が限界と \nお見受けしました。 ",
-    "translation": "\n我看到您的气力已到极限。） ",
-    "stage": 0,
+    "translation": "您的气力已经到了极限。",
+    "stage": 1,
     "context": "机翻辅助：\n\n\n我看到您的气力已到极限。） \n\n看得出您自己的气力已经到了极限。\n \n\n您自己的精力已经到了极限。"
   },
   {
@@ -786,29 +786,29 @@
   {
     "key": "ELIZABETH_1PERSON_TP10_3_0",
     "original": "立て！　立つんだ！\nでございます。 ",
-    "translation": "站起来！站起来啊！\n是的。 ",
-    "stage": 0,
+    "translation": "站起来！站起来！",
+    "stage": 1,
     "context": "机翻辅助：\n\n站起来！站起来啊！\n是的。 \n\n站起来！站起来！。\n \n\n站起来！站起来！\n是的。"
   },
   {
     "key": "THEODOR_1PERSON_TP10_3_0",
     "original": "気力が尽きた…のでしょうか？ ",
-    "translation": "气力用尽……了吗？ ",
-    "stage": 0,
+    "translation": "气力用尽了……吗？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n气力用尽……了吗？ \n\n是精力耗尽了吗？ \n\n筋疲力尽了……是吗？"
   },
   {
     "key": "ELIZABETH_ITEM_90_BATTLE_0",
     "original": "持ちきれないアイテムは \nポイポイポイッでございます。 ",
-    "translation": "拿不动的道具就用\n丢丢丢。 ",
-    "stage": 0,
+    "translation": "拿不动的道具就都\n丢掉吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n拿不动的道具就用\n丢丢丢。 \n\n拿不完的物品是\n口袋妖怪。 \n\n拿不动的物品是\npoi poi poi。"
   },
   {
     "key": "THEODOR_ITEM_90_BATTLE_1_0",
     "original": "姉上！？　それは私の虎の子の！？ ",
-    "translation": "姐姐！？那是我珍藏的！？ ",
-    "stage": 0,
+    "translation": "姐姐大人！？那是我珍藏的小老虎！？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n姐姐！？那是我珍藏的！？ \n\n姐姐！？那是我的虎子！？ \n\n姐姐！？那是我的小老虎！？"
   },
   {
@@ -828,8 +828,8 @@
   {
     "key": "ELIZABETH_ITEM_90_BATTLE_3_0",
     "original": "あら、荷物が持ちきれないご様子。 ",
-    "translation": "哎呀，看来您拿不动了呢。 ",
-    "stage": 0,
+    "translation": "哎呀，看来您的物品已经装不下了。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n哎呀，看来您拿不动了呢。 \n\n哎呀，行李拿不完的样子。 \n\n哎呀，行李拿不动了。"
   },
   {
@@ -849,8 +849,8 @@
   {
     "key": "THEODOR_1PERSON_HP80_1_0",
     "original": "皆様！　素晴らしい戦いでした！ ",
-    "translation": "各位！真是场精采的战斗！ ",
-    "stage": 0,
+    "translation": "各位！真是一场精彩的战斗！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n各位！真是场精采的战斗！ \n\n各位！精彩的战斗！ \n\n各位！这是一场精彩的战斗！"
   },
   {
@@ -863,36 +863,36 @@
   {
     "key": "THEODOR_1PERSON_HP80_2_0",
     "original": "あっ、姉上！？ \n手を振り回さないでください！？ ",
-    "translation": "啊，姐姐！\n请不要乱挥手！ ",
-    "stage": 0,
+    "translation": "啊，姐姐大人！\n请不要乱挥手！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n啊，姐姐！\n请不要乱挥手！ \n\n啊，姐姐！？\n请不要折腾！？ \n\n啊，姐姐！？请不要玩弄我的手！？"
   },
   {
     "key": "ELIZABETH_1PERSON_HP80_3_0",
     "original": "よっ！　お見事！ ",
-    "translation": "哟！漂亮！ ",
-    "stage": 0,
+    "translation": "哟！真棒！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n哟！漂亮！ \n\n哟！太棒了！ \n\n哟！真漂亮！"
   },
   {
     "key": "THEODOR_1PERSON_HP80_3_0",
     "original": "姉上！？ \n喜びの舞は夢の中だけに… ",
-    "translation": "姐姐！\n喜悦之舞只存在于梦中…… ",
-    "stage": 0,
+    "translation": "姐姐大人！\n喜悦之舞只存在于梦中…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n姐姐！\n喜悦之舞只存在于梦中…… \n\n姐姐！？\n喜悦之舞只在梦中…… \n\n姐姐！？喜悦之舞只在梦中……"
   },
   {
     "key": "ELIZABETH_ITEM_90_DUNGEO_0",
     "original": "持ちきれないアイテムは \nポイポイポイッでございます。 ",
-    "translation": "拿不动的道具就用\n丢丢丢。 ",
-    "stage": 0,
+    "translation": "拿不动的道具就都\n丢掉吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n拿不动的道具就用\n丢丢丢。 \n\n拿不完的物品是\n口袋妖怪。 \n\n拿不动的物品是\npoi poi poi。"
   },
   {
     "key": "THEODOR_ITEM_90_DUNGEON__0",
     "original": "姉上！？　それは私の虎の子の！？ ",
-    "translation": "姐姐！？那是我珍藏的！？ ",
-    "stage": 0,
+    "translation": "姐姐！？那是我珍藏的小老虎！？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n姐姐！？那是我珍藏的！？ \n\n姐姐！？那是我的虎子！？ \n\n姐姐！？那是我的小老虎！？"
   },
   {
@@ -912,8 +912,8 @@
   {
     "key": "ELIZABETH_ITEM_90_DUNGEO_3_0",
     "original": "あら、荷物が持ちきれないご様子。 ",
-    "translation": "哎呀，看来您拿不动了呢。 ",
-    "stage": 0,
+    "translation": "哎呀，看来您的物品已经装不下了。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n哎呀，看来您拿不动了呢。 \n\n哎呀，行李拿不完的样子。 \n\n哎呀，行李拿不动了。"
   },
   {
@@ -926,15 +926,15 @@
   {
     "key": "ELIZABETH_DUNGEON_START__0",
     "original": "呼ばれて飛び出てエリザベース！ ",
-    "translation": "我听到呼唤就跑出来了，艾莉纱贝斯！ ",
-    "stage": 0,
+    "translation": "我是听到呼唤就跑出来了的伊莉莎白！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n我听到呼唤就跑出来了，艾莉纱贝斯！ \n\n被召唤飞出伊莉莎白贝斯！ \n\n被叫出来以利莎贝斯！"
   },
   {
     "key": "THEODOR_DUNGEON_START_1_0",
     "original": "…と、テ、テオドアが \nナビを務めさせていただきます。 ",
-    "translation": "……呃，狄、西奥多\n将担任导航。 ",
-    "stage": 0,
+    "translation": "……呃，西、西奥多\n将担任导航。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n……呃，狄、西奥多\n将担任导航。 \n\n……请让我，西奥多担任\n导航。 \n\n……泰、西奥多担任\n导航。"
   },
   {
@@ -968,8 +968,8 @@
   {
     "key": "ELIZABETH_QUEST_START_1_0",
     "original": "ズバッと解決、でございます。 ",
-    "translation": "俐落地解决。 ",
-    "stage": 0,
+    "translation": "干净利落地解决了。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n俐落地解决。 \n\n一下子就解决了。"
   },
   {
@@ -989,15 +989,15 @@
   {
     "key": "THEODOR_QUEST_START_2_0",
     "original": "達成まで、姉上と私がお供いたします。 ",
-    "translation": "在达成目标之前，姐姐和我将与您同行。 ",
-    "stage": 0,
+    "translation": "在达成目标之前，姐姐大人和我将与您同行。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n在达成目标之前，姐姐和我将与您同行。 \n\n直到达成为止，姐姐和我都会陪您。 \n\n在达成之前，姐姐和我陪你。"
   },
   {
     "key": "ELIZABETH_QUEST_START_3_0",
     "original": "かかってきやがれでございます。 \nナビ上等でございます。 ",
-    "translation": "尽管放马过来\n导航万岁。 ",
-    "stage": 0,
+    "translation": "尽管放马过来\n导航工作非常地出色。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n尽管放马过来\n导航万岁。 \n\n这是您的电话。\n导航很好。 \n\n是打来的。导航器是上等的。"
   },
   {
@@ -1017,15 +1017,15 @@
   {
     "key": "THEODOR_TOUHA_25_1_0",
     "original": "このフロアは \nまだまだこれからのようです。 ",
-    "translation": "这个楼层也才刚开始……\n探索。 ",
-    "stage": 0,
+    "translation": "这个楼层的探索……\n才刚刚开始。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n这个楼层也才刚开始……\n探索。 \n\n这个楼层\n好像才刚刚开始。 \n\n这个楼层\n好像还在继续。"
   },
   {
     "key": "ELIZABETH_TOUHA_25_2_0",
     "original": "このフロアも始まったばかり、 \nでございます。 ",
-    "translation": "这个楼层也才刚开始……\n探索。 ",
-    "stage": 0,
+    "translation": "这个楼层的探索……\n才刚刚开始。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n这个楼层也才刚开始……\n探索。 \n\n这个楼层也是刚刚开始，是。\n \n\n这个楼层也刚开始。"
   },
   {
@@ -1045,29 +1045,29 @@
   {
     "key": "THEODOR_TOUHA_50_1_0",
     "original": "やっと半分といったところでしょうか。 ",
-    "translation": "终于走到一半了吧。 ",
-    "stage": 0,
+    "translation": "终于走完一半了啊。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n终于走到一半了吧。 \n\n总算是一半了吧。 \n\n才到一半吧。"
   },
   {
     "key": "ELIZABETH_TOUHA_50_2_0",
     "original": "残り半分、初心に返って参りましょう。 ",
-    "translation": "剩下的一半，让我们回归初心吧。 ",
-    "stage": 0,
+    "translation": "剩下的一半，\n让我们像往常一样行动吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n剩下的一半，让我们回归初心吧。 \n\n剩下的一半，回到初心吧。"
   },
   {
     "key": "THEODOR_TOUHA_50_2_0",
     "original": "半分まで来ましたよ。 \n頑張りましょう。 ",
-    "translation": "走到一半了哦……\n加油吧。 ",
-    "stage": 0,
+    "translation": "走过一半了哦……\n加油吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n走到一半了哦……\n加油吧。 \n\n我来了一半。\n加油吧。 \n\n已经到一半了。加油吧。"
   },
   {
     "key": "ELIZABETH_TOUHA_75_1_0",
     "original": "もうそろそろ、 \nフロアマスターでございます。 ",
-    "translation": "差不多了……\n楼层魔王。 ",
-    "stage": 0,
+    "translation": "已经差不多……\n成为楼层探索大师了。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n差不多了……\n楼层魔王。 \n\n已经差不多了，\n我是楼层经理。 \n\n我已经是楼层大师了。"
   },
   {
@@ -1080,43 +1080,43 @@
   {
     "key": "ELIZABETH_TOUHA_75_2_0",
     "original": "あと少しで踏破目前でございます。 ",
-    "translation": "再一下下就走到尽头了。 ",
-    "stage": 0,
+    "translation": "还差一点就走到尽头了。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n再一下下就走到尽头了。 \n\n再过一会儿就要踏破了。 \n\n就差一点点了。"
   },
   {
     "key": "THEODOR_TOUHA_75_2_0",
     "original": "あと少しで地図の完成です！ ",
-    "translation": "再一下下地图就完成了！ ",
-    "stage": 0,
+    "translation": "还差一点地图就完成了！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n再一下下地图就完成了！ \n\n再过一会儿地图就完成了！ \n\n再有一点点地图就完成了！"
   },
   {
     "key": "ELIZABETH_TOUHA_100_1_0",
     "original": "パンパカパーンでございます。 ",
-    "translation": "叭叭叭叭叭。 ",
-    "stage": 0,
+    "translation": "我是面包超人。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n叭叭叭叭叭。 \n\n我是潘帕卡帕恩。 \n\n是面包、面包。"
   },
   {
     "key": "THEODOR_TOUHA_100_1_0",
     "original": "素晴らしい！　地図の完成です！ ",
-    "translation": "太棒了！地图完成了！ ",
-    "stage": 0,
+    "translation": "太棒了！地图探索完成了！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n太棒了！地图完成了！"
   },
   {
     "key": "ELIZABETH_TOUHA_100_2_0",
     "original": "お見事、 \nフロアマスターでございます。 ",
-    "translation": "漂亮……\n楼层魔王。 ",
-    "stage": 0,
+    "translation": "真是太棒了……\n楼层探索大师。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n漂亮……\n楼层魔王。 \n\n漂亮，\n我是楼层老板。 \n\n您太棒了，\n我是楼层经理。"
   },
   {
     "key": "THEODOR_TOUHA_100_2_0",
     "original": "地図が完成しましたね。 \n良く頑張られました。 ",
-    "translation": "地图完成了呢……\n辛苦了。” ",
-    "stage": 0,
+    "translation": "地图探索完成了呢……\n辛苦了。” ",
+    "stage": 1,
     "context": "机翻辅助：\n\n地图完成了呢……\n辛苦了。” \n\n地图完成了啊。\n很好地努力了。 \n\n地图完成了呢。你很努力了。"
   },
   {
@@ -1164,8 +1164,8 @@
   {
     "key": "ELIZABETH_MAPPING_ICON_K_2_0",
     "original": "正解ー！　テオ、正解のご褒美を… ",
-    "translation": "正确答案！西奥，给正确答案的奖励…… ",
-    "stage": 0,
+    "translation": "正确答案！西奥，\n这是正确答案的奖励…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n正确答案！西奥，给正确答案的奖励…… \n\n正解——！西奥，奖励你正确答案…… \n\n正确答案！西奥，奖励正确答案……"
   },
   {
@@ -1178,8 +1178,8 @@
   {
     "key": "ELIZABETH_MAPPING_CHANGE_0",
     "original": "その色を使うとは… \nナウな感じでございます。 ",
-    "translation": "居然用那种颜色……\n很NOW的感觉。 ",
-    "stage": 0,
+    "translation": "居然用那种颜色……\n让人感觉很时髦呢。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n居然用那种颜色……\n很NOW的感觉。 \n\n竟然使用那个颜色……\n感觉很好。 \n\n用那个颜色……\n有种时髦的感觉。"
   },
   {
@@ -1192,8 +1192,8 @@
   {
     "key": "ELIZABETH_MAPPING_CHANGE_2_0",
     "original": "どんな地図になるのか、 \n私、ドキムネでございます。 ",
-    "translation": "会是什么样的地图呢……\n我好紧张。 ",
-    "stage": 0,
+    "translation": "会绘制出什么样的地图呢……\n我好紧张。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n会是什么样的地图呢……\n我好紧张。 \n\n将会是怎样的地图呢？\n我很着急。 \n\n这是什么样的地图呢。"
   },
   {
@@ -1206,22 +1206,22 @@
   {
     "key": "ELIZABETH_MAPPING_ICON_D_0",
     "original": "邪魔なものはポイッでございます。 \n…テオのように。 ",
-    "translation": "碍事的东西就丢掉。\n……就像丢掉西奥一样。 ",
-    "stage": 0,
+    "translation": "碍事的东西就丢掉。\n……就像西奥一样。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n碍事的东西就丢掉。\n……就像丢掉西奥一样。 \n\n碍事的东西是poy。\n……就像西奥一样。 \n\n麻烦的东西是Poi。\n就像西奥一样。"
   },
   {
     "key": "THEODOR_MAPPING_ICON_DEL_0",
     "original": "姉上！？　私を捨てる気ですか！？ ",
-    "translation": "姐姐！？你想抛弃我吗！？ ",
-    "stage": 0,
+    "translation": "姐姐大人！？你想抛弃我吗！？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n姐姐！？你想抛弃我吗！？ \n\n姐姐！？你打算抛弃我吗？？"
   },
   {
     "key": "ELIZABETH_MAPPING_ICON_D_2_0",
     "original": "では、私がテオのおやつを \n盗んだことも… ",
-    "translation": "那么，我偷吃西奥的点心\n也…… ",
-    "stage": 0,
+    "translation": "那么，我偷吃西奥的点心也…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n那么，我偷吃西奥的点心\n也…… \n\n那么，我偷西奥的点心的事也……\n \n\n那么，我偷了西奥的零食……"
   },
   {
@@ -1234,8 +1234,8 @@
   {
     "key": "ELIZABETH_MAPPING_MEMO_1_0",
     "original": "出来る男はメモを怠らない… \nとメモしておきましょう。 ",
-    "translation": "能干的男人不会疏于笔记……\n就写下来吧。 ",
-    "stage": 0,
+    "translation": "能干的男人不会懈怠记笔记……\n写下来吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n能干的男人不会疏于笔记……\n就写下来吧。 \n\n有能力的男人不会懈怠笔记……把\n记下来吧。 \n\n能干的男人不会懈怠笔记……记下来吧。"
   },
   {
@@ -1248,8 +1248,8 @@
   {
     "key": "ELIZABETH_MAPPING_MEMO_2_0",
     "original": "エ・リ・ザ・ベ・ス… \nと書いてみては如何でしょう？ ",
-    "translation": "伊·莉·莎·白……\n写写看如何？ ",
-    "stage": 0,
+    "translation": "伊·莉·莎·白……\n试着写写看？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n伊·莉·莎·白……\n写写看如何？ \n\n我爱你……试着写\n怎么样？ \n\n试着写一下“エ·リ·ザ·ベス……”\n怎么样？"
   },
   {

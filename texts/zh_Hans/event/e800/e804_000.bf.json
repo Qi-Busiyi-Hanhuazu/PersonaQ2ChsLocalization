@@ -16,8 +16,8 @@
   {
     "key": "MSG_001_1",
     "original": "急にどしたの？",
-    "translation": "怎么突然这样？",
-    "stage": 0,
+    "translation": "突然之间，怎么了？",
+    "stage": 1,
     "context": "说话人：里中 千枝\n\n机翻辅助：\n\n怎么突然这样？\n\n突然怎么了？"
   },
   {
@@ -86,15 +86,15 @@
   {
     "key": "MSG_005_2",
     "original": "葉っぱ？　やっぱ肉じゃなく葉っぱ？",
-    "translation": "是得吃叶子吗？\n果然是得放弃吃肉转而去吃叶子吧？",
+    "translation": "难道是菜叶？\n果然还是得放弃肉，多吃菜叶？",
     "stage": 1,
     "context": "说话人：里中 千枝\n\n机翻辅助：\n\n吃叶子？果然不是吃肉而是吃叶子？\n\n叶子？果然不是肉而是叶子？"
   },
   {
     "key": "MSG_006_0",
     "original": "葉っぱ…",
-    "translation": "叶子……",
-    "stage": 0,
+    "translation": "菜叶……",
+    "stage": 1,
     "context": "说话人：高巻 杏\n\n机翻辅助：\n\n叶子……"
   },
   {

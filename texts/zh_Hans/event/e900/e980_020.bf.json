@@ -51,8 +51,8 @@
   {
     "key": "SEL_003_1",
     "original": "残すのは良くない",
-    "translation": "吃剩的不好",
-    "stage": 0,
+    "translation": "剩下食物可不好",
+    "stage": 1,
     "context": "机翻辅助：\n\n吃剩的不好\n\n留下不好"
   },
   {
@@ -121,8 +121,8 @@
   {
     "key": "MSG_009_0",
     "original": "ちょ、ちょっとリーダ！",
-    "translation": "等、等一下，队长！",
-    "stage": 0,
+    "translation": "等、等一下，团长！",
+    "stage": 1,
     "context": "说话人：高巻 杏\n\n机翻辅助：\n\n等、等一下，队长！\n\n喂，领班！\n\n等、等一下！"
   },
   {
@@ -163,8 +163,8 @@
   {
     "key": "MSG_013_0",
     "original": "ご、５個！？\nちょっと多くねーか！？",
-    "translation": "五、五个？\n会不会太多啦！",
-    "stage": 0,
+    "translation": "五、五个？\n会不会太多了！",
+    "stage": 1,
     "context": "说话人：坂本 竜司\n\n机翻辅助：\n\n五、五个？\n会不会太多啦！\n\n5个！？\n有点多吧！？\n\n五、五个！？\n有点多啊！？"
   },
   {

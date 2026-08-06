@@ -114,8 +114,8 @@
   {
     "key": "MSG_007_1_0",
     "original": "でも、[P5名]に変わった様子は無いよね。\nその点はどう説明する？",
-    "translation": "可是，[P5名]看起来没什么变化呢。\n这一点要怎么说明？",
-    "stage": 0,
+    "translation": "可是，[P5名]看上去并没什么变化呢。\n这一点要怎么说明？",
+    "stage": 1,
     "context": "说话人：明智 吾郎\n\n机翻辅助：\n\n可是，[P5名]看起来没什么变化呢。\n这一点要怎么说明？\n\n但是，[P5名]没有变的样子。\n这一点怎么解释？\n\n但是，没有变成[P5名]的样子吧。\n这一点怎么解释？"
   },
   {
@@ -191,8 +191,8 @@
   {
     "key": "MSG_014_0",
     "original": "はい、それはもちろん。",
-    "translation": "是的，当然没有。",
-    "stage": 0,
+    "translation": "是的，那是当然。",
+    "stage": 1,
     "context": "说话人：テオドア\n\n机翻辅助：\n\n是的，当然没有。\n\n是的，那当然。\n\n是的，那是当然。"
   },
   {
@@ -240,15 +240,15 @@
   {
     "key": "SEL_018_0",
     "original": "意味がわからない",
-    "translation": "莫名其妙",
-    "stage": 0,
+    "translation": "搞不懂",
+    "stage": 1,
     "context": "机翻辅助：\n\n莫名其妙\n\n不明白意思"
   },
   {
     "key": "SEL_018_1",
     "original": "話が見えない",
-    "translation": "不知所云",
-    "stage": 0,
+    "translation": "搞不懂在说什么",
+    "stage": 1,
     "context": "机翻辅助：\n\n不知所云\n\n看不见话\n\n看不清谈话内容"
   },
   {
@@ -359,8 +359,8 @@
   {
     "key": "SEL_028_1",
     "original": "ちょっと待って",
-    "translation": "等我一下",
-    "stage": 0,
+    "translation": "等一下",
+    "stage": 1,
     "context": "机翻辅助：\n\n等我一下\n\n稍等一下\n\n等一下"
   },
   {
@@ -401,8 +401,8 @@
   {
     "key": "SEL_032_1",
     "original": "まだだ",
-    "translation": "还不行",
-    "stage": 0,
+    "translation": "再等等",
+    "stage": 1,
     "context": "机翻辅助：\n\n还不行\n\n还没好\n\n还没有"
   },
   {

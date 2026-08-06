@@ -2,8 +2,8 @@
   {
     "key": "MARGARET_FOE_FOLLOW_STAR_0",
     "original": "あれは…フィルム・おぷ…",
-    "translation": "那是……胶片·欧普……",
-    "stage": 0,
+    "translation": "",
+    "stage": 1,
     "context": "机翻辅助：\n\n那是……胶片·欧普……\n\n那是……胶片……\n\n那是……电影之光……"
   },
   {
@@ -23,15 +23,15 @@
   {
     "key": "NANAKO_FOE_FOLLOW_START__2_0",
     "original": "みんな！　気をつけてね！",
-    "translation": "大家！小心哦！",
-    "stage": 0,
+    "translation": "大家！要小心哦！",
+    "stage": 1,
     "context": "机翻辅助：\n\n大家！小心哦！\n\n大家好！要小心哦！\n\n大家！要小心哦！"
   },
   {
     "key": "MARGARET_FOE_FOLLOW_STAR_3_0",
     "original": "追尾しているわよ。",
-    "translation": "正在追踪呢。",
-    "stage": 0,
+    "translation": "正在被追踪呢。",
+    "stage": 1,
     "context": "机翻辅助：\n\n正在追踪呢。\n\n我在跟踪你。"
   },
   {
@@ -58,22 +58,22 @@
   {
     "key": "MARGARET_FOE_NEAR_2_0",
     "original": "貴方から見たら\nすべて大きく見えるわね。",
-    "translation": "从您的角度来看\n一切看起来都很大呢。",
-    "stage": 0,
+    "translation": "从您的视角来看\n一切都很巨大呢。",
+    "stage": 1,
     "context": "机翻辅助：\n\n从您的角度来看\n一切看起来都很大呢。\n\n在你看来\n一切都显得很大呢。\n\n在你看来，一切都显得很大。"
   },
   {
     "key": "NANAKO_FOE_NEAR_2_0",
     "original": "わっ！　大きいの近いよ！",
-    "translation": "哇！好大的东西好近哦！",
-    "stage": 0,
+    "translation": "哇！好大的怪物离我们好近哦！",
+    "stage": 1,
     "context": "机翻辅助：\n\n哇！好大的东西好近哦！\n\n哇！大的近哟！\n\n哇！大的很近哦！"
   },
   {
     "key": "MARGARET_FOE_NEAR_3_0",
     "original": "Ｆ．Ｏ．Ｅが近いわ。",
-    "translation": "F.O.E很近了。",
-    "stage": 0,
+    "translation": "F.O.E离我们很近了。",
+    "stage": 1,
     "context": "机翻辅助：\n\nF.O.E很近了。\n\nF.O.E很近。"
   },
   {
@@ -86,29 +86,29 @@
   {
     "key": "MARGARET_FOE_FOLLOW_END__0",
     "original": "素晴らしいわ。\nＦ．Ｏ．Ｅを振り切ったようね。",
-    "translation": "太棒了。\n您甩掉F、O、E了呢。",
-    "stage": 0,
+    "translation": "太棒了。\n您甩掉F.O.E了呢。",
+    "stage": 1,
     "context": "机翻辅助：\n\n太棒了。\n您甩掉F、O、E了呢。\n\n太棒了。\n好像甩掉了F.O.E。"
   },
   {
     "key": "NANAKO_FOE_FOLLOW_END_1_0",
     "original": "あぶなかったー。",
-    "translation": "好险。",
-    "stage": 0,
+    "translation": "好危险啊。",
+    "stage": 1,
     "context": "机翻辅助：\n\n好险。\n\n危险！\n\n太危险了。"
   },
   {
     "key": "MARGARET_FOE_FOLLOW_END__2_0",
     "original": "上手く逃げ切れたようね。",
-    "translation": "顺利逃掉了呢。",
-    "stage": 0,
+    "translation": "顺利逃脱了呢。",
+    "stage": 1,
     "context": "机翻辅助：\n\n顺利逃掉了呢。\n\n好像逃得很好呢。"
   },
   {
     "key": "NANAKO_FOE_FOLLOW_END_2_0",
     "original": "あ、エフオーイー、\nもう来てないみたい。",
-    "translation": "啊，F、O、E\n好像已经没来了。",
-    "stage": 0,
+    "translation": "啊，F、O、E\n好像不会再来了。",
+    "stage": 1,
     "context": "机翻辅助：\n\n啊，F、O、E\n好像已经没来了。\n\n啊，伊夫，\n好像已经不来了。\n\n啊，everoy，\n好像已经不来了。"
   },
   {
@@ -121,8 +121,8 @@
   {
     "key": "NANAKO_FOE_FOLLOW_END_3_0",
     "original": "あれ？　エフオーイー？\nもうだいじょうぶなのかな？",
-    "translation": "奇怪？F、O、E？\n已经不要紧了吗？",
-    "stage": 0,
+    "translation": "奇怪？F、O、E去哪里啦？\n已经没事了吗？",
+    "stage": 1,
     "context": "机翻辅助：\n\n奇怪？F、O、E？\n已经不要紧了吗？\n\n咦？埃夫奥伊？\n已经不要紧了吗？\n\n咦？爱夫奥伊？\n已经没事了吗？"
   },
   {
@@ -135,22 +135,22 @@
   {
     "key": "NANAKO_KANSI_REACTION_1_0",
     "original": "あそこに入ったら、見つかっちゃうよ！",
-    "translation": "要是进去那里，会被发现的哦！",
-    "stage": 0,
+    "translation": "进去那里的话，会被发现的哦！",
+    "stage": 1,
     "context": "机翻辅助：\n\n要是进去那里，会被发现的哦！\n\n进入那里的话，会找到的哦！\n\n进去的话，会被发现的！"
   },
   {
     "key": "MARGARET_KANSI_REACTION__2_0",
     "original": "スポットライトで監視されてるわよ。",
-    "translation": "被聚光灯监视着哦。",
-    "stage": 0,
+    "translation": "聚光灯正在监视着哦。",
+    "stage": 1,
     "context": "机翻辅助：\n\n被聚光灯监视着哦。\n\n被聚光灯监视着呢。"
   },
   {
     "key": "NANAKO_KANSI_REACTION_2_0",
     "original": "見つからないように、こっそりいこ！",
-    "translation": "为了不被发现，偷偷地走吧！",
-    "stage": 0,
+    "translation": "为了不被发现，小心地走过去吧！",
+    "stage": 1,
     "context": "机翻辅助：\n\n为了不被发现，偷偷地走吧！\n\n为了不被发现，悄悄地去！\n\n不要被发现，偷偷去！"
   },
   {
@@ -170,22 +170,22 @@
   {
     "key": "MARGARET_DENKISAKU_REACT_0",
     "original": "電気柵を止めないと進めないわよ。",
-    "translation": "不关掉电栅栏就无法前进哦。",
-    "stage": 0,
+    "translation": "不关掉电网栅栏就无法前进哦。",
+    "stage": 1,
     "context": "机翻辅助：\n\n不关掉电栅栏就无法前进哦。\n\n不把电栅栏关掉的话就无法前进。\n\n不停电栅栏就不能前进。"
   },
   {
     "key": "NANAKO_DENKISAKU_REACTIO_0",
     "original": "びりびりしてる…\nあれ、とめられないかな？",
-    "translation": "劈哩劈哩的……\n那个可以关掉吗？",
-    "stage": 0,
+    "translation": "噼里啪啦的……\n那个可以关掉的吧？",
+    "stage": 1,
     "context": "机翻辅助：\n\n劈哩劈哩的……\n那个可以关掉吗？\n\n战战兢兢的……\n那个，不能阻止吗？\n\n咦，停不下来吗？"
   },
   {
     "key": "MARGARET_DENKISAKU_REACT_2_0",
     "original": "この柵はやっかいね。",
-    "translation": "这栅栏很麻烦呢。",
-    "stage": 0,
+    "translation": "这个栅栏很麻烦呢。",
+    "stage": 1,
     "context": "机翻辅助：\n\n这栅栏很麻烦呢。\n\n这个栅栏好麻烦啊。\n\n这个栅栏真麻烦。"
   },
   {

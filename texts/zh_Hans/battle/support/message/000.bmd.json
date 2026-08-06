@@ -184,22 +184,22 @@
   {
     "key": "BTL_MES_000_027_0",
     "original": "ちょ、ちょっと待て！\nなんだ今のはっ！",
-    "translation": "等、等一下！\n刚才那是什么！",
-    "stage": 0,
+    "translation": "等、等一下！\n刚才那是什么？！",
+    "stage": 1,
     "context": "机翻辅助：\n\n等、等一下！\n刚才那是什么！\n\n喂，等一下！\n现在的是什么！\n\n等、等一下！\n怎么刚才的哈！"
   },
   {
     "key": "BTL_MES_000_028_0",
     "original": "そ、そんな…！",
-    "translation": "怎、怎么会……！",
-    "stage": 0,
+    "translation": "怎、怎么会这样……！",
+    "stage": 1,
     "context": "机翻辅助：\n\n怎、怎么会……！\n\n啊，那样的……！\n\n这、这……！"
   },
   {
     "key": "BTL_MES_000_029_0",
     "original": "み、みなさんっ！",
-    "translation": "各、各位！",
-    "stage": 0,
+    "translation": "大、大家！",
+    "stage": 1,
     "context": "机翻辅助：\n\n各、各位！\n\n各位、各位！\n\n大家好！"
   },
   {
@@ -219,8 +219,8 @@
   {
     "key": "BTL_MES_000_032_0",
     "original": "皆の反応が…\n感じられません…",
-    "translation": "我感受不到……\n大家的反应……",
-    "stage": 0,
+    "translation": "无法感知到……\n大家的信号了……",
+    "stage": 1,
     "context": "机翻辅助：\n\n我感受不到……\n大家的反应……\n\n大家的反应……\n感觉不到……"
   },
   {
@@ -240,8 +240,8 @@
   {
     "key": "BTL_MES_000_035_0",
     "original": "ひ、ひかりっ！",
-    "translation": "光、光！",
-    "stage": 0,
+    "translation": "小、小光！",
+    "stage": 1,
     "context": "机翻辅助：\n\n光、光！\n\n火，发光！"
   },
   {
@@ -254,8 +254,8 @@
   {
     "key": "BTL_MES_000_037_0",
     "original": "…逃げてください！\nこのままじゃ、ひかりちゃんまで！",
-    "translation": "……快逃！\n再这样下去，连小光都会……！",
-    "stage": 0,
+    "translation": "……快逃吧！\n如果这样下去，连小光也会受到影响！",
+    "stage": 1,
     "context": "机翻辅助：\n\n……快逃！\n再这样下去，连小光都会……！\n\n……请逃走！\n这样下去的话，连小光也要！\n\n……快逃吧！\n这样下去，连光也！"
   },
   {
@@ -275,8 +275,8 @@
   {
     "key": "BTL_MES_000_040_0",
     "original": "ひかりちゃんの声、聞こえたよ。",
-    "translation": "我听见小光的声音了。",
-    "stage": 0,
+    "translation": "小光的声音，我们听到了哦。",
+    "stage": 1,
     "context": "机翻辅助：\n\n我听见小光的声音了。\n\n小光的声音，我听到了。\n\n我听见了阿光的声音。"
   },
   {

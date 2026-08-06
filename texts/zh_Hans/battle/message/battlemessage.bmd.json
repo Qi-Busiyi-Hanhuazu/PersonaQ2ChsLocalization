@@ -1241,7 +1241,7 @@
   {
     "key": "BTLMSGID_ATTRUP_ALL_0",
     "original": "すべての耐性が上がった！",
-    "translation": "所有的抗性都上升了！",
+    "translation": "所有的耐性都上升了！",
     "stage": 1,
     "context": "机翻辅助：\n\n所有抗性都上升了！"
   },
@@ -1521,8 +1521,8 @@
   {
     "key": "BTLMSGID_REF_ATTR_UP_0",
     "original": "[占位A 02]の[占位A 03]耐性が上昇した！",
-    "translation": "[占位A 02]的[占位A 03]抗性上升！",
-    "stage": 0,
+    "translation": "[占位A 02]的[占位A 03]耐性上升！",
+    "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的[占位A 03]抗性上升！\n\n[占位A 02]的[占位A 03]耐性上升了！\n\n[占位A 02]的耐性上升了！[占位A 03]"
   },
   {
@@ -1591,8 +1591,8 @@
   {
     "key": "BTLMSGID_REF_ATTR_UP_ALL_0",
     "original": "全体の[占位A 03]耐性が上昇した！",
-    "translation": "全体的[占位A 03]抗性上升了！",
-    "stage": 0,
+    "translation": "全体的[占位A 03]耐性上升了！",
+    "stage": 1,
     "context": "机翻辅助：\n\n全体的[占位A 03]抗性上升了！"
   },
   {
@@ -1619,8 +1619,8 @@
   {
     "key": "BTLMSGID_REF_ATTR_DOWN_0",
     "original": "[占位A 02]の[占位A 03]耐性が低下した！",
-    "translation": "[占位A 02]的[占位A 03]抗性下降！",
-    "stage": 0,
+    "translation": "[占位A 02]的[占位A 03]耐性下降！",
+    "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的[占位A 03]抗性下降！\n\n[占位A 02]的[占位A 03]耐性降低了！\n\n[占位A 02]的耐性下降了！[占位A 03]"
   },
   {
@@ -1766,8 +1766,8 @@
   {
     "key": "BTLMSGID_BOOT_V_0",
     "original": "貫通効果発動！",
-    "translation": "发动贯通效果！",
-    "stage": 0,
+    "translation": "发动贯穿效果！",
+    "stage": 1,
     "context": "机翻辅助：\n\n发动贯通效果！\n\n贯通效果发动！"
   },
   {
@@ -2060,84 +2060,84 @@
   {
     "key": "BTLMSGID_REF_ATTRUP_FIRE_0",
     "original": "[占位A 02]の火炎耐性が上昇した！",
-    "translation": "[占位A 02]的火焰抗性上升了！",
+    "translation": "[占位A 02]的火焰耐性上升了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的火焰抗性上升！\n\n[占位A 02]的火焰耐性上升了！"
   },
   {
     "key": "BTLMSGID_REF_ATTRUP_ICE_0",
     "original": "[占位A 02]の氷結耐性が上昇した！",
-    "translation": "[占位A 02]的冰冻抗性上升了！",
+    "translation": "[占位A 02]的冰冻耐性上升了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的冰冻抗性上升！\n\n[占位A 02]的结冰耐性上升了！\n\n[占位A 02]的冰冻耐性上升了！"
   },
   {
     "key": "BTLMSGID_REF_ATTRUP_THUN_0",
     "original": "[占位A 02]の電撃耐性が上昇した！",
-    "translation": "[占位A 02]的电击抗性上升了！",
+    "translation": "[占位A 02]的电击耐性上升了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的电击抗性上升！\n\n[占位A 02]的电击耐性上升了！"
   },
   {
     "key": "BTLMSGID_REF_ATTRUP_BUTS_0",
     "original": "[占位A 02]の物理耐性が上昇した！",
-    "translation": "[占位A 02]的物理抗性上升了！",
+    "translation": "[占位A 02]的物理耐性上升了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的物理抗性上升！\n\n[占位A 02]的物理耐性上升了！"
   },
   {
     "key": "BTLMSGID_REF_ATTRUP_SHOC_0",
     "original": "[占位A 02]の壊耐性が上昇した！",
-    "translation": "[占位A 02]的破坏抗性上升了！",
+    "translation": "[占位A 02]的破坏耐性上升了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的破坏抗性上升！\n\n[占位A 02]的破坏耐性上升了！\n\n[占位A 02]的耐坏性上升了！\n\n评论：\n\n存疑"
   },
   {
     "key": "BTLMSGID_REF_ATTRUP_THRU_0",
     "original": "[占位A 02]の突耐性が上昇した！",
-    "translation": "[占位A 02]的突刺抗性上升了！",
+    "translation": "[占位A 02]的突刺耐性上升了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的突刺抗性上升！\n\n[占位A 02]的抗突性上升了！\n\n[占位A 02]的突耐性上升了！"
   },
   {
     "key": "BTLMSGID_REF_ATTRDOWN_FI_0",
     "original": "[占位A 02]の火炎耐性が低下した！",
-    "translation": "[占位A 02]的火焰抗性下降了！",
+    "translation": "[占位A 02]的火焰耐性下降了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的火焰抗性下降！\n\n[占位A 02]的火焰耐性降低了！\n\n[占位A 02]的火焰耐性下降了！"
   },
   {
     "key": "BTLMSGID_REF_ATTRDOWN_IC_0",
     "original": "[占位A 02]の氷結耐性が低下した！",
-    "translation": "[占位A 02]的冰冻抗性下降了！",
+    "translation": "[占位A 02]的冰冻耐性下降了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的冰冻抗性下降！\n\n[占位A 02]的结冰耐性降低了！\n\n[占位A 02]的抗冻能力下降了！"
   },
   {
     "key": "BTLMSGID_REF_ATTRDOWN_TH_0",
     "original": "[占位A 02]の電撃耐性が低下した！",
-    "translation": "[占位A 02]的电击抗性下降了！",
+    "translation": "[占位A 02]的电击耐性下降了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的电击抗性下降！\n\n[占位A 02]的电击耐性降低了！"
   },
   {
     "key": "BTLMSGID_REF_ATTRDOWN_BU_0",
     "original": "[占位A 02]の物理耐性が低下した！",
-    "translation": "[占位A 02]的物理抗性下降了！",
+    "translation": "[占位A 02]的物理耐性下降了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的物理抗性下降！\n\n[占位A 02]的物理耐性降低了！\n\n[占位A 02]的物理耐性下降了！"
   },
   {
     "key": "BTLMSGID_REF_ATTRDOWN_SH_0",
     "original": "[占位A 02]の壊耐性が低下した！",
-    "translation": "[占位A 02]的破坏抗性下降了！",
+    "translation": "[占位A 02]的破坏耐性下降了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的破坏抗性下降！\n\n[占位A 02]的破坏耐性降低了！\n\n[占位A 02]的耐坏性降低了！\n\n评论：\n\n存疑"
   },
   {
     "key": "BTLMSGID_REF_ATTRDOWN_TH_2_0",
     "original": "[占位A 02]の突耐性が低下した！",
-    "translation": "[占位A 02]的突刺抗性下降了！",
+    "translation": "[占位A 02]的突刺耐性下降了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的突刺抗性下降！\n\n[占位A 02]的耐突性降低了！\n\n[占位A 02]的突耐性降低了！"
   },
@@ -2270,8 +2270,8 @@
   {
     "key": "BTLMSGID_KAIMA_0",
     "original": "封じ、状態異常の耐性が元に戻った！",
-    "translation": "封印、异常状态抗性恢复原状！",
-    "stage": 0,
+    "translation": "封印、异常状态耐性恢复原状！",
+    "stage": 1,
     "context": "机翻辅助：\n\n封印、异常状态抗性恢复原状！\n\n封，状态异常的耐性恢复了原来！\n\n封，状态异常的耐性回到了原来！"
   },
   {
@@ -2326,42 +2326,42 @@
   {
     "key": "BTLMSGID_REF_ATTRUP_WIND_0",
     "original": "[占位A 02]の疾風耐性が上昇した！",
-    "translation": "[占位A 02]的疾风抗性上升了！",
+    "translation": "[占位A 02]的疾风耐性上升了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的疾风抗性上升！\n\n[占位A 02]的疾风耐性上升了！"
   },
   {
     "key": "BTLMSGID_REF_ATTRUP_HIKA_0",
     "original": "[占位A 02]の祝福耐性が上昇した！",
-    "translation": "[占位A 02]的祝福抗性上升了！",
+    "translation": "[占位A 02]的祝福耐性上升了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的祝福抗性上升！\n\n[占位A 02]的祝福耐性上升了！"
   },
   {
     "key": "BTLMSGID_REF_ATTRUP_YAMI_0",
     "original": "[占位A 02]の呪怨耐性が上昇した！",
-    "translation": "[占位A 02]的咒怨抗性上升了！",
+    "translation": "[占位A 02]的咒怨耐性上升了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的咒怨抗性上升！\n\n[占位A 02]的咒怨耐受性上升了！\n\n[占位A 02]的咒怨耐性上升了！"
   },
   {
     "key": "BTLMSGID_REF_ATTRDOWN_WI_0",
     "original": "[占位A 02]の疾風耐性が低下した！",
-    "translation": "[占位A 02]的疾风抗性下降了！",
+    "translation": "[占位A 02]的疾风耐性下降了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的疾风抗性下降！\n\n[占位A 02]的疾风耐性降低了！"
   },
   {
     "key": "BTLMSGID_REF_ATTRDOWN_HI_0",
     "original": "[占位A 02]の祝福耐性が低下した！",
-    "translation": "[占位A 02]的祝福抗性下降了！",
+    "translation": "[占位A 02]的祝福耐性下降了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的祝福抗性下降！\n\n[占位A 02]的祝福耐性降低了！\n\n[占位A 02]的祝福耐性下降了！"
   },
   {
     "key": "BTLMSGID_REF_ATTRDOWN_YA_0",
     "original": "[占位A 02]の呪怨耐性が低下した！",
-    "translation": "[占位A 02]的咒怨抗性下降了！",
+    "translation": "[占位A 02]的咒怨耐性下降了！",
     "stage": 1,
     "context": "机翻辅助：\n\n[占位A 02]的咒怨抗性下降！\n\n[占位A 02]的咒怨耐性降低了！\n\n[占位A 02]的咒怨耐受性降低了！"
   },
@@ -2886,8 +2886,8 @@
   {
     "key": "BTLMSGID_ALL_ATK_NAOTO_0",
     "original": "チャンスです！\n一気に畳みかけましょう！",
-    "translation": "好机会！\n一口气上吧！",
-    "stage": 0,
+    "translation": "好机会！\n一口气打倒他们吧！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n好机会！\n一口气上吧！\n\n是机会！\n一口气叠起来吧！\n\n机会来了！\n一口气叠完吧！"
   },
   {
@@ -2907,8 +2907,8 @@
   {
     "key": "BTLMSGID_ALL_ATK_JUNPEI_0",
     "original": "待ってました！\n総攻撃チャーンス！",
-    "translation": "就等这一刻！\n总攻击的机会！",
-    "stage": 0,
+    "translation": "就等这一刻！\n总攻击的机会来了！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n就等这一刻！\n总攻击的机会！\n\n一直在等着！\n总攻击查恩斯！\n\n一直在等你！\n总攻击时机！"
   },
   {
@@ -2949,8 +2949,8 @@
   {
     "key": "BTLMSGID_ALL_ATK_KOROMAR_0",
     "original": "ワンッ、ワンッ！！",
-    "translation": "汪！汪！",
-    "stage": 0,
+    "translation": "汪、汪！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n汪！汪！\n\n汪、汪！！\n\n哇、哇！！"
   },
   {
@@ -2991,8 +2991,8 @@
   {
     "key": "BTLMSGID_ALL_ATK_YUSUKE_0",
     "original": "好機だ！　どうする？",
-    "translation": "好机会！怎么办？",
-    "stage": 0,
+    "translation": "好机会！要怎么做？",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n好机会！怎么办？"
   },
   {
@@ -3138,8 +3138,8 @@
   {
     "key": "BTLMSGID_ALL2_ATK_KOROMA_0",
     "original": "ワンッ、ワンッ！！",
-    "translation": "汪！汪！",
-    "stage": 0,
+    "translation": "汪、汪！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n汪！汪！\n\n汪、汪！！\n\n哇、哇！！"
   },
   {
@@ -3208,8 +3208,8 @@
   {
     "key": "BTLMSGID_ALL2_ATK_AKECI_0",
     "original": "この瞬間を待っていたよ！",
-    "translation": "我就是在等这个瞬间！",
-    "stage": 0,
+    "translation": "等的就是现在！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n我就是在等这个瞬间！\n\n等待着这一瞬间！\n\n我一直在等待这个瞬间！"
   },
   {
@@ -3229,8 +3229,8 @@
   {
     "key": "BTLMSGID_COMBI_ATK_YOUSU_0",
     "original": "ここはトーゼン、\n行くしかねーだろ！",
-    "translation": "这种时候当然只能\n上了吧！",
-    "stage": 0,
+    "translation": "这种时候当然，\n只有上了吧！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n这种时候当然只能\n上了吧！\n\n这里是托森，只能去了吧！"
   },
   {
@@ -3243,8 +3243,8 @@
   {
     "key": "BTLMSGID_COMBI_ATK_YUKIK_0",
     "original": "今だよ！\n私たちの力を合わせよう！",
-    "translation": "就是现在！\n让我们同心协力！",
-    "stage": 0,
+    "translation": "就是现在！\n让我们齐心协力！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n就是现在！\n让我们同心协力！\n\n就是现在！\n让我们齐心协力吧！\n\n就是现在！齐心协力吧！"
   },
   {
@@ -3278,8 +3278,8 @@
   {
     "key": "BTLMSGID_COMBI_ATK_YUKAR_0",
     "original": "来たよ、皆！\n今しかないって！",
-    "translation": "来了哦，各位！\n就是现在！",
-    "stage": 0,
+    "translation": "来了哦，各位！\n机不可失！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n来了哦，各位！\n就是现在！\n\n来了，大家！\n只有现在！\n\n大家来了！\n只有现在！"
   },
   {
@@ -3481,8 +3481,8 @@
   {
     "key": "BTLMSGID_COMBI2_ATK_JUNP_0",
     "original": "いっちょやりますか！",
-    "translation": "上吧！",
-    "stage": 0,
+    "translation": "那就准备上了哦？！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n上吧！\n\n要来一下吗！\n\n你要做吗？"
   },
   {
@@ -3523,8 +3523,8 @@
   {
     "key": "BTLMSGID_COMBI2_ATK_KORO_0",
     "original": "ワンッ、ワンッ！！",
-    "translation": "汪！汪！",
-    "stage": 0,
+    "translation": "汪、汪！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n汪！汪！\n\n汪、汪！！\n\n哇、哇！！"
   },
   {
@@ -3579,8 +3579,8 @@
   {
     "key": "BTLMSGID_COMBI2_ATK_MAKO_0",
     "original": "今よ、仕掛けましょう！",
-    "translation": "就是现在，上吧！",
-    "stage": 0,
+    "translation": "就是现在，动手吧！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n就是现在，上吧！\n\n现在，开始吧！\n\n现在就开始行动吧！"
   },
   {
@@ -3600,43 +3600,43 @@
   {
     "key": "BTLMSGID_COMBI2_ATK_AKEC_0",
     "original": "そろそろ始めようか。",
-    "translation": "差不多可以开始了。",
-    "stage": 0,
+    "translation": "差不多开始了。",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n差不多可以开始了。\n\n差不多该开始了吧。"
   },
   {
     "key": "BTLMSGID_VELVET_THEODORE_0",
     "original": "意識を集中した！",
-    "translation": "集中意识！",
-    "stage": 0,
+    "translation": "集中注意！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n集中意识！\n\n集中了意识！"
   },
   {
     "key": "BTLMSGID_VELVET_ELIZABET_0",
     "original": "意識を集中した！",
-    "translation": "集中意识！",
-    "stage": 0,
+    "translation": "集中注意！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n集中意识！\n\n集中了意识！"
   },
   {
     "key": "BTLMSGID_VELVET_MARGARET_0",
     "original": "意識を集中した！",
-    "translation": "集中意识！",
-    "stage": 0,
+    "translation": "集中注意！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n集中意识！\n\n集中了意识！"
   },
   {
     "key": "BTLMSGID_USAGI_OOGOE_0",
     "original": "[占位A 01]は大きく息を吸い込んだ",
-    "translation": "[占位A 01]大口吸气。",
-    "stage": 0,
+    "translation": "[占位A 01]吸了一大口气。",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n[占位A 01]大口吸气。\n\n[占位A 01]深深地吸了一口气"
   },
   {
     "key": "BTLMSGID_VELVET_SRICAM_0",
     "original": "[占位A 01]は戦線に復帰した！",
-    "translation": "[占位A 01]重返战线！",
-    "stage": 0,
+    "translation": "[占位A 01]回到战线了！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n[占位A 01]重返战线！\n\n[占位A 01]回到了战线！\n\n[占位A 01]回到前线了！"
   },
   {
@@ -3649,8 +3649,8 @@
   {
     "key": "BTLMSGID_GK_COUNT2_0",
     "original": "[占位A 01]は目の輝きを消してしまった！",
-    "translation": "[占位A 01]的眼睛黯淡无光！",
-    "stage": 0,
+    "translation": "[占位A 01]眼睛里没有光了！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n[占位A 01]的眼睛黯淡无光！\n\n[占位A 01]眼睛的光辉消失了！\n\n[占位A 01]眼睛的光芒消失了！"
   },
   {
@@ -3663,15 +3663,15 @@
   {
     "key": "BTLMSGID_ESCAPE_ALL_0",
     "original": "パーティは逃げ出した！",
-    "translation": "队伍逃走了！",
-    "stage": 0,
+    "translation": "队伍逃出来了！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n队伍逃走了！"
   },
   {
     "key": "BTLMSGID_OVERWRITE_ALL_0",
     "original": "パーティの強化効果が延長された！",
-    "translation": "队伍的强化效果延长了！",
-    "stage": 0,
+    "translation": "队伍的强化效果时间延长了！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n队伍的强化效果延长了！\n\n队伍的强化效果被延长了！"
   },
   {
@@ -3761,15 +3761,15 @@
   {
     "key": "BTLMSGID_TIYUDAI_0",
     "original": "３ターンの間、味方全員のＨＰを回復！",
-    "translation": "在三回合内恢复我方全体HP！",
-    "stage": 0,
+    "translation": "在三回合内，恢复我方全体HP！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n在三回合内恢复我方全体HP！\n\n3回合期间，我方全体人员的HP恢复！\n\n3回合期间，我方全员的HP回复！"
   },
   {
     "key": "BTLMSGID_TIYUSOK_0",
     "original": "３ターンの間、味方全員のＨＰを回復！",
-    "translation": "在三回合内恢复我方全体HP！",
-    "stage": 0,
+    "translation": "在三回合内，恢复我方全体HP！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n在三回合内恢复我方全体HP！\n\n3回合期间，我方全体人员的HP恢复！\n\n3回合期间，我方全员的HP回复！"
   },
   {
@@ -3782,8 +3782,8 @@
   {
     "key": "BTLMSGID_OWNDOLL_0",
     "original": "[占位A 01]に贖罪の羊の効果が発動！",
-    "translation": "[占位A 01]的赎罪羔羊效果发动！",
-    "stage": 0,
+    "translation": "赎罪羔羊效果向[占位A 01]发动了！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n[占位A 01]的赎罪羔羊效果发动！\n\n[占位A 01]赎罪羊的效果发动！\n\n[占位A 01]二赎罪之羊的效果发动！"
   },
   {
@@ -3803,8 +3803,8 @@
   {
     "key": "BTLMSGID_DLCATK_0",
     "original": "ターンの最後に攻撃を行うようになった！",
-    "translation": "在回合结束时进行攻击！",
-    "stage": 0,
+    "translation": "可以在回合结束时进行攻击了！",
+    "stage": 1,
     "context": "说话人：慈悲深い聖職者\n\n机翻辅助：\n\n在回合结束时进行攻击！\n\n回合的最后进行攻击！\n\n会在回合的最后进行攻击！"
   },
   {

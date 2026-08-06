@@ -2,8 +2,8 @@
   {
     "key": "MSG_000_0",
     "original": "さて、Ｆ．Ｏ．Ｅのお出ましか。",
-    "translation": "好了，F.O.E要登场了啊。",
-    "stage": 0,
+    "translation": "接下来，F.O.E要登场了啊。",
+    "stage": 1,
     "context": "说话人：モルガナ\n\n机翻辅助：\n\n好了，F.O.E要登场了啊。\n\n那么，F.O.E出场了吗？\n\n那么，F.O.E出来了吗。"
   },
   {
@@ -23,8 +23,8 @@
   {
     "key": "MSG_002_0",
     "original": "うへぇ…なんか緊張してきた。",
-    "translation": "呜哇……我开始紧张了。",
-    "stage": 0,
+    "translation": "呜哇……我都开始紧张起来了。",
+    "stage": 1,
     "context": "说话人：里中 千枝\n\n机翻辅助：\n\n呜哇……我开始紧张了。\n\n嗯……总觉得很紧张。\n\n嗯……我有点紧张了。"
   },
   {
@@ -44,7 +44,7 @@
   {
     "key": "SEL_003_2",
     "original": "手汗がとまらない",
-    "translation": "掌心汗流不止",
+    "translation": "手汗冒个不停啊",
     "stage": 1,
     "context": "机翻辅助：\n\n手汗停不下来\n\n汗流不止\n\n手汗不止"
   },
@@ -93,8 +93,8 @@
   {
     "key": "MSG_010_0",
     "original": "う、ウッス！",
-    "translation": "呜，好！",
-    "stage": 0,
+    "translation": "好、好的！",
+    "stage": 1,
     "context": "说话人：里中 千枝\n\n机翻辅助：\n\n呜，好！\n\n哇、哇！\n\n呜呜呜！"
   },
   {

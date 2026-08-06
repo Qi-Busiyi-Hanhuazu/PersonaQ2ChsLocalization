@@ -156,8 +156,8 @@
   {
     "key": "P4_HERO_TREASURE_FIND_2_0",
     "original": "宝箱を発見した。",
-    "translation": "发现了宝箱。",
-    "stage": 0,
+    "translation": "发现宝箱了。",
+    "stage": 1,
     "context": "机翻辅助：\n\n发现了宝箱。\n\n我发现了一个宝箱。"
   },
   {

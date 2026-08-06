@@ -16,8 +16,8 @@
   {
     "key": "town_okaeri_HIKARI_mes03_0",
     "original": "みんな…おかえりなさい。",
-    "translation": "大家……欢迎回来。",
-    "stage": 0,
+    "translation": "各位……欢迎回来。",
+    "stage": 1,
     "context": "机翻辅助：\n\n大家……欢迎回来。\n\n大家……你回来了。"
   },
   {
@@ -128,15 +128,15 @@
   {
     "key": "town_okaeri_YUKIKO_mes_0",
     "original": "休息も大事だよね。",
-    "translation": "休息也很重要呢。",
-    "stage": 0,
+    "translation": "休息也很重要。",
+    "stage": 1,
     "context": "机翻辅助：\n\n休息也很重要呢。\n\n休息也很重要。\n\n休息也很重要吧。"
   },
   {
     "key": "town_okaeri_RISE_mes_0",
     "original": "みんな、お疲れ様っ！",
-    "translation": "大家，辛苦了！",
-    "stage": 0,
+    "translation": "各位，辛苦了！",
+    "stage": 1,
     "context": "机翻辅助：\n\n大家，辛苦了！\n\n大家辛苦了！"
   },
   {
@@ -828,8 +828,8 @@
   {
     "key": "town_item_max_P3HERO2_me_0",
     "original": "あはは、ちょっと荷物が多すぎるね！",
-    "translation": "啊哈哈，行李有点太多了呢！",
-    "stage": 0,
+    "translation": "啊哈哈，行李有点太多了！",
+    "stage": 1,
     "context": "机翻辅助：\n\n啊哈哈，行李有点太多了呢！\n\n啊哈哈，行李有点太多了！\n\n哈哈，行李有点太多了！"
   },
   {
@@ -2242,8 +2242,8 @@
   {
     "key": "town_bg12_P3HERO_mes03_0",
     "original": "みんな、準備はいい？",
-    "translation": "大家，准备好了吗？",
-    "stage": 0,
+    "translation": "各位都准备好了吗？",
+    "stage": 1,
     "context": "机翻辅助：\n\n大家，准备好了吗？\n\n大家准备好了吗？"
   },
   {

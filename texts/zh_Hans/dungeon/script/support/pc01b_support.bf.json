@@ -2,14 +2,14 @@
   {
     "key": "HARU_FOE_FOLLOW_START_1_0",
     "original": "見つかっちゃった！ ",
-    "translation": "被发现了！ ",
-    "stage": 0,
+    "translation": "要被发现了！ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n被发现了！ \n\n找到了！"
   },
   {
     "key": "HARU_FOE_FOLLOW_START_2_0",
     "original": "追われてるよ、みんな！ ",
-    "translation": "要被追上了，大家！ ",
+    "translation": "大家小心！要被追上了！ ",
     "stage": 1,
     "context": "机翻辅助：\n\n被追上了，大家！ \n\n大家都被追捕了！ \n\n大家都在追我！"
   },
@@ -23,22 +23,22 @@
   {
     "key": "HARU_FOE_NEAR_1_0",
     "original": "しっ！　いるよ… ",
-    "translation": "嘘！有敌人…… ",
+    "translation": "嘘！这里有敌人…… ",
     "stage": 1,
     "context": "机翻辅助：\n\n嘘！在这里…… \n\n嘘！有啊……"
   },
   {
     "key": "HARU_FOE_NEAR_2_0",
     "original": "気を付けて…",
-    "translation": "小心点……",
-    "stage": 0,
+    "translation": "小心行动吧……",
+    "stage": 1,
     "context": "机翻辅助：\n\n小心点……\n\n小心……"
   },
   {
     "key": "HARU_FOE_NEAR_3_0",
     "original": "見つかりませんように… ",
-    "translation": "希望不要被发现…… ",
-    "stage": 0,
+    "translation": "不要它被发现啊…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n希望不要被发现…… \n\n希望找不到…… \n\n请不要找到……"
   },
   {
@@ -65,14 +65,14 @@
   {
     "key": "HARU_KANSI_REACTION_1_0",
     "original": "警戒しながら進も？ ",
-    "translation": "保持着警戒前进？ ",
+    "translation": "保持警戒前进吧？ ",
     "stage": 1,
     "context": "机翻辅助：\n\n一边警戒一边前进？"
   },
   {
     "key": "HARU_KANSI_REACTION_2_0",
     "original": "抜き足、差し足…だね。",
-    "translation": "蹑手蹑脚地……前进呢。",
+    "translation": "小心翼翼地前进…….对吧。",
     "stage": 1,
     "context": "机翻辅助：\n\n蹑手蹑脚……前进呢。\n\n蹑手蹑脚……是啊。\n\n跷脚、跷脚……是啊。"
   },
@@ -86,21 +86,21 @@
   {
     "key": "HARU_DENKISAKU_REACTION__0",
     "original": "カラス避けには強すぎ…かな。 ",
-    "translation": "用来驱赶乌鸦有点太强了……吧。 ",
-    "stage": 0,
+    "translation": "用来驱赶乌鸦有点太大材小用…….了吧。 ",
+    "stage": 1,
     "context": "机翻辅助：\n\n用来驱赶乌鸦有点太强了……吧。 \n\n躲避乌鸦太强了……是吗？ \n\n避开乌鸦太强了吧。"
   },
   {
     "key": "HARU_DENKISAKU_REACTION__2_0",
     "original": "どれくらいビリビリするんだろう…？ ",
-    "translation": "会有多麻呢……？ ",
+    "translation": "如果碰到会被电的很惨吧……？ ",
     "stage": 1,
     "context": "机翻辅助：\n\n会有多刺痛呢……？ \n\n会有多紧张啊……？ \n\n到底要打多少个倒数第一呢……？"
   },
   {
     "key": "HARU_DENKISAKU_REACTION__3_0",
     "original": "通るにはまず電気を止めないと… ",
-    "translation": "要通过的话首先得断掉电…… ",
+    "translation": "要通过这里的话首先需要断掉电源吧…… ",
     "stage": 1,
     "context": "机翻辅助：\n\n要通过的话得先关掉电…… \n\n要通过的话必须先关灯…… \n\n要想通就得先断电……"
   },
@@ -121,14 +121,14 @@
   {
     "key": "HARU_KYOUHU_REACTION_3_0",
     "original": "風が！？ ",
-    "translation": "风！？ ",
+    "translation": "这里有风！？ ",
     "stage": 1,
     "context": "机翻辅助：\n\n有风！？ \n\n风！？"
   },
   {
     "key": "HARU_STAIR_FIND_1_0",
     "original": "あ！　道がある！ ",
-    "translation": "啊！路出现了！ ",
+    "translation": "啊！这里有路可走！ ",
     "stage": 1,
     "context": "机翻辅助：\n\n啊！有路！ \n\n啊！有条路！"
   },
@@ -163,7 +163,7 @@
   {
     "key": "HARU_TREASURE_FIND_3_0",
     "original": "あそこにあるの、オタカラかな？ ",
-    "translation": "那边是，宝物吗？ ",
+    "translation": "那边闪闪发光的是，宝物吗？ ",
     "stage": 1,
     "context": "机翻辅助：\n\n那个是宝物吗？ \n\n那里的，是宝贝吗？ \n\n在那里，是宝物吗？"
   },
@@ -177,8 +177,8 @@
   {
     "key": "HARU_CHECK_WALL_2_0",
     "original": "この辺、調べてみない？ ",
-    "translation": "要不要调查一下这边？ ",
-    "stage": 0,
+    "translation": "要不要在附近调查一下？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n要不要调查一下这边？ \n\n这附近要不要查一下？ \n\n要不要调查一下这附近？"
   },
   {
@@ -191,15 +191,15 @@
   {
     "key": "HARU_SWITCH_FIND_1_0",
     "original": "あれ？　スイッチがあるね。",
-    "translation": "咦？有开关呢。",
-    "stage": 0,
+    "translation": "咦？这里有开关呢。",
+    "stage": 1,
     "context": "机翻辅助：\n\n咦？有开关呢。\n\n咦？有开关啊。\n\n咦？有开关。"
   },
   {
     "key": "HARU_SWITCH_FIND_2_0",
     "original": "スイッチ押してみる？ ",
-    "translation": "要按按看吗？ ",
-    "stage": 0,
+    "translation": "要按下开关试试看吗？ ",
+    "stage": 1,
     "context": "机翻辅助：\n\n要按按看吗？ \n\n试着按下开关？ \n\n按下开关试试？"
   },
   {
@@ -212,7 +212,7 @@
   {
     "key": "HARU_SHORTCUT_FIND_1_0",
     "original": "ショートカットできそうだね。",
-    "translation": "好像可以走捷径呢。",
+    "translation": "这里好像可以走捷径呢。",
     "stage": 1,
     "context": "机翻辅助：\n\n好像可以抄近路呢。\n\n好像可以剪短发呢。\n\n好像可以用快捷方式。"
   },
@@ -226,8 +226,8 @@
   {
     "key": "HARU_SHORTCUT_FIND_3_0",
     "original": "近道を見つけたかも。",
-    "translation": "好像找到了近路。",
-    "stage": 0,
+    "translation": "我们好像找到了捷径。",
+    "stage": 1,
     "context": "机翻辅助：\n\n好像找到了近路。\n\n也许找到了近道。\n\n也许找到了捷径。"
   },
   {
@@ -254,7 +254,7 @@
   {
     "key": "HARU_1PERSON_HPTP10_1_0",
     "original": "回復、頼めないかな？ ",
-    "translation": "拜托了，能恢复吗？ ",
+    "translation": "能拜托你进行恢复吗？ ",
     "stage": 1,
     "context": "机翻辅助：\n\n能不能拜托它恢复呢？ \n\n回复，拜托了吗？ \n\n能拜托你回复吗？"
   },
@@ -275,36 +275,36 @@
   {
     "key": "HARU_1PERSON_HP10_1_0",
     "original": "急いで回復を… ",
-    "translation": "快恢复…… ",
+    "translation": "快点恢复吧…… ",
     "stage": 1,
     "context": "机翻辅助：\n\n快点恢复…… \n\n赶紧恢复…… \n\n赶快恢复吧……"
   },
   {
     "key": "HARU_1PERSON_HP10_2_0",
     "original": "ちょっと、ツライ…かも… ",
-    "translation": "有点痛苦，也许……到此为止了吗……",
+    "translation": "有点难受……",
     "stage": 1,
     "context": "机翻辅助：\n\n有点，难受…… \n\n有点痛苦……也许…… \n\n有点，难受……也许……"
   },
   {
     "key": "HARU_1PERSON_HP10_3_0",
     "original": "体がフラフラする… ",
-    "translation": "身体摇摇晃晃的…… ",
-    "stage": 0,
+    "translation": "身体有点撑不住了…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n身体摇摇晃晃的…… \n\n身体摇摇晃晃……"
   },
   {
     "key": "HARU_1PERSON_TP10_1_0",
     "original": "ダメ、倒れそう… ",
-    "translation": "不行，要倒下了…… ",
-    "stage": 0,
+    "translation": "不行，感觉快要倒下了…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n不行，要倒下了…… \n\n不行，快要倒下了……"
   },
   {
     "key": "HARU_1PERSON_TP10_2_0",
     "original": "気力切れ、かな… ",
-    "translation": "是气力用尽了吗…… ",
-    "stage": 0,
+    "translation": "气力已经用尽了…… ",
+    "stage": 1,
     "context": "机翻辅助：\n\n是气力用尽了吗…… \n\n没力气了吧…… \n\n筋疲力尽，是吧……"
   },
   {
@@ -317,7 +317,7 @@
   {
     "key": "HARU_1PERSON_HP80_1_0",
     "original": "まだまだ行けるよ！ ",
-    "translation": "我还能走哦！ ",
+    "translation": "我还可以行动哦！ ",
     "stage": 1,
     "context": "机翻辅助：\n\n还可以走哦！ \n\n还能去哦！ \n\n我还能走！"
   },

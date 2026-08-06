@@ -2,8 +2,8 @@
   {
     "key": "D01_OBJECTIVE_MSG_LARGE__0",
     "original": "警察官から逃げろ",
-    "translation": "快从警察身边逃走",
-    "stage": 0,
+    "translation": "从警察身边逃走",
+    "stage": 1,
     "context": "机翻辅助：\n\n快从警察身边逃走\n\n快逃警察\n\n逃离警察"
   },
   {
@@ -282,7 +282,7 @@
   {
     "key": "D03_OBJECTIVE_MSG_LARGE__0",
     "original": "リボンのついたロボットを探せ",
-    "translation": "寻找戴有蝴蝶结的机器人",
+    "translation": "寻找系着蝴蝶结的机器人",
     "stage": 1,
     "context": "机翻辅助：\n\n寻找绑着蝴蝶结的机器人。\n\n寻找带蝴蝶结的机器人\n\n寻找带有蝴蝶结的机器人"
   },

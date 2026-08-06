@@ -37,8 +37,8 @@
   {
     "key": "explain_01_quest_02_0",
     "original": "[颜色 09]“目的地”[颜色 06]に到達しよう。",
-    "translation": "[颜色 09]前往“目的地”[颜色 06]吧。",
-    "stage": 0,
+    "translation": "前往[颜色 09]“目的地”[颜色 06]吧。",
+    "stage": 1,
     "context": "机翻辅助：\n\n[颜色 09]前往“目的地”[颜色 06]吧。\n\n[颜色 09]到达“目的地”[颜色 06]。\n\n[颜色 09]到达目的地吧。[颜色 06]"
   },
   {
@@ -324,22 +324,22 @@
   {
     "key": "explain_01_quest_20_0",
     "original": "ティラノの生態調査のために\n捕獲を行おう",
-    "translation": "为了调查暴龙的生态\n进行捕获吧",
-    "stage": 0,
+    "translation": "为了调查暴龙的生态\n来进行捕获吧",
+    "stage": 1,
     "context": "机翻辅助：\n\n为了调查暴龙的生态\n进行捕获吧\n\n为了调查提拉诺的生态\n进行捕获吧\n\n为了考察地拉诺的生态环境，进行捕获"
   },
   {
     "key": "explain_01_quest_21_0",
     "original": "食べられそうな食材を\n探してこよう",
-    "translation": "\n去找能吃的食材吧",
-    "stage": 0,
+    "translation": "去找能吃的\n食材吧",
+    "stage": 1,
     "context": "机翻辅助：\n\n\n去找能吃的食材吧\n\n\n寻找能吃的食材\n\n寻找能吃的食材吧"
   },
   {
     "key": "explain_02_quest_21_0",
     "original": "食べられそうな食材を\n探してこよう",
-    "translation": "\n去找能吃的食材吧",
-    "stage": 0,
+    "translation": "去找能吃的\n食材吧",
+    "stage": 1,
     "context": "机翻辅助：\n\n\n去找能吃的食材吧\n\n\n寻找能吃的食材\n\n寻找能吃的食材吧"
   },
   {
@@ -394,8 +394,8 @@
   {
     "key": "explain_01_quest_25_0",
     "original": "ロマンあふれる\nシャドウを討伐してこよう！",
-    "translation": "\n去打倒充满浪漫的暗影吧！",
-    "stage": 0,
+    "translation": "去打倒\n充满浪漫的暗影吧！",
+    "stage": 1,
     "context": "机翻辅助：\n\n\n去打倒充满浪漫的暗影吧！\n\n来讨伐充满浪漫的暗影吧！\n\n\n讨伐充满浪漫的暗影吧！"
   },
   {
@@ -436,8 +436,8 @@
   {
     "key": "explain_01_quest_28_0",
     "original": "壊れたロボットを\n修理しよう",
-    "translation": "\n去修理坏掉的机器人吧",
-    "stage": 0,
+    "translation": "去修理\n坏掉的机器人吧",
+    "stage": 1,
     "context": "机翻辅助：\n\n\n去修理坏掉的机器人吧\n\n修理坏了的机器人"
   },
   {
@@ -464,8 +464,8 @@
   {
     "key": "explain_01_quest_30_0",
     "original": "変化した扉ギミックを\n攻略しよう",
-    "translation": "\n去攻略变化后的门的机关吧",
-    "stage": 0,
+    "translation": "去攻略\n变化后的门扉机关吧",
+    "stage": 1,
     "context": "机翻辅助：\n\n\n去攻略变化后的门的机关吧\n\n\n攻略变化的门技术\n\n攻略变化的门gimic"
   },
   {
@@ -527,8 +527,8 @@
   {
     "key": "explain_01_quest_35_0",
     "original": "イースターエッグ探しを\nしよう",
-    "translation": "\n去寻找复活节彩蛋吧",
-    "stage": 0,
+    "translation": "去寻找\n复活节彩蛋吧",
+    "stage": 1,
     "context": "机翻辅助：\n\n\n去寻找复活节彩蛋吧\n\n\n寻找复活节彩蛋\n\n寻找复活节蛋"
   },
   {
@@ -639,8 +639,8 @@
   {
     "key": "explain_01_quest_43_0",
     "original": "迷宮の奥へ進め",
-    "translation": "前往迷宫深处吧",
-    "stage": 0,
+    "translation": "前往迷宫深处",
+    "stage": 1,
     "context": "机翻辅助：\n\n前往迷宫深处吧\n\n向迷宫深处前进\n\n进入迷宫的深处"
   },
   {

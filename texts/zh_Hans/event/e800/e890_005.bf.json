@@ -9,15 +9,15 @@
   {
     "key": "SEL_001_0",
     "original": "手ごわかった",
-    "translation": "好难打",
-    "stage": 0,
+    "translation": "真棘手",
+    "stage": 1,
     "context": "机翻辅助：\n\n好难打\n\n明白了\n\n麻烦了"
   },
   {
     "key": "SEL_001_1",
     "original": "楽勝だった",
-    "translation": "轻松获胜",
-    "stage": 0,
+    "translation": "轻轻松松",
+    "stage": 1,
     "context": "机翻辅助：\n\n轻松获胜\n\n轻松取胜\n\n小菜一碟"
   },
   {
@@ -44,8 +44,8 @@
   {
     "key": "MSG_004_1",
     "original": "…おや？",
-    "translation": "……哎呀？",
-    "stage": 0,
+    "translation": "哦……？",
+    "stage": 1,
     "context": "说话人：テオドア\n\n机翻辅助：\n\n……哎呀？\n\n啊？\n\n……咦？"
   },
   {
@@ -72,8 +72,8 @@
   {
     "key": "MSG_008_0",
     "original": "思った通りでございます。",
-    "translation": "正如我所料。",
-    "stage": 0,
+    "translation": "正是意料之中。",
+    "stage": 1,
     "context": "说话人：エリザベス\n\n机翻辅助：\n\n正如我所料。\n\n和我想的一样。\n\n正如我所想的那样。"
   },
   {
@@ -93,8 +93,8 @@
   {
     "key": "MSG_009_0",
     "original": "なるほど、そういうことでしたか。",
-    "translation": "原来如此，是这么回事啊。",
-    "stage": 0,
+    "translation": "原来如此，是这么一回事啊。",
+    "stage": 1,
     "context": "说话人：テオドア\n\n机翻辅助：\n\n原来如此，是这么回事啊。\n\n原来如此，原来是这样啊。\n\n原来如此，是这样啊。"
   },
   {
@@ -107,15 +107,15 @@
   {
     "key": "MSG_010_0",
     "original": "えっと、このフィルムって、ジョーカーの\n『ワイルド』の力に関係あるんだよね。",
-    "translation": "呃，这卷胶片，和JOKER的\n“不羁”之力有关对吧？",
-    "stage": 0,
+    "translation": "呃，这胶片，和JOKER的\n“不羁”的力量有关对吧？",
+    "stage": 1,
     "context": "说话人：奥村 春\n\n机翻辅助：\n\n呃，这卷胶片，和JOKER的\n“不羁”之力有关对吧？\n\n嗯，这个胶片，跟JOKER的\n“不羁”的力量有关系吧。\n\n嗯，这部电影和JOKER的“不羁”的力量有关系吧。"
   },
   {
     "key": "MSG_010_1_0",
     "original": "ジョーカー、どう？\n何か変わった？",
-    "translation": "JOKER，怎么样？\n有什么改变吗？",
-    "stage": 0,
+    "translation": "JOKER，怎么样？\n有什么变化吗？",
+    "stage": 1,
     "context": "说话人：奥村 春\n\n机翻辅助：\n\nJOKER，怎么样？\n有什么改变吗？\n\nJOKER、怎么样？\n有什么变化吗？\n\nJOKER，怎么样？\n有什么变化吗？"
   },
   {
@@ -429,7 +429,7 @@
   {
     "key": "MSG_040_0",
     "original": "どこ向かってるんだ、テオドア…",
-    "translation": "西奥多，你看哪儿呢……",
+    "translation": "西奥多，你到底想做什么啊……",
     "stage": 1,
     "context": "说话人：佐倉 双葉\n\n机翻辅助：\n\n西奥，你到底在往哪里走啊……\n\n你要去哪里啊，西奥多……\n\n你去哪里了，西奥多……\n\n评论：\n\n不确定"
   },
