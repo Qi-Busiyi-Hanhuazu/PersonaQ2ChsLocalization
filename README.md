@@ -47,3 +47,10 @@
 - [Persona-Modding](https://github.com/lraty-li/Persona-Modding)，作者：[lraty-li](https://https://github.com/lraty-li)
 - [Project_CTR](https://github.com/3DSGuy/Project_CTR)，作者：[3DSGuy](https://github.com/3DSGuy)
 - [CRI File System Tools](https://www.welovepes.com/2020/10/crifilesystemtools.html)
+
+## 免责声明
+本项目仅包含汉化游戏所必须的最小资源，未包含完整的游戏 ROM。
+
+谢绝以下人士或团队转载：
+
+- 围炉Go
