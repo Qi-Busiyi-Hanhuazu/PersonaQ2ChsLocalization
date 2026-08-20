@@ -43,6 +43,8 @@ python scripts\remove_duplicate_files.py
 python scripts\convert_messages_to_json.py
 python scripts\import_csv_to_json.py
 python scripts\generate_char_table.py
+python scripts\generate_pinyin_mapping.py
+python scripts\build_pinyin_db.py
 python scripts\convert_json_to_messages.py
 python scripts\copy_duplicate_files.py
 python scripts\copy_images.py

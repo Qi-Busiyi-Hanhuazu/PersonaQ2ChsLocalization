@@ -1,3 +1,4 @@
+from build_pinyin_ime import install_pinyin_ime
 from helper import CODE_BIN_PATH, CODE_BIN_REPLACED_PATH
 
 ARM9_REPLACEMENT = {
@@ -30,6 +31,8 @@ def replace_code_bin(input_path: str, output_path: str):
   for offset, replacement in ARM9_REPLACEMENT.items():
     raw = bytes.fromhex(replacement)
     data[offset : offset + len(raw)] = raw
+
+  install_pinyin_ime(data)
 
   with open(output_path, "wb") as writer:
     writer.write(data)

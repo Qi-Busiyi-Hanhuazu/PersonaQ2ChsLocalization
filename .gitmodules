@@ -4,3 +4,9 @@
 [submodule "bin/3dstools"]
 	path = bin/3dstools
 	url = https://github.com/Xzonn/3dstools.git
+[submodule "pinyin_ime/sources/rime-luna-pinyin"]
+	path = pinyin_ime/sources/rime-luna-pinyin
+	url = https://github.com/rime/rime-luna-pinyin.git
+[submodule "pinyin_ime/sources/rime-essay"]
+	path = pinyin_ime/sources/rime-essay
+	url = https://github.com/rime/rime-essay.git
