@@ -1,0 +1,10 @@
+{
+  "source_sha256": "41f97785ac55c7d1ce8ab2166a09b006a4f84ea06a70b0a3a4b8fce2b543b596",
+  "payload_sha256": "64b797e2c18deee3aa450e696a013601ca67f3e37c9fcc56831621ea02a54b24",
+  "payload_va": 5428640,
+  "symbols": {
+    "pinyin_count_hook": 5428952,
+    "pinyin_candidate_hook": 5429000,
+    "pinyin_dictionary_path_hook": 5428640
+  }
+}
