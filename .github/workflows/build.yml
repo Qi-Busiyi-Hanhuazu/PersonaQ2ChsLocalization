@@ -6,16 +6,16 @@ on:
       - master
       - test
     paths-ignore:
-      - '*.md'
-      - 'assets/**'
-      - '**/.gitignore'
+      - "*.md"
+      - "assets/**"
+      - "**/.gitignore"
   pull_request:
     branches:
       - master
     paths-ignore:
-      - '*.md'
-      - '**/.gitignore'
-      - 'images/**/*'
+      - "*.md"
+      - "**/.gitignore"
+      - "images/**/*"
   workflow_dispatch:
 
 concurrency:
@@ -31,7 +31,7 @@ jobs:
           submodules: recursive
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
       - name: Verify prebuilt pinyin cache
         run: |
           python scripts/build_pinyin_ime.py --check-prebuilt
@@ -71,6 +71,7 @@ jobs:
             out/char_table.json
       - name: GitHub Release
         uses: ncipollo/release-action@v1
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         with:
           allowUpdates: true
           artifacts: "out/patch-3ds.zip,out/char_table.json"
